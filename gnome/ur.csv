@@ -1,0 +1,256 @@
+Load Options,25,اختیارات لوڈ کریں,26,file-roller,po/ur.po
+C_reate,30,_بنائیں,31,file-roller,po/ur.po
+Create Archive,34,محفوظہ بنائیں,35,file-roller,po/ur.po
+Location,39,مقام,40,file-roller,po/ur.po
+Location:,45,مقام:,46,file-roller,po/ur.po
+_Archive:,49,_محفوظہ:,50,file-roller,po/ur.po
+"<span weight=\""bold\"" size=\""larger\"">Password required</span>",53,"<span weight=\""bold\"" size=\""larger\"">پاس ورڈ مطلوب ہے</span>",54,file-roller,po/ur.po
+_Password:,59,_پاس ورڈ:,60,file-roller,po/ur.po
+Delete,63,حذف,64,file-roller,po/ur.po
+_All files,68,_تمام فائلیں,69,file-roller,po/ur.po
+_Files:,73,_فائلیں:,74,file-roller,po/ur.po
+_Selected files,78,_منتخب کردہ فائلیں,79,file-roller,po/ur.po
+example: *.txt; *.doc,83,مثال: *.txt; *.doc,84,file-roller,po/ur.po
+A_vailable application:,87,_دستیاب اطلاقیے:,88,file-roller,po/ur.po
+Open Files,91,فائلیں کھولیں,92,file-roller,po/ur.po
+R_ecent applications:,95,_حالیہ اطلاقیے:,96,file-roller,po/ur.po
+_Application:,99,_اطلاقیہ:,100,file-roller,po/ur.po
+"<i><b>Note:</b> the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.</i>",103,<i><b>نوٹ:</b> پاس ورڈ حالیہ محفوظہ میں شامل کی گئی فائل کو انکرپٹ کرنے اور حالیہ محفوظہ سے فائلیں نکالنے پر انہیں ڈکرپٹ کرنے کے لیے ہے. جب محفوظہ بند ہوگی تو پاس ورڈ حذف کردیا جائے گا.</i>,104,file-roller,po/ur.po
+Password,107,پاس ورڈ,108,file-roller,po/ur.po
+S_elect the files you want to update:,111,فائل _منتخب کریں جس کی آپ تجدید کرنا چاہتے ہیں:,112,file-roller,po/ur.po
+"The file has been modified with an external application. If you don't update the version in the archive, all of your changes will be lost.",118,فائل میں کسی خارجی  اطلاقیے سے تبدیلی کی گئی ہے، اگر آپ محفوظہ میں موجود فائل کے ورژن کو اپڈیٹ نہیں کریں گے تو آپ کی تمام تبدیلیاں ضائع ہوجائیں گی.,120,file-roller,po/ur.po
+"The file has been modified with an external application. If you don't update the version in the archive, all of your changes will be lost.",118,%d فائلوں میں کسی خارجی  اطلاقیے سے تبدیلی کی گئی ہے، اگر آپ محفوظہ میں موجود فائلوں کے ورژن کو اپڈیٹ نہیں کریں گے تو آپ کی تمام تبدیلیاں ضائع ہوجائیں گی.,121,file-roller,po/ur.po
+_Update,124,_تجدید,125,file-roller,po/ur.po
+Archive Manager,132,محفوظہ منیجر,133,file-roller,po/ur.po
+Create and modify an archive,136,محفوظہ بنائیں اور تبدیل کریں,137,file-roller,po/ur.po
+Extract Here,140,یہیں نکالیں,141,file-roller,po/ur.po
+Extract the selected archive in the current position,144,منتخب کردہ محفوظہ اسی مقام پر نکالیں,145,file-roller,po/ur.po
+Extract To...,148,نکالیں تا...,149,file-roller,po/ur.po
+Extract the selected archive,152,منتخب کردہ محفوظہ نکالیں,153,file-roller,po/ur.po
+Create Archive...,156,محفوظہ بنائیں...,157,file-roller,po/ur.po
+Create an archive with the selected objects,160,منتخب عناصر سے محفوظہ بنائیں,161,file-roller,po/ur.po
+Could not create the archive,172,محفوظہ نہیں بنائی جاسکتی,173,file-roller,po/ur.po
+You have to specify an archive name.,178,آپ کو محفوظہ کا نام متعین کرنا ہوگا.,179,file-roller,po/ur.po
+You don't have permission to create an archive in this folder,182,آپ کے پاس اس فولڈر میں محفوظہ بنانے کا اجازہ نہیں ہے,183,file-roller,po/ur.po
+Archive type not supported.,189,محفوظہ کی قسم کی معاونت نہیں ہے.,190,file-roller,po/ur.po
+The archive already exists.  Do you want to overwrite it?,193,محفوظہ پہلے ہی موجود ہے. کیا آپ اس کے اوپر لکھنا چاہتے ہیں؟,194,file-roller,po/ur.po
+Overwrite,197,اوپر لکھیں,198,file-roller,po/ur.po
+Could not delete the old archive.,201,پرانی محفوظہ حذف نہیں کی جاسکتی,202,file-roller,po/ur.po
+New,205,نیا,206,file-roller,po/ur.po
+All archives,212,تمام محفوظات,213,file-roller,po/ur.po
+All files,218,تمام فائلیں,219,file-roller,po/ur.po
+Archive type:,223,محفوظہ قسم:,224,file-roller,po/ur.po
+Automatic,228,خودکار,229,file-roller,po/ur.po
+Open,233,کھولیں,234,file-roller,po/ur.po
+Save,237,محفوظ کریں,238,file-roller,po/ur.po
+Last Output,242,آخری ما حاصل,243,file-roller,po/ur.po
+"File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",246,فائل رولر ایک مفت سوفٹ ویئر ہے، آپ اسے فری سوفٹ ویئر فاونڈیشن کی طرف سے جاری کردہ گنو جنرل پبلک لائسنس ورژن 2 یا (اپنی مرضی سے) بعد کے کسی ورژن کی شرائط کے تحت تقسیم / یا تبدیل کرسکتے ہیں.,247,file-roller,po/ur.po
+"File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",250,فائل رولر اس امید کے ساتھ تقسیم کیا جاتا ہے کہ یہ مفید اور کارآمد ثابت ہوگا تاہم کسی بھی وارنٹی کے بغیر؛ تجارت یا کسی مخصوص کام کے  قابل ہونے کی ایسی وارنٹی کے بھی بغیر جس کی طرف یہ دلالت کرتا ہو۔ مزید تفصیلات کے لیے گنو کا عمومی عوامی اجازہ GNU GPL دیکھیں۔,251,file-roller,po/ur.po
+"You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA",254,"فائل رولر کے ساتھ آب کو جنرل پبلک لائسنس کی ایک کاپی ضرور ملی ہوگی، اگر نہیں ملی تو اس پتہ پر لکھیے: Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA",255,file-roller,po/ur.po
+"Copyright © 2001-2007 Free Software Foundation, Inc.",258,کاپی رائٹ © 2001-2007 فری سوفٹ ویئر فاؤنڈیشن، Inc.,259,file-roller,po/ur.po
+An archive manager for GNOME.,262,محفوظہ منیجر برائے گنوم,263,file-roller,po/ur.po
+Could not add the files to the archive,277,محفوظہ میں فائلیں شامل نہیں کی جاسکتیں,278,file-roller,po/ur.po
+"You don't have the right permissions to read files from folder \""%s\""",285,"آپ کے پاس فولڈر \""%s\"" سے فائلیں پڑھنے کا اجازہ نہیں ہے",286,file-roller,po/ur.po
+Add Files,290,فائلیں شامل کریں,291,file-roller,po/ur.po
+_Add only if newer,295,اگر نئی ہوں تو _شامل کریں,296,file-roller,po/ur.po
+Add a Folder,299,فولڈر شامل کریں,300,file-roller,po/ur.po
+_Include subfolders,303,_بشمول ذیلی فولڈرز,304,file-roller,po/ur.po
+Exclude folders that are symbolic lin_ks,307,وہ فولڈر مستثنی کریں جو رمزی _روابط ہیں,308,file-roller,po/ur.po
+example: *.o; *.bak,312,مثال: *.o; *.bak,313,file-roller,po/ur.po
+_Include files:,316,_شامل فائلیں:,317,file-roller,po/ur.po
+E_xclude files:,320,مست_ثنی فائلیں:,321,file-roller,po/ur.po
+_Load Options,324,اختیارات _لوڈ کریں,325,file-roller,po/ur.po
+Sa_ve Options,328,اختیارات _محفوظ کریں,329,file-roller,po/ur.po
+Save Options,332,اختیارات محفوظ کریں,333,file-roller,po/ur.po
+Options Name:,336,اختیارات نام:,337,file-roller,po/ur.po
+Enter the password for the archive '%s'.,341,محفوظہ '%s' کے لیے پاس ورڈ لکھیں.,342,file-roller,po/ur.po
+"The name \""%s\"" is not valid because it cannot contain the characters: %s\n\n%s",347,"نام \""%s\"" موزوں نہیں ہے کیونکہ اس میں یہ رموز نہیں ہونے چاہئیں: %s\n\n%s",351,file-roller,po/ur.po
+Please use a different name.,362,برائے مہربانی مختلف نام استعمال کریں.,363,file-roller,po/ur.po
+You don't have the right permissions to create an archive in the destination folder.,366,آپ کے پاس سمت فولڈر میں محفوظہ بنانے کا درست اجازہ نہیں ہے.,367,file-roller,po/ur.po
+"Destination folder \""%s\"" does not exist.\n\nDo you want to create it?",373,"سمت فولڈر \""%s\"" موجود نہیں ہے.\n\nکیا آپ اسے بنانا چاہتے ہیں؟",377,file-roller,po/ur.po
+Create _Folder,385,_فولڈر بنائیں,386,file-roller,po/ur.po
+Could not create the destination folder: %s.,392,سمت فولڈر %s نہیں بنایا جاسکتا.,393,file-roller,po/ur.po
+Archive not created,396,محفوظہ نہیں بنائی گئی,397,file-roller,po/ur.po
+The archive is already present.  Do you want to overwrite it?,400,محفوظہ پہلے ہی موجود ہے. کیا آپ اس کے اوپر لکھنا چاہتے ہیں؟,401,file-roller,po/ur.po
+_Overwrite,404,ا_وپر لکھیں,405,file-roller,po/ur.po
+Extraction not performed,413,نکالنا عمل میں نہیں لایا گیا,414,file-roller,po/ur.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",419,"آپ کے پاس محفوظات کو فولڈر \""%s\"" میں نکالنے کے درست اجازے نہیں ہیں",420,file-roller,po/ur.po
+Files,423,فائلیں,424,file-roller,po/ur.po
+Actions,427,عمل,428,file-roller,po/ur.po
+Re-crea_te folders,431,فولڈرز _پھر بنائیں,432,file-roller,po/ur.po
+Over_write existing files,435,سابقہ فائلوں پر _لکھیں,436,file-roller,po/ur.po
+Do not e_xtract older files,439,پرانی فائلیں مت _نکالیں,440,file-roller,po/ur.po
+_Open destination folder after extraction,443,نکالنے کے بعد سمت فولڈر _کھولیں,444,file-roller,po/ur.po
+Extract,448,نکالیں,449,file-roller,po/ur.po
+Path:,452,پاتھ:,453,file-roller,po/ur.po
+Name:,456,نام:,457,file-roller,po/ur.po
+%s Properties,461,%s خصوصیات,462,file-roller,po/ur.po
+Modified on:,465,تبدیل شدہ:,466,file-roller,po/ur.po
+Archive size:,469,محفوظہ حجم:,470,file-roller,po/ur.po
+Content size:,473,مواد حجم:,474,file-roller,po/ur.po
+Compression ratio:,477,دباؤ کا ریشو:,478,file-roller,po/ur.po
+Number of files:,481,فائلوں کی تعداد:,482,file-roller,po/ur.po
+"Update the file \""%s\"" in the archive \""%s\""?",486,"فائل \""%s\"" کو محفوظہ \""%s\"" میں تجدید کریں؟",487,file-roller,po/ur.po
+"Update the files in the archive \""%s\""?",491,"محفوظہ \""%s\"" میں فائلوں کی تجدید کریں؟",492,file-roller,po/ur.po
+Unknown type,495,نامعلوم قسم,496,file-roller,po/ur.po
+Symbolic link,499,رمزی ربط,500,file-roller,po/ur.po
+You don't have the right permissions.,503,آپ کے پاس درست اجازہ نہیں ہے.,504,file-roller,po/ur.po
+You can't add an archive to itself.,507,آپ محفوظہ کو اپنے آپ میں شامل نہیں کرسکتے.,508,file-roller,po/ur.po
+Adding file: ,511,فائلیں شامل کریں:,512,file-roller,po/ur.po
+Removing file: ,515,فائل حذف کی جارہی ہے:,516,file-roller,po/ur.po
+Deleting files from archive,520,محفوظہ سے فائلیں حذف کی جارہی ہیں,521,file-roller,po/ur.po
+Extracting file: ,524,فائل نکالی جارہی ہے:,525,file-roller,po/ur.po
+Recompressing archive,528,محفوظہ پھر دبائی جارہی ہے,529,file-roller,po/ur.po
+Decompressing archive,532,محفوظہ پھر نکالی جارہی ہے,533,file-roller,po/ur.po
+_Add,537,_شامل کریں,538,file-roller,po/ur.po
+_Extract,541,_نکالیں,542,file-roller,po/ur.po
+_View File,545,فائل _دیکھیں,546,file-roller,po/ur.po
+%d object (%s),550,%d عنصر (%s),552,file-roller,po/ur.po
+%d object (%s),550,%d عناصر (%s),553,file-roller,po/ur.po
+%d object selected (%s),557,%d عنصر منتخب کردہ (%s),559,file-roller,po/ur.po
+%d object selected (%s),557,%d عناصر منتخب کردہ (%s),560,file-roller,po/ur.po
+Folder,563,فولڈر,564,file-roller,po/ur.po
+[read only],567,[صرف پڑھنے کے لیے],568,file-roller,po/ur.po
+Creating archive,572,محفوظہ بنائی جارہی ہے,573,file-roller,po/ur.po
+Loading archive,576,محفوظہ لوڈ کی جارہی ہے,577,file-roller,po/ur.po
+Reading archive,580,محفوظہ پڑھی جارہی ہے,581,file-roller,po/ur.po
+Testing archive,584,محفوظہ ٹیسٹ کی جارہی ہے,585,file-roller,po/ur.po
+Getting the file list,588,فائل فہرست حاصل کی جارہی ہے,589,file-roller,po/ur.po
+Copying the file list,593,فائل فہرست کاپی کی جارہی ہے,594,file-roller,po/ur.po
+Adding files to archive,597,محفوظہ میں فائلیں شامل کی جارہی ہیں,598,file-roller,po/ur.po
+Extracting files from archive,601,محفوظہ سے فائلیں نکالی جارہی ہیں,602,file-roller,po/ur.po
+Saving archive,605,محفوظہ محفوظ کی جارہی ہے,606,file-roller,po/ur.po
+Archive:,609,محفوظہ:,610,file-roller,po/ur.po
+wait please...,613,انتظار فرمائیں...,614,file-roller,po/ur.po
+"Could not display the folder \""%s\""",618,"فولڈر \""%s\"" نہیں دکھایا جاسکتا",619,file-roller,po/ur.po
+An error occurred while extracting files.,622,فائلیں نکالتے وقت غلطی.,623,file-roller,po/ur.po
+"Could not open \""%s\""",627,"\""%s\"" نہیں کھولی جاسکتی",628,file-roller,po/ur.po
+An error occurred while loading the archive.,631,محفوظہ لوڈ کرنے کے دوران غلطی.,632,file-roller,po/ur.po
+An error occurred while deleting files from the archive.,635,محفوظہ سے فائلیں حذف کرنے کے دوران غلطی.,636,file-roller,po/ur.po
+An error occurred while adding files to the archive.,639,محفوظہ میں فائلیں شامل کرنے کے دوران غلطی.,640,file-roller,po/ur.po
+An error occurred while testing archive.,643,محفوظہ کو ٹیسٹ کرنے کے دوران غلطی.,644,file-roller,po/ur.po
+Command not found.,647,کمانڈ نہیں پائی گئی.,648,file-roller,po/ur.po
+Command exited abnormally.,651,کمانڈ غیر متوقع طور پر برخاست ہوگئی.,652,file-roller,po/ur.po
+Test Result,655,ٹیسٹ کا نتیجہ,656,file-roller,po/ur.po
+Could not perform the operation,660,عمل ادا نہیں کیا جاسکتا,661,file-roller,po/ur.po
+Do you want to add this file to the current archive or open it as a new archive?,664,کیا آپ یہ فائل حالیہ محفوظہ میں شامل کرنا چاہتے ہیں یا اسے بطور نیا محفوظہ کھولنا چاہتے ہیں؟,665,file-roller,po/ur.po
+Do you want to create a new archive with these files?,668,کیا آپ ان فائلوں سے محفوظہ بنانا چاہتے ہیں؟,669,file-roller,po/ur.po
+Create _Archive,672,_محفوظہ بنائیں,673,file-roller,po/ur.po
+Folders,677,فولڈرز,678,file-roller,po/ur.po
+Size,681,حجم,682,file-roller,po/ur.po
+Type,685,قسم,686,file-roller,po/ur.po
+Date Modified,689,تاریخِ تبدیلی,690,file-roller,po/ur.po
+Name,693,نام,694,file-roller,po/ur.po
+Go to the previous visited location,697,سابقہ دیکھے گئے مقام پر جائیں,698,file-roller,po/ur.po
+Go to the next visited location,701,اگلے دیکھے گئے مقام پر جائیں,702,file-roller,po/ur.po
+Go up one level,705,ایک درجہ اوپر جائیں,706,file-roller,po/ur.po
+Go to the home location,709,مرکزی مقام پر جائیں,710,file-roller,po/ur.po
+Find:,713,تلاش:,714,file-roller,po/ur.po
+Close the folders pane,717,بغلی پٹی بند کریں,718,file-roller,po/ur.po
+Open archive,724,محفوظہ کھولیں,725,file-roller,po/ur.po
+Open a recently used archive,728,حالیہ استعمال شدہ محفوظہ کھولیں,729,file-roller,po/ur.po
+"Could not save the archive \""%s\""",733,"محفوظہ \""%s\"" محفوظ نہیں کی جاسکتی",734,file-roller,po/ur.po
+The new name is void.,737,نیا نام خالی ہے.,738,file-roller,po/ur.po
+The new name is equal to the old one.,741,نیا نام پرانے سے مشابہ ہے.,742,file-roller,po/ur.po
+"A folder named \""%s\"" already exists.\n\n%s",746,"فولڈر بنام \""%s\"" پہلے ہی موجود ہے.\n\n%s",750,file-roller,po/ur.po
+"A file named \""%s\"" already exists.\n\n%s",757,"فائل بنام \""%s\"" پہلے ہی موجود ہے.\n\n%s",761,file-roller,po/ur.po
+Rename,767,نام بدلیں,768,file-roller,po/ur.po
+New folder name,771,فولڈر کا نیا نام,772,file-roller,po/ur.po
+New file name,775,فائل کا نیا نام,776,file-roller,po/ur.po
+_Rename,779,نام _بدلیں,780,file-roller,po/ur.po
+Could not rename the folder,784,فولڈر کا نام نہیں بدلا جاسکتا,785,file-roller,po/ur.po
+Could not rename the file,789,فائل کا نام نہیں بدلا جاسکتا,790,file-roller,po/ur.po
+Paste Selection,793,انتخاب پیسٹ کریں,794,file-roller,po/ur.po
+Destination folder,797,سمت فولڈر,798,file-roller,po/ur.po
+Add files to an archive,801,محفوظہ میں فائلیں شامل کریں,802,file-roller,po/ur.po
+Extract archive,805,محفوظہ نکالیں (کھولی),806,file-roller,po/ur.po
+Command _Line Output,817,کمانڈ _لائن ما حاصل,818,file-roller,po/ur.po
+Could not display help,821,ہدایات نہیں دکھائی جاسکتی,822,file-roller,po/ur.po
+Self-extracting zip (.exe),841,خوکار کھلنے والا zip محفوظہ (exe.),842,file-roller,po/ur.po
+Tar uncompressed (.tar),857,Tar نکالی ہوئی (.tar),858,file-roller,po/ur.po
+Tar compressed with bzip (.tar.bz),861,Tar دبا ہوا بمع bzip (.tar.bz),862,file-roller,po/ur.po
+Tar compressed with bzip2 (.tar.bz2),865,Tar دبا ہوا بمع bzip2 (.tar.bz2),866,file-roller,po/ur.po
+Tar compressed with gzip (.tar.gz),869,Tar دبا ہوا بمع gzip (.tar.gz),870,file-roller,po/ur.po
+Tar compressed with lzma (.tar.lzma),873,Tar دبا ہوا بمع lzma (.tar.lzma),874,file-roller,po/ur.po
+Tar compressed with lzop (.tar.lzo),877,Tar دبا ہوا بمع lzop (.tar.lzo),878,file-roller,po/ur.po
+Tar compressed with compress (.tar.Z),881,Tar دبا ہوا بمع دباؤ (.tar.Z),882,file-roller,po/ur.po
+Add files to the specified archive and quit the program,901,معین کردہ محفوظہ میں فائلیں شامل کرکے پروگرام بند کریں,902,file-roller,po/ur.po
+ARCHIVE,905,محفوظہ,906,file-roller,po/ur.po
+Add files asking the name of the archive and quit the program,909,محفوظہ کا نام پوچھتے ہوئے فائلیں شامل کریں اور پروگرام برخاست کریں,910,file-roller,po/ur.po
+Extract archives to the specified folder and quit the program,913,محفوظہ متعین کردہ فولڈر میں نکالیں اور پروگرام برخاست کریں,914,file-roller,po/ur.po
+FOLDER,918,فولڈر,919,file-roller,po/ur.po
+Extract archives asking the destination folder and quit the program,922,سمت فولڈر کا پوچھتے ہوئے محفوظہ نکالیں اور پروگرام برخاست کریں,923,file-roller,po/ur.po
+Extract archives using the archive name as destination folder and quit the program,926,محفوظہ کا نام بطور سمت فولڈر استعمال کرتے ہوئے محفوظہ نکالیں اور پروگرام برخاست کریں,927,file-roller,po/ur.po
+Default folder to use for the '--add' and '--extract' commands,930,طے شدہ فولڈر برائے '--add' اور '--extract' کمانڈز کے استعمال کے لیے,931,file-roller,po/ur.po
+Create destination folder without asking confirmation,934,تصدیق کا پوچھے بغیر سمت فولڈر بنائیں,935,file-roller,po/ur.po
+- Create and modify an archive,938,- محفوظہ بنائیں اور مدون کریں,939,file-roller,po/ur.po
+File Roller,942,فائل رولر,943,file-roller,po/ur.po
+_Archive,946,_محفوظہ,947,file-roller,po/ur.po
+_Edit,950,_تدوین,951,file-roller,po/ur.po
+_View,954,_منظر,955,file-roller,po/ur.po
+_Help,958,_ہدایات,959,file-roller,po/ur.po
+_Arrange Files,962,فائلیں _مرتب کریں,963,file-roller,po/ur.po
+Open _Recent,966,_حالیہ کھولیں,967,file-roller,po/ur.po
+Information about the program,970,پروگرام کے بارے میں معلومات,971,file-roller,po/ur.po
+_Add Files...,974,فائلیں _شامل کریں...,975,file-roller,po/ur.po
+Add files to the archive,979,محفوظہ میں فائلیں شامل کریں,980,file-roller,po/ur.po
+Add a _Folder...,983,_فولڈر شامل کریں...,984,file-roller,po/ur.po
+Add a folder to the archive,988,محفوظہ میں فولڈر شامل کریں,989,file-roller,po/ur.po
+Add Folder,992,فولڈر شامل کریں,993,file-roller,po/ur.po
+Close the current archive,996,حالیہ محفوظہ بند کریں,997,file-roller,po/ur.po
+Contents,1000,ہدایات کے موضوعات,1001,file-roller,po/ur.po
+Display the File Roller Manual,1004,فائل رولر کی ہدایات کھولیں,1005,file-roller,po/ur.po
+Copy the selection,1009,انتخاب کاپی کریں,1010,file-roller,po/ur.po
+Cut the selection,1014,انتخاب کٹ کریں,1015,file-roller,po/ur.po
+Paste the clipboard,1019,کلپ بورڈ پیسٹ کریں,1020,file-roller,po/ur.po
+_Rename...,1024,_نام بدلیں...,1025,file-roller,po/ur.po
+Rename the selection,1029,انتخاب کا نام بدلیں,1030,file-roller,po/ur.po
+Delete the selection from the archive,1034,انتخاب محفوظہ سے حذف کریں,1035,file-roller,po/ur.po
+Dese_lect All,1038,_نا منتخب تمام,1039,file-roller,po/ur.po
+Deselect all files,1042,تمام فائلیں نا منتخب کریں,1043,file-roller,po/ur.po
+_Extract...,1047,_نکالیں...,1048,file-roller,po/ur.po
+Extract files from the archive,1053,محفوظہ سے فائلیں نکالیں,1054,file-roller,po/ur.po
+_Last Output,1057,_آخری ما حاصل,1058,file-roller,po/ur.po
+View the output produced by the last executed command,1061,آخری چلائی گئی کمانڈ کا ما حاصل دیکھیں,1062,file-roller,po/ur.po
+Create a new archive,1065,نیا محفوظہ بنائیں,1066,file-roller,po/ur.po
+_Open With...,1069,_کھولیں بذریعہ...,1070,file-roller,po/ur.po
+Open selected files with an application,1073,منتخب فائلیں کسی اطلاقیہ سے کھولیں,1074,file-roller,po/ur.po
+Pass_word...,1077,_پاس ورڈ...,1078,file-roller,po/ur.po
+Specify a password for this archive,1081,اس محفوظہ کے لیے پاس ورڈ متعین کریں,1082,file-roller,po/ur.po
+Show archive properties,1085,محفوظہ کی خصوصیات دیکھیں,1086,file-roller,po/ur.po
+Reload current archive,1089,حالیہ محفوظہ پھر لوڈ کریں,1090,file-roller,po/ur.po
+Save the current archive with a different name,1093,حالیہ محفوظہ دوسرے نام سے محفوظ کریں,1094,file-roller,po/ur.po
+_Select All,1097,_منتخب تمام,1098,file-roller,po/ur.po
+Select all files,1101,تمام فائلیں منتخب کریں,1102,file-roller,po/ur.po
+Stop current operation,1105,حالیہ عمل کاری روکیں,1106,file-roller,po/ur.po
+_Test Integrity,1109,درستگی _ٹیسٹ کریں,1110,file-roller,po/ur.po
+Test whether the archive contains errors,1113,دیکھیں کہ کیا محفوظہ میں کوئی غلطیاں تو نہیں,1114,file-roller,po/ur.po
+View the selected file,1118,منتخب فائل دیکھیں,1119,file-roller,po/ur.po
+Open the selected folder,1123,منتخب کردہ فولڈر کھولیں,1124,file-roller,po/ur.po
+_Toolbar,1127,_اوزار پٹی,1128,file-roller,po/ur.po
+View the main toolbar,1131,مین اوزار پٹی دیکھیں,1132,file-roller,po/ur.po
+Stat_usbar,1135,_حالت پٹی,1136,file-roller,po/ur.po
+View the statusbar,1139,حالت پٹی دیکھیں,1140,file-roller,po/ur.po
+_Reversed Order,1143,_عکسی ترتیب,1144,file-roller,po/ur.po
+Reverse the list order,1147,فہرست کی ترتیب عکسی کریں,1148,file-roller,po/ur.po
+_Folders,1151,_فولڈرز,1152,file-roller,po/ur.po
+View the folders pane,1155,بغلی پٹی دیکھیں,1156,file-roller,po/ur.po
+View All _Files,1159,تمام _فائلیں دیکھیں,1160,file-roller,po/ur.po
+View as a F_older,1163,دکھائیں بطور _فولڈر,1164,file-roller,po/ur.po
+by _Name,1167,_نام سے,1168,file-roller,po/ur.po
+Sort file list by name,1171,فائلیں نام کے حساب سے ترتیب دیں,1172,file-roller,po/ur.po
+by _Size,1175,_حجم سے,1176,file-roller,po/ur.po
+Sort file list by file size,1179,فائیں حجم کے حساب سے ترتیب دیں,1180,file-roller,po/ur.po
+by T_ype,1183,_قسم سے,1184,file-roller,po/ur.po
+Sort file list by type,1187,فائلیں قسم کے حساب سے ترتیب دیں,1188,file-roller,po/ur.po
+by _Date modified,1191,_تاریخِ تبدیلی سے,1192,file-roller,po/ur.po
+Sort file list by modification time,1195,فائلیں تاریخِ تبدیلی سے ترتیب دیں,1196,file-roller,po/ur.po
+by _Location,1199,_مقام سے,1200,file-roller,po/ur.po
+Sort file list by location,1203,مقام کے حساب سے فائلیں ترتیب دیں,1204,file-roller,po/ur.po
+Back,48,پیچھے,49,simple-scan,po/ur.po
+Text,91,عبارت,92,simple-scan,po/ur.po
+Photo,95,تصویر,96,simple-scan,po/ur.po
+New,200,نیا,201,simple-scan,po/ur.po
+Save,219,محفوظ کریں,220,simple-scan,po/ur.po
+Stop,228,رکیۓ,229,simple-scan,po/ur.po
+Preferences,261,ترجیحات,262,simple-scan,po/ur.po

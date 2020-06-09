@@ -1,0 +1,797 @@
+Video,34,Авидио,35,cheese,po/ab.po
+Books,22,Ашәҟәқәа,23,gnome-books,po/ab.po
+An e-book manager application for GNOME,26,GNOME аҟны аелектронтә ашәҟәқәа шәхы иашәырхәаларц азы аԥшьы,27,gnome-books,po/ab.po
+_Copy Character,23,_Асимвол ахкьыҧхьаара,24,gnome-characters,po/ab.po
+Unicode,27,Иуникод,28,gnome-characters,po/ab.po
+_See Also,31,_Насгьы шәахәаҧш,32,gnome-characters,po/ab.po
+Recently Used,35,Ааигәа шәхы иашәырхәахьоу,36,gnome-characters,po/ab.po
+Smileys & Emotion,43,Ақьачақьқәеи аемоциақәеи,44,gnome-characters,po/ab.po
+People & Body,47,Ауааи ацәеижьи,48,gnome-characters,po/ab.po
+Animals & Nature,51,Аҧсаатәқәеи аҧсабареи,52,gnome-characters,po/ab.po
+Food & Drink,55,Афатәи ажәтәи,56,gnome-characters,po/ab.po
+Travel & Places,59,Аныҟәареи аҭыҧқәеи,60,gnome-characters,po/ab.po
+Activities,63,Аҽазыҟаҵарақәа,64,gnome-characters,po/ab.po
+Objects,67,Аобиект,68,gnome-characters,po/ab.po
+Symbols,71,Асимвол,72,gnome-characters,po/ab.po
+Flags,75,Абираҟқәа,76,gnome-characters,po/ab.po
+Letters & Symbols,79,Анбанқәеи асимволқәеи,80,gnome-characters,po/ab.po
+Punctuation,83,Апунктуациа,84,gnome-characters,po/ab.po
+Arrows,87,Ахыцқәа,88,gnome-characters,po/ab.po
+Bullets,91,Амаркерқәа,92,gnome-characters,po/ab.po
+Pictures,95,Асахьақәа,96,gnome-characters,po/ab.po
+Currencies,99,Авалиутақәа,100,gnome-characters,po/ab.po
+Math,103,Аматематика,104,gnome-characters,po/ab.po
+Letters,107,Анбанқәа,108,gnome-characters,po/ab.po
+General,112,Зегьы ирзаку,113,gnome-characters,po/ab.po
+Open menu,117,Амениу аартара,118,gnome-characters,po/ab.po
+Search,122,Аҧшаара,123,gnome-characters,po/ab.po
+Keyboard shortcuts,127,Арыдқәа реилаҵа,128,gnome-characters,po/ab.po
+Quit,132,Аҭыҵра,133,gnome-characters,po/ab.po
+_Keyboard Shortcuts,136,_Ицоу арыдқәа,137,gnome-characters,po/ab.po
+_About Characters,140,_Асимволқәа ирызкны,141,gnome-characters,po/ab.po
+Characters,145,Асимволқәа,146,gnome-characters,po/ab.po
+No Recent Characters,149,Аҵыхәтәантәи асимволқәа ыҟаӡам,150,gnome-characters,po/ab.po
+Characters will appear here if you use them.,153,Араҟа иарбахоит лассы шәхы иашәырхәо асимволқәа,154,gnome-characters,po/ab.po
+No Results,157,Аалҵшәақәа ыҟаӡам,158,gnome-characters,po/ab.po
+Try a different search.,161,Шәхы иашәырхәа егьырҭ аҧшаарқәа,162,gnome-characters,po/ab.po
+Loading…,165,Аҭагалара...,166,gnome-characters,po/ab.po
+Character map application,169,Асимволқәа рыхсаала аҧшьы,170,gnome-characters,po/ab.po
+Characters is a simple utility application to find and insert unusual characters. It allows you to quickly find the character you are looking for by searching for keywords.,173,Асимволқәа-ари имариоу ҧшьуп иалукааша асимволқәа рыҧшаареи аҭагалареи рзыУи ишәнаҭоит алшара ишәҭаху асимвол иаарццакны аҧшаара ихадоу ажәақәа рыла,177,gnome-characters,po/ab.po
+"You can also browse characters by categories, such as Punctuation, Pictures, etc.",181,"Насгьы асимволқәа шәрышьҭаларц шәылшоит хкыла,иаҳҳәап, апунктуациа адыргақәа, асахьақәа.",184,gnome-characters,po/ab.po
+Utility application to find and insert unusual characters,187,Имариоу аԥшьы иалукааша асимволқәа рыԥшаареи рҭагалареи рзы,188,gnome-characters,po/ab.po
+characters;unicode;punctuation;math;letters;emoji;emoticon;symbols;,192,Асимволқәа;иуникод;апунктуациа;аматематика;анбанқәа;ақьачақьқәа;emoji;emoticon;,193,gnome-characters,po/ab.po
+%s is not included in %s,198,%s арбаӡам %s аҟны ,199,gnome-characters,po/ab.po
+Character copied to clipboard,202,Асимвол хкыҧхьаауп иаҭныҧсахлара абуфер ахь,203,gnome-characters,po/ab.po
+Unassigned,206,Иазкӡам,207,gnome-characters,po/ab.po
+Unknown character name,210,Асимвол ахьӡ еилкааӡам,211,gnome-characters,po/ab.po
+%s Sidebar Row,220,%s Аварахьтәи аҵҟьа ацәаҳәа,221,gnome-characters,po/ab.po
+Search Result,224,Алҵшәа аҧшаара ,225,gnome-characters,po/ab.po
+GNOME Characters,234,GNOME асимволқәа,235,gnome-characters,po/ab.po
+Character Map,238,Асимволқәа рыхсаала,239,gnome-characters,po/ab.po
+Match tiles and clear the board,24,"Еиԥшқәоу акамаҭелқәа  алхны,аҭӡамц шәрыцқьа",25,gnome-mahjongg,po/ab.po
+"A solitaire version of the classic Eastern tile game. Tiles are stacked on the board at the start of the game. The goal is to remove all the tiles in as little time as possible. Select two matching tiles and they will disappear from the board, but you can only select a tile if there is an empty space to its left or right at the same level. Be careful: tiles that look alike may actually be slightly different.",28,"Солитер иклассику азиатә хәмарра .Ахәмарра алагамҭазы акамаҭелқәа ахәмарратә ишәаҟны иқәуп , дара-дара еихагыланы .Ахәмарра хықәкыс иамоуп акамаҭелқәа зегьы рықәгара излауа ала аамҭа маҷ шәхы иархәаны. Акамаҭелқәа рықәгаразы ишәыԥшаа ,нас  иалышәкаа ҩба еиԥшу ,уи ашьҭахь дара рхала ахәмарратә ишәа ианыҵоит.иалышәхыр ҟалоит акамаҭелқәа ҩаӡарак аҟны иҟоу,насгьы арыӷьаратә мамзар арымаратә зыркца зхы иақәитны иҟоу  .Азҿлымҳара аашәырԥшы, акамаҭелқәа руак еиԥшушәа шәгәы иаанагар алшоит,аха аиашазы зынӡа еиԥшӡам.",35,gnome-mahjongg,po/ab.po
+"GNOME Mahjongg features a variety of starting layouts, some easy and some difficult. If you get stuck, you can ask for a hint, but this adds a large time penalty.",43,"Маджонг GNOME аҟны ахархәара рымоуп еиуеиԥшым акамаҭелқәа реихшақәа .Аихшақәа ыҟоуп иамариақәоугьы имариақәамгьы.Аныҟәара шәцәыуадаҩзар аҵаҳәа шәхы иашәархәар шәылшоит, аха уи ашьҭахь ахараԥсатә аамҭа шәхаԥхьаӡалахоит.",47,gnome-mahjongg,po/ab.po
+Mahjongg,56,Маджонг,57,gnome-mahjongg,po/ab.po
+Disassemble a pile of tiles by removing matching pairs,60,"Еилшәырга акамаҭелқәа реизга ду , еиқәшәо аихацалақәа ықәгауа",61,gnome-mahjongg,po/ab.po
+game;strategy;puzzle;board;,65,game;strategy;puzzle;board;ахәмарра;астратегиа;ахыԥҽыга;аишәатә;,66,gnome-mahjongg,po/ab.po
+Width of the window in pixels,69,Аԥенџьыр аҭбаара пиксельла ,70,gnome-mahjongg,po/ab.po
+Height of the window in pixels,73,Аԥенџьыр аҳаракыра пиксельла ,74,gnome-mahjongg,po/ab.po
+true if the window is maximized,77,"иалхзар,аԥенџьыр иамоуп иреиҳау ашәага",78,gnome-mahjongg,po/ab.po
+Easy,87,имариоу,88,gnome-mahjongg,po/ab.po
+The Ziggurat,92,Зиккурат,93,gnome-mahjongg,po/ab.po
+Four Bridges,97,Ԥшь-цҳак,98,gnome-mahjongg,po/ab.po
+Cloud,102,Аԥҭа,103,gnome-mahjongg,po/ab.po
+Tic-Tac-Toe,107,Аџьарқәеи анольқәеи,108,gnome-mahjongg,po/ab.po
+Red Dragon,112,Агәылшьаԥ ҟаԥшь,113,gnome-mahjongg,po/ab.po
+Overpass,117,Аиасра,118,gnome-mahjongg,po/ab.po
+Pyramid's Walls,122,Апирамида аҭӡамц,123,gnome-mahjongg,po/ab.po
+Confounding Cross,127,Еилаԥсоу аџьар,128,gnome-mahjongg,po/ab.po
+Difficult,132,Имариам,133,gnome-mahjongg,po/ab.po
+Main functions,138,Ихадоу афункциақәа,139,gnome-mahjongg,po/ab.po
+Start a new game,144,Ахәмарра ҿыц алагара,145,gnome-mahjongg,po/ab.po
+Pause the game,150,Ахәмарра аанкылара,151,gnome-mahjongg,po/ab.po
+Undo,156,Аԥыхра,157,gnome-mahjongg,po/ab.po
+Redo,162,Архынҳәра,163,gnome-mahjongg,po/ab.po
+Show a hint,168,Аҵаҳәара арбара,169,gnome-mahjongg,po/ab.po
+Generic,174,Зегьы еицырзеиԥшу,175,gnome-mahjongg,po/ab.po
+Toggle main menu,180,Ихадоу амениу аиагара,181,gnome-mahjongg,po/ab.po
+Show Keyboard Shortcuts,186,Арыдқәа реилаҵа арбара ,187,gnome-mahjongg,po/ab.po
+Show Help,192,Аилыркаа арбара,193,gnome-mahjongg,po/ab.po
+Fullscreen,198,Аекран зегьы иалакны арбара,199,gnome-mahjongg,po/ab.po
+Quit,204,Аҭыҵра,205,gnome-mahjongg,po/ab.po
+Theme,208,Атема,209,gnome-mahjongg,po/ab.po
+Layout,212,Аихшара,213,gnome-mahjongg,po/ab.po
+Background color,216,Ақәыԥшылара аԥштәы,217,gnome-mahjongg,po/ab.po
+Layout: ,220,Аихшара :,221,gnome-mahjongg,po/ab.po
+New Game,224,Ахәмарра ҿыц,225,gnome-mahjongg,po/ab.po
+Restart Game,228,Ахәмарра ханатә алагара,229,gnome-mahjongg,po/ab.po
+Scores,232,Алҵшәа,233,gnome-mahjongg,po/ab.po
+Preferences,236,Ахышәарақәа,237,gnome-mahjongg,po/ab.po
+Keyboard Shortcuts,240,Арыдқәа реилаҵа,241,gnome-mahjongg,po/ab.po
+Help,244,Аилыркаа,245,gnome-mahjongg,po/ab.po
+About Mahjongg,248,Маджонг аԥшьы иазкны,249,gnome-mahjongg,po/ab.po
+Paused,252,Ааҭгылара,253,gnome-mahjongg,po/ab.po
+Print release version and exit,256,Аверсиа аномер аарԥшны аҭыҵра,257,gnome-mahjongg,po/ab.po
+Do you want to start a new game with this map?,260,Абри ахсаала шәхы иархәаны ахәмарра ҿыц шәалагар шәҭахума? ,261,gnome-mahjongg,po/ab.po
+If you continue playing the next game will use the new map.,264,Ахәмарра иацышәҵар анаҩстәи ахәмарра иамазаауеит ахсаала ҿыц.,265,gnome-mahjongg,po/ab.po
+_Continue playing,268, _ Ахәмарра ацҵара,269,gnome-mahjongg,po/ab.po
+Use _new map,272,Ахсаала_алхра,273,gnome-mahjongg,po/ab.po
+There are no more moves.,276,Аныҟәарақәа рыхкқәа уаҳа ыҟаӡам,277,gnome-mahjongg,po/ab.po
+"Each puzzle has at least one solution.  You can undo your moves and try and find the solution, restart this game, or start a new one.",280,"Ахыԥҽыгақәа доусы ирымоуп акы иагымхаргьы аҳасабшьа. Шәара ишәылшоит иҟашәҵаз аныҟәарақәааԥыхны аҳасабшьа шәашьҭалар, ахәмарра еиҭаҿашәкыр,мамзар аҿыц шәалагар",283,gnome-mahjongg,po/ab.po
+"You can also try to reshuffle the game, but this does not guarantee a solution.",287,"Шәара ишәылшоит акамаҭелқәа еилшәырхыр,аха уи ахыԥҽыга аҳасабраҿы ахәдықәҵара шәнаҭаӡом. ",290,gnome-mahjongg,po/ab.po
+_Undo,293,_ Аԥыхра,294,gnome-mahjongg,po/ab.po
+_Restart,297,_ҿыцны алагара,298,gnome-mahjongg,po/ab.po
+_New game,301,_ Ахәмарра ҿыц,302,gnome-mahjongg,po/ab.po
+_Shuffle,305,_Аилыхра,306,gnome-mahjongg,po/ab.po
+Main game:,309,Ихадароу ахәмарра,310,gnome-mahjongg,po/ab.po
+Maps:,313,Ахсаалақәа,314,gnome-mahjongg,po/ab.po
+Tiles:,317,Акамаҭелқәа:,318,gnome-mahjongg,po/ab.po
+A matching game played with Mahjongg tiles,321,Еиԥшқәоу акамаҭелқәа рыԥшааразы  Маджонг ахәмарра,322,gnome-mahjongg,po/ab.po
+_Quit,329,_Ахырқәшара,330,gnome-mahjongg,po/ab.po
+OK,333,ОК,334,gnome-mahjongg,po/ab.po
+Date,337,Арыцхә,338,gnome-mahjongg,po/ab.po
+Time,341,Аамҭа,342,gnome-mahjongg,po/ab.po
+Moves Left:,345,Аныҟәарақәа аанханы иҟоуп,346,gnome-mahjongg,po/ab.po
+Unpause the game,349,Ахәмарра аиҭалагара,350,gnome-mahjongg,po/ab.po
+Pause the game,353,Ахәмарра аанкылара,354,gnome-mahjongg,po/ab.po
+Sound & Video,23,Аудио насгьы авидео,24,gnome-menus,po/ab.po
+Multimedia menu,27,Амультимедиа,28,gnome-menus,po/ab.po
+Programming,31,Апрограммаҩра,32,gnome-menus,po/ab.po
+Tools for software development,35,Амаругақәа апрограммақәа рырмазеиразы ,36,gnome-menus,po/ab.po
+Education,39,Арҵаратә,40,gnome-menus,po/ab.po
+Games,43,Ахәмаррақәа,44,gnome-menus,po/ab.po
+Games and amusements,47,Ахәмаррақәеи агәырҿыхагақәеи,48,gnome-menus,po/ab.po
+Graphics,51,Аграфика,52,gnome-menus,po/ab.po
+Graphics applications,55,Аграфиказы аԥшьқәа,56,gnome-menus,po/ab.po
+Internet,59,Аинтернет,60,gnome-menus,po/ab.po
+Programs for Internet access such as web and email,63,Аинтернет аус адуларазы апрограммақәа,64,gnome-menus,po/ab.po
+Office,67,Аофис,68,gnome-menus,po/ab.po
+Office Applications,71,Аофис иатәу аԥшьқәа,72,gnome-menus,po/ab.po
+System Tools,75,Асистематә,76,gnome-menus,po/ab.po
+System configuration and monitoring,79,Асистема аиҽкаареи ацклаԥшреи рзы ахархәагақәа,80,gnome-menus,po/ab.po
+Universal Access,83,Чыдалатәи алшарақәа,84,gnome-menus,po/ab.po
+Universal Access Settings,87,Чыдалатәи алшарақәа рхышәарақәа,88,gnome-menus,po/ab.po
+Accessories,91,Истандарту,92,gnome-menus,po/ab.po
+Desktop accessories,95,Истандарту аԥшьқәа,96,gnome-menus,po/ab.po
+Applications,100,Аԥшькәа,101,gnome-menus,po/ab.po
+Other,104,Егьырҭ,105,gnome-menus,po/ab.po
+Applications that did not fit in other categories,108,Изеиԥшхкызаалак иақәымшәо аԥшьқәа.,109,gnome-menus,po/ab.po
+Sundry,112,Еиуеиԥшым,113,gnome-menus,po/ab.po
+Utilities,116,Утилитқәа,117,gnome-menus,po/ab.po
+Small but useful GNOME tools,120,Хәарҭара злоу GNOME амаругақәа,121,gnome-menus,po/ab.po
+Web Applications,124,Веб-аԥшьқәа,125,gnome-menus,po/ab.po
+Applications and sites saved from Web,128,Аинтернет аҟынтә еиқәырхоу аԥшькәеи асаитқәеи ,129,gnome-menus,po/ab.po
+_New Game,21,_Ахәмарра ҿыц,22,gnome-robots,po/ab.po
+_Scores,25,_Алҵшәақәа,26,gnome-robots,po/ab.po
+_Preferences,29,_Ахышәарақәа,30,gnome-robots,po/ab.po
+_Help,33,_Аилыркаа,34,gnome-robots,po/ab.po
+_About Robots,37,_Ароботқәа ирызкны,38,gnome-robots,po/ab.po
+GNOME Robots,41,Аробоқәа GNOME,42,gnome-robots,po/ab.po
+Avoid the robots and make them crash into each other,45,"Шәрыцәцала ароботқәа, иааихаларц азы",46,gnome-robots,po/ab.po
+It is the distant future: the year 2000. Evil robots are trying to kill you. Avoid the robots or face certain death.,50,"Ари хара иҟалашоуп:2000 ашықәс.Злеишәа цәгьоу ароботқәа шәыршьырц иаҿуп.Шәыҽрықәшәмыршәан ароботқәа, мамзар шәҭахоит.",53,gnome-robots,po/ab.po
+"Fortunately, the robots are extremely stupid and will always move directly towards you. Trick them into colliding into each other, resulting in their destruction, or into the junk piles that result. You can defend yourself by moving the junk piles, or escape to safety with your handy teleportation device.",56,"Инасыԥхаз уи ауп, ароботқәа даара игаӡуп, шәара шәахь рхы рханы иныҟәалоит.Ароботқәа дареи-дареи ,мамзар аҟьамсар еизгақәеи дареи ааишәырхала.Шәара ишәылшоит шәхы шәыхьчарц аҟьамсар еизгақәа рҭыԥқәа ԥсахуа,мамзар шәҽышәҵәахыр  ателепортҟаҵаразы апортативтә еиҿартәыра шәхы иархәаны.",62,gnome-robots,po/ab.po
+"Your supply of safe teleports is limited, and once you run out, teleportation could land you right next to a robot, who will kill you. Survive for as long as possible!",66,"Ишәарҭадоу ателепортқәа рхыԥхьаӡара ԥкуп, урҭ анынҵәалак ашьҭахь , ателепорт шәианагар алшоит иаарласны шәҭазырхо ароботқәа рахь.Излауо ала акыраамҭа шәаанхароуп.",70,gnome-robots,po/ab.po
+The GNOME Project,73,Апроект GNOME,74,gnome-robots,po/ab.po
+Robots,78,Ароботқәа,79,gnome-robots,po/ab.po
+game;arcade;teleport;,83,ахәмарра;аркада;ателепорт,84,gnome-robots,po/ab.po
+"Congratulations, You Have Defeated the Robots!! \nBut Can You do it Again?",87,"Ишәыдаҳныҳәалоит, шәара ароботқәа шәыриааит!!\nИшәылшару еиҭа уи аҟаҵара",90,gnome-robots,po/ab.po
+There are no teleport locations left!!,95,Ателепорт аҟацаразы уаҳа аҭыԥқәа ыҟаӡам!!,96,gnome-robots,po/ab.po
+There are no safe locations to teleport to!!,99,Ателепорт аҟацаразы ишәарҭам аҭыԥқәа ыҟаӡам!!,100,gnome-robots,po/ab.po
+Unknown Command,103,Еилкаам адҵа,104,gnome-robots,po/ab.po
+Classic robots,107,Аклассикатә роботқәа,108,gnome-robots,po/ab.po
+Classic robots with safe moves,111,Ишәарҭам аныҟәарақәа змоу аклассикатә роботқәа,112,gnome-robots,po/ab.po
+Classic robots with super-safe moves,115,Аклассикатә роботқәа иҷыдоу ишәарҭам аныҟәарақәа змоу,116,gnome-robots,po/ab.po
+Nightmare,119,Акаамеҭ,120,gnome-robots,po/ab.po
+Nightmare with safe moves,123,Акаамеҭ ишәарҭам аныҟәарақәа рҟны,124,gnome-robots,po/ab.po
+Nightmare with super-safe moves,127,Акаамеҭ иҷыдоу ишәарҭам аныҟәарақәа рҟны,128,gnome-robots,po/ab.po
+Robots2,131,Ароботқәа2,132,gnome-robots,po/ab.po
+Robots2 with safe moves,135,Ароботқәа2 ишәарҭам аныҟәарақәа змоу,136,gnome-robots,po/ab.po
+Robots2 with super-safe moves,139,Ароботқәа2 иҷыдоу ишәарҭам аныҟәарақәа змоу,140,gnome-robots,po/ab.po
+Robots2 easy,143,Имариоу Ароботқәа2,144,gnome-robots,po/ab.po
+Robots2 easy with safe moves,147,Имариоу Ароботқәа2 ишәарҭам аныҟәарақәа змоу,148,gnome-robots,po/ab.po
+Robots2 easy with super-safe moves,151,Имариоу Ароботқәа2 иҷыдоу ишәарҭам аныҟәарақәа змоу,152,gnome-robots,po/ab.po
+Robots with safe teleport,155,Ароботқәа ишәарҭам ателепорт ҟазҵо,156,gnome-robots,po/ab.po
+Robots with safe teleport with safe moves,159,"Ароботқәа ишәарҭам ателепортҟаҵареи, ишәарҭам аныҟәарақәеи змоу. ",160,gnome-robots,po/ab.po
+Robots with safe teleport with super-safe moves,163,"Ароботқәа ишәарҭам ателепортҟаҵареи,иҷыдоу ишәарҭам аныҟәарақәеи змоу.",164,gnome-robots,po/ab.po
+Level: %d\tScore: %d,169,Аҩаӡара: %d\t Аԥхьаӡара: %d,170,gnome-robots,po/ab.po
+(Remaining: %d),175,(Иаанхеит : %d),176,gnome-robots,po/ab.po
+Teleport _Safely,180,_Ишәарҭам ателепортҟаҵара,181,gnome-robots,po/ab.po
+Based on classic BSD Robots,184,Ишьаҭыркуп иклассику ароботқәа BSD рҟынтә,185,gnome-robots,po/ab.po
+Are you sure you want to discard the current game?,192,Шәызҭоу ахәмарра аԥышәхырц шышәҭаху агәраганы шәыҟоума?,193,gnome-robots,po/ab.po
+Keep _Playing,196,Ахәмарра_ ахь ахынҳәра,197,gnome-robots,po/ab.po
+Teleport _Randomly,200,Машәырлатәи_ ателепортҟаҵара,201,gnome-robots,po/ab.po
+_Wait for Robots,204,_ Ароботқәа рзыԥшра,205,gnome-robots,po/ab.po
+Game Type:,209,Ахәмарра ахкы,210,gnome-robots,po/ab.po
+No game data could be found.,213,Ахәмарра адыррақәа ԥшааӡам,214,gnome-robots,po/ab.po
+The program Robots was unable to find any valid game configuration files. Please check that the program is installed correctly.,217,Апрограмма Ароботқәа иазымԥшааӡеит иахәҭаз асахьақәа зегьы.Игәашәҭа ахәмарра ашьақәыргылара аиашашьа.,220,gnome-robots,po/ab.po
+Some graphics files are missing or corrupt.,223,"Ԥыҭк асахьақәа рфаилкәа ыҟаӡам,мамзар ааха рымоуп",224,gnome-robots,po/ab.po
+The program Robots was unable to load all the necessary graphics files. Please check that the program is installed correctly.,227,Апрограмма Ароботқәа иазҭамгалаӡеит иахәҭоу асахьақәа рфаилқәа зегьы.Игәашәҭа ахәмарра ашьақәыргылара аиашашьа.,230,gnome-robots,po/ab.po
+Could not find “%s” pixmap file\n,234,Изалымшахеит асахьа афаил аԥшаара “%s”\n,235,gnome-robots,po/ab.po
+Preferences,238,Ахышәарақәа,239,gnome-robots,po/ab.po
+Game Type,242,Ахәмарра ахкы,243,gnome-robots,po/ab.po
+_Use safe moves,246,_Ишәарҭам аныҟәарақәа рхархәара,247,gnome-robots,po/ab.po
+Prevent accidental moves that result in getting killed.,250,Ҭахарала инҵәо аныҟәарақәа зегьы реиԥырҟьара,251,gnome-robots,po/ab.po
+U_se super safe moves,254,Иҷыдоу ишәарҭам аныҟәарақәа рхархәара,255,gnome-robots,po/ab.po
+Prevents all moves that result in getting killed.,258,Ҭахарала инҵәо аныҟәарақәа зегьы реиԥырҟьара,259,gnome-robots,po/ab.po
+_Enable sounds,262,_ Абжьы аҿакра,263,gnome-robots,po/ab.po
+Play sounds for events like winning a level and dying.,266,"Аҭахареи, аиааирақәеи раан абжьы аҿакра.",267,gnome-robots,po/ab.po
+Game,270,Ахәмарра,271,gnome-robots,po/ab.po
+_Image theme:,274,_Ароботқәа ртема,275,gnome-robots,po/ab.po
+_Background color:,278,_Ақәыԥшылара аԥштәы,279,gnome-robots,po/ab.po
+Appearance,282,Адәахьтәи аҿанԥшылара,283,gnome-robots,po/ab.po
+_Restore Defaults,286,_Ахышәарақәа ишыҟоу еиԥш реиҭашьақәыргылара,287,gnome-robots,po/ab.po
+Keyboard,290,Арыдыркыра,291,gnome-robots,po/ab.po
+Custom,24,Даҽа сеанск,25,gnome-session,po/ab.po
+This entry lets you select a saved session,28,Ари анҵамҭа ишәнаҭоит азин еиқәырхоу асеанс алхра,29,gnome-session,po/ab.po
+This session logs you into GNOME,37,Ари асеанс GNOME аҭалара азин шәнаҭоит ,38,gnome-session,po/ab.po
+GNOME dummy,41,Имцырку асеанс GNOME ,42,gnome-session,po/ab.po
+GNOME on Wayland,45,GNOME Wayland аҟны,46,gnome-session,po/ab.po
+GNOME on Xorg,49,GNOME  Xorg аҟны,50,gnome-session,po/ab.po
+Save sessions,53,Асеанс аиқәырхара,54,gnome-session,po/ab.po
+"If enabled, gnome-session will save the session automatically.",57,Иаҿакызар gnome-session автоматла еиқәнархоит асеанс.,58,gnome-session,po/ab.po
+Save this session,61,Ари асеанс аиқәырхара,62,gnome-session,po/ab.po
+"When enabled, gnome-session will automatically save the next session at log out even if auto saving is disabled.",65,"Ианаҿаку,gnome-session автоматла еиқәнархоит анаҩстәи асеанс,асистема аҟынтә шәанҭыҵуа автоматтә еиқәырхара аҿыхзаргьы ",68,gnome-session,po/ab.po
+Logout prompt,72,Асеанс харқәшахаанӡа агәҽанҵара,73,gnome-session,po/ab.po
+"If enabled, gnome-session will prompt the user before ending a session.",76,"Иаҿакызар, gnome-session ахархәаҩ асеанс хырқәшахаанӡа игәиҽаннаҵалоит.",77,gnome-session,po/ab.po
+Show the fallback warning,80,Амашәыртә гәҽанҵара арбара,81,gnome-session,po/ab.po
+"If enabled, gnome-session will display a warning dialog after login if the session was automatically fallen back.",84,"Иаҿакызар,асеанс автоматла машәырла ихырқәшахзар ,асистема шәанҭалалак ашьҭахь gnome-session иаанарԥшоит аиҿцәажәаратә ԥенџьыр агәҽанҵара зну.",87,gnome-session,po/ab.po
+Custom Session,91,Даҽа сеанск,92,gnome-session,po/ab.po
+Please select a custom session to run,95,Иалышәх асеанс аус аруразы,96,gnome-session,po/ab.po
+_New Session,99,_Асеанс ҿыц,100,gnome-session,po/ab.po
+_Remove Session,103,_Асеанс аныхра,104,gnome-session,po/ab.po
+Rena_me Session,107,Асеанс ахьӡ а_ԥсахра,108,gnome-session,po/ab.po
+_Continue,111,_Ацҵара,112,gnome-session,po/ab.po
+Oh no!  Something has gone wrong.,115,"О,Мап! Ҳусқәа цәгьахеит.",116,gnome-session,po/ab.po
+A problem has occurred and the system can’t recover. Please contact a system administrator,119,Иҟалаз агха иахҟьаны асистема зеиҭашьақәмыргылахеит.Шәидҵаал асистема ахада.,122,gnome-session,po/ab.po
+A problem has occurred and the system can’t recover. All extensions have been disabled as a precaution.,126,Иҟалаз агха иахҟьаны асистема зеиҭашьақәмыргылахеит.Арҭбаарақәа зегьы аҿыхын ашәарҭадара аиқәыршәаразы.,129,gnome-session,po/ab.po
+A problem has occurred and the system can’t recover.\nPlease log out and try again.,133,Иҟалаз агха иахҟьаны асистема зеиҭашьақәмыргылахеит.\nАсеанс хырқәшаны шәеиҭаҭал.,136,gnome-session,po/ab.po
+_Log Out,140,_Асеанс ахырқәшара,141,gnome-session,po/ab.po
+Enable debugging code,144,Аиқәыршәаратә код аҿакра,145,gnome-session,po/ab.po
+Allow logout,148,Асеанс ахырқәшаразы азин аҭалара,149,gnome-session,po/ab.po
+Show extension warning,152,Арҭбаарақәа рҟынтә агәҽанҵарақәа рырбара,153,gnome-session,po/ab.po
+Not responding,156,Аҭак ҟанаҵаӡом,157,gnome-session,po/ab.po
+_Log out,160,_Асеанс ахырқәшара,161,gnome-session,po/ab.po
+Remembered Application,168,Игәынкылоу аԥшьы,169,gnome-session,po/ab.po
+This program is blocking logout.,172,Ари апрограмма асеанс ахырқәшара ааннакылоит ,173,gnome-session,po/ab.po
+Refusing new client connection because the session is currently being shut down\n,176,"Иҿыцу аҿакрақәа аклиентцәа рҟынтә мап рыцәкхоит ,избан акәзар асеанс хырқәшахоит\n",179,gnome-session,po/ab.po
+Could not create ICE listening socket: %s,183,ICE иазыӡырҩуа асокет ҿыц аҟаҵара залымшахеит:%s,184,gnome-session,po/ab.po
+Running as systemd service,187,Аус аруп systemd амаҵура аҳасабала ,188,gnome-session,po/ab.po
+Use systemd session management,191,Асеансқәа рменеџьер systemd ахархәара ,192,gnome-session,po/ab.po
+Use builtin session management (rather than the systemd based one),195,Шәхы иашәырхәа иҭагалоу асессиа анаԥхгарақәа ( ихадоу systemd ацымхәрас),196,gnome-session,po/ab.po
+Override standard autostart directories,199,Автоҿакраҟны истандарту аизакхьӡынҵақәа рыԥсахра,200,gnome-session,po/ab.po
+AUTOSTART_DIR,203,Автоҿакра_Аизакхьӡынҵа ,204,gnome-session,po/ab.po
+Session to use,207,Асеанс ахархәара,208,gnome-session,po/ab.po
+SESSION_NAME,211,Асеанс_ахьӡ,212,gnome-session,po/ab.po
+Do not load user-specified applications,215,Ахархәаҩ иаирбаз аԥшьқәа рҭагалара мап ацәкра,216,gnome-session,po/ab.po
+Version of this application,219,Ари аԥшьы ахкы ,220,gnome-session,po/ab.po
+Show the fail whale dialog for testing,224,"Иаашәырԥшы агха иазку ацҳамҭа змоу аиҿцәажәара, уи арҽеиразы ",225,gnome-session,po/ab.po
+Disable hardware acceleration check,228,Апараттә аццакра аҟазаара агәаҭага аҿыхра,229,gnome-session,po/ab.po
+ — the GNOME session manager,232, —  GNOME асеансқәа рменедџьер,233,gnome-session,po/ab.po
+Start gnome-session-shutdown.target,236,gnome-session-shutdown.target аус арура,237,gnome-session,po/ab.po
+Start gnome-session-shutdown.target when receiving EOF or a single byte on stdin,240,"gnome-session-shutdown.target аус арура EOF , мамзар баитк stdin аҟны  аиураан ",243,gnome-session,po/ab.po
+Signal initialization done to gnome-session,246,Адырра аинициалттәра ҟаҵоуп gnome-session азы,247,gnome-session,po/ab.po
+Restart dbus.service if it is running,250,"dbus.service аиҭаҿакра, аус ауозар",251,gnome-session,po/ab.po
+Run from ExecStopPost to start gnome-session-failed.target on service failure,254,Аус арура ExecStopPost аҟынтә амаҵура шьақәҟьар gnome-session-failed.target аус аруразы ,256,gnome-session,po/ab.po
+Program needs exactly one parameter,259,Апрограмма хышәарак ауп иаҭаху,260,gnome-session,po/ab.po
+"%s [OPTION…] COMMAND\n\nExecute COMMAND while inhibiting some session functionality.\n\n  -h, --help        Show this help\n  --version         Show program version\n  --app-id ID       The application id to use\n                    when inhibiting (optional)\n  --reason REASON   The reason for inhibiting (optional)\n  --inhibit ARG     Things to inhibit, colon-separated list of:\n                    logout, switch-user, suspend, idle, automount\n  --inhibit-only    Do not launch COMMAND and wait forever instead\n  -l, --list        List the existing inhibitions, and exit\n\nIf no --inhibit option is specified, idle is assumed.\n",264,"%s [АЛШАРА…] АДҴА\n\nАсеанс афункциақәак аанкыланы адҵа COMMAND анагӡара.\n\n  -h, --help        Аилыркаа арбара\n  --version         Апрограмма ахкы арбара\n  --app-id ID       Аԥшьы аидентификациа азура \n ахархәаразы                    \n аанкылараан(ихымԥадатәиым)  --reason REASON   Азин амҭара мзыс иамоу (ихымԥадатәиым)\n  --inhibit ARG     Азин зымхтәу, ахьӡынҵа,аҩҟәаԥ ала еиҩшоу:\n                    logout, switch-user, suspend, idle, automount\n  --inhibit-only    Иаҿашәымкын COMMAND,уи ацымхәрас наунагӡа шәазыԥшыз \n  -l, --list        Ақәиҭымтәрақәа рыхьӡынҵа , насгьы урҭ рыриааишьа\n\nАлшара --inhibit арбамзар, азыԥшра арежим аҿакхоит .\n",280,gnome-session,po/ab.po
+Failed to execute %s\n,299,%s аҿакра залымшахеит\n,300,gnome-session,po/ab.po
+%s requires an argument\n,305,%s иаҭахуп ашьаҭаркыга\n,306,gnome-session,po/ab.po
+Log out,309,Асеанс ахырқәшара,310,gnome-session,po/ab.po
+Power off,313,Аҿыхра,314,gnome-session,po/ab.po
+Reboot,317,Аиҭаҿакра,318,gnome-session,po/ab.po
+Ignoring any existing inhibitors,321,Аԥынгылақәа шәрызхьамԥшын ,322,gnome-session,po/ab.po
+Don’t prompt for user confirmation,325, Ахархәаҩ иҟынтә ашьақәырӷәӷәара аҳәара ҟашәымҵан ,326,gnome-session,po/ab.po
+Could not connect to the session manager,329,Асеансқәа рменеџьер иҽимадара залымшахеит,330,gnome-session,po/ab.po
+Program called with conflicting options,333,Апрограмма ааԥхьара азуп аимактә хышәарақәа аманы.,334,gnome-session,po/ab.po
+Session %d,338,Асеанс %d,339,gnome-session,po/ab.po
+Session names are not allowed to start with “.” or contain “/” characters,342,"Асеанс ахьӡқәа залагаӡом “.” асимволқәа рыла, мамзар иалазар ҟалаӡом асимволқәа “/” ",344,gnome-session,po/ab.po
+Session names are not allowed to start with “.”,347,Асеанс ахьӡқәа залагаӡом “.” асимволқәа рыла ,348,gnome-session,po/ab.po
+Session names are not allowed to contain “/” characters,351,Асеансқәа рыхьӡқәа ирымазар ҟалаӡом “/” асимволқәа ,352,gnome-session,po/ab.po
+A session named “%s” already exists,356,Абри аҩыза асеанс “%s” ыҟоуп ,357,gnome-session,po/ab.po
+GNOME Classic,21,Аклассикатә GNOME,22,gnome-shell-extensions,po/ab.po
+This session logs you into GNOME Classic,26,Ари асеанс аклассикатә усуратә еишәа GNOME хархәагас иамоуп ,27,gnome-shell-extensions,po/ab.po
+GNOME Classic on Wayland,30,Аклассикатә GNOME Wayland аҟны,31,gnome-shell-extensions,po/ab.po
+GNOME Classic on Xorg,34,Аклассикатә GNOME Xorg аҟны,35,gnome-shell-extensions,po/ab.po
+Favorites,38,Иалкаау,39,gnome-shell-extensions,po/ab.po
+Applications,42,Аԥшьқәа,43,gnome-shell-extensions,po/ab.po
+Application and workspace list,46,Аԥшьи аусуратә ҵакырақәа рыхьӡынҵеи,47,gnome-shell-extensions,po/ab.po
+"A list of strings, each containing an application id (desktop file name), followed by a colon and the workspace number",50,"Ацәаҳәақәа рыхьӡынҵа аиԥшрагәаҭага аԥшьы (desktop-фаил ахьӡ )змоу, зашьҭахь ҩ-кәаԥки аусуратә ҭыԥ аномери гылоу ",53,gnome-shell-extensions,po/ab.po
+Workspace Rules,57,Аусуратә ҵакыра аԥҟаррақәа,58,gnome-shell-extensions,po/ab.po
+Add Rule,61,Аԥҟара ацҵара,62,gnome-shell-extensions,po/ab.po
+Ejecting drive “%s” failed:,68,Адиск «%s» аҭыгара залымшахеит:,69,gnome-shell-extensions,po/ab.po
+Removable devices,72,Иаҿыҵуа аиҿартәырақәа,73,gnome-shell-extensions,po/ab.po
+Open Files,76,Афаил аартра,77,gnome-shell-extensions,po/ab.po
+Use more screen for windows,80,Изыцҵоу аекран аҵакыра аԥенџьырқәа рзы ахархәара,81,gnome-shell-extensions,po/ab.po
+"Try to use more screen for placing window thumbnails by adapting to screen aspect ratio, and consolidating them further to reduce the bounding box. This setting applies only with the natural placement strategy.",84,"Шәхы иашәырхәа изыцҵоу аекран аҵакыра аминиатиура атыԥаркразыаекран аганқәа реизышәара ԥсахуа аҭыԥыркра шәыржәпала, анаҩс адаԥа ҳәаақәызҵо ашәагаа архәыҷразыари ахышәара ахархәара аиуоит аминиатиура «natural» аҭыԥыркра алгоритм  ахархәараан",88,gnome-shell-extensions,po/ab.po
+Place window captions on top,93, Аԥенџьырқәа рыхқәа хыхь рҭыԥыркра,94,gnome-shell-extensions,po/ab.po
+"If true, place window captions on top the respective thumbnail, overriding shell default of placing it at the bottom. Changing this setting requires restarting the shell to have any effect.",97,"Иалхзар, ахқәа аминиатиура хыхьтәи ахәҭаҟны аҭыԥ ааныркылалоит(ишыҟоу еиԥш ахқәа ҵаҟатәи аҭыԥ ааныркылоит).Ари ахышәара аԥсахраан,уи аус аура иалагарцазы, иаҭахуп Shell аиҭарура.",101,gnome-shell-extensions,po/ab.po
+Places,107,Аҭыԥқәа,108,gnome-shell-extensions,po/ab.po
+Failed to launch “%s”,112, «%s» аус арура залшом,113,gnome-shell-extensions,po/ab.po
+Failed to mount volume for “%s”,117,Иамоуӡит атом аибыҭара «%s» азы,118,gnome-shell-extensions,po/ab.po
+Computer,122,Акомпиутер,123,gnome-shell-extensions,po/ab.po
+Home,126,Аҩнытәи аҭаӡ,127,gnome-shell-extensions,po/ab.po
+Browse Network,130,Аҳа алаԥшхагара,131,gnome-shell-extensions,po/ab.po
+Cycle Screenshot Sizes,134,Аекран аҭыхымҭа ашәагаақәа рыԥсахра,135,gnome-shell-extensions,po/ab.po
+Cycle Screenshot Sizes Backward,138,Аекран аҭыхымҭа ашәагаақәа  шьҭахьҟатәи ахырхарҭала рыԥсахра,139,gnome-shell-extensions,po/ab.po
+Theme name,142,Атема ахьӡ,143,gnome-shell-extensions,po/ab.po
+"The name of the theme, to be loaded from ~/.themes/name/gnome-shell",146,~/.themes/name/gnome-shell аҟынтә иҭагалоу атема ахьӡ ,147,gnome-shell-extensions,po/ab.po
+Close,150,Аркра,151,gnome-shell-extensions,po/ab.po
+Unminimize,154,Архынҳәра,155,gnome-shell-extensions,po/ab.po
+Minimize,158,Аиҟәырҳәра,159,gnome-shell-extensions,po/ab.po
+Unmaximize,162,Аиҭашьақәыргылара,163,gnome-shell-extensions,po/ab.po
+Maximize,166,Аиҵыхра,167,gnome-shell-extensions,po/ab.po
+Minimize all,170,Зегьы реиҟәырҳәра,171,gnome-shell-extensions,po/ab.po
+Unminimize all,174,Зегьы рырхынҳәра,175,gnome-shell-extensions,po/ab.po
+Maximize all,178,Зегьы реиҵыхра,179,gnome-shell-extensions,po/ab.po
+Unmaximize all,182,Зегьы реиҭашьақәыргылара,183,gnome-shell-extensions,po/ab.po
+Close all,186,Зегьы рыркра,187,gnome-shell-extensions,po/ab.po
+Window List,190,Аԥенџьырқәа рыхьӡынҵа,191,gnome-shell-extensions,po/ab.po
+When to group windows,194,Аԥенџьырқәа аидыргәыԥлара анаҭаху,195,gnome-shell-extensions,po/ab.po
+"Decides when to group windows from the same application on the window list. Possible values are “never”, “auto” and “always”.",198,"Иҳәаақәнаҵоит, ианаҭаху  ԥшьык иаҵанакуа аԥенџьырқәа реидыргәыԥлара, аԥенџьырқәа рыхьӡынҵаҟны Иҟалар зылшо аҵакқәа : «never» — ахаан; «auto» — автоматла; «always» — есқьынгьы",201,gnome-shell-extensions,po/ab.po
+Show windows from all workspaces,206,Аҵакырақәа зегьы рҟынтә аԥенџьырқәа раарԥшра,207,gnome-shell-extensions,po/ab.po
+Whether to show windows from all workspaces or only the current one.,210,"Аԥенџьырқәа рыхьӡынҵа аусуратә ҵакырақәа зегь рҟынтә акәу,мамзар уажәтәи аҟынтә акәу ишаарԥшлатәу",211,gnome-shell-extensions,po/ab.po
+Show the window list on all monitors,215,Аԥенџьырқәа рыхьӡынҵа амониторқәа зегьы рҟны рырбара,216,gnome-shell-extensions,po/ab.po
+Whether to show the window list on all connected monitors or only on the primary one.,219,"Аԥенџьырқәа рыхьӡынҵа иаҿаку амониторқәа зегьы рыҟноума иахьаарԥшлатәу , мамзар ихадоу аҟны акәу.",222,gnome-shell-extensions,po/ab.po
+Window Grouping,226,Аԥенџьырқәа  реидыргәыԥлара,227,gnome-shell-extensions,po/ab.po
+Never group windows,230,Ахаангьы аԥенџьырқәа реидмыргәыԥлара,231,gnome-shell-extensions,po/ab.po
+Group windows when space is limited,234,"Аҭыԥ маҷхазар, аԥенџьырқәа еидшәыргәыԥла",235,gnome-shell-extensions,po/ab.po
+Always group windows,238,Еснагь аԥенџьырқәа реидыргәыԥлара,239,gnome-shell-extensions,po/ab.po
+Show on all monitors,242,Амониторқәа зегьы рҟны рырбара,243,gnome-shell-extensions,po/ab.po
+Workspace Indicator,247,Аусуратә ҵакыра аиндикатор,248,gnome-shell-extensions,po/ab.po
+Workspace Names,251,Аусуратә ҵакырақәа рыхьӡқәа,252,gnome-shell-extensions,po/ab.po
+Workspace %d,256,Аусуратә ҵакыра %d,257,gnome-shell-extensions,po/ab.po
+Add Workspace,260,Аусуратә ҵакыра ацҵара,261,gnome-shell-extensions,po/ab.po
+When to require passwords,22,Ажәамаӡа аҭагалара азы аҳәара анбаҟаҵатәу,23,gnome-user-share,po/ab.po
+"When to ask for passwords. Possible values are \""never\"", \""on_write\"", and \""always\"".",26,"Ажәамаӡа аҭагаларазы аҳәара анбаҟаҵатәу. Иаҳҳәап: \""ахаангьы\"", \""аҩраан\"", насгьы \""еснагь\"".",29,gnome-user-share,po/ab.po
+Sharing,53,Азеиԥш неирҭа,54,gnome-user-share,po/ab.po
+Sharing Settings,57,Анеирҭа ахышәарақәа,58,gnome-user-share,po/ab.po
+Turn on File Sharing to share the contents of this folder over the network.,61,"Иаҿашәк азеиԥш неирҭа,аимадара иалахәу рзы ақьаадҭра ахь анеирҭа маншәалахарц азы.",62,gnome-user-share,po/ab.po
+%s's public files,75,Азеиԥш фаилқәа ахархәаҩ %s  итәы,76,gnome-user-share,po/ab.po
+%s's public files on %s,82,Азеиԥш фаилқәа ахархәаҩ%s итәы %s аҟны ,83,gnome-user-share,po/ab.po
+Bulge,22,Алгәыгәлара,23,gnome-video-effects,po/ab.po
+Bulges the center of the video,26,Алгәыгәлара агәҭаҟны,27,gnome-video-effects,po/ab.po
+Cartoon,31,Акомикс,32,gnome-video-effects,po/ab.po
+Cartoonify video input,35,Комиксҵас астиль аҭара,36,gnome-video-effects,po/ab.po
+Che Guevara,40,Че Гевара,41,gnome-video-effects,po/ab.po
+Transform video input into typical Che Guevara style,44,Астиль «Че Гевара» ахь аиҭеиҭакра,45,gnome-video-effects,po/ab.po
+Chrome,49,Хром,50,gnome-video-effects,po/ab.po
+Transform video input into a metallic look,53,Аметалл ԥшра аҭара,54,gnome-video-effects,po/ab.po
+Dice,58,Ҽыҭк,59,gnome-video-effects,po/ab.po
+Dices the video input into many small squares,62, Авидео ҿыҭрацәала иԥнаҽоит,63,gnome-video-effects,po/ab.po
+Distortion,67,Аицакра,68,gnome-video-effects,po/ab.po
+Distort the video input,71,Авидеоқәа реишьҭаҵа аицакра,72,gnome-video-effects,po/ab.po
+Edge,76,Аҳәаақәа,77,gnome-video-effects,po/ab.po
+Display video input like good old low resolution computer way,80,"Ижәытәу, аха иразу  зылшара лаҟәу астиль",81,gnome-video-effects,po/ab.po
+Flip,84,Ааҳәра,85,gnome-video-effects,po/ab.po
+"Flip the image, as if looking at a mirror",88,Асарҟьа шәахәаԥшуашәа асахьа аарҳәра,89,gnome-video-effects,po/ab.po
+Heat,93,Ашоура,94,gnome-video-effects,po/ab.po
+Fake heat camera toning,97,Ашоуратә имцырку аԥшшәахәыркра,98,gnome-video-effects,po/ab.po
+Historical,102,Аҭоурыхтә,103,gnome-video-effects,po/ab.po
+Add age to video input using scratches and dust,106,Ацәҟьарақәеи абби рыцхыраарала ақәра ацҵара,107,gnome-video-effects,po/ab.po
+Hulk,111,Азомби,112,gnome-video-effects,po/ab.po
+Transform yourself into the amazing Hulk,115,Иџьшьахәу азомби шәылхра,116,gnome-video-effects,po/ab.po
+Inversion,120,Аркшара,121,gnome-video-effects,po/ab.po
+Invert colors of the video input,124,Аԥштәы аркшара,125,gnome-video-effects,po/ab.po
+Kaleidoscope,129,Акалеидоскоп,130,gnome-video-effects,po/ab.po
+A triangle Kaleidoscope,133,Х-кәакь змоу акалеидоскоп,134,gnome-video-effects,po/ab.po
+Mauve,138,Адәыкрынԥштәы,139,gnome-video-effects,po/ab.po
+Transform video input into a mauve color,142,адәыкрынԥштәы ацҵара,143,gnome-video-effects,po/ab.po
+Mirror,147,Асаркьа,148,gnome-video-effects,po/ab.po
+Mirrors the video,151,Иаарҳәны  аныԥшра,152,gnome-video-effects,po/ab.po
+Noir/Blanc,156,Иԥштәыдоу,157,gnome-video-effects,po/ab.po
+Transform video input into grayscale,160,Ахәа ацәылаԥштәхәқәа рахь аиҭакра,161,gnome-video-effects,po/ab.po
+Optical Illusion,165,Аоптикатә мцы,166,gnome-video-effects,po/ab.po
+Traditional black-white optical animation,169,Иԥштәыдоу аоптикатә анимациа,170,gnome-video-effects,po/ab.po
+Pinch,174,Арҷҷара,175,gnome-video-effects,po/ab.po
+Pinches the center of the video,178,Авидео агәҭаны арҷҷара,179,gnome-video-effects,po/ab.po
+Quark,183,Кварк,184,gnome-video-effects,po/ab.po
+Dissolves moving objects in the video input,187,Еиҭаҵуа аобиектқәа  рырӡыҭра,188,gnome-video-effects,po/ab.po
+Radioactive,192,Ашәахәоушьҭра,193,gnome-video-effects,po/ab.po
+Detect radioactivity and show it,196, Арадиоактивра аарԥшра,197,gnome-video-effects,po/ab.po
+Waveform,201,Ақәацара,202,gnome-video-effects,po/ab.po
+Transform video input into a waveform monitor,205,Авидео ақәацра ахь шьаҭанкыла аиҭакра,206,gnome-video-effects,po/ab.po
+Ripple,210,Ацәқәырԥа сса,211,gnome-video-effects,po/ab.po
+Add the ripple mark effect on the video input,214,Ацәқәырԥа сса аеффект ацҵара,215,gnome-video-effects,po/ab.po
+Saturation,219,Аԥштәылгара,220,gnome-video-effects,po/ab.po
+Add more saturation to the video input,223,Аԥштәылгара азырҳара,224,gnome-video-effects,po/ab.po
+Sepia,228,Сепиа,229,gnome-video-effects,po/ab.po
+Sepia toning,232,Сепиа,233,gnome-video-effects,po/ab.po
+Shagadelic,237,Апсиходелиа,238,gnome-video-effects,po/ab.po
+Add some hallucination to the video input,241,Алаԥшҵашәарақәа рыцҵара,242,gnome-video-effects,po/ab.po
+Sobel,246,Собель,247,gnome-video-effects,po/ab.po
+Extracts edges in the video input through using the Sobel operator,250,Аоператор Собель ацхыраарала аҳәаақәа ралкаара,251,gnome-video-effects,po/ab.po
+Square,255,Аквадрат,256,gnome-video-effects,po/ab.po
+Makes a square out of the center of the video,259,Аквадрат агәҭаны иалнакаауеит,260,gnome-video-effects,po/ab.po
+Kung-Fu,264,Кун-Фу,265,gnome-video-effects,po/ab.po
+Transform motions into Kung-Fu style,268,Еиҭанакуеит аиҭаҵра кун-фу астиль ахь,269,gnome-video-effects,po/ab.po
+Stretch,273,Аиҵыхра,274,gnome-video-effects,po/ab.po
+Stretches the center of the video,277,Авидео агәҭы еиҵнахоит,278,gnome-video-effects,po/ab.po
+Time delay,282,Аамҭа аанкылара,283,gnome-video-effects,po/ab.po
+Show what was happening in the past,286,Иҟалахьоу арбара,287,gnome-video-effects,po/ab.po
+Twirl,291,Аԥшеилагьежьра,292,gnome-video-effects,po/ab.po
+Twirl the center of the video,295,Авидео агәҭы аиларгьежьра,296,gnome-video-effects,po/ab.po
+Vertigo,300,Аблахаҵгьежьра,301,gnome-video-effects,po/ab.po
+Add a loopback alpha blending effector with rotating and scaling,304," Иацышәҵа альфа -еилаҵоу еиқәҳәалоу аеффект , ахагьежьреи амасштабркреи ацҵаны",305,gnome-video-effects,po/ab.po
+Warp,309,Ахәахәахара,310,gnome-video-effects,po/ab.po
+Transform video input into realtime goo’ing,313,Иканҵалоу авидео,314,gnome-video-effects,po/ab.po
+X-Ray,318,Арентген,319,gnome-video-effects,po/ab.po
+Invert and slightly shade to blue,322,Иркшаны нас аиеҵәа ацҵара,323,gnome-video-effects,po/ab.po
+Weather,24,Амш зеиԥшроу,25,gnome-weather,po/ab.po
+Show weather conditions and forecast,29,"Шәахәаԥш амш зеиԥшроу, насгьы  уи аҽеиҭакшьа",30,gnome-weather,po/ab.po
+"A small application that allows you to monitor the current weather conditions for your city, or anywhere in the world.",33,"Идыум аҧшьы  амш зеиԥшроу агәаҭаразыШәықалақь, мамзар даҽа ҭыԥк аҟны.",36,gnome-weather,po/ab.po
+"It provides access to detailed forecasts, up to 7 days, with hourly details for the current and next day, using various internet services.",41,Насгьы иара ишәынаҭоит алшара амш зеиԥшрахо нҭкааны (7 мш рҟынӡа) аилкаараеиуеиԥшым аинтернет маҵзурақәа рҟны.,44,gnome-weather,po/ab.po
+"It also optionally integrates with the GNOME Shell, allowing you to see the current conditions of the most recently searched cities by just typing the name in the Activities Overview.",49,"Хықәкыла аԥшьы GNOME Shell иадцалоуп, уи ишәынаҭоит алшараизаамҭанытәиу аҭагылазаашьа ааигәа шәызшьҭаз ақалақьқәа рҟны агәаҭаралаԥшхагаратә режимла ақалақь ахьӡ анашәырбалак.",53,gnome-weather,po/ab.po
+The GNOME Project,59,Апроект GNOME.,60,gnome-weather,po/ab.po
+Weather;Forecast;,64,Амш зеиԥшроу;Азԥхьагәаҭара;,65,gnome-weather,po/ab.po
+Allows weather information to be displayed for your location.,68,Шәахьыҟоу аҭыԥ аҟны амш зеиԥшроу гәашәҭарц азы алшара шәнаҭоит.,69,gnome-weather,po/ab.po
+City view,72,Ақалақьтәи режимла ахәаԥшра,73,gnome-weather,po/ab.po
+Loading…,76,Аҭагалара…,77,gnome-weather,po/ab.po
+Night,80,Ацх,81,gnome-weather,po/ab.po
+Morning,84,Ашьыжь,85,gnome-weather,po/ab.po
+Afternoon,88,Шьыбжьон,89,gnome-weather,po/ab.po
+Evening,92,Ахәылбыҽха,93,gnome-weather,po/ab.po
+Automatic Location,96,Автоматла ааҭгыларҭа арбара ,97,gnome-weather,po/ab.po
+Locating…,100,Ааҭгыларҭа ашьақәыргылара,101,gnome-weather,po/ab.po
+Search for a city,104,Ақалақь аҟны аԥшаара,105,gnome-weather,po/ab.po
+Viewed Recently,108,Ааигәа шәызхәаԥшхьоу,109,gnome-weather,po/ab.po
+_Temperature Unit,112,_Атемпература ашәага ак,113,gnome-weather,po/ab.po
+_Celsius,116,_Цельси,117,gnome-weather,po/ab.po
+_Fahrenheit,120,_Фарентгеит,121,gnome-weather,po/ab.po
+_About Weather,124,_Амш зеиԥшрахо иазкны,125,gnome-weather,po/ab.po
+Places,128,Аҭыԥқәа,129,gnome-weather,po/ab.po
+Current conditions,132,Уажәтәи аҭагылазаашьа,133,gnome-weather,po/ab.po
+Hourly,136,Сааҭлатәи,137,gnome-weather,po/ab.po
+Daily,140,Есыҽнытәи,141,gnome-weather,po/ab.po
+Refresh,144,Арҿыцра,145,gnome-weather,po/ab.po
+Select Location,148,Ааҭгыларҭа алхра,149,gnome-weather,po/ab.po
+Welcome to Weather!,152,Бзиала шәаабеит аԥшьы Амш зеиԥшрахо ахь!,153,gnome-weather,po/ab.po
+"To get started, select a location.",156,Шәалгарц азы иалшәх аангыларҭа ҭыԥ.,157,gnome-weather,po/ab.po
+Search for a city or country,160,"Ақалақь, мамазара аҳәынҭқарра аҟны аԥшаара",161,gnome-weather,po/ab.po
+Feels like %.0f°,165,Ныррала %.0f°,166,gnome-weather,po/ab.po
+Updated just now.,169,Уажәыцәҟьа ирҿыцуп.,170,gnome-weather,po/ab.po
+Updated %d minute ago.,174,Ирҿыцуп %d минуҭк аԥхьа.,176,gnome-weather,po/ab.po
+Updated %d minute ago.,174,Ирҿыцуп %d минуҭк раԥхьа.,177,gnome-weather,po/ab.po
+Updated %d hour ago.,181,Ирҿыцуп %d сааҭк аԥхьа.,183,gnome-weather,po/ab.po
+Updated %d hour ago.,181,Ирҿыцуп %d сааҭк раԥхьа.,184,gnome-weather,po/ab.po
+Updated %d day ago.,188,Ирҿыцуп %d мшы аԥхьа.,190,gnome-weather,po/ab.po
+Updated %d day ago.,188,Ирҿыцуп %d мшы раԥхьа.,191,gnome-weather,po/ab.po
+Updated %d week ago.,195,Ирҿыцуп %d мчыбжьы аԥхьа.,197,gnome-weather,po/ab.po
+Updated %d week ago.,195,Ирҿыцуп %d мчыбжьы раԥхьа.,198,gnome-weather,po/ab.po
+Updated %d month ago.,202,Ирҿыцуп %d мзы аԥхьа.,204,gnome-weather,po/ab.po
+Updated %d month ago.,202,Ирҿыцуп %d мзы раԥхьа.,205,gnome-weather,po/ab.po
+Daily Forecast,208,Мышктәи амш зеиԥшрахо.,209,gnome-weather,po/ab.po
+Forecast not available,212,Азԥхьагәаҭара ахь шәзынаӡом.,213,gnome-weather,po/ab.po
+Hourly Forecast,221,Сааҭк иалакны амш зеиԥшрахо,222,gnome-weather,po/ab.po
+Now,225,Уажәы,226,gnome-weather,po/ab.po
+A weather application,239,Апрограмма амш зеиԥшроу агәаҭаразы,240,gnome-weather,po/ab.po
+World view,243,Аглобалтә режимла ахәаԥшра.,244,gnome-weather,po/ab.po
+Bookmarks,20,Агәылаҵақәа,21,grilo-plugins,po/ab.po
+A source for organizing media bookmarks,24,Амеидиаконтент азы агәылаҵақәа еиқәзыршәо ахыҵхырҭа,25,grilo-plugins,po/ab.po
+Failed to get bookmark metadata,28,Агәылаҵа аметадыррақәа аиура залымшахеит,29,grilo-plugins,po/ab.po
+Failed to find bookmarks: %s,33,Агәылаҵақәа рыԥшаара залымшахеит: %s,34,grilo-plugins,po/ab.po
+Failed to remove: %s,39,Аныхра залымшахеит: %s,40,grilo-plugins,po/ab.po
+Failed to store: %s,45,Аиқәырхара залымшахеит : %s,46,grilo-plugins,po/ab.po
+No database connection,53,Изалшахом адыррақәа рбаза аҽамадара.,54,grilo-plugins,po/ab.po
+A plugin to get metadata using gstreamer framework,57,"Аплагин, аметадыррақәа роуразы фреимворк gstreamer ацхыраарала",58,grilo-plugins,po/ab.po
+A source for browsing the DLNA server “%s”,62,Ахыцхырҭа DLNA сервер “%s” ахәаԥшразы  ,63,grilo-plugins,po/ab.po
+"Upload failed, target source destroyed",66,"Аҭгараан иҟалеит аиԥҟьара,ахықәкытә хыҵхырҭа хырбгалоуп",67,grilo-plugins,po/ab.po
+"Upload failed, “%s”, transferred %lu of %lu bytes",71,"Аҭагалара залымшахаӡеит, “%s”, %lu аҟынтә %lu bytes",72,grilo-plugins,po/ab.po
+Failed to retrieve item properties (BrowseObjects error %d: %s),76,Иҟалеит аиԥҟьара аелемент алшарақәа аиура аан (Агха BrowseObjects  %d: %s),77,grilo-plugins,po/ab.po
+"Upload failed, URL missing on the media object to be transferred",81,"Аҭгараан иҟалеит агха, иарбаӡам URL, еимадахо амедиаобиект азы ",82,grilo-plugins,po/ab.po
+A source for browsing the DAAP server “%s”,86,Ахыцхырҭа асервер“%s” DAAP ахәаԥшразы,87,grilo-plugins,po/ab.po
+Albums,90,Альбомқәа,91,grilo-plugins,po/ab.po
+Artists,94,Анагӡаҩцәа,95,grilo-plugins,po/ab.po
+Invalid container identifier %s,99,Ииашам  аконтеинер аиԥшрагәаҭага %s,100,grilo-plugins,po/ab.po
+A source for browsing the DPAP server “%s”,104,Ахыцхырҭа асервер DPAP ахәаԥшразы “%s” ,105,grilo-plugins,po/ab.po
+Photos,108,Афотосахьақәа,109,grilo-plugins,po/ab.po
+Filesystem,112,Афаилтә система,113,grilo-plugins,po/ab.po
+A source for browsing the filesystem,116,Ахыцхырҭа афаилтә система алаԥшхагаразы,117,grilo-plugins,po/ab.po
+File %s does not exist,121,Афаил “%s” ыҟаӡам,122,grilo-plugins,po/ab.po
+Cannot get media from %s,126,Амедиаконтент “%s” аҟынтә аиура залымшахеит,127,grilo-plugins,po/ab.po
+A source for browsing and searching Flickr photos,130,"Ахыцхырҭа афотосахьақәа Flickr рыԥшаареи,рыхәаԥшреи азы. ",131,grilo-plugins,po/ab.po
+%s’s Flickr,136,Flickr ахархәаҩ “%s” итәы ,137,grilo-plugins,po/ab.po
+A source for browsing and searching %s’s flickr photos,142,"Ахыцхырҭа афотосахьақәа “%s” flickr аҟны рыԥшаареи,рыхәаԥшреи азы",143,grilo-plugins,po/ab.po
+A source for browsing Freebox TV channels,150,Ахыцхырҭа Freebox TV ацышьҭақәа рыхәаԥшразы,151,grilo-plugins,po/ab.po
+Freebox Radio,154,Арадио Freebox ,155,grilo-plugins,po/ab.po
+A source for browsing Freebox radio channels,158,Ахыцхырҭа Арадио Freebox ацышьҭақәа рыхәаԥшразы,159,grilo-plugins,po/ab.po
+Avatar provider from Gravatar,162,Gravatar аҟынтә аватарқәа раагаҩ,163,grilo-plugins,po/ab.po
+A plugin to get avatars for artist and author fields,166,"Ацәаҳәақәа «Анагӡаҩ», насгьы «Аватар» рыла аватарқәа риуразы амодуль",167,grilo-plugins,po/ab.po
+Local Metadata Provider,170,Итыԥырку аметадыррақәа раагаҩ,171,grilo-plugins,po/ab.po
+A source providing locally available metadata,174,"Ахыцхырҭа, иаазго иҭыԥырку анеирҭа змоу аметадыррақәа ",175,grilo-plugins,po/ab.po
+Failed to resolve: %s,183,Азин аҭара залымшеит : %s,184,grilo-plugins,po/ab.po
+Cannot resolve any of the given keys,187,Изалымшеит ацаԥхақәа азин рыҭара,188,grilo-plugins,po/ab.po
+A GIO supported URL for images is required,191,"Асахьақәа рӡы иаҭахуп URL ,GIO адгылара азызуо",192,grilo-plugins,po/ab.po
+Genres,195,Ажанрқәа,196,grilo-plugins,po/ab.po
+A source for browsing music,199,Ахыцхырҭа амузыка алаԥшхагаразы,200,grilo-plugins,po/ab.po
+Failed to get database from magnatune: %s,204,Изалымшеит аиура адырракәа рбаза magnatune аҟынтә: %s  ,205,grilo-plugins,po/ab.po
+Failed to save database from magnatune: “%s”,209,Изалымшеит аиқәырхара адырракәа рбаза magnatune аҟынтә: %s,210,grilo-plugins,po/ab.po
+Failed to get table from magnatune db: %s,214,Изалымшеит адырракәа рбаза magnatune аҟынтә аҭаӡҩыра аиура: %s,215,grilo-plugins,po/ab.po
+Fail before returning media to user: %s,219,Иҟалеит агха амедиаконтент ахархәаҩ иахь архынҳәраан : %s  ,220,grilo-plugins,po/ab.po
+Metadata Store,223,Аметадыррақәа рҵәахырҭа,224,grilo-plugins,po/ab.po
+A plugin for storing extra metadata information,227,Аметадыррақәа ирызкны ихарҭәаау аинформациа аиқәырхаразы амодуль,228,grilo-plugins,po/ab.po
+Failed to update metadata: %s,236,Изалымшахеит аметадыррақәа рырҿыцра: %s,237,grilo-plugins,po/ab.po
+specified keys are not writable,240,Иарбоу ацаԥхақәа занҵахаӡом,241,grilo-plugins,po/ab.po
+Failed to update metadata,244,Изалымшеит аметадыррақәа рырҿыцра,245,grilo-plugins,po/ab.po
+“source-id” not available,249,“source-id” ахь анеира залыршахом,250,grilo-plugins,po/ab.po
+Failed to resolve,253,Азин аҭара залымшахеит,254,grilo-plugins,po/ab.po
+Failed to search: %s,260,Изалымшахеит аԥшаара: %s ,261,grilo-plugins,po/ab.po
+OpenSubtitles Provider,264,Адагалаҩ OpenSubtitles,265,grilo-plugins,po/ab.po
+A source providing a list of subtitles for a video,268,Ахыцхырҭа иамоуп асубтитрқәа рыхьӡынҵа авидео азы ,269,grilo-plugins,po/ab.po
+Optical Media,272,Аоптикатә ныҟәгага,273,grilo-plugins,po/ab.po
+A source for browsing optical media,276,"Ахыцхырҭа, аоптикатә ныҟәгагақәа алаԥшрхагаразы",277,grilo-plugins,po/ab.po
+A source for browsing podcasts,280,Ахыцхырҭа аподкастқәа алаԥшрхагаразы,281,grilo-plugins,po/ab.po
+Failed to get podcast streams: %s,285,Изалымшахеит аподкаст аишьҭаҵа аҵакы аилкаара : %s ,286,grilo-plugins,po/ab.po
+Failed to parse content,290,Изалымшеит  аҵакы аилкаара  ,291,grilo-plugins,po/ab.po
+Failed to parse podcast contents,294,Аподкаст аҵакы аилкаара залымшахеит,295,grilo-plugins,po/ab.po
+Empty response,298,Иҭацәу аҭак,299,grilo-plugins,po/ab.po
+Failed to get podcast information,302,Аподкаст аинформациа аиура залымшахеит,303,grilo-plugins,po/ab.po
+Failed to get podcasts list: %s,307,Аподкастқәа рыхьӡынҵа аиура залымшахеит: %s,308,grilo-plugins,po/ab.po
+Failed to get podcast stream metadata,311,Изалымшахеит аподкаст аметадыррақәа реишьҭаҵа аиура,312,grilo-plugins,po/ab.po
+Failed to get podcast metadata,315,Изалымшахеит аподкаст аметадыррақәа аиура,316,grilo-plugins,po/ab.po
+Cannot create containers. Only feeds are accepted,319,Аконтеинерқәа рышьақәыргылара залымшахеит.Ззин ыҟоу ацахақәа заҵәык роуп,320,grilo-plugins,po/ab.po
+URL required,323,Иаҭахуп URL,324,grilo-plugins,po/ab.po
+Most Popular,327,Зегь реиҳа ипопулиару,328,grilo-plugins,po/ab.po
+Recent,331,Аҵахәтәантәи,332,grilo-plugins,po/ab.po
+A source for browsing and searching Rai.tv videos,335,"Ахыцхырҭа авидео Rai.tv рыԥшаареи,рыхәаԥшреи азы",336,grilo-plugins,po/ab.po
+All,339,Зегьы,340,grilo-plugins,po/ab.po
+Black and White,343,Аиқәаҵәеи ашҟәаҟәеи,344,grilo-plugins,po/ab.po
+Cinema,347,Акино,348,grilo-plugins,po/ab.po
+Comedians,351,Акомедиақәа,352,grilo-plugins,po/ab.po
+Chronicle,355,Ахроника,356,grilo-plugins,po/ab.po
+Culture,359,Акультура,360,grilo-plugins,po/ab.po
+Economy,363,Аекономика,364,grilo-plugins,po/ab.po
+Fiction,367,Асахьаркыратә литература,368,grilo-plugins,po/ab.po
+Junior,371,Аҿар,372,grilo-plugins,po/ab.po
+Investigations,375,Аҭҵаарақәа,376,grilo-plugins,po/ab.po
+Interviews,379,Аинтервиу,380,grilo-plugins,po/ab.po
+Music,383,Амузыка,384,grilo-plugins,po/ab.po
+News,387,Ажәабжьқәа,388,grilo-plugins,po/ab.po
+Health,391,Агәабзиара,392,grilo-plugins,po/ab.po
+Satire,395,Алаф,396,grilo-plugins,po/ab.po
+Society,399,Ауаажәларра,400,grilo-plugins,po/ab.po
+Show,403,Агәарҿыхарақәа,404,grilo-plugins,po/ab.po
+Sport,407,Спорт,408,grilo-plugins,po/ab.po
+History,411,Аҭоурых,412,grilo-plugins,po/ab.po
+Politics,415,Аполитика,416,grilo-plugins,po/ab.po
+Leisure,419,Аԥсшьараамҭа,420,grilo-plugins,po/ab.po
+Travel,423,Аныҟәарақәа,424,grilo-plugins,po/ab.po
+Failed to browse: %s,428,Изалымшеит алаԥшхагара : %s ,429,grilo-plugins,po/ab.po
+A source for browsing SHOUTcast radios,432,Арадио SHOUTcast алаԥшхагаразы ахыҵхырҭа,433,grilo-plugins,po/ab.po
+Failed to parse response,436,Изалымшахеит аҭак аилыргара,437,grilo-plugins,po/ab.po
+Cannot find media %s,441,Изалымшахеит амедиаконтент аԥшаара %s ,442,grilo-plugins,po/ab.po
+Failed to connect: %s,446,Изалымшеит аҽаԥшьра: %s,447,grilo-plugins,po/ab.po
+non-NULL search text is required,450,Аԥшааразы иаҭахуп NULL ахь иаҵанамко атекст ,451,grilo-plugins,po/ab.po
+A source for fetching metadata of television shows,454,"Ахыцхырҭа, ателешоу аметадырракәа риуразы",455,grilo-plugins,po/ab.po
+Remote data does not contain valid identifier,458,Ихароу адырракәа ирымаӡам ииашоу аиԥшрагәаҭага,459,grilo-plugins,po/ab.po
+Failed to query: %s,471,Изалымшахеит адҵаалара аҟаҵара : %s,472,grilo-plugins,po/ab.po
+Failed to get media from uri: %s,477,Изалымшеит амедиаконтент uri аҟынтә аиура: %s,478,grilo-plugins,po/ab.po
+Empty query,482,Иҭацәу адҵаалара,483,grilo-plugins,po/ab.po
+ID “%s” is not known in this source,489,ID “%s” еилкааӡам ари ахыҵхырҭа аҟны,490,grilo-plugins,po/ab.po
+A plugin for searching multimedia content using Tracker3,493,Плагин амультмедиатә контент аԥшааразы Tracker3 ацхыраарала,494,grilo-plugins,po/ab.po
+A plugin for searching multimedia content using Tracker,497,Амодуль амультмедиа- контент аԥшааразы атрекер ацхыраарала,498,grilo-plugins,po/ab.po
+Standard feeds,501,Истандарту ацышьҭақәа,502,grilo-plugins,po/ab.po
+Categories,505,Акатегориақәа,506,grilo-plugins,po/ab.po
+Top Rated,509,Иреиӷьӡу р-Топ,510,grilo-plugins,po/ab.po
+Top Favorites,513,Иалкаау р-Топ,514,grilo-plugins,po/ab.po
+Most Viewed,517,Зегь реиҳа алаԥшрхагарақәа змоу,518,grilo-plugins,po/ab.po
+Most Recent,521,Аҵыхәтәантәи ,522,grilo-plugins,po/ab.po
+Most Discussed,525,Зегь реиҳа ахцәажәарақәа змоу,526,grilo-plugins,po/ab.po
+Most Linked,529,Лассы иазхьаԥшуеит,530,grilo-plugins,po/ab.po
+Most Responded,533,Зегь реиҳа ирацәаны аҭакқәа змоу ,534,grilo-plugins,po/ab.po
+Recently Featured,537,Ааигәа иарбоу ,538,grilo-plugins,po/ab.po
+Watch On Mobile,541,Амобилтә версиа ахәаԥшра,542,grilo-plugins,po/ab.po
+A source for browsing and searching YouTube videos,545,"Ахыцхырҭа, YouTube авидеоҟәа рыԥшаареи рыхәаԥшреи азы ",546,grilo-plugins,po/ab.po
+Failed to get feed,549,Ацышьҭа аиура залымшахеит,550,grilo-plugins,po/ab.po
+Invalid feed identifier %s,554,Ииашам ацышьҭа %s  аиԥшрагәаҭага,555,grilo-plugins,po/ab.po
+Invalid category identifier %s,560,Ииашам ацышьҭа %s аиԥшрагәаҭага акатегориа ,561,grilo-plugins,po/ab.po
+Hitori,20,Хитори,21,hitori,po/ab.po
+Play the Hitori puzzle game,25,Ахәмарра-хыԥҽыга Хитори,26,hitori,po/ab.po
+puzzle;game;logic;grid;,30,Ахыԥҽыга; ахәмарра; алогикатә; аҭаӡҩыра;,31,hitori,po/ab.po
+GNOME Hitori,35,GNOME Хитори,36,hitori,po/ab.po
+Hitori is a logic game similar to the popular game of Sudoku.,40,"Хитори- алогикатә хәмарроуп, зегьы бзиа ирбо ахәмарра судоку еиԥшуп",41,hitori,po/ab.po
+"You play the game against the clock, aiming to eliminate all the duplicate numbers in each row and column in the fastest time. Multiple sizes of game board are supported, and you can place markers on cells to help work out the solution. If you get stuck, the game can give you a hint.",44,"Ахәмарра аамҭа ԥкуп. Ахәмарра хықәкыс иамоуп- иаарцҵакны хыԥхьаӡарала еиқәшәаз  ацәаҳәақәеи аиҵагылақәеи рықәгара. Ахәмарра иаднакылоит ахәмарратә ҭыԥ ашәагаақәа ԥыҭк.Шәара ишәылшоит иқәшәыргылалар ахыԥҽыга аҳасабразы ишәыцхраауа адыргақәа.Ишәзымдыруазар изаҟә шьаҿоу иҟаҵатәу, шәхы иашәархәар шәылшоит аҵаҳәара.",49,hitori,po/ab.po
+The GNOME Project,55,Апроект GNOME,56,hitori,po/ab.po
+Start a new game,60,Ахәмарра ҿыц алагара,61,hitori,po/ab.po
+Tag a cell,65,Ахац адырга аҭара,66,hitori,po/ab.po
+Undo your last move,70,Аҵыхәтәантәи аныҟәара аԥыхра ,71,hitori,po/ab.po
+Redo a move,75,Аныҟәара аиҭаҟаҵара,76,hitori,po/ab.po
+Get a hint for your next move,80,Анаҩстәи аныҟәаразы абжьгара аиура,81,hitori,po/ab.po
+Show Help,85,Аилыркаа арбара,86,hitori,po/ab.po
+Show Keyboard Shortcuts,90,Арыдқәа реилаҵа рырбара,91,hitori,po/ab.po
+Quit,95,Ахырқәшара,96,hitori,po/ab.po
+Toggle Menu,100,Амениу аиҭагара,101,hitori,po/ab.po
+_New Game,104,_Ахәмарра ҿыц,105,hitori,po/ab.po
+Board _Size,108,_Аҭыԥ ашәагаа,109,hitori,po/ab.po
+_Keyboard Shortcuts,136,_Арыдқәа реилаҵа,137,hitori,po/ab.po
+_Help,140,_Аилыркаа,141,hitori,po/ab.po
+_About Hitori,144,_Хитори иазкны,145,hitori,po/ab.po
+Undo your last move,148,Аҵыхәтәантәи аныҟәара аԥыхра,149,hitori,po/ab.po
+Redo a move,152,Аныҟәара аиҭаҟаҵара,153,hitori,po/ab.po
+Get a hint for your next move,156,Анаҩстәи аныҟәаразы абжьгара аиура,157,hitori,po/ab.po
+Board size,160,Аҭыԥ ашәагаа,161,hitori,po/ab.po
+"The size of the board, in cells.",164,Ахацқәа рыла аҭыԥ ашәагаа ,165,hitori,po/ab.po
+Window maximized state,168,Аԥенџьыр иамоуп иреиҳау ашәагаа,169,hitori,po/ab.po
+Whether the window is maximized.,172, Иаҭахума аԥенџьыр иреиҳау ашәагаа амазар.,173,hitori,po/ab.po
+Window position,176,Аԥенџьыр аҭыԥ,177,hitori,po/ab.po
+Window position (x and y).,180,Аԥенџьыр аҭыԥ (x ; y),181,hitori,po/ab.po
+Window size,184,Аԥенџьыр ашәагаа,185,hitori,po/ab.po
+Window size (width and height).,188,Аԥенџьыр ашәагаа (аҭбаареи аҳаракыреи),189,hitori,po/ab.po
+The help contents could not be displayed,251,Аилыркаа аҵакы аарԥшра залшахом,252,hitori,po/ab.po
+Copyright © 2007–2010 Philip Withnall,255,Автор изин © 2007–2010 Филип Уизнэл ,256,hitori,po/ab.po
+A logic puzzle originally designed by Nikoli,259,"Алогикатә хыԥҽыга, Николи иаԥиҵаз",260,hitori,po/ab.po
+Hitori Website,267, Веб-саит Хитори,268,hitori,po/ab.po
+Enable debug mode,271,Аиқәыршәара арежим аҿакра,272,hitori,po/ab.po
+Seed the board generation,276,Аҭыԥ агенерациҷ ,277,hitori,po/ab.po
+- Play a game of Hitori,281,- Хитори ахәмарра,282,hitori,po/ab.po
+Command line options could not be parsed: %s\n,287,Адҵатә цәаҳәа ахышәарақәа реилкаара залымшахеит : %s\n,288,hitori,po/ab.po
+Do you want to stop the current game?,291,Шәызҭоу ахәмарра аанышәкылар шәҭахума?,292,hitori,po/ab.po
+Keep _Playing,295,_Ахәмарра ацҵара,296,hitori,po/ab.po
+You’ve won in a time of %02u:%02u!,302,Шәара аиааира шәгеит %02u:%02u рыла!,303,hitori,po/ab.po
+_Quit,306,_Ахырқәшара,307,hitori,po/ab.po
+_Play Again,310,_Еиҭа ахәмарра,311,hitori,po/ab.po
+_Restart,23,_Еиҭах алагара,24,lightsoff,po/ab.po
+_Help,28,_Ацхыраара,29,lightsoff,po/ab.po
+_About Lights Off,33,_Аԥшьы иазкны,34,lightsoff,po/ab.po
+_Previous puzzle,45,_Аԥхьатәи ахыԥҽыга,46,lightsoff,po/ab.po
+Ne_xt puzzle,50,Ана_ҩстәи ахыԥҽыга,51,lightsoff,po/ab.po
+_Change Puzzle,55,_Ахыԥҽыга аԥсахра,56,lightsoff,po/ab.po
+Lights Off,61,Алашара шәырцәа,62,lightsoff,po/ab.po
+Turn off all the lights,67,Алашарақәа  зегьы рырцәара,68,lightsoff,po/ab.po
+"Lights Off is a collection of light switch puzzles. Clicking on a light toggles it either on or off, but also toggles all the surrounding lights, too. Your objective is simple: turn off all the lights!",71,"Алашара шәырцә - алашарақәа зегьы ахьырцәатәу, ахыԥҽыгақәа реизга ауп. Алашара ақәыӷәӷәараиаҿанаҵоит, мамзар иаҿнахоит уи,аха аҿыхра, мамзар аҿаҵара иара убас иаҿанаҵоит,мамзар иаҿнахоитааигәа иҟоу амцақәагьы .Ахәмарра хықәкыс иамоуп амцақәа загьы рырцәара!",75,lightsoff,po/ab.po
+Players who delight in turning off lights will enjoy the huge number of levels.,82,Ахәмарҩцәа ргәы иаахәоит аҩаӡарақәа рхыԥхьаӡарарацәа.,85,lightsoff,po/ab.po
+The GNOME Project,88,Апроект GNOME,89,lightsoff,po/ab.po
+game;logic;board;tiles;adjacent;puzzle;,93,game;logic;board;tiles;adjacent;puzzle;ахәмарра;алогикатә;аишәатә;ахыԥҽыга;game;logic;board;tiles;adjacent;puzzle;,94,lightsoff,po/ab.po
+The current level,100,Шәызну аҩаӡара,101,lightsoff,po/ab.po
+The users’s most recent level.,105,Ахархәаҩ аҵыхәтәантәи иҩаӡара,106,lightsoff,po/ab.po
+The width of the window,110,Аԥенџьыр аҭбаара пиқсельла ишәаны,111,lightsoff,po/ab.po
+The width of the main window in pixels.,115,Ихадоу аԥенџьыр аҭбаара пиқсельла ишәаны.,116,lightsoff,po/ab.po
+The height of the window,120,Аԥенџьыр аҳаракра,121,lightsoff,po/ab.po
+The height of the main window in pixels.,125,Аԥенџьыр аҳаракра пиқсельла ишәаны,126,lightsoff,po/ab.po
+A flag to enable maximized mode,130,Абираҟ ирҭбаау арежим аҿакразы,131,lightsoff,po/ab.po
+"If “true”, the main window starts in maximized mode.",135," “true” акәзар , ихадоу аԥенџьыр аус арухоит ирҭбаау режимла.",136,lightsoff,po/ab.po
+Display version number,140,Аԥшьы аверсиа арбара,141,lightsoff,po/ab.po
+Failed to parse command-line arguments.,145,Адҵатә цәаҳәа ҵаҵӷәыс иамоу аилыргара залымшахеит.,146,lightsoff,po/ab.po
+Page on GNOME wiki,150,GNOME wiki аҟны адаҟьа,151,lightsoff,po/ab.po
+Turn off all the lights!,160,Алашарақәа зегьы шәырцәа!,161,lightsoff,po/ab.po
+Puzzle %d,166,Ахыԥҽыга %d ,167,lightsoff,po/ab.po
+Image to use for drawing blocks,20,Аблокқәа рзы асахьа,21,quadrapassel,po/ab.po
+Image to use for drawing blocks.,24,Аблокқәа рзы асахьа,25,quadrapassel,po/ab.po
+The theme used for rendering the blocks,28, Аблокқәа ртема,29,quadrapassel,po/ab.po
+The name of the theme used for rendering the blocks and the background.,32,Аблокқәеи ақәыԥшылареи рҭыхразы ахархәара змоу атема,33,quadrapassel,po/ab.po
+Level to start with,36,Алагамҭатә аҩаӡара,37,quadrapassel,po/ab.po
+Level to start with.,40,Алагамҭатә аҩаӡара,41,quadrapassel,po/ab.po
+Whether to preview the next block,44,Анаҩстәи аблок арбара,45,quadrapassel,po/ab.po
+Whether to preview the next block.,48,Анаҩстәи аблок арбара,49,quadrapassel,po/ab.po
+Whether to show where the moving block will land,52,Иаарԥштәума аблок ахькаҳаз аҭыԥ,53,quadrapassel,po/ab.po
+Whether to show where the moving block will land.,56,Иаарԥштәума аблок ахькаҳаз аҭыԥ,57,quadrapassel,po/ab.po
+Whether to give blocks random colors,60,Зыԥштәеилаԥсоу аблокқәа шәхы иашәырхәа,61,quadrapassel,po/ab.po
+Whether to give blocks random colors.,64,Зыԥштәеилаԥсоу аблокқәа шәхы иашәырхәа,65,quadrapassel,po/ab.po
+Whether to rotate counter clock wise,68,Асааҭ ахыцқәа рхырхарҭахь аргьежьра,69,quadrapassel,po/ab.po
+Whether to rotate counter clock wise.,72,Асааҭ ахыцқәа рхырхарҭахь аргьежьра,73,quadrapassel,po/ab.po
+The number of rows to fill,76,Ихарҭәаатәу аишьҭагылақәа рхыԥхьаӡара,77,quadrapassel,po/ab.po
+The number of rows that are filled with random blocks at the start of the game.,80,Ахәмарра алагамҭазы машәырла ихаарҭәаау аишьҭагылақәа рхыԥхьаӡара,83,quadrapassel,po/ab.po
+The density of filled rows,87,Аблокқәа рыжәпара ихарҭәаау ацәаҳәақәа рҟны,88,quadrapassel,po/ab.po
+The density of blocks in rows filled at the start of the game. The value is between 0 (for no blocks) and 10 (for a completely filled row).,91,Ахәмарра алагамҭазы аблокқәа решьҭагылақәа рхыԥхьаӡара.Иамоуп аҵакқәа 0(аблокқәа ыҟаӡам) инаркны10(инагӡаны иҭәу ацәца) аҟынӡа,94,quadrapassel,po/ab.po
+Whether to play sounds,99,Иарҳәатәума абжьы,100,quadrapassel,po/ab.po
+Whether to play sounds.,103,Иарҳәатәума абжьы,104,quadrapassel,po/ab.po
+Whether to pick blocks that are hard to place,107,Иалхтәума аблокқәа зҭыԥыркра уадаҩу,108,quadrapassel,po/ab.po
+Whether to pick blocks that are hard to place.,111,Иалхтәума аблокқәа зҭыԥыркра уадаҩу,112,quadrapassel,po/ab.po
+Move left,115,Влево,116,quadrapassel,po/ab.po
+Key press to move left.,119,Арыд арымарахь аиагаразы,120,quadrapassel,po/ab.po
+Move right,123,Арыӷьарахь,124,quadrapassel,po/ab.po
+Key press to move right.,127,Арыд арыӷьарахь аиагаразы,128,quadrapassel,po/ab.po
+Move down,131,Ҵаҟа аиҭаҵра,132,quadrapassel,po/ab.po
+Key press to move down.,135,Арыд ҵаҟа аиҭаҵразы,136,quadrapassel,po/ab.po
+Drop,139,Акажьра,140,quadrapassel,po/ab.po
+Key press to drop.,143,Акажьразы арыд,144,quadrapassel,po/ab.po
+Rotate,147,Аарҳәра,148,quadrapassel,po/ab.po
+Key press to rotate.,151, Шәақәыӷәӷәа арыд ааҳәразы,152,quadrapassel,po/ab.po
+Pause,155, Аанҿасра,156,quadrapassel,po/ab.po
+Key press to pause.,159,Аанҿасразы арыд,160,quadrapassel,po/ab.po
+Enter,163,Аҭагалара,164,quadrapassel,po/ab.po
+Key to start the game,167,Ахәмарра алагаразы арыд,168,quadrapassel,po/ab.po
+Width of the window in pixels,171,Аԥенџьыр аҭбаара пиксельла,172,quadrapassel,po/ab.po
+Height of the window in pixels,175,Аԥенџьыр аҳаракыра пиксельла,176,quadrapassel,po/ab.po
+true if the window is maximized,179,"иҵабыргуп, аԥенџьыр имаксималу ашәагаа амазар",180,quadrapassel,po/ab.po
+Fit falling blocks together,191,Икаҳаз аблокқәа еидкыланы реиқәҵара,192,quadrapassel,po/ab.po
+"Quadrapassel is a derivative of a classic Russian falling-block game. Reposition and rotate the blocks as they fall, and attempt to fit them together. When you form a complete horizontal row of blocks, the row will disappear and you score points. The game is over when the blocks get stacked too high. As your score gets higher, you level up and the blocks fall faster.",195,"Quadrapassel ари иклассику ахәмарга -атетрис ауп. Еиқәыршәатәуп аблокқәа иахьыԥыруа иргьежьуа, нас рҭыԥ ԥсахуа.Аблокқәа ирылхны ацәаҳәа анеиқәшәаршәалак ашьҭахь, уи ацәаҳәа ыӡоит, шәара ишәоуоит акәатала.Ахәмарра хырқәшахоит, аблокқәа ақәцә аҟынӡа ианнеилак ашьҭахь.Акәаталақәа рхыԥхьаӡара еиҳахацыԥхьаӡааблокқәа еиҳа иццакны акаҳара иалагоит.",201,quadrapassel,po/ab.po
+"If you’re looking for a challenge, Quadrapassel allows you to increase the initial speed of the blocks, or begin the game with partial blocks on some of the rows. Or, instead of allowing the blocks to fall randomly, it can select blocks that will be hard for you to place.",208,"Ахәмарра еиҳа ишәарцәгьар шәҭахызар, Quadrapassel аҟны аблокқәа ркаҳара ацҵакышьа еиҳашәтәыр шәылшоитШәыхәмарыр шәылшоит аблокқәа ихарҭәааны ишеиқәҵамгьы.Мамзар аблокқәа имашәырны акаҳара азин рыҭара ацынхәрасQuadrapassel иалшоит иалнахыр аиқәҵаразы иманшәалам аблокқәа",213,quadrapassel,po/ab.po
+The GNOME Project,219,Апроект GNOME,220,quadrapassel,po/ab.po
+tetris;,224,Атетрис,225,quadrapassel,po/ab.po
+Paused,228,Ааҭгылара,229,quadrapassel,po/ab.po
+Game Over,232,Ахәмарра хырқәшоуп,233,quadrapassel,po/ab.po
+_New Game,236,_Ахәмарра ҿыц,237,quadrapassel,po/ab.po
+_Scores,240,_Алҵшәақәа,241,quadrapassel,po/ab.po
+_Preferences,244,_Ахышәарақәа,245,quadrapassel,po/ab.po
+_Help,248,_Аилыркаа,249,quadrapassel,po/ab.po
+_About Quadrapassel,252,Ахәмарра Quadrapassel иазкны,253,quadrapassel,po/ab.po
+Start a new game,256,Ахәмарра ҿыц алагара,257,quadrapassel,po/ab.po
+Next,260,Анаҩстәи,261,quadrapassel,po/ab.po
+Score,264,Аԥхьаӡара,265,quadrapassel,po/ab.po
+Lines,268,Ацәаҳәақәа,269,quadrapassel,po/ab.po
+Level,272,Аҩаӡара,273,quadrapassel,po/ab.po
+Preferences,276,Ахышәарақәа,277,quadrapassel,po/ab.po
+Game,280,Ахәмарра,281,quadrapassel,po/ab.po
+_Number of pre-filled rows:,285,_Заа ихарҭәаау ацәаҳәақәа рхыԥхьаӡара,286,quadrapassel,po/ab.po
+_Density of blocks in a pre-filled row:,290,_Ихарҭәаатәу ацәаҳәақәа рҟны аблокқәа рыжәпара,291,quadrapassel,po/ab.po
+_Starting level:,295,_Алагамҭатә ҩаӡара,296,quadrapassel,po/ab.po
+_Enable sounds,299,_Абжьқәа рҿакра,300,quadrapassel,po/ab.po
+Choose difficult _blocks,303,иуадаҩу _аблокқәа ралхра,304,quadrapassel,po/ab.po
+_Preview next block,307,Анаҩстәи _аблок арбара,308,quadrapassel,po/ab.po
+_Rotate blocks counterclockwise,312,_Асааҭ ахыц ахырхарҭа иаҿагыланы ахагьежьра,313,quadrapassel,po/ab.po
+Show _where the block will land,316,_Аблок ахьақәшәаз аҭыԥ арбара,317,quadrapassel,po/ab.po
+Controls,320,Анаԥхгара,321,quadrapassel,po/ab.po
+Theme,324,Атема,325,quadrapassel,po/ab.po
+Plain,328,Имариоу,329,quadrapassel,po/ab.po
+Tango Flat,332,Танго,333,quadrapassel,po/ab.po
+Tango Shaded,336,Агагақәа танго рыцкәашара,337,quadrapassel,po/ab.po
+Clean,340,Ицқьоу,341,quadrapassel,po/ab.po
+"Unable to change key, as this key already exists",345,"Арыд аԥсахра залшом, избан акәзар уи ахархәара аиухьеит",346,quadrapassel,po/ab.po
+Unpause the game,349,Ахәмарра аиҭалагара,350,quadrapassel,po/ab.po
+Pause the game,353,Ахәмарра аамҭала аанкылара,354,quadrapassel,po/ab.po
+"A classic game where you rotate blocks to make complete rows, but don't pile your blocks too high or it's game over!",357,"Иклассику ахәмарра, аблокқәа ыргьежьуа цәаҳәа-цәаҳәала ихарҭәааны иахьеиқәҵалатәу ,аблокқәа амцхә ирацәаны ацәаҳәақәа раанкылара азин рышәымҭан ,мамзар шәара шәаҵахоит!",360,quadrapassel,po/ab.po
+_Close,370,_Аркра,371,quadrapassel,po/ab.po
+New Game,374,Ахәмарра ҿыц,375,quadrapassel,po/ab.po
+_OK,378,_ОК,379,quadrapassel,po/ab.po
+Date,382,Аамҭарба,383,quadrapassel,po/ab.po
+Provide a facility for quickly viewing different kinds of files,27,Ишәнаҭоит алшара иаарццакны хкы рацәала афаилқәа рыхәаԥшра,28,sushi,po/ab.po
+Sushi is a file previewer for the GNOME desktop environment. It is an independent component that integrates with GNOME Files (Nautilus).,31,Sushi- ишәнаҭоит алшара иаарццакны аусуратә ишәа шәахәаԥшырц.Уи ихьыԥшым хәҭаҵас афаил иалалоит.,34,sushi,po/ab.po
+Type,38,Ахкы,39,sushi,po/ab.po
+%d item,43,%d Хәҭак,45,sushi,po/ab.po
+%d item,43,%d Ахәҭақәа,46,sushi,po/ab.po
+Empty Folder,49,Иҭацәу ақьаадҭра ,50,sushi,po/ab.po
+Size,53,Ашәага,54,sushi,po/ab.po
+Modified,57,Ианыԥсахыз арыцхә,58,sushi,po/ab.po
+Unable to display %s,63,Арбара залшом %s,64,sushi,po/ab.po
+Open With %s,69,Аԥшьы %s аҟны аартра,70,sushi,po/ab.po
+Open,73,Аартра,74,sushi,po/ab.po
+from,77,аҟынтә,78,sushi,po/ab.po
+by,81,ила,82,sushi,po/ab.po
+%d of %d,86,%d аҟынтә %d,87,sushi,po/ab.po
+Clear the screen by removing groups of colored and shaped tiles,32,"Ишәрыцқьа аҭыԥ, иԥштәылоу акәымпылқәа аныхуа",33,swell-foop,po/ab.po
+"Remove as many squares as possible from the board. Click on a group of squares of the same color to make them all disappear in one fell swoop, causing other squares to fall into place. It is not possible to remove a single square at a time. You get far more points for clearing a larger group of squares, and also for clearing the entire board.",36,Аӷәы аҟынтәи излауо ала ирацәаны аквадратқәа ықәыжәга.Ԥштәык змоу аквадратқәа ргәыԥ шәықәыӷәӷәалааӷәы аҟынтә иқәыжәгарц азы.Иакны иҟоу аквадратқәа шәзаныхӡом.Ианышәхо аквадратқәа ргәыԥқәа шаҟа ирацәоу аҟара ирацәахоит шәкәаталақәагьы Насгьы акәаталақәа хыԥхьаӡалахоит аӷәы зегьы арыцқьара азы.,42,swell-foop,po/ab.po
+"Swell Foop is always very quick to play, but you can make it somewhat longer by changing the board size.",50,"Swell Foop-ари иласу хәмарроуп, аха шәара ишәылшоит уи еиҵышәхырц ,аӷәы ашәагаа ԥсахуа. ",53,swell-foop,po/ab.po
+The GNOME Project,58,Апроект GNOME,59,swell-foop,po/ab.po
+game;logic;board;same;matching;,63,ахәмарра; алогикатә; аишәатә; аиқәшәара;,64,swell-foop,po/ab.po
+The theme to use,68,Ахәмарраҟны ахархәара змоу атема,69,swell-foop,po/ab.po
+The title of the tile theme to use.,73,Ахәмарратә тема хархәагас иамоу афаил ахьӡ,74,swell-foop,po/ab.po
+Board size,78,Ахәмарратә ҭыԥ ашәагаа,79,swell-foop,po/ab.po
+The size of the game board.,83,Ахәмарра аӷәа ашәагаа,84,swell-foop,po/ab.po
+Board color count,88,Аӷәаҟны аԥштәқәа рхыԥхьаӡара,89,swell-foop,po/ab.po
+The number of colors of tiles to use in the game.,93,Ахәмарратә ӷәы аҟны ахархәара змоу еиуеиԥшым аԥштәқәа рхыԥхьаӡара.,94,swell-foop,po/ab.po
+Is this the first run,98,Ари раԥхьатәи аҿакра акәзар,99,swell-foop,po/ab.po
+Setting to decide whether to show first-run hint dialog or not.,103,"Ахышәара, раԥхьатәи аҿакра аиҽцәажәара арбара аҭаху-аҭахыму шьақәзыргыло.",104,swell-foop,po/ab.po
+"Use more flashy, but slower, animations.",115,Иԥшӡоу анимациа ахархәара.,116,swell-foop,po/ab.po
+"Has value “nothing” if there is no saved game. Else, contains a copy of the initial board, an index in the history, and the history of actions saved by an array of coords.",128,"Аҵакы амоуп “nothing” еиқәырхоу ахәмарра ыҟамзар.Мамзар аханатәтәи аӷәы ахкьыԥхьаа, аиндекс ажурнал аҟны,насгьы аҟаҵарақәа ржурнал, аижәлантәдырра аҭыԥырбага аҟны еиқәырхоу.",132,swell-foop,po/ab.po
+Welcome to Swell Foop,137,Бзиала шәаабеит Swell Foop ахь,138,swell-foop,po/ab.po
+Let’s _Play,142,_Ахәмарра,143,swell-foop,po/ab.po
+Play with keyboard,148,Арыдыркыра ала ахәмарра ,149,swell-foop,po/ab.po
+Move keyboard highlight,154,Арыдыркыра ала иалкаау аиҭагара,155,swell-foop,po/ab.po
+Destroy selected block,160,Иалху аблокқәа рықәхра,161,swell-foop,po/ab.po
+History,166,Аҭоурых,167,swell-foop,po/ab.po
+Undo,172,Аԥыхра,173,swell-foop,po/ab.po
+Redo,178,Архынҳәра,179,swell-foop,po/ab.po
+Restart,184,Аиҭаҿакра,185,swell-foop,po/ab.po
+Main functions,190,Ихадоу афункциақәа,191,swell-foop,po/ab.po
+Start a new game,196,Ахәмарра ҿыц алагара,197,swell-foop,po/ab.po
+Generic,202,Азеиԥш,203,swell-foop,po/ab.po
+Open menu,208,Амениу аартра,209,swell-foop,po/ab.po
+Keyboard shortcuts,214,Арыдқәа реилаҵа,215,swell-foop,po/ab.po
+Help,220,Аилыркаа,221,swell-foop,po/ab.po
+About,226,Аԥшьы иазкны,227,swell-foop,po/ab.po
+Quit,232,Аҭыҵра ,233,swell-foop,po/ab.po
+_New Game,239,_Ахәмарра ҿыц,240,swell-foop,po/ab.po
+_Setup,244,_Архиарақәа,245,swell-foop,po/ab.po
+_Small (6 × 5),249,_Ахәыҷы,250,swell-foop,po/ab.po
+Nor_mal (15 × 10),254,_Абжьааԥнытәи,255,swell-foop,po/ab.po
+_Large (20 × 15),259,_Аду,260,swell-foop,po/ab.po
+_Two colors,264,_ҩ-ԥштәык,265,swell-foop,po/ab.po
+T_hree colors,269,_х-ԥштәык,270,swell-foop,po/ab.po
+_Four colors,274,_ԥшь-ԥштәык,275,swell-foop,po/ab.po
+High _Scores,279,_Иреиӷьу алҵшәақәа,280,swell-foop,po/ab.po
+A_ppearance,284,_аԥшра,285,swell-foop,po/ab.po
+_Colors,289,_ Аԥштәқәа,290,swell-foop,po/ab.po
+_Shapes and Colors,294,_Аиҿартәышьақәеи аԥштәқәеи,295,swell-foop,po/ab.po
+_Zealous Animation,304,_Иласу анимациа,305,swell-foop,po/ab.po
+_Keyboard Shortcuts,309,_Арыдқәа реилаҵа,310,swell-foop,po/ab.po
+_Help,314,_Аилыркаа,315,swell-foop,po/ab.po
+_About Swell Foop,319,_Аԥшьы Swell Foop иазкны,320,swell-foop,po/ab.po
+Undo,324,Аԥыхра,325,swell-foop,po/ab.po
+Redo,329,Архынҳәра,330,swell-foop,po/ab.po
+_Play Again,334,_Еиҭа ахәмарра,335,swell-foop,po/ab.po
+%u point,340,%u кәаталак,342,swell-foop,po/ab.po
+%u point,340,%u кәаталак,343,swell-foop,po/ab.po
+Game Over!,347,Ахәмарра хырқәшоуп,348,swell-foop,po/ab.po
+Print release version and exit,352,Акьыԥхьразы аверсиа аарԥшны аҭыҵра ,353,swell-foop,po/ab.po
+"I want to play that game!\nYou know, they all light-up and you click on them and they vanish!",368,Сара исҭахуп абри ахәмарра сыхәмарырц!\nУрҭ зегьы лашоит нас иӡоит шәанрыцәхасуа.,371,swell-foop,po/ab.po
+Copyright © 2009 Tim Horton,377,Аԥҵаҩы изин © 2009 Тим Хортон «Tim Horton»,378,swell-foop,po/ab.po
+Small,387,Ахәыҷы,388,swell-foop,po/ab.po
+Normal,392,Инормоу,393,swell-foop,po/ab.po
+Large,397,Аду,398,swell-foop,po/ab.po
+Clear as many blocks as you can.\nFewer clicks means more points.,402,Шаҟа шәылшо аблокқәа анышәх. Шаҟа имаҷны шәақәыӷәӷәо аҟара ирацәаны акәаталақәа шәырҳауоит.,405,swell-foop,po/ab.po
+Score: %u,412,Аԥхьаӡара: %u ,413,swell-foop,po/ab.po
+Abandon this game to start a new one?,417,Ари ахәмарра кажьны аҿыц алагара,418,swell-foop,po/ab.po
+_Cancel,422,_Аԥыхра,423,swell-foop,po/ab.po
+"%s, %d color",427,"%s, %d аԥштәы",429,swell-foop,po/ab.po
+"%s, %d color",427,"%s, %d аԥштәқәа",430,swell-foop,po/ab.po
+Type,434,Ахкы,435,swell-foop,po/ab.po

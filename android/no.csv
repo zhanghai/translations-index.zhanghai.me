@@ -1,0 +1,768 @@
+Build version,values/strings.xml,7,Delversjon,values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/about/res
+License details for open source software,values/strings.xml,15,Lisensdetaljer for programvare med åpen kildekode,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/about/res
+Open source licenses,values/strings.xml,19,Lisenser for åpen kildekode,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/about/res
+Privacy policy,values/strings.xml,25,Personvernregler,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/about/res
+Terms of service,values/strings.xml,31,Vilkår for bruk,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/about/res
+Phone,values/strings.xml,23,Telefon,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/app/res
+Phone Keypad,values/strings.xml,26,Telefontastatur,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/app/res
+Call history,values/strings.xml,34,Anropslogg,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/app/res
+Copy number,values/strings.xml,37,Kopiér nummeret,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/app/res
+Copy transcription,values/strings.xml,40,Kopiér transkripsjonen,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/app/res
+Edit number before call,values/strings.xml,43,Endre nummeret før du ringer,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/app/res
+Clear call history,values/strings.xml,46,Slett anropsloggen,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/app/res
+Delete voicemail,values/strings.xml,49,Slett talepost,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail deleted,values/strings.xml,52,Taleposten er slettet,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/app/res
+Clear call history?,values/strings.xml,55,Vil du slette anropsloggen?,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/app/res
+This will delete all calls from your history,values/strings.xml,58,Dette sletter alle anrop fra loggen,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/app/res
+Clearing call history\u2026,values/strings.xml,61,Sletter anropsloggen …,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/app/res
+Missed call,values/strings.xml,65,Tapt anrop,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/app/res
+Missed work call,values/strings.xml,67,Tapt jobbanrop,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/app/res
+Missed calls,values/strings.xml,69,Tapte anrop,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/app/res
+%d missed calls,values/strings.xml,71,%d tapte anrop,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/app/res
+Call back,values/strings.xml,75,Ring tilbake,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/app/res
+Message,values/strings.xml,79,Melding,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s: %2$s,values/strings.xml,83,%1$s: %2$s,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/app/res
+Dial %s,values/strings.xml,87,Ring %s,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail number unknown,values/strings.xml,90,Mangler nummer til talepostkasse,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail,values/strings.xml,93,talemelding,values-no/strings.xml,25,packages/apps/Dialer,java/com/android/dialer/app/res
+ %1$d Voicemails ,values/strings.xml,94,%1$d talemeldinger ,values-no/strings.xml,26,packages/apps/Dialer,java/com/android/dialer/app/res
+"%1$s, %2$s ",values/strings.xml,108,"%1$s, %2$s",values-no/strings.xml,28,packages/apps/Dialer,java/com/android/dialer/app/res
+New voicemail from %1$s ,values/strings.xml,113,Ny talemelding fra %1$s,values-no/strings.xml,29,packages/apps/Dialer,java/com/android/dialer/app/res
+Couldn't play voicemail,values/strings.xml,118,Kunne ikke spille av talepost,values-no/strings.xml,30,packages/apps/Dialer,java/com/android/dialer/app/res
+Loading voicemail\u2026,values/strings.xml,121,Laster inn talepost …,values-no/strings.xml,31,packages/apps/Dialer,java/com/android/dialer/app/res
+Couldn't load voicemail,values/strings.xml,124,Kunne ikke laste inn taleposten,values-no/strings.xml,32,packages/apps/Dialer,java/com/android/dialer/app/res
+(%1$d) %2$s ,values/strings.xml,127,(%1$d) %2$s,values-no/strings.xml,33,packages/apps/Dialer,java/com/android/dialer/app/res
+Switch on or off speakerphone,values/strings.xml,135,Slå høyttaleren på eller av,values-no/strings.xml,34,packages/apps/Dialer,java/com/android/dialer/app/res
+Seek playback position,values/strings.xml,141,Søk etter avspillingsposisjon,values-no/strings.xml,35,packages/apps/Dialer,java/com/android/dialer/app/res
+Call history,values/strings.xml,145,Anropslogg,values-no/strings.xml,36,packages/apps/Dialer,java/com/android/dialer/app/res
+More options,values/strings.xml,151,Flere alternativer,values-no/strings.xml,37,packages/apps/Dialer,java/com/android/dialer/app/res
+key pad,values/strings.xml,155,Tastatur,values-no/strings.xml,38,packages/apps/Dialer,java/com/android/dialer/app/res
+Settings,values/strings.xml,158,Innstillinger,values-no/strings.xml,39,packages/apps/Dialer,java/com/android/dialer/app/res
+Simulator,values/strings.xml,162,Simulator,values-no/strings.xml,40,packages/apps/Dialer,java/com/android/dialer/app/res
+Create New UI Shortcut,values/strings.xml,165,Nytt grensesnitt – lag snarvei,values-no/strings.xml,41,packages/apps/Dialer,java/com/android/dialer/app/res
+Entering bulk action mode,values/strings.xml,172,Starter massehandlingsmodus,values-no/strings.xml,42,packages/apps/Dialer,java/com/android/dialer/app/res
+Left bulk action mode,values/strings.xml,179,Massehandlingsmodus er avsluttet,values-no/strings.xml,43,packages/apps/Dialer,java/com/android/dialer/app/res
+Selected %1$s,values/strings.xml,186,Du har valgt %1$s,values-no/strings.xml,44,packages/apps/Dialer,java/com/android/dialer/app/res
+Unselected %1$s,values/strings.xml,193,Du har valgt bort %1$s,values-no/strings.xml,45,packages/apps/Dialer,java/com/android/dialer/app/res
+Contact details for %1$s,values/strings.xml,200,Kontaktinformasjon for %1$s,values-no/strings.xml,46,packages/apps/Dialer,java/com/android/dialer/app/res
+Contact details for suspected spam caller %1$s,values/strings.xml,208,Kontaktdetaljer for den potensielt useriøse oppringeren %1$s,values-no/strings.xml,47,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s calls.,values/strings.xml,215,%1$s samtaler.,values-no/strings.xml,48,packages/apps/Dialer,java/com/android/dialer/app/res
+Video call.,values/strings.xml,223,Videoanrop.,values-no/strings.xml,49,packages/apps/Dialer,java/com/android/dialer/app/res
+Start voice search,values/strings.xml,226,Start talesøk,values-no/strings.xml,50,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail,values/strings.xml,229,Telefonsvarer,values-no/strings.xml,51,packages/apps/Dialer,java/com/android/dialer/app/res
+Cancel batch actions mode,values/strings.xml,234,Avbryt massehandlinsmodus,values-no/strings.xml,52,packages/apps/Dialer,java/com/android/dialer/app/res
+Delete,values/strings.xml,236,Slett,values-no/strings.xml,53,packages/apps/Dialer,java/com/android/dialer/app/res
+Cancel,values/strings.xml,237,Avbryt,values-no/strings.xml,54,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s selected,values/strings.xml,239,%1$s er valgt,values-no/strings.xml,55,packages/apps/Dialer,java/com/android/dialer/app/res
+Delete this voicemail? ,values/strings.xml,243,Vil du slette denne talemeldingen? ,values-no/strings.xml,57,packages/apps/Dialer,java/com/android/dialer/app/res
+Delete these voicemails? ,values/strings.xml,244,Vil du slette disse talemeldingene? ,values-no/strings.xml,58,packages/apps/Dialer,java/com/android/dialer/app/res
+@string/call_log_header_today,values/strings.xml,250,@string/call_log_header_today,values-no/strings.xml,60,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s at %2$s,values/strings.xml,254,%1$s kl. %2$s,values-no/strings.xml,61,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$02d:%2$02d,values/strings.xml,257,%1$02d:%2$02d,values-no/strings.xml,62,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s \u2022 %2$s,values/strings.xml,260,%1$s • %2$s,values-no/strings.xml,63,packages/apps/Dialer,java/com/android/dialer/app/res
+Voice search not available,values/strings.xml,263,Talesøk er ikke tilgjengelig,values-no/strings.xml,64,packages/apps/Dialer,java/com/android/dialer/app/res
+Search contacts,values/strings.xml,267,Søk i kontakter,values-no/strings.xml,65,packages/apps/Dialer,java/com/android/dialer/app/res
+Add number or search contacts,values/strings.xml,271,Legg til nummer eller søk etter kontakter,values-no/strings.xml,66,packages/apps/Dialer,java/com/android/dialer/app/res
+Your call history is empty,values/strings.xml,274,Anropsloggen er tom,values-no/strings.xml,67,packages/apps/Dialer,java/com/android/dialer/app/res
+Make a call,values/strings.xml,277,Start en samtale,values-no/strings.xml,68,packages/apps/Dialer,java/com/android/dialer/app/res
+You have no missed calls.,values/strings.xml,280,Du har ingen tapte anrop.,values-no/strings.xml,69,packages/apps/Dialer,java/com/android/dialer/app/res
+Your voicemail inbox is empty.,values/strings.xml,283,Talepostkassen din er tom.,values-no/strings.xml,70,packages/apps/Dialer,java/com/android/dialer/app/res
+Call History,values/strings.xml,286,Anropslogg,values-no/strings.xml,71,packages/apps/Dialer,java/com/android/dialer/app/res
+All,values/strings.xml,290,Alle,values-no/strings.xml,72,packages/apps/Dialer,java/com/android/dialer/app/res
+Missed,values/strings.xml,294,Ubesvarte,values-no/strings.xml,73,packages/apps/Dialer,java/com/android/dialer/app/res
+Speed dial,values/strings.xml,298,Hurtigvalg,values-no/strings.xml,74,packages/apps/Dialer,java/com/android/dialer/app/res
+Call History,values/strings.xml,301,Anropslogg,values-no/strings.xml,75,packages/apps/Dialer,java/com/android/dialer/app/res
+Contacts,values/strings.xml,304,Kontakter,values-no/strings.xml,76,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail,values/strings.xml,307,Talepostkasse,values-no/strings.xml,77,packages/apps/Dialer,java/com/android/dialer/app/res
+Call %s ,values/strings.xml,310,Ring %s,values-no/strings.xml,78,packages/apps/Dialer,java/com/android/dialer/app/res
+Create new contact,values/strings.xml,316,Opprett ny kontakt,values-no/strings.xml,79,packages/apps/Dialer,java/com/android/dialer/app/res
+Add to a contact,values/strings.xml,320,Legg til for en kontakt,values-no/strings.xml,80,packages/apps/Dialer,java/com/android/dialer/app/res
+Send SMS,values/strings.xml,323,Send SMS,values-no/strings.xml,81,packages/apps/Dialer,java/com/android/dialer/app/res
+Make video call,values/strings.xml,326,Start en videosamtale,values-no/strings.xml,82,packages/apps/Dialer,java/com/android/dialer/app/res
+Block number,values/strings.xml,329,Blokkér nummeret,values-no/strings.xml,83,packages/apps/Dialer,java/com/android/dialer/app/res
+No one is on your speed dial yet,values/strings.xml,332,Du har ingen på hurtigoppringning ennå,values-no/strings.xml,84,packages/apps/Dialer,java/com/android/dialer/app/res
+Add a favorite,values/strings.xml,335,Legg til en favoritt,values-no/strings.xml,85,packages/apps/Dialer,java/com/android/dialer/app/res
+Remove,values/strings.xml,338,Fjern,values-no/strings.xml,86,packages/apps/Dialer,java/com/android/dialer/app/res
+Select all,values/strings.xml,341,Velg alle,values-no/strings.xml,87,packages/apps/Dialer,java/com/android/dialer/app/res
+Video call,values/strings.xml,346,Videoanrop,values-no/strings.xml,88,packages/apps/Dialer,java/com/android/dialer/app/res
+Set up video calling,values/strings.xml,351,Konfigurer videoanrop,values-no/strings.xml,89,packages/apps/Dialer,java/com/android/dialer/app/res
+Invite to video call,values/strings.xml,356,Inviter til videosamtale,values-no/strings.xml,90,packages/apps/Dialer,java/com/android/dialer/app/res
+Send a message,values/strings.xml,361,Send en melding,values-no/strings.xml,91,packages/apps/Dialer,java/com/android/dialer/app/res
+Call details,values/strings.xml,366,Samtaleinformasjon,values-no/strings.xml,92,packages/apps/Dialer,java/com/android/dialer/app/res
+Send to …,values/strings.xml,370,Send til …,values-no/strings.xml,93,packages/apps/Dialer,java/com/android/dialer/app/res
+ Call ^1 ,values/strings.xml,374,Ring ^1,values-no/strings.xml,94,packages/apps/Dialer,java/com/android/dialer/app/res
+"Missed call from ^1, ^2, ^3, ^4.",values/strings.xml,381,"Ubesvart anrop fra ^1, ^2, ^3, ^4.",values-no/strings.xml,95,packages/apps/Dialer,java/com/android/dialer/app/res
+"Answered call from ^1, ^2, ^3, ^4.",values/strings.xml,386,"Besvart anrop fra ^1, ^2, ^3, ^4.",values-no/strings.xml,96,packages/apps/Dialer,java/com/android/dialer/app/res
+"Unread voicemail from ^1, ^2, ^3, ^4.",values/strings.xml,391,"Ulest talepost fra ^1, ^2, ^3, ^4.",values-no/strings.xml,97,packages/apps/Dialer,java/com/android/dialer/app/res
+"Voicemail from ^1, ^2, ^3, ^4.",values/strings.xml,396,"Talepost fra ^1, ^2, ^3, ^4.",values-no/strings.xml,98,packages/apps/Dialer,java/com/android/dialer/app/res
+"Call to ^1, ^2, ^3, ^4.",values/strings.xml,401,"Ring til ^1, ^2, ^3, ^4.",values-no/strings.xml,99,packages/apps/Dialer,java/com/android/dialer/app/res
+via %1$s,values/strings.xml,405,via %1$s,values-no/strings.xml,100,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s via %2$s,values/strings.xml,410,%1$s via %2$s,values-no/strings.xml,101,packages/apps/Dialer,java/com/android/dialer/app/res
+ Call ^1 ,values/strings.xml,416,Ring ^1,values-no/strings.xml,102,packages/apps/Dialer,java/com/android/dialer/app/res
+ Video call ^1. ,values/strings.xml,424,Start videoanrop med ^1.,values-no/strings.xml,103,packages/apps/Dialer,java/com/android/dialer/app/res
+ Listen to voicemail from ^1 ,values/strings.xml,433,Lytt til talepostkasse fra ^1,values-no/strings.xml,104,packages/apps/Dialer,java/com/android/dialer/app/res
+ Create contact for ^1 ,values/strings.xml,439,Opprett kontakt for ^1,values-no/strings.xml,105,packages/apps/Dialer,java/com/android/dialer/app/res
+ Add ^1 to existing contact ,values/strings.xml,446,Legg ^1 til en eksisterende kontakt,values-no/strings.xml,106,packages/apps/Dialer,java/com/android/dialer/app/res
+ Call details for ^1 ,values/strings.xml,454,Samtaledetaljer for ^1,values-no/strings.xml,107,packages/apps/Dialer,java/com/android/dialer/app/res
+Today,values/strings.xml,460,I dag,values-no/strings.xml,108,packages/apps/Dialer,java/com/android/dialer/app/res
+Yesterday,values/strings.xml,464,I går,values-no/strings.xml,109,packages/apps/Dialer,java/com/android/dialer/app/res
+Older,values/strings.xml,468,Eldre,values-no/strings.xml,110,packages/apps/Dialer,java/com/android/dialer/app/res
+Turn speaker on.,values/strings.xml,475,Slå på høyttaleren.,values-no/strings.xml,111,packages/apps/Dialer,java/com/android/dialer/app/res
+Turn speaker off.,values/strings.xml,482,Slå av høyttaleren.,values-no/strings.xml,112,packages/apps/Dialer,java/com/android/dialer/app/res
+Start or pause playback.,values/strings.xml,488,Start eller stopp avspillingen.,values-no/strings.xml,113,packages/apps/Dialer,java/com/android/dialer/app/res
+Display options,values/strings.xml,494,Visningsalternativer,values-no/strings.xml,114,packages/apps/Dialer,java/com/android/dialer/app/res
+Sounds and vibration,values/strings.xml,498,Lyder og vibrasjon,values-no/strings.xml,115,packages/apps/Dialer,java/com/android/dialer/app/res
+Accessibility,values/strings.xml,502,Tilgjengelighet,values-no/strings.xml,116,packages/apps/Dialer,java/com/android/dialer/app/res
+Phone ringtone,values/strings.xml,505,Telefonringelyd,values-no/strings.xml,117,packages/apps/Dialer,java/com/android/dialer/app/res
+"""Also vibrate for calls",values/strings.xml,509,Vibrer også når det ringer,values-no/strings.xml,118,packages/apps/Dialer,java/com/android/dialer/app/res
+Keypad tones,values/strings.xml,512,Tastaturlyder,values-no/strings.xml,119,packages/apps/Dialer,java/com/android/dialer/app/res
+Keypad tone length,values/strings.xml,514,Lengde på tastaturlyder,values-no/strings.xml,120,packages/apps/Dialer,java/com/android/dialer/app/res
+Normal,values/strings.xml,517,Normal,values-no/strings.xml,122,packages/apps/Dialer,java/com/android/dialer/app/res
+Long,values/strings.xml,518,Lang,values-no/strings.xml,123,packages/apps/Dialer,java/com/android/dialer/app/res
+Quick responses,values/strings.xml,526,Hurtigsvar,values-no/strings.xml,125,packages/apps/Dialer,java/com/android/dialer/app/res
+Calls,values/strings.xml,529,Anrop,values-no/strings.xml,126,packages/apps/Dialer,java/com/android/dialer/app/res
+Blocked numbers,values/strings.xml,532,Blokkerte numre,values-no/strings.xml,127,packages/apps/Dialer,java/com/android/dialer/app/res
+Voicemail,values/strings.xml,535,Talepost,values-no/strings.xml,128,packages/apps/Dialer,java/com/android/dialer/app/res
+ Call blocking temporarily off ,values/strings.xml,539,Blokkering av anrop er midlertidig slått av,values-no/strings.xml,129,packages/apps/Dialer,java/com/android/dialer/app/res
+ Call blocking has been disabled because you contacted emergency services from this phone within the last 48 hours. It will be automatically reenabled once the 48 hour period expires. ,values/strings.xml,546,Blokkering av anrop er slått av fordi du kontaktet nødtjenester fra denne telefonen i løpet av de siste 48 timene. Funksjonen blir automatisk slått på igjen når perioden på 48 timer er utløpt.,values-no/strings.xml,130,packages/apps/Dialer,java/com/android/dialer/app/res
+Import numbers,values/strings.xml,554,Importér numre,values-no/strings.xml,131,packages/apps/Dialer,java/com/android/dialer/app/res
+ You previously marked some callers to be automatically sent to voicemail via other apps. ,values/strings.xml,559,Du markerte tidligere noen anropere for automatisk overføring til talepost via andre apper.,values-no/strings.xml,132,packages/apps/Dialer,java/com/android/dialer/app/res
+View Numbers,values/strings.xml,565,Se numre,values-no/strings.xml,133,packages/apps/Dialer,java/com/android/dialer/app/res
+Import,values/strings.xml,569,Importér,values-no/strings.xml,134,packages/apps/Dialer,java/com/android/dialer/app/res
+Unblock number,values/strings.xml,574,Opphev blokkeringen av nummeret,values-no/strings.xml,135,packages/apps/Dialer,java/com/android/dialer/app/res
+Add number,values/strings.xml,577,Legg til nummer,values-no/strings.xml,136,packages/apps/Dialer,java/com/android/dialer/app/res
+ Calls from these numbers will be blocked and voicemails will be automatically deleted. ,values/strings.xml,581,"Anrop fra disse numrene blokkeres, og talepost blir automatisk slettet.",values-no/strings.xml,137,packages/apps/Dialer,java/com/android/dialer/app/res
+" Calls from these numbers will be blocked, but they may still be able to leave you voicemails. ",values/strings.xml,587,"Anrop fra dette nummeret blokkeres, men du kan fortsatt motta talepost.",values-no/strings.xml,138,packages/apps/Dialer,java/com/android/dialer/app/res
+Blocked numbers,values/strings.xml,592,Blokkerte numre,values-no/strings.xml,139,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s is already blocked.,values/strings.xml,596,%1$s er allerede blokkert.,values-no/strings.xml,140,packages/apps/Dialer,java/com/android/dialer/app/res
+Calling accounts,values/strings.xml,600,Ringekontoer,values-no/strings.xml,141,packages/apps/Dialer,java/com/android/dialer/app/res
+"To enable speed dial, turn on the Contacts permission.",values/strings.xml,612,"For å slå på hurtigoppringning, slå på Kontakter-tillatelsen.",values-no/strings.xml,142,packages/apps/Dialer,java/com/android/dialer/app/res
+"To see your call log, turn on the Phone permission.",values/strings.xml,615,"For å se samtaleloggen din, slå på Telefon-tillatelsen.",values-no/strings.xml,143,packages/apps/Dialer,java/com/android/dialer/app/res
+"To search your contacts, turn on the Contacts permissions.",values/strings.xml,618,"For å søke i kontaktene dine, slå på tillatelser for Kontakter.",values-no/strings.xml,144,packages/apps/Dialer,java/com/android/dialer/app/res
+"To place a call, turn on the Phone permission.",values/strings.xml,621,"For å ringe, slå på Telefon-tillatelsen.",values-no/strings.xml,145,packages/apps/Dialer,java/com/android/dialer/app/res
+Phone app does not have permission to write to system settings.,values/strings.xml,624,Telefonappen har ikke tillatelse til å skrive til systeminnstillinger.,values-no/strings.xml,146,packages/apps/Dialer,java/com/android/dialer/app/res
+Blocked,values/strings.xml,627,Blokkert,values-no/strings.xml,147,packages/apps/Dialer,java/com/android/dialer/app/res
+Block/report spam,values/strings.xml,632,Blokkér/rapportér som useriøs,values-no/strings.xml,148,packages/apps/Dialer,java/com/android/dialer/app/res
+Block number,values/strings.xml,637,Blokkér nummeret,values-no/strings.xml,149,packages/apps/Dialer,java/com/android/dialer/app/res
+Not spam,values/strings.xml,642,Ikke useriøs,values-no/strings.xml,150,packages/apps/Dialer,java/com/android/dialer/app/res
+Unblock number,values/strings.xml,647,Opphev blokkeringen av nummeret,values-no/strings.xml,151,packages/apps/Dialer,java/com/android/dialer/app/res
+Spam,values/strings.xml,650,Nettsøppel,values-no/strings.xml,152,packages/apps/Dialer,java/com/android/dialer/app/res
+%1$s is offline and can't be reached,values/strings.xml,653,%1$s er frakoblet og kan ikke nås,values-no/strings.xml,153,packages/apps/Dialer,java/com/android/dialer/app/res
+About,values/strings.xml,656,Om,values-no/strings.xml,154,packages/apps/Dialer,java/com/android/dialer/app/res
+Transcribed by Google,values/strings.xml,659,Transkribert av Google,values-no/strings.xml,155,packages/apps/Dialer,java/com/android/dialer/app/res
+Transcribing…,values/strings.xml,662,Transkriberer …,values-no/strings.xml,156,packages/apps/Dialer,java/com/android/dialer/app/res
+Transcript not available.,values/strings.xml,665,Ingen transkripsjon.,values-no/strings.xml,157,packages/apps/Dialer,java/com/android/dialer/app/res
+Transcript not available. Language not supported.,values/strings.xml,669,Ingen transkripsjon. Språket støttes ikke.,values-no/strings.xml,158,packages/apps/Dialer,java/com/android/dialer/app/res
+Transcript not available. No speech detected.,values/strings.xml,673,Ingen transkripsjon. Ingen tale ble registrert.,values-no/strings.xml,159,packages/apps/Dialer,java/com/android/dialer/app/res
+Help improve transcription accuracy?,values/strings.xml,677,Vil du hjelpe oss med å gjøre transkripsjoner mer nøyaktige?,values-no/strings.xml,160,packages/apps/Dialer,java/com/android/dialer/app/res
+ Let Google review this and future voicemail messages with transcripts. They'll be stored anonymously. Change Settings any time. %1$s ,values/strings.xml,681,La Google gå gjennom denne og fremtidige talemeldinger med transkripsjoner. De blir lagret anonymt. Du kan endre innstillingene når som helst. %1$s,values-no/strings.xml,161,packages/apps/Dialer,java/com/android/dialer/app/res
+"Yes, I'm in",values/strings.xml,690,"Ja, jeg er med",values-no/strings.xml,162,packages/apps/Dialer,java/com/android/dialer/app/res
+No thanks,values/strings.xml,694,Nei takk,values-no/strings.xml,163,packages/apps/Dialer,java/com/android/dialer/app/res
+Rate transcription quality,values/strings.xml,698,Vurder transkripsjonskvalitet,values-no/strings.xml,164,packages/apps/Dialer,java/com/android/dialer/app/res
+Thanks for your feedback,values/strings.xml,701,Takk for tilbakemeldingen,values-no/strings.xml,165,packages/apps/Dialer,java/com/android/dialer/app/res
+Like,values/strings.xml,705,Liker,values-no/strings.xml,166,packages/apps/Dialer,java/com/android/dialer/app/res
+Dislike,values/strings.xml,709,Liker ikke,values-no/strings.xml,167,packages/apps/Dialer,java/com/android/dialer/app/res
+View,values/strings.xml,712,Se,values-no/strings.xml,168,packages/apps/Dialer,java/com/android/dialer/app/res
+Call deleted. View and delete attachments shared during this call in Messages.,values/strings.xml,716,"Anropet er slettet. Se og slett vedleggene som ble delt i denne samtalen, i Meldinger.",values-no/strings.xml,169,packages/apps/Dialer,java/com/android/dialer/app/res
+Calls deleted. View and delete attachments shared during calls in Messages.,values/strings.xml,720,"Anropene er slettet. Se og slett vedleggene som ble delt i samtalene, i Meldinger.",values-no/strings.xml,170,packages/apps/Dialer,java/com/android/dialer/app/res
+Assisted dialing,values/strings.xml,20,Hjelp med å slå numre,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+Predict and add a country code when you call while traveling abroad,values/strings.xml,23,Forutsi og legg til landkode når du ringer mens du er utenlands,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+Automatically detected • %1$s,values/strings.xml,26,Identifisert automatisk • %1$s,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+Automatically detected,values/strings.xml,29,Identifisert automatisk,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+Home country,values/strings.xml,32,Hjemland,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+Default home country,values/strings.xml,35,Standard hjemland,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/assisteddialing/ui/res
+"New, simplified blocking",values/strings.xml,19,"Ny, forenklet blokkering",values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/blocking/res
+"To better protect you, Phone needs to change how blocking works. Your blocked numbers will now stop both calls and texts and may be shared with other apps.",values/strings.xml,22,"Telefon-appen endrer innstillingene for blokkering for at du skal være bedre beskyttet. Du mottar verken meldinger eller anrop fra blokkerte numre, og det kan hende at disse numrene blir delt med andre apper.",values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/blocking/res
+Allow,values/strings.xml,25,Tillat,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Block%1$s? ,values/strings.xml,32,Vil du blokkere %1$s?,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Calls from this number will be blocked and voicemails will be automatically deleted. ,values/strings.xml,38,"Anrop fra dette nummeret blokkeres, og talepost blir automatisk slettet.",values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/blocking/res
+" Calls from this number will be blocked, but the caller may still be able to leave you voicemails. ",values/strings.xml,44,"Anrop fra dette nummeret blokkeres, men den som ringer kan fortsatt legge igjen beskjeder i talepostkassen din.",values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ You will no longer receive calls or texts from this number. ,values/strings.xml,50,Du kommer ikke lenger til å motta anrop eller SMS-er fra dette nummeret.,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/blocking/res
+BLOCK,values/strings.xml,55,BLOKKÉR,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Unblock%1$s? ,values/strings.xml,58,Vil du oppheve blokkeringen av %1$s?,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/blocking/res
+UNBLOCK,values/strings.xml,63,OPPHEV BLOKKERINGEN,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ %1$sis invalid. ,values/strings.xml,67,%1$s er ugyldig.,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ %1$s blocked ,values/strings.xml,72,%1$s er blokkert,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ %1$sunblocked ,values/strings.xml,77,Blokkeringen av %1$s er opphevet,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/blocking/res
+Import failed,values/strings.xml,82,Importeringen mislyktes,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Call blocking disabled for 48 hours ,values/strings.xml,86,Anropsblokkering er slått av i 48 timer,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Disabled because an emergency call was made. ,values/strings.xml,93,Slått av fordi du foretok et nødanrop.,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/blocking/res
+ Block %1$s? ,values/strings.xml,20,Vil du blokkere %1$s?,values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+ You will no longer receive calls or texts from this number. ,values/strings.xml,26,Du kommer ikke lenger til å motta anrop eller SMS-er fra dette nummeret.,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+BLOCK,values/strings.xml,31,BLOKKÉR,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+UNBLOCK,values/strings.xml,34,OPPHEV BLOKKERINGEN,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Block %1$s?,values/strings.xml,37,Vil du blokkere %1$s?,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+You will no longer receive calls from this number.,values/strings.xml,40,Du får ingen flere anrop eller meldinger fra dette telefonnummeret.,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+%1$s This call will be reported as spam.,values/strings.xml,43,%1$s Dette anropet blir rapportert som useriøst.,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+This number will be unblocked and reported as not spam. Future calls won't be identified as spam.,values/strings.xml,46,"Blokkeringen oppheves, og nummeret rapporteres som «ikke useriøst». Fremtidige anrop blir ikke identifisert som useriøse.",values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Unblock %1$s?,values/strings.xml,49,Vil du oppheve blokkeringen av %1$s?,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Report,values/strings.xml,52,Rapport,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Report a mistake?,values/strings.xml,55,Vil du rapportere en feil?,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Future calls from %1$s will no longer be identified as spam.,values/strings.xml,58,Fremtidige anrop fra %1$s blir ikke definert som useriøse.,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Report call as spam,values/strings.xml,61,Rapportér anropet som useriøst,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Problem blocking this number,values/strings.xml,64,Kunne ikke blokkere dette nummeret,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Problem unblocking this number,values/strings.xml,67,Kunne ikke oppheve blokkeringen av dette nummeret,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/blockreportspam/res
+Switch to full screen camera,values/strings.xml,19,Bytt til fullskjermkamera,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Switch to camera preview,values/strings.xml,21,Bytt til forhåndsvisning for kamera,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Switch to front facing camera,values/strings.xml,23,Bytt til frontkamera,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Switch to back facing camera,values/strings.xml,25,Bytt til bakovervendt kamera,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Take photo,values/strings.xml,27,Ta bilde,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Retake photo,values/strings.xml,29,Ta bilde på nytt,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/callcomposer/cameraui/res
+Urgent! Please pick up!,values/strings.xml,19,Haster! Vennligst svar.,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Want to chat?,values/strings.xml,21,Vil du chatte?,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Quick question…,values/strings.xml,23,Et kjapt spørsmål …,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Write a custom message,values/strings.xml,25,Skriv egendefinert melding,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Send and call,values/strings.xml,27,Sende og ringe,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Share and call,values/strings.xml,29,Del og ring,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+image %1$tB %1$te %1$tY %1$tl %1$tM %1$tp,values/strings.xml,31,bilde %1$tB %1$te %1$tY %1$tl %1$tM %1$tp,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+image,values/strings.xml,33,bilde,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Couldn't load camera image,values/strings.xml,35,Kunne ikke laste inn kamerabilde,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Allow,values/strings.xml,37,Tillat,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+"To take a photo, give access to Camera",values/strings.xml,39,Gi tilgang til kameraet for å ta bilder,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+"To share an image, give access to Media",values/strings.xml,41,Gi Media tilgang for å dele bilder,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Take a picture,values/strings.xml,43,Ta et bilde,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Choose a photo,values/strings.xml,45,Velg et bilde,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Send a message,values/strings.xml,47,Send en melding,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Photo sent via Messages,values/strings.xml,50,Bildet er sendt via Messages,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Message sent via Messages,values/strings.xml,53,Meldingen er sendt via Messages,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Sending image\u2026,values/strings.xml,56,Sender bildet …,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/callcomposer/res
+Call details,values/strings.xml,19,Samtaleinformasjon,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Delete,values/strings.xml,22,Slett,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Copy number,values/strings.xml,25,Kopiér nummeret,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Edit number before call,values/strings.xml,28,Rediger nummeret før du ringer,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Report inaccurate number,values/strings.xml,31,Rapportér feil nummer,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Sent a photo,values/strings.xml,34,Et bilde ble sendt,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Received a photo,values/strings.xml,37,Et bilde ble mottatt,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+"""%1$s""",values/strings.xml,40,«%1$s»,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Report incorrect number,values/strings.xml,44,Rapportér feil nummer,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Couldn't report number,values/strings.xml,48,Kunne ikke rapportere nummeret,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Number reported,values/strings.xml,51,Nummeret er rapportert,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Assisted dialing: Used country code +%1$s,values/strings.xml,54,Oppringningsassistanse: Brukte landkoden +%1$s,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Assisted dialing was used,values/strings.xml,57,Oppringningsassistanse ble brukt,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Transcript available only for calls with messaging,values/strings.xml,60,Transkripsjoner er bare tilgjengelige for anrop med meldinger,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+See transcript,values/strings.xml,63,Se transkripsjonen,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/calldetails/res
+Call details,values/strings.xml,22,Anropsinformasjon,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/calllog/ui/menu/res
+Delete,values/strings.xml,25,Slett,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/calllog/ui/menu/res
+expand menu,values/strings.xml,25,expand menu,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+ call ^1 ,values/strings.xml,32,call ^1,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+ make a video call to ^1 ,values/strings.xml,41,make a video call to ^1,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+Today,values/strings.xml,46,I dag,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+Yesterday,values/strings.xml,49,I går,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+Older,values/strings.xml,52,Eldre,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+"To see your call log, turn on the Phone permission.",values/strings.xml,55,Slå på Telefon-tillatelsen for å se anropsloggen din.,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/calllog/ui/res
+Incoming call,values/strings.xml,19,Innkommende anrop,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Incoming call transferred to another device,values/strings.xml,22,Det innkommende anropet ble overført til en annen enhet,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Outgoing call,values/strings.xml,25,Utgående anrop,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Outgoing call transferred to another device,values/strings.xml,28,Det utgående anropet ble overført til en annen enhet,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Missed call,values/strings.xml,31,Tapt anrop,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Incoming video call,values/strings.xml,34,Innkommende videoanrop,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Incoming video call transferred to another device,values/strings.xml,38,Det innkommende videoanropet ble overført til en annen enhet,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Outgoing video call,values/strings.xml,41,Utgående videoanrop,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Outgoing video call transferred to another device,values/strings.xml,45,Det utgående videoanropet ble overført til en annen enhet,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Missed video call,values/strings.xml,48,Ubesvart videoanrop,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Voicemail,values/strings.xml,51,Talepost,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Declined call,values/strings.xml,54,Avvist anrop,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Blocked call,values/strings.xml,57,Blokkert anrop,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+m,values/strings.xml,60,min.,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+s,values/strings.xml,63,sek.,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+ %1$d %2$s %3$d %4$s ,values/strings.xml,68,%1$d %2$s %3$d %4$s,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+ %1$d %2$s ,values/strings.xml,75,%1$d %2$s,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+ %1$s'%2$s' %3$s'%4$s' ,values/strings.xml,82,%1$s '%2$s' %3$s '%4$s',values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+ %1$s'%2$s' ,values/strings.xml,89,%1$s '%2$s',values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+second,values/strings.xml,95,sekund,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+seconds,values/strings.xml,96,sekunder,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+minute,values/strings.xml,101,minutt,values-no/strings.xml,27,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+minutes,values/strings.xml,102,minutter,values-no/strings.xml,28,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Call answered on another device,values/strings.xml,108,Anropet ble besvart på en annen enhet,values-no/strings.xml,30,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+on ^1,values/strings.xml,115,på ^1,values-no/strings.xml,31,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+via %1$s,values/strings.xml,120,via %1$s,values-no/strings.xml,32,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+"on %1$s, via %2$s",values/strings.xml,126,på %1$s via %2$s,values-no/strings.xml,33,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Voicemail,values/strings.xml,129,Talepost,values-no/strings.xml,34,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Just now,values/strings.xml,132,Nå nettopp,values-no/strings.xml,35,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Carrier video,values/strings.xml,135,Video via mobiloperatør,values-no/strings.xml,36,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Duo video,values/strings.xml,138,Video via Duo,values-no/strings.xml,37,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Unknown,values/strings.xml,141,Ukjent,values-no/strings.xml,38,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Blocked,values/strings.xml,144,Blokkert,values-no/strings.xml,39,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Spam,values/strings.xml,147,Nettsøppel,values-no/strings.xml,40,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+^1 missed call from ^2,values/strings.xml,154,^1 tapt anrop fra ^2,values-no/strings.xml,42,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+"^1 calls, the latest is a missed call from ^2",values/strings.xml,155,"^1 anrop, det nyeste er et tapt anrop fra ^2",values-no/strings.xml,43,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+^1 answered call from ^2,values/strings.xml,163,^1 besvart anrop fra ^2,values-no/strings.xml,46,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+"^1 calls, the latest is an answered call from ^2",values/strings.xml,164,"^1 anrop, det nyeste er et besvart anrop fra ^2",values-no/strings.xml,47,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+^1 outgoing call to ^2,values/strings.xml,172,^1 utgående anrop til ^2,values-no/strings.xml,50,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+"^1 calls, the latest is an outgoing call to ^2",values/strings.xml,173,"^1 anrop, det nyeste er et utgående anrop til ^2",values-no/strings.xml,51,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+^1 blocked call from ^2,values/strings.xml,181,^1 blokkert anrop fra ^2,values-no/strings.xml,54,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+"^1 calls, the latest is a blocked call from ^2",values/strings.xml,182,"^1 anrop, det nyeste er et blokkert anrop fra ^2",values-no/strings.xml,55,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+" on ^1, via ^2 ",values/strings.xml,191,på ^1 via ^2,values-no/strings.xml,57,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+" ^1, ^2. ",values/strings.xml,200,"^1, ^2.",values-no/strings.xml,58,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+" ^1, ^2, ^3. ",values/strings.xml,208,"^1, ^2, ^3.",values-no/strings.xml,59,packages/apps/Dialer,java/com/android/dialer/calllogutils/res
+Text copied,values/strings.xml,21,Teksten er kopiert,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/clipboard/res
+Wifi,values/strings.xml,18,Wi-Fi,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/common/res
+Mobile,values/strings.xml,19,Mobil,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/common/res
+More options,values/strings.xml,21,Flere alternativer,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/common/res
+UNDO,values/strings.xml,23,ANGRE,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/common/res
+"OK, got it",values/strings.xml,25,Greit,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/common/res
+Quick contact for %1$s,values/strings.xml,23,Hurtigkontakt for %1$s,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/contactphoto/res
+Navigate back,values/strings.xml,22,Gå tilbake,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+More options,values/strings.xml,25,Flere alternativer,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+backspace,values/strings.xml,30,tilbaketast,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+dial plus,values/strings.xml,33,slå plusstegn,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+call voicemail,values/strings.xml,38,ring talepostkassen,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+dial,values/strings.xml,44,ring,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+"To call voicemail, first turn off Airplane mode.",values/strings.xml,49,Du må slå av flymodus før du kan sjekke talepostkassen.,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+"To set up voicemail, go to Menu > Settings.",values/strings.xml,53,"For å konfigurere talepostfunksjonen, gå til Meny > Innstillinger.",values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Add 2-sec pause,values/strings.xml,56,Legg til pause på 2 sek.,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Add wait,values/strings.xml,57,Legg til Vent,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Use touch-tone keypad,values/strings.xml,62,Bruk tonetastatur,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Return to call in progress,values/strings.xml,67,Gå tilbake til aktiv samtale,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Add call,values/strings.xml,72,Nytt anrop,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+IMEI,values/strings.xml,75,IMEI,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+MEID,values/strings.xml,78,MEID,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Loading from SIM card\u2026,values/strings.xml,87,Henter fra SIM-kort …,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+SIM card contacts,values/strings.xml,90,Kontakter på SIM-kort,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Call %s,values/strings.xml,93,Ring %s,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Can't make emergency calls over WiFi,values/strings.xml,102,Kan ikke ringe nødnumre via Wi‑Fi,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+Can't call this number,values/strings.xml,106,Kan ikke ringe dette nummeret,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/dialer/dialpadview/res
+ Quick contact for ^1 ,values/strings.xml,23,Hurtigkontakt for ^1,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/glidephotomanager/impl/res
+Voice call,values/strings.xml,20,Taleanrop,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Video call,values/strings.xml,23,Videoanrop,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Add contact,values/strings.xml,27,Legg til i Kontakter,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Message,values/strings.xml,31,Melding,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Not spam,values/strings.xml,34,Ikke useriøs,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Block,values/strings.xml,37,Blokkér,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Unblock,values/strings.xml,40,Opphev blokkering,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Block/Report spam,values/strings.xml,43,Blokkér/rapportér som useriøs,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Copy number,values/strings.xml,46,Kopiér nummeret,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/historyitemactions/res
+Choose number,values/strings.xml,21,Velg nummer,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/interactions/res
+Choose number,values/strings.xml,24,Velg nummer,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/interactions/res
+Remember this choice,values/strings.xml,27,Husk dette valget,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/interactions/res
+Phone,values/strings.xml,19,Telefon,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/main/impl/res
+@android:string/search_go,values/strings.xml,25,@android:string/search_go,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/dialer/main/impl/res
+Search contacts and places,values/strings.xml,27,Søk etter kontakter og steder,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/dialer/main/impl/res
+Contacts,values/strings.xml,30,Google-kontakter,values-no/strings.xml,25,packages/apps/Dialer,java/com/android/dialer/main/impl/res
+View Contacts,values/strings.xml,32,Se kontakter,values-no/strings.xml,26,packages/apps/Dialer,java/com/android/dialer/main/impl/res
+Incoming calls,values/strings.xml,19,Innkommende anrop,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/notification/res
+Ongoing calls,values/strings.xml,20,Pågående samtaler,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/notification/res
+Missed calls,values/strings.xml,21,Tapte anrop,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/notification/res
+Voicemails,values/strings.xml,22,Talepost,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/notification/res
+Default,values/strings.xml,24,Standard,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/notification/res
+Restricted,values/strings.xml,21,Begrenset,values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/phonenumberutil/res
+Private number,values/strings.xml,26,Skjult nummer,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/phonenumberutil/res
+Say why you called,values/strings.xml,19,Si hvorfor du ringte,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/postcall/res
+This is urgent. Call me back.,values/strings.xml,21,Haster! Ring meg.,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/postcall/res
+Call me back when you have some time.,values/strings.xml,23,Ring tilbake når du har tid.,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/postcall/res
+"Not urgent, we can chat later.",values/strings.xml,25,Haster ikke. Prates senere?,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/postcall/res
+Add message,values/strings.xml,27,Legg til melding,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/postcall/res
+Send message,values/strings.xml,29,Send melding,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/postcall/res
+Message sent,values/strings.xml,31,Meldingen er sendt,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/postcall/res
+View,values/strings.xml,32,Se,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/postcall/res
+Cannot make call without phone permission,values/strings.xml,19,Kan ikke ringe uten telefontillatelse,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/precall/impl/res
+Cannot make call without phone permission,values/strings.xml,19,Kan ikke ringe uten telefontillatelse,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/preferredsim/impl/res
+Choose SIM for this call,values/strings.xml,23,Velg SIM-kort for dette anropet,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/preferredsim/impl/res
+Remember this choice,values/strings.xml,27,Husk dette valget,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/preferredsim/impl/res
+Not available while using %1$s,values/strings.xml,32,Ikke tilgjengelig mens du bruker %1$s,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/preferredsim/impl/res
+Uses same carrier,values/strings.xml,20,Bruker samme operatør,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/preferredsim/suggestion/res
+Recently used,values/strings.xml,24,Nylig brukt,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/preferredsim/suggestion/res
+Real-time text messaging within a call,values/strings.xml,19,Tekstmeldinger i sanntid i anrop,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/promotion/impl/res
+"RTT assists callers who are deaf, hard of hearing, have a speech disability, or need more than voice alone. RTT messaging transcripts are stored on your device in the call history. %1$s",values/strings.xml,22,"STT er til hjelp for anropsbrukere som er døve, tunghørte, har talefunksjonshemninger eller trenger mer enn bare tale. Transkripsjoner av STT-meldinger lagres i anropsloggen på enheten din. %1$s",values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/promotion/impl/res
+ Make video calls with Duo ,values/strings.xml,27,Ha videosamtaler i Duo,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/promotion/impl/res
+ Google Duo video calling lets you chat with friends and family face-to-face. Data charges may apply. %1$s ,values/strings.xml,32,Med videosamtaler i Google Duo kan du snakke med venner og familie ansikt til ansikt. Datakostnader kan påløpe. %1$s,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/promotion/impl/res
+All contacts,values/strings.xml,19,Alle kontakter,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/searchfragment/cp2/res
+Directory %1$s,values/strings.xml,19,Katalog – %1$s,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/searchfragment/directories/res
+"To search your contacts, turn on the Contacts permissions.",values/strings.xml,19,"For å søke i kontaktene dine, slå på tillatelser for Kontakter.",values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Create new contact,values/strings.xml,23,Opprett ny kontakt,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Add to a contact,values/strings.xml,27,Legg til for en kontakt,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Send SMS,values/strings.xml,30,Send SMS,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Make video call,values/strings.xml,33,Start en videosamtale,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Call %1$s,values/strings.xml,36,Ring %1$s,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/searchfragment/list/res
+Nearby places,values/strings.xml,19,Steder i nærheten,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/searchfragment/nearbyplaces/res
+"To get contact information for places near you, allow access to your location.",values/strings.xml,22,Tillat tilgang til posisjonen din for å få kontaktinformasjon for steder i nærheten av deg.,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/searchfragment/nearbyplaces/res
+Allow,values/strings.xml,25,Tillat,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/searchfragment/nearbyplaces/res
+Dismiss,values/strings.xml,28,Avvis,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/searchfragment/nearbyplaces/res
+New contact,values/strings.xml,19,Ny kontakt,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/shortcuts/res
+New contact,values/strings.xml,22,Ny kontakt,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/shortcuts/res
+Shortcut not working. Drag to remove.,values/strings.xml,27,Snarveien virker ikke. Dra for å fjerne den.,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/shortcuts/res
+Contact no longer available.,values/strings.xml,31,Kontakten er ikke lenger tilgjengelig.,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/shortcuts/res
+Cannot call without permissions.,values/strings.xml,35,Kan ikke ringe uten tillatelser.,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/shortcuts/res
+Filter all suspected spam calls?,values/strings.xml,20,Vil du filtrere alle potensielt useriøse anrop?,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Calls like the one you just blocked will no longer disturb you,values/strings.xml,22,"Anrop som det du akkurat har blokkert, kommer ikke til å forstyrre deg lenger",values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Filter Spam,values/strings.xml,25,Filtrér useriøse anrop,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Dismiss,values/strings.xml,27,Lukk,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Settings,values/strings.xml,29,Innstillinger,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Problem turning on spam filtering,values/strings.xml,32,Det oppsto problemer da filtrering av useriøse anrop skulle slås på,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Problem turning off spam filtering,values/strings.xml,34,Det oppsto problemer da filtrering av useriøse anrop skulle slås av,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Spam filtering turned on,values/strings.xml,37,Filtrering av useriøse anrop er slått på,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Spam filtering turned off,values/strings.xml,39,Filtrering av useriøse anrop er slått av,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/spam/promo/res
+Learn\u00A0more,values/strings.xml,21,Finn ut mer,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/spannable/res
+Favorites,values/strings.xml,19,Favoritter,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Frequents,values/strings.xml,23,Ofte brukte,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Add,values/strings.xml,26,Legg til,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Remember this choice,values/strings.xml,30,Husk dette valget,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Choose call type,values/strings.xml,34,Velg anropstype,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Video call,values/strings.xml,37,Ring med video,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Call,values/strings.xml,40,Ring,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Add Favorite,values/strings.xml,43,Legg til favoritt,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Voice Call,values/strings.xml,46,Taleanrop,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Video Call,values/strings.xml,49,Videoanrop,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Message,values/strings.xml,52,Melding,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Remove,values/strings.xml,55,Fjern,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Contact info,values/strings.xml,58,Kontaktinfo,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Add favorite,values/strings.xml,61,Legg til favoritt,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+"To enable speed dial, turn on the Contacts permission.",values/strings.xml,64,Slå på Kontakter-tillatelsen for å slå på hurtigoppringning.,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Turn on,values/strings.xml,67,Slå på,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+You haven't added any favorites yet,values/strings.xml,70,Du har ikke lagt til noen favoritter ennå,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Add favorite,values/strings.xml,73,Legg til favoritt,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Remove from favorites,values/strings.xml,76,Fjern fra favoritter,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/speeddial/res
+Unknown,values/strings.xml,19,Ukjent,values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+ %1$s %2$d ,values/strings.xml,22,%1$s %2$d,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Payphone,values/strings.xml,27,Telefonkiosk,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Emergency number,values/strings.xml,30,Nødnummer,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Phone,values/strings.xml,34,Telefon,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Call,values/strings.xml,37,Ring,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Continuing call using Wi\u2011Fi\u2026,values/strings.xml,40,Fortsetter samtalen via Wi‑Fi …,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+RTT not available for this call,values/strings.xml,43,STT er ikke tilgjengelig for dette anropet,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+ %1$s %2$s ,values/strings.xml,47,%1$s %2$s,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/theme/common/res
+Default sound (%1$s),values/strings.xml,23,Standardlyd (%1$s),values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/util/res
+None,values/strings.xml,26,Ingen,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/util/res
+Unknown ringtone,values/strings.xml,29,Ukjent ringetone,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/util/res
+No app for that on this device,values/strings.xml,33,Det finnes ingen apper for det på denne enheten,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/util/res
+Placing a WPS call will disconnect your existing call.,values/strings.xml,37,Den pågående samtalen brytes hvis du foretar et WPS-anrop (Wireless Priority Service).,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/util/res
+Continue,values/strings.xml,40,Fortsett,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/util/res
+Camera permission enabled,values/strings.xml,43,Kameratillatelsen er slått på,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/util/res
+Activating visual voicemail,values/strings.xml,18,Slår på visuell talepostkasse,values-no/strings.xml,2,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You might not receive voicemail notifications until visual voicemail is fully activated. Call voicemail to retrieve new messages until voicemail is fully activated.,values/strings.xml,19,Det er ikke sikkert at du kan motta talepostvarsler før visuell talepost er helt aktivert. Ring talepost for å hente nye meldinger før aktiveringen er fullført.,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't activate visual voicemail,values/strings.xml,21,Kan ikke slå på visuell talepost,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Make sure your phone has a mobile network connection and try again.,values/strings.xml,22,"Sjekk at telefonen din har mobilforbindelse, og prøv på nytt.",values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn off airplane mode and try again.,values/strings.xml,23,Slå av flymodus og prøv på nytt.,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+No connection,values/strings.xml,25,Ingen tilkobling,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"You won't be notified for new voicemails. If you're on Wi\u2011Fi, you can check for voicemail by syncing now.",values/strings.xml,26,"Du blir ikke varslet om nye talemeldinger. Hvis du er på Wi-Fi, kan du sjekke taleposten ved å synkronisere nå.",values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You won't be notified for new voicemails. Turn off airplane mode to sync your voicemail.,values/strings.xml,27,Du blir ikke varslet om nye talemeldinger. Slå av flymodus for å synkronisere talepost.,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Your phone needs a mobile data connection to check voicemail.,values/strings.xml,28,Telefonen må ha mobildataforbindelse for at du skal kunne sjekke talepost.,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't activate visual voicemail,values/strings.xml,30,Kan ikke slå på visuell talepost,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You can still call to check voicemail.,values/strings.xml,31,Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't update visual voicemail,values/strings.xml,33,Kan ikke oppdatere visuell talepost,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Try again when your Wi\u2011Fi or mobile data connection is better. You can still call to check voicemail.,values/strings.xml,34,Prøv på nytt når Wi‑Fi- eller mobildatadekningen er bedre. Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Try again when your mobile data connection is better. You can still call to check voicemail.,values/strings.xml,35,Prøv på nytt når mobildatadekningen er bedre. Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't update visual voicemail,values/strings.xml,37,Kan ikke oppdatere visuell talepost,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You can still call to check voicemail.,values/strings.xml,38,Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't update visual voicemail,values/strings.xml,40,Kan ikke oppdatere visuell talepost,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You can still call to check voicemail.,values/strings.xml,41,Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't update visual voicemail,values/strings.xml,43,Kan ikke oppdatere visuell talepost,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You can still call to check voicemail.,values/strings.xml,44,Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't update visual voicemail,values/strings.xml,46,Kan ikke oppdatere visuell talepost,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You can still call to check voicemail.,values/strings.xml,47,Du kan fortsatt ringe for å sjekke talepost.,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Inbox almost full,values/strings.xml,49,Innboksen er nesten full,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You won't be able to receive new voicemail if your inbox is full.,values/strings.xml,50,Du kan ikke motta ny talepost hvis innboksen din er full.,values-no/strings.xml,25,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't receive new voicemails,values/strings.xml,52,Kan ikke motta ny talepost,values-no/strings.xml,26,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Your inbox is full. Try deleting some messages to receive new voicemail.,values/strings.xml,53,Innboksen din er full. Prøv å slette noen meldinger for å motta ny talepost.,values-no/strings.xml,27,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn on extra storage and backup,values/strings.xml,55,Slå på ekstra lagringsplass og sikkerhetskopiering,values-no/strings.xml,28,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Your mailbox is full. To free up space, turn on extra storage so Google can manage and backup your voicemail messages.",values/strings.xml,56,Talepostkassen din er full. Frigjør plass ved å slå på ekstra lagringsplass og la Google administrere og ta sikkerhetskopi av taleposten din.,values-no/strings.xml,29,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn on extra storage and backup,values/strings.xml,58,Slå på ekstra lagringsplass og sikkerhetskopiering,values-no/strings.xml,30,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Your mailbox is almost full. To free up space, turn on extra storage so Google can manage and backup your voicemail messages.",values/strings.xml,59,Talepostkassen din er nesten full. Frigjør plass ved å slå på ekstra lagringsplass og la Google administrere og ta sikkerhetskopi av taleposten din.,values-no/strings.xml,31,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Set your voicemail PIN,values/strings.xml,61,Angi PIN-koden din for talepost,values-no/strings.xml,32,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+You'll need a voicemail PIN anytime you call to access your voicemail.,values/strings.xml,62,Du trenger PIN-koden hver gang du ringer for å sjekke taleposten din.,values-no/strings.xml,33,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Airplane Mode Settings,values/strings.xml,64,Flymodus-innstillinger,values-no/strings.xml,34,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Set PIN,values/strings.xml,65,Angi PIN-kode,values-no/strings.xml,35,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Try Again,values/strings.xml,66,Prøv igjen,values-no/strings.xml,36,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn on,values/strings.xml,67,Slå på,values-no/strings.xml,37,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+No Thanks,values/strings.xml,68,Nei takk,values-no/strings.xml,38,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Sync,values/strings.xml,69,Oppdater,values-no/strings.xml,39,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Call Voicemail,values/strings.xml,70,Ring talepostkassen,values-no/strings.xml,40,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Call Customer Support,values/strings.xml,71,Ring kundeservice,values-no/strings.xml,41,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,73,Noe gikk galt,values-no/strings.xml,42,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we ran into a problem. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9001.",values/strings.xml,74,"Beklager, det oppsto et problem. Prøv på nytt senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9001.",values-no/strings.xml,43,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,76,Noe gikk galt,values-no/strings.xml,44,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we ran into a problem. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9002.",values/strings.xml,77,"Beklager, det oppsto et problem. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9002.",values-no/strings.xml,45,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,79,Noe gikk galt,values-no/strings.xml,46,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we ran into a problem. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9003.",values/strings.xml,80,"Beklager, det oppsto et problem. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9003.",values-no/strings.xml,47,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't Connect to Your Voice Mailbox,values/strings.xml,82,Kan ikke koble til talepostkassen,values-no/strings.xml,48,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we're having trouble connecting to your voice mailbox. If you're in an area with poor signal strength, wait until you have a strong signal and try again. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9004.",values/strings.xml,83,"Beklager, vi har problemer med å koble til talepostkassen. Hvis du er i et område med dårlig signalstyrke, må du vente til du har et sterkt signal og prøve igjen. Hvis problemet vedvarer, kan du kontakte kundeservice på %1$s og oppgi feilkode 9004.",values-no/strings.xml,49,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't Connect to Your Voice Mailbox,values/strings.xml,85,Kan ikke koble til talepostkassen,values-no/strings.xml,50,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we're having trouble connecting to your voice mailbox. If you're in an area with poor signal strength, wait until you have a strong signal and try again. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9005.",values/strings.xml,86,"Beklager, vi har problemer med å koble til talepostkassen. Hvis du er i et område med dårlig signalstyrke, må du vente til du har et sterkt signal og prøve igjen. Hvis problemet vedvarer, kan du kontakte kundeservice på %1$s og oppgi feilkode 9005.",values-no/strings.xml,51,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't Connect to Your Voice Mailbox,values/strings.xml,88,Kan ikke koble til talepostkassen,values-no/strings.xml,52,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we're having trouble connecting to your voice mailbox. If you're in an area with poor signal strength, wait until you have a strong signal and try again. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9006.",values/strings.xml,89,"Beklager, vi har problemer med å koble til talepostkassen. Hvis du er i et område med dårlig signalstyrke, må du vente til du har et sterkt signal og prøve igjen. Hvis problemet vedvarer, kan du kontakte kundeservice på %1$s og oppgi feilkode 9006.",values-no/strings.xml,53,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,91,Noe gikk galt,values-no/strings.xml,54,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we ran into a problem. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9007.",values/strings.xml,92,"Beklager, det oppsto et problem. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9007.",values-no/strings.xml,55,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,94,Noe gikk galt,values-no/strings.xml,56,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we ran into a problem. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9008.",values/strings.xml,95,"Beklager, det oppsto et problem. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9008.",values-no/strings.xml,57,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,97,Noe gikk galt,values-no/strings.xml,58,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we're having trouble setting up your service. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9009.",values/strings.xml,98,"Beklager, vi har problemer med å opprette tjenesten. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9009.",values-no/strings.xml,59,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Can't Connect to Your Voice Mailbox,values/strings.xml,100,Kan ikke koble til talepostkassen,values-no/strings.xml,60,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Sorry, we're not able to connect to your voice mailbox at this time. Please try again later. If there is still a problem, please contact Customer Service at %1$s and tell them the error code is 9990.""",values/strings.xml,101,"Beklager, vi kunne ikke koble til talepostkassen akkurat nå. Prøv igjen senere, eller kontakt kundeservice på %1$s og oppgi feilkode 9990.",values-no/strings.xml,61,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Set Up Voicemail,values/strings.xml,103,Konfigurer talepost,values-no/strings.xml,62,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Voicemail is not set up on your account. Please contact Customer Service at %1$s and tell them the error code is 9991.,values/strings.xml,104,Talepost er ikke satt opp på din konto. Kontakt kundeservice på %1$s og oppgi feilkode 9991.,values-no/strings.xml,63,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Voicemail,values/strings.xml,106,Talepost,values-no/strings.xml,64,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail cannot be used on this device. Please contact Customer Service at %1$s and tell them the error code is 9992.,values/strings.xml,107,Visuell talepost kan ikke brukes på denne enheten. Kontakt kundeservice på %1$s og oppgi feilkode 9992.,values-no/strings.xml,65,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,109,Noe gikk galt,values-no/strings.xml,66,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Please contact Customer Service at %1$s and tell them the error code is 9993.,values/strings.xml,110,Kontakt kundeservice på %1$s og oppgi feilkode 9993.,values-no/strings.xml,67,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail,values/strings.xml,112,Visuell talepost,values-no/strings.xml,68,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"To complete visual voicemail setup, please contact Customer Service at %1$s and tell them the error code is 9994.",values/strings.xml,113,Kontakt kundeservice på %1$s og oppgi feilkode 9994 for å fullføre konfigureringen av visuell talepost.,values-no/strings.xml,69,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail,values/strings.xml,115,Visuell talepost,values-no/strings.xml,70,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"To complete visual voicemail setup, please contact Customer Service at %1$s and tell them the error code is 9995.",values/strings.xml,116,Kontakt kundeservice på %1$s og oppgi feilkode 9995 for å fullføre konfigureringen av visuell talepost.,values-no/strings.xml,71,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail,values/strings.xml,118,Visuell talepost,values-no/strings.xml,72,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"To activate visual voicemail, please contact Customer Service at %1$s and tell them the error code is 9996.",values/strings.xml,119,Kontakt kundeservice på %1$s og oppgi feilkode 9996 for å fullføre konfigureringen av visuell talepost.,values-no/strings.xml,73,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,121,Noe gikk galt,values-no/strings.xml,74,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"To complete visual voicemail setup, please contact Customer Service at %1$s and tell them the error code is 9998.",values/strings.xml,122,Kontakt kundeservice på %1$s og oppgi feilkode 9998 for å fullføre konfigureringen av visuell talepost.,values-no/strings.xml,75,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail is disabled,values/strings.xml,124,Visuell talepost er slått av,values-no/strings.xml,76,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Please contact Customer Service at %1$s to activate visual voicemail.,values/strings.xml,125,Kontakt kundeservice på %1$s for å slå på visuell talepost.,values-no/strings.xml,77,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,127,Noe gikk galt,values-no/strings.xml,78,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Please contact Customer Service at %1$s and tell them the error code is 9997.,values/strings.xml,128,Kontakt kundeservice på %1$s og oppgi feilkode 9997.,values-no/strings.xml,79,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,130,Noe gikk galt,values-no/strings.xml,80,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Please contact Customer Service at %1$s and tell them the error code is 9989.,values/strings.xml,131,Kontakt kundeservice på %1$s og oppgi feilkode 9989.,values-no/strings.xml,81,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Something Went Wrong,values/strings.xml,133,Noe gikk galt,values-no/strings.xml,82,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Please contact Customer Service at %1$s and tell them the error code is 9999.,values/strings.xml,134,Kontakt kundeservice på %1$s og oppgi feilkode 9999.,values-no/strings.xml,83,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn on visual voicemail,values/strings.xml,139,Slå på visuell talepost,values-no/strings.xml,84,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+%1$s By turning on visual voicemail you agree to the Verizon Wireless terms and conditions:\n\n%2$s,values/strings.xml,140,%1$s Ved å slå på visuell talepost samtykker du i vilkårene til Verizon Wireless:\n\n%2$s,values-no/strings.xml,85,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Turn on visual voicemail,values/strings.xml,142,Slå på visuell talepost,values-no/strings.xml,86,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+New! Read your voicemail,values/strings.xml,144,Nyhet! Les taleposten din,values-no/strings.xml,87,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+%s,values/strings.xml,145,%s,values-no/strings.xml,88,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+" See and listen to your messages, without having to call voicemail. Transcripts of your voicemail are provided by Google’s free transcription service. You can turn either off in Settings any time. %s ",values/strings.xml,174,Se og hør på meldingene dine uten å måtte ringe talepostkassen. Transkripsjoner av talemeldingene dine leveres av Googles gratistjeneste for transkripsjoner. Du kan slå av begge deler i innstillingene når som helst. %s,values-no/strings.xml,89,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+ Transcripts of your voicemail are now provided by Google’s free transcription service. You can turn this off in Settings any time. %s ,values/strings.xml,178,Transkripsjoner av talemeldingene dine leveres nå av Googles gratistjeneste for transkripsjoner. Du kan slå av dette i innstillingene når som helst. %s,values-no/strings.xml,90,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+" See and listen to your messages, without having to call voicemail. ",values/strings.xml,182,"Se og hør meldingene dine, uten å måtte ringe til talepostkassen.",values-no/strings.xml,91,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Learn more,values/strings.xml,186,Finn ut mer,values-no/strings.xml,92,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+"Ok, got it",values/strings.xml,201,Greit,values-no/strings.xml,93,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+No Thanks,values/strings.xml,202,Nei takk,values-no/strings.xml,94,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Disable visual voicemail?,values/strings.xml,204,Vil du slå av visuell talepost?,values-no/strings.xml,95,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail will be disabled if the terms and conditions are declined.,values/strings.xml,206,Visuell talepost blir slått av hvis vilkårene ikke godtas.,values-no/strings.xml,96,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Disable,values/strings.xml,207,Slå av,values-no/strings.xml,97,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Visual voicemail will be disabled if you turn off visual voicemail.,values/strings.xml,209,Visuell talepost blir deaktivert hvis du slår av visuell talepost.,values-no/strings.xml,98,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Disable,values/strings.xml,210,Slå av,values-no/strings.xml,99,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Voicemail will only be accessible by calling *86. Set a new voicemail PIN to proceed.,values/strings.xml,212,Talemeldinger er bare tilgjengelig ved å ringe *86. Angi en ny PIN-kode for å fortsette.,values-no/strings.xml,100,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Set PIN,values/strings.xml,213,Angi PIN-kode,values-no/strings.xml,101,packages/apps/Dialer,java/com/android/dialer/voicemail/listui/error/res
+Voicemail (%s),values/strings.xml,20,Talepostkasse (%s),values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Voicemail,values/strings.xml,23,Talepost,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Notifications,values/strings.xml,31,Varsler,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Voicemail greeting,values/strings.xml,37,Taleposthilsen,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Tap to Record,values/strings.xml,46,Trykk for å ta opp,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Save,values/strings.xml,49,Lagre,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Try Again,values/strings.xml,52,Prøv igjen,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Advanced Settings,values/strings.xml,57,Avanserte innstillinger,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Visual voicemail,values/strings.xml,69,Visuell talepost,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Extra backup and storage,values/strings.xml,72,Ekstra sikkerhetskopi og lagring,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Set PIN,values/strings.xml,75,Angi PIN-kode,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Change PIN,values/strings.xml,77,Endre PIN-koden,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Visual voicemail must be enabled to change PIN,values/strings.xml,79,Du må slå på visuell talepost for å endre PIN-koden,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+"Visual voicemail is not activated yet, please try again later",values/strings.xml,80,Visuell talepost er ikke slått på ennå – prøv igjen senere,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Old PIN,values/strings.xml,83,Gammel PIN-kode,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+New PIN,values/strings.xml,85,Ny PIN-kode,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Please wait.,values/strings.xml,88,Vent litt.,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+The new PIN is too short.,values/strings.xml,90,Den nye PIN-koden er for kort.,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+The new PIN is too long.,values/strings.xml,92,Den nye PIN-koden er for lang.,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+The new PIN is too weak. A strong password should not have continuous sequence or repeated digits.,values/strings.xml,94,Den nye PIN-koden er for svak. Sterke passord inneholder ikke sammenhengende sekvenser eller gjentatte sifre.,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+The old PIN does not match.,values/strings.xml,96,Den gamle PIN-koden er feil.,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+The new PIN contains invalid characters.,values/strings.xml,98,Den nye PIN-koden inneholder ugyldige tegn.,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Unable to change PIN,values/strings.xml,100,Kan ikke bytte PIN-kode,values-no/strings.xml,25,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Change Voicemail PIN,values/strings.xml,103,Endre PIN-kode for talemeldinger,values-no/strings.xml,26,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Continue,values/strings.xml,105,Fortsett,values-no/strings.xml,27,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Cancel,values/strings.xml,107,Avbryt,values-no/strings.xml,28,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Ok,values/strings.xml,109,OK,values-no/strings.xml,29,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Confirm your old PIN,values/strings.xml,111,Bekreft den gamle PIN-koden din,values-no/strings.xml,30,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Enter your voicemail PIN to continue.,values/strings.xml,113,Skriv inn PIN-koden for talemeldinger for å fortsette.,values-no/strings.xml,31,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Set a new PIN,values/strings.xml,115,Angi en ny PIN-kode,values-no/strings.xml,32,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+PIN must be %1$d-%2$d digits.,values/strings.xml,117,PIN-koden må bestå av %1$d–%2$d sifre.,values-no/strings.xml,33,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Confirm your PIN,values/strings.xml,119,Bekreft PIN-koden din,values-no/strings.xml,34,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+PINs don't match,values/strings.xml,121,PIN-kodene stemmer ikke overens,values-no/strings.xml,35,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Voicemail PIN updated,values/strings.xml,123,PIN-koden for talemeldinger ble oppdatert,values-no/strings.xml,36,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Unable to set PIN,values/strings.xml,125,Kan ikke angi PIN-kode,values-no/strings.xml,37,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+ Voicemail transcription ,values/strings.xml,132,Transkripsjon av talepost,values-no/strings.xml,38,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+ Voicemail transcription analysis ,values/strings.xml,137,Analyse av transkripsjoner av talepost,values-no/strings.xml,39,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Activating voicemail,values/strings.xml,141,Slår på talepost,values-no/strings.xml,40,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Get transcripts of your voicemail using Google's transcription service. %1$s,values/strings.xml,144,Få transkripsjoner av talemeldingene dine fra Googles transkripsjonstjeneste. %1$s,values-no/strings.xml,41,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Let Google review your voicemail messages to improve transcription accuracy. Your voicemail messages are stored anonymously. %1$s,values/strings.xml,146,Tillat at Google går gjennom talemeldingene dine for å forbedre nøyaktigheten for transkripsjoner. Talemeldingene dine blir lagret anonymt. %1$s,values-no/strings.xml,42,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Turn off visual voicemail,values/strings.xml,149,Slå av visuell talepost,values-no/strings.xml,43,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+This will delete any voicemail and Google transcripts stored within this app. Your carrier may keep its own copies.,values/strings.xml,151,Dette sletter eventuelle talemeldinger og Google-transkripsjoner som er lagret i denne appen. Det kan hende mobiloperatøren din har lagret egne kopier.,values-no/strings.xml,44,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+TURN OFF,values/strings.xml,153,SLÅ AV,values-no/strings.xml,45,packages/apps/Dialer,java/com/android/dialer/voicemail/settings/res
+Write a custom message,values/strings.xml,19,Skriv egendefinert melding,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/dialer/widget/res
+Close,values/strings.xml,22,Lukk,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/dialer/widget/res
+You don't have any contacts yet,values/strings.xml,25,Du har ingen kontakter ennå,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/dialer/widget/res
+Create new contact,values/strings.xml,28,Opprett en ny kontakt,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/dialer/widget/res
+Turn on,values/strings.xml,31,Slå på,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/dialer/widget/res
+"To see your contacts, turn on the Contacts permission.",values/strings.xml,34,For å se kontaktene dine må du slå på Kontakter-tillatelsen.,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/dialer/widget/res
+No contacts app available,values/strings.xml,37,Ingen kontaktapper er tilgjengelige,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/dialer/widget/res
+Swipe up to answer,values/strings.xml,3,Sveip oppover for å svare,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Swipe down to reject,values/strings.xml,4,Sveip nedover for å avvise,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Swipe up with two fingers to answer or down to reject the call,values/strings.xml,5,"Sveip oppover med to fingre for å svare på anropet, eller sveip nedover for å avvise det",values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Answering this call will end your video call,values/strings.xml,6,"Hvis du svarer på dette anropet, avsluttes videosamtalen",values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Decline,values/strings.xml,8,Avslå,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Decline,values/strings.xml,9,Avslå,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Answer,values/strings.xml,11,Svar,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Answer,values/strings.xml,12,Svar,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/answer/impl/answermethod/res
+Pet mode off,values/strings.xml,6,Kjæledyrmodus er slått av,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/answer/impl/hint/res
+Swipe from icon to decline with message,values/strings.xml,18,Sveip fra ikonet for å avslå med en melding,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Swipe from icon to answer as an audio call,values/strings.xml,19,Sveip fra ikonet for å svare med en lydsamtale,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Swipe up to answer and hold ongoing call,values/strings.xml,20,Sveip oppover for å svare og sette samtalen som er i gang på vent,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Swipe up to answer and end call on hold,values/strings.xml,21,Sveip oppover for å svare og avslutte samtalen som står på vent,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Swipe from icon to answer and end ongoing call,values/strings.xml,22,Sveip fra ikonet for å svare – og avslutte samtalen som er i gang,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Write your own…,values/strings.xml,23,Skriv noe selv …,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Write your own…,values/strings.xml,25,Skriv noe selv …,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Cancel,values/strings.xml,27,Avbryt,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Send,values/strings.xml,29,Send,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Reject this call with a message,values/strings.xml,30,Avvis anropet med en melding,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Answer as audio call,values/strings.xml,31,Svar med en lydsamtale,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Answer and end ongoing call,values/strings.xml,32,"Svar, og avslutt samtalen som er i gang",values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Reject with message,values/strings.xml,33,Avvis med en melding,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Answer as audio call,values/strings.xml,34,Svar med en lydsamtale,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Answer and end ongoing call,values/strings.xml,35,"Svar, og avslutt samtalen som er i gang",values-no/strings.xml,17,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Video is off,values/strings.xml,37,Video er av,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Two finger swipe up to answer. Two finger swipe down to decline.,values/strings.xml,41,Sveip oppover med to fingre for å svare. Sveip nedover med to fingre for å avvise.,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Important,values/strings.xml,42,Viktig,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/incallui/answer/impl/res
+Bluetooth,values/strings.xml,3,Bluetooth,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/audioroute/res
+Speaker,values/strings.xml,4,Høyttaler,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/audioroute/res
+Phone,values/strings.xml,5,Telefon,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/audioroute/res
+Wired headset,values/strings.xml,6,Hodetelefon med kabel,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/audioroute/res
+End call,values/strings.xml,19,Avslutt samtalen,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Muted,values/strings.xml,21,Lyden er kuttet,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Unmuted,values/strings.xml,23,Lyden er slått på,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Swap calls,values/strings.xml,25,Bytt samtaler,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Change SIM,values/strings.xml,27,Bytt SIM-kort,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Merge calls,values/strings.xml,29,Slå sammen samtaler,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Handset earpiece,values/strings.xml,31,Telefonens høyttaler,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Speaker,values/strings.xml,33,Høyttaler,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Bluetooth,values/strings.xml,35,Bluetooth,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Wired headset,values/strings.xml,37,Hodetelefon med kabel,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Hold call,values/strings.xml,41,Sett samtalen på vent,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Resume call,values/strings.xml,44,Gjenoppta samtalen,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Video on,values/strings.xml,46,Video på,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Video off,values/strings.xml,48,Video av,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Swap video,values/strings.xml,50,Bytt video,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Speaker,values/strings.xml,54,Høyttaler,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Sound,values/strings.xml,57,Lyd,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/incallui/commontheme/res
+Calling via %s,values/strings.xml,21,Ringer via %s,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Calling on same carrier %s,values/strings.xml,25,Ringer via samme mobiloperatør: %s,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Calling on recent choice %s,values/strings.xml,29,Ringer via nylig valgt: %s,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Calling…,values/strings.xml,33,Ringer …,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Calling using +%1$s (%2$s)\u2026,values/strings.xml,36,Ringer med +%1$s (%2$s) …,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Using +%1$s (%2$s)\u2026,values/strings.xml,39,Bruker +%1$s (%2$s) …,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Transferring…,values/strings.xml,43,Overfører …,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Carrier video calling…,values/strings.xml,46,Videoanrop via mobiloperatør …,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Wi-Fi carrier video calling…,values/strings.xml,50,Videoanrop via Wi-Fi …,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Switching to carrier video…,values/strings.xml,54,Bytter til videoanrop via mobiloperatør …,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Unable to connect,values/strings.xml,58,Kan ikke koble til,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Call declined,values/strings.xml,62,Anropet ble avvist,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Call timed out,values/strings.xml,66,Anropet ble tidsavbrutt,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Hanging up,values/strings.xml,73,Legger på,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Call ended,values/strings.xml,76,Samtalen er avsluttet,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+On hold,values/strings.xml,80,På vent,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Carrier video call from,values/strings.xml,83,Videoanrop via mobiloperatør fra,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Wi-Fi carrier video call from,values/strings.xml,86,Videoanrop via Wi-Fi fra,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Call from,values/strings.xml,89,Anrop fra,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Work call from,values/strings.xml,92,Jobbrelatert anrop fra,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Call via %s from,values/strings.xml,95,Innkommende via %s,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Suspected spam caller,values/strings.xml,98,Sannsynligvis et useriøst anrop,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+This phone's number: %1$s,values/strings.xml,102,Nummeret til denne telefonen: %1$s,values-no/strings.xml,25,packages/apps/Dialer,java/com/android/incallui/contactgrid/res
+Enable,values/strings.xml,23,Slå på,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/disconnectdialog/res
+Video calling is currently not available,values/strings.xml,26,Videoanrop er ikke tilgjengelige akkurat nå,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/disconnectdialog/res
+Try calling again later or continue the call as a voice call.,values/strings.xml,28,Prøv å ringe på nytt senere eller fortsett anropet som taleanrop.,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/disconnectdialog/res
+Voice call,values/strings.xml,30,Taleanrop,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/disconnectdialog/res
+On hold,values/strings.xml,4,På vent,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/hold/res
+Video call,values/strings.xml,21,Videosamtale,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+RTT,values/strings.xml,25,STT,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Hold,values/strings.xml,29,Sett på vent,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Add call,values/strings.xml,33,Nytt anrop,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Mute,values/strings.xml,37,Ignorer,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+End call,values/strings.xml,41,Avslutt samtalen,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Keypad,values/strings.xml,45,Tastatur,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+", is on",values/strings.xml,48,er på,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+", is Off",values/strings.xml,51,er av,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Merge,values/strings.xml,55,Slå sammen,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Manage,values/strings.xml,59,Administrer,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Manage callers,values/strings.xml,61,Håndter innringere,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Swap,values/strings.xml,65,Bytt,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Change SIM,values/strings.xml,70,Bytt SIM,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Note sent,values/strings.xml,74,Notatet er sendt,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/incallui/incall/impl/res
+Send the following tones?\n,values/strings.xml,26,Send disse tonene?\n,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/res
+Yes,values/strings.xml,28,Ja,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/res
+No,values/strings.xml,30,Nei,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/res
+Dialing,values/strings.xml,35,Ringer,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing call,values/strings.xml,37,Pågående samtale,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing video call,values/strings.xml,39,Pågående videosamtale,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing video call \u2011 video paused,values/strings.xml,41,Pågående videosamtale – videoen er satt på pause,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing work call,values/strings.xml,43,Pågående jobbanrop,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing %1$s,values/strings.xml,47,Pågående %1$s,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/res
+Incoming %1$s,values/strings.xml,51,Innkommende %1$s,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/res
+Wi\u2011Fi call,values/strings.xml,54,Wi-Fi-anrop,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/res
+Wi\u2011Fi work call,values/strings.xml,57,Wi-Fi-jobbanrop,values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/res
+On hold,values/strings.xml,60,Parkert,values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call,values/strings.xml,62,Innkommende samtale,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/res
+Incoming video call,values/strings.xml,64,Innkommende videoanrop,values-no/strings.xml,17,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call via %1$s,values/strings.xml,66,Innkommende anrop via %1$s,values-no/strings.xml,18,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with photo,values/strings.xml,68,Innkommende anrop med bilde,values-no/strings.xml,19,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with message,values/strings.xml,70,Innkommende anrop med melding,values-no/strings.xml,20,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with location,values/strings.xml,72,Innkommende anrop med posisjon,values-no/strings.xml,21,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with photo and message,values/strings.xml,74,Innkommende anrop med bilde og melding,values-no/strings.xml,22,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with photo and location,values/strings.xml,76,Innkommende anrop med bilde og posisjon,values-no/strings.xml,23,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with message and location,values/strings.xml,78,Innkommende anrop med melding og posisjon,values-no/strings.xml,24,packages/apps/Dialer,java/com/android/incallui/res
+"Incoming call with photo, message and location",values/strings.xml,80,"Innkommende anrop med bilde, melding og posisjon",values-no/strings.xml,25,packages/apps/Dialer,java/com/android/incallui/res
+Incoming call with attachments,values/strings.xml,82,Innkommende anrop med vedlegg,values-no/strings.xml,26,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call,values/strings.xml,84,Viktig innkommende anrop,values-no/strings.xml,27,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with photo,values/strings.xml,86,Viktig innkommende anrop med bilde,values-no/strings.xml,28,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with message,values/strings.xml,88,Viktig innkommende anrop med melding,values-no/strings.xml,29,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with location,values/strings.xml,90,Viktig innkommende anrop med posisjon,values-no/strings.xml,30,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with photo and message,values/strings.xml,92,Viktig innkommende anrop med bilde og melding,values-no/strings.xml,31,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with photo and location,values/strings.xml,94,Viktig innkommende anrop med bilde og posisjon,values-no/strings.xml,32,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with message and location,values/strings.xml,96,Viktig innkommende anrop med melding og posisjon,values-no/strings.xml,33,packages/apps/Dialer,java/com/android/incallui/res
+"Important incoming call with photo, message and location",values/strings.xml,98,"Viktig anrop med bilde, melding og posisjon",values-no/strings.xml,34,packages/apps/Dialer,java/com/android/incallui/res
+Important incoming call with attachments,values/strings.xml,100,Viktig innkommende anrop med vedlegg,values-no/strings.xml,35,packages/apps/Dialer,java/com/android/incallui/res
+Incoming work call,values/strings.xml,104,Innkommende jobbanrop,values-no/strings.xml,36,packages/apps/Dialer,java/com/android/incallui/res
+Incoming suspected spam call,values/strings.xml,106,Innkommende anrop fra en mulig useriøs oppringer,values-no/strings.xml,37,packages/apps/Dialer,java/com/android/incallui/res
+Incoming video request,values/strings.xml,108,Innkommende videoforespørsel,values-no/strings.xml,38,packages/apps/Dialer,java/com/android/incallui/res
+Answer,values/strings.xml,111,Svar,values-no/strings.xml,39,packages/apps/Dialer,java/com/android/incallui/res
+Hang up,values/strings.xml,116,Legg på,values-no/strings.xml,40,packages/apps/Dialer,java/com/android/incallui/res
+Video,values/strings.xml,119,Video,values-no/strings.xml,41,packages/apps/Dialer,java/com/android/incallui/res
+Accept,values/strings.xml,123,Godta,values-no/strings.xml,42,packages/apps/Dialer,java/com/android/incallui/res
+Decline,values/strings.xml,127,Avslå,values-no/strings.xml,43,packages/apps/Dialer,java/com/android/incallui/res
+Turn speaker on,values/strings.xml,128,Slå på høyttaleren,values-no/strings.xml,44,packages/apps/Dialer,java/com/android/incallui/res
+Turn speaker off,values/strings.xml,129,Slå av høyttaleren,values-no/strings.xml,45,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing call on another device,values/strings.xml,135,Samtale pågår på en annen enhet,values-no/strings.xml,46,packages/apps/Dialer,java/com/android/incallui/res
+Ongoing video call on another device,values/strings.xml,140,En videosamtale pågår på en annen enhet,values-no/strings.xml,47,packages/apps/Dialer,java/com/android/incallui/res
+Take Call,values/strings.xml,146,Svar på anropet,values-no/strings.xml,48,packages/apps/Dialer,java/com/android/incallui/res
+Take Video Call,values/strings.xml,152,Svar på videoanropet,values-no/strings.xml,49,packages/apps/Dialer,java/com/android/incallui/res
+Service not supported.,values/strings.xml,155,Tjenesten håndteres ikke.,values-no/strings.xml,50,packages/apps/Dialer,java/com/android/incallui/res
+go private,values/strings.xml,165,aktiver privat samtale,values-no/strings.xml,51,packages/apps/Dialer,java/com/android/incallui/res
+Manage conference call,values/strings.xml,168,Administrer konferansesamtale,values-no/strings.xml,52,packages/apps/Dialer,java/com/android/incallui/res
+via %s,values/strings.xml,172,via %s,values-no/strings.xml,53,packages/apps/Dialer,java/com/android/incallui/res
+No SIM or SIM error,values/strings.xml,176,Ikke noe SIM-kort eller SIM-kortfeil,values-no/strings.xml,54,packages/apps/Dialer,java/com/android/incallui/res
+End call,values/strings.xml,178,Avslutt samtalen,values-no/strings.xml,55,packages/apps/Dialer,java/com/android/incallui/res
+Conference call,values/strings.xml,181,Telefonmøte,values-no/strings.xml,56,packages/apps/Dialer,java/com/android/incallui/res
+In call,values/strings.xml,185,Samtale pågår,values-no/strings.xml,57,packages/apps/Dialer,java/com/android/incallui/res
+Continuing call using mobile data\u2026,values/strings.xml,188,Fortsetter samtalen via mobildata …,values-no/strings.xml,58,packages/apps/Dialer,java/com/android/incallui/res
+Couldn't switch to Wi\u2011Fi network,values/strings.xml,191,Kunne ikke bytte til Wi-Fi-nettverk,values-no/strings.xml,59,packages/apps/Dialer,java/com/android/incallui/res
+Video call will remain on the mobile network. Standard data charges may apply. ,values/strings.xml,192,Videosamtalen blir værende på mobilnettverket. Standard datakostnader kan påløpe.,values-no/strings.xml,60,packages/apps/Dialer,java/com/android/incallui/res
+Do not show this again,values/strings.xml,195,Ikke vis dette igjen,values-no/strings.xml,61,packages/apps/Dialer,java/com/android/incallui/res
+Back to call,values/strings.xml,198,Tilbake til samtalen,values-no/strings.xml,62,packages/apps/Dialer,java/com/android/incallui/res
+Join RTT call?,values/strings.xml,201,Bli med i STT-samtale?,values-no/strings.xml,63,packages/apps/Dialer,java/com/android/incallui/res
+%1$s wants to use messaging within your voice call.,values/strings.xml,204,%1$s vil bruke meldinger inne i talesamtalen deres.,values-no/strings.xml,64,packages/apps/Dialer,java/com/android/incallui/res
+"RTT assists callers who are deaf, hard of hearing, have a speech disability, or need more than voice alone.",values/strings.xml,207,"STT er til hjelp for anropsdeltakere som er døve eller tunghørte, har talefunksjonshemninger eller trenger mer enn bare tale.",values-no/strings.xml,65,packages/apps/Dialer,java/com/android/incallui/res
+No thanks,values/strings.xml,210,Nei takk,values-no/strings.xml,66,packages/apps/Dialer,java/com/android/incallui/res
+Join RTT,values/strings.xml,213,Bli med i STT,values-no/strings.xml,67,packages/apps/Dialer,java/com/android/incallui/res
+Go ahead,values/strings.xml,19,Send,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+Type a message,values/strings.xml,22,Skriv en melding,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+Avatar,values/strings.xml,25,Brukerbilde,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+Back,values/strings.xml,28,Tilbake,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+Waiting for %s to join RTT call…,values/strings.xml,31,Venter på at %s skal bli med i STT-samtalen …,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+The other party can see you typing. Transcripts are stored on your device in the call history.,values/strings.xml,34,Den andre parten kan se at du skriver. Transkripsjoner lagres i anropsloggen på enheten din.,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/rtt/impl/res
+Answer to reveal photo,values/strings.xml,18,Svar for å få frem bildet,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/sessiondata/res
+Answer to reveal message,values/strings.xml,19,Svar for å få frem meldingen,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/sessiondata/res
+Know %1$s?,values/strings.xml,21,Kjenner du %1$s?,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/spam/res
+Was %1$s a spam caller?,values/strings.xml,23,Var %1$s en useriøs oppringer?,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/spam/res
+%1$s blocked and call was reported as spam.,values/strings.xml,25,"%1$s ble blokkert, og anropet ble rapportert som useriøst.",values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/spam/res
+Call from %1$s reported as not spam.,values/strings.xml,27,Anropet fra %1$s ble rapportert som ikke useriøst.,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/spam/res
+Tap to add to contacts or block spam number.,values/strings.xml,29,Trykk for å legge til kontakter eller blokkere det useriøse nummeret.,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/spam/res
+"This is the first time this number called you. If this call was spam, you can block this number and report it.",values/strings.xml,31,"Dette er den første gangen du blir oppringt fra dette nummeret. Hvis dette anropet var useriøst, kan du blokkere nummeret og rapportere det.",values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/spam/res
+Tap to report as not spam or block it,values/strings.xml,33,Trykk for å rapportere nummeret som ikke useriøst eller blokkere det.,values-no/strings.xml,9,packages/apps/Dialer,java/com/android/incallui/spam/res
+Block & report,values/strings.xml,35,Blokkér og rapportér,values-no/strings.xml,10,packages/apps/Dialer,java/com/android/incallui/spam/res
+Add contact,values/strings.xml,37,Legg til kontakt,values-no/strings.xml,11,packages/apps/Dialer,java/com/android/incallui/spam/res
+Add to contacts,values/strings.xml,39,Legg til i kontakter,values-no/strings.xml,12,packages/apps/Dialer,java/com/android/incallui/spam/res
+Block & report spam,values/strings.xml,41,Blokkér og rapportér som useriøst,values-no/strings.xml,13,packages/apps/Dialer,java/com/android/incallui/spam/res
+"No, not spam",values/strings.xml,43,"Nei, ikke useriøst",values-no/strings.xml,14,packages/apps/Dialer,java/com/android/incallui/spam/res
+"Yes, block number",values/strings.xml,45,"Ja, blokkér nummeret",values-no/strings.xml,15,packages/apps/Dialer,java/com/android/incallui/spam/res
+Dismiss,values/strings.xml,139,Lukk,values-no/strings.xml,16,packages/apps/Dialer,java/com/android/incallui/spam/res
+Show warning every time,values/strings.xml,19,Vis advarsel hver gang,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/telecomeventui/res
+You are calling an international number and charges may apply.,values/strings.xml,22,Du ringer et utenlandsnummer – kostnader kan påløpe.,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/telecomeventui/res
+Phone,values/strings.xml,20,Telefon,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/theme/res
+Their video is off,values/strings.xml,21,Videoen deres er slått av,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+Their video is on,values/strings.xml,24,Den andre partens video er på,values-no/strings.xml,4,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+Call on hold,values/strings.xml,27,Samtalen er på vent,values-no/strings.xml,5,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+Call resumed,values/strings.xml,30,Samtale gjenopptatt,values-no/strings.xml,6,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+Video calls made over the mobile network use both data and voice minutes. Charges may apply.,values/strings.xml,33,Under videosamtaler via mobilnettverket brukes både mobildata og ringeminutter. Avgifter kan påløpe.,values-no/strings.xml,7,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+Do not show again,values/strings.xml,36,Ikke vis dette igjen,values-no/strings.xml,8,packages/apps/Dialer,java/com/android/incallui/video/impl/res
+"Unsupported message type, call %s to listen.",values/strings.xml,19,Meldingstypen støttes ikke. Ring %s for å høre.,values-no/strings.xml,3,packages/apps/Dialer,java/com/android/voicemail/impl/res

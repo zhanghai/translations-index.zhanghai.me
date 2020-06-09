@@ -1,0 +1,23 @@
+%d %B %Y,306,%m/%d/%Y,307,evolution,po/en_AU.po
+_ZIP Code:,2526,_Post Code:,2527,evolution,po/en_AU.po
+Organization,2999,Organisation,3000,evolution,po/en_AU.po
+Could not initialize Bonobo,4401,Could not initialise Bonobo,4402,evolution,po/en_AU.po
+Color for tasks due today,5253,Colours for display,5254,evolution,po/en_AU.po
+Pick a color,5487,Pick a colour,5488,evolution,po/en_AU.po
+Organizer:,6094,Organiser:,6095,evolution,po/en_AU.po
+%a %m/%d/%Y %H:%M:%S,6890,%a %d/%m/%Y %H:%M:%S,6891,evolution,po/en_AU.po
+%a %m/%d/%Y %I:%M:%S %p,6900,%a %d/%m/%Y %I:%M:%S %p,6901,evolution,po/en_AU.po
+%a %m/%d/%Y,7469,%a %d/%m/%Y,7470,evolution,po/en_AU.po
+%m/%d/%Y,7480,%d/%m/%Y,7481,evolution,po/en_AU.po
+%a %m/%d/%Y %I:%M %p,10125,%a %d/%m/%Y %I:%M %p,10126,evolution,po/en_AU.po
+%a %m/%d/%Y %H:%M,10133,%a %d/%m/%Y %H:%M,10134,evolution,po/en_AU.po
+%a %m/%d/%Y %I %p,10139,%a %d/%m/%Y %I:%M %p,10140,evolution,po/en_AU.po
+%a %m/%d/%Y %H,10145,%a %d/%m/%Y %H:%M,10146,evolution,po/en_AU.po
+%m/%d/%Y %I:%M:%S %p,10150,%a %d/%m/%Y %I:%M:%S %p,10151,evolution,po/en_AU.po
+%m/%d/%Y %H:%M:%S,10155,%a %d/%m/%Y %H:%M:%S,10156,evolution,po/en_AU.po
+%m/%d/%Y %I:%M %p,10161,%a %d/%m/%Y %I:%M %p,10162,evolution,po/en_AU.po
+%m/%d/%Y %H:%M,10167,%a %d/%m/%Y %H:%M,10168,evolution,po/en_AU.po
+%m/%d/%Y %I %p,10173,%a %d/%m/%Y %I:%M %p,10174,evolution,po/en_AU.po
+%m/%d/%Y %H,10179,%d/%m/%Y,10180,evolution,po/en_AU.po
+Storing folder '%s',13241,"Synchronising \""%s\""",13242,evolution,po/en_AU.po
+%d/%m/%Y,17146,%m/%d/%Y,17147,evolution,po/en_AU.po

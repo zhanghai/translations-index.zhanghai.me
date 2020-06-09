@@ -1,0 +1,402 @@
+Sound & Video,22,Audio e video,23,gnome-menus,po/ia.po
+Multimedia menu,26,Menu de multimedio,27,gnome-menus,po/ia.po
+Programming,30,Programmation,31,gnome-menus,po/ia.po
+Tools for software development,34,Instrumentos pro disveloppar software,35,gnome-menus,po/ia.po
+Games,42,Jocos,43,gnome-menus,po/ia.po
+Games and amusements,46,Jocos e amusamentos,47,gnome-menus,po/ia.po
+Graphics,50,Graphica,51,gnome-menus,po/ia.po
+Graphics applications,54,Applicationes graphic,55,gnome-menus,po/ia.po
+Programs for Internet access such as web and email,62,"Programmas pro acceder le rete, tal como clientes web e e-posta",63,gnome-menus,po/ia.po
+Office,66,Officio,67,gnome-menus,po/ia.po
+Office Applications,70,Applicationes de officio,71,gnome-menus,po/ia.po
+System Tools,74,Instrumentos de systema,75,gnome-menus,po/ia.po
+System configuration and monitoring,78,Instrumentos pro configurar e surveliar le systema,79,gnome-menus,po/ia.po
+Universal Access,82,Accesso universal,83,gnome-menus,po/ia.po
+Universal Access Settings,86,Parametros del Accesso universal,87,gnome-menus,po/ia.po
+Accessories,90,Accessorios,91,gnome-menus,po/ia.po
+Desktop accessories,94,Accessorios de scriptorio,95,gnome-menus,po/ia.po
+Applications,98,Applicationes,99,gnome-menus,po/ia.po
+Other,102,Alteres,103,gnome-menus,po/ia.po
+Applications that did not fit in other categories,106,Applicationes que non vade ben a altere categorias,107,gnome-menus,po/ia.po
+Sundry,110,Miscellanea,111,gnome-menus,po/ia.po
+Utilities,114,Utensiles,115,gnome-menus,po/ia.po
+Small but useful GNOME tools,118,Parve ma utile instrumentos GNOME,119,gnome-menus,po/ia.po
+Web Applications,122,Applicationes web,123,gnome-menus,po/ia.po
+Applications and sites saved from Web,126,Applicationes e sitos discargate del web,127,gnome-menus,po/ia.po
+Screenshots,22,Capturas de schermo,23,gnome-shell,po/ia.po
+Record a screencast,26,Registrar un video de schermo,27,gnome-shell,po/ia.po
+System,30,Systema,31,gnome-shell,po/ia.po
+Show the message tray,34,Monstrar le tiratorio de messages,35,gnome-shell,po/ia.po
+Focus the active notification,38,Mitter foco al notificationes active,39,gnome-shell,po/ia.po
+Show the overview,42,Monstrar le panorama,43,gnome-shell,po/ia.po
+Show all applications,46,Monstrar tote le applicationes,47,gnome-shell,po/ia.po
+Open the application menu,50,Aperir le menu de applicationes,51,gnome-shell,po/ia.po
+Window management and application launching,58,Gestion de fenestras e lanceamento de applicationes,59,gnome-shell,po/ia.po
+GNOME Shell Extension Preferences,63,Preferentias pro le extensiones GNOME Shell,64,gnome-shell,po/ia.po
+Configure GNOME Shell Extensions,67,Configurar le extensiones GNOME Shell,68,gnome-shell,po/ia.po
+Enable internal tools useful for developers and testers from Alt-F2,71,Permitter le accesso via Alt-F2 al instrumentos interne que es utile pro disveloppatores e probatores,72,gnome-shell,po/ia.po
+Allows access to internal debugging and monitoring tools using the Alt-F2 dialog.,77,Permitter le accesso via le dialog de lanceamento de applicationes (Alt-F2) al instrumentos interne que es utile pro eliminar defectos de software e facer le surveliantia,80,gnome-shell,po/ia.po
+Uuids of extensions to enable,86,Identificatores UUID del extensiones a activar,87,gnome-shell,po/ia.po
+GNOME Shell extensions have a uuid property; this key lists extensions which should be loaded. Any extension that wants to be loaded needs to be in this list. You can also manipulate this list with the EnableExtension and DisableExtension DBus methods on org.gnome.Shell.,90,Le extensiones GNOME Shell ha un proprietate UUID. Iste clave enumera le extensiones que debe ser cargate. Tote le extensiones que vole ser cargate debe adjungar se a iste lista. Il pote anque manipular iste lista con le methodos DBus EnableExtension e DisableExtension de org.gnome.Shell.,95,gnome-shell,po/ia.po
+Whether to collect stats about applications usage,102,Colliger statisticas super le utilisation de applicationes,103,gnome-shell,po/ia.po
+"The shell normally monitors active applications in order to present the most used ones (e.g. in launchers). While this data will be kept private, you may want to disable this for privacy reasons. Please note that doing so won't remove already saved data.",106,"Normalmente GNOME Shell survelia le applicationes active a fin de presentar le plus utilisate (per ex. in le lanceatores). Ben que le datos se guarda in privato, on pote disactivar iste functionalitate per le ration de confidentialitate. Remarca que iste disactivation non removera le datos jam registrate.",111,gnome-shell,po/ia.po
+List of desktop file IDs for favorite applications,119,Lista de identificatores de files desktop pro le applicationes favorite,120,gnome-shell,po/ia.po
+The applications corresponding to these identifiers will be displayed in the favorites area.,124,Le applicationes que corresponde a iste identificatores essera monstrate in le area de favoritos.,127,gnome-shell,po/ia.po
+List of categories that should be displayed as folders,132,Lista de categorias que deberea ser monstrate como dossiers,133,gnome-shell,po/ia.po
+"Each category name in this list will be represented as folder in the application view, rather than being displayed inline in the main view.",136,"Cata nomine de categoria in iste lista sera representate como un dossier in le vista de applicationes, plus tosto que de esser alineate in le vista principal.",139,gnome-shell,po/ia.po
+History for command (Alt-F2) dialog,145,Historia del dialogo de commandos (Alt-F2),146,gnome-shell,po/ia.po
+History for the looking glass dialog,149,Historia del dialogo de inspection,150,gnome-shell,po/ia.po
+Internally used to store the last IM presence explicitly set by the user. The value here is from the TpConnectionPresenceType enumeration.,153,Illo se utilisa internemente pro registrar le ultime stato de presentia que es definite explicitemente per le usator in le systema de messages instante. Le valor hic es del enumeration TpConnectionPresenceType.,156,gnome-shell,po/ia.po
+Internally used to store the last session presence status for the user. The value here is from the GsmPresenceStatus enumeration.,162,Illo se utilisa internemente pro registrar le ultime stato de session del usator. Le valor hic es del enumeration GsmPresenceStatus.,165,gnome-shell,po/ia.po
+Always show the 'Log out' menuitem in the user menu.,170,Sempre monstrar le elemento de menu 'Clauder le session' in le menu de usator.,171,gnome-shell,po/ia.po
+"This key overrides the automatic hiding of the 'Log out' menuitem in single-user, single-session situations.",176,Iste clave supplanta le celamento automatic del elemento de menu 'Clauder le session' in situationes con singule usator o singule session.,179,gnome-shell,po/ia.po
+Whether to remember password for mounting encrypted or remote filesystems,184,Si memorar le contrasigno pro montar le systemas de files cifrate o remote,186,gnome-shell,po/ia.po
+The shell will request a password when an encrypted device or a remote filesystem is mounted. If the password can be saved for future use a 'Remember Password' checkbox will be present. This key sets the default state of the checkbox.,190,Le shell demandara un contrasigno pro montar un dispositivo cifrate o un systema de files remote. Si le contrasigno pote ser retenite pro uso futur un quadrato de selection 'Memorar le contrasigno' sera monstrate. Iste clave defini le stato predefinite del quadrato de selection.,195,gnome-shell,po/ia.po
+Show the week date in the calendar,202,Monstrar le numeration de septimanas in le calendario,203,gnome-shell,po/ia.po
+"If true, display the ISO week date in the calendar.",206,"Si ver, monstrar le numero de septimana ISO in le calendario.",207,gnome-shell,po/ia.po
+Keybinding to open the application menu,210,Association de claves pro aperir le menu de applicationes,211,gnome-shell,po/ia.po
+Keybinding to open the application menu.,214,Association de claves pro aperir le menu de applicationes.,215,gnome-shell,po/ia.po
+"Keybinding to open the \""Show Applications\"" view",218,"Association de claves pro aperir le vista \""Monstrar applicationes\""",219,gnome-shell,po/ia.po
+"Keybinding to open the \""Show Applications\"" view of the Activities Overview.",222,"Association de claves pro aperir le vista \""Monstrar applicationes\"" del panorama de activitates.",224,gnome-shell,po/ia.po
+Keybinding to open the overview,229,Association de claves pro aperir le panorama,230,gnome-shell,po/ia.po
+Keybinding to open the Activities Overview.,233,Association de claves pro aperir le panorama de activitates,234,gnome-shell,po/ia.po
+Keybinding to toggle the visibility of the message tray,237,Association de claves pro commutar le visibilitate del tiratorio de messages,238,gnome-shell,po/ia.po
+Keybinding to toggle the visibility of the message tray.,242,Association de claves pro commutar le visibilitate del tiratorio de messages.,243,gnome-shell,po/ia.po
+Keybinding to focus the active notification,247,Association de claves pro mitter foco al notificationes active,248,gnome-shell,po/ia.po
+Keybinding to focus the active notification.,251,Association de claves pro mitter foco al notificationes active.,252,gnome-shell,po/ia.po
+Keybinding to toggle the screen recorder,255,Association de claves pro commutar le registrator de schermo,256,gnome-shell,po/ia.po
+Keybinding to start/stop the builtin screen recorder.,259,Association de claves pro initiar/arrestar le registration de schermo.,260,gnome-shell,po/ia.po
+Which keyboard to use,263,Que claviero usar,264,gnome-shell,po/ia.po
+The type of keyboard to use.,267,Le typo de claviero a usar.,268,gnome-shell,po/ia.po
+Framerate used for recording screencasts.,271,Rata de quadros usate pro registrar le video de schermo.,272,gnome-shell,po/ia.po
+The framerate of the resulting screencast recordered by GNOME Shell's screencast recorder in frames-per-second.,275,Le numero de imagines per secunda in le video de schermo registrate per le registrator incorporate in GNOME Shell.,278,gnome-shell,po/ia.po
+The gstreamer pipeline used to encode the screencast,283,Le catena usante per gstreamer pro codificar video de schermo,284,gnome-shell,po/ia.po
+"Sets the GStreamer pipeline used to encode recordings. It follows the syntax used for gst-launch. The pipeline should have an unconnected sink pad where the recorded video is recorded. It will normally have a unconnected source pad; output from that pad will be written into the output file. However the pipeline can also take care of its own output - this might be used to send the output to an icecast server via shout2send or similar. When unset or set to an empty value, the default pipeline will be used. This is currently 'vp8enc min_quantizer=13 max_quantizer=13 cpu-used=5 deadline=1000000 threads=%T ! queue ! webmmux' and records to WEBM using the VP8 codec. %T is used as a placeholder for a guess at the optimal thread count on the system.",288,"Le definition del catena usante per GStreamer pro codificar videos. Le syntaxe es identic al syntaxe usate per gst-launch. Le catena deberea haber un puncto de egresso disconnectite a ubi le video se scribe. Generalmente illo va haber un puncto de origine disconnectite; le egresso de iste puncto se scribera in le file de resultato. Totevia, le catena anque pote custodiar su proprie egresso - isto pote ser usate pro inviar le resultato a un servitor icecast via shout2send o simile. Quando le valor non es definite o vacue, le catena predefinite se usa. Isto es actualmente 'vp8enc min_quantizer=13 max_quantizer=13 cpu-used=5 deadline=1000000 threads=%T ! queue ! webmmux' e registra in WEBM usante le codec VP8. %T designa le numero de filos optimal pro le systema.",299,gnome-shell,po/ia.po
+File extension used for storing the screencast,313,Extension de file a usar pro slaveguardar le video de schermo,314,gnome-shell,po/ia.po
+"The filename for recorded screencasts will be a unique filename based on the current date, and use this extension. It should be changed when recording to a different container format.",317,Le nomine de file del video registrate es unic. Illo se basa super le data currente e iste extension. Illo deberea esser modificate si le formato de container usate pro registar le video es differente.,321,gnome-shell,po/ia.po
+The application icon mode.,327,Le modo de icone in le selector de applicationes.,328,gnome-shell,po/ia.po
+"Configures how the windows are shown in the switcher. Valid possibilities are 'thumbnail-only' (shows a thumbnail of the window), 'app-icon-only' (shows only the application icon) or 'both'.",331,"Le configuration del maniera como le fenestras es monstrate in le selector. Le possibilitates valide es 'thumbnail-only' (monstrar un miniatura del fenestra), 'app-icon-only' (monstrar solmente un icone del application) o 'both' (monstrar tote le duo).",335,gnome-shell,po/ia.po
+Attach modal dialog to the parent window,342,Attaccar le dialogo modal al fenestra parental,343,gnome-shell,po/ia.po
+This key overrides the key in org.gnome.mutter when running GNOME Shell.,346,Iste clave supplanta le clave in org.gnome.mutter quando GNOME Shell es lanceate.,348,gnome-shell,po/ia.po
+Arrangement of buttons on the titlebar,353,Arrangiamento de buttones sur le barra de titulo,354,gnome-shell,po/ia.po
+This key overrides the key in org.gnome.desktop.wm.preferences when running GNOME Shell.,357,Iste clave supplanta le clave in org.gnome.desktop.wm.preferences quando GNOME Shell es lanceate.,360,gnome-shell,po/ia.po
+Enable edge tiling when dropping windows on screen edges,365,Activar le tegulage de fenestras depositate sur le bordos del schermo,366,gnome-shell,po/ia.po
+Workspaces are managed dynamically,369,Le spatios de travalio se gere dynamicamente,370,gnome-shell,po/ia.po
+Workspaces only on primary monitor,373,Le spatios de travalio es solmente sur le schermo principal,374,gnome-shell,po/ia.po
+There was an error loading the preferences dialog for %s:,378,Il ha un error al cargamento del dialogo de preferentias pro %s:,379,gnome-shell,po/ia.po
+Select an extension to configure using the combobox above.,386,Selige un extension que configurar usante le lista combinate in alto.,387,gnome-shell,po/ia.po
+Not listed?,397,Esque le nomine non es in le lista?,398,gnome-shell,po/ia.po
+Cancel,405,Annullar,406,gnome-shell,po/ia.po
+Sign In,410,Connecter se,411,gnome-shell,po/ia.po
+Next,414,Sequente,415,gnome-shell,po/ia.po
+Username: ,422,Nomine de usator:,423,gnome-shell,po/ia.po
+Login Window,426,Fenestra de connexion,427,gnome-shell,po/ia.po
+Power,431,Energia,432,gnome-shell,po/ia.po
+Suspend,436,Suspender,437,gnome-shell,po/ia.po
+Restart,440,Reinitiar,441,gnome-shell,po/ia.po
+Power Off,445,Extinguer,446,gnome-shell,po/ia.po
+Authentication error,449,Error de authentication,450,gnome-shell,po/ia.po
+(or swipe finger),455,(o passa le digito trans le lector de impressiones),456,gnome-shell,po/ia.po
+"(e.g., user or %s)",460,"(per ex., usator o %s)",461,gnome-shell,po/ia.po
+Command not found,464,Commando non trovate,465,gnome-shell,po/ia.po
+Could not parse command:,470,Impossibile de analysar le commando:,471,gnome-shell,po/ia.po
+Execution of '%s' failed:,475,Falta al execution de '%s':,476,gnome-shell,po/ia.po
+Frequent,479,Frequente,480,gnome-shell,po/ia.po
+All,483,Tote,484,gnome-shell,po/ia.po
+New Window,487,Nove fenestra,488,gnome-shell,po/ia.po
+Remove from Favorites,491,Remover del favoritos,492,gnome-shell,po/ia.po
+Add to Favorites,495,Adder al favoritos,496,gnome-shell,po/ia.po
+%s has been added to your favorites.,500,%s ha essite addite al favoritos.,501,gnome-shell,po/ia.po
+%s has been removed from your favorites.,505,%s ha essite removite del favoritos.,506,gnome-shell,po/ia.po
+Settings,509,Parametros,510,gnome-shell,po/ia.po
+Change Background…,513,Cambiar le fundo…,514,gnome-shell,po/ia.po
+All Day,521,Jornata,522,gnome-shell,po/ia.po
+S,546,D,547,gnome-shell,po/ia.po
+M,552,L,553,gnome-shell,po/ia.po
+T,558,M,559,gnome-shell,po/ia.po
+W,564,M,565,gnome-shell,po/ia.po
+T,570,J,571,gnome-shell,po/ia.po
+F,576,V,577,gnome-shell,po/ia.po
+Su,593,Do,594,gnome-shell,po/ia.po
+M,599,Lu,600,gnome-shell,po/ia.po
+T,605,Ma,606,gnome-shell,po/ia.po
+W,611,Me,612,gnome-shell,po/ia.po
+Th,617,Jo,618,gnome-shell,po/ia.po
+F,623,Ve,624,gnome-shell,po/ia.po
+S,629,Sa,630,gnome-shell,po/ia.po
+Nothing Scheduled,634,Nihil planate,635,gnome-shell,po/ia.po
+"%A, %B %d",640,"%A, le %d de %B",641,gnome-shell,po/ia.po
+"%A, %B %d, %Y",646,"%A, le %d de %B %Y",647,gnome-shell,po/ia.po
+Today,650,Hodie,651,gnome-shell,po/ia.po
+Tomorrow,654,Deman,655,gnome-shell,po/ia.po
+This week,658,Iste septimana,659,gnome-shell,po/ia.po
+Next week,662,Le septimana proxime,663,gnome-shell,po/ia.po
+External drive connected,666,Disco externe connectite,667,gnome-shell,po/ia.po
+External drive disconnected,670,Disco externe disconnectite,671,gnome-shell,po/ia.po
+Removable Devices,674,Dispositivo removibile,675,gnome-shell,po/ia.po
+Open with %s,679,Aperir con %s,680,gnome-shell,po/ia.po
+Eject,683,Ejacular,684,gnome-shell,po/ia.po
+Password:,687,Contrasigno:,688,gnome-shell,po/ia.po
+Type again:,691,Introduce de novo:,692,gnome-shell,po/ia.po
+Connect,695,Connecter,696,gnome-shell,po/ia.po
+Password: ,704,Contrasigno: ,705,gnome-shell,po/ia.po
+Key: ,709,Clave: ,710,gnome-shell,po/ia.po
+Identity: ,713,Identitate: ,714,gnome-shell,po/ia.po
+Private key password: ,717,Contrasigno del clave private: ,718,gnome-shell,po/ia.po
+Service: ,721,Servicio: ,722,gnome-shell,po/ia.po
+Authentication required by wireless network,725,Le authentication es requirite per le rete sin filo,726,gnome-shell,po/ia.po
+Passwords or encryption keys are required to access the wireless network '%s'.,730,Contrasignos o claves de ciframento es necessari pro acceder al rete sin filo '%s'.,733,gnome-shell,po/ia.po
+Wired 802.1X authentication,738,Authentication 802.1X pro rete con filo,739,gnome-shell,po/ia.po
+Network name: ,742,Nomine de rete: ,743,gnome-shell,po/ia.po
+DSL authentication,746,Authentication DSL,747,gnome-shell,po/ia.po
+PIN code required,750,Codice PIN es necessari,751,gnome-shell,po/ia.po
+PIN code is needed for the mobile broadband device,754,Un codice PIN es necessari pro le dispositivo mobile,755,gnome-shell,po/ia.po
+Mobile broadband network password,762,Contrasigno del rete mobile,763,gnome-shell,po/ia.po
+A password is required to connect to '%s'.,767,Un contrasigno es necessari pro connecter a '%s'.,768,gnome-shell,po/ia.po
+Authentication Required,771,Authentication necessari,772,gnome-shell,po/ia.po
+Authenticate,779,Authenticar se,780,gnome-shell,po/ia.po
+"Sorry, that didn't work. Please try again.",787,Error de authentication. Tenta de novo.,788,gnome-shell,po/ia.po
+Screencast from %d %t,793,Video de schermo %d %t,794,gnome-shell,po/ia.po
+Call,804,Appello,805,gnome-shell,po/ia.po
+File Transfer,809,Transferentia de files,810,gnome-shell,po/ia.po
+Chat,813,Discussion,814,gnome-shell,po/ia.po
+Unmute,817,Facer non silente,818,gnome-shell,po/ia.po
+Mute,821,Silentiar,822,gnome-shell,po/ia.po
+"<b>Yesterday</b>, <b>%H:%M</b>",827,"<b>Heri</b>, <b>%H:%M</b>",828,gnome-shell,po/ia.po
+"<b>%B</b> <b>%d</b>, <b>%H:%M</b>",839,"<b>%d</b> de <b>%B</b>, <b>%H:%M</b>",840,gnome-shell,po/ia.po
+"<b>%B</b> <b>%d</b> <b>%Y</b>, <b>%H:%M</b> ",845,"<b>%d</b> de <b>%B</b> <b>%Y</b>, <b>%H:%M</b> ",846,gnome-shell,po/ia.po
+%s is now known as %s,852,%s es ora cognite como %s,853,gnome-shell,po/ia.po
+Invitation to %s,859,Invitation a %s,860,gnome-shell,po/ia.po
+%s is inviting you to join %s,867,%s te es inviante a %s,868,gnome-shell,po/ia.po
+Decline,874,Declinar,875,gnome-shell,po/ia.po
+Accept,880,Acceptar,881,gnome-shell,po/ia.po
+Video call from %s,886,Appello video de %s,887,gnome-shell,po/ia.po
+Call from %s,892,Appello de %s,893,gnome-shell,po/ia.po
+Answer,897,Responder,898,gnome-shell,po/ia.po
+%s is sending you %s,907,%s te es inviante %s,908,gnome-shell,po/ia.po
+%s would like permission to see when you are online,913,%s sollicita le permission de vider quando tu es in linea,914,gnome-shell,po/ia.po
+Network error,917,Error de rete,918,gnome-shell,po/ia.po
+Authentication failed,921,Falta de authentication,922,gnome-shell,po/ia.po
+Encryption error,925,Error de ciframento,926,gnome-shell,po/ia.po
+Certificate not provided,929,Certificato non fornite,930,gnome-shell,po/ia.po
+Certificate untrusted,933,Certificato indigne de fide,934,gnome-shell,po/ia.po
+Certificate expired,937,Certificato perimite,938,gnome-shell,po/ia.po
+Certificate not activated,941,Certificato non activate,942,gnome-shell,po/ia.po
+Certificate hostname mismatch,945,Discordantia de nomine de host del certificato,946,gnome-shell,po/ia.po
+Certificate fingerprint mismatch,949,Discordantia de impression digital del certificato,950,gnome-shell,po/ia.po
+Certificate self-signed,953,Certificato autofirmate,954,gnome-shell,po/ia.po
+Status is set to offline,957,Le stato es disconnexe,958,gnome-shell,po/ia.po
+Encryption is not available,961,Le ciframento non es disponibile,962,gnome-shell,po/ia.po
+Certificate is invalid,965,Le certificato non es valide,966,gnome-shell,po/ia.po
+Connection has been refused,969,Le connexion ha essite refusate,970,gnome-shell,po/ia.po
+Connection can't be established,973,Le connexion non pote ser establite,974,gnome-shell,po/ia.po
+Connection has been lost,977,Le connexion se ha perdite,978,gnome-shell,po/ia.po
+This account is already connected to the server,981,Iste conto jam es connectite al servitor,982,gnome-shell,po/ia.po
+Connection has been replaced by a new connection using the same resource,985,Le connexion ha essite substituite per un nove connexion usante le mesme ressource,987,gnome-shell,po/ia.po
+The account already exists on the server,992,Le conto jam existe sur le servitor,993,gnome-shell,po/ia.po
+Server is currently too busy to handle the connection,996,Actualmente le servitor es troppo occupate pro tractar le connexion,997,gnome-shell,po/ia.po
+Certificate has been revoked,1000,Le certificato ha essite revocate,1001,gnome-shell,po/ia.po
+Certificate uses an insecure cipher algorithm or is cryptographically weak,1004,Le certificato usa un algorithmo de ciframento insecur o es cryptographicamente debile,1006,gnome-shell,po/ia.po
+"The length of the server certificate, or the depth of the server certificate chain, exceed the limits imposed by the cryptography library",1011,Le longitude del certificato de servitor o le profunditate del catena de certificatos de servitor excede le limites imponite per le bibliotheca de cryptographia,1014,gnome-shell,po/ia.po
+Internal error,1020,Error interne,1021,gnome-shell,po/ia.po
+Unable to connect to %s,1027,Impossibile de connecter a %s,1028,gnome-shell,po/ia.po
+View account,1031,Examinar le conto,1032,gnome-shell,po/ia.po
+Unknown reason,1035,Causa incognite,1036,gnome-shell,po/ia.po
+Windows,1039,Fenestras,1040,gnome-shell,po/ia.po
+Show Applications,1043,Monstrar applicationes,1044,gnome-shell,po/ia.po
+Dash,1049,Pannello,1050,gnome-shell,po/ia.po
+Open Calendar,1053,Aperir calendario,1054,gnome-shell,po/ia.po
+Open Clocks,1057,Aperir horologios,1058,gnome-shell,po/ia.po
+Date & Time Settings,1061,Parametros de data e hora,1062,gnome-shell,po/ia.po
+"%A %B %e, %Y",1068,"%A, %e de %B %Y",1069,gnome-shell,po/ia.po
+Log Out %s,1074,Clauder le session de %s,1075,gnome-shell,po/ia.po
+Log Out,1079,Clauder le session,1080,gnome-shell,po/ia.po
+Click Log Out to quit these applications and log out of the system.,1083,Clicca sur 'Clauder le session' pro quitar iste applicationes e sortir del systema.,1084,gnome-shell,po/ia.po
+%s will be logged out automatically in %d second.,1090,Le session de %s sera terminate automaticamente in %d secunda.,1092,gnome-shell,po/ia.po
+%s will be logged out automatically in %d second.,1090,Le session de %s sera terminate automaticamente in %d secundas.,1093,gnome-shell,po/ia.po
+You will be logged out automatically in %d second.,1097,Le session sera terminate automaticamente in %d secunda.,1099,gnome-shell,po/ia.po
+You will be logged out automatically in %d second.,1097,Le session sera terminate automaticamente in %d secundas.,1100,gnome-shell,po/ia.po
+Logging out of the system.,1103,Clausura del session.,1104,gnome-shell,po/ia.po
+Log Out,1108,Clauder le session,1109,gnome-shell,po/ia.po
+Power Off,1113,Extinguer,1114,gnome-shell,po/ia.po
+Click Power Off to quit these applications and power off the system.,1117,Clicca sur 'Extinguer' pro quitar iste applicationes e extinguer le systema.,1118,gnome-shell,po/ia.po
+The system will power off automatically in %d second.,1123,Le systema se extinguera automaticamente in %d secunda.,1125,gnome-shell,po/ia.po
+The system will power off automatically in %d second.,1123,Le systema se extinguera automaticamente in %d secundas.,1126,gnome-shell,po/ia.po
+Powering off the system.,1129,Extinction del systema.,1130,gnome-shell,po/ia.po
+Restart,1134,Reinitiar,1135,gnome-shell,po/ia.po
+Power Off,1139,Extinguer,1140,gnome-shell,po/ia.po
+Restart,1144,Reinitiar,1145,gnome-shell,po/ia.po
+Click Restart to quit these applications and restart the system.,1148,Clicca sur 'Reinitiar' pro quitar iste applicationes e reinitiar le systema.,1149,gnome-shell,po/ia.po
+The system will restart automatically in %d second.,1154,Le systema se reinitiara automaticamente in %d secunda.,1156,gnome-shell,po/ia.po
+The system will restart automatically in %d second.,1154,Le systema se reinitiara automaticamente in %d secundas.,1157,gnome-shell,po/ia.po
+Restarting the system.,1160,Reinitio del systema.,1161,gnome-shell,po/ia.po
+Install,1164,Installar,1165,gnome-shell,po/ia.po
+Download and install '%s' from extensions.gnome.org?,1169,Discargar e installar '%s' de extensions.gnome.org?,1170,gnome-shell,po/ia.po
+Keyboard,1174,Claviero,1175,gnome-shell,po/ia.po
+No extensions installed,1178,Necun extensiones installate,1179,gnome-shell,po/ia.po
+%s has not emitted any errors.,1184,%s non ha emittite alicun errores.,1185,gnome-shell,po/ia.po
+Hide Errors,1188,Occultar errores,1189,gnome-shell,po/ia.po
+Show Errors,1192,Monstrar errores,1193,gnome-shell,po/ia.po
+Enabled,1196,Activate,1197,gnome-shell,po/ia.po
+Disabled,1202,Disactivate,1203,gnome-shell,po/ia.po
+Out of date,1210,Perempte,1211,gnome-shell,po/ia.po
+Downloading,1214,Discargamento,1215,gnome-shell,po/ia.po
+View Source,1218,Monstrar le fonte,1219,gnome-shell,po/ia.po
+Web Page,1222,Pagina web,1223,gnome-shell,po/ia.po
+Open,1226,Aperir,1227,gnome-shell,po/ia.po
+Remove,1230,Remover,1231,gnome-shell,po/ia.po
+Clear Messages,1234,Expunger messages,1235,gnome-shell,po/ia.po
+Notification Settings,1238,Parametros de notificationes,1239,gnome-shell,po/ia.po
+No Messages,1242,Necun message,1243,gnome-shell,po/ia.po
+Message Tray,1246,Tiratorio de messages,1247,gnome-shell,po/ia.po
+System Information,1250,Information de systema,1251,gnome-shell,po/ia.po
+Unknown,1255,Incognite,1256,gnome-shell,po/ia.po
+%d new message,1260,%d nove message,1262,gnome-shell,po/ia.po
+%d new message,1260,%d nove messages,1263,gnome-shell,po/ia.po
+Undo,1266,Disfacer,1267,gnome-shell,po/ia.po
+Overview,1270,Panorama,1271,gnome-shell,po/ia.po
+Type to search…,1278,Scribe pro cercar…,1279,gnome-shell,po/ia.po
+Quit,1282,Quitar,1283,gnome-shell,po/ia.po
+Activities,1288,Activitates,1289,gnome-shell,po/ia.po
+Top Bar,1292,Barra superior,1293,gnome-shell,po/ia.po
+toggle-switch-us,1301,toggle-switch-intl,1302,gnome-shell,po/ia.po
+Enter a Command,1305,Introduce un commando,1306,gnome-shell,po/ia.po
+Close,1309,Clauder,1310,gnome-shell,po/ia.po
+"%A, %B %d",1315,"%A, %d de %B",1316,gnome-shell,po/ia.po
+%d new notification,1320,%d nove notification,1322,gnome-shell,po/ia.po
+%d new notification,1320,%d nove notificationes,1323,gnome-shell,po/ia.po
+Lock,1326,Serrar,1327,gnome-shell,po/ia.po
+GNOME needs to lock the screen,1330,GNOME ha besonio de serrar le schermo,1331,gnome-shell,po/ia.po
+Unable to lock,1341,Impossibile de serrar,1342,gnome-shell,po/ia.po
+Lock was blocked by an application,1345,Le serramento ha essite impedite per un application,1346,gnome-shell,po/ia.po
+Searching…,1349,Cerca…,1350,gnome-shell,po/ia.po
+No results.,1353,Necun resultato.,1354,gnome-shell,po/ia.po
+Copy,1357,Copiar,1358,gnome-shell,po/ia.po
+Paste,1361,Collar,1362,gnome-shell,po/ia.po
+Show Text,1365,Monstrar texto,1366,gnome-shell,po/ia.po
+Hide Text,1369,Occultar texto,1370,gnome-shell,po/ia.po
+Password,1373,Contrasigno,1374,gnome-shell,po/ia.po
+Remember Password,1377,Recordar contrasigno,1378,gnome-shell,po/ia.po
+Unlock,1381,Disserrar,1382,gnome-shell,po/ia.po
+Accessibility,1385,Accessibilitate,1386,gnome-shell,po/ia.po
+Zoom,1389,Aggrandimento,1390,gnome-shell,po/ia.po
+Screen Reader,1393,Lector de schermo,1394,gnome-shell,po/ia.po
+Screen Keyboard,1397,Claviero visual,1398,gnome-shell,po/ia.po
+Visual Alerts,1401,Allerta visual,1402,gnome-shell,po/ia.po
+Sticky Keys,1405,Claves remanente,1406,gnome-shell,po/ia.po
+Slow Keys,1409,Claves lente,1410,gnome-shell,po/ia.po
+Bounce Keys,1413,Claves saltante,1414,gnome-shell,po/ia.po
+Mouse Keys,1417,Claves del mus imitate,1418,gnome-shell,po/ia.po
+Universal Access Settings,1421,Parametros del accesso universal,1422,gnome-shell,po/ia.po
+High Contrast,1425,Contrasto elevate,1426,gnome-shell,po/ia.po
+Large Text,1429,Texto grande,1430,gnome-shell,po/ia.po
+Visibility,1440,Visibile,1441,gnome-shell,po/ia.po
+Send Files to Device…,1444,Inviar files al dispositivo…,1445,gnome-shell,po/ia.po
+Set Up a New Device…,1448,Configurar un nove dispositivo…,1449,gnome-shell,po/ia.po
+Bluetooth Settings,1452,Parametros Bluetooth,1453,gnome-shell,po/ia.po
+hardware disabled,1457,disactivate physicamente,1458,gnome-shell,po/ia.po
+Connection,1461,Connexion,1462,gnome-shell,po/ia.po
+disconnecting...,1465,disconnexion…,1466,gnome-shell,po/ia.po
+connecting...,1470,connexion…,1471,gnome-shell,po/ia.po
+Send Files…,1474,Inviar files…,1475,gnome-shell,po/ia.po
+Keyboard Settings,1478,Parametros de claviero,1479,gnome-shell,po/ia.po
+Mouse Settings,1482,Parametros de mus,1483,gnome-shell,po/ia.po
+Sound Settings,1486,Parametros de sono,1487,gnome-shell,po/ia.po
+Authorization request from %s,1491,Requesta de authorisation de %s,1492,gnome-shell,po/ia.po
+Device %s wants access to the service '%s',1496,Le dispositivo %s vole acceder al servicio '%s',1497,gnome-shell,po/ia.po
+Always grant access,1500,Conceder accesso sempre,1501,gnome-shell,po/ia.po
+Grant this time only,1504,Conceder accesso solmente in iste vice,1505,gnome-shell,po/ia.po
+Reject,1508,Rejectar,1509,gnome-shell,po/ia.po
+Pairing confirmation for %s,1514,Confirmation del association con %s,1515,gnome-shell,po/ia.po
+Device %s wants to pair with this computer,1519,Le dispositivo %s vole associar se con iste computator,1520,gnome-shell,po/ia.po
+Please confirm whether the PIN '%06d' matches the one on the device.,1524,Confirma que le PIN '%06d' corresponde a illo sur le dispositivo.,1525,gnome-shell,po/ia.po
+Matches,1529,Corresponde,1530,gnome-shell,po/ia.po
+Does not match,1533,Non corresponde,1534,gnome-shell,po/ia.po
+Pairing request for %s,1538,Requesta del association con %s,1539,gnome-shell,po/ia.po
+Please enter the PIN mentioned on the device.,1542,Introduce le PIN mentionate sur le dispositivo.,1543,gnome-shell,po/ia.po
+OK,1546,Validar,1547,gnome-shell,po/ia.po
+Show Keyboard Layout,1550,Monstrar le disposition de claviero,1551,gnome-shell,po/ia.po
+Region & Language Settings,1554,Parametros de region e de lingua,1555,gnome-shell,po/ia.po
+"Volume, network, battery",1558,"Volumine, rete, accumulator",1559,gnome-shell,po/ia.po
+<unknown>,1562,<incognite>,1563,gnome-shell,po/ia.po
+disabled,1567,disactivate,1568,gnome-shell,po/ia.po
+unmanaged,1573,foras de gestion,1574,gnome-shell,po/ia.po
+authentication required,1578,necessita authentication,1579,gnome-shell,po/ia.po
+firmware missing,1584,firmware mancante,1585,gnome-shell,po/ia.po
+cable unplugged,1589,cablo disconnectite,1590,gnome-shell,po/ia.po
+unavailable,1595,non disponibile,1596,gnome-shell,po/ia.po
+connection failed,1599,falta de connexion,1600,gnome-shell,po/ia.po
+More…,1604,Plus…,1605,gnome-shell,po/ia.po
+Connected (private),1610,Connectite (private),1611,gnome-shell,po/ia.po
+Wired,1614,Via filo,1615,gnome-shell,po/ia.po
+Auto Ethernet,1618,Ethernet automatic,1619,gnome-shell,po/ia.po
+Mobile broadband,1622,Banda large mobile,1623,gnome-shell,po/ia.po
+Auto broadband,1626,Banda large automatic,1627,gnome-shell,po/ia.po
+Auto dial-up,1630,Telephonic automatic,1631,gnome-shell,po/ia.po
+Auto %s,1636,%s automatic,1637,gnome-shell,po/ia.po
+Auto bluetooth,1640,Bluetooth automatic,1641,gnome-shell,po/ia.po
+Auto wireless,1644,Sin filo automatic,1645,gnome-shell,po/ia.po
+Enable networking,1648,Activar le rete,1649,gnome-shell,po/ia.po
+Network Settings,1656,Parametros de rete,1657,gnome-shell,po/ia.po
+Network Manager,1660,Gerente de rete,1661,gnome-shell,po/ia.po
+Connection failed,1664,Falta de connexion,1665,gnome-shell,po/ia.po
+Activation of network connection failed,1668,Falta de activation del connexion de rete,1669,gnome-shell,po/ia.po
+Networking is disabled,1672,Le rete es disactivate,1673,gnome-shell,po/ia.po
+Battery,1676,Accumulator,1677,gnome-shell,po/ia.po
+Power Settings,1680,Preferentias del gestion de energia,1681,gnome-shell,po/ia.po
+Estimating…,1686,Estimation…,1687,gnome-shell,po/ia.po
+%d hour remaining,1691,%d hora restante,1693,gnome-shell,po/ia.po
+%d hour remaining,1691,%d horas restante,1694,gnome-shell,po/ia.po
+%d %s %d %s remaining,1699,%d %s %d %s restante,1700,gnome-shell,po/ia.po
+hour,1703,hora,1705,gnome-shell,po/ia.po
+hour,1703,horas,1706,gnome-shell,po/ia.po
+minute,1709,minuta,1711,gnome-shell,po/ia.po
+minute,1709,minutas,1712,gnome-shell,po/ia.po
+%d minute remaining,1716,%d minuta restante,1718,gnome-shell,po/ia.po
+%d minute remaining,1716,%d minutas restante,1719,gnome-shell,po/ia.po
+AC Adapter,1728,Adaptor de currente,1729,gnome-shell,po/ia.po
+Laptop Battery,1732,Accumulator del computator,1733,gnome-shell,po/ia.po
+Cell Phone,1752,Telephono cellular,1753,gnome-shell,po/ia.po
+Media Player,1756,Lector de multimedia,1757,gnome-shell,po/ia.po
+Tablet,1760,Tabletta,1761,gnome-shell,po/ia.po
+Computer,1764,Computator,1765,gnome-shell,po/ia.po
+Unknown,1769,Incognite,1770,gnome-shell,po/ia.po
+Volume changed,1773,Volumine modificate,1774,gnome-shell,po/ia.po
+Volume,1778,Volumine,1779,gnome-shell,po/ia.po
+Microphone,1782,Microphono,1783,gnome-shell,po/ia.po
+Log in as another user,1786,Initiar session como altere usator,1787,gnome-shell,po/ia.po
+Unlock Window,1790,Fenestra de disserramento,1791,gnome-shell,po/ia.po
+Available,1794,Disponibile,1795,gnome-shell,po/ia.po
+Busy,1798,Occupate,1799,gnome-shell,po/ia.po
+Invisible,1802,Invisibile,1803,gnome-shell,po/ia.po
+Away,1806,Absente,1807,gnome-shell,po/ia.po
+Idle,1810,Inactive,1811,gnome-shell,po/ia.po
+Offline,1814,Disconnexe,1815,gnome-shell,po/ia.po
+Notifications,1818,Notificationes,1819,gnome-shell,po/ia.po
+Switch User,1822,Cambiar de usator,1823,gnome-shell,po/ia.po
+Log Out,1826,Clauder le session,1827,gnome-shell,po/ia.po
+Install Updates & Restart,1830,Installar actualisationes e reinitiar,1831,gnome-shell,po/ia.po
+Your chat status will be set to busy,1834,Le stato de chat sera definite como 'occupate',1835,gnome-shell,po/ia.po
+"Notifications are now disabled, including chat messages. Your online status has been adjusted to let others know that you might not see their messages.",1838,"Le notificationes es ora disactivate, includente le messages de chat. Le stato in linea se ha adjustate pro facer saper al alteres que lor messages pote non esser notate.",1841,gnome-shell,po/ia.po
+Other users are logged in.,1847,Altere usatores son connexe.,1848,gnome-shell,po/ia.po
+Shutting down might cause them to lose unsaved work.,1851,Le extinction poterea causar le perdita de obras non salveguardate.,1852,gnome-shell,po/ia.po
+%s (console),1863,%s (consola),1864,gnome-shell,po/ia.po
+Applications,1867,Applicationes,1868,gnome-shell,po/ia.po
+Search,1871,Cerca,1872,gnome-shell,po/ia.po
+"Sorry, no wisdom for you today:\n%s",1876,Il ha necun sagessa hodie:\n%s,1879,gnome-shell,po/ia.po
+%s the Oracle says,1885,%s le oraculo dice,1886,gnome-shell,po/ia.po
+'%s' is ready,1890,'%s' es preste,1891,gnome-shell,po/ia.po
+Evolution Calendar,1894,Calendario de Evolution,1895,gnome-shell,po/ia.po
+%u Output,1901,%u egresso,1903,gnome-shell,po/ia.po
+%u Output,1901,%u egressos,1904,gnome-shell,po/ia.po
+%u Input,1910,%u ingresso,1912,gnome-shell,po/ia.po
+%u Input,1910,%u ingressos,1913,gnome-shell,po/ia.po
+System Sounds,1916,Sonos de systema,1917,gnome-shell,po/ia.po
+Print version,1920,Monstrar le version,1921,gnome-shell,po/ia.po
+Mode used by GDM for login screen,1924,Modo usate per GDM pro le schermo de accesso,1925,gnome-shell,po/ia.po
+"Use a specific mode, e.g. \""gdm\"" for login screen",1928,"Usar un modo specific, per ex. \""gdm\"" pro le schermo de accesso",1929,gnome-shell,po/ia.po
+List possible modes,1932,Monstrar le lista del modos possibile,1933,gnome-shell,po/ia.po
+Failed to launch '%s',1937,Impossibile de lancear '%s',1938,gnome-shell,po/ia.po
+Passwords do not match.,1941,Le contrasignos non corresponde.,1942,gnome-shell,po/ia.po
+Password cannot be blank,1945,Le contrasigno non pote esser vacue,1946,gnome-shell,po/ia.po
+Authentication dialog was dismissed by the user,1949,Le dialogo de authentication era dimittite per le usator,1950,gnome-shell,po/ia.po

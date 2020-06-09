@@ -1,0 +1,2329 @@
+_Edit,161,አስተካክል (_E),162,baobab,po/am.po
+_Help,169,መረጃ (_H),170,baobab,po/am.po
+_Server:,387,ሰርቨር፦ (_S),388,baobab,po/am.po
+_Port:,399,ፖርት፦ (_P),400,baobab,po/am.po
+Folder,444,ዶሴ,445,baobab,po/am.po
+Size,453,መጠን,454,baobab,po/am.po
+Section,157,ክፍል፦,158,devhelp,po/am.po
+_File,161,ፋይል (_F),162,devhelp,po/am.po
+_Go,169,ሂድ ወደ (_G),170,devhelp,po/am.po
+_Help,173,_መረጃ (_H),174,devhelp,po/am.po
+Contents,182,ይዞታዎች,183,devhelp,po/am.po
+Search,186,ፈልግ,187,devhelp,po/am.po
+Image Viewer,21,የምስል ተመልካች,22,eog,po/am.po
+View many different types of images,25,የተለያዩ ዓይነት ምስሎችን ተመልከቱ,26,eog,po/am.po
+Eye of Gnome Preferences,97,የኖም ዐይን ምርጫዎች,98,eog,po/am.po
+Open images in a new window,206,በአዲስ መስኮት ውስጥ ምስልን ክፈት,207,eog,po/am.po
+Load Image,264,ምስልን ጫን,265,eog,po/am.po
+Save Image,268,ምስሉን አስቀምት,269,eog,po/am.po
+Eye of Gnome,455,የኖም ዐይን,456,eog,po/am.po
+The GNOME image viewing and cataloging program.,459,የኖም ምስል መመልከቻ እና ፕሮግራም መዘርዘሪያ,460,eog,po/am.po
+Could not display help for Eye of Gnome.\n%s,464,ለኖም ዐይን መረጃ ማሳየት አልተቻለም።\n%s,467,eog,po/am.po
+_File,534,_ፋይል,535,eog,po/am.po
+_Edit,538,_አስተካክል,539,eog,po/am.po
+_View,542,_ተመልከት,543,eog,po/am.po
+_Help,546,_መረጃ,547,eog,po/am.po
+_New,550,_አዲስ,551,eog,po/am.po
+Open a new window,554,አዲስ መስኮት ክፈት,555,eog,po/am.po
+_Open...,558,_ክፈት...,559,eog,po/am.po
+Open a file,562,ፋይል ክፈት,563,eog,po/am.po
+_Close,576,_ዝጋ,577,eog,po/am.po
+Close window,580,መስኮቱን ዝጋ,581,eog,po/am.po
+Prefere_nces,584,_ምርጫዎች,585,eog,po/am.po
+_Contents,593,_ይዞታዎች,594,eog,po/am.po
+Help On this application,597,መረጃ በዚህ መጠቀሚያ ፕሮግራም ላይ,598,eog,po/am.po
+_About,601,_ስለ,602,eog,po/am.po
+About this application,605,ስለዚህ ፕሮግራም,606,eog,po/am.po
+_Zoom In,664,ከ_ቅርበት ዕይታ,665,eog,po/am.po
+Zoom _Out,668,ከ_ርቀት ዕይታ,669,eog,po/am.po
+_Normal Size,672,የ_ተለመደ መጠን,673,eog,po/am.po
+Single Windows,694,ነጠላ መስኮቶች,695,eog,po/am.po
+Collection,698,ስብስብ,699,eog,po/am.po
+Could not open `%s',709,`%s'ን መክፈት አልተቻለም,710,eog,po/am.po
+Default font type,176,የነበረው የፊደል ቅርጽ ዓይነት,177,epiphany,po/am.po
+Home page,219,ማነሻ ገጽ,220,epiphany,po/am.po
+Languages,228,ቋንቋዎች,229,epiphany,po/am.po
+Paper type,251,ገጽ ዓይነት,252,epiphany,po/am.po
+Printer name,265,የማተሚያ ስም,266,epiphany,po/am.po
+Printer name.,269,የማተሚያ ስም።,270,epiphany,po/am.po
+General,532,አጠቃላይ,533,epiphany,po/am.po
+Cookies,584,ኩኪዎች,585,epiphany,po/am.po
+Find,593,ፈልግ,594,epiphany,po/am.po
+Passwords,597,ሚስጢራዊ ቃላት,598,epiphany,po/am.po
+_Find:,614,ፈልግ፦ (_F),615,epiphany,po/am.po
+_Next,618,የሚቀጥለው (_N),619,epiphany,po/am.po
+_Pause,622,ለአጭር ጊዜ አሳርፍ (_P),623,epiphany,po/am.po
+_Previous,626,የቀድሞው (_P),627,epiphany,po/am.po
+<b>Colors</b>,635,<b>ቀለሞች</b>,636,epiphany,po/am.po
+<b>Fonts</b>,654,<b>የፊደል ቅርጾች</b>,655,epiphany,po/am.po
+<b>Home page</b>,658,<b>ማነሻ ገጽ</b>,659,epiphany,po/am.po
+Language,732,ቋንቋ,733,epiphany,po/am.po
+Preferences,744,ምርጫዎች,745,epiphany,po/am.po
+_Up,808,ወደ ላይ (_U),809,epiphany,po/am.po
+<b>Footers</b>,816,<b>የገስ ራስጌዎች</b>,817,epiphany,po/am.po
+<b>Headers</b>,820,<b>የገጽ አናቶች</b>,821,epiphany,po/am.po
+<b>Orientation</b>,829,<b>አቀማመጥ</b>,830,epiphany,po/am.po
+<b>Size</b>,843,<b>መጠን</b>,844,epiphany,po/am.po
+Appearance,851,አቀራረብ,852,epiphany,po/am.po
+Lan_dscape,868,አግድም (_D),869,epiphany,po/am.po
+P_ortrait,877,በቁም (_O),878,epiphany,po/am.po
+Pa_ges,886,ገጾች (_G),887,epiphany,po/am.po
+Print,900,አትም,901,epiphany,po/am.po
+_All pages,909,ሁሉንም ገጾች (_A),910,epiphany,po/am.po
+_Date,923,ቀን (_D),924,epiphany,po/am.po
+_Selection,956,ምርጫ (_S),957,epiphany,po/am.po
+_Resume,989,ቀጥል (_R),990,epiphany,po/am.po
+Unknown,996,ያልታወቀ,997,epiphany,po/am.po
+Off,1427,አጥፋ,1428,epiphany,po/am.po
+Chinese,1431,ቻይንኛ,1432,epiphany,po/am.po
+Japanese,1450,ጃፓንኛ,1451,epiphany,po/am.po
+Korean,1454,ኮሪያኛ,1455,epiphany,po/am.po
+Russian,1458,ራሽኛ,1459,epiphany,po/am.po
+Ukrainian,1467,ዩክረኒኛ,1468,epiphany,po/am.po
+All,1479,ሁሉም,1480,epiphany,po/am.po
+Others,1483,ሌሎች,1484,epiphany,po/am.po
+Local files,1487,የቅርብ ፋይሎች,1488,epiphany,po/am.po
+Save,1492,አስቀምጥ,1493,epiphany,po/am.po
+Untitled,1534,ያልተሰየመ,1535,epiphany,po/am.po
+GConf error:\n  %s,1863,የGConf ብልሽት፦\n  %s,1866,epiphany,po/am.po
+Arabic,1933,ዐርቢኛ,1934,epiphany,po/am.po
+Baltic,1937,ባቲክ,1938,epiphany,po/am.po
+Central European,1941,መካከለኛ አውሮፓውያን,1942,epiphany,po/am.po
+Cyrillic,1945,ቄርሎሳዊ ጽሑፍ,1946,epiphany,po/am.po
+Greek,1954,ግሪክኛ,1955,epiphany,po/am.po
+Hebrew,1958,ዕብራስጥ,1959,epiphany,po/am.po
+Simplified Chinese,1962,ቀላል ቻይንኛ,1963,epiphany,po/am.po
+Tamil,1966,ታሚልኛ,1967,epiphany,po/am.po
+Thai,1970,ታይኛ,1971,epiphany,po/am.po
+Traditional Chinese,1974,የባሕላዊው ቻይንኛ,1975,epiphany,po/am.po
+Turkish,1983,ቱርክኛ,1984,epiphany,po/am.po
+Unicode,1987,ዩኒኮድ,1988,epiphany,po/am.po
+Western,1991,ምዕራብ,1992,epiphany,po/am.po
+History,2003,ታሪክ,2004,epiphany,po/am.po
+Bookmarks,2008,መለያ ምልክቶች,2009,epiphany,po/am.po
+_File,2099,ፋይል (_F),2100,epiphany,po/am.po
+_Edit,2104,አስተካክል (_E),2105,epiphany,po/am.po
+_View,2109,ተመልከት (_V),2110,epiphany,po/am.po
+_Help,2114,መረጃ (_H),2115,epiphany,po/am.po
+_Close,2188,ዝጋ (_C),2189,epiphany,po/am.po
+Cu_t,2198,ቁረጥ (_T),2199,epiphany,po/am.po
+Cut the selection,2203,የተመረጠውን ቁረጥ,2204,epiphany,po/am.po
+_Copy,2209,ቅጂ (_C),2210,epiphany,po/am.po
+Copy the selection,2214,የተመረጠውን ቅጂ,2215,epiphany,po/am.po
+_Paste,2219,ለጥፍ (_P),2220,epiphany,po/am.po
+Select _All,2229,ሁሉንም ምረጡ (_A),2230,epiphany,po/am.po
+_About,2248,ስለ (_A),2249,epiphany,po/am.po
+Galeon,2331,ጋልዮን,2332,epiphany,po/am.po
+Title,2368,አርእስት,2369,epiphany,po/am.po
+Add Bookmark,2422,መለያ ምልክት ጨምር,2423,epiphany,po/am.po
+C_lear,2527,ሰርዝ (_L),2528,epiphany,po/am.po
+Today,2541,ዛሬ,2542,epiphany,po/am.po
+FILE,2571,ፋይል,2572,epiphany,po/am.po
+Epiphany Web Browser,2595,ጥምቀት የዌብ መቃኛ,2596,epiphany,po/am.po
+Ephy,2599,ጥምቀት,2600,epiphany,po/am.po
+site,2648,ቦታ,2649,epiphany,po/am.po
+Loading %s...,2668,%sን በመጫን ላይ...,2669,epiphany,po/am.po
+_Bookmarks,2672,መለያ ምልክቶች (_B),2673,epiphany,po/am.po
+_Go,2676,ሂድ ወደ (_G),2677,epiphany,po/am.po
+_Tabs,2685,መክፈቻዎች (_T),2686,epiphany,po/am.po
+_New Window,2690,አዲስ መስኮት (_N),2691,epiphany,po/am.po
+New _Tab,2699,አዲስ መክፈቻ (_T),2700,epiphany,po/am.po
+_Open...,2708,ክፈት... (_O),2709,epiphany,po/am.po
+Open a file,2712,ፋይል ክፈት,2713,epiphany,po/am.po
+Save _As...,2716,በሌላ ስም አስቀምጥ... (_A),2717,epiphany,po/am.po
+Save the current page,2720,የአሁኑን ገጽ አስቀምጥ,2721,epiphany,po/am.po
+_Print...,2743,አትም... (_P),2744,epiphany,po/am.po
+Print the current page,2747,የአሁኑን ገጽ አትም,2748,epiphany,po/am.po
+S_end To...,2751,ለ... ላክ (_E),2752,epiphany,po/am.po
+Select the entire page,2787,ሁሉንም ገጽ ምረጡ,2788,epiphany,po/am.po
+_Find...,2791,ፈልግ... (_F),2792,epiphany,po/am.po
+Find Ne_xt,2799,የሚቀጥለዉን ፈልግ (_N),2800,epiphany,po/am.po
+Find Pre_vious,2807,የቀድሞው ፈልግ (_V),2808,epiphany,po/am.po
+T_oolbars,2823,ቱልባሮች (_O),2824,epiphany,po/am.po
+P_references,2831,ምርጫዎች (_R),2832,epiphany,po/am.po
+Configure the web browser,2835,የዌብ መቃኛው ልወጡ,2836,epiphany,po/am.po
+_Stop,2840,አቁም (_S),2841,epiphany,po/am.po
+_Reload,2848,እንደገና ይጫን (_R),2849,epiphany,po/am.po
+Zoom _In,2856,ከቅርበት ዕይታ (_I),2857,epiphany,po/am.po
+Zoom _Out,2864,ከርቀት ዕይታ (_O),2865,epiphany,po/am.po
+_Normal Size,2872,የተለመደ መጠን (_N),2873,epiphany,po/am.po
+_Add Bookmark...,2899,መለያ ምልክት ጨምር... (_A),2900,epiphany,po/am.po
+_Back,2917,ወደኋላ (_B),2918,epiphany,po/am.po
+_Forward,2925,ወደፊት (_F),2926,epiphany,po/am.po
+Go up one level,2933,አንድ ወደላይ ሂድ,2934,epiphany,po/am.po
+_Home,2937,መጀመሪያ (_H),2938,epiphany,po/am.po
+_Location...,2945,ቦታ... (_L),2946,epiphany,po/am.po
+_Previous Tab,2964,ያለፈው መክፈቻ (_P),2965,epiphany,po/am.po
+Activate previous tab,2968,ያለፈው መክፈቻን አሰራ,2969,epiphany,po/am.po
+_Next Tab,2972,የሚቀጥለው መክፈቻ (_N),2973,epiphany,po/am.po
+Activate next tab,2976,የሚቀጥለው መክፈቻን አሰራ,2977,epiphany,po/am.po
+Move Tab _Left,2980,መክፈቻን ወደግራ አንቀሳቅስ (_L),2981,epiphany,po/am.po
+Move current tab to left,2984,የአሁኑን መክፈቻን ወደግራ አንቀሳቅስ,2985,epiphany,po/am.po
+Move Tab _Right,2988,መክፈቻን ወደቀኝ አንቀሳቅስ (_R),2989,epiphany,po/am.po
+Move current tab to right,2992,የአሁኑን መክፈቻን ወደቀኝ አንቀሳቅስ,2993,epiphany,po/am.po
+_Detach Tab,2996,መክፈቻን አለያይ (_D),2997,epiphany,po/am.po
+Detach current tab,3000,የአሁኑን መክፈቻን አለያይ,3001,epiphany,po/am.po
+_Toolbar,3010,_ቱልባር (_T),3011,epiphany,po/am.po
+St_atusbar,3028,ስታተስባር (_A),3029,epiphany,po/am.po
+_Fullscreen,3036,ሙሉ እስክሪን (_F),3037,epiphany,po/am.po
+Broken,3155,የተሰበረ,3156,epiphany,po/am.po
+Medium,3159,መሀከለኛ,3160,epiphany,po/am.po
+Low,3163,ዝቅ ያለ,3164,epiphany,po/am.po
+High,3167,ከፍ ያለ,3168,epiphany,po/am.po
+Security level: %s\n%s,3172,የደህነት ደረጃ፦ %s\n%s,3175,epiphany,po/am.po
+Security level: %s,3181,የደህነት ደረጃ፦ %s,3182,epiphany,po/am.po
+Domain,3185,ዶሜን,3186,epiphany,po/am.po
+Name,3189,ስም,3190,epiphany,po/am.po
+Host,3193,እንግዳ ተቀባይ,3194,epiphany,po/am.po
+User Name,3197,የተጠቃሚ ስም,3198,epiphany,po/am.po
+First,3251,መጀመሪያ,3252,epiphany,po/am.po
+Go to the first page,3255,ወደ መጀመሪያ ገጽ ሂዱ,3256,epiphany,po/am.po
+Last,3259,መጨረሻ,3260,epiphany,po/am.po
+Go to the last page,3263,ወደ መጨረሻ ገጽ ሂዱ,3264,epiphany,po/am.po
+Previous,3267,የቀድሞው,3268,epiphany,po/am.po
+Go to the previous page,3271,ወዳለፈው ገጽ ሂዱ,3272,epiphany,po/am.po
+Next,3275,የሚቀጥለው,3276,epiphany,po/am.po
+Go to next page,3279,ወደ ሚቀጥለው ገጽ ሂዱ,3280,epiphany,po/am.po
+Close,3283,ዝጋ,3284,epiphany,po/am.po
+Afrikaans,3303,አፍሪቃንስኛ,3304,epiphany,po/am.po
+Albanian,3307,ልቤኒኛ,3308,epiphany,po/am.po
+Azerbaijani,3311,አዜርባይጃንኛ,3312,epiphany,po/am.po
+Basque,3315,ባስክኛ,3316,epiphany,po/am.po
+Breton,3319,ብሬቶንኛ,3320,epiphany,po/am.po
+Bulgarian,3323,ቡልጋሪኛ,3324,epiphany,po/am.po
+Byelorussian,3327,ብየሎራሽኛ,3328,epiphany,po/am.po
+Catalan,3331,ካታላን,3332,epiphany,po/am.po
+Croatian,3335,ክሮሽያንኛ,3336,epiphany,po/am.po
+Czech,3339,ቼክኛ,3340,epiphany,po/am.po
+Danish,3343,ዴኒሽ,3344,epiphany,po/am.po
+Dutch,3347,ደች,3348,epiphany,po/am.po
+English,3351,እንግሊዝኛ,3352,epiphany,po/am.po
+Esperanto,3355,ኤስፐራንቶ,3356,epiphany,po/am.po
+Estonian,3359,ኤስቶኒአን,3360,epiphany,po/am.po
+Faeroese,3363,ፋሮኛ,3364,epiphany,po/am.po
+Finnish,3367,ፊኒሽ,3368,epiphany,po/am.po
+French,3371,ፈረንሳይኛ,3372,epiphany,po/am.po
+Galician,3375,ጋሊሺኛ,3376,epiphany,po/am.po
+German,3379,ጀርመን,3380,epiphany,po/am.po
+Hungarian,3383,ሀንጋሪኛ,3384,epiphany,po/am.po
+Icelandic,3387,አይስላንድኛ,3388,epiphany,po/am.po
+Indonesian,3391,እንዶኒሲኛ,3392,epiphany,po/am.po
+Irish,3395,አይሪሽ,3396,epiphany,po/am.po
+Italian,3399,ጣሊያንኛ,3400,epiphany,po/am.po
+Latvian,3403,ላትቪያን,3404,epiphany,po/am.po
+Lithuanian,3407,ሊቱአኒያን,3408,epiphany,po/am.po
+Macedonian,3411,ማከዶኒኛ,3412,epiphany,po/am.po
+Malay,3415,ማላይኛ,3416,epiphany,po/am.po
+Norwegian/Nynorsk,3419,ኖርዌይኛ/የኝኖርስክ,3420,epiphany,po/am.po
+Norwegian,3428,ኖርዌጂያን,3429,epiphany,po/am.po
+Polish,3432,ፖሊሽ,3433,epiphany,po/am.po
+Portuguese,3436,ፖርቱጋሊኛ,3437,epiphany,po/am.po
+Portuguese of Brazil,3440,የብራዚል ፖርቱጋሊኛ,3441,epiphany,po/am.po
+Romanian,3444,ሮማኒያን,3445,epiphany,po/am.po
+Scottish,3448,ስኮቲሽ,3449,epiphany,po/am.po
+Serbian,3452,ሰርቢኛ,3453,epiphany,po/am.po
+Slovak,3456,ስሎቫክኛ,3457,epiphany,po/am.po
+Slovenian,3460,ስሎቪኛ,3461,epiphany,po/am.po
+Spanish,3464,ስፓኒሽ,3465,epiphany,po/am.po
+Swedish,3468,ስዊድንኛ,3469,epiphany,po/am.po
+Vietnamese,3472,ቪትናምኛ,3473,epiphany,po/am.po
+Walloon,3476,ዋሉንኛ,3477,epiphany,po/am.po
+Back,3502,ወደኋላ,3503,epiphany,po/am.po
+Forward,3510,ወደፊት,3511,epiphany,po/am.po
+Up,3519,ወደ ላይ,3520,epiphany,po/am.po
+Toolbar Editor,3552,የትግባር ማቀናጃ,3553,epiphany,po/am.po
+Open,48,ክፈት,49,evolution,po/am.po
+_Add,498,ጨምር,499,evolution,po/am.po
+Personal,608,የግል,609,evolution,po/am.po
+General,681,አጠቃላይ,682,evolution,po/am.po
+Details,702,ዝርዝሮች,703,evolution,po/am.po
+Delete,778,አጥፉ,779,evolution,po/am.po
+Properties...,784,ምርጫዎች...,785,evolution,po/am.po
+Always,936,ሁል ጊዜ,937,evolution,po/am.po
+Basic,944,ቀላል,945,evolution,po/am.po
+Never,972,በፍጹም,973,evolution,po/am.po
+One,976,አንድ,977,evolution,po/am.po
+_Name:,1097,ስም,1098,evolution,po/am.po
+minutes,1136,ደቂቃዎች,1137,evolution,po/am.po
+Full _Name...,1206,ሙሉ ስም... (_N),1207,evolution,po/am.po
+Work,1251,መሥራት,1252,evolution,po/am.po
+_Address:,1256,አድራሻ,1257,evolution,po/am.po
+_Title:,1354,አርእስት,1355,evolution,po/am.po
+Address,1383,አድራሻ,1384,evolution,po/am.po
+United States,1405,አሜሪካ,1406,evolution,po/am.po
+Afghanistan,1409,አፍጋኒስታን,1410,evolution,po/am.po
+Albania,1413,አልባኒያ,1414,evolution,po/am.po
+Algeria,1417,አልጄሪያ,1418,evolution,po/am.po
+American Samoa,1421,የአሜሪካ ሳሞአ,1422,evolution,po/am.po
+Andorra,1425,አንዶራ,1426,evolution,po/am.po
+Angola,1429,አንጐላ,1430,evolution,po/am.po
+Anguilla,1433,አንጉኢላ,1434,evolution,po/am.po
+Antarctica,1437,አንታርክቲካ,1438,evolution,po/am.po
+Antigua And Barbuda,1441,አንቲጓ እና ባሩዳ,1442,evolution,po/am.po
+Argentina,1445,አርጀንቲና,1446,evolution,po/am.po
+Armenia,1449,አርሜኒያ,1450,evolution,po/am.po
+Aruba,1453,አሩባ,1454,evolution,po/am.po
+Australia,1457,አውስትሬሊያ,1458,evolution,po/am.po
+Austria,1461,ኦስትሪያ,1462,evolution,po/am.po
+Azerbaijan,1465,አዘርባጃን,1466,evolution,po/am.po
+Bahamas,1469,ባሃማስ,1470,evolution,po/am.po
+Bahrain,1473,ባህሬን,1474,evolution,po/am.po
+Bangladesh,1477,ባንግላዲሽ,1478,evolution,po/am.po
+Barbados,1481,ባርቤዶስ,1482,evolution,po/am.po
+Belarus,1485,ቤላሩስ,1486,evolution,po/am.po
+Belgium,1489,ቤልጄም,1490,evolution,po/am.po
+Belize,1493,ቤሊዘ,1494,evolution,po/am.po
+Benin,1497,ቤኒን,1498,evolution,po/am.po
+Bermuda,1501,ቤርሙዳ,1502,evolution,po/am.po
+Bhutan,1505,ቡህታን,1506,evolution,po/am.po
+Bolivia,1509,ቦሊቪያ,1510,evolution,po/am.po
+Botswana,1517,ቦትስዋና,1518,evolution,po/am.po
+Bouvet Island,1521,የቦውቬት ደሴት,1522,evolution,po/am.po
+Brazil,1525,ብራዚል,1526,evolution,po/am.po
+British Indian Ocean Territory,1529,የብሪታኒያ ህንድ ውቂያኖስ ግዛት,1530,evolution,po/am.po
+Brunei Darussalam,1533,ብሩኒ ዳሩሳላም,1534,evolution,po/am.po
+Bulgaria,1537,ቡልጌሪያ,1538,evolution,po/am.po
+Burkina Faso,1541,ቡርኪና ፋሶ,1542,evolution,po/am.po
+Burundi,1545,ብሩንዲ,1546,evolution,po/am.po
+Cambodia,1549,ካምቦዲያ,1550,evolution,po/am.po
+Cameroon,1553,ካሜሩን,1554,evolution,po/am.po
+Canada,1557,ካናዳ,1558,evolution,po/am.po
+Cape Verde,1561,ኬፕ ቬርዴ,1562,evolution,po/am.po
+Cayman Islands,1565,ካይማን ደሴቶች,1566,evolution,po/am.po
+Central African Republic,1569,የመካከለኛው አፍሪካ ሪፐብሊክ,1570,evolution,po/am.po
+Chad,1573,ቻድ,1574,evolution,po/am.po
+Chile,1577,ቺሊ,1578,evolution,po/am.po
+China,1581,ቻይና,1582,evolution,po/am.po
+Christmas Island,1585,የገና ደሴቶች,1586,evolution,po/am.po
+Cocos (Keeling) Islands,1589,ኮኮስ ኬሊንግ ደሴቶች,1590,evolution,po/am.po
+Colombia,1593,ኮሎምቢያ,1594,evolution,po/am.po
+Comoros,1597,ኮሞሮስ,1598,evolution,po/am.po
+Congo,1601,ኮንጐ,1602,evolution,po/am.po
+Cook Islands,1609,ኩክ ደሴቶች,1610,evolution,po/am.po
+Costa Rica,1613,ኮስታ ሪካ,1614,evolution,po/am.po
+Cote d'Ivoire,1617,ኮት ዲቯር,1618,evolution,po/am.po
+Croatia,1621,ክሮኤሽያ,1622,evolution,po/am.po
+Cuba,1625,ኩባ,1626,evolution,po/am.po
+Cyprus,1629,ሳይፕረስ,1630,evolution,po/am.po
+Czech Republic,1633,ቼክ ሪፑብሊክ,1634,evolution,po/am.po
+Denmark,1637,ዴንማርክ,1638,evolution,po/am.po
+Djibouti,1641,ጂቡቲ,1642,evolution,po/am.po
+Dominica,1645,ዶሚኒካ,1646,evolution,po/am.po
+Dominican Republic,1649,ዶሚኒክ ሪፑብሊክ,1650,evolution,po/am.po
+Ecuador,1653,ኢኳዶር,1654,evolution,po/am.po
+Egypt,1657,ግብጽ,1658,evolution,po/am.po
+El Salvador,1661,ኤል ሳልቫዶር,1662,evolution,po/am.po
+Equatorial Guinea,1665,ኢኳቶሪያል ጊኒ,1666,evolution,po/am.po
+Eritrea,1669,ኤርትራ,1670,evolution,po/am.po
+Estonia,1673,ኤስቶኒያ,1674,evolution,po/am.po
+Ethiopia,1677,ኢትዮጵያ,1678,evolution,po/am.po
+Falkland Islands,1681,የፎልክላንድ ደሴቶች,1682,evolution,po/am.po
+Faroe Islands,1685,የፋሮይ ደሴቶች,1686,evolution,po/am.po
+Fiji,1689,ፊጂ,1690,evolution,po/am.po
+Finland,1693,ፊንላንድ,1694,evolution,po/am.po
+France,1697,ፈረንሳይ,1698,evolution,po/am.po
+French Guiana,1701,የፈረንሳይ ጉዊአና,1702,evolution,po/am.po
+French Polynesia,1705,የፈረንሳይ ፖሊኔዢያ,1706,evolution,po/am.po
+French Southern Territories,1709,የፈረንሳይ ደቡባዊ ግዛቶች,1710,evolution,po/am.po
+Gabon,1713,ጋቦን,1714,evolution,po/am.po
+Gambia,1717,ጋምቢያ,1718,evolution,po/am.po
+Georgia,1721,ጆርጂያ,1722,evolution,po/am.po
+Germany,1725,ጀርመን,1726,evolution,po/am.po
+Ghana,1729,ጋና,1730,evolution,po/am.po
+Gibraltar,1733,ጊብራልታር,1734,evolution,po/am.po
+Greece,1737,ግሪክ,1738,evolution,po/am.po
+Greenland,1741,ግሪንላንድ,1742,evolution,po/am.po
+Grenada,1745,ግሬናዳ,1746,evolution,po/am.po
+Guadeloupe,1749,ጉዋደሉፕ,1750,evolution,po/am.po
+Guam,1753,ጉዋም,1754,evolution,po/am.po
+Guatemala,1757,ጉዋቲማላ,1758,evolution,po/am.po
+Guinea,1766,ጊኒ,1767,evolution,po/am.po
+Guinea-bissau,1770,ጊኒ ቢሳዎ,1771,evolution,po/am.po
+Guyana,1774,ጉያና,1775,evolution,po/am.po
+Haiti,1778,ሀይቲ*,1779,evolution,po/am.po
+Heard And McDonald Islands,1782,የኧርድ እና የማክዶናልድ ደሴቶች,1783,evolution,po/am.po
+Honduras,1790,ሆንዱራስ,1791,evolution,po/am.po
+Hong Kong,1794,ሆንግ ኮንግ,1795,evolution,po/am.po
+Hungary,1798,ሀንጋሪ,1799,evolution,po/am.po
+Iceland,1802,አይስላንድ,1803,evolution,po/am.po
+India,1806,ህንድ,1807,evolution,po/am.po
+Indonesia,1810,ኢንዶኔዢያ,1811,evolution,po/am.po
+Ireland,1824,አየርላንድ,1825,evolution,po/am.po
+Israel,1832,እስራኤል,1833,evolution,po/am.po
+Italy,1836,ጣሊያን,1837,evolution,po/am.po
+Jamaica,1840,ጃማይካ,1841,evolution,po/am.po
+Japan,1844,ጃፓን,1845,evolution,po/am.po
+Jordan,1852,ጆርዳን,1853,evolution,po/am.po
+Kazakhstan,1856,ካዛኪስታን,1857,evolution,po/am.po
+Kenya,1860,ኬንያ,1861,evolution,po/am.po
+Kiribati,1864,ኪሪባቲ,1865,evolution,po/am.po
+"Korea, Republic Of",1873,ኮሪያ ሪፐብሊክ,1874,evolution,po/am.po
+Kuwait,1877,ክዌት,1878,evolution,po/am.po
+Laos,1885,ላኦስ,1886,evolution,po/am.po
+Latvia,1889,ላትቪያ,1890,evolution,po/am.po
+Lebanon,1893,ሊባኖስ,1894,evolution,po/am.po
+Lesotho,1897,ሌሶቶ,1898,evolution,po/am.po
+Liberia,1901,ላይቤሪያ,1902,evolution,po/am.po
+Libya,1905,ሊቢያ,1906,evolution,po/am.po
+Liechtenstein,1909,ሊችተንስታይን,1910,evolution,po/am.po
+Lithuania,1913,ሊቱዌኒያ,1914,evolution,po/am.po
+Luxembourg,1917,ሉክሰምበርግ,1918,evolution,po/am.po
+Macedonia,1926,ማከዶኒያ,1927,evolution,po/am.po
+Madagascar,1930,ማዳጋስካር,1931,evolution,po/am.po
+Malawi,1934,ማላዊ,1935,evolution,po/am.po
+Malaysia,1938,ማሌዢያ,1939,evolution,po/am.po
+Maldives,1942,ማልዲቭስ,1943,evolution,po/am.po
+Mali,1946,ማሊ,1947,evolution,po/am.po
+Malta,1950,ማልታ,1951,evolution,po/am.po
+Marshall Islands,1954,ማርሻል አይላንድ,1955,evolution,po/am.po
+Martinique,1958,ማርቲኒክ,1959,evolution,po/am.po
+Mauritania,1962,ሞሪቴኒያ,1963,evolution,po/am.po
+Mauritius,1966,ማሩሸስ,1967,evolution,po/am.po
+Mayotte,1970,ሜይኦቴ,1971,evolution,po/am.po
+Mexico,1974,ሜክሲኮ,1975,evolution,po/am.po
+Micronesia,1978,ሚክሮኔዢያ,1979,evolution,po/am.po
+Monaco,1986,ሞናኮ,1987,evolution,po/am.po
+Mongolia,1990,ሞንጎሊያ,1991,evolution,po/am.po
+Montserrat,1994,ሞንትሴራት,1995,evolution,po/am.po
+Morocco,1998,ሞሮኮ,1999,evolution,po/am.po
+Mozambique,2002,ሞዛምቢክ,2003,evolution,po/am.po
+Myanmar,2006,ማያንማር,2007,evolution,po/am.po
+Namibia,2010,ናሚቢያ,2011,evolution,po/am.po
+Nauru,2014,ናኡሩ,2015,evolution,po/am.po
+Nepal,2018,ኔፓል,2019,evolution,po/am.po
+Netherlands,2022,ኔዘርላንድ,2023,evolution,po/am.po
+Netherlands Antilles,2026,ኔዘርላንድስ አንቲልስ,2027,evolution,po/am.po
+New Caledonia,2030,ኒው ካሌዶኒያ,2031,evolution,po/am.po
+New Zealand,2034,ኒው ዚላንድ,2035,evolution,po/am.po
+Nicaragua,2038,ኒካራጓ,2039,evolution,po/am.po
+Niger,2042,ኒጀር,2043,evolution,po/am.po
+Nigeria,2046,ናይጄሪያ,2047,evolution,po/am.po
+Niue,2050,ኒኡይ,2051,evolution,po/am.po
+Norfolk Island,2054,ኖርፎልክ ደሴት,2055,evolution,po/am.po
+Northern Mariana Islands,2058,የሰሜናዊ ማሪያና ደሴቶች,2059,evolution,po/am.po
+Norway,2062,ኖርዌ,2063,evolution,po/am.po
+Oman,2066,ኦማን,2067,evolution,po/am.po
+Pakistan,2070,ፓኪስታን,2071,evolution,po/am.po
+Palau,2074,ፓላው,2075,evolution,po/am.po
+Panama,2082,ፓናማ,2083,evolution,po/am.po
+Papua New Guinea,2086,ፓፑዋ ኒው ጊኒ,2087,evolution,po/am.po
+Paraguay,2090,ፓራጓይ,2091,evolution,po/am.po
+Peru,2094,ፔሩ,2095,evolution,po/am.po
+Philippines,2098,ፊሊፒንስ,2099,evolution,po/am.po
+Pitcairn,2102,ፒትካኢርን,2103,evolution,po/am.po
+Poland,2106,ፖላንድ,2107,evolution,po/am.po
+Portugal,2110,ፖርቱጋል,2111,evolution,po/am.po
+Puerto Rico,2114,ፖርታ ሪኮ,2115,evolution,po/am.po
+Qatar,2118,ኳታር,2119,evolution,po/am.po
+Reunion,2122,ውህደት,2123,evolution,po/am.po
+Romania,2126,ሮሜኒያ,2127,evolution,po/am.po
+Russian Federation,2130,ራሺያ,2131,evolution,po/am.po
+Rwanda,2134,ሩዋንዳ,2135,evolution,po/am.po
+Saint Lucia,2142,ሴንት ሉቺያ,2143,evolution,po/am.po
+Samoa,2150,ሳሞአ,2151,evolution,po/am.po
+San Marino,2154,ሳን ማሪኖ,2155,evolution,po/am.po
+Sao Tome And Principe,2158,ሳኦ ቶሜ እና ፕሪንሲፔ,2159,evolution,po/am.po
+Saudi Arabia,2162,ሳውድአረቢያ,2163,evolution,po/am.po
+Senegal,2166,ሴኔጋል,2167,evolution,po/am.po
+Seychelles,2174,ሲሼልስ,2175,evolution,po/am.po
+Sierra Leone,2178,ሴራሊዮን,2179,evolution,po/am.po
+Singapore,2182,ሲንጋፖር,2183,evolution,po/am.po
+Slovenia,2190,ስሎቬኒያ,2191,evolution,po/am.po
+Solomon Islands,2194,ሰሎሞን ደሴት,2195,evolution,po/am.po
+Somalia,2198,ሱማሌ,2199,evolution,po/am.po
+South Africa,2202,ደቡብ አፍሪካ,2203,evolution,po/am.po
+Spain,2210,ስፔን,2211,evolution,po/am.po
+Sri Lanka,2214,ሲሪላንካ,2215,evolution,po/am.po
+St. Helena,2218,ሴንት ሄለና,2219,evolution,po/am.po
+St. Pierre And Miquelon,2222,ቅዱስ ፒዬር እና ሚኩኤሎን,2223,evolution,po/am.po
+Sudan,2226,ሱዳን,2227,evolution,po/am.po
+Suriname,2230,ሱሪናም,2231,evolution,po/am.po
+Svalbard And Jan Mayen Islands,2234,የስቫልባርድ እና ዣን ማየን ደሴቶች,2235,evolution,po/am.po
+Swaziland,2238,ሱዋዚላንድ,2239,evolution,po/am.po
+Sweden,2242,ስዊድን,2243,evolution,po/am.po
+Switzerland,2246,ስዊዘርላንድ,2247,evolution,po/am.po
+Taiwan,2255,ታይዋን,2256,evolution,po/am.po
+Tajikistan,2259,ታጃኪስታን,2260,evolution,po/am.po
+Thailand,2267,ታይላንድ,2268,evolution,po/am.po
+Togo,2275,ቶጐ,2276,evolution,po/am.po
+Tokelau,2279,ቶክላው,2280,evolution,po/am.po
+Tonga,2283,ቶንጋ,2284,evolution,po/am.po
+Trinidad And Tobago,2287,ትሪኒዳድ እና ቶባጎ,2288,evolution,po/am.po
+Tunisia,2291,ቱኒዚያ,2292,evolution,po/am.po
+Turkey,2295,ቱርክ,2296,evolution,po/am.po
+Turkmenistan,2299,ቱርክሜኒስታን,2300,evolution,po/am.po
+Turks And Caicos Islands,2303,የቱርኮችና የካኢኮስ ደሴቶች,2304,evolution,po/am.po
+Tuvalu,2307,ቱቫሉ,2308,evolution,po/am.po
+Uganda,2311,ዩጋንዳ,2312,evolution,po/am.po
+Ukraine,2315,ዩክሬን,2316,evolution,po/am.po
+United Arab Emirates,2319,የተባበሩት አረብ ኤምሬትስ,2320,evolution,po/am.po
+United Kingdom,2323,እንግሊዝ,2324,evolution,po/am.po
+Uruguay,2331,ኡራጓይ,2332,evolution,po/am.po
+Uzbekistan,2335,ዩዝበኪስታን,2336,evolution,po/am.po
+Vanuatu,2339,ቫኑአቱ,2340,evolution,po/am.po
+Venezuela,2343,ቬንዙዌላ,2344,evolution,po/am.po
+Wallis And Futuna Islands,2359,ዋሊስ እና ፉቱና ደሴቶች,2360,evolution,po/am.po
+Western Sahara,2363,ምዕራባዊ ሳህራ,2364,evolution,po/am.po
+Yemen,2367,የመን,2368,evolution,po/am.po
+Zambia,2371,ዛምቢያ,2372,evolution,po/am.po
+Zimbabwe,2375,ዚምቧቤ,2376,evolution,po/am.po
+Name,2384,ስም,2385,evolution,po/am.po
+Home,2427,መጀመሪያ,2428,evolution,po/am.po
+Other,2432,ሌላ,2433,evolution,po/am.po
+_Full name:,2513,ሙሉ ስም,2514,evolution,po/am.po
+Address _2:,2548,አድራሻ,2549,evolution,po/am.po
+Countr_y:,2557,አገር,2558,evolution,po/am.po
+Full Name,2579,ሙሉ ስም,2580,evolution,po/am.po
+I,2583,"i p,",2584,evolution,po/am.po
+Ms.,2611,ms,2612,evolution,po/am.po
+_First:,2619,መጀመሪያ,2620,evolution,po/am.po
+_Last:,2623,መጨረሻ,2624,evolution,po/am.po
+Model,2791,ሞዴል,2792,evolution,po/am.po
+Advanced...,2819,ጠለቅ,2820,evolution,po/am.po
+Source,2823,ምንጭ,2824,evolution,po/am.po
+Type,2831,ዓይነት,2832,evolution,po/am.po
+_Open,2850,ክፈት,2851,evolution,po/am.po
+Print,2889,አትም,2890,evolution,po/am.po
+Cut,2904,ቁረጥ,2905,evolution,po/am.po
+Copy,2911,ቅጂ,2912,evolution,po/am.po
+Paste,2916,ለጥፍ,2917,evolution,po/am.po
+Categories,2962,ምድቦች,2963,evolution,po/am.po
+Email,2972,ኢሜይል,2973,evolution,po/am.po
+Email 2,2977,ኢሜይል,2978,evolution,po/am.po
+Email 3,2982,ኢሜይል,2983,evolution,po/am.po
+Family Name,2986,የቤተሰብ ስም,2987,evolution,po/am.po
+Home Fax,2999,የቤት ፋክስ,3000,evolution,po/am.po
+Home Phone,3003,የቤት ስልክ,3004,evolution,po/am.po
+Home Phone 2,3007,የቤት ስልክ,3008,evolution,po/am.po
+Manager,3021,መቆጣጠሪያ,3022,evolution,po/am.po
+Nickname,3030,ቅጽል ስም,3031,evolution,po/am.po
+Note,3035,ማስታወሻ,3036,evolution,po/am.po
+Office,3039,ቢሮ,3040,evolution,po/am.po
+Radio,3064,ሬዲዮ,3065,evolution,po/am.po
+Title,3095,አርእስት,3096,evolution,po/am.po
+Width,3120,ስፋት,3121,evolution,po/am.po
+Height,3135,እርዝማኔ,3136,evolution,po/am.po
+Field,3144,መጻፊያ ሳጥን,3145,evolution,po/am.po
+Selected,3200,ተመርጠዋል,3201,evolution,po/am.po
+Overwrite,3488,በላዩ ላይ ይጻፍ,3489,evolution,po/am.po
+list,3508,ዝርዝር,3509,evolution,po/am.po
+(none),3546,(ምንም),3547,evolution,po/am.po
+GTK Tree View,3601,የGTK ዛፍ ዕይታ,3602,evolution,po/am.po
+Bottom:,3659,ወደ ታች,3660,evolution,po/am.po
+F_ont...,3667,የፊደል ቅርጽ,3668,evolution,po/am.po
+Fonts,3671,የፊደል ቅርጾች,3672,evolution,po/am.po
+Footer:,3675,የገጽ ግርጌ,3676,evolution,po/am.po
+Format,3679,ፎርማት,3680,evolution,po/am.po
+Header,3689,የገጽ አናት,3690,evolution,po/am.po
+Header/Footer,3693,የገጽ አናት/ግርጌ,3694,evolution,po/am.po
+Height:,3705,እርዝማኔ,3706,evolution,po/am.po
+Landscape,3717,አግድም,3718,evolution,po/am.po
+Left:,3721,ግራ,3722,evolution,po/am.po
+Margins,3729,ህዳጎች,3730,evolution,po/am.po
+Number of columns:,3733,የዐምድ ብዛት,3734,evolution,po/am.po
+Options,3737,&ምርጫዎች,3738,evolution,po/am.po
+Orientation,3742,አቀማመጥ,3743,evolution,po/am.po
+Page,3746,ገጽ,3747,evolution,po/am.po
+Page Setup:,3750,የገጽ ቅንጅት,3751,evolution,po/am.po
+Paper,3754,ወረቀት,3755,evolution,po/am.po
+Portrait,3762,በቁም,3763,evolution,po/am.po
+Preview:,3766,ቅድመ ዕይታ,3767,evolution,po/am.po
+Right:,3778,ቀኝ,3779,evolution,po/am.po
+Size:,3794,መጠን፦,3795,evolution,po/am.po
+Style name:,3802,የዘይቤ ስም,3803,evolution,po/am.po
+Top:,3806,ወደ ላይ,3807,evolution,po/am.po
+Type:,3811,ዓይነት፦,3812,evolution,po/am.po
+Width:,3815,ስፋት,3816,evolution,po/am.po
+_Font...,3819,የፊደል ቅርጽ,3820,evolution,po/am.po
+Send,4116,ላክ,4117,evolution,po/am.po
+_Save,4210,አስቀምጥ,4211,evolution,po/am.po
+Location:,4347,ቦታ፦,4348,evolution,po/am.po
+_Edit,4366,አስተካክል,4367,evolution,po/am.po
+Warning,4416,ማስጠንቀቂያ,4417,evolution,po/am.po
+Could not initialize Bonobo,4443,bonobo ማስጀመር አልቻልኩም!,4444,evolution,po/am.po
+Calendar,4788,ቀን መቁጠሪያ,4789,evolution,po/am.po
+days,4808,ቀን,4809,evolution,po/am.po
+Day View,4911,የቀን ዕይታ,4912,evolution,po/am.po
+Week View,4919,የሳመንት ዕይታ,4920,evolution,po/am.po
+Month View,4923,የወር ዕይታ,4924,evolution,po/am.po
+Unknown error,4939,ያልታወቀ ስህተት,4940,evolution,po/am.po
+Play a sound,4978,ድምፅ አጫውት,4979,evolution,po/am.po
+Run a program,4988,ፕሮግራምን አስኪድ,4989,evolution,po/am.po
+after,5021,በኋላ,5022,evolution,po/am.po
+before,5025,ቀድሞ,5026,evolution,po/am.po
+day(s),5030,ቀን(ኦች),5031,evolution,po/am.po
+hour(s),5042,ሰዓት(ኦች),5043,evolution,po/am.po
+hours,5049,ሰዓትን,5050,evolution,po/am.po
+minute(s),5053,ደቂቃ(ዎች),5054,evolution,po/am.po
+A_dd,5065,ጨምር,5066,evolution,po/am.po
+_Remove,5110,አስወግድ,5111,evolution,po/am.po
+Description:,5188,መግለጫ,5189,evolution,po/am.po
+File name:,5194,የፋይል ስም,5195,evolution,po/am.po
+MIME type:,5200,የmime ዓይነት,5201,evolution,po/am.po
+Enabled,5207,ያስችላል,5208,evolution,po/am.po
+Remove,5215,አስወግድ,5216,evolution,po/am.po
+Disable,5228,አበላሽ,5229,evolution,po/am.po
+Enable,5236,አስቻለ,5237,evolution,po/am.po
+05 minutes,5240,05 ደቂቃ,5241,evolution,po/am.po
+10 minutes,5244,10 ደቂቃ,5245,evolution,po/am.po
+15 minutes,5248,15 ደቂቃ,5249,evolution,po/am.po
+30 minutes,5252,30 ደቂቃ,5253,evolution,po/am.po
+60 minutes,5256,60 ደቂቃ,5257,evolution,po/am.po
+Days,5316,ቀን,5317,evolution,po/am.po
+E_nable,5326,አስቻለ,5327,evolution,po/am.po
+Friday,5337,ዓርብ,5338,evolution,po/am.po
+Hours,5341,ሰዓቶች,5342,evolution,po/am.po
+Minutes,5345,ደቂቃዎች,5346,evolution,po/am.po
+Monday,5351,ሰኞ,5352,evolution,po/am.po
+S_un,5360,_እሑድ,5361,evolution,po/am.po
+Saturday,5366,ቅዳሜ,5367,evolution,po/am.po
+Sunday,5380,እሑድ,5381,evolution,po/am.po
+T_hu,5388,_ሐሙስ,5389,evolution,po/am.po
+Thursday,5398,ሐሙስ,5399,evolution,po/am.po
+Time _zone:,5402,የሰዓት ክልል,5403,evolution,po/am.po
+Tuesday,5412,ማክሰኞ,5413,evolution,po/am.po
+Wednesday,5422,ረቡዕ,5423,evolution,po/am.po
+_24 hour,5434,_24 ሰዓት,5435,evolution,po/am.po
+Pick a color,5543,ቀለም ምረጡ,5544,evolution,po/am.po
+weeks,5572,ሳመንታት,5573,evolution,po/am.po
+ to ,5625,ወደ,5626,evolution,po/am.po
+_Copy,5666,ቅጂ,5667,evolution,po/am.po
+Ca_tegories...,5953,ምድብ... (_T),5954,evolution,po/am.po
+Confidential,5971,ሚስጢራዊ,5972,evolution,po/am.po
+None,6061,ምንም,6062,evolution,po/am.po
+Language,6108,ቋንቋ,6109,evolution,po/am.po
+Status,6128,ሁኔታ,6129,evolution,po/am.po
+on,6247,አብራ,6248,evolution,po/am.po
+first,6251,መጀመሪያ,6252,evolution,po/am.po
+second,6255,ሁለተኛ,6256,evolution,po/am.po
+last,6267,መጨረሻ,6268,evolution,po/am.po
+day,6275,ቀን ኦች,6276,evolution,po/am.po
+month(s),6324,ወር,6325,evolution,po/am.po
+week(s),6332,ሳመንት,6333,evolution,po/am.po
+year(s),6336,ዓመት,6337,evolution,po/am.po
+High,6373,ከፍ ያለ,6374,evolution,po/am.po
+Low,6388,ዝቅ ያለ,6389,evolution,po/am.po
+Normal,6395,የተለመደ,6396,evolution,po/am.po
+_Priority:,6423,ቅድሚያ,6424,evolution,po/am.po
+_Status:,6427,ሁኔታ,6428,evolution,po/am.po
+%s at %s,6603,%s በ %s,6604,evolution,po/am.po
+Untitled,6617,ያልተሰየመ,6618,evolution,po/am.po
+Summary:,6623,ማጠቃለያ፦,6624,evolution,po/am.po
+Status:,6643,ሁኔታ፦,6644,evolution,po/am.po
+Summary,6668,ማጠቃለያ,6669,evolution,po/am.po
+Free,6673,ነፃ,6674,evolution,po/am.po
+Yes,6694,አዎ,6695,evolution,po/am.po
+No,6701,አይ,6702,evolution,po/am.po
+Unknown,6716,ያልታወቀ,6717,evolution,po/am.po
+0%,6728,+0,6729,evolution,po/am.po
+10%,6732,10,6733,evolution,po/am.po
+20%,6736,20,6737,evolution,po/am.po
+60%,6752,60,6753,evolution,po/am.po
+70%,6756,70,6757,evolution,po/am.po
+80%,6760,80,6761,evolution,po/am.po
+100%,6768,100,6769,evolution,po/am.po
+Save as...,6788,በሌላ ስም አስቀምጥ...,6789,evolution,po/am.po
+_Save As...,6798,በሌላ ስም አስቀምጥ,6799,evolution,po/am.po
+_Print...,6807,አትም,6808,evolution,po/am.po
+C_ut,6813,ቁረጥ,6814,evolution,po/am.po
+_Paste,6821,ለጥፍ,6822,evolution,po/am.po
+_Delete,6846,አጥፉ,6847,evolution,po/am.po
+Priority,6879,ቅድሚያ,6880,evolution,po/am.po
+Current View,6915,የአሁኑ ዕይታ,6916,evolution,po/am.po
+am,7016,ጠዋት,7017,evolution,po/am.po
+pm,7022,ከሳዓት,7023,evolution,po/am.po
+ and ,7051, እና ,7052,evolution,po/am.po
+Update,7383,አሻሽል,7384,evolution,po/am.po
+Cancel,7415,ተወው,7416,evolution,po/am.po
+--to--,7424,--ወደ--,7425,evolution,po/am.po
+Date:,7432,ቀን፦,7433,evolution,po/am.po
+Group,7482,የውይይት መድረክ,7483,evolution,po/am.po
+%m/%d/%Y,7566,%d/%m/%Y,7567,evolution,po/am.po
+Custom View,7676,የተለመደው ዕይታ,7677,evolution,po/am.po
+Save Custom View,7680,የተለመደው ዕይታ አስቀምጥ,7681,evolution,po/am.po
+April,7709,ኤፕረል,7710,evolution,po/am.po
+August,7713,ኦገስት,7714,evolution,po/am.po
+December,7717,ዲሴምበር,7718,evolution,po/am.po
+February,7721,ፌብሩወሪ,7722,evolution,po/am.po
+January,7725,ጃንዩወሪ,7726,evolution,po/am.po
+July,7729,ጁላይ,7730,evolution,po/am.po
+June,7733,ጁን,7734,evolution,po/am.po
+March,7737,ማርች,7738,evolution,po/am.po
+May,7741,ሜይ,7742,evolution,po/am.po
+November,7745,ኖቬምበር,7746,evolution,po/am.po
+October,7749,ኦክተውበር,7750,evolution,po/am.po
+September,7758,ሴፕቴምበር,7759,evolution,po/am.po
+Event information,7776,የኩነቶች መረጃ,7777,evolution,po/am.po
+Refresh,7800,በድጋሚ ጀምር,7801,evolution,po/am.po
+1st,7856,1ኛ,7857,evolution,po/am.po
+2nd,7860,2ኛ,7861,evolution,po/am.po
+3rd,7864,3ኛ,7865,evolution,po/am.po
+4th,7868,4ኛ,7869,evolution,po/am.po
+5th,7872,5ኛ,7873,evolution,po/am.po
+6th,7876,6ኛ,7877,evolution,po/am.po
+7th,7880,7ኛ,7881,evolution,po/am.po
+8th,7884,8ኛ,7885,evolution,po/am.po
+9th,7888,9ኛ,7889,evolution,po/am.po
+10th,7892,10ኛ,7893,evolution,po/am.po
+11th,7896,11ኛ,7897,evolution,po/am.po
+12th,7900,12ኛ,7901,evolution,po/am.po
+13th,7904,13ኛ,7905,evolution,po/am.po
+14th,7908,14ኛ,7909,evolution,po/am.po
+15th,7912,15ኛ,7913,evolution,po/am.po
+16th,7916,16ኛ,7917,evolution,po/am.po
+17th,7920,17ኛ,7921,evolution,po/am.po
+18th,7924,18ኛ,7925,evolution,po/am.po
+19th,7928,19ኛ,7929,evolution,po/am.po
+20th,7932,20ኛ,7933,evolution,po/am.po
+21st,7936,21ኛ,7937,evolution,po/am.po
+22nd,7940,22ኛ,7941,evolution,po/am.po
+23rd,7944,23ኛ,7945,evolution,po/am.po
+24th,7948,24ኛ,7949,evolution,po/am.po
+25th,7952,25ኛ,7953,evolution,po/am.po
+26th,7956,26ኛ,7957,evolution,po/am.po
+27th,7960,27ኛ,7961,evolution,po/am.po
+28th,7964,28ኛ,7965,evolution,po/am.po
+29th,7968,29ኛ,7969,evolution,po/am.po
+30th,7972,30ኛ,7973,evolution,po/am.po
+31st,7976,31ኛ,7977,evolution,po/am.po
+Su,7980,እ,7981,evolution,po/am.po
+Mo,7984,ሳ,7985,evolution,po/am.po
+Tu,7988,ማ,7989,evolution,po/am.po
+We,7992,ረ,7993,evolution,po/am.po
+Th,7996,ሐ,7997,evolution,po/am.po
+Fr,8000,ዓ,8001,evolution,po/am.po
+Sa,8004,ቅ,8005,evolution,po/am.po
+Status: %s,8052,ሁኔታ፦ %s,8053,evolution,po/am.po
+Priority: %s,8057,ቅድሚያ፦ %s,8058,evolution,po/am.po
+URL: %s,8067,URL፦ %s,8068,evolution,po/am.po
+Categories: %s,8072,ምድቦች፦ %s,8073,evolution,po/am.po
+Print Preview,8081,የቅድመ ህትመት ዕይታ,8082,evolution,po/am.po
+Calendar Events,8217,የቀን መቁጠሪያ ኩነቶች,8218,evolution,po/am.po
+<b>Status:</b>,10080,<b>ሁኔታ፦</b>,10081,evolution,po/am.po
+%a %m/%d/%Y %I:%M %p,10223,d,10224,evolution,po/am.po
+%a %m/%d/%Y %H:%M,10231,d,10232,evolution,po/am.po
+%a %m/%d/%Y %I %p,10237,d,10238,evolution,po/am.po
+%a %m/%d/%Y %H,10243,d,10244,evolution,po/am.po
+%m/%d/%Y %I:%M %p,10259,d,10260,evolution,po/am.po
+%m/%d/%Y %H:%M,10265,d,10266,evolution,po/am.po
+%m/%d/%Y %I %p,10271,d,10272,evolution,po/am.po
+%m/%d/%Y %H,10277,d,10278,evolution,po/am.po
+%I:%M:%S %p,10283,"i p,",10284,evolution,po/am.po
+%I:%M %p,10299,"i p,",10300,evolution,po/am.po
+%H:%M,10308,h,10309,evolution,po/am.po
+now,10374,አሁኑኑ,10375,evolution,po/am.po
+Important,10393,አስፈላጊ,10394,evolution,po/am.po
+Test,10409,ፈተና,10410,evolution,po/am.po
+months,10545,ወር,10546,evolution,po/am.po
+seconds,10549,ሴኮንዶች,10550,evolution,po/am.po
+years,10561,ዓመታት,10562,evolution,po/am.po
+Mail,10623,ፖስታ,10624,evolution,po/am.po
+_Mail,10636,ፖስታ,10637,evolution,po/am.po
+Select Folder,10655,ዶሴ ምረጡ,10656,evolution,po/am.po
+[Default],10711,የነበረው,10712,evolution,po/am.po
+Language(s),10733,ቋንቋ,10734,evolution,po/am.po
+Deleted,10810,የጠፋ,10811,evolution,po/am.po
+Draft,10844,ንድፍ,10845,evolution,po/am.po
+is,10871,ነው,10872,evolution,po/am.po
+is not,10897,አይደለም,10898,evolution,po/am.po
+Label,10918,መለያ,10919,evolution,po/am.po
+Play Sound,10961,ድምፅ አጫውት,10962,evolution,po/am.po
+Read,10965,አንብብ,10966,evolution,po/am.po
+Score,11000,ነጥብ,11001,evolution,po/am.po
+Size (kB),11014,መጠን kb,11015,evolution,po/am.po
+Subject,11046,ጉዳዩ,11047,evolution,po/am.po
+Sent,11126,ተልኳል,11127,evolution,po/am.po
+Loading...,11130,በመጫን ላይ...,11131,evolution,po/am.po
+_View,11179,ተመልከት (_V),11180,evolution,po/am.po
+_Copy...,11188,ቅጂ... (_C),11189,evolution,po/am.po
+_Move...,11192,መንቀሳቅስ... (_M),11193,evolution,po/am.po
+_Rename...,11202,እንደገና ሰይም... (_R),11203,evolution,po/am.po
+Select folder,11213,ዶሴ ምረጡ,11214,evolution,po/am.po
+_Forward,11265,ወደፊት፦,11266,evolution,po/am.po
+U_ndelete,11273,አታጥፋ,11274,evolution,po/am.po
+Default,11362,የነበረው,11363,evolution,po/am.po
+From,11617,ከ,11618,evolution,po/am.po
+To,11628,ወደ,11629,evolution,po/am.po
+Date,11660,ቀን,11661,evolution,po/am.po
+Save As...,11781,በሌላ ስም አስቀምጥ...,11782,evolution,po/am.po
+Folder,11830,ዶሴ,11831,evolution,po/am.po
+Filters,11847,አጣራዎች,11848,evolution,po/am.po
+Settings,12444,ምርጫዎች,12445,evolution,po/am.po
+Baltic (ISO-8859-13),12761,ባልቲክ (ISO-8859-13),12762,evolution,po/am.po
+Baltic (ISO-8859-4),12765,ባልቲክ iso 8859,12766,evolution,po/am.po
+De_fault,12827,የነበረው (_F),12828,evolution,po/am.po
+Done,12843,ጨርሷል,12844,evolution,po/am.po
+User_name:,13109,የተጠቃሚ ስም,13110,evolution,po/am.po
+_Path:,13165,መተላለፊያ,13166,evolution,po/am.po
+_Script:,13181,ጽሑፍ,13182,evolution,po/am.po
+color,13197,ቀለም,13198,evolution,po/am.po
+description,13201,መግለጫ,13202,evolution,po/am.po
+_Flag:,13280,ባንዲራ,13281,evolution,po/am.po
+Type: %s,13505,ዓይነት፦ %s,13506,evolution,po/am.po
+Enter Password,13536,ሚስጢራዊ ቃል አስገቡ,13537,evolution,po/am.po
+Name:,13553,ስም,13554,evolution,po/am.po
+Lower,14159,ዝቅተኛ,14160,evolution,po/am.po
+Today %l:%M %p,14178,ዛሬ %l:%M %p,14179,evolution,po/am.po
+Yesterday %l:%M %p,14182,ትናንት %l:%M %p,14183,evolution,po/am.po
+Size,14231,መጠን,14232,evolution,po/am.po
+Forward,14251,ወደፊት,14252,evolution,po/am.po
+_Folder Name:,14540,የዶሴ ስም፦ (_F),14541,evolution,po/am.po
+C_alendar:,14751,ቀን መቁጠሪያ፦ (_A),14752,evolution,po/am.po
+Generic error,15090,አጠቃላይ ስህተት,15091,evolution,po/am.po
+_Enable,15330,አስቻለ,15331,evolution,po/am.po
+Message,15369,መልዕክት,15370,evolution,po/am.po
+dialog1,15468,መምረጫ፩,15469,evolution,po/am.po
+Today,15639,ዛሬ,15640,evolution,po/am.po
+Print Pre_view,16338,የቅድመ ህትመት ዕይታ,16339,evolution,po/am.po
+Save,16390,አስቀምጥ,16391,evolution,po/am.po
+Url,16445,url,16446,evolution,po/am.po
+From %s:,16571,ከ %s፦,16572,evolution,po/am.po
+(Untitled),16734,(ያልተሰየመ),16735,evolution,po/am.po
+Select a file,16768,ፋይል ምረጡ,16769,evolution,po/am.po
+OK,16882,እሺ,16883,evolution,po/am.po
+New,16898,አዲስ,16899,evolution,po/am.po
+Import,17333,ከውጭ አስገባ,17334,evolution,po/am.po
+E,17515,ምሥራቅ,17516,evolution,po/am.po
+Copy the selection,17681,የተመረጠውን ቅዳ,17682,evolution,po/am.po
+Cut the selection,17689,የተመረጠውን ቁረጥ,17690,evolution,po/am.po
+Paste the clipboard,17706,ክሊፕቦርዱን ለጥፍ,17707,evolution,po/am.po
+Select All,17722,ሁሉንም ምረጡ,17723,evolution,po/am.po
+Stop,17746,አቁም,17747,evolution,po/am.po
+_Actions,17759,ትግባሮች (_A),17760,evolution,po/am.po
+_Select All,17776,ሁሉንም ምረጡ (_S),17777,evolution,po/am.po
+Day,17784,ቀን ኦች,17785,evolution,po/am.po
+Go To,17804,ሂድ ወደ,17805,evolution,po/am.po
+Go back,17808,ሂድ ወደ ኋላ,17809,evolution,po/am.po
+Go forward,17812,ሂድ ውደ ፊት,17813,evolution,po/am.po
+List,17816,ዝርዝር,17817,evolution,po/am.po
+Month,17820,ወር,17821,evolution,po/am.po
+Next,17824,የሚቀጥለው,17825,evolution,po/am.po
+Previous,17832,የቀድሞው,17833,evolution,po/am.po
+Week,17893,ሳመንት,17894,evolution,po/am.po
+Cu_t,17910,ቁረጥ (_T),17911,evolution,po/am.po
+Select _All,17924,ሁሉንም ምረጡ (_A),17925,evolution,po/am.po
+Empty _Trash,17960,የማይፈለግ ማድረጊያውን ባዶ አድርግ (_T),17961,evolution,po/am.po
+F_older,17965,ዶሴ (_O),17966,evolution,po/am.po
+_New...,18011,አዲስ... (_N),18012,evolution,po/am.po
+Move,18343,መንቀሳቅስ,18344,evolution,po/am.po
+_Go To,18511,ሂድ ወደ (_G),18512,evolution,po/am.po
+Close,18577,ዝጋ,18578,evolution,po/am.po
+Close this window,18581,ይሄንን መስኮት ዝጋ,18582,evolution,po/am.po
+Main toolbar,18585,ዋናው ቱልባር,18586,evolution,po/am.po
+_Close,18590,ዝጋ (_C),18591,evolution,po/am.po
+_File,18597,ፋይል (_F),18598,evolution,po/am.po
+Close the current file,18619,የአሁኑን ፋይል ዝጋ,18620,evolution,po/am.po
+For_mat,18636,ፎርማት (_M),18637,evolution,po/am.po
+Open a file,18644,ፋይል ክፈት,18645,evolution,po/am.po
+Save As,18668,በሌላ ስም አስቀምጥ,18669,evolution,po/am.po
+Save _As...,18677,በሌላ ስም አስቀምጥ... (_A),18678,evolution,po/am.po
+Save the current file,18694,የአሁኑን ፋይል አስቀምጥ,18695,evolution,po/am.po
+Save the current file with a different name,18698,የአሁኑን ፋይል በተለየ ስም አስቀምጥ,18699,evolution,po/am.po
+_Delete all,18759,ሁሉንም ሰርዝ (_D),18760,evolution,po/am.po
+_Insert,18768,አስገባ (_I),18769,evolution,po/am.po
+_Open...,18772,ክፈት... (_O),18773,evolution,po/am.po
+_Security,18784,_ደህነት,18785,evolution,po/am.po
+C_lose,18793,ዝጋ,18794,evolution,po/am.po
+Exit the program,18923,ከፕሮግራሙ ውጣ,18924,evolution,po/am.po
+Send / Receive,18957,ላክ / ተቀበል,18958,evolution,po/am.po
+Submit Bug Report,18973,የስሕተቱን ጉዳይ አቅርብ,18974,evolution,po/am.po
+Submit _Bug Report,18981,የስሕተቱን ጉዳይ አቅርብ,18982,evolution,po/am.po
+_Help,19013,መረጃ (_H),19014,evolution,po/am.po
+_Import...,19025,ከውጭ አስገባ... (_I),19026,evolution,po/am.po
+_New,19029,አዲስ (_N),19030,evolution,po/am.po
+_Send / Receive,19042,ላክ / ተቀበል (_S),19043,evolution,po/am.po
+_Phone List,19071,ስልክ ዝርዝር (_P),19072,evolution,po/am.po
+W_eek View,19075,የሳመንት ዕይታ (_E),19076,evolution,po/am.po
+_Day View,19079,የቀን ዕይታ (_D),19080,evolution,po/am.po
+_Month View,19088,የወር ዕይታ (_M),19089,evolution,po/am.po
+Table,19195,ሠንጠረዥ,19196,evolution,po/am.po
+_Current View,19217,የአሁኑ ዕይታ (_C),19218,evolution,po/am.po
+Factory,19226,ፋብሪካ,19227,evolution,po/am.po
+MTWTFSS,19249,ሳማረሐዓቅእ,19250,evolution,po/am.po
+Now,19333,አሁኑኑ,19334,evolution,po/am.po
+Baltic,19346,ባቲክ,19347,evolution,po/am.po
+Central European,19350,ካከለኛ አውሮፓውያን,19351,evolution,po/am.po
+Chinese,19354,ቻይንኛ,19355,evolution,po/am.po
+Cyrillic,19358,ቄርሎሳዊ ጽሑፍ,19359,evolution,po/am.po
+Greek,19362,ግሪክኛ,19363,evolution,po/am.po
+Hebrew,19366,ዕብራስጥ,19367,evolution,po/am.po
+Japanese,19370,ጃፓንኛ,19371,evolution,po/am.po
+Korean,19374,ኮሪያኛ,19375,evolution,po/am.po
+Turkish,19378,ቱርክኛ,19379,evolution,po/am.po
+Unicode,19382,ዩኒኮድ,19383,evolution,po/am.po
+Western European,19386,ምዕራብ አውሮፓዊ,19387,evolution,po/am.po
+Traditional,19396,ባሕላዊው,19397,evolution,po/am.po
+Simplified,19401,ቀላል,19402,evolution,po/am.po
+Ukrainian,19405,ዩክረኒኛ,19406,evolution,po/am.po
+Other...,19427,ሌላ...,19428,evolution,po/am.po
+_Search,19588,ፈልግ,19589,evolution,po/am.po
+_Clear,19596,ሰርዝ,19597,evolution,po/am.po
+Text,19615,ጽሑፍ,19616,evolution,po/am.po
+<- _Remove,19849,አስወግድ,19850,evolution,po/am.po
+State,19940,ሁኔታ,19941,evolution,po/am.po
+DnD code,19976,የDnD ኮድ,19977,evolution,po/am.po
+Full Header,19983,የገጽ ሙሉ አናት,19984,evolution,po/am.po
+Add a column...,19987,ዐምድ ጨምር...,19988,evolution,po/am.po
+Alignment,20131,ኩልኩል,20132,evolution,po/am.po
+Tree,20159,ዛፍ,20160,evolution,po/am.po
+Extract Here,28,ወደዚህ አውጣ,29,file-roller,po/am.po
+Load Options,69,ምርጫዎች ጫን (_L),70,file-roller,po/am.po
+Location,73,ቦታ,74,file-roller,po/am.po
+Open Files,83,ፋይሎች ክፈት...,84,file-roller,po/am.po
+Password,87,_ሚስጢራዊ ቃል፦,88,file-roller,po/am.po
+_All files,95,ሁሉንም ፋይሎች (_A),96,file-roller,po/am.po
+_Application:,99,መጠቀሚያ ፕሮግራም፦ (_A),100,file-roller,po/am.po
+_Files:,108,ፋይሎች፦ (_F),109,file-roller,po/am.po
+_Password:,112,_ሚስጢራዊ ቃል፦,113,file-roller,po/am.po
+_Selected files,116,የተመረጠው ፋይሎች (_S),117,file-roller,po/am.po
+example: *.txt; *.doc,120,ለምሳሌ፦ *.txt; *.doc,121,file-roller,po/am.po
+Extract,128,የተወጣጣ,129,file-roller,po/am.po
+Archive Manager,139,የመዝገብ ቤት መቆጣጠሪያ,140,file-roller,po/am.po
+Extract To...,152,ለ... መርጠህ አውጣ,153,file-roller,po/am.po
+Automatic,164,አውቶማቲክ,165,file-roller,po/am.po
+Overwrite,263,በላዩ ላይ ይጻፍ,264,file-roller,po/am.po
+New,271,አዲስ,272,file-roller,po/am.po
+Archive type:,285,የመዝገብ ቤት ዓይነት፦,286,file-roller,po/am.po
+Open,289,ክፈት,290,file-roller,po/am.po
+_Load Options,371,ምርጫዎች ጫን (_L),372,file-roller,po/am.po
+Sa_ve Options,375,ምርጫዎች አስቀምጥ (_V),376,file-roller,po/am.po
+Save Options,379,ምርጫዎች አስቀምጥ (_V),380,file-roller,po/am.po
+Create _Folder,414,ዶሴ ፍጠር (_F),415,file-roller,po/am.po
+Files,449,ፋይሎች,450,file-roller,po/am.po
+Actions,457,ትግባሮች,458,file-roller,po/am.po
+Path:,478,መተላለፊያ፦,479,file-roller,po/am.po
+Name:,482,ስም፦,483,file-roller,po/am.po
+%s Properties,487,%sን ምርጫዎች,488,file-roller,po/am.po
+Number of files:,513,የፋይል ብዛት፦,514,file-roller,po/am.po
+Unknown type,517,ያልታወቀ ዓይነት,518,file-roller,po/am.po
+_View,567,ተመልከት (_V),568,file-roller,po/am.po
+ARCHIVE,580,መዝገብ ቤት,581,file-roller,po/am.po
+FOLDER,592,ዶሴ,593,file-roller,po/am.po
+_Archive,614,መዝገብ ቤት (_A),615,file-roller,po/am.po
+_Edit,618,አስተካክል (_E),619,file-roller,po/am.po
+Add,647,ጨምር,648,file-roller,po/am.po
+Open archive,710,መዝገብ ቤትን ክፈት,711,file-roller,po/am.po
+Open Fi_les...,714,ፋይሎች ክፈት...,715,file-roller,po/am.po
+Pass_word...,722,ሚስጢራዊ ቃል... (_w),723,file-roller,po/am.po
+Select _All,760,_ሁሉንም ምረጡ (_A),761,file-roller,po/am.po
+Select all files,764,ሁሉንም ፋይሎች ምረጡ,765,file-roller,po/am.po
+_View File,780,ፋይል አሳይ (_V),781,file-roller,po/am.po
+_Toolbar,789,ቱልባር (_T),790,file-roller,po/am.po
+Stat_usbar,797,ስታተስባር (_U),798,file-roller,po/am.po
+View the statusbar,801,ስታተስባሩን አሳይ,802,file-roller,po/am.po
+_Reversed Order,805,የተቀያየረ ቅደም ተከተል (_R),806,file-roller,po/am.po
+View All _Files,813,ሁሉንም ፋይሎች አሳይ (_F),814,file-roller,po/am.po
+by _Name,821,በስሙ (_N),822,file-roller,po/am.po
+by _Size,829,በመጠኑ (_S),830,file-roller,po/am.po
+by T_ype,837,በዓይነቱ (_y),838,file-roller,po/am.po
+Folder,863,ዶሴ,864,file-roller,po/am.po
+[read only],867,[ለንባብ ብቻ],868,file-roller,po/am.po
+Command not found.,950,ማዘዣው አልተገኘም።,951,file-roller,po/am.po
+Create _Archive,980,መዝገብ ቤትን ፍጠር (_A),981,file-roller,po/am.po
+Size,984,መጠን,985,file-roller,po/am.po
+Type,988,ዓይነት,989,file-roller,po/am.po
+Name,997,ስም,998,file-roller,po/am.po
+_Rename,1075,እንደገና ሰይም (_R),1076,file-roller,po/am.po
+Preferences,54,ምርጫዎች,55,five-or-more,po/am.po
+_Medium,80,መሀከለኛ (_M),81,five-or-more,po/am.po
+Score:,107,ነጥብ፦,108,five-or-more,po/am.po
+Scores,121,ነጥቦች,122,five-or-more,po/am.po
+Start a new game,74,አዲስ ጨዋታ ጀምር,75,four-in-a-row,po/am.po
+Sound,97,ድምፅ,98,four-in-a-row,po/am.po
+Move left,105,ወደግራ አንቀሳቅስ,106,four-in-a-row,po/am.po
+Move right,113,ወደቀኝ አንቀሳቅስ,114,four-in-a-row,po/am.po
+Scores,180,ነጥቦች,181,four-in-a-row,po/am.po
+Preferences,220,ምርጫዎች,221,four-in-a-row,po/am.po
+Game,224,ጨዋታ,225,four-in-a-row,po/am.po
+Human,232,ሰው,233,four-in-a-row,po/am.po
+Level one,236,ደረጃ አንድ,237,four-in-a-row,po/am.po
+Level two,240,ደረጃ ሁለት,241,four-in-a-row,po/am.po
+Level three,244,ደረጃ ሦስት,245,four-in-a-row,po/am.po
+Red,299,ቀይ,300,four-in-a-row,po/am.po
+Green,303,አረንጓዴ,304,four-in-a-row,po/am.po
+Blue,328,ሰማያዊ,329,four-in-a-row,po/am.po
+Username:,161,የተጠቃሚ ስም፦,162,gdm,po/am.po
+COMMAND,393,ትእዛዝ,394,gdm,po/am.po
+gedit application,39,የgedit ፕሮግራም,40,gedit,po/am.po
+Edit text files,47,የጽሑፍ ፋይሎች ያስተካክሉ,48,gedit,po/am.po
+Text Editor,51,የጽሑፍ ማቀናጃ,52,gedit,po/am.po
+Auto Save,71,በራሱ አስቀማጭ,72,gedit,po/am.po
+Auto indent,79,በራሱ አንቀጽ,80,gedit,po/am.po
+Background Color,83,የመደቡ ቀለም,84,gedit,po/am.po
+Display Line Numbers,111,የመስመር ቍጥሮች አሳይ,112,gedit,po/am.po
+Editor Font,119,የማቀናጃ ፊደል ቅርጽ,120,gedit,po/am.po
+Insert spaces,168,ክፍተቶችን አስገባ,169,gedit,po/am.po
+Print Line Numbers,242,የመስመር ቍጥሮች አትም,243,gedit,po/am.po
+Selected Text Color,286,የተመረጠው ጽሑፍ ቀለም,287,gedit,po/am.po
+Selection Color,290,የምርጫው ቀለም,291,gedit,po/am.po
+Tab Size,386,የመክፈቻ መጠን,387,gedit,po/am.po
+Text Color,390,የጽሑፍ ቀለም,391,gedit,po/am.po
+Use Default Colors,406,የነበረው ቀለሞችን ተጠቀም,407,gedit,po/am.po
+Use Default Font,410,የነበረው ፊደል ቅርጽን ተጠቀም,411,gedit,po/am.po
+Activate %s,501,%s አስጀምርs,502,gedit,po/am.po
+Go to Line,593,ወደ መስመር ሂድ,594,gedit,po/am.po
+_Go to Line,597,ወደ መስመር _ሂድ,598,gedit,po/am.po
+"The text \""%s\"" was not found.",603,"ጽሑፉ \""%s\""ን አልተገኘም",604,gedit,po/am.po
+Replace,608,ተካ,609,gedit,po/am.po
+Replace _All,612,_ሁሉንም ተካ,613,gedit,po/am.po
+_Replace,617,_ተካ,618,gedit,po/am.po
+Find,621,ፈልግ,622,gedit,po/am.po
+Open Location,632,ቦታ ክፈት,633,gedit,po/am.po
+_Description,642,_መግለጫ,643,gedit,po/am.po
+Plugin,666,ተጨማሪ ፕሮግራም (ፕላግኢን),667,gedit,po/am.po
+<b>Font</b>,751,<b>የፊደል ቅርጽ</b>,752,gedit,po/am.po
+"<span weight=\""bold\"">Colors</span>",775,"<span weight=\""bold\"">ቀለሞች</span>",776,gedit,po/am.po
+Editor,797,ማቀናጃ,798,gedit,po/am.po
+Editor _font: ,801,የማቀናጃ ፊደል _ቅርጽ፦ ,802,gedit,po/am.po
+Font & Colors,810,የፊደል ቅርጾች እና ቀለሞች,811,gedit,po/am.po
+Pick the background color,845,የመደቡ ቀለም ምረጡ,846,gedit,po/am.po
+Plugins,867,ተጨማሪ ፕሮግራሞች (Plugins),868,gedit,po/am.po
+Preferences,871,ምርጫዎች,872,gedit,po/am.po
+Se_lection color:,875,የ_ምርጫው ቀለም፦,876,gedit,po/am.po
+Selecte_d text color:,879,የተመረጠው ጽሑፍ ቀለም፦,880,gedit,po/am.po
+_Background color:,909,የ_መደቡ ቀለም፦,910,gedit,po/am.po
+_Display line numbers,918, የ_መስመር ቍጥሮች አሳይ,919,gedit,po/am.po
+_minutes,952,_ደቂቃዎች,953,gedit,po/am.po
+Goto Line,956,ወደ መስመር ሂድ,957,gedit,po/am.po
+_Line number:,960,የ_መስመር ቍጥር፦,961,gedit,po/am.po
+Fonts,964,የፊደል ቅርጾች,965,gedit,po/am.po
+_Restore Default Fonts,1008,የነበረው የፊደል ቅርጾች ወደ መጀመሪያው _መልስ,1009,gedit,po/am.po
+label,1043,መለያ,1044,gedit,po/am.po
+Find Next,1053,የሚቀጥለዉን ፈልግ,1054,gedit,po/am.po
+Replace All,1061,ሁሉንም ተካ,1062,gedit,po/am.po
+Replace _with: ,1065,በ... _ተካ፦ ,1066,gedit,po/am.po
+_Match case,1073,የፊደሎቱን መጠን _አመሳስል,1074,gedit,po/am.po
+_Search for: ,1077,_ፈልግ፦,1078,gedit,po/am.po
+Open from URI,1093,ከURI ክፈት,1094,gedit,po/am.po
+Invalid UTF-8 data,1128,የማይሰራ የUTF-8 ዳታ,1129,gedit,po/am.po
+Invalid filename.,1150,የማይሰራ የፋይል ስም።,1151,gedit,po/am.po
+Unicode,1187,ዩኒኮድ,1188,gedit,po/am.po
+Western,1192,ምዕራብ,1193,gedit,po/am.po
+Central European,1197,መካከለኛ አውሮፓውያን,1198,gedit,po/am.po
+South European,1201,ደቡባዊ አውሮፓውያን,1202,gedit,po/am.po
+Baltic,1206,ባቲክ,1207,gedit,po/am.po
+Cyrillic,1212,ቄርሎሳዊ ጽሑፍ,1213,gedit,po/am.po
+Arabic,1217,ዐርቢኛ,1218,gedit,po/am.po
+Greek,1222,ግሪክኛ,1223,gedit,po/am.po
+Hebrew,1231,ዕብራስጥ,1232,gedit,po/am.po
+Turkish,1236,ቱርክኛ,1237,gedit,po/am.po
+Romanian,1248,ሮማኒያን,1249,gedit,po/am.po
+Armenian,1252,አርመናዊ,1253,gedit,po/am.po
+Chinese Traditional,1257,የባሕላዊው ቻይንኛ,1258,gedit,po/am.po
+Cyrillic/Russian,1261,ቄርሎሳዊ ጽሑፍ/ራሽኛ,1262,gedit,po/am.po
+Japanese,1267,ጃፓንኛ,1268,gedit,po/am.po
+Korean,1272,ኮሪያኛ,1273,gedit,po/am.po
+Chinese Simplified,1277,የቀላል ቻይንኛ,1278,gedit,po/am.po
+Georgian,1281,ጊዮርጊያን,1282,gedit,po/am.po
+Cyrillic/Ukrainian,1285,ቄርሎሳዊ ጽሑፍ/ዩክረኒኛ,1286,gedit,po/am.po
+Vietnamese,1290,ቪትናምኛ,1291,gedit,po/am.po
+Thai,1294,ታይኛ,1295,gedit,po/am.po
+Select a filename to save,1350,ለማስቀመጥ የፋይል ስም ምረጡ,1351,gedit,po/am.po
+Open File...,1354,ፋይል ክፈት ...,1355,gedit,po/am.po
+Save as...,1373,በሌላ ስም አስቀምጥ ...,1374,gedit,po/am.po
+_Revert,1437,_ወደ ነበረበት መልስ,1438,gedit,po/am.po
+"Could not open the file \""%s\""",1528,"ፋይሉ \""%s\""ን መክፈት አልተቻለም",1529,gedit,po/am.po
+It is not possible to revert an Untitled document.,1681,ስያሜ ያልተሰጠውን ሰነድ ለመመለስ አይቻልም,1682,gedit,po/am.po
+Close the output window,1784,የውጤት መስኮትን ዝጋ,1785,gedit,po/am.po
+Copy selected lines,1788,የተመረጠው መስመሮች ቅጂ,1789,gedit,po/am.po
+Clear the output window,1792,የውጤት መስኮትን ባዶ አድርጉ,1793,gedit,po/am.po
+Output Lines,1796,የውጤት መስመሮች,1797,gedit,po/am.po
+Print,1809,አትም,1810,gedit,po/am.po
+Lines,1813,መስመሮች,1814,gedit,po/am.po
+Print preview,1832,የቅድመ ህትመት ዕይታ,1833,gedit,po/am.po
+File: %s,1837,ፋይል፦ %s,1838,gedit,po/am.po
+About this application,1845,ስለዚህ ፕሮግራም,1846,gedit,po/am.po
+Close,1861,ዝጋ,1862,gedit,po/am.po
+Close all open files,1865,የተከፈቱትን ሁሉንም ፋይሎች ዝጋ,1866,gedit,po/am.po
+Close the current file,1869,የአሁኑን ፋይል ዝጋ,1870,gedit,po/am.po
+Configure the application,1873,ፕሮግራሙን ልወጡ,1874,gedit,po/am.po
+Copy,1877,ቅጂ,1878,gedit,po/am.po
+Copy the selection,1881,የተመረጠውን ቅጂ,1882,gedit,po/am.po
+Create a new document,1885,አዲስ ሰነድ ፍጠር,1886,gedit,po/am.po
+Cu_t,1889,ቁረጥ (_t),1890,gedit,po/am.po
+Cut,1893,ቁረጥ,1894,gedit,po/am.po
+Cut the selection,1897,የተመረጠውን ቁረጥ,1898,gedit,po/am.po
+Delete,1901,አጥፉ,1902,gedit,po/am.po
+Delete the selected text,1905,የተመረጠው ጽሑፍ አጥፉ,1906,gedit,po/am.po
+Find Ne_xt,1909,_የሚቀጥለዉን ፈልግ,1910,gedit,po/am.po
+Go to _Line...,1922,ወደ _መስመር ሂድ...,1923,gedit,po/am.po
+Main toolbar,1931,ዋናው ቱልባር,1932,gedit,po/am.po
+New,1939,አዲስ,1940,gedit,po/am.po
+Open,1943,ክፈት,1944,gedit,po/am.po
+Open Location...,1947,ቦታ ክፈት...,1948,gedit,po/am.po
+Open _Location...,1951,ቦታ ክፈት... (_L),1952,gedit,po/am.po
+Open a file,1955,ፋይል ክፈት,1956,gedit,po/am.po
+Paste,1972,ለጥፍ,1973,gedit,po/am.po
+Paste the clipboard,1976,ክሊፕቦርዱን ለጥፍ,1977,gedit,po/am.po
+Pr_eferences,1980,_ምርጫዎች,1981,gedit,po/am.po
+Print Previe_w...,1984,የ_ቅድመ ህትመት ዕይታ...,1985,gedit,po/am.po
+Print Preview,1988,የቅድመ ህትመት ዕይታ,1989,gedit,po/am.po
+Print the current file,1992,የአሁኑን ፋይል አትም,1993,gedit,po/am.po
+Quit,1996,ውጣ,1997,gedit,po/am.po
+Quit the program,2000,ከፕሮግራሙ ውጣ,2001,gedit,po/am.po
+Redo,2004,እንደገና አድርግ,2005,gedit,po/am.po
+Redo the undone action,2008,የተተወውን ድርጊት እንደገና አድርግ,2009,gedit,po/am.po
+Revert,2012,ወደ ነበረበት መልስ,2013,gedit,po/am.po
+Revert to a saved version of the file,2016,መጀመሪያ ተቀምጦ ወደ ነበረው የፋይሉ ቅጂ መልስ,2017,gedit,po/am.po
+Save,2020,አስቀምጥ,2021,gedit,po/am.po
+Save As,2024,በሌላ ስም አስቀምጥ,2025,gedit,po/am.po
+Save _As...,2028,_በሌላ ስም አስቀምጥ... (_A),2029,gedit,po/am.po
+Save all open files,2032,የተከፈቱትን ሁሉንም ፋይሎች አስቀምጥ,2033,gedit,po/am.po
+Save the current file,2036,የአሁኑን ፋይል አስቀምጥ,2037,gedit,po/am.po
+Save the current file with a different name,2040,የአሁኑን ፋይል በተለየ ስም አስቀምጥ,2041,gedit,po/am.po
+Select All,2064,ሁሉንም ምረጡ,2065,gedit,po/am.po
+Select _All,2068,ሁሉንም ምረጡ (_A),2069,gedit,po/am.po
+Select the entire document,2072,ሰነዱን እንዳለ ምረጡ,2073,gedit,po/am.po
+Undo,2102,ወደ ነበረበት መልስ,2103,gedit,po/am.po
+Undo the last action,2106,የመጨረሻውን ትግባር ተወው,2107,gedit,po/am.po
+_About,2110,_ስለ,2111,gedit,po/am.po
+_Close,2114,_ዝጋ,2115,gedit,po/am.po
+_Close All,2118,ሁሉንም _ዝጋ,2119,gedit,po/am.po
+_Contents,2122,_ይዞታዎች,2123,gedit,po/am.po
+_Copy,2126,_ቅጂ,2127,gedit,po/am.po
+_Customize Toolbar,2130,_ቱልባር አስተካክል,2131,gedit,po/am.po
+_Delete,2134,_አጥፉ,2135,gedit,po/am.po
+_Desktop Default,2138,የነበረው _ሠሌዳ,2139,gedit,po/am.po
+_Documents,2142,_ሰነዶች,2143,gedit,po/am.po
+_Edit,2146,_አስተካክል,2147,gedit,po/am.po
+_File,2150,_ፋይል,2151,gedit,po/am.po
+_Find...,2154,_ፈልግ...,2155,gedit,po/am.po
+_Help,2158,_መረጃ,2159,gedit,po/am.po
+_New,2171,_አዲስ,2172,gedit,po/am.po
+_Open...,2175,_ክፈት...,2176,gedit,po/am.po
+_Output Window,2179,የ_ውጤት መስኮት,2180,gedit,po/am.po
+_Paste,2183,_ለጥፍ,2184,gedit,po/am.po
+_Print...,2187,_አትም...,2188,gedit,po/am.po
+_Quit,2191,_ውጣ,2192,gedit,po/am.po
+_Redo,2195,_እንደገና አድርግ,2196,gedit,po/am.po
+_Replace...,2199,_ተካ...,2200,gedit,po/am.po
+_Save,2203,_አስቀምጥ,2204,gedit,po/am.po
+_Save All,2207,ሁሉንም _አስቀምጥ,2208,gedit,po/am.po
+_Search,2211,_ፈልግ,2212,gedit,po/am.po
+_Statusbar,2215,_ስታተስባር,2216,gedit,po/am.po
+_Toolbar,2223,_ቱልባር,2224,gedit,po/am.po
+_Tools,2227,_መሣሪያዎች,2228,gedit,po/am.po
+_Undo,2231,_ወደ ነበረበት መልስ,2232,gedit,po/am.po
+_View,2235,_ተመልከት,2236,gedit,po/am.po
+ (invalid Unicode),2239, (ዩኒኮድ ተቀብሏል),2240,gedit,po/am.po
+  OVR,2256,  በላዩ ላይ ፃፍ,2257,gedit,po/am.po
+  INS,2260,  አስገባ,2261,gedit,po/am.po
+_Document Statistics,2349,_የሰነዶች ቍጥር መረጃ ጥናት,2350,gedit,po/am.po
+Document Statistics,2358,የሰነዶች ቍጥር መረጃ ጥናት,2359,gedit,po/am.po
+_Update,2362,_አሻሽል,2363,gedit,po/am.po
+Bytes,2381,ባይቶች,2382,gedit,po/am.po
+Characters (no spaces),2385,አኃዞች (ክፍተት የለም),2386,gedit,po/am.po
+Characters (with spaces),2389,አኃዞች (ከክፍተት ጋር),2390,gedit,po/am.po
+Update,2393,አሻሽል,2394,gedit,po/am.po
+Words,2397,ቃላት,2398,gedit,po/am.po
+_Indent,2405,_አዲስ አንቀጽ,2406,gedit,po/am.po
+Indent selected lines,2409,የተመረጠውን መስመሮች አንቀጽ,2410,gedit,po/am.po
+U_nindent,2413,አንቀጽ _የሌለው,2414,gedit,po/am.po
+Indent lines,2421,መስመሮችን አንቀጽ,2422,gedit,po/am.po
+Insert User Na_me,2430,የተጠቃሚ ስም _አስገባ,2431,gedit,po/am.po
+User name,2442,የተጠቃሚ ስም,2443,gedit,po/am.po
+_Run,2502,_አስኪድ,2503,gedit,po/am.po
+Done,2506,ጨርሷል,2507,gedit,po/am.po
+"The shell command entry is empty.\n\nPlease, insert a valid shell command.",2514,የሼሉ ትእዛዝ መስጫ ባዶ ነው።\n\nየሼሉ ትእዛዝ መስጫ ባዶ ነው እባክዎ ትክክለኛውን የሼሉን ትእዛዝ ያስገቡ።,2518,gedit,po/am.po
+"Error parsing the shell command.\n\nPlease, insert a valid shell command.",2524,የሼሉን ትእዛዝ መረዳት ስላልቻለ ስህተት ተፈጥሯል።\n\nእባክዎ ትክክለኛውን የሼሉን ትእዛዝ ያስገቡ።,2528,gedit,po/am.po
+Shell command,2549,የሼል ትእዛዝ,2550,gedit,po/am.po
+Co_mmand:,2553,_ትእዛዝ፦,2554,gedit,po/am.po
+S_ort...,2573,_ቅደም ተከተል...,2574,gedit,po/am.po
+Sort,2582,ቅደም ተከተል,2583,gedit,po/am.po
+R_emove duplicates,2590,የአባዛዎች _አስወግድ,2591,gedit,po/am.po
+S_tart at column:,2594,በዐምድ _ጀምር፦,2595,gedit,po/am.po
+_Ignore case,2602,የፊደሉን መጠን _ተዉት,2603,gedit,po/am.po
+_Reverse order,2606,የ_ተቀያየረ ቅደም ተከተል,2607,gedit,po/am.po
+_Sort,2610,_ቅደም ተከተል,2611,gedit,po/am.po
+_More...,2619,_ተጨማሪ...,2620,gedit,po/am.po
+_Ignore All,2624,_ሁሉንም ተዉት,2625,gedit,po/am.po
+_Add,2629,_ጨምር,2630,gedit,po/am.po
+Check Spelling,2637,የቃላት አጻጻፉን አጣራ,2638,gedit,po/am.po
+Suggestions,2641,አስተያየቶች,2642,gedit,po/am.po
+Breton,2679,ብሬቶንኛ,2680,gedit,po/am.po
+Catalan,2683,ካታላን,2684,gedit,po/am.po
+Czech,2687,ቼክኛ,2688,gedit,po/am.po
+Danish,2695,ዴኒሽ,2696,gedit,po/am.po
+German (Germany),2704,ጀርመን (የጀርመን),2705,gedit,po/am.po
+German (Swiss),2708,ጀርመን (የዊስ),2709,gedit,po/am.po
+English (American),2712,ኢንግልዝኛ (የአሜሪካ),2713,gedit,po/am.po
+English (British),2716,ኢንግልዝኛ (የብሪታን),2717,gedit,po/am.po
+English (Canadian),2720,ኢንግልዝኛ (የካናዳ),2721,gedit,po/am.po
+Esperanto,2724,ኤስፐራንቶ,2725,gedit,po/am.po
+Spanish,2728,ስፓኒሽ,2729,gedit,po/am.po
+Faroese,2747,ፋሮኛ,2748,gedit,po/am.po
+French (France),2751,ፈረንሳይኛ (የፈረንሳይ),2752,gedit,po/am.po
+French (Swiss),2755,ፈረንሳይኛ (የዊስ),2756,gedit,po/am.po
+Hindi,2777,ሐንድኛ,2778,gedit,po/am.po
+Croatian,2781,ክሮሽያንኛ,2782,gedit,po/am.po
+Icelandic,2801,አይስላንድኛ,2802,gedit,po/am.po
+Italian,2805,ጣሊያንኛ,2806,gedit,po/am.po
+Dutch,2864,ደች,2865,gedit,po/am.po
+Norwegian,2873,ኖርዌጂያን,2874,gedit,po/am.po
+Polish,2881,ፖሊሽ,2882,gedit,po/am.po
+Portuguese (Portugal),2885,ፖርቱጋልኛ (የፖርቱጋል),2886,gedit,po/am.po
+Portuguese (Brazilian),2889,ፖርቱጋልኛ (የብራዚል),2890,gedit,po/am.po
+Russian,2897,ራሽኛ,2898,gedit,po/am.po
+Swedish,2918,ስዊድንኛ,2919,gedit,po/am.po
+Default,2964,የነበረው,2965,gedit,po/am.po
+Could not find the required widgets inside %s.,2969,ተፈላጊውን ዊድጌቶች %s የሚለው ውስጥ ሊገኝ አልተቻለም።,2970,gedit,po/am.po
+Languages,2973,ቋንቋዎች,2974,gedit,po/am.po
+Set language,2981,ቋንቋን ይምረጡ,2982,gedit,po/am.po
+<b>Language</b>,2985,<b>ቋንቋ</b>,2986,gedit,po/am.po
+<b>word</b>,2989,<b>ቃል</b>,2990,gedit,po/am.po
+Add w_ord,2993,_ቃል ጨምር,2994,gedit,po/am.po
+Cha_nge,2997,_ለውጥ,2998,gedit,po/am.po
+Change A_ll,3001,_ሁሉንም ለውጥ,3002,gedit,po/am.po
+Change _to:,3005,_ወደ ለውጥ፦,3006,gedit,po/am.po
+Check spelling,3013,የቃላት አጻጻፉን አጣራ,3014,gedit,po/am.po
+Ignore _All,3017,ሁሉንም ተዉት,3018,gedit,po/am.po
+Language:,3021,ቋንቋ፦,3022,gedit,po/am.po
+User dictionary:,3029,የተጠቃሚ መዝገበ ቃላት፦,3030,gedit,po/am.po
+_Ignore,3033,_ተዉት,3034,gedit,po/am.po
+_Suggestions:,3037,_አስተያየቶች፦,3038,gedit,po/am.po
+_Check Spelling,3041,የቃላት አጻጻፉን _አጣራ,3042,gedit,po/am.po
+Automatically spell-check the current document,3053,አሁን ያለው ሰነዱን የፊደል ጉድፈት አውቶማቲካሊ አጣራ,3054,gedit,po/am.po
+Set _Language,3057,ቋንቋን _ይምረጡ,3058,gedit,po/am.po
+The document is empty.,3065,ሰንዱን ባዶ ነው።,3066,gedit,po/am.po
+Title,4136,አርእስት,4137,gedit,po/am.po
+In_sert Date and Time...,4603,ቀን እና ሰዓት _አስገባ...,4604,gedit,po/am.po
+Insert current date and time at the cursor position,4607,ጠቋሚው ባለበት ቦታ ላይ የዕለቱ ቀንና ሰዓት አስገባ,4608,gedit,po/am.po
+Available formats,4611,የሚገኙ ፎርማቶች,4612,gedit,po/am.po
+Configure insert date/time plugin...,4615,የቀን/ሰዓት ተጨማሪ ፕሮግራም ተስተካክሎ ይግባ...,4616,gedit,po/am.po
+Insert Date/Time,4619,ቀን/ሰዓት አስገባ,4620,gedit,po/am.po
+Configure date/time plugin,4635,የቀን/ሰዓት ተጨማሪ ፕሮግራም ለወጡ,4636,gedit,po/am.po
+Insert Date and Time,4639,ቀን እና ሰዓት አስገባ,4640,gedit,po/am.po
+_Insert,4647,_አስገባ,4648,gedit,po/am.po
+GNOME Hexadecimal Editor,20,የኖም Hexadecimal ማቀናጃ,21,ghex,po/am.po
+Hex Editor,24,የHex ማቀናጃ,25,ghex,po/am.po
+Decimal,36,ቍጥሮች,37,ghex,po/am.po
+Character table,48,የፊደል ሠንጠረዥ,49,ghex,po/am.po
+_Binary:,57,_Binary፦,58,ghex,po/am.po
+_Octal:,61,_Octal፦,62,ghex,po/am.po
+_Decimal:,65,_ቍጥሮች፦,66,ghex,po/am.po
+_Hex:,69,_Hex፦,70,ghex,po/am.po
+_ASCII:,73,_ASCII፦,74,ghex,po/am.po
+ERROR,90,ስህተት,91,ghex,po/am.po
+GHex (%s): Find Data,95,GHex (%s)፦ ዳታ ፈልግ,96,ghex,po/am.po
+Search for %s,100,ፈልግ %s,101,ghex,po/am.po
+Find _Next,104,የሚቀጥለዉን ፈልግ (_N),105,ghex,po/am.po
+Find _Previous,108,የቀድሞው ፈልግ (_P),109,ghex,po/am.po
+Find Data,112,ዳታ ፈልግ,113,ghex,po/am.po
+Find Next,120,የሚቀጥለዉን ፈልግ,121,ghex,po/am.po
+Find previous,128,የቀድሞው ፈልግ,129,ghex,po/am.po
+Cancel,136,ተወው,137,ghex,po/am.po
+Replace %s,150,ተካ %s,151,ghex,po/am.po
+Find _next,154,የሚቀጥለዉን ፈልግ (_n),155,ghex,po/am.po
+_Replace,158,ተካ (_R),159,ghex,po/am.po
+Replace _All,162,ሁሉንም ተካ (_A),163,ghex,po/am.po
+Find next,174,የሚቀጥለዉን ፈልግ,175,ghex,po/am.po
+Replace,178,ተካ,179,ghex,po/am.po
+Replace All,186,ሁሉንም ተካ,187,ghex,po/am.po
+OK,211,እሺ,212,ghex,po/am.po
+About this application,284,ስለዚህ ፕሮግራም,285,ghex,po/am.po
+Bytes,296,ባይቶች,297,ghex,po/am.po
+C_ut,300,ቁረጥ (_u),301,ghex,po/am.po
+Character Table...,304,የፊደል ሠንጠረዥ...,305,ghex,po/am.po
+Character _Table...,308,የፊደል ሠንጠረዥ... (_T),309,ghex,po/am.po
+Close,312,ዝጋ,313,ghex,po/am.po
+Close the current file,316,የአሁኑን ፋይል ዝጋ,317,ghex,po/am.po
+Configure the application,320,ፕሮግራሙን አስተካክል,321,ghex,po/am.po
+Contents,324,ይዞታዎች,325,ghex,po/am.po
+Converter...,328,ለዋጭ...,329,ghex,po/am.po
+Copy,332,ቅጂ,333,ghex,po/am.po
+Cut,340,ቁረጥ,341,ghex,po/am.po
+Cut selection,344,ምርጫ ቁረጥ,345,ghex,po/am.po
+E_xit,348,ውጣ (_x),349,ghex,po/am.po
+Exit,352,ውጣ,353,ghex,po/am.po
+Exit the program,356,ከፕሮግራሙ ውጣ,357,ghex,po/am.po
+Find,368,ፈልግ,369,ghex,po/am.po
+Help on this application,392,መረጃ በዚህ መጠቀሚያ ፕሮግራም ላይ,393,ghex,po/am.po
+Longwords,408,ረጅም ቃላት,409,ghex,po/am.po
+Open,412,ክፈት,413,ghex,po/am.po
+Open a file,416,ፋይል ክፈት,417,ghex,po/am.po
+Paste,424,ለጥፍ,425,ghex,po/am.po
+Preferences,432,ምርጫዎች,433,ghex,po/am.po
+Print,440,አትም,441,ghex,po/am.po
+Print Previe_w...,444,የቅድመ ህትመት ዕይታ... (_w),445,ghex,po/am.po
+Print Preview...,448,የቅድመ ህትመት ዕይታ...,449,ghex,po/am.po
+Print the current file,452,የአሁኑን ፋይል አትም,453,ghex,po/am.po
+Redo,456,እንደገና አድርግ,457,ghex,po/am.po
+Redo the undone action,460,የተተወውን ድርጊት እንደገና አድርግ,461,ghex,po/am.po
+Replace a string,472,ሐረጉን ተካ,473,ghex,po/am.po
+Revert,476,ወደ ነበረበት መልስ,477,ghex,po/am.po
+Revert to a saved version of the file,480,መጀመሪያ ተቀምጦ ወደ ነበረው የፋይሉ ቅጂ መልስ,481,ghex,po/am.po
+Save,484,አስቀምጥ,485,ghex,po/am.po
+Save As,488,በሌላ ስም አስቀምጥ,489,ghex,po/am.po
+Save As _HTML...,492,በHTML አስቀምጥ... (_H),493,ghex,po/am.po
+Save _As...,496,በሌላ ስም አስቀምጥ... (_A),497,ghex,po/am.po
+Save the current file,500,የአሁኑን ፋይል አስቀምጥ,501,ghex,po/am.po
+Save the current file with a different name,504,የአሁኑን ፋይል በተለየ ስም አስቀምጥ,505,ghex,po/am.po
+Search for a string,508,ሐረጉን አስስ,509,ghex,po/am.po
+Undo,516,ወደ ነበረበት መልስ,517,ghex,po/am.po
+Undo the last action,520,የመጨረሻውን ትግባር ተወው,521,ghex,po/am.po
+Words,524,ቃላት,525,ghex,po/am.po
+_About,528,ስለ (_A),529,ghex,po/am.po
+_Bytes,540,_ባይቶች,541,ghex,po/am.po
+_Close,544,ዝጋ (_C),545,ghex,po/am.po
+_Contents,548,ይዞታዎች (_C),549,ghex,po/am.po
+_Copy,552,ቅጂ (_C),553,ghex,po/am.po
+_Edit,556,አስተካክል (_E),557,ghex,po/am.po
+_File,560,ፋይል (_F),561,ghex,po/am.po
+_Find,564,ፈልግ (_F),565,ghex,po/am.po
+_Help,576,መረጃ (_H),577,ghex,po/am.po
+_Longwords,584,ረጅም ቃላት (_L),585,ghex,po/am.po
+_Open...,588,ክፈት... (_O),589,ghex,po/am.po
+_Paste,592,ለጥፍ (_P),593,ghex,po/am.po
+_Preferences,596,ምርጫዎች (_P),597,ghex,po/am.po
+_Print,600,አትም (_P),601,ghex,po/am.po
+_Redo,604,እንደገና አድርግ (_R),605,ghex,po/am.po
+_Revert,612,ወደ ነበረበት መልስ (_R),613,ghex,po/am.po
+_Save,616,አስቀምጥ (_S),617,ghex,po/am.po
+_Undo,620,ወደ ነበረበት መልስ (_U),621,ghex,po/am.po
+_View,624,ተመልከት (_V),625,ghex,po/am.po
+_Windows,628,መስኮቶች (_W),629,ghex,po/am.po
+_Words,632,ቃላት (_W),633,ghex,po/am.po
+Do_n't save,686,አታስቀምጥ (_n),687,ghex,po/am.po
+Page,698,ገጽ,699,ghex,po/am.po
+Previous page,710,ያለፈው ገጽ,711,ghex,po/am.po
+Next page,714,የሚቀጥለው ገጽ,715,ghex,po/am.po
+Could not initialize Bonobo!\n,722,bonobo ማስጀመር አልቻልኩም!\n,723,ghex,po/am.po
+"Invalid geometry string \""%s\""\n",727,"የማይሰራ የጂኦሜትሪ ሐረግ \""%s\""\n",728,ghex,po/am.po
+GHex Preferences,731,የGHex ምርጫዎች,732,ghex,po/am.po
+Custom,755,የተለየ,756,ghex,po/am.po
+Font,777,የፊደል ቅርጽ,778,ghex,po/am.po
+Display,786,አሳይ,787,ghex,po/am.po
+Paper size,791,የወረከት መጠን,792,ghex,po/am.po
+Fonts,796,የፊደል ቅርጾች,797,ghex,po/am.po
+_Data font:,800,የዳታ የፊደል ቅርጽ፦ (_D),801,ghex,po/am.po
+Data font,804,የዳታ የፊደል ቅርጽ,805,ghex,po/am.po
+Printing,840,በማተም ላይ,841,ghex,po/am.po
+Page: %i/%i,855,ገጽ: %i/%i,856,ghex,po/am.po
+"X geometry specification (see \""X\"" man page).",866,የx ጂኦሜትሪ መመሪያዎች የ መመሪያ ገጽ ይመልከቱ,867,ghex,po/am.po
+GEOMETRY,870,ጂኦሜትሪ,871,ghex,po/am.po
+hex data,874,የhex ዳታ,875,ghex,po/am.po
+ASCII data,878,የASCII ዳታ,879,ghex,po/am.po
+Loaded file %s,902,ፋይል ተጭኗል %s,903,ghex,po/am.po
+Can not open file!,906,ፋይልን መክፈት አልተቻለም!,907,ghex,po/am.po
+Print Hex Document,938,የHex ሰነዱ ይታተም,939,ghex,po/am.po
+Pages,942,ገጾች,943,ghex,po/am.po
+GHex (%s): Print Preview,947,GHex (%s)፦ የህትመት ቅድመ ዕይታ,948,ghex,po/am.po
+Or,795,ወይንም,796,gnome-calculator,po/am.po
+And,808,እና,809,gnome-calculator,po/am.po
+Not,821,አይደለም,822,gnome-calculator,po/am.po
+Error,907,ስህተት,908,gnome-calculator,po/am.po
+%s version %s\n\n,996,%s ዝርያ %s\n\n,999,gnome-calculator,po/am.po
+Insert ASCII Value,1316,የASCII ዕሴት አስገባ,1317,gnome-calculator,po/am.po
+Ch_aracter:,1320,ፊደል፦ (_A),1321,gnome-calculator,po/am.po
+_Insert,1324,አስገባ (_I),1325,gnome-calculator,po/am.po
+No.,1349,አይደለም።,1350,gnome-calculator,po/am.po
+Value,1353,ዕሴት,1354,gnome-calculator,po/am.po
+Description,1357,መግለጫ,1358,gnome-calculator,po/am.po
+Preferences,116,ምርጫዎች,117,gnome-chess,po/am.po
+Custom,315,የተለየ,316,gnome-chess,po/am.po
+Keyboard,492,የፊደል ሠሌዳ,493,gnome-control-center,po/am.po
+Basic,543,ቀላል,544,gnome-control-center,po/am.po
+Filters,583,አጣራዎች,584,gnome-control-center,po/am.po
+S_peed:,626,_ፍጥነት፦,627,gnome-control-center,po/am.po
+milliseconds,675,ሚሊሴኮንዶች,676,gnome-control-center,po/am.po
+seconds,688,ሴኮንዶች,689,gnome-control-center,po/am.po
+From URI,828,ከ URI,829,gnome-control-center,po/am.po
+To URI,836,ወደ URI,837,gnome-control-center,po/am.po
+Key,887,ቁልፍ,888,gnome-control-center,po/am.po
+Add...,1115,ጨምር...,1116,gnome-control-center,po/am.po
+C_ustom:,1124,_የተለየ፦,1125,gnome-control-center,po/am.po
+Co_mmand:,1136,_ትእዛዝ፦,1137,gnome-control-center,po/am.po
+Custom Editor Properties,1140,የተለመደው የጽሑፍ ማቀናጃ ምርጫዎች,1141,gnome-control-center,po/am.po
+Default Terminal,1149,የነበረው ተርሚናል,1150,gnome-control-center,po/am.po
+Default Text Editor,1153,የነበረው የጽሑፍ ማቀናጃ,1154,gnome-control-center,po/am.po
+Default Web Browser,1157,የነበረው የዌብ መቃኛ,1158,gnome-control-center,po/am.po
+Default Window Manager,1161,የነበረው መስኮቱን መቆጣጠሪያ,1162,gnome-control-center,po/am.po
+Delete,1165,አጥፉ,1166,gnome-control-center,po/am.po
+Edit...,1173,አስተካክል...,1174,gnome-control-center,po/am.po
+Terminal,1197,ተርሚናል,1198,gnome-control-center,po/am.po
+Text Editor,1201,የጽሑፍ ማቀናጃ,1202,gnome-control-center,po/am.po
+Web Browser,1213,የዌብ መቃኛ,1214,gnome-control-center,po/am.po
+Window Manager,1217,መስኮቱን መቆጣጠሪያ,1218,gnome-control-center,po/am.po
+_Name:,1226,ስም፦ (_N),1227,gnome-control-center,po/am.po
+_Properties...,1230,ምርጫዎች... (_P),1231,gnome-control-center,po/am.po
+Font,1326,የፊደል ቅርጽ,1327,gnome-control-center,po/am.po
+Font Preferences,1366,የፊደል ቅርጽ ምርጫዎች,1367,gnome-control-center,po/am.po
+N_one,1384,(ም_ንም),1385,gnome-control-center,po/am.po
+_Application font:,1405,_የመጠቀሚያ ፕሮግራሞች የፊደል ቅርጽ፦,1406,gnome-control-center,po/am.po
+_Desktop font:,1413,_ሠሌዳ የፊደል ቅርጽ፦,1414,gnome-control-center,po/am.po
+_Full,1417,ሙሉ (_F),1418,gnome-control-center,po/am.po
+_Medium,1421,መሀከለኛ (_M),1422,gnome-control-center,po/am.po
+_None,1429,_ምንም,1430,gnome-control-center,po/am.po
+_RGB,1433,RGB,1434,gnome-control-center,po/am.po
+_Terminal font:,1441,የተርሚናል የፊደል ቅርጽ፦ (_T),1442,gnome-control-center,po/am.po
+_Window title font:,1449,የመስኮት አርእስት የፊደል ቅርጽ፦ (_W),1450,gnome-control-center,po/am.po
+Disabled,1516,የተበላሸ,1517,gnome-control-center,po/am.po
+<Unknown Action>,1520,<ያልታወቀ ትግባር>,1521,gnome-control-center,po/am.po
+Desktop,1524,ሠሌዳ,1525,gnome-control-center,po/am.po
+Sound,1529,ድምፅ,1530,gnome-control-center,po/am.po
+Window Management,1533,የመስኮት ጉባኤ,1534,gnome-control-center,po/am.po
+Action,1554,ትግባር,1555,gnome-control-center,po/am.po
+Shortcut,1558,አቋራጭ,1559,gnome-control-center,po/am.po
+Keyboard Shortcuts,1563,የፊደል ሠሌዳው አቋራጭ,1564,gnome-control-center,po/am.po
+Layout,1584,እቅድ,1585,gnome-control-center,po/am.po
+<small><i>Fast</i></small>,1643,<small><i>ቶሎ</i></small>,1644,gnome-control-center,po/am.po
+<small><i>Long</i></small>,1647,<small><i>ረጅም</i></small>,1648,gnome-control-center,po/am.po
+<small><i>Short</i></small>,1651,<small><i>አጭር</i></small>,1652,gnome-control-center,po/am.po
+<small><i>Slow</i></small>,1655,<small><i>ዝግታ</i></small>,1656,gnome-control-center,po/am.po
+_Speed:,1768,_ፍጥነት፦,1769,gnome-control-center,po/am.po
+<i>Fast</i>,1866,<i>ቶሎ</i>,1867,gnome-control-center,po/am.po
+<i>High</i>,1870,<i>ከፍ ያለ</i>,1871,gnome-control-center,po/am.po
+<i>Large</i>,1874,<i>ትልቅ</i>,1875,gnome-control-center,po/am.po
+<i>Low</i>,1878,<i>ዝቅ ያለ</i>,1879,gnome-control-center,po/am.po
+<i>Slow</i>,1882,<i>ዝግታ</i>,1883,gnome-control-center,po/am.po
+<i>Small</i>,1886,<i>ትንሽ</i>,1887,gnome-control-center,po/am.po
+Buttons,1890,ቁልፎች,1891,gnome-control-center,po/am.po
+Port:,2013,ፖርት፦,2014,gnome-control-center,po/am.po
+_Details,2030,_ዝርዝሮች,2031,gnome-control-center,po/am.po
+_Password:,2038,ሚስጢራዊ _ቃል፦,2039,gnome-control-center,po/am.po
+Sound Preferences,2051,የድምፅ ምርጫዎች,2052,gnome-control-center,po/am.po
+General,2067,አጠቃላይ,2068,gnome-control-center,po/am.po
+Custom theme,2190,የተለመደው ጭብጥ,2191,gnome-control-center,po/am.po
+Theme,2218,ጭብጥ,2219,gnome-control-center,po/am.po
+_Install,2230,_አስገባ,2231,gnome-control-center,po/am.po
+_Location:,2234,_ቦታ፦,2235,gnome-control-center,po/am.po
+Icons,2254,ምልክቶች,2255,gnome-control-center,po/am.po
+Theme Details,2276,የጭብት ዝርዝሮች,2277,gnome-control-center,po/am.po
+Theme Preferences,2280,የጭብት ምርጫዎች,2281,gnome-control-center,po/am.po
+Window Border,2305,የመስኮት ወሰን,2306,gnome-control-center,po/am.po
+_Theme name:,2329,የ_ጭብጥ ስም፦,2330,gnome-control-center,po/am.po
+Menus & Toolbars,2341,ሜኑዎች እና ቱልባሮች,2342,gnome-control-center,po/am.po
+C_ut,2354,_ቁረጥ,2355,gnome-control-center,po/am.po
+Menu and Toolbar Preferences,2363,ሜኑና ቱልባር ምርጫዎች,2364,gnome-control-center,po/am.po
+New File,2367,አዲስ ፋይል,2368,gnome-control-center,po/am.po
+Open File,2371,ፋይል ክፈት,2372,gnome-control-center,po/am.po
+Save File,2375,ፋይልን አስቀምጥ,2376,gnome-control-center,po/am.po
+_Copy,2403,_ቅጂ,2404,gnome-control-center,po/am.po
+_Edit,2411,_አስተካክል,2412,gnome-control-center,po/am.po
+_File,2419,_ፋይል,2420,gnome-control-center,po/am.po
+_New,2423,_አዲስ,2424,gnome-control-center,po/am.po
+_Open,2427,_ክፈት,2428,gnome-control-center,po/am.po
+_Paste,2431,_ለጥፍ,2432,gnome-control-center,po/am.po
+_Print,2435,አትም,2436,gnome-control-center,po/am.po
+_Quit,2439,_ውጣ,2440,gnome-control-center,po/am.po
+_Save,2443,_አስቀምጥ,2444,gnome-control-center,po/am.po
+Window Preferences,2493,የመስኮት ምርጫዎች,2494,gnome-control-center,po/am.po
+Windows,2518,መስኮቶች,2519,gnome-control-center,po/am.po
+Could not initialize Bonobo,2545,bonobo ማስጀመር አልቻልኩም!,2546,gnome-control-center,po/am.po
+Type,2764,ዓይነት,2765,gnome-control-center,po/am.po
+Screen,2790,እስክሪን,2791,gnome-control-center,po/am.po
+_Play,2841,አጫውት (_P),2842,gnome-control-center,po/am.po
+_Remove,2845,አስወግድ (_R),2846,gnome-control-center,po/am.po
+Maximize,2854,መተልቅ,2855,gnome-control-center,po/am.po
+Roll up,2858,ማውጣት,2859,gnome-control-center,po/am.po
+Name:,3224,ስም፦,3225,gnome-control-center,po/am.po
+Style:,3228,ዓይነት፦,3229,gnome-control-center,po/am.po
+Type:,3232,ዓይነት፦,3233,gnome-control-center,po/am.po
+Size:,3236,መጠን፦,3237,gnome-control-center,po/am.po
+Version:,3241,ዝርያ፦,3242,gnome-control-center,po/am.po
+Copyright:,3246,የቅጂው መብት፦,3247,gnome-control-center,po/am.po
+Description:,3250,መግለጫ፦,3251,gnome-control-center,po/am.po
+Description,3361,መግለጫ,3362,gnome-control-center,po/am.po
+Size:,55,መጠን,56,gnome-font-viewer,po/am.po
+Description:,69,መግለጫ፦,70,gnome-font-viewer,po/am.po
+Mahjongg,48,ማህጆንግ,49,gnome-mahjongg,po/am.po
+Preferences,257,ምርጫዎች,258,gnome-mahjongg,po/am.po
+New Game,307,አዲስ ጨዋታ,308,gnome-mahjongg,po/am.po
+Custom,282,የተለየ,283,gnome-mines,po/am.po
+Score:,332,ነጥብ፦,333,gnome-mines,po/am.po
+Move left,272,ወደግራ አንቀሳቅስ,273,gnome-nibbles,po/am.po
+Move right,281,ወደቀኝ አንቀሳቅስ,282,gnome-nibbles,po/am.po
+Preferences,294,ምርጫዎች,295,gnome-nibbles,po/am.po
+Speed,298,ፍጥነት,299,gnome-nibbles,po/am.po
+_Medium,311,መሀከለኛ (_M),312,gnome-nibbles,po/am.po
+Medium,397,መሀከለኛ,398,gnome-nibbles,po/am.po
+Preferences,396,ምርጫዎች,397,gnome-robots,po/am.po
+Game,429,ጨዋታ,430,gnome-robots,po/am.po
+Keyboard,451,የፊደል ሠሌዳ,452,gnome-robots,po/am.po
+Save sessions,53,ክፍለ ጊዜዎችን አስቀምጥ,54,gnome-session,po/am.po
+_Order:,69,ቅደም _ተከተል፦,70,gnome-session,po/am.po
+The order in which applications are started in the session.,73,በክፍለ ጊዜ ውስጥ ፕሮግራሞቹ የሚነሱበት ቅድመ ተከተል።,74,gnome-session,po/am.po
+What happens to the application when it exits.,77,ፕሮግራሙ በሚወጣበት ጊዜ ምን ተፈጠረ።,78,gnome-session,po/am.po
+_Style:,81,_ዘይቤ፦,82,gnome-session,po/am.po
+Order,86,ቅደም ተከተል,87,gnome-session,po/am.po
+Style,90,ዘይቤ,91,gnome-session,po/am.po
+State,94,ሁኔታ,95,gnome-session,po/am.po
+Program,98,ፕሮግራም,99,gnome-session,po/am.po
+Inactive,102,የማይንቀሳቀስ,103,gnome-session,po/am.po
+Waiting to start or already finished.,106,ለመጀመር በመጠበቅ ላይ ወይም ጨርሷል።,107,gnome-session,po/am.po
+Starting,110,እየጀመረ ነው,111,gnome-session,po/am.po
+Started but has not yet reported state.,114,ጀምሯል ግን ሁኔታውን የመዘገብ ሁኔታ የለውም።,115,gnome-session,po/am.po
+Running,118,በሥራ ላይ,119,gnome-session,po/am.po
+A normal member of the session.,122,የተለመደ የክፍለ ጊዘው አባል,123,gnome-session,po/am.po
+Saving,126,በማስቀመጥ ላይ,127,gnome-session,po/am.po
+Unknown,134,ያልታወቀ,135,gnome-session,po/am.po
+Normal,142,የተለመደ,143,gnome-session,po/am.po
+Restart,150,እንደገና አስጀምሩ,151,gnome-session,po/am.po
+Never allowed to die.,154,ለመሞት በፍጹም አልተፈቀደም።,155,gnome-session,po/am.po
+Trash,158,የማይፈለግ,159,gnome-session,po/am.po
+Settings,166,ምርጫዎች,167,gnome-session,po/am.po
+Are you sure you want to log out?,213,ዘግቶ ለመውጣት እርግጠኛ ነዎት?,214,gnome-session,po/am.po
+_Save current setup,217,አሁኑ የተቋቋመውን _አስቀምጡ,218,gnome-session,po/am.po
+Action,221,ትግባር,222,gnome-session,po/am.po
+_Restart the computer,235,ኮምፒውተሩን _እንደገና አስጀምሩ,236,gnome-session,po/am.po
+Log in Anyway,268,ለማንኛውም ዝምብሎ ይግባ,269,gnome-session,po/am.po
+Try Again,272,እንደገና ይሞክሩ,273,gnome-session,po/am.po
+Kill session,310,ክፍለ ጊዜውን አቋርጥ,311,gnome-session,po/am.po
+Add a new session,330,አዲስ የክፍለ ጊዜው ጨምር,331,gnome-session,po/am.po
+Edit session name,334,የክፍለ ጊዜው ስም ያስተካክሉ,335,gnome-session,po/am.po
+_Edit,338,_አስተካክል,339,gnome-session,po/am.po
+Some changes are not saved.\nIs it still OK to exit?,342,አንዳንድ ለውጦች አልተቀመጡም።\nአሁንም ቢሆን ቢወጣ ምንም አይደለም?,345,gnome-session,po/am.po
+Sessions,351,ክፍለ ጊዜዎች,352,gnome-session,po/am.po
+Show splash screen on _login,355,የሚፈነጠቅ መመልከቻ ሲጀምር _አሳይ,356,gnome-session,po/am.po
+Automatically save chan_ges to session,364,ለክፍለ ጊዜው ለውጦችን አውቶማቲካሊ አስቀምጥ,365,gnome-session,po/am.po
+_Sessions:,368,_ክፍለ ጊዜዎች፦,369,gnome-session,po/am.po
+Session Name,372,የክፍለ ጊዜው ስም,373,gnome-session,po/am.po
+Session Options,376,የአሁኑን ክፍለ ይዞታዎች,377,gnome-session,po/am.po
+Current Session,380,የአሁኑን ክፍለ ጊዜው,381,gnome-session,po/am.po
+Additional startup _programs:,384,ተጨማሪ ፕሮግራሞቹን አስጀምር,385,gnome-session,po/am.po
+Command,388,ትእዛዝ,389,gnome-session,po/am.po
+Startup Programs,392,ፕሮግራሞቹን አስጀምር,393,gnome-session,po/am.po
+Currently running _programs:,408,አሁን በመስራት ላይ ያለው _ፕሮግራሞች፦,409,gnome-session,po/am.po
+Initialize session settings,412,ለክፍለ ጊዜው ይዞታ ምልክት አድርጉ,413,gnome-session,po/am.po
+Configure your sessions,416,ክፍለ ጊዜዎትን ያስተካክሉ,417,gnome-session,po/am.po
+Sawfish Window Manager,420,Sawfish መስኮቱን መቆጣጠሪያ,421,gnome-session,po/am.po
+Metacity Window Manager,424,Metacity መስኮቱን መቆጣጠሪያ,425,gnome-session,po/am.po
+Window Manager,428,መስኮቱን መቆጣጠሪያ,429,gnome-session,po/am.po
+The Panel,432,ፓነሉ,433,gnome-session,po/am.po
+Desktop Settings,444,የሠሌዳ ምርጫዎች,445,gnome-session,po/am.po
+Font,497,የፊደል ቅርጽ,498,gnome-settings-daemon,po/am.po
+Keyboard,564,የፊደል ሠሌዳ,565,gnome-settings-daemon,po/am.po
+Sound,746,ድምፅ,747,gnome-settings-daemon,po/am.po
+_Medium,129,መሀከለኛ (_M),130,gnome-sudoku,po/am.po
+translator_credits,38,ዘግዕዝ Frontier Foundation,39,gnome-system-monitor,po/am.po
+(C) 2001 Kevin Vandersloot,42,(ም) 2001 Kevin Vandersloot,43,gnome-system-monitor,po/am.po
+X window system,50,የX መስኮት ሲስተም,51,gnome-system-monitor,po/am.po
+Gnome-Session,58,የኖም ክፍለ ጊዜ,59,gnome-system-monitor,po/am.po
+_Remove From List,75,ከዝርዝር አጥፋ (_R),76,gnome-system-monitor,po/am.po
+_Change Priority...,151,ቅድሚያ ቀይሩ... (_C),152,gnome-system-monitor,po/am.po
+More _Info >>,229,ተጨማሪ ማብራሪያ >> (_I),230,gnome-system-monitor,po/am.po
+<< Less _Info,233,ያነሰ ማብራሪያ >> (_I),234,gnome-system-monitor,po/am.po
+All Processes,242,ሁሉንም ሂደቶች,243,gnome-system-monitor,po/am.po
+My Processes,246,የኔ ሂደቶች,247,gnome-system-monitor,po/am.po
+Active Processes,250,ሂደቶች አሰራ,251,gnome-system-monitor,po/am.po
+More _Info,259,ተጨማሪ ማብራሪያ (_I),260,gnome-system-monitor,po/am.po
+Name,263,ስም,264,gnome-system-monitor,po/am.po
+Directory,267,ማውጫ (_I),268,gnome-system-monitor,po/am.po
+Devices,310,ዲቫይሶች,311,gnome-system-monitor,po/am.po
+Application Manager,322,የመጠቀሚያ ፕሮግራም መቆጣጠሪያ,323,gnome-system-monitor,po/am.po
+_Close Application,330,መጠቀሚያ ፕሮግራም ዝጋ (_C),331,gnome-system-monitor,po/am.po
+Filename,334,የፋይል ስም,335,gnome-system-monitor,po/am.po
+VM Start,338,የVM መጀመሪያ,339,gnome-system-monitor,po/am.po
+VM End,342,የVM መጀመሪያ,343,gnome-system-monitor,po/am.po
+VM Size,346,የVM መጠን,347,gnome-system-monitor,po/am.po
+Flags,350,ባንዲራዎች,351,gnome-system-monitor,po/am.po
+Device,358,ዲቫይስ,359,gnome-system-monitor,po/am.po
+No such process.,375,ሂደቱ የለም።,376,gnome-system-monitor,po/am.po
+Change Priority,463,ቅድሚያ ቀይሩ,464,gnome-system-monitor,po/am.po
+Change _Priority,467,_ቅድሚያ ቀይሩ,468,gnome-system-monitor,po/am.po
+Icon,481,ምልክት,482,gnome-system-monitor,po/am.po
+Preferences,485,ምርጫዎች,486,gnome-system-monitor,po/am.po
+Root Password :,539,የRoot የሚስጢር ቃል ፦,540,gnome-system-monitor,po/am.po
+Wrong Password.,543,የተሳሳተ የሚስጢር ቃል።,544,gnome-system-monitor,po/am.po
+Process Name,551,የሂደት ስም,552,gnome-system-monitor,po/am.po
+User,559,ተጠቃሚ,560,gnome-system-monitor,po/am.po
+Status,563,ሁኔታ,564,gnome-system-monitor,po/am.po
+Memory,567,ማስታወሻ,568,gnome-system-monitor,po/am.po
+RSS Memory,579,RSS ማስታወሻ,580,gnome-system-monitor,po/am.po
+% CPU,589,% ሲፒዩ,590,gnome-system-monitor,po/am.po
+Running,601,በሥራ ላይ,602,gnome-system-monitor,po/am.po
+ (thread),613, (ምልልስ),614,gnome-system-monitor,po/am.po
+Terminal,23,ተርሚናል,24,gnome-terminal,po/am.po
+Disabled,48,የተበላሸ,49,gnome-terminal,po/am.po
+Western,65,ምዕራብ,66,gnome-terminal,po/am.po
+Central European,70,መካከለኛ አውሮፓውያን,71,gnome-terminal,po/am.po
+South European,74,ደቡብ አውሮፓውያን,75,gnome-terminal,po/am.po
+Baltic,78,ባቲክ,79,gnome-terminal,po/am.po
+Cyrillic,83,ቄርሎሳዊ ጽሑፍ,84,gnome-terminal,po/am.po
+Arabic,88,ዐርቢኛ,89,gnome-terminal,po/am.po
+Greek,92,ግሪክኛ,93,gnome-terminal,po/am.po
+Hebrew,101,ዕብራስጥ,102,gnome-terminal,po/am.po
+Turkish,106,ቱርክኛ,107,gnome-terminal,po/am.po
+Romanian,118,ሮማኒያን,119,gnome-terminal,po/am.po
+Unicode,123,ዩኒኮድ,124,gnome-terminal,po/am.po
+Armenian,127,አርመናዊ,128,gnome-terminal,po/am.po
+Chinese Traditional,131,የባሕላዊው ቻይንኛ,132,gnome-terminal,po/am.po
+Cyrillic/Russian,135,ቄርሎሳዊ ጽሑፍ/ራሽኛ,136,gnome-terminal,po/am.po
+Japanese,139,ጃፓንኛ,140,gnome-terminal,po/am.po
+Korean,144,ኮሪያኛ,145,gnome-terminal,po/am.po
+Chinese Simplified,149,ቀላል ቻይንኛ,150,gnome-terminal,po/am.po
+Georgian,153,ጊዮርጊያን,154,gnome-terminal,po/am.po
+Cyrillic/Ukrainian,157,ቄርሎሳዊ ጽሑፍ/ዩክረኒኛ,158,gnome-terminal,po/am.po
+Croatian,161,ክሮሽያንኛ,162,gnome-terminal,po/am.po
+Hindi,165,ሐንድኛ,166,gnome-terminal,po/am.po
+Icelandic,182,አይስላንድኛ,183,gnome-terminal,po/am.po
+Vietnamese,186,ቪትናምኛ,187,gnome-terminal,po/am.po
+Thai,190,ታይኛ,191,gnome-terminal,po/am.po
+_Description,198,_መግለጫ,199,gnome-terminal,po/am.po
+_Encoding,202,የሆሄያት _ኮድ,203,gnome-terminal,po/am.po
+<b>Background</b>,213,<b>መደብ</b>,214,gnome-terminal,po/am.po
+<b>Command</b>,217,<b>ትእዛዝ</b>,218,gnome-terminal,po/am.po
+<b>Compatibility</b>,221,<b>አግባብነት</b>,222,gnome-terminal,po/am.po
+<b>Foreground and Background</b>,225,<b>ፊት ለፊት እና መደብ</b>,226,gnome-terminal,po/am.po
+<b>General</b>,229,<b>አጠቃላይ</b>,230,gnome-terminal,po/am.po
+<b>Palette</b>,233,<b>መደርደሪያ</b>,234,gnome-terminal,po/am.po
+<b>Scrolling</b>,237,<b>መሸብለል</b>,238,gnome-terminal,po/am.po
+<b>Title</b>,241,<b>አርእስት</b>,242,gnome-terminal,po/am.po
+<small><i>Maximum</i></small>,249,<small><i>ከፍተኛ መጠን</i></small>,250,gnome-terminal,po/am.po
+<small><i>None</i></small>,253,<small><i>ምንም</i></small>,254,gnome-terminal,po/am.po
+Color _palette:,313,የቀለሞች መደርደሪያ፦ (_P),314,gnome-terminal,po/am.po
+Colors,317,ቀለሞች,318,gnome-terminal,po/am.po
+Compatibility,321,አግባብነት,322,gnome-terminal,po/am.po
+Custom co_mmand:,333,የተለመደው _ትእዛዝ፦,334,gnome-terminal,po/am.po
+Effects,349,ክንውኖች,350,gnome-terminal,po/am.po
+Exit the terminal,357,ከተርሚናሉ ውጣ,358,gnome-terminal,po/am.po
+General,361,አጠቃላይ,362,gnome-terminal,po/am.po
+Initial _title:,383,የመጀመሪያ _አርእስት፦,384,gnome-terminal,po/am.po
+New Profile,395,አዲስ ግለ መግለጫ,396,gnome-terminal,po/am.po
+On the left side,399,በግራ በኩል,400,gnome-terminal,po/am.po
+On the right side,403,በቀኝ በኩል,404,gnome-terminal,po/am.po
+Palette entry 1,411,የመደርደሪያ ዕቃ 1,412,gnome-terminal,po/am.po
+Palette entry 10,415,የመደርደሪያ ዕቃ 10,416,gnome-terminal,po/am.po
+Palette entry 11,419,የመደርደሪያ ዕቃ 11,420,gnome-terminal,po/am.po
+Palette entry 12,423,የመደርደሪያ ዕቃ 12,424,gnome-terminal,po/am.po
+Palette entry 13,427,የመደርደሪያ ዕቃ 13,428,gnome-terminal,po/am.po
+Palette entry 14,431,የመደርደሪያ ዕቃ 14,432,gnome-terminal,po/am.po
+Palette entry 15,435,የመደርደሪያ ዕቃ 15,436,gnome-terminal,po/am.po
+Palette entry 16,439,የመደርደሪያ ዕቃ 10,440,gnome-terminal,po/am.po
+Palette entry 2,443,የመደርደሪያ ዕቃ 2,444,gnome-terminal,po/am.po
+Palette entry 3,447,የመደርደሪያ ዕቃ 3,448,gnome-terminal,po/am.po
+Palette entry 4,451,የመደርደሪያ ዕቃ 4,452,gnome-terminal,po/am.po
+Palette entry 5,455,የመደርደሪያ ዕቃ 5,456,gnome-terminal,po/am.po
+Palette entry 6,459,የመደርደሪያ ዕቃ 6,460,gnome-terminal,po/am.po
+Palette entry 7,463,የመደርደሪያ ዕቃ 7,464,gnome-terminal,po/am.po
+Palette entry 8,467,የመደርደሪያ ዕቃ 8,468,gnome-terminal,po/am.po
+Palette entry 9,471,የመደርደሪያ ዕቃ 9,472,gnome-terminal,po/am.po
+Password:,475,ሚስጢራዊ ቃል፦,476,gnome-terminal,po/am.po
+Profile Editor,479,የግለ መግለጫ ማቀናጃ,480,gnome-terminal,po/am.po
+Profile _icon:,483,የግለ መግለጫ _ምልክት፦,484,gnome-terminal,po/am.po
+Profile _name:,487,የግለ መግለጫ _ስም፦,488,gnome-terminal,po/am.po
+Sc_roll on output,508,_ውጤቱ ላይ ሸብልል,509,gnome-terminal,po/am.po
+Scr_ollback:,512,የመሸብለል _ታሪክ፦,513,gnome-terminal,po/am.po
+Scrolling,521,መሸብለል,522,gnome-terminal,po/am.po
+Title and Command,553,አርእስት እና ትእዛዝ,554,gnome-terminal,po/am.po
+_Background color:,569,የ_መደቡ ቀለም፦,570,gnome-terminal,po/am.po
+_None (use solid color),589,_ምንም (ቀጣይ ቀለም ተጠቀሙ),590,gnome-terminal,po/am.po
+_Profile name:,593,የ_ግለ መግለጫ ስም፦,594,gnome-terminal,po/am.po
+_Scrollbar is:,605,_መሸብለል ባር ቦታ፦,606,gnome-terminal,po/am.po
+_Text color:,613,የ_ጽሑፍ ቀለም፦,614,gnome-terminal,po/am.po
+_Transparent background,617,_የሚያሳይ መደብ,618,gnome-terminal,po/am.po
+_lines,629,_መስመሮች,630,gnome-terminal,po/am.po
+kilobytes,638,ኪሎባይቶች,639,gnome-terminal,po/am.po
+Font,718,የፊደል ቅርጽ,719,gnome-terminal,po/am.po
+Black on light yellow,1386,ጥቁር በፈዛዛ ብጫ,1387,gnome-terminal,po/am.po
+Black on white,1390,ጥቁር በነጭ,1391,gnome-terminal,po/am.po
+Gray on black,1394,ግራጫ በጥቁር,1395,gnome-terminal,po/am.po
+Green on black,1398,አረንጓዴ በጥቁር,1399,gnome-terminal,po/am.po
+White on black,1402,ነጭ በጥቁር,1403,gnome-terminal,po/am.po
+Custom,1418,የተለየ,1419,gnome-terminal,po/am.po
+_Font:,1426,የፊደል ቅርጽ፦,1427,gnome-terminal,po/am.po
+Si_ze:,1435,_መጠን፦,1436,gnome-terminal,po/am.po
+roman,1451,ሮማን,1452,gnome-terminal,po/am.po
+italic,1455,አይታሊክ ማድረጊያ,1456,gnome-terminal,po/am.po
+other,1471,ሌላ,1472,gnome-terminal,po/am.po
+New Tab,1495,አዲስ መክፈቻ,1496,gnome-terminal,po/am.po
+New Window,1499,አዲስ መስኮት,1500,gnome-terminal,po/am.po
+Close Tab,1503,መክፈቻውን ዝጋ,1504,gnome-terminal,po/am.po
+Close Window,1507,መስኮቱ ዝጋ,1508,gnome-terminal,po/am.po
+Copy,1511,ቅጂ,1512,gnome-terminal,po/am.po
+Paste,1515,ለጥፍ,1516,gnome-terminal,po/am.po
+Hide and Show menubar,1519,ሜኑባሩን አሳይና ደብቅ,1520,gnome-terminal,po/am.po
+Full Screen,1523,ሙሉ እስክሪን,1524,gnome-terminal,po/am.po
+Zoom In,1527,ከቅርበት ዕይታ,1528,gnome-terminal,po/am.po
+Zoom Out,1531,ከርቀት ዕይታ,1532,gnome-terminal,po/am.po
+Normal Size,1535,የተለመደ መጠን,1536,gnome-terminal,po/am.po
+Set Title,1539,አርእስት ይምረጡ,1540,gnome-terminal,po/am.po
+Reset,1543,እንደነበረ አድረግ,1544,gnome-terminal,po/am.po
+Reset and Clear,1547,እንደነበረ አድረግና ሰርዝ,1548,gnome-terminal,po/am.po
+Switch to Previous Tab,1551,ወደ ያለፈው መክፈቻ ቀይር,1552,gnome-terminal,po/am.po
+Switch to Next Tab,1555,ወደ የሚቀጥለው መክፈቻ ቀይር,1556,gnome-terminal,po/am.po
+Switch to Tab 1,1559,ወደ መክፈቻ 1 ቀይር,1560,gnome-terminal,po/am.po
+Switch to Tab 2,1563,ወደ መክፈቻ 2 ቀይር,1564,gnome-terminal,po/am.po
+Switch to Tab 3,1567,ወደ መክፈቻ 3 ቀይር,1568,gnome-terminal,po/am.po
+Switch to Tab 4,1571,ወደ መክፈቻ 4 ቀይር,1572,gnome-terminal,po/am.po
+Switch to Tab 5,1575,ወደ መክፈቻ 5 ቀይር,1576,gnome-terminal,po/am.po
+Switch to Tab 6,1579,ወደ መክፈቻ 6 ቀይር,1580,gnome-terminal,po/am.po
+Switch to Tab 7,1583,ወደ መክፈቻ 7 ቀይር,1584,gnome-terminal,po/am.po
+Switch to Tab 8,1587,ወደ መክፈቻ 8 ቀይር,1588,gnome-terminal,po/am.po
+Switch to Tab 9,1591,ወደ መክፈቻ 9 ቀይር,1592,gnome-terminal,po/am.po
+Switch to Tab 10,1595,ወደ መክፈቻ 10 ቀይር,1596,gnome-terminal,po/am.po
+Switch to Tab 11,1599,ወደ መክፈቻ 11 ቀይር,1600,gnome-terminal,po/am.po
+Switch to Tab 12,1603,ወደ መክፈቻ 12 ቀይር,1604,gnome-terminal,po/am.po
+Contents,1607,ይዞታዎች,1608,gnome-terminal,po/am.po
+File,1611,ፋይል,1612,gnome-terminal,po/am.po
+Edit,1615,አስተካክል,1616,gnome-terminal,po/am.po
+View,1619,ተመልከት,1620,gnome-terminal,po/am.po
+Go,1623,ሂድ ወደ,1624,gnome-terminal,po/am.po
+Help,1627,መረጃ,1628,gnome-terminal,po/am.po
+_Action,1707,_ትግባር,1708,gnome-terminal,po/am.po
+_Details,1778,_ዝርዝሮች,1779,gnome-terminal,po/am.po
+_Open Link,1834,_አያያዝ ክፈት,1835,gnome-terminal,po/am.po
+_Copy Link Address,1838,የአያያዝ አድራሻ ቅጂ,1839,gnome-terminal,po/am.po
+C_lose Tab,1852,መክፈቻውን _ዝጋ,1853,gnome-terminal,po/am.po
+_Close Window,1856,መስኮቱ _ዝጋ,1857,gnome-terminal,po/am.po
+_Edit Current Profile...,1865,የአሁኑን ግለ መግለጫ _ያስተካክሉ...,1866,gnome-terminal,po/am.po
+Show _Menubar,1869,ሜኑባር _አሳይ,1870,gnome-terminal,po/am.po
+_Input Methods,1873,_ዘገባ የማስትገባት ዘዴዎች,1874,gnome-terminal,po/am.po
+_Title:,1877,_አርእስት፦,1878,gnome-terminal,po/am.po
+_Add or Remove...,1933,_ተጨማሪ ወይስ አስወግድ...,1934,gnome-terminal,po/am.po
+New _Profile...,1940,አዲስ _ግለ መግለጫ...,1941,gnome-terminal,po/am.po
+P_rofiles...,1944,_ግለ መግለጫዎች...,1945,gnome-terminal,po/am.po
+C_urrent Profile...,1952,የአሁኑን ግለ መግለጫ...,1953,gnome-terminal,po/am.po
+_Full Screen,1963,_ሙሉ እስክሪን,1964,gnome-terminal,po/am.po
+_Set Title...,1972,አርእስት _ይምረጡ...,1973,gnome-terminal,po/am.po
+_Reset,1981,እንደነበረ _አድረግ,1982,gnome-terminal,po/am.po
+Reset and C_lear,1985,እንደነበረ አድረግና ሰርዝ,1986,gnome-terminal,po/am.po
+_Previous Tab,1989,_ያለፈው መክፈቻ,1990,gnome-terminal,po/am.po
+_Next Tab,1993,_የሚቀጥለው መክፈቻ,1994,gnome-terminal,po/am.po
+_Contents,1997,_ይዞታዎች,1998,gnome-terminal,po/am.po
+_About,2001,_ስለ,2002,gnome-terminal,po/am.po
+_File,2018,_ፋይል,2019,gnome-terminal,po/am.po
+_Edit,2022,_አስተካክል,2023,gnome-terminal,po/am.po
+_View,2026,_ተመልከት,2027,gnome-terminal,po/am.po
+_Terminal,2030,_ተርሚናል,2031,gnome-terminal,po/am.po
+_Help,2038,_መረጃ,2039,gnome-terminal,po/am.po
+GNOME Terminal,2061,የኖም ተርሚናል,2062,gnome-terminal,po/am.po
+PROFILENAME,2090,የመግለጫ ስም,2091,gnome-terminal,po/am.po
+PROFILEID,2112,የመግለጫ ID,2113,gnome-terminal,po/am.po
+GEOMETRY,2159,ጂኦሜትሪ,2160,gnome-terminal,po/am.po
+TITLE,2181,አርእስት,2182,gnome-terminal,po/am.po
+DIRNAME,2189,የዶሴ ስም,2190,gnome-terminal,po/am.po
+"Could not load icon \""%s\"": %s\n",2210,"ምልክትን መጫን አልተቻለም \""%s\"": %s\n",2211,gnome-terminal,po/am.po
+"Invalid geometry string \""%s\""\n",2355,"የማይሰራ የጂኦሜትሪ ሐረግ \""%s\""\n",2356,gnome-terminal,po/am.po
+Enter profile name,2376,የግለ መግለጫ ስም አስገባ,2377,gnome-terminal,po/am.po
+Profile list,2384,የግለ መግለጫ ዝርዝር,2385,gnome-terminal,po/am.po
+"Delete profile \""%s\""?",2404,"ግለ መግለጫውን \""%s\"" አጥፉ?",2405,gnome-terminal,po/am.po
+Delete Profile,2408,ግለ መግለጫን አጥፉ,2409,gnome-terminal,po/am.po
+_Profiles:,2417,_ግለ መግለጫዎች፦,2418,gnome-terminal,po/am.po
+_Search,2468,_ፈልግ,2469,gnome-terminal,po/am.po
+_Find...,2471,_ፈልግ...,2472,gnome-terminal,po/am.po
+Find Ne_xt,2474,_የሚቀጥለዉን ፈልግ,2475,gnome-terminal,po/am.po
+Find,2477,ፈልግ,2478,gnome-terminal,po/am.po
+_Search for:,2480,_ፈልግ፦,2481,gnome-terminal,po/am.po
+_Match case,2483,የፊደሎቱን መጠን _አመሳስል,2484,gnome-terminal,po/am.po
+Start a new game,148,አዲስ ጨዋታ ጀምር,149,gnome-tetravex,po/am.po
+New Game,198,አዲስ ጨዋታ,199,gnome-tetravex,po/am.po
+_Sound,87,ድምፅ (_S),88,iagno,po/am.po
+_Medium,125,መሀከለኛ (_M),126,iagno,po/am.po
+Start a new game,172,አዲስ ጨዋታ ጀምር,173,iagno,po/am.po
+Theme,212,ጭብጥ,213,iagno,po/am.po
+Sound,222,ድምፅ,223,iagno,po/am.po
+Usage: %s\n,22,አጠቃቀም፦ %s\n,23,mutter,po/am.po
+Close Window,81,መስኮቱን ዝጋ,82,mutter,po/am.po
+Window Menu,85,የመስኮት ሜኑ,86,mutter,po/am.po
+Minimize Window,89,መስኮቱን አሳንስ,90,mutter,po/am.po
+Maximize Window,93,መስኮቱን አስተልቅ,94,mutter,po/am.po
+Unmaximize Window,97,መስኮቱን አታስተልቅ,98,mutter,po/am.po
+Mi_nimize,172,መሳንስ (_N),173,mutter,po/am.po
+Ma_ximize,176,መተልቅ (_X),177,mutter,po/am.po
+Unma_ximize,180,መታስተልቅ (_X),181,mutter,po/am.po
+Roll _Up,184,ማውጣት (_U),185,mutter,po/am.po
+_Unroll,188,ማውረድ (_U),189,mutter,po/am.po
+_Move,196,መንቀሳቅስ (_M),197,mutter,po/am.po
+_Resize,200,እንደገና መጧን ማስተሥከል (_R),201,mutter,po/am.po
+_Close,205,ዝጋ (_C),206,mutter,po/am.po
+Workspace %d,241,መሥሪያ ቦታ %d,242,mutter,po/am.po
+Workspace %s%d,251,መሥሪያ ቦታ %s%d,252,mutter,po/am.po
+Title,364,አርእስት,365,mutter,po/am.po
+Class,368,መደብ,369,mutter,po/am.po
+Current theme,446,የአሁኑን ጭብጥ,447,mutter,po/am.po
+Move window to workspace 1,591,መስኮትን ወደ መሥሪያ ቦታ 1 አንቀሳቅስ,592,mutter,po/am.po
+Move window to workspace 10,595,መስኮትን ወደ መሥሪያ ቦታ 10 አንቀሳቅስ,596,mutter,po/am.po
+Move window to workspace 11,599,መስኮትን ወደ መሥሪያ ቦታ 11 አንቀሳቅስ,600,mutter,po/am.po
+Move window to workspace 12,603,መስኮትን ወደ መሥሪያ ቦታ 12 አንቀሳቅስ,604,mutter,po/am.po
+Move window to workspace 2,607,መስኮትን ወደ መሥሪያ ቦታ 2 አንቀሳቅስ,608,mutter,po/am.po
+Move window to workspace 3,611,መስኮትን ወደ መሥሪያ ቦታ 3 አንቀሳቅስ,612,mutter,po/am.po
+Move window to workspace 4,615,መስኮትን ወደ መሥሪያ ቦታ 4 አንቀሳቅስ,616,mutter,po/am.po
+Move window to workspace 5,619,መስኮትን ወደ መሥሪያ ቦታ 5 አንቀሳቅስ,620,mutter,po/am.po
+Move window to workspace 6,623,መስኮትን ወደ መሥሪያ ቦታ 6 አንቀሳቅስ,624,mutter,po/am.po
+Move window to workspace 7,627,መስኮትን ወደ መሥሪያ ቦታ 7 አንቀሳቅስ,628,mutter,po/am.po
+Move window to workspace 8,631,መስኮትን ወደ መሥሪያ ቦታ 8 አንቀሳቅስ,632,mutter,po/am.po
+Move window to workspace 9,635,መስኮትን ወደ መሥሪያ ቦታ 9 አንቀሳቅስ,636,mutter,po/am.po
+Name of workspace,639,የመሥሪያ ቦታ ስም,640,mutter,po/am.po
+Number of workspaces,643,የመሥሪያ ቦታዎች ብዛት,644,mutter,po/am.po
+Switch to workspace 1,699,ወደ መሥሪያ ቦታ 1 ቀይር,700,mutter,po/am.po
+Switch to workspace 10,703,ወደ መሥሪያ ቦታ 10 ቀይር,704,mutter,po/am.po
+Switch to workspace 11,707,ወደ መሥሪያ ቦታ 11 ቀይር,708,mutter,po/am.po
+Switch to workspace 12,711,ወደ መሥሪያ ቦታ 12 ቀይር,712,mutter,po/am.po
+Switch to workspace 2,715,ወደ መሥሪያ ቦታ 2 ቀይር,716,mutter,po/am.po
+Switch to workspace 3,719,ወደ መሥሪያ ቦታ 3 ቀይር,720,mutter,po/am.po
+Switch to workspace 4,723,ወደ መሥሪያ ቦታ 4 ቀይር,724,mutter,po/am.po
+Switch to workspace 5,727,ወደ መሥሪያ ቦታ 5 ቀይር,728,mutter,po/am.po
+Switch to workspace 6,731,ወደ መሥሪያ ቦታ 6 ቀይር,732,mutter,po/am.po
+Switch to workspace 7,735,ወደ መሥሪያ ቦታ 7 ቀይር,736,mutter,po/am.po
+Switch to workspace 8,739,ወደ መሥሪያ ቦታ 8 ቀይር,740,mutter,po/am.po
+Switch to workspace 9,743,ወደ መሥሪያ ቦታ 9 ቀይር,744,mutter,po/am.po
+Toggle fullscreen mode,1459,የሙሉ እስክሪን ዘዴን ቀያይሩ,1460,mutter,po/am.po
+Window title font,1499,የመስኮት አርእስት የፊደል ቅርጽ,1500,mutter,po/am.po
+%d x %d,1566,%d በ %d,1567,mutter,po/am.po
+top,2384,ወደ ላይ,2385,mutter,po/am.po
+bottom,2388,ወደ ታች,2389,mutter,po/am.po
+left,2392,ግራ,2393,mutter,po/am.po
+right,2396,ቀኝ,2397,mutter,po/am.po
+Window manager: ,2635,መስኮቱን መቆጣጠሪያ፦,2636,mutter,po/am.po
+Applications,21,መጠቀሚያ ፕሮግራሞች,22,nautilus,po/am.po
+Art,33,ሥዕል,34,nautilus,po/am.po
+Black,41,ጥቁር,42,nautilus,po/am.po
+C_olors,69,ቀለሞች (_O),70,nautilus,po/am.po
+Camera,73,ካሜራ,74,nautilus,po/am.po
+Certified,81,የተረጋገጠ,82,nautilus,po/am.po
+Cool,97,አሪፍ,98,nautilus,po/am.po
+Danger,109,አደጋ,110,nautilus,po/am.po
+Distinguished,129,የተከበረ,130,nautilus,po/am.po
+Documents,133,ሰነዶች,134,nautilus,po/am.po
+Dots,137,ነጥቦች,138,nautilus,po/am.po
+Draft,141,ንድፍ,142,nautilus,po/am.po
+Erase,166,ደምስስ,167,nautilus,po/am.po
+Favorite,170,ተመራጭ,171,nautilus,po/am.po
+GNOME,194,ኖም,195,nautilus,po/am.po
+Ice,210,በረዶ,211,nautilus,po/am.po
+Important,214,አስፈላጊ,215,nautilus,po/am.po
+Leaf,222,ቅጠል,223,nautilus,po/am.po
+Lemon,226,የባሕር ሎሚ,227,nautilus,po/am.po
+Mail,230,ፖስታ,231,nautilus,po/am.po
+Mango,234,ማንጎ,235,nautilus,po/am.po
+Mud,246,ጭቃ,247,nautilus,po/am.po
+New,254,አዲስ,255,nautilus,po/am.po
+Numbers,258,ቍጥሮች,259,nautilus,po/am.po
+OK,262,እሺ,263,nautilus,po/am.po
+Oh No,270,ወይ ጉድ!,271,nautilus,po/am.po
+Orange,278,ብርቱካን,279,nautilus,po/am.po
+Package,282,ጥቅል,283,nautilus,po/am.po
+Personal,290,የግል,291,nautilus,po/am.po
+Pictures,294,ሥዕሎች,295,nautilus,po/am.po
+Sky,326,ሰማይ,327,nautilus,po/am.po
+Sound,338,ድምፅ,339,nautilus,po/am.po
+Special,342,የተለየ,343,nautilus,po/am.po
+Urgent,358,አስቸኳይ,359,nautilus,po/am.po
+Web,370,ዌብ,371,nautilus,po/am.po
+White,374,ነጭ,375,nautilus,po/am.po
+_Emblems,382,አርማዎች (_E),383,nautilus,po/am.po
+_Patterns,386,ንድፎች (_P),387,nautilus,po/am.po
+Favorites,394,ተመራጮች,395,nautilus,po/am.po
+Name,446,ስም,447,nautilus,po/am.po
+Cut _Text,1102,ጽሑፉ ቁረጥ (_T),1103,nautilus,po/am.po
+_Copy Text,1112,ጽሑፉ ቅጂ (_C),1113,nautilus,po/am.po
+_Paste Text,1122,ጽሑፉ ለጥፍ (_P),1123,nautilus,po/am.po
+Select _All,1132,_ሁሉንም ምረጡ (_A),1133,nautilus,po/am.po
+Size,1168,መጠን,1169,nautilus,po/am.po
+Type,1176,ዓይነት,1177,nautilus,po/am.po
+Date Modified,1184,የተቀየረ ቀን,1185,nautilus,po/am.po
+Permissions,1220,ፈቃዶች,1221,nautilus,po/am.po
+reset,1246,እንደነበረ አድረግ,1247,nautilus,po/am.po
+on the desktop,1252,በሠሌዳ ላይ,1253,nautilus,po/am.po
+Cancel,1288,ተወው,1289,nautilus,po/am.po
+From:,1364,ከ፦,1365,nautilus,po/am.po
+To:,1369,ወደ፦,1370,nautilus,po/am.po
+ (copy),1671, (ቅጂ),1672,nautilus,po/am.po
+ (another copy),1676, (ሌላ ቅጂ),1677,nautilus,po/am.po
+th copy),1687,ኛ ቅጂ),1688,nautilus,po/am.po
+st copy),1692,ኛ ቅጂ),1693,nautilus,po/am.po
+nd copy),1697,ኛ ቅጂ),1698,nautilus,po/am.po
+rd copy),1702,ኛ ቅጂ),1703,nautilus,po/am.po
+%s (copy)%s,1708,%s (ቅጂ)%s,1709,nautilus,po/am.po
+%s (another copy)%s,1714,%s (ሌላ ቅጂ)%s,1715,nautilus,po/am.po
+%s (%dth copy)%s,1726,%s (%dኛ ቅጂ)%s,1727,nautilus,po/am.po
+%s (%dst copy)%s,1732,%s (%dኛ ቅጂ)%s,1733,nautilus,po/am.po
+%s (%dnd copy)%s,1738,%s (%dኛ ቅጂ)%s,1739,nautilus,po/am.po
+%s (%drd copy)%s,1744,%s (%dኛ ቅጂ)%s,1745,nautilus,po/am.po
+untitled folder,1940,ያልተሰየመ ዶሴ,1941,nautilus,po/am.po
+Deleting files,1963,ፋይሎችን በማጥፋት ላይ,1964,nautilus,po/am.po
+Files deleted:,1969,የጠፉ ፋይሎች፦,1970,nautilus,po/am.po
+Deleting,1975,በማጥፋት ላይ,1976,nautilus,po/am.po
+Emptying the Trash,1984,የማይፈለግ ማድረጊያውን ባዶ አድርግ,1985,nautilus,po/am.po
+_Empty Trash,2006,የማይፈለግ ማድረጊያውን ባዶ አድርግ (_E),2007,nautilus,po/am.po
+Themes,2027,ጭብጦች,2028,nautilus,po/am.po
+today at 00:00:00 PM,2060,ዛሬ በ 00:00:00 ከሰዓት,2061,nautilus,po/am.po
+today at %-I:%M:%S %p,2065,ዛሬ በ %-I:%M:%S %p,2066,nautilus,po/am.po
+today at 00:00 PM,2069,ዛሬ በ 00:00 ከሰዓት,2070,nautilus,po/am.po
+today at %-I:%M %p,2073,ዛሬ በ %-I:%M %p,2074,nautilus,po/am.po
+"today, 00:00 PM",2077,ዛሬ፣ 00:00 ከሰዓት,2078,nautilus,po/am.po
+"today, %-I:%M %p",2081,ዛሬ፣ %-I:%M %p,2082,nautilus,po/am.po
+today,2086,ዛሬ,2087,nautilus,po/am.po
+yesterday at 00:00:00 PM,2093,ትናንት በ 00:00:00 ከሰዓት,2094,nautilus,po/am.po
+yesterday at %-I:%M:%S %p,2097,ትናንት በ %-I:%M:%S %p,2098,nautilus,po/am.po
+yesterday at 00:00 PM,2101,ትናንት በ 00:00 ከሰዓት,2102,nautilus,po/am.po
+yesterday at %-I:%M %p,2105,ትናንት በ %-I:%M %p,2106,nautilus,po/am.po
+"yesterday, 00:00 PM",2109,ትናንት፣  00:00 ከሰዓት,2110,nautilus,po/am.po
+"yesterday, %-I:%M %p",2113,ትናንት፣ %-I:%M %p,2114,nautilus,po/am.po
+yesterday,2118,ትናንት,2119,nautilus,po/am.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2127,Wednesday፣ September 00 0000 at 00:00:00 ከሰዓት,2128,nautilus,po/am.po
+"%A, %B %-d %Y at %-I:%M:%S %p",2131,%A፣ %B %-d %Y በ %-I:%M:%S %p,2132,nautilus,po/am.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2135,Mon፣ Oct 00 0000 በ 00:00:00 ከሰዓት,2136,nautilus,po/am.po
+"%a, %b %-d %Y at %-I:%M:%S %p",2139,%a፣ %b %-d %Y በ %-I:%M:%S %p,2140,nautilus,po/am.po
+"Mon, Oct 00 0000 at 00:00 PM",2143,Mon፣ Oct 00 0000 በ 00:00 ከሰዓት,2144,nautilus,po/am.po
+"%a, %b %-d %Y at %-I:%M %p",2147,%a፣ %b %-d %Y በ %-I:%M %p,2148,nautilus,po/am.po
+Oct 00 0000 at 00:00 PM,2151,Oct 00 0000 በ 00:00 ከሰዓት,2152,nautilus,po/am.po
+%b %-d %Y at %-I:%M %p,2155,%b %-d %Y በ %-I:%M %p,2156,nautilus,po/am.po
+"Oct 00 0000, 00:00 PM",2159,Oct 00 0000፣ 00:00 PM,2160,nautilus,po/am.po
+"%b %-d %Y, %-I:%M %p",2163,%b %-d %Y፣ %-I:%M %p,2164,nautilus,po/am.po
+"00/00/00, 00:00 PM",2167,00/00/00፣ 00:00 ከሰዓት,2168,nautilus,po/am.po
+%m/%d/%y,2179,%d/%m/%y,2180,nautilus,po/am.po
+? items,2207,? ዕቃዎች,2208,nautilus,po/am.po
+unknown type,2216,ያልታወቀ ዓይነት,2217,nautilus,po/am.po
+unknown MIME type,2220,ያልታወቀ የMIME ዓይነት,2221,nautilus,po/am.po
+unknown,2228,ያልታወቀ,2229,nautilus,po/am.po
+program,2232,ፕሮግራም,2233,nautilus,po/am.po
+link,2250,አያያዝ,2251,nautilus,po/am.po
+link (broken),2254,የተሰበረ አያያዝ,2255,nautilus,po/am.po
+Trash,2260,የማይፈለግ,2261,nautilus,po/am.po
+_Always,2264,ሁል ጊዜ (_A),2265,nautilus,po/am.po
+_Never,2272,በፍጹም (_N),2273,nautilus,po/am.po
+Icon View,2382,ምልክት ዕይታ,2383,nautilus,po/am.po
+List View,2388,ዝርዝር ዕይታ,2389,nautilus,po/am.po
+Manually,2392,በእጅ የሚሰራ,2393,nautilus,po/am.po
+By Name,2397,በስሙ,2398,nautilus,po/am.po
+By Size,2402,በመጠኑ,2403,nautilus,po/am.po
+By Type,2407,በዓይነቱ,2408,nautilus,po/am.po
+By Modification Date,2412,በተለወጠበት ቀን,2413,nautilus,po/am.po
+By Emblems,2417,በአርማዎች,2418,nautilus,po/am.po
+%s's Home,2466,የ%s ቤት,2467,nautilus,po/am.po
+Edit,2777,አስተካክል,2778,nautilus,po/am.po
+Undo Edit,2781,እርማቱን እንደነበር አድርግ,2782,nautilus,po/am.po
+Redo Edit,2789,እርማቱን እንደገና መልስ,2790,nautilus,po/am.po
+File Management,2805,የፋይል ጉባኤ,2806,nautilus,po/am.po
+Home Folder,2809,የቤት ዶሴ,2810,nautilus,po/am.po
+Background,2852,መደቡ,2853,nautilus,po/am.po
+Create a new launcher,2881,አዲስ ማስጀመሪያ ፍጠር,2882,nautilus,po/am.po
+Change Desktop _Background,2886,የሠሌዳ መደብን ለውጥ,2887,nautilus,po/am.po
+Empty Trash,2897,የማይፈለግ ማድረጊያውን ባዶ አድርግ,2898,nautilus,po/am.po
+Delete all items in the Trash,2903,ቅርጫቱ ውስጥ ያሉትን ሁሉንም ነገሮች አጥፋ,2904,nautilus,po/am.po
+Desktop,2908,ሠሌዳ,2909,nautilus,po/am.po
+Delete?,2953,አጥፉ?,2954,nautilus,po/am.po
+"\""%s\"" selected",2968,"\""%s\"" ተመርጠዋል",2969,nautilus,po/am.po
+"\""%s\"" selected (%s)",2995,"\""%s\""ን ተመርጠዋል (%s)",2996,nautilus,po/am.po
+"%s%s, %s",3027,%s%s፣ %s,3028,nautilus,po/am.po
+Delete Immediately?,3066,አሁኑኑ አጥፉ?,3067,nautilus,po/am.po
+Delete From Trash?,3090,ከማይፈለግ አጥፉ,3091,nautilus,po/am.po
+Run in _Terminal,3118,በተርሚናሉ ውስጥ አስኪድ (_T),3119,nautilus,po/am.po
+_Display,3122,አሳይ (_D),3123,nautilus,po/am.po
+_Run,3126,አስኪድ (_R),3127,nautilus,po/am.po
+"Run \""%s\"" on any selected items",3149,"በአንዱ በተመረጡት ነገሮች ላይ \""%s\""ን አስኪድ",3150,nautilus,po/am.po
+Open Wit_h,3265,በ... ክፈት (_h),3266,nautilus,po/am.po
+_Scripts,3274,ጽሑፎች (_S),3275,nautilus,po/am.po
+_Properties,3285,ምርጫዎች (_P),3286,nautilus,po/am.po
+View or modify the properties of each selected item,3290,ለእያንዳንዱ ለተመረጠው ነገር የተለየ ባህሪያቸውን አሳይ ወይንም ቀይር,3291,nautilus,po/am.po
+Create a new empty folder inside this folder,3301,በዚህ መያዣ ውስጥ አዲስ ባዶ መያዣ ፍጠር,3302,nautilus,po/am.po
+_Open,3324,ክፈት (_O),3325,nautilus,po/am.po
+Open the selected item in this window,3329,የተመረጠውን ነገር በእዚህ መስኮት ውስጥ ክፈት,3330,nautilus,po/am.po
+_Open Scripts Folder,3359,ክፈት የጽሑፎች ዶሴ (_O),3360,nautilus,po/am.po
+Cu_t Files,3370,ፋይሎች ቁረጥ (_U),3371,nautilus,po/am.po
+Prepare the selected files to be moved with a Paste Files command,3375,የተመረጡትን ፋይሎች ከለጥፍ ፋይል ትእዛዝ ጋር እንዲንቀሳቀሱ አዘጋጃቸው,3376,nautilus,po/am.po
+_Copy Files,3381,ፋይሎች ቅጂ (_C),3382,nautilus,po/am.po
+Prepare the selected files to be copied with a Paste Files command,3386,የተመረጡትን ፋይሎች ከለጥፍ ፋይል ትእዛዝ ጋር እንዲገለበጡ አዘጋጃቸው,3387,nautilus,po/am.po
+_Paste Files,3391,ፋይሎች ለጥፍ (_P),3392,nautilus,po/am.po
+Select _All Files,3417,ሁሉንም ፋይሎች ምረጡ (_A),3418,nautilus,po/am.po
+Select all items in this window,3422,በዚህ መስኮት ውስጥ ያሉትን አርዕስተ ጉዳዮች ሁሉ ምረጡ,3423,nautilus,po/am.po
+D_uplicate,3439,አባዛ (_U),3440,nautilus,po/am.po
+Duplicate each selected item,3444,እያንዳንዱን የተመረጠውን አርዕስተ ጉዳይ አባዙ,3445,nautilus,po/am.po
+Ma_ke Link,3450,አያያዥ አድርግ (_K),3451,nautilus,po/am.po
+Create a symbolic link for each selected item,3455,ለእያንዳንዱ ለተመረጠው ነገር ባለምልክት ማያያዣ ፍጠር,3456,nautilus,po/am.po
+_Rename...,3460,እንደገና ሰይም... (_R),3461,nautilus,po/am.po
+Rename selected item,3465,የተመረጠውን አርዕስተ ጉዳይ እንደገና ሰይም,3466,nautilus,po/am.po
+Mo_ve to Trash,3472,ወደማይፈለገው ማድረጊያ ተሸጋገር (_V),3473,nautilus,po/am.po
+Move each selected item to the Trash,3478,እያንዳንዱ የተመረጠውን አርዕስተ ጉዳይ ወደ ቅርጫቱ አንቀሳቅስ,3479,nautilus,po/am.po
+_Delete,3484,አጥፉ (_D),3485,nautilus,po/am.po
+"Delete each selected item, without moving to the Trash",3489,እያንዳንዱ የተመረጡትን አርዕስተ ጉዳይ ወደቅርጫቱ ሳያንቀሳቅሱ ያጥፏቸው,3490,nautilus,po/am.po
+Reset View to _Defaults,3494,ለነባሮቹ ዕይታውን እንደገና አስጀምር (_D),3495,nautilus,po/am.po
+Reset sorting order and zoom level to match preferences for this view,3499,ለዚህ ዕይታ ቅደም ተከተል እና የቅርበት እርቀት ደረጃን ከምርጫዎቹ ጋር ለማመሳሰል እንደገና አስጀምር,3500,nautilus,po/am.po
+_Delete from Trash,3589,ከማይፈለግ አጥፉ (_D),3590,nautilus,po/am.po
+Delete all selected items permanently,3593,የተመረጡትን ሁሉንም አርዕስተ ጉዳዮች እስከመጨረሻው አጥፋቸው,3594,nautilus,po/am.po
+Cu_t File,3601,ፋይሉ ቁረጥ (_U),3602,nautilus,po/am.po
+_Copy File,3605,ፋይሉ ቅጂ (_C),3606,nautilus,po/am.po
+by _Name,3840,በስሙ (_N),3841,nautilus,po/am.po
+by _Size,3848,በመጠኑ (_S),3849,nautilus,po/am.po
+Keep icons sorted by size in rows,3852,ምልክቶቹን በመጠናቸው ቀደም ተከተል በመደዳ አቆያቸው,3853,nautilus,po/am.po
+by _Type,3856,በዓይነቱ (_T),3857,nautilus,po/am.po
+by Modification _Date,3864,በተለወጠበት ቀን (_D),3865,nautilus,po/am.po
+by _Emblems,3872,በአርማዎች (_E),3873,nautilus,po/am.po
+Arran_ge Items,3880,ነጥቦቹን አስተካክል (_G),3881,nautilus,po/am.po
+Str_etch Icon,3886,ምልክቱን ዘርጋ (_E),3887,nautilus,po/am.po
+Make the selected icon stretchable,3891,የተመረጠውን ምልክት ተጎታች ድርግ,3892,nautilus,po/am.po
+Restore each selected icon to its original size,3901,እያንዳንዱን ምልክት መጀመሪያ ወደነበረበት መጠን መልስ,3902,nautilus,po/am.po
+Clean _Up by Name,3906,በስም አጽዳ (_U),3907,nautilus,po/am.po
+Compact _Layout,3916,ዕቅዱን አጠጋጋ (_L),3917,nautilus,po/am.po
+Re_versed Order,3926,የተቀያየረ ቅደም ተከተል,3927,nautilus,po/am.po
+Display icons in the opposite order,3931,በተቃራኒ ቅደም ተከተል ምልክቶችን አሳይ,3932,nautilus,po/am.po
+_Manually,3945,በእጅ የሚሰራ (_M),3946,nautilus,po/am.po
+Leave icons wherever they are dropped,3949,ምልክቶቹ የጣሉበት ቦታ ተዋቸው,3950,nautilus,po/am.po
+By _Name,3953,በስሙ (_N),3954,nautilus,po/am.po
+By _Size,3957,በመጠኑ (_S),3958,nautilus,po/am.po
+By _Type,3961,በዓይነቱ (_T),3962,nautilus,po/am.po
+By Modification _Date,3965,በተለወጠበት ቀን (_D),3966,nautilus,po/am.po
+By _Emblems,3969,በአርማዎች (_E),3970,nautilus,po/am.po
+Restore Icon's Original Si_ze,3973,የምልክቶቹን መጠን ወደ መጀመሪያው መልስ (_Z),3974,nautilus,po/am.po
+Icons,3982,ምልክቶች,3983,nautilus,po/am.po
+List,4011,ዝርዝር,4012,nautilus,po/am.po
+Images Only,4056,ምስሎች ብቻ,4057,nautilus,po/am.po
+%s Properties,4067,%s ምርጫዎች,4068,nautilus,po/am.po
+nothing,4087,ምንም የልም,4088,nautilus,po/am.po
+Contents:,4112,ይዞታዎች፦,4113,nautilus,po/am.po
+Basic,4116,ቀላል,4117,nautilus,po/am.po
+_Name:,4125,ስም፦ (_N),4126,nautilus,po/am.po
+Type:,4129,ዓይነት፦,4130,nautilus,po/am.po
+Size:,4150,መጠን፦,4151,nautilus,po/am.po
+Location:,4154,ቦታ፦,4155,nautilus,po/am.po
+Link target:,4166,የአያያዥ ኢላማ፦,4167,nautilus,po/am.po
+MIME type:,4170,የMIME ዓይነት፦,4171,nautilus,po/am.po
+Modified:,4174,የተሻሻለ፦,4175,nautilus,po/am.po
+Accessed:,4178,መረጃ ፍለጋ፦,4179,nautilus,po/am.po
+_Select Custom Icon...,4182,የተለመደውን ምልክት ምረጡ... (_S),4183,nautilus,po/am.po
+_Remove Custom Icon,4186,የተለመደውን ምልክት አስወግድ (_R),4187,nautilus,po/am.po
+Emblems,4191,አርማዎች,4192,nautilus,po/am.po
+_Read,4195,አንብብ (_R),4196,nautilus,po/am.po
+_Write,4199,ጻፈ (_W),4200,nautilus,po/am.po
+E_xecute,4203,አስኪድ (_X),4204,nautilus,po/am.po
+File owner:,4232,የፋይል ባለቤት፦,4233,nautilus,po/am.po
+_File group:,4236,የፋይል መድረክ፦,4237,nautilus,po/am.po
+File group:,4240,የፋይል መድረክ፦,4241,nautilus,po/am.po
+Owner:,4244,ባለቤት፦,4245,nautilus,po/am.po
+Group:,4248,መድረክ፦,4249,nautilus,po/am.po
+Others:,4252,ሌሎች፦,4253,nautilus,po/am.po
+Text view:,4256,የጽሑፍ ዕይታ፦,4257,nautilus,po/am.po
+Number view:,4260,የቍጥር ዕይታ፦,4261,nautilus,po/am.po
+Last changed:,4264,የመጨረሻ ለውጥ፦,4265,nautilus,po/am.po
+(Empty),4306,(ባዶ),4307,nautilus,po/am.po
+Loading...,4310,በመጫን ላይ...,4311,nautilus,po/am.po
+E_ject,4314,አውጣ (_J),4315,nautilus,po/am.po
+Tree,4357,ዛፍ,4358,nautilus,po/am.po
+Edit Bookmarks,4511,መለያ ምልክቶች ያስተካክሉ,4512,nautilus,po/am.po
+Rename Emblem,4659,አርማን እንደገና ሰይም,4660,nautilus,po/am.po
+Rename,4667,እንደገና ሰይም,4668,nautilus,po/am.po
+Add Emblems...,4671,አርማዎች ጨምር...,4672,nautilus,po/am.po
+"<span weight=\""bold\"">Default View</span>",4760,"<span weight=\""bold\"">የነበረው ዕይታ</span>",4761,nautilus,po/am.po
+"<span weight=\""bold\"">Folders</span>",4768,"<span weight=\""bold\"">ዶሴዎች</span>",4769,nautilus,po/am.po
+"<span weight=\""bold\"">Icon Captions</span>",4772,"<span weight=\""bold\"">ምልክት አርእስት</span>",4773,nautilus,po/am.po
+"<span weight=\""bold\"">Icon View Defaults</span>",4776,"<span weight=\""bold\"">የምልክት መመልከቻ ነባሮች</span>",4777,nautilus,po/am.po
+"<span weight=\""bold\"">List View Defaults</span>",4785,"<span weight=\""bold\"">የዝርዝር መመልከቻ ነባሮች</span>",4786,nautilus,po/am.po
+"<span weight=\""bold\"">Sound Files</span>",4794,"<span weight=\""bold\"">የድምፅ ፋይሎች</span>",4795,nautilus,po/am.po
+"<span weight=\""bold\"">Text Files</span>",4798,"<span weight=\""bold\"">የጽሑፍ ፋይሎች</span>",4799,nautilus,po/am.po
+"<span weight=\""bold\"">Trash</span>",4802,"<span weight=\""bold\"">የማይፈለግ</span>",4803,nautilus,po/am.po
+Always,4810,ሁል ጊዜ,4811,nautilus,po/am.po
+Behavior,4823,ጠባይ,4824,nautilus,po/am.po
+File Management Preferences,4850,የፋይል ጉባኤ ምርጫዎች,4851,nautilus,po/am.po
+MIME type,4866,የMIME ዓይነት,4867,nautilus,po/am.po
+Never,4870,በፍጹም,4871,nautilus,po/am.po
+Preview,4874,ቅድመ ዕይታ,4875,nautilus,po/am.po
+Show te_xt in icons:,4894,በምልክት ውስጥ ጽሑፍ አሳይ ፦ (_X),4895,nautilus,po/am.po
+Views,4906,ዕይታዎች,4907,nautilus,po/am.po
+_Arrange items:,4910,ነጥቦቹን አስተካክል፦ (_A),4911,nautilus,po/am.po
+_Use compact layout,4943,ዕቅዱን አጠጋጋን ተጠቀም (_U),4944,nautilus,po/am.po
+date modified,4955,የተቀየረ ቀን,4956,nautilus,po/am.po
+group,4959,መድረክ,4960,nautilus,po/am.po
+none,4977,ምንም,4978,nautilus,po/am.po
+owner,4985,ባለቤት,4986,nautilus,po/am.po
+permissions,4989,ፈቃዶች,4990,nautilus,po/am.po
+size,4993,መጠን,4994,nautilus,po/am.po
+type,4997,ዓይነት,4998,nautilus,po/am.po
+History,5009,ታሪክ,5010,nautilus,po/am.po
+Software,5061,ሶፍትዌር,5062,nautilus,po/am.po
+loading...,5080,በመጫን ላይ...,5081,nautilus,po/am.po
+Image,5084,ምስል,5085,nautilus,po/am.po
+Information,5088,መረጃ,5089,nautilus,po/am.po
+Use _Default Background,5093,የማይቀየር መደብን ተጠቀም (_D),5094,nautilus,po/am.po
+Open with %s,5106,በ... ክፈት %s,5107,nautilus,po/am.po
+Empty _Trash,5120,የማይፈለግ ማድረጊያውን ባዶ አድርግ (_T),5121,nautilus,po/am.po
+Go To:,5129,ሂድ ወደ፦,5130,nautilus,po/am.po
+GEOMETRY,5162,ጂኦሜትሪ,5163,nautilus,po/am.po
+Quit Nautilus.,5180,ከNautilus ውጣ።,5181,nautilus,po/am.po
+Restart Nautilus.,5184,Nautilus እንደገና አስጀምር።,5185,nautilus,po/am.po
+Clear History,5234,ታሪክ ሰርዝ,5235,nautilus,po/am.po
+Remove,5253,አስወግድ (_R),5254,nautilus,po/am.po
+_Go,5257,ሂድ ወደ (_G),5258,nautilus,po/am.po
+_Bookmarks,5262,መለያ ምልክቶች (_B),5263,nautilus,po/am.po
+Open another Nautilus window for the displayed location,5273,እየታየ ላለው ቦታ ሌላ የሖሮቋቍሻሿቋቈ መስኮት ይክፈቱ,5274,nautilus,po/am.po
+Close _All Windows,5277,_ሁሉንም መስኮቶች ዝጋ,5278,nautilus,po/am.po
+_Location...,5287,ቦታ... (_L),5288,nautilus,po/am.po
+Clear contents of Go menu and Back/Forward lists,5303,የዝርዝር ማስኬጃውን እና የወደኋላ/ወደፊት ዝርዝሮችን ይዞታ ባዶ አድርግ,5304,nautilus,po/am.po
+_Add Bookmark,5307,መለያ ምልክት ጨምር (_A),5308,nautilus,po/am.po
+Add a bookmark for the current location to this menu,5312,ለዚህ ዝርዝር አሁን ላለው ቦታ ምልክት ይጨምሩ,5313,nautilus,po/am.po
+_Edit Bookmarks,5316,መለያ ምልክቶች ያስተካክሉ (_E),5317,nautilus,po/am.po
+Display a window that allows editing the bookmarks in this menu,5321,እዚህ ዝርዝር ውስጥ ያሉትን ምልክቶች ለማረም የሚያችል መስኮት አሳይ,5322,nautilus,po/am.po
+Change the visibility of this window's sidebar,5331,የዚህን የጎን ቋሚ ዕይታ ለውጥ,5332,nautilus,po/am.po
+Location _Bar,5337,የቦታ ባር (_B),5338,nautilus,po/am.po
+St_atusbar,5348,ስታተስባር (_A),5349,nautilus,po/am.po
+_Back,5357,ወደኋላ (_B),5358,nautilus,po/am.po
+Go to the previous visited location,5361,ወደቀድሞው የተጎበኘው አቅጣጫ ሂድ,5362,nautilus,po/am.po
+_Forward,5365,ወደፊት (_F),5366,nautilus,po/am.po
+Go to the next visited location,5369,ወደሚቀጥለው የሚጎበኘው አቅጣጫ ሂድ,5370,nautilus,po/am.po
+View as %s,5374,እንደ %s አሳይ,5375,nautilus,po/am.po
+Notes,5383,ማስታወሻዎች,5384,nautilus,po/am.po
+Backgrounds and Emblems,5388,መደቦች እና አርማዎች,5389,nautilus,po/am.po
+_Remove...,5392,አስወግድ... (_R),5393,nautilus,po/am.po
+_Add new...,5396,አዲስ ጨምር... (_A),5397,nautilus,po/am.po
+_Keyword:,5432,ቁልፍ ቃላት፦ (_K),5433,nautilus,po/am.po
+_Image:,5437,ምስል፦ (_I),5438,nautilus,po/am.po
+Color _name:,5450,የቀለሙ ስም፦ (_N),5451,nautilus,po/am.po
+_Add a New Pattern...,5530,አዲስ ንድፍ ጨምር... (_A),5531,nautilus,po/am.po
+_Add a New Color...,5534,አዲስ ቀለም ጨምር... (_A),5535,nautilus,po/am.po
+_Add a New Emblem...,5538,አዲስ አርማ ጨምር... (_A),5539,nautilus,po/am.po
+Click on a pattern to remove it,5542,ለማስወገድ ንድፉ ላይ ያቃጭሉ,5543,nautilus,po/am.po
+Click on a color to remove it,5546,ለማስወገድ ቀለሙ ላይ ያቃጭሉ,5547,nautilus,po/am.po
+Click on an emblem to remove it,5550,ለማስወገድ አርማው ላይ ያቃጭሉ,5551,nautilus,po/am.po
+Patterns:,5554,ንድፎች፦,5555,nautilus,po/am.po
+Colors:,5558,ቀለሞች፦,5559,nautilus,po/am.po
+Emblems:,5562,አርማዎች፦,5563,nautilus,po/am.po
+_Remove a Pattern...,5566,ንድፍ አስወግዱ... (_R),5567,nautilus,po/am.po
+_Remove a Color...,5570,ቀለም አስወግዱ... (_R),5571,nautilus,po/am.po
+_Remove an Emblem...,5574,አርማ አስወግዱ... (_R),5575,nautilus,po/am.po
+Show %s,5583,%sን አሳይ,5584,nautilus,po/am.po
+Content View,5650,የይዞታ ዕይታ,5651,nautilus,po/am.po
+Go to the location specified by this bookmark,5697,በዚህ ምልክት የተጠቀሰው ቦታ ጋር ሂድ,5698,nautilus,po/am.po
+_File,5739,ፋይል (_F),5740,nautilus,po/am.po
+_Edit,5744,አስተካክል (_E),5745,nautilus,po/am.po
+_View,5749,ተመልከት (_V),5750,nautilus,po/am.po
+_Help,5754,መረጃ (_H),5755,nautilus,po/am.po
+Prefere_nces,5782,ምርጫዎች (_N),5783,nautilus,po/am.po
+Edit Nautilus preferences,5786,የNautilus ምርጫዎች ያስተካክሉ,5787,nautilus,po/am.po
+_Undo,5790,ወደ ነበረበት መልስ (_U),5791,nautilus,po/am.po
+_Stop,5811,አቁም (_S),5812,nautilus,po/am.po
+_Reload,5816,እንደገና ይጫን (_R),5817,nautilus,po/am.po
+_Contents,5821,ይዞታዎች (_C),5822,nautilus,po/am.po
+Display Nautilus help,5826,የNautilus መረጃ አሳይ,5827,nautilus,po/am.po
+_About,5831,ስለ (_A),5832,nautilus,po/am.po
+Display credits for the creators of Nautilus,5836,Nautilusን የሰሩትን ዝርዝር አሳይ,5837,nautilus,po/am.po
+Zoom _In,5841,ከቅርበት ዕይታ (_I),5842,nautilus,po/am.po
+Show the contents in more detail,5846,ይዞታዎቹን ሰፋ ባለ ሁኔታ አሳይ,5847,nautilus,po/am.po
+Zoom _Out,5851,ከርቀት ዕይታ (_O),5852,nautilus,po/am.po
+Show the contents in less detail,5856,ይዞታዎቹን ዘርዘር ባለ ሁኔታ አሳይ,5857,nautilus,po/am.po
+Normal Si_ze,5861,የተለመደ መጠን (_Z),5862,nautilus,po/am.po
+Show the contents at the normal size,5866,ይዞታዎቹን በመደበኛ መጠን አሳይ,5867,nautilus,po/am.po
+_Home,5881,መጀመሪያ (_H),5882,nautilus,po/am.po
+_Trash,5916,የማይፈለግ (_T),5917,nautilus,po/am.po
+Go to the trash folder,5921,ወደ የማይፈለግ ማድረጊያ መያዣው ሂድ,5922,nautilus,po/am.po
+_Up,5937,ወደ ላይ (_U),5938,nautilus,po/am.po
+"Display this location with \""%s\""",5942,"ይህንን ቦታ ከ\""%s\"" ጋር አሳይ",5943,nautilus,po/am.po
+Application,5946,መጠቀሚያ ፕሮግራም,5947,nautilus,po/am.po
+Zoom In,5954,ከቅርበት ዕይታ,5955,nautilus,po/am.po
+Zoom Out,5958,ከርቀት ዕይታ,5959,nautilus,po/am.po
+Zoom,5971,በቅርበት አሳይ,5972,nautilus,po/am.po
+Network Servers,5979,የመረብ ሰርቨር,5980,nautilus,po/am.po
+Text,5987,ጽሑፍ,5988,nautilus,po/am.po
+The text of the label.,6028,የጽሑፉ መለያ።,6029,nautilus,po/am.po
+Cursor Position,6051,ጠቋሚው ባለበት ቦታ,6052,nautilus,po/am.po
+Select All,6068,ሁሉንም ምረጡ,6069,nautilus,po/am.po
+Input Methods,6072,ዘገባ የማስትገባት ዘዴዎች,6073,nautilus,po/am.po
+GConf error:\n  %s,6077,የGConf ብልሽት፦\n %s,6080,nautilus,po/am.po
+ (invalid Unicode),6200, (ዩኒኮድ ተቀብሏል),6201,nautilus,po/am.po
+Move left,113,ወደግራ አንቀሳቅስ,114,quadrapassel,po/am.po
+Move right,121,ወደቀኝ አንቀሳቅስ,122,quadrapassel,po/am.po
+Pause,154,ለአጭር ጊዜ አሳርፍ,155,quadrapassel,po/am.po
+Start a new game,242,አዲስ ጨዋታ ጀምር,243,quadrapassel,po/am.po
+Score,251,ነጥብ,252,quadrapassel,po/am.po
+Preferences,265,ምርጫዎች,266,quadrapassel,po/am.po
+Game,269,ጨዋታ,270,quadrapassel,po/am.po
+Theme,313,ጭብጥ,314,quadrapassel,po/am.po
+New Game,356,አዲስ ጨዋታ,357,quadrapassel,po/am.po
+_Authorize,23,_መፍቀጃ,24,simple-scan,po/am.po
+_Username for resource:,28,_የተጠቃሚ ስም ለምንጮቹ:,29,simple-scan,po/am.po
+_Password:,33,_የመግቢያ ቃል:,34,simple-scan,po/am.po
+Front and Back,38,ፊት ለፊት እና ጀርባ,39,simple-scan,po/am.po
+Front,43,ፊት ለፊት,44,simple-scan,po/am.po
+Back,48,ጀርባ,49,simple-scan,po/am.po
+Simple Scan,54,ቀላል ማሰሻ,55,simple-scan,po/am.po
+_Document,59,_ሰነድ,60,simple-scan,po/am.po
+Sc_an,64,ማሰ_ሻ,65,simple-scan,po/am.po
+Single _Page,70,ነጠላ _ገጽ,71,simple-scan,po/am.po
+All Pages From _Feeder,76,ሁሉንም ገጾች ከ _መጋቢው,77,simple-scan,po/am.po
+_Stop Scan,87,ማሰሻ _ማስቆሚያ,88,simple-scan,po/am.po
+Text,91,ጽሁፍ,92,simple-scan,po/am.po
+Photo,95,ፎቶ,96,simple-scan,po/am.po
+Reorder Pages,101,ገጾች መመዝገቢያ,102,simple-scan,po/am.po
+_Email,106,_ኢሜይል,107,simple-scan,po/am.po
+_Page,111,_ገጽ,112,simple-scan,po/am.po
+Rotate _Left,116,ወደ _ግራ ማዞሪያ,117,simple-scan,po/am.po
+Rotate _Right,121,ወደ _ቀኝ ማዞሪያ,122,simple-scan,po/am.po
+_Crop,126,መከርከሚያ,127,simple-scan,po/am.po
+_None,131,_ምንም,132,simple-scan,po/am.po
+_Letter,151,_ደብዳቤ,152,simple-scan,po/am.po
+Le_gal,156,ሕጋ_ዊ,157,simple-scan,po/am.po
+_Custom,166,_ማስተካከያ,167,simple-scan,po/am.po
+_Rotate Crop,171,መከርከሚያ _ማዞሪያ,172,simple-scan,po/am.po
+Move Left,176,ወደ ግራ ማንቀሳቀሻ,177,simple-scan,po/am.po
+Move Right,181,ወደ ቀኝ ማንቀሳቀሻ,182,simple-scan,po/am.po
+_Help,186,_እርዳታ,187,simple-scan,po/am.po
+_Contents,191,_ይዞታዎች,192,simple-scan,po/am.po
+Start a new document,196,አዲስ ሰነድ ማስጀመሪያ,197,simple-scan,po/am.po
+New,200,አዲስ,201,simple-scan,po/am.po
+Scan a single page from the scanner,205,ነጠላ ገጽ ከ ማሰሻው ላያ ማሰሻ,206,simple-scan,po/am.po
+Scan,210,ማሰሻ,211,simple-scan,po/am.po
+Save document to a file,215,ሰነድ ወደ ፋይል ማስቀመጫ,216,simple-scan,po/am.po
+Save,219,ማስቀመጫ,220,simple-scan,po/am.po
+Stop the current scan,224,የ አሁኑን ማሰሻ ማስቆሚያ,225,simple-scan,po/am.po
+Stop,228,ማስቆሚያ,229,simple-scan,po/am.po
+Rotate the page to the left (counter-clockwise),233,ገጽ ወደ ግራ ማዞሪያ (ከ ቀኝ-ወደ ግራ),234,simple-scan,po/am.po
+Rotate Left,238,ወደ ግራ ማዞሪያ,239,simple-scan,po/am.po
+Rotate the page to the right (clockwise),243,ገጽ ወደ ቀኝ ማዞሪያ (ከ ግራ-ወደ ቀኝ),244,simple-scan,po/am.po
+Rotate Right,248,ወደ ቀኝ ማዞሪያ,249,simple-scan,po/am.po
+Crop the selected page,252,የተመረጠውን ገጽ መከርከሚያ,253,simple-scan,po/am.po
+Crop,256,መከርከሚያ,257,simple-scan,po/am.po
+Preferences,261,ምርጫዎች,262,simple-scan,po/am.po
+Scan S_ource:,266,የ ማሰሻ ም_ንጮች:,267,simple-scan,po/am.po
+_Text Resolution:,271,የ _ጽሁፍ ሪዞልሽን:,272,simple-scan,po/am.po
+_Photo Resolution:,276,የ _ፎቶ ሪዞልሽን:,277,simple-scan,po/am.po
+Scan Side:,281,የ ጎን ማሰሻ:,282,simple-scan,po/am.po
+Page Size:,286,የ ገጽ መጠን,287,simple-scan,po/am.po
+Brightness:,291,ብሩህነት:,292,simple-scan,po/am.po
+Contrast:,296,ማነፃፃሪያ:,297,simple-scan,po/am.po
+Quality:,301,ጥራት:,302,simple-scan,po/am.po
+Document Scanner,310,ሰነድ ማሰሻ,311,simple-scan,po/am.po
+Scan Documents,314,ሰነድ ማሰሻ,315,simple-scan,po/am.po
+scan;scanner;flatbed;adf;,318,ማሰሻ;ማሰሻ;ጠፍጣፋ;adf;,319,simple-scan,po/am.po
+No scanners available.  Please connect a scanner.,340,ዝግጁ ማሰሻ አልተገኘም: እባክዎን ማሰሻ ያገናኙ,341,simple-scan,po/am.po
+Unable to connect to scanner,345,ከ ማሰሻ ጋር መገናኘት አልተቻለም,346,simple-scan,po/am.po
+Unable to start scan,350,ማሰሻ ማስጀመር አልተቻለም,351,simple-scan,po/am.po
+Error communicating with scanner,355,ስህተት ተፈጥሯል ከ ማሰሻ ጋር ለ መገናኘት ሲሞከር,356,simple-scan,po/am.po
+Show release version,360,የተለቀቀውን እትም ማሳያ,361,simple-scan,po/am.po
+Print debugging messages,365,የ ማስተካከያ መልእክቶች ማተሚያ,366,simple-scan,po/am.po
+Fix PDF files generated with older versions of Simple Scan,369,በ አሮጌ እትም የ ተፈጠሩ የ PDF ፋይሎች መጠገኛ,370,simple-scan,po/am.po
+Failed to scan,374,ማሰስ አልተቻለም,375,simple-scan,po/am.po
+[DEVICE...] - Scanning utility,379,[DEVICE...] - አካላቶች በ ማሰስ ላይ,380,simple-scan,po/am.po
+Run '%s --help' to see a full list of available command line options.,385,ያስኪዱ '%s --እርዳታ'  ዝግጁ የሆኑ የትእዛዝ መስመሮችን ለማየት,386,simple-scan,po/am.po
+_Close,389,_መዝጊያ,390,simple-scan,po/am.po
+Username and password required to access '%s',395,የተጠቃሚ ስም እና የመግቢያ ቃል ያስፈልጋል እዚህ ጋር ለመድረስ '%s',396,simple-scan,po/am.po
+No scanners detected,400,ምንም ማሰሻ አልተገኘም,401,simple-scan,po/am.po
+Please check your scanner is connected and powered on,405,እባክዎን ማሰሻው መሰካቱን እና መብራቱን እርግጠኛ ይሁኑ,406,simple-scan,po/am.po
+Additional software needed,410,ተጨማሪ ሶፍትዌር ያስፈልጋል,411,simple-scan,po/am.po
+You need to install driver software for your scanner.,415,ተጨማሪ የ ማሰሻ ሶፍትዌር መግጠም ያስፈልጋል,416,simple-scan,po/am.po
+Save As...,420,ማስቀመጫ እንደ...,421,simple-scan,po/am.po
+_Cancel,424,_መሰረዣ,425,simple-scan,po/am.po
+_Save,428,_ማሰቀመጫ,429,simple-scan,po/am.po
+Scanned Document.pdf,433,የ ታሰሱ ሰነዶች.pdf,434,simple-scan,po/am.po
+Image Files,438,የምስል ፋይሎች,439,simple-scan,po/am.po
+All Files,443,ሁሉንም ፋይሎች,444,simple-scan,po/am.po
+PDF (multi-page document),448,PDF (በርካት-ገጽ ሰነድ),449,simple-scan,po/am.po
+JPEG (compressed),453,JPEG (የታመቀ),454,simple-scan,po/am.po
+PNG (lossless),458,PNG (ያልታመቀ),459,simple-scan,po/am.po
+File format:,463,የ ፋይል አቀራረብ,464,simple-scan,po/am.po
+Failed to save file,479,ፋይሉን ማስቀመጥ አልተቻለም,480,simple-scan,po/am.po
+"If you don't save, changes will be permanently lost.",484,እርስዎ ካላስቀመጡት ለውጦቹ በሙሉ በቋሚነት ይጠፋሉ,485,simple-scan,po/am.po
+Save current document?,489,የ አሁኑን ሰነድ ላስቀምጠው?,490,simple-scan,po/am.po
+Discard Changes,494,ለውጦቹን ማስወገጃ,495,simple-scan,po/am.po
+Unable to save image for preview,499,ምስል ለ ቅድመ እይታ ማስቀመጥ አልተቻለም,500,simple-scan,po/am.po
+Unable to open image preview application,504,ምስል ለ መክፈት አልተቻለም ለ ቅድመ እይታ ማስቀመጥ መተግባሪያ,505,simple-scan,po/am.po
+Combine sides,509,ጎኖች መቀላቀያ,510,simple-scan,po/am.po
+Combine sides (reverse),514,ጎኖች መቀላቀያ (በ ግልባጭ),515,simple-scan,po/am.po
+Reverse,519,በ ግልባጭ,520,simple-scan,po/am.po
+Keep unchanged,524,ሳይቀየር ማስቀመጫ,525,simple-scan,po/am.po
+Unable to open help file,529,የ እርዳታ ፋይል መክፈት አልተቻለም,530,simple-scan,po/am.po
+About Simple Scan,563,ሰለ ቀላል ማሰሻ,564,simple-scan,po/am.po
+Simple document scanning tool,568,የ ቀላል ሰነድ ማሰሻ መሳሪያ,569,simple-scan,po/am.po
+Save document before quitting?,579,ሰነዱን ላስቀምጥ ከ መጥፋቱ በፊት?,580,simple-scan,po/am.po
+Quit without Saving,584,ሳይቀምጥ ላጥፋው?,585,simple-scan,po/am.po
+You appear to have a Brother scanner.,589,እርስዎ ያለዎት ማሰሻ ብራዘር ነው,590,simple-scan,po/am.po
+"Drivers for this are available on the <a href=\""http://support.brother.com\"">Brother website</a>.",594,"ዝግጁ Drivers እዚህ ይገኛሉ በ <a href=\""http://support.brother.com\"">Brother website</a>.",597,simple-scan,po/am.po
+You appear to have a Samsung scanner.,603,እርስዎ ያለዎት ማሰሻ ሳምሰንግ ነው,604,simple-scan,po/am.po
+"Drivers for this are available on the <a href=\""http://samsung.com/support\"">Samsung website</a>.",608,"ዝግጁ Drivers እዚህ ይገኛሉ በ <a href=\""http://samsung.com/support\"">Samsung website</a>.",611,simple-scan,po/am.po
+You appear to have an HP scanner.,617,እርስዎ ያለዎት ማሰሻ ኤችፒ ነው,618,simple-scan,po/am.po
+You appear to have an Epson scanner.,622,እርስዎ ያለዎት ማሰሻ ኤፕሰን ነው,623,simple-scan,po/am.po
+"Drivers for this are available on the <a href=\""http://support.epson.com\"">Epson website</a>.",627,"ዝግጁ Drivers እዚህ ይገኛሉ በ <a href=\""http://support.epson.com\"">Epson website</a>.",630,simple-scan,po/am.po
+Install drivers,636,Drivers መግጠሚያ,637,simple-scan,po/am.po
+Once installed you will need to restart Simple Scan.,641,እርስዎ ከ ገጠሙ በኋላ ቀላል ማሰሻን እንደገና ማስነሳት ያስፈልጋል,642,simple-scan,po/am.po
+Installing drivers...,646,በ መግጠም ላይ drivers...,647,simple-scan,po/am.po
+Drivers installed successfully!,651,Drivers ተሳክቶ ተገጥሟል!,652,simple-scan,po/am.po
+Failed to install drivers (error code %d).,657,መግጠም አልተቻለም drivers (የ ስህተት ኮድ %d).,658,simple-scan,po/am.po
+Failed to install drivers.,662,መግጠም አልተቻለም drivers,663,simple-scan,po/am.po
+You need to install the %s package(s).,668,እርስዎ መግጠም አለብዎት %s ጥቅል(ሎች).,669,simple-scan,po/am.po
+%d dpi (default),674,%d dpi (ነባር),675,simple-scan,po/am.po
+%d dpi (draft),680,%d dpi (ንድፍ),681,simple-scan,po/am.po
+%d dpi (high resolution),686,%d dpi (ከፍተኛ ሪዞሊሽን),687,simple-scan,po/am.po
+New Document,696,አዲስ ሰነድ,697,simple-scan,po/am.po
+Document,700,ሰነድ,701,simple-scan,po/am.po
+Email...,704,ኢሜይል...,705,simple-scan,po/am.po
+Print...,708,ማተሚያ...,709,simple-scan,po/am.po
+Help,712,እርዳታ,713,simple-scan,po/am.po
+About,716,ስለ,717,simple-scan,po/am.po
+Quit,720,ማጥፊያ,721,simple-scan,po/am.po
+Change _Scanner,725,_ማሰሻ መቀየሪያ,726,simple-scan,po/am.po
+_Install Drivers,730,Drivers መግጠሚያ,731,simple-scan,po/am.po
+Automatic,735,ራሱ በራሱ,736,simple-scan,po/am.po
+Darker,739,ማጥቆሪያ,740,simple-scan,po/am.po
+Lighter,743,ነጣ ማድረጊያ,744,simple-scan,po/am.po
+Less,747,ትንሽ,748,simple-scan,po/am.po
+More,751,ተጨማሪ,752,simple-scan,po/am.po
+Minimum,755,አነስተኛ,756,simple-scan,po/am.po
+Maximum,759,ከፍተኛ,760,simple-scan,po/am.po
+Saving document...,763,ሰነድ በማስቀመጥ ላይ...,764,simple-scan,po/am.po
+Saving page %d out of %d,768,ገጽ በማስቀመጥ ላይ %d ከ %d,769,simple-scan,po/am.po
+Preferences,65,ምርጫዎች,66,swell-foop,po/am.po
+New Game,164,አዲስ ጨዋታ,165,swell-foop,po/am.po
+Score,182,ነጥብ,183,swell-foop,po/am.po
+Small,231,ትንሽ,232,swell-foop,po/am.po
+Large,240,ትልቅ,241,swell-foop,po/am.po
+New Game,148,አዲስ ጨዋታ,149,tali,po/am.po
+NUMBER,172,ቍጥር,173,tali,po/am.po
+Human,294,ሰው,295,tali,po/am.po
+Preferences,302,ምርጫዎች,303,tali,po/am.po
+0 seconds,47,0 ሴኮንዶች,48,totem,po/am.po
+0 x 0,52,0 በ 0,53,totem,po/am.po
+<b>Audio</b>,56,<b>ድምፅ</b>,57,totem,po/am.po
+<b>General</b>,60,<b>አጠቃላይ</b>,61,totem,po/am.po
+<b>Video</b>,69,<b>ቪዲዮ</b>,70,totem,po/am.po
+Properties,110,ምርጫዎች,111,totem,po/am.po
+Unknown,125,ያልታወቀ,126,totem,po/am.po
+<b>Preview</b>,205,<b>ቅድመ ዕይታ</b>,206,totem,po/am.po
+Audio menu,234,የድምፅ ሜኑ,235,totem,po/am.po
+DVD menu,250,የDVD ሜኑ,251,totem,po/am.po
+File name,267,የፋይል ስም,268,totem,po/am.po
+Next,300,የሚቀጥለው,301,totem,po/am.po
+Play/Pause,364,አጫውት ለአጭር ጊዜ አሳርፍ,365,totem,po/am.po
+Previous,368,የቀድሞው,369,totem,po/am.po
+Save Screenshot,380,እስክሪን ፎቶ አስቀምጥ,381,totem,po/am.po
+Title menu,466,የአርእስት ሜኑ,467,totem,po/am.po
+Totem,479,ቶተም,480,totem,po/am.po
+Totem Preferences,483,የቶተም ምርጫዎች,484,totem,po/am.po
+Zoom _1:1,503,በቅርበት አሳይ,504,totem,po/am.po
+Zoom _2:1,507,በቅርበት አሳይ,508,totem,po/am.po
+_Fullscreen,523,ሙሉ እስክሪን (_F),524,totem,po/am.po
+_Go,527,ሂድ ወደ (_G),528,totem,po/am.po
+_Movie,531,ፊልም (_M),532,totem,po/am.po
+_Play / Pause,535,አጫውት / ለአጭር ጊዜ አሳርፍ (_P),536,totem,po/am.po
+_Sound,551,ድምፅ (_S),552,totem,po/am.po
+_Zoom 1:2,555,በቅርበት አሳይ (_Z),556,totem,po/am.po
+Unnamed CDROM,604,ያለ ስም CDROM,605,totem,po/am.po
+Unnamed SCSI CDROM (%s),613,ያለ ስም SCSI CDROM (%s),614,totem,po/am.po
+File image,617,የፋይል ምስል,618,totem,po/am.po
+_Username:,645,የተጠቃሚ ስም፦ (_U),646,totem,po/am.po
+_Password:,649,ሚስጢራዊ ቃል፦ (_P),650,totem,po/am.po
+Remember this password,653,ይህንን ሚስጢራዊ ቃል አስታውሱ,654,totem,po/am.po
+Select files,657,ፋይሎችን ምረጡ,658,totem,po/am.po
+Filename,672,የፋይል ስም,673,totem,po/am.po
+Toggle Fullscreen,684,ሙሉ እስክሪን ቀያያር,685,totem,po/am.po
+Quit,688,ውጣ,689,totem,po/am.po
+%s - Totem,736,%s - ቶተም,737,totem,po/am.po
+No file,740,ፋይል የለም,741,totem,po/am.po
+translator_credits,754,ዘግዕዝ Frontier Foundation,755,totem,po/am.po
+Screenshot%d.png,764,እስክሪንፎቶ%d.png,765,totem,po/am.po
+Totem Video Window,878,የቶተም ቪዲዮ መስኮት,879,totem,po/am.po
+%d hour,934,%d ሰዓት,935,totem,po/am.po
+%d hours,940,%d ሰዓት,941,totem,po/am.po
+%d minute,946,%d ደቂቃ,947,totem,po/am.po
+%d minutes,952,%d ደቂቃዎች,953,totem,po/am.po
+%d second,958,%d ሴኮንድ,959,totem,po/am.po
+%d seconds,964,%d ሴኮንዶች,965,totem,po/am.po
+0 second,987,0 ሴኮንዶች,988,totem,po/am.po
+Applications,21,መጠቀሚያ ፕሮግራሞች,22,yelp,po/am.po
+Configuration Files,25,የፋይሎች አቀማመጥ,26,yelp,po/am.po
+Development,29,እድገት,30,yelp,po/am.po
+Games,37,ጨዋታዎች,38,yelp,po/am.po
+Hardware Devices,41,የሀርድዌር ዲቫይሶች,42,yelp,po/am.po
+Overviews,73,ማጠቃለያ,74,yelp,po/am.po
+System Administration,87,የአሰራሩ መቆጣጠሪያ,88,yelp,po/am.po
+_Next,268,_የሚቀጥለው,269,yelp,po/am.po
+_Previous,272,የ_ቀድሞው,273,yelp,po/am.po
+Yelp,320,የልፕ,321,yelp,po/am.po
+Yelp Factory,324,የልፕ ፋብሪካ,325,yelp,po/am.po
+Could not activate Yelp: '%s',396,የልፕን ማስጀመር አልቻለም፦ '%s',397,yelp,po/am.po
+Could not open new window.,400,አዲስ መስኮት መክፈት አልቻለም።,401,yelp,po/am.po
+Help,404,መረጃ,405,yelp,po/am.po
+Help Contents,485,የመረጃ ማውጫ,486,yelp,po/am.po
+Show previous page in history,557,የበፊቱን ገጽ በታሪክ ውስጥ አሳይ,558,yelp,po/am.po
+Show next page in history,566,የሚቀጥለውን ገጽ በታሪክ ውስጥ አሳይ,567,yelp,po/am.po
+Help Browser,618,የመረጃ መቃኛ,619,yelp,po/am.po
+Loading...,684,በመጫን ላይ...,685,yelp,po/am.po
+Get help with GNOME,720,ከኖም መረጃ አግኝ,721,yelp,po/am.po

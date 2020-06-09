@@ -1,0 +1,56 @@
+Multimedia menu,22,މަލްޓިމީޑިއާ މެނޫ,23,gnome-menus,po/dv.po
+Sound & Video,26,އަޑު އަދި ވީޑިއޯ,27,gnome-menus,po/dv.po
+Programming,30,ޕްރޮގްރާމިންގް,31,gnome-menus,po/dv.po
+Tools for software development,34,ސޮފްޓްވެޔާރ ޑެވެލޮޕް ކުރުމުގެ ޓޫލްސްތައް,35,gnome-menus,po/dv.po
+Education,38,ތައުލީމު,39,gnome-menus,po/dv.po
+Games,42,ގޭމްސް,43,gnome-menus,po/dv.po
+Games and amusements,46,ގޭމުތަކާއި މުނިފޫހިފިލުވުންތައް,47,gnome-menus,po/dv.po
+Graphics,50,ގްރެފިކްސް,51,gnome-menus,po/dv.po
+Graphics applications,54,ގްރެފިކްސް އެޕްލިކޭޝަންތައް,55,gnome-menus,po/dv.po
+Hardware,58,ހާރޑްވެއަރ,59,gnome-menus,po/dv.po
+Settings for several hardware devices,62,ހާރޑުވެއަރ ޑިވައިސްތަކުގެ ސެޓިންގްތައް,63,gnome-menus,po/dv.po
+Internet and Network,66,އިންޓަރނެޓް އަދި ނެޓްވޯރކް,67,gnome-menus,po/dv.po
+Network-related settings,70,ނެޓްވޯރކާގުޅޭ ސެޓިންގްތައް,71,gnome-menus,po/dv.po
+Look and Feel,74,ބަލާބެލުން,75,gnome-menus,po/dv.po
+Settings controlling the desktop appearance and behavior,78,ޑެސްކްޓޮޕް ބަލާބެލުމާއި ހަރަކާތްތައް ކޮންޓްރޯލްކުރާ ސެޓިންގްސް,79,gnome-menus,po/dv.po
+Internet,82,އިންޓަނެޓް,83,gnome-menus,po/dv.po
+Programs for Internet access such as web and email,86,ވެބް އަދި އީމެއިލް ފަދަ އިންޓާނެޓްގެ ބޭނުންހިފާ ޕްރޮގްރާމުތައް,87,gnome-menus,po/dv.po
+Office,90,އޮފީސް,91,gnome-menus,po/dv.po
+Office Applications,94,އޮފީސް އެޕްލިކޭޝަންސް,95,gnome-menus,po/dv.po
+Personal,98,އަމިއްލަަ,99,gnome-menus,po/dv.po
+Personal settings,102,އަމިއްލަ ސެޓިންތައް,103,gnome-menus,po/dv.po
+Administration,106,އިދާރީ,107,gnome-menus,po/dv.po
+Change system-wide settings (affects all users),110,މުޅި ސިސްޓަމް ގެ ސެޓިންގްސް ބަދަލު ކުރައްވާ - ޔޫޒާޒްއެކުލެވޭގޮތަށް,111,gnome-menus,po/dv.po
+Personal preferences,114,އަމިއްލަ ގޮތްތައްަ,115,gnome-menus,po/dv.po
+Preferences,118,ބޭނުންވާ ގޮތްތަށް,119,gnome-menus,po/dv.po
+System,123,ސިސްޓަމް,124,gnome-menus,po/dv.po
+System settings,127,ސިސްޓަމް ސެޓިންގްސް,128,gnome-menus,po/dv.po
+System Tools,131,ސިސްޓަމް ޓޫލްތައް,132,gnome-menus,po/dv.po
+System configuration and monitoring,135,ސިސްޓަމް ކޮންފިގަރ ކުރުމާއި މޮނިޓަރ ކުރުން,136,gnome-menus,po/dv.po
+Universal Access,139,ހުރިހާދިމލަކުން ވަދެވޭ,140,gnome-menus,po/dv.po
+Universal Access Settings,143,ވަނުމުގެ ސެޓިން ހެދުން,144,gnome-menus,po/dv.po
+Accessories,147,އެކްސެސަރީސް,148,gnome-menus,po/dv.po
+Desktop accessories,151,ޑެސްކްޓޮޕް އެކްސެސަރީސް,152,gnome-menus,po/dv.po
+Applications,155,އެޕްލިކޭޝަންސް,156,gnome-menus,po/dv.po
+Personal preferences and administration settings,159,އަމިއްލަ ޕުރިފަރަންސް އަދި އެޑުމިނިސްޓުރެޓަރ ސެޓިން,160,gnome-menus,po/dv.po
+Applications that did not fit in other categories,163,އެހެން ކެޓަގަރީތަކާ ނުގުޅޭ އެޕްލިކޭޝަންތަށް,164,gnome-menus,po/dv.po
+Other,167,އެހެނިހެން,168,gnome-menus,po/dv.po
+Menu Editor,171,މެނޫއެޑިޓްކުރާ,172,gnome-menus,po/dv.po
+Edit Menus,175,މެނޫތައް އެޑިތްކުރުން,176,gnome-menus,po/dv.po
+_Applications:,179,އެޕްލިކޭޝަންސް_,180,gnome-menus,po/dv.po
+_Defaults,183,ޑިފޯލްޓްސް_,184,gnome-menus,po/dv.po
+_Menus:,187,މެނޫތަށް_,188,gnome-menus,po/dv.po
+Name,192,ނަން,193,gnome-menus,po/dv.po
+Show,196,ދެއްކުން,197,gnome-menus,po/dv.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,200,ހޯމް ޑައިރޭކްޓަރީއެއް ނުފެނުނު -  $HOME ނުވަތަ /etc/password މައުލޫމާތުމަދު,203,gnome-menus,po/dv.po
+Menu file,207,މެނޫފައިލް,208,gnome-menus,po/dv.po
+MENU_FILE,211,މެނޫ_ފައިލް,212,gnome-menus,po/dv.po
+Monitor for menu changes,215,މެނޫ ބަދަލުވޭތޯ ބަލާ,216,gnome-menus,po/dv.po
+Include <Exclude>d entries,219,އެންޓްރީސްތައް ހިމެނޭ <Exclude>d,220,gnome-menus,po/dv.po
+Include NoDisplay=true entries,223,އެންޓްރީސްތައް ހިމެނޭ NoDisplay=true,224,gnome-menus,po/dv.po
+Invalid desktop file ID,227,ި ޑެސްކުޓޮޕް ފައިލް އައިޑީ ނުބައި,228,gnome-menus,po/dv.po
+[Invalid Filename],231,[ނުބައި ފައިލްނަމެއް],232,gnome-menus,po/dv.po
+ <excluded>,235, <ނުހިމެނޭ>,236,gnome-menus,po/dv.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",240,\n\n\n==== މެނޫބަދަލުވެފައި، އަލުންލޯޑްވަނީ ====\n\n\n,247,gnome-menus,po/dv.po
+Menu tree is empty,256,މެނޫ ޓްރީގައި އެއްޗެއްނެތް,257,gnome-menus,po/dv.po
+- test GNOME's implementation of the Desktop Menu Specification,260,ނޯމްގެ ޑެސްކުޓޮޕް މެނޫ އިމްޕުލިމެންޓޭޝަން ޓެސްޓުކުރައްވާ,261,gnome-menus,po/dv.po

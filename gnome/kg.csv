@@ -1,0 +1,57 @@
+Multimedia menu,24,mambu ma KamaSaka,25,gnome-menus,po/kg.po
+Sound & Video,28,mindule ye bilili,29,gnome-menus,po/kg.po
+Programming,32,nieema nsiku,33,gnome-menus,po/kg.po
+Tools for software development,36,bikonko muna tungae bisala sala,37,gnome-menus,po/kg.po
+Education,40,malongi,41,gnome-menus,po/kg.po
+Games,44,nsaka,45,gnome-menus,po/kg.po
+Games and amusements,48,nsaka ye nsakana,49,gnome-menus,po/kg.po
+Graphics,52,madodika,53,gnome-menus,po/kg.po
+Graphics applications,56,bisala sala mu dodika,57,gnome-menus,po/kg.po
+Hardware,60,mankandu,61,gnome-menus,po/kg.po
+Settings for several hardware devices,64,yidikae kikalulu kia mankandu,65,gnome-menus,po/kg.po
+Internet and Network,68,nzonzama ye kintuadi,69,gnome-menus,po/kg.po
+Network-related settings,72,yidikae mambu ma kintuadi,73,gnome-menus,po/kg.po
+Look and Feel,76,ntomono,77,gnome-menus,po/kg.po
+Settings controlling the desktop appearance and behavior,80,mu yidika kalulu ye ntomono za ludombe,81,gnome-menus,po/kg.po
+Internet,84,nzonzama,85,gnome-menus,po/kg.po
+Programs for Internet access such as web and email,88,bienda ku nzonzama (fuani: nzonzama ye nkave),89,gnome-menus,po/kg.po
+Office,92,makalaka,93,gnome-menus,po/kg.po
+Office Applications,96,bia kalaka,97,gnome-menus,po/kg.po
+Personal,101,mambu maku,102,gnome-menus,po/kg.po
+Personal settings,105,kalulu ye fu kia lundombe,106,gnome-menus,po/kg.po
+Administration,109,ntambuisilu,110,gnome-menus,po/kg.po
+Change system-wide settings (affects all users),113,sikidisae lundombe luamvimba (mu besi lundombe zazo),114,gnome-menus,po/kg.po
+Personal preferences,117,kalulu ye fu kia lundombe,118,gnome-menus,po/kg.po
+Preferences,121,kalulu,122,gnome-menus,po/kg.po
+System,126,lundombe,127,gnome-menus,po/kg.po
+System settings,130,mu yidikae lundombe,131,gnome-menus,po/kg.po
+System Tools,134,binkonko bia lundombe,135,gnome-menus,po/kg.po
+System configuration and monitoring,138,muna sikidisa ye lunda lundombe,139,gnome-menus,po/kg.po
+Universal Access,142,lusadisu,143,gnome-menus,po/kg.po
+Universal Access Settings,146,yidikae lusadisu,147,gnome-menus,po/kg.po
+Accessories,150,bikonko,151,gnome-menus,po/kg.po
+Desktop accessories,154,binkonko bia kiseka,155,gnome-menus,po/kg.po
+Applications,158,bisala sala,159,gnome-menus,po/kg.po
+Personal preferences and administration settings,162,kalulu ye fu kia lundombe,163,gnome-menus,po/kg.po
+Applications that did not fit in other categories,166,bisala sala biansisi,167,gnome-menus,po/kg.po
+Other,170,mambu mankaka,171,gnome-menus,po/kg.po
+Menu Editor,174,lusobi Songilu,175,gnome-menus,po/kg.po
+Edit Menus,178,mu sobae Songilu,179,gnome-menus,po/kg.po
+_Applications:,182,bisala sala,183,gnome-menus,po/kg.po
+_Defaults,186,ma_Tuka,187,gnome-menus,po/kg.po
+_Menus:,190,_Songilu,191,gnome-menus,po/kg.po
+Simple Menu Editor %s,196,fi sobi a Songilu %s,197,gnome-menus,po/kg.po
+Name,201,nkumbu,202,gnome-menus,po/kg.po
+Show,205,songa,206,gnome-menus,po/kg.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,209,lubanga luaku ka yimonekene ko: fueti kio sasila mu /etc/passwd ye mu $HOME,212,gnome-menus,po/kg.po
+Update standard folders to current language?,19,nga uzolele bandula nta za gnome mu ndingakue?,20,xdg-user-dirs-gtk,po/kg.po
+You have logged in in a new language. You can automatically update the names of some standard folders in your home folder to match this language. The update would change the following folders:,23,"usunzumukini mu ndingaku, buna ulendele yuvula lundombe kavovanga ndinga ku.",24,xdg-user-dirs-gtk,po/kg.po
+_Keep Old Names,27,_lunda nkumbu zankulu,28,xdg-user-dirs-gtk,po/kg.po
+_Update Names,31,_bandula nkumbu,32,xdg-user-dirs-gtk,po/kg.po
+Current folder name,35,nkumbu a nkulu nta,36,xdg-user-dirs-gtk,po/kg.po
+New folder name,39,nkumbu a mpa,40,xdg-user-dirs-gtk,po/kg.po
+Note that existing content will not be moved.,43,toma zaya vo siwalunda bilala biaku kabinavunzuna ko,44,xdg-user-dirs-gtk,po/kg.po
+_Don't ask me this again,47,_kungiuvulani diaka ko,48,xdg-user-dirs-gtk,po/kg.po
+There was an error updating the folders,51,kilendi bandula nta zaku ko,52,xdg-user-dirs-gtk,po/kg.po
+Update common folders names to match current locale,55,bandula nta za lundombe mu ndingAku,56,xdg-user-dirs-gtk,po/kg.po
+User folders update,59,mu sekokae nta,60,xdg-user-dirs-gtk,po/kg.po

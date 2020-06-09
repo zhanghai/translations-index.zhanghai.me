@@ -1,0 +1,673 @@
+Show “_%s”,34,हय्यव “_%s”,35,eog,po/ks.po
+_Move on Toolbar,38,टुल्लबार पय्ठ पकनविव (_T),39,eog,po/ks.po
+Move the selected item on the toolbar,42,टुल्लबारस प्यटठ तुलमुत आईटम पकनाव,43,eog,po/ks.po
+_Remove from Toolbar,46,टुलबार पय्टठ हट्टाव,47,eog,po/ks.po
+Remove the selected item from the toolbar,50,टुल्लबारस प्यटठ तुलमुत आईटम हट्टाव,51,eog,po/ks.po
+_Delete Toolbar,54,टुलबार हट्टाव (_T),55,eog,po/ks.po
+Remove the selected toolbar,58,तुलमुत टुलबार हटाव,59,eog,po/ks.po
+Separator,62,अलग करन वोल,63,eog,po/ks.po
+Running in fullscreen mode,66,फुल सकरिनस मंज चलाव,67,eog,po/ks.po
+Browse and rotate images,99,छांड त गुमाव फोटो,100,eog,po/ks.po
+Image Viewer,103,फोटो हावनुक,104,eog,po/ks.po
+<b>Aperture Value:</b>,107,<b>एपरचर वेलयु</b>,108,eog,po/ks.po
+<b>Author:</b>,111,<b>लेखन वोल:</b>,112,eog,po/ks.po
+<b>Bytes:</b>,115,<b>बय्टस:</b>,116,eog,po/ks.po
+<b>Camera Model:</b>,119,<b>केमरा माडल:</b>,120,eog,po/ks.po
+<b>Copyright:</b>,123,<b>कापिरायट:</b>,124,eog,po/ks.po
+<b>Date/Time:</b>,127,<b>दोह/बज्जय:</b>,128,eog,po/ks.po
+<b>Description:</b>,131,<b>बारे मंज</b>,132,eog,po/ks.po
+<b>Details</b>,135,<b>बारे मंज ज्यादह्</b>,136,eog,po/ks.po
+<b>Exposure Time:</b>,139,<b>हावनुक वक्त:</b>,140,eog,po/ks.po
+<b>Flash:</b>,143,<b>फलेश:</b>,144,eog,po/ks.po
+<b>Focal Length:</b>,147,<b>फोकल खजर:</b>,148,eog,po/ks.po
+<b>Height:</b>,151,<b>थज्जर:</b>,152,eog,po/ks.po
+<b>ISO Speed Rating:</b>,155,<b>आई एस औ सपिड रेटिंग:</b>,156,eog,po/ks.po
+<b>Keywords:</b>,159,<b>किवोड:</b>,160,eog,po/ks.po
+<b>Location:</b>,163,<b>जाय:</b>,164,eog,po/ks.po
+<b>Metering Mode:</b>,167,<b>मिटरिंग मोड:</b>,168,eog,po/ks.po
+<b>Name:</b>,171,<b>नाव:</b>,172,eog,po/ks.po
+<b>Type:</b>,175,<b>टय्यप:</b>,176,eog,po/ks.po
+<b>Width:</b>,179,<b>खज्जर:</b>,180,eog,po/ks.po
+General,183,आम,184,eog,po/ks.po
+Image Properties,187,फोटो परापरटिज,188,eog,po/ks.po
+Metadata,191,मेटाढाटा,192,eog,po/ks.po
+_Next,195,दय्यम,196,eog,po/ks.po
+_Previous,199,पतिम,200,eog,po/ks.po
+<b>File Name Preview</b>,203,<b>फ़ाइल नाव गडनिक प्यटठ वुचिव</b>,204,eog,po/ks.po
+<b>File Path Specifications</b>,207,<b>फ़ाइल पाथ सपिसफेकशन</b>,208,eog,po/ks.po
+<b>Options</b>,211,<b>आपशन</b>,212,eog,po/ks.po
+<small><i><b>%f:</b> original filename</i></small>,216,<small><i><b>%f:</b>असली फायल ऩाव</i></small>,217,eog,po/ks.po
+<small><i><b>%n:</b> counter</i></small>,221,<small><i><b>%n:</b> कावटर</i></small>,222,eog,po/ks.po
+Choose a folder,225,फोल्डर तुल,226,eog,po/ks.po
+Destination folder:,229,तरावनुक फ़ोल्डर :,230,eog,po/ks.po
+Filename format:,235,फ़ाइलनाव फारमेट :,236,eog,po/ks.po
+Rename from:,239,नाव बदलयव:,240,eog,po/ks.po
+Replace spaces with underscores,243,खलली जाय बदलयव अंडरस्कोर सित,244,eog,po/ks.po
+Save As,247,सेव करिव,248,eog,po/ks.po
+Start counter at:,251,गजरावुन कर शरु:,252,eog,po/ks.po
+To:,255,तान्य:,256,eog,po/ks.po
+<b>Image Enhancements</b>,259,<b>फोटो बढावुन</b>,260,eog,po/ks.po
+<b>Image Zoom</b>,263,<b>फोटो ज़ूम</b>,264,eog,po/ks.po
+<b>Sequence</b>,267,<b>गिनती</b>,268,eog,po/ks.po
+<b>Transparent Parts</b>,271,<b>योर तोर वुच्छु हिस्स</b>,272,eog,po/ks.po
+As _background,275,बेकगरुंड (_b),276,eog,po/ks.po
+As check _pattern,279,चेक हिश शकल(_p),280,eog,po/ks.po
+As custom c_olor:,283,आम रंग (_o),284,eog,po/ks.po
+Color for Transparent Areas,287,योर तोर वुच्छु हिस्सन रंग,288,eog,po/ks.po
+E_xpand images to fit screen,291,फोटो करिव बोड सकरिनस मंज बराबर करन बापत्थ(_x),292,eog,po/ks.po
+Eye of GNOME Preferences,295,गनोम अच्छ परिफरिनसिज,296,eog,po/ks.po
+Image View,299,फोटो वुच्छुनक,300,eog,po/ks.po
+Plugins,303,पलिगन,304,eog,po/ks.po
+Slideshow,307,स्लाइड शो (_S),308,eog,po/ks.po
+Smooth images when _zoomed,311,ज़ूम फोटो कर समुथ(_z),312,eog,po/ks.po
+_Automatic orientation,315,आटोमोटिक सयोद गच्छय,316,eog,po/ks.po
+_Loop sequence,319,लूप गिनती (_L),320,eog,po/ks.po
+_Switch image after:,323,फोटो स्विच कर: (_S):,324,eog,po/ks.po
+seconds,327,सेकण्ड्स,328,eog,po/ks.po
+A value greater than 0 determines the seconds an image stays on screen until the next one is shown automatically. Zero disables the automatic browsing.,331,"0 से अधिक मूल्य यह निर्धारित करता है कि एक छवि इतने सेकण्डों तक स्क्रीन पर रहेगा, जब तक कि अगला स्वचालित रूप से दिखेगा. शून्य स्वचालित ब्राउज़िंग को अक्षम कर देता है.",334,eog,po/ks.po
+Allow zoom greater than 100% initially,344,प्रारंभ में ही 100% से अधिक ज़ूम स्वीकारें,345,eog,po/ks.po
+Delay in seconds until showing the next image,352,अगली छवि दिखाने से पहले सेकण्डों में देरी,353,eog,po/ks.po
+"Determines how transparency should be indicated. Valid values are CHECK_PATTERN, COLOR and NONE. If COLOR is choosen, then the trans_color key determines the used color value.",356,"निर्धारित करता है कि किस प्रकार पारदर्शिता दिखाई जाएगी. वैध मूल्य हैं CHECK_PATTERN, COLOR तथा NONE. यदि COLOR चुना जाता है, तब trans_color कुंजी निर्धारित करता है उपयोग में आने वाला रंग मूल्य.",360,eog,po/ks.po
+"If the transparency key has the value COLOR, then this key determines the color which is used for indicating transparency.",366,"यदि पारदर्शी कुंजी में रंग मूल्य है, तब यह कुंजी निर्धारित करती है कि कौन सा रंग पारदर्शिता को प्रदर्शित करने में उपयोग में लिया जाएगा.",369,eog,po/ks.po
+If this is set to FALSE small images will not be stretched to fit into the screen initially.,374,यदि इसे गलत नियत किया जाता है तो छवियों को स्क्रीन के अनुरूप फैलाया नहीं जाएगा.,377,eog,po/ks.po
+Interpolate Image,386,इंटरपोलेट छवि,387,eog,po/ks.po
+Loop through the image sequence,397,छवि अनुक्रम में लूप करें,398,eog,po/ks.po
+Show/hide the image collection pane scroll buttons.,405,चित्र संग्रह पट्टी दिखायें/छुपायें.,406,eog,po/ks.po
+Show/hide the image collection pane.,409,चित्र संग्रह पट्टी दिखायें/छुपायें.,410,eog,po/ks.po
+Show/hide the window side pane.,413,विंडो स्थिति-पट्टी छुपाएँ / दिखाएँ,414,eog,po/ks.po
+Show/hide the window statusbar.,417,विंडो स्थिति-पट्टी छुपाएँ / दिखाएँ,418,eog,po/ks.po
+Show/hide the window toolbar.,421,विंडो उपकरण-पट्टी छुपाएँ / दिखाएँ,422,eog,po/ks.po
+Transparency color,434,पारदर्शी रंग,435,eog,po/ks.po
+Transparency indicator,438,पारदर्शिता सूचक,439,eog,po/ks.po
+Whether or not the sequence of images should be shown in an endless loop.,442,एक अंतहीन लूप में छवियों के अनुक्रम दिखाया जाए या नहीं.,444,eog,po/ks.po
+Whether the image collection pane should be resizable or not.,447,चित्र संग्रह पट्टी दिखायें/छुपायें.,448,eog,po/ks.po
+Whether the image should be interpolated on zoom or not. This leads to better quality but is somewhat slower than non interpolated images.,451,क्या छवियाँ ज़ूम करने पर इंटरपोलेट की जाएँ या नहीं. इससे अच्छी विशेषता प्राप्त होगी परंतु यह नॉन इंटरपोलेटेड छवियों से कुछ धीमा होगा.,454,eog,po/ks.po
+All Files,486,सभी फ़ाइलें,487,eog,po/ks.po
+All Images,490,सभी छवियाँ,491,eog,po/ks.po
+Load Image,510,छवि लोड करें,511,eog,po/ks.po
+Save Image,514,छवि सहेजें,515,eog,po/ks.po
+Open Folder,518,फ़ोल्डर खोलें,519,eog,po/ks.po
+Transformation on unloaded image.,523,अनलोडेड विंब में बदलें,524,eog,po/ks.po
+Transformation failed.,528,अनलोडेड विंब में बदलें,529,eog,po/ks.po
+EXIF not supported for this file format.,533,EXIF इस फाइल प्रारूप के लिये समर्थित नहीं है.,534,eog,po/ks.po
+No image loaded.,543,कोई छवि लोडेड नहीं.,544,eog,po/ks.po
+Temporary file creation failed.,548,अस्थाई फ़ाइल सृजन असफ़ल.,549,eog,po/ks.po
+Couldn't create temporary file for saving: %s,553,%s को सहेजने हेतु अस्थाई फ़ाइल तैयार नहीं कर सका,554,eog,po/ks.po
+Couldn't allocate memory for loading JPEG file,558,जेपीईजी फ़ाइल को लोड करने हेतु मेमोरी बांटी नहीं जा सकती,559,eog,po/ks.po
+Camera,562,कैमरा,563,eog,po/ks.po
+Image Data,566,छवि डॉटा,567,eog,po/ks.po
+Image Taking Conditions,570,छवि लेने की परिस्थितियाँ,571,eog,po/ks.po
+Maker Note,574,सृजकवाले की टिप्पणी,575,eog,po/ks.po
+Other,578,अन्य,579,eog,po/ks.po
+XMP IPTC,586,IPTC,587,eog,po/ks.po
+XMP Other,594,अन्य,595,eog,po/ks.po
+Tag,598,टैग,599,eog,po/ks.po
+Value,603,मान,604,eog,po/ks.po
+Image Settings,635,फोटो सेटिंग(_I),636,eog,po/ks.po
+Image,639,फोटो (_I),640,eog,po/ks.po
+Page Setup,647,पेज सेटयप,648,eog,po/ks.po
+Position,655,जाय प्य्यटठ,656,eog,po/ks.po
+_Left:,659,खोवुर,660,eog,po/ks.po
+_Right:,663,दच्छुन: (_R),664,eog,po/ks.po
+_Top:,667,हरयकन: (_T),668,eog,po/ks.po
+_Bottom:,671,बोनकंय: (_B),672,eog,po/ks.po
+C_enter:,675,मंजस: (_e),676,eog,po/ks.po
+None,679,काह न,680,eog,po/ks.po
+Horizontal,683,सयोद,684,eog,po/ks.po
+Vertical,687,खड़ा,688,eog,po/ks.po
+Both,691,दोनवय,692,eog,po/ks.po
+Size,695,नाप,696,eog,po/ks.po
+_Width:,699,खज्जर,700,eog,po/ks.po
+_Height:,703,जेटठर,704,eog,po/ks.po
+_Scaling:,707,सकेलिंग,708,eog,po/ks.po
+_Unit:,711,युनिट,712,eog,po/ks.po
+Millimeters,715,मिलिमिटर,716,eog,po/ks.po
+Inches,719,इंच,720,eog,po/ks.po
+Preview,723,छप्पावन बरोटठ वुच्छुन,724,eog,po/ks.po
+as is,731,युथ छु,732,eog,po/ks.po
+Taken on,735,यम विज निमुत,736,eog,po/ks.po
+At least two file names are equal.,740,कम से कम छह् जअ फाइल नाव बराबर,741,eog,po/ks.po
+Could not display help for Eye of GNOME,744,गनोम मदद हकुस न हवित,745,eog,po/ks.po
+ (invalid Unicode),748,(गलत यूनिकोड),749,eog,po/ks.po
+"Open with \""%s\""",753,यथ सित खोलिव '%s',754,eog,po/ks.po
+"Use \""%s\"" to open the selected image",758,"य: \""%s\"" करिव ईसतेमाल फोटो खोलनस मंज",759,eog,po/ks.po
+"Saving image \""%s\"" (%u/%u)",768,"फोटो सेव करिव \""%s\"" (%u/%u)",769,eog,po/ks.po
+"Loading image \""%s\""",773,फोटो लोड%s,774,eog,po/ks.po
+Error printing file:\n%s,778,छप्पवय्यन मंज गलती:\n%s,781,eog,po/ks.po
+Toolbar Editor,786,टुल्लबार एडिट्टर(_T),787,eog,po/ks.po
+_Reset to Default,790,डिफालट बन-अयुन,791,eog,po/ks.po
+"You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.",822,"You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA",826,eog,po/ks.po
+Eye of GNOME,832,गनोमच अच्छ,833,eog,po/ks.po
+The GNOME image viewer.,836,गनोम का छवि प्रदर्शक तथा केटलॉग बनाने का प्रोग्रामगनोमच फोटो वुच्छनुक,837,eog,po/ks.po
+"Are you sure you want to move\n\""%s\"" to the trash?",841,"क्या चह्\n\""%s\"" छुका यच्छान यह् तरावोन टरेशस मंज?",844,eog,po/ks.po
+Are you sure you want to move\nthe selected image to the trash?,850,चह् छुका यच्छान यम फोटो तरावोक\nटरेशस मंज ?,856,eog,po/ks.po
+Are you sure you want to move\nthe selected image to the trash?,850,चह् छुका यच्छान यम %d फोटो तरावोक\nटरेशस मंज ?,859,eog,po/ks.po
+Move to Trash,864,टरेश मंज तरवयुक,865,eog,po/ks.po
+Couldn't access trash.,869,टरेश हयोकम न मिलितह,870,eog,po/ks.po
+Error on deleting image %s,874,यह फोटो %s मिटावनस मंज छिह् गलती,875,eog,po/ks.po
+_File,878,फ़ाइल (_F),879,eog,po/ks.po
+_Edit,882,संपादन (_E),883,eog,po/ks.po
+_View,886,वुछिव (_V),887,eog,po/ks.po
+_Image,890,फोटो (_I),891,eog,po/ks.po
+_Go,894,गच्छिव (_G),895,eog,po/ks.po
+_Tools,898,टुल्स (_T),899,eog,po/ks.po
+_Help,902,मदद (_H),903,eog,po/ks.po
+_Open...,906,खुलिव (_O) ...,907,eog,po/ks.po
+Open a file,910,आक्ख फायल खुलिव,911,eog,po/ks.po
+_Close,914,बंद करिव (_C),915,eog,po/ks.po
+Close window,918,विंडो करिव बंद,919,eog,po/ks.po
+T_oolbar,922, टुल्लबार (_o),923,eog,po/ks.po
+Edit the application toolbar,926,एपलिकेशन टुल्लबार कर सा एडिट,927,eog,po/ks.po
+Prefere_nces,931, फरिफरसिंस(_n),932,eog,po/ks.po
+Preferences for Eye of GNOME,935,ग्नोम की आँख हेतु वरीयताएँगनोम अच्छच फरिफरसिंस,936,eog,po/ks.po
+_Contents,939,आथ मंज (_C),940,eog,po/ks.po
+Help on this application,943,यथ्थ एपलिकेशनच मदद,944,eog,po/ks.po
+_About,947,बारे मंज (_A),948,eog,po/ks.po
+About this application,951,यथ्थ एपलिकेशन बारे मंज,952,eog,po/ks.po
+_Toolbar,955,टुल्लबार (_T),956,eog,po/ks.po
+Changes the visibility of the toolbar in the current window,959,मौजूदा विंडो में उपकरण पट्टी की दृश्यता बदलेंयथ्थ विंडो मंज टुल्लबार वुच्छिनुक गाश बदलाव,960,eog,po/ks.po
+_Statusbar,964,स्टेटस बार (_S),965,eog,po/ks.po
+Changes the visibility of the statusbar in the current window,968,मौजूदा विंडो में प्रस्थिति पट्टी की दृश्यता बदलेंयथ्थ विंडो मंज सटेटसबार वुच्छिनुक गाश बदलाव,969,eog,po/ks.po
+_Image Collection,973,फोटो जमगाह करिव(_I),974,eog,po/ks.po
+Changes the visibility of the image collection pane in the current window,977,यथ्थ विंडो मंज फोटो जमगाह करनुक पेन वुच्छिनुक गाश बदलाव,979,eog,po/ks.po
+Side _Pane,982,दंदिरुक पेन,983,eog,po/ks.po
+Changes the visibility of the side pane in the current window,986,यथ्थ विंडो मंज दंदिरुक पेन वुच्छिनुक गाश बदलाव,987,eog,po/ks.po
+_Save,991,सेव (_S),992,eog,po/ks.po
+Save changes in currently selected images,995,यथ्थ फोटो मंज बदलावस करिव सेव,996,eog,po/ks.po
+Open _with,999,याथ सित्त खुलिव (_w),1000,eog,po/ks.po
+Open the selected image with a different application,1003,चर्र मुत फोटो खुलिव दय्मस एपलिकेशन मंज,1004,eog,po/ks.po
+Save _As...,1007,सेव करिव... (_A),1008,eog,po/ks.po
+Save the selected images with a different name,1011,तुलिमत फोटो कर सेव दयमी नाव सित्त,1012,eog,po/ks.po
+Page Set_up...,1015,पेज सेट्टप,1016,eog,po/ks.po
+Setup the page properties for printing,1019,पेज परापरटिज लेख छप्पवय्यव खत्तर,1020,eog,po/ks.po
+_Print...,1023,छप्पवय्यव...,1024,eog,po/ks.po
+Print the selected image,1027,यह फोटो छप्पवय्यव,1028,eog,po/ks.po
+Prope_rties,1031,परापरटिज (_r),1032,eog,po/ks.po
+Show the properties and metadata of the selected image,1035,फोटो हुन्द परापरटिज त मेटाडाटा हय्यव,1036,eog,po/ks.po
+_Undo,1039,फेरिव (_U),1040,eog,po/ks.po
+Undo the last change in the image,1043,पतिम बदलाव करिव वापस,1044,eog,po/ks.po
+Flip _Horizontal,1047,आड़ा पलटें (_H),1048,eog,po/ks.po
+Mirror the image horizontally,1051,सेदि फेरुन,1052,eog,po/ks.po
+Flip _Vertical,1055,खडा फेरिव (_V),1056,eog,po/ks.po
+Mirror the image vertically,1059,सय्यद हयुन शिशस मंज,1060,eog,po/ks.po
+_Rotate Clockwise,1063,घरयह् तरफय गुम-अयुन (_R),1064,eog,po/ks.po
+Rotate the image 90 degrees to the right,1067,फोटो गुम-अयुन दचछुन 90 डिगरि,1068,eog,po/ks.po
+Rotate Counterc_lockwise,1071,घरयह् विपरित गुम-अयुन(_l),1072,eog,po/ks.po
+Rotate the image 90 degrees to the left,1075,फोटो गुम-अयुन खोवुर 90 डिगरि,1076,eog,po/ks.po
+Set As _Wallpaper,1079,वालपेपर बनाविव (_W),1080,eog,po/ks.po
+Set the selected image as the desktop wallpaper,1083,तुलमिच फोटो बनय्व डेकस टाप वालपेपर,1084,eog,po/ks.po
+Move to _Trash,1087,टरेश मंज तरिव (_T),1088,eog,po/ks.po
+Move the selected image to the trash folder,1091,तुलमित फोटो तरिव टरेश मंज,1092,eog,po/ks.po
+_Zoom In,1095,बोड़ आकार (_Z),1096,eog,po/ks.po
+Enlarge the image,1099,बोढ करिव,1100,eog,po/ks.po
+Zoom _Out,1103,लकुट आकार (_O),1104,eog,po/ks.po
+Shrink the image,1107,फोटो कर लकुट,1108,eog,po/ks.po
+_Normal Size,1111,नारमल आकार(_N),1112,eog,po/ks.po
+Show the image at its normal size,1115,फोटो हय्यव नारमल आकारस मंज,1116,eog,po/ks.po
+Best _Fit,1119,असल बराबर (_F),1120,eog,po/ks.po
+Fit the image to the window,1123,फोटो खुलिव नविस विंडो मंज,1124,eog,po/ks.po
+_Full Screen,1127,फूल स्क्रीन (_F),1128,eog,po/ks.po
+Show the current image in fullscreen mode,1131,यह फोटो हय्यव फूल स्क्रीन मंज,1132,eog,po/ks.po
+_Previous Image,1135,पतिम फोटो (_P),1136,eog,po/ks.po
+Go to the previous image of the collection,1139,जमाह फोटवन मंज गस पतिमस पय्टठ,1140,eog,po/ks.po
+_Next Image,1143,दय्यम फोटो (_N),1144,eog,po/ks.po
+Go to the next image of the collection,1147,जमाह फोटवन मंज गस दयमिस पय्टठ,1148,eog,po/ks.po
+_First Image,1151,गडनियुक फोटो (_F),1152,eog,po/ks.po
+Go to the first image of the collection,1155,जमाह फोटवन मंज गस गोडनिकस पय्टठ,1156,eog,po/ks.po
+_Last Image,1159,अंदिम फोटो (_L),1160,eog,po/ks.po
+Go to the last image of the collection,1163,जमाह फोटवन मंज गस अंदस पय्टठ,1164,eog,po/ks.po
+_Slideshow,1167,स्लाइड शो (_S),1168,eog,po/ks.po
+Start a slideshow view of the images,1171,फोटोवंन हुंद स्लाइड शो करिव शरु,1172,eog,po/ks.po
+Previous,1175,पतिम,1176,eog,po/ks.po
+Next,1179,दयम,1180,eog,po/ks.po
+Right,1183,दचछुन,1184,eog,po/ks.po
+Left,1187,खव्वुर,1188,eog,po/ks.po
+In,1191,अन्दर,1192,eog,po/ks.po
+Out,1195,नयबर,1196,eog,po/ks.po
+Normal,1199,बराबर,1200,eog,po/ks.po
+Fit,1203,बराबर,1204,eog,po/ks.po
+Collection,1207,संबरिव (_I),1208,eog,po/ks.po
+Plugin,1211,पल्गिन,1212,eog,po/ks.po
+Enabled,1215,चल्वयव,1216,eog,po/ks.po
+C_onfigure,1219,कानफिगर,1220,eog,po/ks.po
+A_ctivate,1223,चल्वयव,1224,eog,po/ks.po
+Ac_tivate All,1227,सारि चल्वयव,1228,eog,po/ks.po
+_Deactivate All,1231,सारि करिव बंद,1232,eog,po/ks.po
+Active _Plugins:,1235,चलविन पलगगिन,1236,eog,po/ks.po
+_About Plugin,1239,आथ बारे मंज (_A),1240,eog,po/ks.po
+C_onfigure Plugin,1243,पलगिन करिव कानफिगर,1244,eog,po/ks.po
+Open in fullscreen mode,1247,यह खुलिव फुल सकरिन मोडस मंज,1248,eog,po/ks.po
+Disable image collection,1251,फोटो जमाह करुन करिव बंद(_I),1252,eog,po/ks.po
+Open in slide show mode,1255,यह् खुलिव सल्यड शोव मंज,1256,eog,po/ks.po
+[FILE...],1263,[फाइल...],1264,eog,po/ks.po
+Eye of GNOME Image Viewer,1267,गनोम अच्छ फोटो वुच्छन खत्तर,1268,eog,po/ks.po
+File corrupted.,27,खराब फाइल,28,evince,po/ks.po
+No images found in archive %s,32,कांह् फोटू छुंन: आरकाविव मंज %s,33,evince,po/ks.po
+Comic Books,36,कॉमिक किताब,37,evince,po/ks.po
+Djvu Documents,47,डीजावीयु कागजात,48,evince,po/ks.po
+File not available,52,फाइल मेल न,53,evince,po/ks.po
+DVI document has incorrect format,57,डीवी आई कागजातस  छु गलत फारमेट,58,evince,po/ks.po
+DVI Documents,61,डीवी आई कागजात,62,evince,po/ks.po
+Yes,66,आ,67,evince,po/ks.po
+No,71,न,72,evince,po/ks.po
+Type 1,75,टय्प 1,76,evince,po/ks.po
+Type 1C,79,टय्प1C,80,evince,po/ks.po
+Type 3,83,टय्प 3,84,evince,po/ks.po
+TrueType,87,टरुटय्प,88,evince,po/ks.po
+Type 1 (CID),91,टय्प 1 (CID),92,evince,po/ks.po
+Type 1C (CID),95,टय्प 1C (CID),96,evince,po/ks.po
+TrueType (CID),99,टरुटय्प (CID),100,evince,po/ks.po
+Unknown font type,103,खबरकुस फंट टय्प,104,evince,po/ks.po
+No name,107,काह नाव न,108,evince,po/ks.po
+Embedded subset,111,एंबेडेड हिस्स,112,evince,po/ks.po
+Embedded,115,एंबेडेड,116,evince,po/ks.po
+Not embedded,119,एंबेडेड छुन्न,120,evince,po/ks.po
+PDF Documents,123,पीडीएफ़ कागजात,124,evince,po/ks.po
+Impress Slides,140,इंप्रेस स्लाइड,141,evince,po/ks.po
+No error,144,काह गलती न,145,evince,po/ks.po
+Not enough memory,148,पूर्र मेमरी न,149,evince,po/ks.po
+Cannot find zip signature,152,जिप सीगनेचर हयोक न मिलित,153,evince,po/ks.po
+Invalid zip file,156,गलत जिप फाइल,157,evince,po/ks.po
+Cannot read data from file,170,यम फाइल पयेट्ठ हयको न परितथ,171,evince,po/ks.po
+Cannot find file in the zip archive,174,जीप आरकयिव मंज हयको न फाइल छंडित,175,evince,po/ks.po
+PostScript Documents,193,पोस्टस्क्रिप्ट कागजात,194,evince,po/ks.po
+Couldn't save attachment “%s”: %s,198,एटेचमेंट हयको न सेव करिथ “%s”: %s,199,evince,po/ks.po
+Couldn't open attachment “%s”: %s,203,एटेचमेंट हयको न खुलित्थ “%s”: %s,204,evince,po/ks.po
+Couldn't open attachment “%s”,208,एटेचमेंट हयको न खुलित्थ “%s”,209,evince,po/ks.po
+Unknown MIME Type,218,पत्हयन्न कुस एम आई एम ई टायप,219,evince,po/ks.po
+All Documents,222,सर्री कागजात,223,evince,po/ks.po
+All Files,226,सर्री फ़ाइलें,227,evince,po/ks.po
+_Password:,251,पासवर्ड: (_P),252,evince,po/ks.po
+Show “_%s”,276,हय्यव “_%s”,277,evince,po/ks.po
+_Move on Toolbar,280,टुल्लबारस पय्टठ गस(_M),281,evince,po/ks.po
+Move the selected item on the toolbar,284,तुलमुत आईटम पकन्य्यव टुल्लबारस पय्ठ,285,evince,po/ks.po
+_Remove from Toolbar,288,टुल्लबारस पय्ठ हटाव(_R),289,evince,po/ks.po
+Remove the selected item from the toolbar,292,तुलमुत आईटम हट्य्यव टुल्लबारस पय्ठ,293,evince,po/ks.po
+_Delete Toolbar,296,टुल्लबारस हट्टयव(_D),297,evince,po/ks.po
+Remove the selected toolbar,300,चयनित उपकरण-पट्टी हटायेंतुलमुत टुल्लबारस हट्टसव,301,evince,po/ks.po
+Separator,304,अलग कर्रन वोल,305,evince,po/ks.po
+Best Fit,314,सर्वोत्तम अनुरूप,315,evince,po/ks.po
+Fit Page Width,318,अनुरूप पृष्ठ चौड़ाई,319,evince,po/ks.po
+Document Viewer,366,कागजात वुछनुक,367,evince,po/ks.po
+View multipage documents,370,वारयाह वरख कागजात,371,evince,po/ks.po
+Remember password for this session,379,यम सशेनुक पासवर्ड: थय्यव याद,380,evince,po/ks.po
+Save password in keyring,383,कीरिंग मंज लग्गयव पासवर्ड:,384,evince,po/ks.po
+<b>Author:</b>,387,<b> लेखनवोल</b>,388,evince,po/ks.po
+<b>Created:</b>,391,<b> बनोव :</b>,392,evince,po/ks.po
+<b>Creator:</b>,395,<b> बनावन वोल:</b>,396,evince,po/ks.po
+<b>Format:</b>,399,<b> फारमेट:</b>,400,evince,po/ks.po
+<b>Keywords:</b>,403,<b> की-वर्डस:</b>,404,evince,po/ks.po
+<b>Modified:</b>,407,<b> बदलोव:</b>,408,evince,po/ks.po
+<b>Number of Pages:</b>,411,<b> कच वरख:</b>,412,evince,po/ks.po
+<b>Optimized:</b>,415,<b> ऑप्टीमाइज़्ड:</b>,416,evince,po/ks.po
+<b>Producer:</b>,424,<b> बनावन वोल:</b>,425,evince,po/ks.po
+<b>Security:</b>,428,<b> र्रच्छ:</b>,429,evince,po/ks.po
+<b>Subject:</b>,432,<b> सब्बजटक:</b>,433,evince,po/ks.po
+<b>Title:</b>,436,<b> टायटल</b>,437,evince,po/ks.po
+Override document restrictions,440,कागजात लिखव बिना रुकावटि,441,evince,po/ks.po
+"Override document restrictions, like restriction to copy or to print.",444,कागजात लिखव बिना रुकावटि यिथकंय कापी करुन या परंट,445,evince,po/ks.po
+Document,448,कागजात,449,evince,po/ks.po
+None,452,कय्ह न,453,evince,po/ks.po
+%.0f x %.0f mm,470,%.0f x %.0f एमएम,471,evince,po/ks.po
+%.2f x %.2f inch,475,%.2f x %.2f ईंच,476,evince,po/ks.po
+"%s, Portrait (%s)",483,"%s, पौट्टरैट (%s)",484,evince,po/ks.po
+"%s, Landscape (%s)",491,"%s, लैंडस्केप (%s)",492,evince,po/ks.po
+%.2f x %.2f in,497,%.2f x %.2f मंज,498,evince,po/ks.po
+Search string,501,स्ट्रिंग छंडिव,502,evince,po/ks.po
+The name of the string to be found,505,छांडनुक स्ट्रिंग नाव,506,evince,po/ks.po
+Case sensitive,509,केस सेंसिटिव,510,evince,po/ks.po
+TRUE for a case sensitive search,513,सही आक्ह केस सेंसेटिव छांडन खत्तर,514,evince,po/ks.po
+Highlight color,517,हायलायट रंग,518,evince,po/ks.po
+Color of highlight for all matches,521,सारनी मैलन वलय हुंद रंग,522,evince,po/ks.po
+Current color,525,य: रंग,526,evince,po/ks.po
+Color of highlight for the current match,529,मौजूदा मैच के लिये हाइलाइट का रंगमैल खयन्न वाल्यन हुंद हायलायट रंग,530,evince,po/ks.po
+Find:,533,छंडिव:,534,evince,po/ks.po
+Find Previous,537,पततिम छंडिव,538,evince,po/ks.po
+Find Next,546,दय्यम छंडिव,547,evince,po/ks.po
+Find next occurrence of the search string,550,बेय्य छांडव स्टरिंग,551,evince,po/ks.po
+C_ase Sensitive,554,केस सेंसेटिव  (_a),555,evince,po/ks.po
+(%d of %d),574,(%d उक %d),575,evince,po/ks.po
+of %d,579,%d मंज,580,evince,po/ks.po
+Password required,583,पासवड जरुरत,584,evince,po/ks.po
+Enter password,593,पासवड दियव,594,evince,po/ks.po
+Password for document %s,598,%s कागजातन खत्तर पासवड,599,evince,po/ks.po
+Incorrect password,602,गलत पासवड,603,evince,po/ks.po
+This document is locked and can only be read by entering the correct password.,606,"कागजात छि बंद, त हयको खुलित सिरिफ पासवड तर्वित हयको वुचछित।",609,evince,po/ks.po
+_Unlock Document,612,कागजात खोल (_U),613,evince,po/ks.po
+Properties,616,गुण,617,evince,po/ks.po
+General,620,आम,621,evince,po/ks.po
+Fonts,624,फ़ॉन्ट्स,625,evince,po/ks.po
+Font,628,फ़ॉन्ट,629,evince,po/ks.po
+Gathering font information... %3d%%,633,फांटस बारे मंज छु जमा करान... %3d%%,634,evince,po/ks.po
+Attachments,637,सयीत्त सामान,638,evince,po/ks.po
+Loading...,641,लोड छु गसान...,642,evince,po/ks.po
+Print...,645,छप्पवयु...,646,evince,po/ks.po
+Index,649,निशान थवन वरुक,650,evince,po/ks.po
+Thumbnails,653,निशान,654,evince,po/ks.po
+Scroll Up,657,स्क्रॉल हयोर,658,evince,po/ks.po
+Scroll Down,661,स्क्रॉल बोन,662,evince,po/ks.po
+Scroll View Up,665,स्क्रॉल करिव हयोर,666,evince,po/ks.po
+Scroll View Down,669,स्क्रॉल करिव बोन,670,evince,po/ks.po
+Document View,673,कागजात वुच्छिव,674,evince,po/ks.po
+Go to first page,677,गोडनिकस वर्कस गच्छिव,678,evince,po/ks.po
+Go to previous page,681,पत्तिमस वर्कस गच्छिव,682,evince,po/ks.po
+Go to next page,685,दय्यमिस वर्कस गसिव,686,evince,po/ks.po
+Go to last page,689,गच्छिव अखिर वरुक,690,evince,po/ks.po
+Go to page,693,यथ वरकस पयठ गच्छिव,694,evince,po/ks.po
+Find,697,छांड,698,evince,po/ks.po
+Go to page %s,702,%s वरकस पय्ठ गच्छ,703,evince,po/ks.po
+Go to %s on file “%s”,707,%s फायल पयठ गच्छिव “%s”,708,evince,po/ks.po
+Go to file “%s”,712,“%s” फाइल पयठ गाच्छ,713,evince,po/ks.po
+Launch %s,717,%s लांच करिव,718,evince,po/ks.po
+End of presentation. Press Escape to exit.,721,हावुन मकलयोव। एसकेप दबाव बंद करन खत्तर।,722,evince,po/ks.po
+%d found on this page,734,%d यथ वर्रकस पय्यठ मेलि,736,evince,po/ks.po
+%d found on this page,734,%d यथ वर्रकस पय्यठ मेलि,737,evince,po/ks.po
+%3d%% remaining to search,741,%3d%% बचेमित छ: छांडन खत्तर,742,evince,po/ks.po
+Page %s - %s,746,वरुख %s - %s,747,evince,po/ks.po
+Unable to open document,759,कागजात हयको न खुलित,760,evince,po/ks.po
+Open Document,763,कागजात खुलिव,764,evince,po/ks.po
+Couldn't create symlink “%s”: %s,768,सिमबालिक लिंक हयक न बन्यथ “%s”: %s,769,evince,po/ks.po
+Save a Copy,782,एक प्रतिलिपि सहेजेंआक्ख नकल कर सा सेव,783,evince,po/ks.po
+Printing is not supported on this printer.,791,यथ पर्टंर पय्टठ हयको न पर्टं करिथ,792,evince,po/ks.po
+Print,795,छपाई,796,evince,po/ks.po
+Toolbar Editor,799,टुलबार संपादक,800,evince,po/ks.po
+Evince,844,एवींस,845,evince,po/ks.po
+_File,857,फ़ाइल (_F),858,evince,po/ks.po
+_Edit,861,संपादन (_E),862,evince,po/ks.po
+_View,865,वुच्छिव (_V),866,evince,po/ks.po
+_Go,869,गच्छिव (_G),870,evince,po/ks.po
+_Help,873,मदद (_H),874,evince,po/ks.po
+_Open...,879,खूलिव (_O)...,880,evince,po/ks.po
+Open an existing document,883,मौजूद कागजात खोल,884,evince,po/ks.po
+_Save a Copy...,897,आक्ख नकल कर सेव...(_S),898,evince,po/ks.po
+Save a copy of the current document,901,कागजातन हंज नकल कर सेव,902,evince,po/ks.po
+Setup the page settings for printing,910,छप्पावन खत्तर कर पेज खेटिंग,911,evince,po/ks.po
+_Print...,914,छप्पाव (_P)...,915,evince,po/ks.po
+Print this document,918,कागजात छप्पवय्व,919,evince,po/ks.po
+P_roperties,922,गुण (_r),923,evince,po/ks.po
+Select _All,926,सयरि तुलिव (_A),927,evince,po/ks.po
+_Find...,930,छंडिव (_F)...,931,evince,po/ks.po
+Find a word or phrase in the document,934,कागजातन मंज छंडिव शब्द या मुहावरा,935,evince,po/ks.po
+Find Ne_xt,938,दय्यम छंडिव (_x),939,evince,po/ks.po
+Find Pre_vious,942,पतिम छंडिव (_v),943,evince,po/ks.po
+T_oolbar,946,टूलबार (_o),947,evince,po/ks.po
+Rotate _Left,950,खोवुर घुमाव (_L),951,evince,po/ks.po
+Rotate _Right,954,दच्छुन घुमाव (_R),955,evince,po/ks.po
+Enlarge the document,958,कागजात बढाव,959,evince,po/ks.po
+Shrink the document,962,कागजात करिव कम,963,evince,po/ks.po
+_Reload,966,बय्य लोड करिव (_R),967,evince,po/ks.po
+Reload the document,970,दस्तावेज पुनः लोड़ करोकागजात करिव बय्य लौड,971,evince,po/ks.po
+Auto_scroll,974,आटो सकराल,975,evince,po/ks.po
+_Previous Page,979,पतिम पेज (_P),980,evince,po/ks.po
+Go to the previous page,983,पतिम पेजस पसठ गसव,984,evince,po/ks.po
+_Next Page,987,बरुठिम पेज(_N),988,evince,po/ks.po
+Go to the next page,991,दय्यमस पेजस पयट्ठ,992,evince,po/ks.po
+_First Page,995,गडनियुक पेज (_F),996,evince,po/ks.po
+Go to the first page,999,गयोढनिकस पेजस गसिव,1000,evince,po/ks.po
+_Last Page,1003,आखिर पेज(_L),1004,evince,po/ks.po
+Go to the last page,1007,आखरिक पेजस गास,1008,evince,po/ks.po
+_Contents,1012,मंज (_C),1013,evince,po/ks.po
+_About,1016,बारे मंज (_A),1017,evince,po/ks.po
+Leave Fullscreen,1021,फुलस्क्रीन तराव,1022,evince,po/ks.po
+Leave fullscreen mode,1025,फुलस्क्रीन मोड तराव,1026,evince,po/ks.po
+_Toolbar,1040,टुल्लबार (_T),1041,evince,po/ks.po
+Show or hide the toolbar,1044,टुल्लबार हयव या छुप्विव,1045,evince,po/ks.po
+Side _Pane,1048,दंदर (_P),1049,evince,po/ks.po
+Show or hide the side pane,1052,दंदर हयव या छुप्विव,1053,evince,po/ks.po
+_Continuous,1056,लगातार (_C),1057,evince,po/ks.po
+Show the entire document,1060,पूर कागजात हयव,1061,evince,po/ks.po
+_Dual,1064,दयम (_D),1065,evince,po/ks.po
+Show two pages at once,1068,अके साथ ह्यव ज़ पेज,1069,evince,po/ks.po
+_Fullscreen,1072,फुलस्क्रीन (_F),1073,evince,po/ks.po
+Expand the window to fill the screen,1076,विंडो बडाव स्क्रीन भरन खत्तर,1077,evince,po/ks.po
+Run document as a presentation,1085,कागजात चल्लयव हावून खत्तर।,1086,evince,po/ks.po
+_Best Fit,1089,सारि खोत बराबर (_B),1090,evince,po/ks.po
+Make the current document fill the window,1093,यम कागज सित्त बरिव विंडो,1094,evince,po/ks.po
+Fit Page _Width,1097,कागज खज्जर करिव बराबर (_W),1098,evince,po/ks.po
+Make the current document fill the window width,1101,यम कागज्ज सित बरिव विंडो,1102,evince,po/ks.po
+_Open Link,1106,लिंक खुलिव (_O),1107,evince,po/ks.po
+_Go To,1110,गच्छिव (_G),1111,evince,po/ks.po
+Open in New _Window,1114,नय विंडो मंज खुलिव,1115,evince,po/ks.po
+_Copy Link Address,1118,लिंकस करिव नकल (_C),1119,evince,po/ks.po
+Copy _Image,1127,ईमेज करिव नकल,1128,evince,po/ks.po
+Page,1131,कागज,1132,evince,po/ks.po
+Select Page,1135,पेज तुलिव,1136,evince,po/ks.po
+Zoom,1139,ज़ूम,1140,evince,po/ks.po
+Adjust the zoom level,1143,जूम लेबल करिव बराबर,1144,evince,po/ks.po
+Navigation,1147,नचव,1148,evince,po/ks.po
+Back,1151,पात्थ,1152,evince,po/ks.po
+Move across visited pages,1156,वुछमित पेज मंज पकिव,1157,evince,po/ks.po
+Previous,1161,पतिम,1162,evince,po/ks.po
+Next,1166,बरूठिम,1167,evince,po/ks.po
+Zoom In,1171,ज़ूम इन,1172,evince,po/ks.po
+Zoom Out,1176,ज़ूम आउट,1177,evince,po/ks.po
+Fit Width,1181,खजर कर बराबर,1182,evince,po/ks.po
+Couldn't find appropriate format to save image,1190,ईमेज सेव करनुक फारमेट हयोकस न कमपलिट करिथ।,1191,evince,po/ks.po
+Unable to open attachment,1204,कागजात आय न खोलन्य,1205,evince,po/ks.po
+The attachment could not be saved.,1208,एटेचमेंट हयकव न सेव करिथ।,1209,evince,po/ks.po
+%s - Password Required,1218,%s - पास्वड जरूरत,1219,evince,po/ks.po
+By extension,1222,ऐक्सटनशन स्यीत,1223,evince,po/ks.po
+The page of the document to display.,1226,हावन खत्तर कागजातन हुंद पेज,1227,evince,po/ks.po
+PAGE,1230,वरूकख,1231,evince,po/ks.po
+Run evince in fullscreen mode,1234,पूर्ण स्क्रीन मोड में एवींस चलायेंएवींस चल्लयव सर्यस्यह् स्क्रीनस।,1235,evince,po/ks.po
+Run evince in presentation mode,1238,एवींस चल्लयव हावून खत्तर।,1239,evince,po/ks.po
+Run evince as a previewer,1242,एवींस चल्लयव वुछन् खत्तर।,1243,evince,po/ks.po
+STRING,1251,सटर्रिंग,1252,evince,po/ks.po
+[FILE...],1255,[फाइल...],1256,evince,po/ks.po
+GNOME Document Viewer,1259,गनोम कागजात वुच्छुनूक,1260,evince,po/ks.po
+Evince Document Viewer,1263,एवींस कागजात वुछिव।,1264,evince,po/ks.po
+"Boolean options available, true enables thumbnailing and false disables the creation of new thumbnails",1267,बूलियन छु सही थंबनेलन ठिक करान त: गल्त थंबनेलन बंद करान।,1270,evince,po/ks.po
+Enable thumbnailing of PDF Documents,1273,पीडीएफयूक थंबनेल चालू कर।,1274,evince,po/ks.po
+Thumbnail command for PDF Documents,1277,पीडीएफ कागज़ात खत्तर निशान कमांड।,1278,evince,po/ks.po
+Valid command plus arguments for the PDF Document thumbnailer. See nautilus thumbnailer documentation for more information.,1281,कमांड त दलील पीडीएफ कागज़ात निशान खत्तर।  ज्यादह् दलिलखत्तर वुछिव थंबनेल कागज़ात।,1284,evince,po/ks.po
+GNU Info Pages,21,गनू खबर्य वरख,22,yelp,po/ks.po
+Traditional command line help (info),25,आम कमान्ड सत्तर मदद (खबर),26,yelp,po/ks.po
+Applications,29,अमय्क प्रयोग,30,yelp,po/ks.po
+BLT Functions,33,बीएलटी कामि:,34,yelp,po/ks.po
+Configuration Files,37,डालन वाजिह फ़ाइल:,38,yelp,po/ks.po
+Curses Functions,41,कर्सेस कामिह,42,yelp,po/ks.po
+Development,45,बडावून,46,yelp,po/ks.po
+FORTRAN Functions,49,फारटरेन कामिह,50,yelp,po/ks.po
+Games,53,खय्यल:,54,yelp,po/ks.po
+Hardware Devices,57,हार्डवेयरुक सामान,58,yelp,po/ks.po
+Kernel Routines,61,कर्नेल रूटीन्स,62,yelp,po/ks.po
+Manual Pages,65,मैनुअल वरख,66,yelp,po/ks.po
+Network Audio Sound Functions,69,नेटवर्क आवाज कामिह्,70,yelp,po/ks.po
+OpenSSL Applications,73,औपन एस एस एल्लक  प्रयोग,74,yelp,po/ks.po
+OpenSSL Configuration,77,औपन एस एस एल डालून,78,yelp,po/ks.po
+OpenSSL Functions,81,औपन एस एस एल्लक कामिह्,82,yelp,po/ks.po
+OpenSSL Overviews,85,औपन एस एस एलस प्येठ प्येठ नजर,86,yelp,po/ks.po
+Overviews,89,प्येठ प्येठ नजर,90,yelp,po/ks.po
+POSIX Functions,93,पोजिक्स कामि:,94,yelp,po/ks.po
+POSIX Headers,97,पोजिक्स कुनुई नाव,98,yelp,po/ks.po
+Perl Functions,101,पर्ल कामिह्,102,yelp,po/ks.po
+Qt Functions,105,क्योटी कामिह्,106,yelp,po/ks.po
+Readline Functions,109,कामिह्,110,yelp,po/ks.po
+Section 0p,113,हिय्स: 0p,114,yelp,po/ks.po
+Section 1m,117,हिय्स: 1m,118,yelp,po/ks.po
+Section 1ssl,121,हिय्स: 1ssl,122,yelp,po/ks.po
+Section 1x,125,हिय्स: 1x,126,yelp,po/ks.po
+Section 2,129,हिय्स: 2,130,yelp,po/ks.po
+Section 3blt,133,हिय्स: 3blt,134,yelp,po/ks.po
+Section 3f,137,हिय्स: 3f,138,yelp,po/ks.po
+Section 3nas,141,हिय्स: 3nas,142,yelp,po/ks.po
+Section 3p,145,हिय्स: 3p,146,yelp,po/ks.po
+Section 3qt,149,हिय्स: 3qt,150,yelp,po/ks.po
+Section 3readline,153,हिय्स: 3readline,154,yelp,po/ks.po
+Section 3ssl,157,हिय्स: 3ssl,158,yelp,po/ks.po
+Section 3tiff,161,हिय्स: 3tiff,162,yelp,po/ks.po
+Section 4,165,हिय्स: 4,166,yelp,po/ks.po
+Section 4x,169,हिय्स: 4x,170,yelp,po/ks.po
+Section 5,173,हिय्स: 5,174,yelp,po/ks.po
+Section 5ssl,177,हिय्स: 5ssl,178,yelp,po/ks.po
+Section 5x,181,हिय्स: 5x,182,yelp,po/ks.po
+Section 6,185,हिय्स: 6,186,yelp,po/ks.po
+Section 6x,189,हिय्स: 6x,190,yelp,po/ks.po
+Section 7ssl,193,हिय्स: 7ssl,194,yelp,po/ks.po
+Section 7x,197,हिय्स: 7x,198,yelp,po/ks.po
+Section 9,201,हिय्स: 9,202,yelp,po/ks.po
+"Sections 1, 1p, 1g and 1t",205,"हिय्स: 1, 1p, 1g तह् 1t",206,yelp,po/ks.po
+"Sections 3, 3o, and 3t",209,"हिय्स: 3, 3o, तह् 3t",210,yelp,po/ks.po
+Sections 3form and 3menu,213,हिय्स: 3form तह् 3menu,214,yelp,po/ks.po
+Sections 3ncurses and 3curses,217,हिय्स: 3ncurses तह् 3curses,218,yelp,po/ks.po
+Sections 3pm and 3perl,221,हिय्स: 3pm तह् 3perl,222,yelp,po/ks.po
+Sections 3x and 3X11,225,हिय्स: 3x तह् 3X11,226,yelp,po/ks.po
+Sections 7 and 7gcc,229,हिय्स: 7 तह् 7gcc,230,yelp,po/ks.po
+Sections 8 and 8l,233,हिय्स: 8 तह् 8l,234,yelp,po/ks.po
+System Administration,237,सिस्टम नजर थव्न वोल,238,yelp,po/ks.po
+System Calls,241,सिस्टम काल्स,242,yelp,po/ks.po
+System V Form/Menu Functions,245,सिस्टम वी फार्म मेनु कामिह्,246,yelp,po/ks.po
+TIFF Functions,249,टी आई एफ एफ कामिह्,250,yelp,po/ks.po
+Termcap Applications,253,टरमकेप प्रयोग,254,yelp,po/ks.po
+Traditional command line help (man),257,प्रर्यन्यह् कमान्ड लायन मदद (मेन्न),258,yelp,po/ks.po
+X11 Applications,261,एक्स11,262,yelp,po/ks.po
+X11 Configuration,265,एक्स11,266,yelp,po/ks.po
+X11 Devices,269,एक्स11,270,yelp,po/ks.po
+X11 Functions,273,एक्स11,274,yelp,po/ks.po
+X11 Games,277,एक्स11,278,yelp,po/ks.po
+X11 Overviews,281,एक्स11 प्येठ प्येठ नजर,282,yelp,po/ks.po
+Accessibility,295,एक्सेसिबिलिटी,296,yelp,po/ks.po
+Desktop,421,डेस्कटॉप,422,yelp,po/ks.po
+Education,447,पढ्ह्य्य़,448,yelp,po/ks.po
+Graphics,531,गर्फेकिस,532,yelp,po/ks.po
+Internet,576,इन्टरनेट्,577,yelp,po/ks.po
+Other Documentation,668,बाक्कय कागज्,669,yelp,po/ks.po
+Printing,705,प्रंट करान,706,yelp,po/ks.po
+Sound &amp; Video,785,आवाज &amp; विड्यो,786,yelp,po/ks.po
+Welcome to the GNOME Help Browser,891,तोह्य छुव गनोम मदद बरोजर मंज स्वागत,892,yelp,po/ks.po
+<b>Accessibility</b>,899,<b>ऐस्सबवटी</b>,900,yelp,po/ks.po
+<b>Fonts</b>,903,<b>फ़ॉन्ट्स</b>,904,yelp,po/ks.po
+Add Bookmark,907,पसंदुक निशान करिव: जमाह्,908,yelp,po/ks.po
+Bookmarks,911,पसंदुक निशान,912,yelp,po/ks.po
+C_ase sensitive,915,लकुट या बोड अक्षर (_a),916,yelp,po/ks.po
+Find,919,छंडिव,920,yelp,po/ks.po
+Open Location,923,जाय खूलिव,924,yelp,po/ks.po
+Preferences,927,रुचिया:,928,yelp,po/ks.po
+Re_name,931,नोव नाव (_n),932,yelp,po/ks.po
+_Bookmarks:,935,पसंदुक निशान (_B),936,yelp,po/ks.po
+_Browse with caret,939,कैरेट सय्यत करिव: बरुज,940,yelp,po/ks.po
+_Find:,943,छंडिव (_F),944,yelp,po/ks.po
+_Fixed width:,947,बराबर खजर (_F),948,yelp,po/ks.po
+_Location:,951,जाय (_L),952,yelp,po/ks.po
+_Next,955,पत्त: (_N),956,yelp,po/ks.po
+_Previous,959,पतिम (_P),960,yelp,po/ks.po
+_Title:,963,शीर्षक (_T),964,yelp,po/ks.po
+_Use system fonts,967,सिस्ट्म फांट करिव: ईसत्यमाल(_U),968,yelp,po/ks.po
+_Variable width:,971,वेरेबल खजर (_V),972,yelp,po/ks.po
+_Wrap around,975,अयंद अयंद वलूव(_W),976,yelp,po/ks.po
+Font for fixed text,979,बराबर टैक्सट खत्तर: फॉन्ट,980,yelp,po/ks.po
+Font for text,983,टैक्सट खत्तर: फॉन्ट,984,yelp,po/ks.po
+Font for text with fixed width.,987,बराबर खजरूक टैक्सट खत्तर: फॉन्ट,988,yelp,po/ks.po
+Font for text with variable width.,991,वेरेबल खजरूक टैक्सट खत्तर: फॉन्ट,992,yelp,po/ks.po
+Use a keyboard-controllable caret when viewing pages.,995,पेज वुच्छन विज किबोड केरेट इस्तिमाल,996,yelp,po/ks.po
+Use caret,999,केरेट करिव इस्तेमाल,1000,yelp,po/ks.po
+Use system fonts,1003,सिस्टम फॉन्ट करिव इस्तेमाल,1004,yelp,po/ks.po
+Use the default fonts set for the system.,1007,सिस्टम खत्तर: करिव डिफाल्ट फोंटुक इस्तेमाल,1008,yelp,po/ks.po
+Open Bookmark in New Window,1011,पसंदुक निशान करिव इस्तेमाल,1012,yelp,po/ks.po
+Rename Bookmark,1015,पसंदिक निशानुक नाव  बदल्यव,1016,yelp,po/ks.po
+Remove Bookmark,1019,पसंदुक निशान मिटह्यव,1020,yelp,po/ks.po
+A bookmark titled %s already exists for this page.,1024,आक: पसंदुक निशान %s छु बरोंठुई याथ वरखस प्यठ।,1025,yelp,po/ks.po
+A bookmark titled <b>%s</b> already exists for this page.,1029,आक: पसंदुक निशान नाव <b>%s</b> छु बरोंठुई याथ वरखस प्यठ।,1030,yelp,po/ks.po
+Help Topics,1033,मदद मूदद,1034,yelp,po/ks.po
+Document Sections,1037,कागजिक हिस्स:,1038,yelp,po/ks.po
+Page not found,1044,वरुख आव न: अथ्थिह्,1045,yelp,po/ks.po
+The page %s was not found in the document %s.,1050,य: वरुख %s आव न: यमन कागजन %s मंज अथ्थिह्,1051,yelp,po/ks.po
+The requested page was not found in the document %s.,1056,मगोमूत पेज औस न: कागजस %s मंज,1057,yelp,po/ks.po
+File not found,1061,फाइल आय न: अथ्थय:,1062,yelp,po/ks.po
+The file ‘%s’ does not exist.,1067,यह् फाइल ‘%s’ छय्यिनी।,1068,yelp,po/ks.po
+Could not parse file,1073,यह् फायल ह्यको न: पारस करिथ,1074,yelp,po/ks.po
+The file ‘%s’ could not be parsed because it is not a well-formed XML document.,1078,फायल ‘%s’ ह्यको न: पारस करिथ कयाजकिह् यह् छुन ठीक एक्सएमएलकागज,1081,yelp,po/ks.po
+The file ‘%s’ could not be parsed because one or more of its included files is not a well-formed XML document.,1085,फायल ‘%s’ ह्यको न: पारस करिथ कयाजकिह् अक्य खोत ज्याद ईन्कलुडिड फायलछन्न ठीक एक्सएमएल कागज,1088,yelp,po/ks.po
+Unknown,1093,खबरकस,1094,yelp,po/ks.po
+Unknown Error,1097,खबरकस गलती,1098,yelp,po/ks.po
+Could Not Read File,1101,यह फाइल ह्यको न: परिथ,1102,yelp,po/ks.po
+No information is available about this error.,1105,य़थ गलती बारे मंज छन काह्: जानकरी,1106,yelp,po/ks.po
+The file ‘%s’ could not be parsed because it is not a well-formed info page.,1110,फासल ‘%s’ हयको न: पारस करिथ क्याज की यह् छुन ठीक इन्नफो वरुख।,1112,yelp,po/ks.po
+The file ‘%s’ could not be read and decoded. The file may be compressed in an unsupported format.,1116,फायल ‘%s’ ह्यको न परिथ या डिकोड करिथय। यह् फायलुक कामप्रसड फारमेटुकछुन्न ,1119,yelp,po/ks.po
+Use a private session,1122,पनुन सेशन करिव ईस्तेमाल,1123,yelp,po/ks.po
+Define which cache directory to use,1126,यह् दपिव कि कस कैश डिरेक्ट्री करिव ईसतेमाल,1127,yelp,po/ks.po
+ GNOME Help Browser,1131,गनोम मदद बरोजर,1132,yelp,po/ks.po
+Help,1135,मदद,1136,yelp,po/ks.po
+The file ‘%s’ could not be parsed because it is not a well-formed man page.,1140,यह् फायल ‘%s’ हयको न: पारस करिथ कयाज कि यह् छुन्न ठिक मेन पेज,1142,yelp,po/ks.po
+Print,1145,प्रंट,1146,yelp,po/ks.po
+Preparing to print,1149,प्रंट खत्तर तयरी,1150,yelp,po/ks.po
+Printing is not supported on this printer,1153,प्रंटर्र छुन्न करान प्रंट,1154,yelp,po/ks.po
+Printer %s does not support postscript printing.,1158,प्रंटर्र %s छुन्न करान पौस्टसकरिपट प्रंट,1159,yelp,po/ks.po
+Waiting to print,1162,परंट करनस प्ररिव,1163,yelp,po/ks.po
+An error occurred while printing,1166,प्रट करान विज आव आकह् गल्ती,1167,yelp,po/ks.po
+It was not possible to print your document: %s,1171,तुहंज कागजात: %s प्रंट करनिच अस्स न: गुनज्यश,1172,yelp,po/ks.po
+the GNOME Support Forums,1175,गनोम मदद फौरम,1176,yelp,po/ks.po
+"No results for \""%s\""",1180,"\""%s\"" खत्तर छुन काह् नतिज",1181,yelp,po/ks.po
+Try using different words to describe the problem you're having or the topic you want help with.,1184,अलग शब्दन मंज पंनिन परेशनी या टापिककरिव जह्यर,1187,yelp,po/ks.po
+"Search results for \""%s\""",1191,"छंडिव नतीजि \""%s\"" खत्तर:",1192,yelp,po/ks.po
+Repeat the search online at %s,1201,य: छाडुन कर्यतव आनलायन बेय्य %s प्यठ,1202,yelp,po/ks.po
+re,1229,NULL,1230,yelp,po/ks.po
+ers:er:ing:es:s:'s,1240,NULL,1241,yelp,po/ks.po
+Search could not be processed,1249,छाडुन हयोक न परासेस करिथ,1250,yelp,po/ks.po
+The requested search could not be processed.,1253,यह् मंगमूत्त छांडून हयोक न: परासेस करितह्,1254,yelp,po/ks.po
+Cannot process the search,1257,छांडनुक परास्से हयको न: करित,1258,yelp,po/ks.po
+The search processor returned invalid results,1261,छांडनूक परास्सेरन कोर न: ठीक नतिज वापस,1262,yelp,po/ks.po
+The page %s was not found in the TOC.,1266,पेज %s औस न टाकस मंज,1267,yelp,po/ks.po
+The requested page was not found in the TOC.,1270,मगोमूत पेज औस न टाकस मंज,1271,yelp,po/ks.po
+The TOC file could not be parsed because it is not a well-formed XML document.,1274,टाक फाईल ह्यकव न: पारस करिथ कयाजिह् कि यह छुनह् ठीक एकएमएलकागज,1277,yelp,po/ks.po
+Invalid Stylesheet,1280,खराब सटायलशीट्टह्,1281,yelp,po/ks.po
+"The XSLT stylesheet ‘%s’ is either missing, or it is not valid.",1285,एक्सएसएलटी सटायलशीट्टह् ‘%s’ छ: गह्ब या छंन ठीक।,1286,yelp,po/ks.po
+Broken Transformation,1289,फूट्टमिच: टरान्सफरमेशन,1290,yelp,po/ks.po
+An unknown error occurred while attempting to transform the document.,1293,आक्ह अनजान गलती गय याथ कागजस तबदिल करनस मंज,1294,yelp,po/ks.po
+No href attribute found on yelp:document\n,1297,कगह् एचरेफ आव न अय्थिह् य़ेल्प कागजस्: मंज\n,1298,yelp,po/ks.po
+Out of memory,1301,मेम्री नयबर,1302,yelp,po/ks.po
+_File,1305,फ़ाइल (_F),1306,yelp,po/ks.po
+_Edit,1309,एडिट (_E),1310,yelp,po/ks.po
+_Go,1313,गच्छिव (_G),1314,yelp,po/ks.po
+_Bookmarks,1317,पसंद (_B),1318,yelp,po/ks.po
+_Help,1321,मदद (_H),1322,yelp,po/ks.po
+_New Window,1325,नोव विंडो (_N),1326,yelp,po/ks.po
+Print This Document ...,1329,यी: कागज छप्पवय्व,1330,yelp,po/ks.po
+Print This Page ...,1333,यी: वरुख छप्पवय्व,1334,yelp,po/ks.po
+About This Document,1337,यम्य: कागज मुतलिक,1338,yelp,po/ks.po
+Open _Location,1341,यी जाय खुलिव (_L),1342,yelp,po/ks.po
+_Close Window,1345,विंडो करिव बन्द (_C),1346,yelp,po/ks.po
+_Copy,1349,नकल (_C),1350,yelp,po/ks.po
+_Select All,1353,सारि तुलिव (_S),1354,yelp,po/ks.po
+_Find...,1357,छंडिव (_F)...,1358,yelp,po/ks.po
+Find Pre_vious,1361,छंडिव पतिम (_P),1362,yelp,po/ks.po
+Find previous occurrence of the word or phrase,1365,पतिम शब्द या पर्च्छ्छ छंडिव,1366,yelp,po/ks.po
+Find Ne_xt,1369,बरूठिम छंडिव (_N),1370,yelp,po/ks.po
+Find next occurrence of the word or phrase,1373,बरूठिम शब्द या पर्च्छ्छ छंडिव,1374,yelp,po/ks.po
+_Preferences,1377,रुचिः (_P),1378,yelp,po/ks.po
+_Reload,1381,बेय्य गस्य लोड (_R),1382,yelp,po/ks.po
+_Back,1385,पतिम,1386,yelp,po/ks.po
+Show previous page in history,1389,पतिम वरूक वुच्छिव हिस्टरी मंज,1390,yelp,po/ks.po
+_Forward,1393,बरोट्ठ (_F),1394,yelp,po/ks.po
+Show next page in history,1397,दयम वरूक वुच्छिव हिस्टरी मंज,1398,yelp,po/ks.po
+_Help Topics,1401,मदद टॉपिक (_H),1402,yelp,po/ks.po
+Go to the listing of help topics,1405,मदद लिस्ट वुच्छनी गसिव,1406,yelp,po/ks.po
+_Previous Section,1409,पतिम हिस्ह् (_P),1410,yelp,po/ks.po
+_Next Section,1413,बरुठिम हिस्ह् (_N),1414,yelp,po/ks.po
+_Contents,1417,आथ: मंज (_C),1418,yelp,po/ks.po
+_Add Bookmark,1421,नोव्व पसन्द निशान (_A),1422,yelp,po/ks.po
+_Edit Bookmarks...,1425,एडिट करिव पसन्द निशान. . . (_E),1426,yelp,po/ks.po
+_Open Link,1429,लिंक  खूलिव(_0),1430,yelp,po/ks.po
+Open Link in _New Window,1433,लिंक नवि विंडो मंज खूलिव(_N),1434,yelp,po/ks.po
+_Copy Link Address,1437,नकल करिव लिंक एड्डरस(_C),1438,yelp,po/ks.po
+Help On this application,1441,यथ सामानच् मदद,1442,yelp,po/ks.po
+_About,1445,आथ: बारे मंज (_A),1446,yelp,po/ks.po
+Copy _Email Address,1449,ईमेल पता करिव नकल (_E),1450,yelp,po/ks.po
+Help Browser,1453,मदद बरवजर,1454,yelp,po/ks.po
+Loading...,1457,पकान...,1458,yelp,po/ks.po
+Unknown Page,1461,यम पेज्जच छनह् पयी,1462,yelp,po/ks.po
+"The requested URI \""%s\"" is invalid",1467,"रिक्वेसटिड यूआरएल \""%s\"" छु गलत",1468,yelp,po/ks.po
+Unable to load page,1472,यह पेज ह्यको न: लोड,1473,yelp,po/ks.po
+"Error executing \""gnome-open\""",1476,"गलती आय \""gnome-open\"" चलावनस मंज",1477,yelp,po/ks.po
+_Search:,1480,छंडिव (_S),1481,yelp,po/ks.po
+Search for other documentation,1484,दयमन कागजन छंडिव,1485,yelp,po/ks.po
+Cannot create window,1488,विंडो ह्यको न: बनह्वित,1489,yelp,po/ks.po
+Cannot create search component,1492,छांडनुक हिस्ह ह्यको न: बनह्वित,1493,yelp,po/ks.po
+Fin_d:,1496,छंडिव (_d),1497,yelp,po/ks.po
+Find _Previous,1500,पत्तिम छंडिव (_P),1501,yelp,po/ks.po
+Find _Next,1504,दय्यम छंडिव (_N),1505,yelp,po/ks.po
+Phrase not found,1508,यह् परर्च्छ आय न: अय्थह्,1509,yelp,po/ks.po
+"The file ‘%s’ could not be read.  This file might be missing, or you might not have permissions to read it.",1513,‘%s’ फाइल हय्किव न: परित। यह: फाइल छ: रवमच्च या च्य छय्य न: आग्या यह् परनस ।,1516,yelp,po/ks.po
+Yelp,1525,येल्प,1526,yelp,po/ks.po
+A documentation browser and viewer for the Gnome Desktop.,1529,गनोम डेस्कटॉप खत्तर: कागजय: ब्रॉउजर ।,1530,yelp,po/ks.po
+Get help with GNOME,1533,गनोम पय्टठ नियू मदद,1534,yelp,po/ks.po

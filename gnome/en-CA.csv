@@ -1,0 +1,711 @@
+Accerciser could not see the applications on your desktop.You must enable desktop accessibility to fix this problem.Do you want to enable it now?,503,Accerciser could not see the applications on your desktop.  You must enable desktop accessibility to fix this problem.  Do you want to enable it now?,506,accerciser,po/en_CA.po
+The New BSD License. See the COPYING and NOTICE files for details.,587,The New BSD Licence; See the COPYING and NOTICE files for details.,588,accerciser,po/en_CA.po
+"Selected tab: \""content\"" or \""search\""",79,"Selected tab \""content\"" or \""search\""",80,devhelp,po/en_CA.po
+Book,230,Book:,231,devhelp,po/en_CA.po
+Page,235,Page:,236,devhelp,po/en_CA.po
+translator_credits,387,Adam Weinberger <adamw@gnome.org>\nTiffany Antopolski <tiffany@antopolski.com>,388,devhelp,po/en_CA.po
+A developers' help browser for GNOME,393,A developer's help browser for GNOME,394,devhelp,po/en_CA.po
+DevHelp Website,397,Devhelp Website,398,devhelp,po/en_CA.po
+C_ase Sensitive,540,Ci_ase Sensitive,541,devhelp,po/en_CA.po
+As custom color:,258,As custom colour:,259,eog,po/en_CA.po
+Background Color,267,Background Colour,268,eog,po/en_CA.po
+Color for Transparent Areas,271,Colour for Transparent Areas,272,eog,po/en_CA.po
+"Determines how transparency should be indicated. Valid values are CHECK_PATTERN, COLOR and NONE. If COLOR is chosen, then the trans-color key determines the color value used.",368,"Determines how transparency should be indicated. Valid values are CHECK_PATTERN, COLOR and NONE. If COLOR is chosen, then the trans-colour key determines the colour value used.",372,eog,po/en_CA.po
+"If the transparency key has the value COLOR, then this key determines the color which is used for indicating transparency.",420,"If the transparency key has the value COLOR, then this key determines the colour which is used for indicating transparency.",423,eog,po/en_CA.po
+"If this is active, the color set by the background-color key will be used to fill the area behind the image. If it is not set, the current GTK+ theme will determine the fill color.",428,"If this is active, the colour set by the background-colour key will be used to fill the area behind the image. If it is not set, the current GTK+ theme will determine the fill colour.",432,eog,po/en_CA.po
+"The color that is used to fill the area behind the image. If the use-background-color key is not set, the color is determined by the active GTK+ theme instead.",496,"The colour that is used to fill the area behind the image. If the use-background-colour key is not set, the colour is determined by the active GTK+ theme instead.",500,eog,po/en_CA.po
+Transparency color,529,Transparency colour,530,eog,po/en_CA.po
+Use a custom background color,541,Use a custom background colour,542,eog,po/en_CA.po
+There is %d image with unsaved changes. Save changes before closing?,641,There are %d images with unsaved changes. Save changes before closing?,646,eog,po/en_CA.po
+pixel,812,pixels,815,eog,po/en_CA.po
+Millimeters,963,Millimetres,964,eog,po/en_CA.po
+%i × %i pixel  %s    %i%%,1022,%i × %i pixels  %s    %i%%,1025,eog,po/en_CA.po
+Are you sure you want to move\nthe selected image to the trash?,1135,Are you sure you want to move\nthe %d selected images to the trash?,1144,eog,po/en_CA.po
+Browse and organize your bookmarks,24,Browse and organise your bookmarks,25,epiphany,po/en_CA.po
+http://www.google.com,43,http://www.google.ca,44,epiphany,po/en_CA.po
+http://www.google.com/search?q=%s&amp;ie=UTF-8&amp;oe=UTF-8,51,http://www.google.ca/search?q=%s&amp;ie=UTF-8&amp;oe=UTF-8,52,epiphany,po/en_CA.po
+Print background c_olors,403,Print background c_olours,404,epiphany,po/en_CA.po
+Epiphany can't be used now. Initialization failed.,432,Epiphany cannot be used now. Initialisation failed.,433,epiphany,po/en_CA.po
+Send an email message to “%s”,444,Send email to address “%s”,445,epiphany,po/en_CA.po
+http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8,874,http://www.google.ca/search?q=%s&ie=UTF-8&oe=UTF-8,875,epiphany,po/en_CA.po
+Unrecognized launch option: %d,921,Unrecognised launch option: %d,922,epiphany,po/en_CA.po
+A file with this name already exists and you don't have permission to overwrite it.,1062,A file with this name already exists and you do not have permission to overwrite it.,1065,epiphany,po/en_CA.po
+%u:%02u hour left,1232,%u:%02u hours left,1235,epiphany,po/en_CA.po
+%u hour left,1239,%u hours left,1242,epiphany,po/en_CA.po
+%u:%02u minute left,1246,%u:%02u minutes left,1249,epiphany,po/en_CA.po
+%u second left,1253,%u seconds left,1256,epiphany,po/en_CA.po
+Show in folder,1277,Show on Toolbar,1278,epiphany,po/en_CA.po
+_Unify With %d Identical Bookmark,1314,_Unify With %d Identical Bookmarks,1317,epiphany,po/en_CA.po
+_Don't Update,1383,_Do not Update,1384,epiphany,po/en_CA.po
+Not Categorized,1410,Not Categorised,1411,epiphany,po/en_CA.po
+Open in New _Window,1473,Open in New _Windows,1476,epiphany,po/en_CA.po
+Open in New _Tab,1487,Open in New _Tabs,1490,epiphany,po/en_CA.po
+Show the title column,1627,Show only the title column,1628,epiphany,po/en_CA.po
+Show the address column,1638,Show only the address column,1639,epiphany,po/en_CA.po
+Galeon,1684,Galeoon,1685,epiphany,po/en_CA.po
+Last %d day,1946,Last %d days,1949,epiphany,po/en_CA.po
+Profile directory to use in the private instance,2000,:Profile directory to use in the private instance,2001,epiphany,po/en_CA.po
+Downloads will be aborted and logout proceed in %d second.,2034,Downloads will be aborted and logout will proceed in %d second.,2036,epiphany,po/en_CA.po
+Downloads will be aborted and logout proceed in %d second.,2034,Downloads will be aborted and logout will proceed in %d seconds.,2037,epiphany,po/en_CA.po
+Don't recover,2060,Don't Recover,2061,epiphany,po/en_CA.po
+Do you want to recover the previous browser windows and tabs?,2068,Recover previous browser windows and tabs?,2069,epiphany,po/en_CA.po
+Page Set_up,2237,Page Set_u,2238,epiphany,po/en_CA.po
+System language (%s),2888,System languages (%s),2891,epiphany,po/en_CA.po
+"The GNOME Web Browser is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",2902,"The GNOME Web Browser is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.",2907,epiphany,po/en_CA.po
+"The GNOME Web Browser is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",2914,"The GNOME Web Browser is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.",2919,epiphany,po/en_CA.po
+"You should have received a copy of the GNU General Public License along with the GNOME Web Browser; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA",2926,"You should have received a copy of the GNU General Public Licence along with the GNOME Web Browser; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA",2930,epiphany,po/en_CA.po
+Auto Rotate and Center,681,Auto Rotate and Centre,682,evince,po/en_CA.po
+Rotate printer page orientation of each page to match orientation of each document page. Document pages will be centered within the printer page.,685,Rotate printer page orientation of each page to match orientation of each document page. Document pages will be centreed within the printer page.,688,evince,po/en_CA.po
+Color:,862,Colour:,863,evince,po/en_CA.po
+Document License,958,Document Licence,959,evince,po/en_CA.po
+Text License,975,Text Licence,976,evince,po/en_CA.po
+%d pending job in queue,1142,%d pending jobs in queue,1145,evince,po/en_CA.po
+There is %d print job active. Wait until print finishes before closing?,1191,There are %d print jobs active. Wait until print finishes before closing?,1196,evince,po/en_CA.po
+"Evince is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n",1229,"Evince is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.\n",1234,evince,po/en_CA.po
+"Evince is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n",1241,"Evince is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.\n",1246,evince,po/en_CA.po
+"You should have received a copy of the GNU General Public License along with Evince; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA\n",1253,"You should have received a copy of the GNU General Public Licence along with Evince; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA\n",1257,evince,po/en_CA.po
+_Inverted Colors,1509,_Inverted Colours,1510,evince,po/en_CA.po
+Show page contents with the colors inverted,1513,Show page contents with the colours inverted,1514,evince,po/en_CA.po
+current addressbook folder has %d card,39,current addressbook folder has %d cards,42,evolution,po/en_CA.po
+It has %d event.,117,It has %d event,119,evolution,po/en_CA.po
+It has %d event.,117,It has %d events,120,evolution,po/en_CA.po
+evolution calendar search bar,205,Evolution calendar search bar,206,evolution,po/en_CA.po
+"Click here, you can find more events.",213,Click here to find more events.,214,evolution,po/en_CA.po
+popup a child,240,pop up a child,241,evolution,po/en_CA.po
+evolution calendar item,305,Evolution calendar item,306,evolution,po/en_CA.po
+Check to make sure your password is spelled correctly and that you are using a supported login method. Remember that many passwords are case sensitive; your caps lock might be on.,341,Check to make sure your password is spelled correctly and that you are using a supported login method. Remember that many passwords are case sensitive; ,345,evolution,po/en_CA.po
+"This LDAP server may use an older version of LDAP, which does not support this functionality or it may be misconfigured. Ask your administrator for supported search bases.",410,"This LDAP server may use an older version of LDAP which does not support this functionality, or it may be misconfigured. Ask your administrator for supported search bases.",414,evolution,po/en_CA.po
+The way Evolution stores some phone numbers has changed.\n\nPlease be patient while Evolution migrates your folders...,749,The way Evolution stores phone numbers has changed.\n\nPlease be patient while Evolution migrates your folders...,753,evolution,po/en_CA.po
+URI for the folder last used in the select names dialog,867,URI for the folder last used in the select names dialogue,868,evolution,po/en_CA.po
+URI for the folder last used in the select names dialog.,871,URI for the folder last used in the select names dialogue.,872,evolution,po/en_CA.po
+"Search filter is the type of the objects searched for, while performing the search. If this is not modified, by  default search will be performed on objectclass of the type \""person\"".",993,"Search filter is the type of the objects searched for, while performing the search. If this is not modified, by default search will be performed on objectclass of the type \""person\"".",997,evolution,po/en_CA.po
+"This is the method Evolution will use to authenticate you.  Note that setting this to \""Email Address\"" requires anonymous access to your ldap server.",1079,"This is the method Evolution will use to authenticate you.  Note that setting this to \""Email Address\"" requires anonymous access to your LDAP server.",1083,evolution,po/en_CA.po
+Personal Information,1291,Personal information,1292,evolution,po/en_CA.po
+_ZIP Code:,2601,_Postal Code:,2602,evolution,po/en_CA.po
+%d contact,2816,%d contacts,2819,evolution,po/en_CA.po
+Canceled,3361,Cancelled,3362,evolution,po/en_CA.po
+Opening %d contact will open %d new window as well.\nDo you really want to display this contact?,3515,Opening %d contacts will open %d new windows as well.\nDo you really want to display all of these contacts?,3524,evolution,po/en_CA.po
+contact,3546,contacts,3549,evolution,po/en_CA.po
+There is one other contact.,3605,There are %d other contacts.,3608,evolution,po/en_CA.po
+All information in these journal entries will be deleted and can not be restored.,3998,All information in these journal entries will be deleted and cannot be restored.,4001,evolution,po/en_CA.po
+All information in this journal will be deleted and can not be restored.,4006,All information in this journal will be deleted and cannot be restored.,4008,evolution,po/en_CA.po
+All information on these appointments will be deleted and can not be restored.,4012,All information on these appointments will be deleted and cannot be restored.,4015,evolution,po/en_CA.po
+All information on these tasks will be deleted and can not be restored.,4019,All information on these tasks will be deleted and cannot be restored.,4020,evolution,po/en_CA.po
+All information on this appointment will be deleted and can not be restored.,4023,All information on this appointment will be deleted and cannot be restored.,4025,evolution,po/en_CA.po
+All information on this journal entry will be deleted and can not be restored.,4029,All information on this journal entry will be deleted and cannot be restored.,4032,evolution,po/en_CA.po
+All information on this meeting will be deleted and can not be restored.,4036,All information on this meeting will be deleted and cannot be restored.,4038,evolution,po/en_CA.po
+All information on this task will be deleted and can not be restored.,4042,All information on this task will be deleted and cannot be restored.,4043,evolution,po/en_CA.po
+Are you sure you want to delete the appointment titled '{0}'?,4050,Are you sure you want to delete the appointment entitled '{0}'?,4051,evolution,po/en_CA.po
+Do not Send,4110,Do Not Send,4111,evolution,po/en_CA.po
+"If you do not send a cancelation notice, the other participants may not know the journal has been deleted.",4152,"If you do not send a cancellation notice, the other participants may not know the journal has been deleted.",4155,evolution,po/en_CA.po
+"If you do not send a cancelation notice, the other participants may not know the meeting is canceled.",4160,"If you do not send a cancellation notice, the other participants may not know the meeting is cancelled.",4163,evolution,po/en_CA.po
+"If you do not send a cancelation notice, the other participants may not know the task has been deleted.",4168,"If you do not send a cancellation notice, the other participants may not know the task has been deleted.",4171,evolution,po/en_CA.po
+Would you like to send a cancelation notice for this journal entry?,4269,Would you like to send a cancellation notice for this journal entry?,4270,evolution,po/en_CA.po
+Would you like to send all the participants a cancelation notice?,4273,Would you like to send all the participants a cancellation notice?,4274,evolution,po/en_CA.po
+minute,4474,minutes,4477,evolution,po/en_CA.po
+hours,4486,hour,4488,evolution,po/en_CA.po
+"Evolution does not support calendar reminders with\nemail notifications yet, but this reminder was\nconfigured to send an email.  Evolution will display\na normal reminder dialog box instead.",4562,"Evolution does not support calendar reminders with\nemail notifications yet, but this reminder was\nconfigured to send an email.  Evolution will display\na normal reminder dialogue box instead.",4567,evolution,po/en_CA.po
+"Background color of tasks that are due today, in \""#rrggbb\"" format.",4671,"Background colour of tasks that are due today, in \""#rrggbb\"" format.",4672,evolution,po/en_CA.po
+"Background color of tasks that are overdue, in \""#rrggbb\"" format.",4675,"Background colour of tasks that are overdue, in \""#rrggbb\"" format.",4676,evolution,po/en_CA.po
+Color to draw the Marcus Bains Line in the Time bar (empty for default).,4683,Colour to draw the Marcus Bains Line in the Time bar (empty for default).,4685,evolution,po/en_CA.po
+Color to draw the Marcus Bains line in the Day View.,4689,Colour to draw the Marcus Bains line in the Day View.,4690,evolution,po/en_CA.po
+"Hour the workday ends on, in twenty four hour format, 0 to 23.",4741,"Hour the workday ends on, in 24-hour format, 0 to 23.",4742,evolution,po/en_CA.po
+"Hour the workday starts on, in twenty four hour format, 0 to 23.",4745,"Hour the workday starts on, in 24-hour format, 0 to 23.",4746,evolution,po/en_CA.po
+Marcus Bains Line Color - Day View,4765,Marcus Bains Line Colour - Day View,4766,evolution,po/en_CA.po
+Marcus Bains Line Color - Time bar,4769,Marcus Bains Line Colour - Time bar,4770,evolution,po/en_CA.po
+Overdue tasks color,4797,Overdue tasks colour,4798,evolution,po/en_CA.po
+Tasks due today color,4891,Tasks due today colour,4892,evolution,po/en_CA.po
+"The URL template to use as a free/busy data fallback, %u is replaced by the user part of the mail address and %d is replaced by the domain.",4900,The URL template to use as a free/busy data fallback. %u is replaced by the user part of the mail address and %d is replaced by the domain.,4903,evolution,po/en_CA.po
+Twenty four hour time format,4928,24-hour time format,4929,evolution,po/en_CA.po
+Whether or not to use the notification tray for display alarms.,4950,Whether or not to use the notification tray for displaying alarms.,4951,evolution,po/en_CA.po
+Whether to show times in twenty four hour format instead of using am/pm.,5004,Whether to show times in 24-hour format instead of using am/pm.,5006,evolution,po/en_CA.po
+Pick a color,5497,Pick a colour,5498,evolution,po/en_CA.po
+C_olor:,5650,C_olour:,5651,evolution,po/en_CA.po
+Attached message,5791,%d attached messages,5794,evolution,po/en_CA.po
+<b>%d</b> Attachment,5813,<b>%d</b> Attachments,5816,evolution,po/en_CA.po
+%d day before appointment,6076,%d days before appointment,6079,evolution,po/en_CA.po
+%d hour before appointment,6083,%d hours before appointment,6086,evolution,po/en_CA.po
+%d minute before appointement,6090,%d minute before appointment,6092,evolution,po/en_CA.po
+%d minute before appointement,6090,%d minutes before appointment,6093,evolution,po/en_CA.po
+1day before appointment,6131,1 day before appointment,6132,evolution,po/en_CA.po
+Or_ganiser:,6551,Or_ganizer:,6552,evolution,po/en_CA.po
+%d day,6612,%d days,6615,evolution,po/en_CA.po
+%d week,6620,%d weeks,6623,evolution,po/en_CA.po
+%d hour,6628,%d hours,6631,evolution,po/en_CA.po
+%d minute,6636,%d minutes,6639,evolution,po/en_CA.po
+%d second,6644,%d seconds,6647,evolution,po/en_CA.po
+%a %m/%d/%Y %H:%M:%S,7136,%a %d/%m/%Y %H:%M:%S,7137,evolution,po/en_CA.po
+%a %m/%d/%Y %I:%M:%S %p,7141,%a %d/%m/%Y %I:%M:%S %p,7142,evolution,po/en_CA.po
+a total of %d time,7242, a total of %d times,7245,evolution,po/en_CA.po
+"The meeting has been canceled, however it could not be found in your calendars",7313,"The meeting has been cancelled. However, it could not be found in your calendars",7316,evolution,po/en_CA.po
+"The task has been canceled, however it could not be found in your task lists",7321,"The task has been cancelled. However, it could not be found in your task lists",7323,evolution,po/en_CA.po
+<b>%s</b> has canceled a meeting.,7380,<b>%s</b> has cancelled a meeting.,7381,evolution,po/en_CA.po
+Meeting Cancelation,7384,Meeting Cancellation,7385,evolution,po/en_CA.po
+<b>%s</b> has canceled a task.,7450,<b>%s</b> has cancelled a task.,7451,evolution,po/en_CA.po
+Task Cancelation,7454,Task Cancellation,7455,evolution,po/en_CA.po
+%a %m/%d/%Y,7724,%a %d/%m/%Y,7725,evolution,po/en_CA.po
+%m/%d/%Y,7730,%d/%m/%Y,7731,evolution,po/en_CA.po
+%d memo,8033,%d memos,8036,evolution,po/en_CA.po
+%d task,8375,%d tasks,8378,evolution,po/en_CA.po
+America/North_Dakota/Center,9038,America/North_Dakota/Centre,9039,evolution,po/en_CA.po
+ There are few attachments getting downloaded. Sending the mail will cause the mail to be sent without those pending attachments ,10217, There are few attachments being downloaded. Sending the mail will cause the mail to be sent without those pending attachments ,10220,evolution,po/en_CA.po
+_Don't Recover,10345,_Do Not Recover,10346,evolution,po/en_CA.po
+"No, Do not Change Status",10411,"No, Do Not Change Status",10412,evolution,po/en_CA.po
+%s License Agreement,10861,%s Licence Agreement,10862,evolution,po/en_CA.po
+\nPlease read carefully the license agreement\nfor %s displayed below\nand tick the check box for accepting it\n,10866,\nPlease read carefully the licence agreement\nfor %s displayed below\nand tick the check box for accepting it\n,10871,evolution,po/en_CA.po
+Assign Color,11009,Assign Colour,11010,evolution,po/en_CA.po
+"This message is encrypted, but with a weak encryption algorithm. It would be difficult, but not impossible for an outsider to view the content of this message in a practical amount of time.",11643,"This message is encrypted, but with a weak encryption algorithm. It would be difficult--but not impossible--for an outsider to view the content of this message in a practical amount of time.",11647,evolution,po/en_CA.po
+%d attachme_nt,11729,%d attachme_nts,11732,evolution,po/en_CA.po
+Citation highlight color,12045,Citation highlight colour,12046,evolution,po/en_CA.po
+Citation highlight color.,12049,Citation highlight colour.,12050,evolution,po/en_CA.po
+Default height of the Subscribe dialog,12089,Default height of the Subscribe dialogue,12090,evolution,po/en_CA.po
+Default width of the Subscribe dialog,12105,Default width of the Subscribe dialogue,12106,evolution,po/en_CA.po
+List of Labels and their associated colors,12159,List of Labels and their associated colours,12160,evolution,po/en_CA.po
+List of accepted licenses,12163,List of accepted licences,12164,evolution,po/en_CA.po
+List of labels known to the mail component of Evolution. The list contains strings containing name:color where color uses the HTML hex encoding.,12183,List of labels known to the mail component of Evolution. The list contains strings containing name:colour where colour uses the HTML hex encoding.,12186,evolution,po/en_CA.po
+List of protocol names whose license has been accepted.,12195,List of protocol names whose licence has been accepted.,12196,evolution,po/en_CA.po
+Load images for HTML messages over http(s). Possible values are: 0 - Never load images off the net 1 - Load images in mail from contacts 2 - Always load images off the net,12203,Load images for HTML messages over http(s). Possible values are: 0 - Never load images off the net; 1 - Load images in mail from contacts; 2 - Always load images off the net,12207,evolution,po/en_CA.po
+Subscribe dialog default height,12363,Subscribe dialogue default height,12364,evolution,po/en_CA.po
+Subscribe dialog default width,12367,Subscribe dialogue default width,12368,evolution,po/en_CA.po
+%d draft,12684,%d drafts,12687,evolution,po/en_CA.po
+"<span weight=\""bold\"">Default Behavior</span>",12792,"<span weight=\""bold\"">Default Behaviour</span>",12793,evolution,po/en_CA.po
+"<span weight=\""bold\"">Labels and Colors</span>",12808,"<span weight=\""bold\"">Labels and Colours</span>",12809,evolution,po/en_CA.po
+Color for _misspelled words:,12957,Colour for _misspelled words:,12958,evolution,po/en_CA.po
+Colors,12961,Colours,12962,evolution,po/en_CA.po
+Fi_xed width Font:,13034,Fi_xed-width Font:,13035,evolution,po/en_CA.po
+color,13360,colour,13361,evolution,po/en_CA.po
+License Agreement,13405,Licence Agreement,13406,evolution,po/en_CA.po
+_Accept License,13429,_Accept Licence,13430,evolution,po/en_CA.po
+_Tick this to accept the license agreement,13445,_Check this to accept the licence agreement,13446,evolution,po/en_CA.po
+Canceled.,13513,Cancelled.,13514,evolution,po/en_CA.po
+Retrieving %d message,13592,Retrieving %d message(s),13595,evolution,po/en_CA.po
+Saving %d message,13599,Saving %d messsage(s),13602,evolution,po/en_CA.po
+Canceling...,13655,Cancelling...,13656,evolution,po/en_CA.po
+User canceled operation.,13709,User cancelled operation.,13710,evolution,po/en_CA.po
+Adding a meaningful Subject line to your messages will give your recipients an idea of what your mail is about.,13807,Adding a meaningful Subject line to your messages will give your recipients an idea of the topic of your letter.,13810,evolution,po/en_CA.po
+Are you sure you want to permanently remove all the deleted messages in folder &quot;{0}&quot;?,13841,Are you sure you want to remove permanently all the deleted messages in folder &quot;{0}&quot;?,13844,evolution,po/en_CA.po
+"Cannot read the license file &quot;{0}&quot;, due to an installation problem. You will not be able to use this provider until you can accept its license.",13921,"Cannot read the licence file &quot;{0}&quot;, due to an installation problem. You will not be able to use this provider until you can accept its licence.",13925,evolution,po/en_CA.po
+File exists but cannot overwrite it.,14011,File exists but cannot be overwritten.,14012,evolution,po/en_CA.po
+The following Search Folder(s):\n{0}\nUsed the now removed folder:\n    &quot;{1}&quot;\nAnd have been updated.,14191,The following Search Folder(s):\n{0}\nused the now-removed folder:\n    &quot;{1}&quot;\nand has been updated.,14197,evolution,po/en_CA.po
+"This folder may have been added implicitly,\ngo to the Search Folder editor to add it explicitly, if required.",14235,"This folder may have been added implicitl.,\nGo to the Search Folder editor to add it explicitly, if required.",14238,evolution,po/en_CA.po
+Unable to read license file.,14281,Unable to read licence file.,14282,evolution,po/en_CA.po
+"You must specify at least one folder as a source.\nEither by selecting the folders individually, and/or by selecting all local folders, all remote folders, or both.",14313,"You must specify at least one folder as a source.\nEither select the folders individually, and/or by select all local folders, all remote folders, or both.",14317,evolution,po/en_CA.po
+Your login to your server &quot;{0}&quot; as &quot;{0}&quot; failed.,14323,Failed to log into your server &quot;{0}&quot; as &quot;{0}&quot; failed.,14324,evolution,po/en_CA.po
+%b %d %Y,14407,%d %b %Y,14408,evolution,po/en_CA.po
+Backup Evolution directory,14544,Back up Evolution directory,14545,evolution,po/en_CA.po
+A plugin for backing up and restore Evolution data and settings.,14560,A plugin for backing up and restoring Evolution data and settings.,14561,evolution,po/en_CA.po
+Backup Settings...,14569,Back Up Settings...,14570,evolution,po/en_CA.po
+Backup and restore Evolution data and settings,14573,Back up and restore Evolution data and settings,14574,evolution,po/en_CA.po
+Periodically synchronize contact information and images from gaim buddy list,14602,Periodically synchronize contact information and images from Gaim buddy list,14604,evolution,po/en_CA.po
+Provides core functionality for webcal and http calendars.,14651,Provides core functionality for WebCal and HTTP calendars.,14652,evolution,po/en_CA.po
+Weather: Fog,14660,Weather: Foggy,14661,evolution,po/en_CA.po
+Provides functionallity for marking a calendar or addressbook as the default one.,14755,Provides functionality for marking a calendar or addressbook as the default one.,14758,evolution,po/en_CA.po
+Password Expiry Warning...,15074,Password Expiration Warning...,15075,evolution,po/en_CA.po
+(Permission denied.),15090,(Permission denied),15091,evolution,po/en_CA.po
+Addressbook...,15162,Address book...,15163,evolution,po/en_CA.po
+A plugin that handles a collection of Exchange account specific operations and features.,15174,A plugin that handles a collection of Exchange account-specific operations and features.,15177,evolution,po/en_CA.po
+"If OWA is running on a different path, you must specify that in the account configuration dialog.",15317,"If OWA is running on a different path, you must specify that in the account configuration dialogue.",15320,evolution,po/en_CA.po
+No Global Catalog server configured for this account.,15341,No Global Catalogue server configured for this account.,15342,evolution,po/en_CA.po
+Server rejected password because it is too weak.,15365,Server rejected password because it is too simple.,15366,evolution,po/en_CA.po
+Sent to calendar '%s' as canceled,15856,Sent to calendar '%s' as cancelled,15857,evolution,po/en_CA.po
+Sent a cancelation notice to the delegate,15865,Sent a cancellation notice to the delegate,15866,evolution,po/en_CA.po
+Could not send the cancelation notice to the delegate,15869,Could not send the cancellation notice to the delegate,15870,evolution,po/en_CA.po
+"The message does contain a calendar, but the calendar contains no events, tasks or free/busy information",15906,"The message contains a calendar, but the calendar contains no events, tasks or free/busy information",15909,evolution,po/en_CA.po
+"%A, %B %e",16030,"%A, %e %B",16031,evolution,po/en_CA.po
+"%A, %B %e %H:%M",16037,"%A, %e %B %H:%M",16038,evolution,po/en_CA.po
+"%A, %B %e %H:%M:%S",16043,"%A, %e %B %H:%M:%S",16044,evolution,po/en_CA.po
+"%A, %B %e %l:%M %p",16049,"%A, %e %B %l:%M %p",16050,evolution,po/en_CA.po
+"%A, %B %e %l:%M:%S %p",16055,"%A, %e %B %l:%M:%S %p",16056,evolution,po/en_CA.po
+"%A, %B %e, %Y",16060,"%A, %e %B, %Y",16061,evolution,po/en_CA.po
+"%A, %B %e, %Y %H:%M",16066,"%A, %e %B, %Y %H:%M",16067,evolution,po/en_CA.po
+"%A, %B %e, %Y %H:%M:%S",16072,"%A, %e %B, %Y %H:%M:%S",16073,evolution,po/en_CA.po
+"%A, %B %e, %Y %l:%M %p",16078,"%A, %e %B, %Y %l:%M %p",16079,evolution,po/en_CA.po
+"%A, %B %e, %Y %l:%M:%S %p",16084,"%A, %e %B, %Y %l:%M:%S %p",16085,evolution,po/en_CA.po
+<b>%s</b> through %s has canceled the following meeting:,16136,<b>%s</b> through %s has cancelled the following meeting:,16137,evolution,po/en_CA.po
+<b>%s</b> has canceled the following meeting.,16141,<b>%s</b> has cancelled the following meeting.,16142,evolution,po/en_CA.po
+<b>%s</b> through %s has canceled the following assigned task:,16210,<b>%s</b> through %s has cancelled the following assigned task:,16211,evolution,po/en_CA.po
+<b>%s</b> has canceled the following assigned task:,16215,<b>%s</b> has cancelled the following assigned task:,16216,evolution,po/en_CA.po
+_Un-subscribe to list,16458,_Un-subscribe from list,16459,evolution,po/en_CA.po
+"An e-mail message will be sent to the URL \""{0}\"". You can either send the message automatically, or see and change it first.\n\nYou should receive an answer from the mailing list shortly after the message has been sent.",16466,"An e-mail message will be sent to the URL \""{0}\"". You can either send the message automatically, or preview and change it first.\n\nYou should receive an answer from the mailing list shortly after the message has been sent.",16472,evolution,po/en_CA.po
+Unsubscribe to the mailing list this message belongs to,16562,Unsubscribe from the mailing list this message belongs to,16563,evolution,po/en_CA.po
+%F %T,16845,%Y-%d-%m %T,16846,evolution,po/en_CA.po
+Skip development warning dialog,17086,Skip development warning dialogue,17087,evolution,po/en_CA.po
+"The style of the window buttons. Can be \""text\"", \""icons\"", \""both\"", \""toolbar\"". If \""toolbar\"" is set, the style of the buttons is determined by the GNOME toolbar setting.",17122,"The style of the window buttons. Can be \""text\"", \""icons\"", \""both\"", or \""toolbar\"". If \""toolbar\"" is set, the style of the buttons is determined by the GNOME toolbar setting.",17126,evolution,po/en_CA.po
+Whether the warning dialog in development versions of Evolution is skipped.,17149,Whether the warning dialogue in development versions of Evolution is skipped.,17151,evolution,po/en_CA.po
+Evolution can not start.,17491,Evolution cannot start.,17492,evolution,po/en_CA.po
+"The previous version of evolution stored its data in a different location.\n\nIf you choose to remove this data, the entire contents of the &quot;evolution&quot; directory will be removed permanently. If you choose to keep this data, then you may manually remove the contents of &quot;evolution&quot; at your convenience.\n",17533,"The previous version of evolution stored its data in a different location.\n\nIf you choose to remove these data, the entire contents of the &quot;evolution&quot; directory will be removed permanently. If you choose to keep these data, then you may manually remove the contents of &quot;evolution&quot; at your convenience.\n",17540,evolution,po/en_CA.po
+"Because you trust the certificate authority that issued this certificate, then you trust the authenticity of this certificate unless otherwise indicated here",17626,"Because you trust the certificate authority that issued this certificate, you then trust the authenticity of this certificate unless otherwise indicated here",17630,evolution,po/en_CA.po
+"Because you do not trust the certificate authority that issued this certificate, then you do not trust the authenticity of this certificate unless otherwise indicated here",17636,"Because you do not trust the certificate authority that issued this certificate, you then do not trust the authenticity of this certificate unless otherwise indicated here",17640,evolution,po/en_CA.po
+Query free / busy information for the attendees,18566,Query free/busy information for the attendees,18567,evolution,po/en_CA.po
+Click change / view the status details of the task,19560,Click to change/view the status details of the task,19561,evolution,po/en_CA.po
+<b>_Selection</b>,19881,<b>_Selection:</b>,19882,evolution,po/en_CA.po
+Fill color,20016,Fill colour,20017,evolution,po/en_CA.po
+GDK fill color,20027,GDK fill colour,20028,evolution,po/en_CA.po
+Color Column,20591,Colour Column,20592,evolution,po/en_CA.po
+BG Color Column,20595,BG Colour Column,20596,evolution,po/en_CA.po
+Alternating Row Colors,20763,Alternating Row Colours,20764,evolution,po/en_CA.po
+You don't have permission to create an archive in this folder,151,You do not have permission to create an archive in this folder,152,file-roller,po/en_CA.po
+"File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",205,"File Roller is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.",210,file-roller,po/en_CA.po
+"File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",217,"File Roller is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.",222,file-roller,po/en_CA.po
+"You should have received a copy of the GNU General Public License along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA",229,"You should have received a copy of the GNU General Public Licence along with File Roller; if not, write to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301 USA",233,file-roller,po/en_CA.po
+"You don't have the right permissions to read files from folder \""%s\""",258,"You do not have the right permissions to read files from folder \""%s\""",259,file-roller,po/en_CA.po
+You don't have the right permissions to create an archive in the destination folder.,331,You do not have the right permissions to create an archive in the destination folder.,334,file-roller,po/en_CA.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",377,"You do not have the right permissions to extract archives in the folder \""%s\""",379,file-roller,po/en_CA.po
+You don't have the right permissions.,453,You do not have the right permissions.,454,file-roller,po/en_CA.po
+You can't add an archive to itself.,457,You cannot add an archive to itself.,458,file-roller,po/en_CA.po
+%d object (%s),498,%d objects (%s),501,file-roller,po/en_CA.po
+%d object selected (%s),505,%d objects selected (%s),508,file-roller,po/en_CA.po
+Ar (.ar),774,AR (.ar),775,file-roller,po/en_CA.po
+Arj (.arj),778,ARJ (.arj),779,file-roller,po/en_CA.po
+Ear (.ear),782,EAR (.ear),783,file-roller,po/en_CA.po
+Self-extracting zip (.exe),786,Self-extracting ZIP (.exe),787,file-roller,po/en_CA.po
+Jar (.jar),790,JAR (.jar),791,file-roller,po/en_CA.po
+Lha (.lzh),794,LHA (.lzh),795,file-roller,po/en_CA.po
+Rar (.rar),798,RAR (.rar),799,file-roller,po/en_CA.po
+War (.war),826,WAR (.war),827,file-roller,po/en_CA.po
+Zip (.zip),830,ZIP (.zip),831,file-roller,po/en_CA.po
+Zoo (.zoo),834,ZOO (.zoo),835,file-roller,po/en_CA.po
+Add files asking the name of the archive and quit the program,850,"Add files, asking the name of the archive, and quit the program",851,file-roller,po/en_CA.po
+Extract archives asking the destination folder and quit the program,862,"Extract archives, asking the destination folder, and quit the program",863,file-roller,po/en_CA.po
+Paste the clipboard,958,Paste the clipboard contents,959,file-roller,po/en_CA.po
+Remove colored balls from the board by forming lines,28,Remove coloured balls from the board by forming lines,29,five-or-more,po/en_CA.po
+B_ackground color:,67,B_ackground colour:,68,five-or-more,po/en_CA.po
+Background color,151,Background colour,152,five-or-more,po/en_CA.po
+Background color. The hex specification of the background color.,155,Background colour. The hex specification of the background colour.,156,five-or-more,po/en_CA.po
+Make lines of the same color to win,30,Make lines of the same colour to win,31,four-in-a-row,po/en_CA.po
+%s: Server priority couldn't be set to %d: %s,123,%s: Server priority could not be set to %d: %s,124,gdm,po/en_CA.po
+Background Color,58,Background Colour,59,gedit,po/en_CA.po
+"Background color for selected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",62,"Background colour for selected text in the editing area. This will only take effect if the \""Use Default Colours\"" option is turned off.",65,gedit,po/en_CA.po
+"Background color for unselected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",70,"Background colour for unselected text in the editing area. This will only take effect if the \""Use Default Colours\"" option is turned off.",73,gedit,po/en_CA.po
+"Foreground color for selected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",126,"Foreground colour for selected text in the editing area. This will only take effect if the \""Use Default Colours\"" option is turned off.",129,gedit,po/en_CA.po
+"Foreground color for the unselected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",134,"Foreground colour for the unselected text in the editing area. This will only take effect if the \""Use Default Colours\"" option is turned off.",137,gedit,po/en_CA.po
+Max Number of Undo Actions,200,Maxmum Number of Undo Actions,201,gedit,po/en_CA.po
+Selected Text Color,301,Selected Text Colour,302,gedit,po/en_CA.po
+Selection Color,305,Selection Colour,306,gedit,po/en_CA.po
+Text Color,445,Text Colour,446,gedit,po/en_CA.po
+Use Default Colors,461,Use Default Colours,462,gedit,po/en_CA.po
+Whether the bottom panel at the bottom of editing windows should be visible.,539,Whether the panel at the bottom of editing windows should be visible.,541,gedit,po/en_CA.po
+"Whether to use the system's default colors for the editing area. If this option is turned off, then the colors of the editing area will be those specified in the \""Background Color\"", \""Text Color\"", \""Selected Text Color\"", and \""Selection Color\"" options.",560,"Whether to use the system's default colours for the editing area. If this option is turned off, then the colours of the editing area will be those specified in the \""Background Colour\"", \""Text Colour\"", \""Selected Text Colour\"", and \""Selection Colour\"" options.",565,gedit,po/en_CA.po
+Logout _without Saving,599,Log Out _without Saving,600,gedit,po/en_CA.po
+"If you don't save, changes from the last %ld second will be permanently lost.",616,"If you don't save, changes from the last %ld seconds will be permanently lost.",623,gedit,po/en_CA.po
+"If you don't save, changes from the last minute and %ld second will be permanently lost.",635,"If you don't save, changes from the last minute and %ld seconds will be permanently lost.",644,gedit,po/en_CA.po
+"If you don't save, changes from the last %ld minute will be permanently lost.",650,"If you don't save, changes from the last %ld minutes will be permanently lost.",657,gedit,po/en_CA.po
+"If you don't save, changes from the last hour will be permanently lost.",664,"If you don't save, changes from the last %d hours will be permanently lost.",669,gedit,po/en_CA.po
+"If you don't save, changes from the last hour and %d minute will be permanently lost.",674,"If you don't save, changes from the last hour and %d minutes will be permanently lost.",683,gedit,po/en_CA.po
+There is %d document with unsaved changes. Save changes before closing?,694,There are %d documents with unsaved changes. Save changes before closing?,699,gedit,po/en_CA.po
+Push this button to configure text color,834,Push this button to configure text colour,835,gedit,po/en_CA.po
+Push this button to configure background color,838,Push this button to configure background colour,839,gedit,po/en_CA.po
+Push this button to configure the color in which the selected text should appear,842,Push this button to configure the colour in which the selected text should appear,845,gedit,po/en_CA.po
+Push this button to configure the color in which the selected text should be marked,850,Push this button to configure the colour in which the selected text should be marked,853,gedit,po/en_CA.po
+"<span weight=\""bold\"">Colors</span>",898,"<span weight=\""bold\"">Colours</span>",899,gedit,po/en_CA.po
+Font & Colors,923,Font & Colours,924,gedit,po/en_CA.po
+Normal _text color:,947,Normal _text colour:,948,gedit,po/en_CA.po
+Pick a color,951,Pick a colour,952,gedit,po/en_CA.po
+Pick the background color,955,Pick the background colour,956,gedit,po/en_CA.po
+Pick the normal text color,963,Pick the normal text colour,964,gedit,po/en_CA.po
+Pick the selected text color,967,Pick the selected text colour,968,gedit,po/en_CA.po
+Pick the selection color,971,Pick the selection colour,972,gedit,po/en_CA.po
+Se_lection color:,983,Se_lection colour:,984,gedit,po/en_CA.po
+Selecte_d text color:,987,Selecte_d text colour:,988,gedit,po/en_CA.po
+U_se default theme colors,999,U_se default theme colours,1000,gedit,po/en_CA.po
+_Background color:,1015,_Background colour:,1016,gedit,po/en_CA.po
+Loading %d file…,1137,Loading %d files…,1140,gedit,po/en_CA.po
+Changes made to the document in the last %ld second will be permanently lost.,1187,Changes made to the document in the last %ld seconds will be permanently lost.,1194,gedit,po/en_CA.po
+Changes made to the document in the last minute and %ld second will be permanently lost.,1206,Changes made to the document in the last minute and %ld seconds will be permanently lost.,1215,gedit,po/en_CA.po
+Changes made to the document in the last %ld minute will be permanently lost.,1221,Changes made to the document in the last %ld minutes will be permanently lost.,1228,gedit,po/en_CA.po
+Changes made to the document in the last hour will be permanently lost.,1234,Changes made to the document in the last %d hours will be permanently lost.,1239,gedit,po/en_CA.po
+Changes made to the document in the last hour and %d minute will be permanently lost.,1244,Changes made to the document in the last hour and %d minutes will be permanently lost.,1253,gedit,po/en_CA.po
+Found and replaced %d occurrence,1275,Found and replaced %d occurrence.,1277,gedit,po/en_CA.po
+Found and replaced %d occurrence,1275,Found and replaced %d occurrences.,1278,gedit,po/en_CA.po
+Read Only,1300,Read-Only,1301,gedit,po/en_CA.po
+"There are too many open files. Please, close some applications and try again.",1499,There are too many open files. Close some open applications and try again.,1501,gedit,po/en_CA.po
+"Not enough available memory to open the file. Please, close some running applications and try again.",1512,Not enough available memory to open the file. Close some running applications and try again.,1515,gedit,po/en_CA.po
+"Host name was invalid. Please, check that you typed the location correctly and try again.",1538,Host name was invalid. Check that you typed the location correctly and try again.,1541,gedit,po/en_CA.po
+"gedit cannot find it. Perhaps, it has recently been deleted.",1582,gedit cannot find it. Perhaps it has recently been deleted.,1583,gedit,po/en_CA.po
+_Don't Edit,1648,_Do Not Edit,1649,gedit,po/en_CA.po
+_Don't Save,1672,_Do Not Save,1673,gedit,po/en_CA.po
+"gedit cannot handle this location  in write mode. Please, check that you typed the location correctly and try again.",1719,gedit cannot handle this location in write mode. Check that you typed the location correctly and try again.,1722,gedit,po/en_CA.po
+"%s is not a valid location. Please, check that you typed the location correctly and try again.",1738,%s is not a valid location. Check that you typed the location correctly and try again.,1741,gedit,po/en_CA.po
+"You do not have the permissions necessary to save the file. Please, check that you typed the location correctly and try again.",1746,You do not have the permissions necessary to save the file. Check that you typed the location correctly and try again.,1749,gedit,po/en_CA.po
+"%s is a directory. Please, check that you typed the location correctly and try again.",1755,%s is a directory. Check that you typed the location correctly and try again.,1758,gedit,po/en_CA.po
+"Not enough available memory to save the file. Please, close some running applications and try again.",1762,Not enough available memory to save the file. Close some running applications and try again.,1765,gedit,po/en_CA.po
+"There is not enough disk space to save the file. Please, free some disk space and try again.",1770,There is not enough disk space to save the file. Please free some disk space and try again.,1773,gedit,po/en_CA.po
+"You are trying to save the file on a read-only disk. Please, check that you typed the location correctly and try again.",1778,You are trying to save the file on a read-only disk. Check that you typed the location correctly and try again.,1781,gedit,po/en_CA.po
+"A file with the same name already exists. Please, use a different name.",1786,A file with the same name already exists. Please use a different name.,1787,gedit,po/en_CA.po
+"The disk where you are trying to save the file has a limitation on length of the file names. Please, use a shorter name.",1790,"The disk where you are trying to save the file has a limitation on length of the file names. Please try again, using a shorter name.",1793,gedit,po/en_CA.po
+"%s is not a regular file. Please, check that you typed the location correctly and try again.",1799,%s is not a regular file. Check that you typed the location correctly and try again.,1802,gedit,po/en_CA.po
+Zoom the page in,1918,Zoom in on the page,1919,gedit,po/en_CA.po
+Zoom the page out,1922,Zoom out from the page,1923,gedit,po/en_CA.po
+There is a tab with errors,1960,There are %d tabs with errors,1963,gedit,po/en_CA.po
+Invert the case of selected text,2404,Invert the case of the selected text,2405,gedit,po/en_CA.po
+"Emacs, Kate and Vim-style modelines support for gedit.",2652,"EMACS, Kate and Vim-style modelines support for gedit.",2653,gedit,po/en_CA.po
+Background color,3317,Background colour,3318,gedit,po/en_CA.po
+Behavior,3333,Behaviour,3334,gedit,po/en_CA.po
+Border color,3345,Border colour,3346,gedit,po/en_CA.po
+Center,3357,Centre,3358,gedit,po/en_CA.po
+Color of selected links,3393,Colour of selected links,3394,gedit,po/en_CA.po
+Header cell ID's,3637,Header cell IDs,3638,gedit,po/en_CA.po
+Link color,3745,Link colour,3746,gedit,po/en_CA.po
+ReadOnly text and password,4009,Read-Only text and password,4010,gedit,po/en_CA.po
+Text color,4229,Text colour,4230,gedit,po/en_CA.po
+Topmargin in pixels,4241,Top margin in pixels,4242,gedit,po/en_CA.po
+Visited link color,4281,Visited link colour,4282,gedit,po/en_CA.po
+Function sine,4349,Function sin,4350,gedit,po/en_CA.po
+Maths (display),4445,Math (display),4446,gedit,po/en_CA.po
+Maths (inline),4449,Math (inline),4450,gedit,po/en_CA.po
+Symbol d-by-dt,4505,Symbol derivative,4506,gedit,po/en_CA.po
+Symbol d-by-dt-partial,4509,Symbol partial derivative,4510,gedit,po/en_CA.po
+Symbol d2-by-dt2-partial,4513,Symbol partial second derivative,4514,gedit,po/en_CA.po
+preceding,4645,preceeding,4646,gedit,po/en_CA.po
+preceding-sibling,4649,preceeding-sibling,4650,gedit,po/en_CA.po
+Can not open URI:\n%s,693,Cannot open URI:\n%s,696,ghex,po/en_CA.po
+Released under the terms of GNU Public License,1130,Released under the terms of GNU Public Licence,1131,ghex,po/en_CA.po
+"Unable to open '%s', the file does not exist.\n",77,Unable to open '%s': The file does not exist.\n,78,glade,po/en_CA.po
+"Glade is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n\nGlade is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with Glade; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.",203,"Glade is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.\n\nGlade is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public Licence along with Glade; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA.",217,glade,po/en_CA.po
+A builtin stock item,633,A built-in stock item,634,glade,po/en_CA.po
+A gdk color value,665,A gdk colour value,666,glade,po/en_CA.po
+Type :,761,Type:,762,glade,po/en_CA.po
+Drag-n-Drop from %s to %s,859,Drag-and-Drop from %s to %s,860,glade,po/en_CA.po
+Alphanumerical,1038,Alphanumeric,1039,glade,po/en_CA.po
+Failed to load %s.\nThe following required catalogs are unavailable: %s,1304,Failed to load %s.\nThe following required catalogues are unavailable: %s,1307,glade,po/en_CA.po
+Set the description of the Click atk action,1323,Set the description of the Click ATK action,1324,glade,po/en_CA.po
+Set the description of the Press atk action,1333,Set the description of the Press ATK action,1334,glade,po/en_CA.po
+Set the description of the Release atk action,1343,Set the description of the Release ATK action,1344,glade,po/en_CA.po
+Set the description of the Activate atk action,1353,Set the description of the Activate ATK action,1354,glade,po/en_CA.po
+"Indicates that the object has content that flows logically from another AtkObject in a sequential way, (for instance text-flow)",1429,"Indicates that the object has content that flows logically from another AtkObject in a sequential way (for instance, text-flow)",1432,glade,po/en_CA.po
+Lookup,1541,Look up,1542,glade,po/en_CA.po
+Error shutting down io channel %s: %s,1597,Error shutting down I/O channel %s: %s,1598,glade,po/en_CA.po
+Catalog,1749,Catalogue,1750,glade,po/en_CA.po
+The name of the widget catalog this class was declared by,1753,The name of the widget catalogue this class was declared by,1754,glade,po/en_CA.po
+This only applies with label type buttons,1988,This only applies to label type buttons,1989,glade,po/en_CA.po
+This only applies with stock type buttons,1993,This only applies to stock type buttons,1994,glade,po/en_CA.po
+This only applies with file type images,2001,This only applies to file type images,2002,glade,po/en_CA.po
+This only applies with stock type images,2009,This only applies to stock type images,2010,glade,po/en_CA.po
+"A stock item, select None to choose a custom image and label",2211,A stock item. Select None to choose a custom image and label,2212,glade,po/en_CA.po
+About Dialog,2223,About Dialogue,2224,glade,po/en_CA.po
+Always Center,2260,Always Centre,2261,glade,po/en_CA.po
+Bottom to Top,2300,Bottom-to-Top,2301,glade,po/en_CA.po
+Center,2349,Centre,2350,glade,po/en_CA.po
+Center on Parent,2353,Centre on Parent,2354,glade,po/en_CA.po
+Centimeters,2357,Centimetres,2358,glade,po/en_CA.po
+Color Button,2377,Colour Button,2378,glade,po/en_CA.po
+Color Selection,2381,Colour Selection,2382,glade,po/en_CA.po
+Color Selection Dialog,2385,Colour Selection Dialogue,2386,glade,po/en_CA.po
+Dialog,2473,Dialogue,2474,glade,po/en_CA.po
+Dialog Box,2477,Dialogue Box,2478,glade,po/en_CA.po
+File Chooser Dialog,2573,File Chooser Dialogue,2574,glade,po/en_CA.po
+Font Selection Dialog,2613,Font Selection Dialogue,2614,glade,po/en_CA.po
+"Indicates that the object has content that flows logically to another AtkObject in a sequential way, (for instance text-flow)",2729,"Indicates that the object has content that flows logically to another AtkObject in a sequential way (for instance, text-flow)",2732,glade,po/en_CA.po
+Input Dialog,2737,Input Dialogue,2738,glade,po/en_CA.po
+Left to Right,2805,Left-to-Right,2806,glade,po/en_CA.po
+Message Dialog,2845,Message Dialogue,2846,glade,po/en_CA.po
+Ok,2911,OK,2912,glade,po/en_CA.po
+"Ok, Cancel",2915,"OK, Cancel",2916,glade,po/en_CA.po
+Proximity  Out,2976,Proximity Out,2977,glade,po/en_CA.po
+Recent Chooser Dialog,3012,Recent Chooser Dialogue,3013,glade,po/en_CA.po
+Right to Left,3044,Right-to-Left,3045,glade,po/en_CA.po
+The response ID of this button in a dialog (it's NOT useful if this button is not in a GtkDialog),3215,The response ID of this button in a dialogue (it's NOT useful if this button is not in a GtkDialog),3218,glade,po/en_CA.po
+Top to Bottom,3279,Top-to-Bottom,3280,glade,po/en_CA.po
+Page Setup Dialog,3381,Page Setup Dialogue,3382,glade,po/en_CA.po
+Print Dialog,3385,Print Dialogue,3386,glade,po/en_CA.po
+Behavior,3426,Behaviour,3427,glade,po/en_CA.po
+Background Color,3446,Background Colour,3447,glade,po/en_CA.po
+Contents Background Color,3450,Contents Background Colour,3451,glade,po/en_CA.po
+GNOME Color Picker,3478,GNOME Colour Picker,3479,glade,po/en_CA.po
+GNOME Dialog,3487,GNOME Dialogue,3488,glade,po/en_CA.po
+Logo Background Color,3559,Logo Background Colour,3560,glade,po/en_CA.po
+Text Foreground Color,3611,Text Foreground Colour,3612,glade,po/en_CA.po
+Title Foreground Color,3631,Title Foreground Colour,3632,glade,po/en_CA.po
+The maximum x coordinate,3764,The maximum X coordinate,3765,glade,po/en_CA.po
+The maximum y coordinate,3768,The maximum Y coordinate,3769,glade,po/en_CA.po
+The minimum x coordinate,3772,The minimum X coordinate,3773,glade,po/en_CA.po
+The minimum y coordinate,3776,The minimum Y coordinate,3777,glade,po/en_CA.po
+_%d place,1163,_%d places,1166,gnome-calculator,po/en_CA.po
+%d place,1172,%d places,1175,gnome-calculator,po/en_CA.po
+"Gcalctool is free software; you can redistribute it and/or modify\nit under the terms of the GNU General Public License as published by\nthe Free Software Foundation; either version 2 of the License, or\n(at your option) any later version.\n\nGcalctool is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License\nalong with Gcalctool; if not, write to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA",1333,"Gcalctool is free software; you can redistribute it and/or modify\nit under the terms of the GNU General Public Licence as published by\nthe Free Software Foundation; either version 2 of the Licence, or\n(at your option) any later version.\n\nGcalctool is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\nGNU General Public Licence for more details.\n\nYou should have received a copy of the GNU General Public Licence\nalong with Gcalctool; if not, write to the Free Software Foundation, Inc.,\n51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA",1347,gnome-calculator,po/en_CA.po
+Kilometers,1628,Kilometres,1629,gnome-calculator,po/en_CA.po
+"kilometer,kilometers,km,kms",1639,"kilometre,kilometres,km,kms",1640,gnome-calculator,po/en_CA.po
+Meters,1673,Metres,1674,gnome-calculator,po/en_CA.po
+"meter,meters,m",1684,"metre,metres,m",1685,gnome-calculator,po/en_CA.po
+Centimeters,1733,Centimetres,1734,gnome-calculator,po/en_CA.po
+"centimeter,centimeters,cm,cms",1744,"centimetre,centimetres,cm,cms",1745,gnome-calculator,po/en_CA.po
+Millimeters,1748,Millimetres,1749,gnome-calculator,po/en_CA.po
+"millimeter,millimeters,mm",1759,"millimetre,millimetres,mm",1760,gnome-calculator,po/en_CA.po
+Micrometers,1763,Micrometres,1764,gnome-calculator,po/en_CA.po
+"micrometer,micrometers,um",1774,"micrometre,micrometres,um",1775,gnome-calculator,po/en_CA.po
+Nanometers,1778,Nanometres,1779,gnome-calculator,po/en_CA.po
+"nanometer,nanometers,nm",1789,"nanometre,nanometres,nm",1790,gnome-calculator,po/en_CA.po
+Square Meters,1823,Square Metres,1824,gnome-calculator,po/en_CA.po
+Square Centimeters,1838,Square Centimetres,1839,gnome-calculator,po/en_CA.po
+Square Millimeters,1853,Square Millimetres,1854,gnome-calculator,po/en_CA.po
+Cubic Meters,1868,Cubic Metres,1869,gnome-calculator,po/en_CA.po
+"litre,litres,liter,liters,L",1909,"litre,litres,1re,1res,L",1910,gnome-calculator,po/en_CA.po
+"millilitre,millilitres,milliliter,milliliters,mL,cm³",1954,"millilitre,millilitres,milli1re,milli1res,mL,cm³",1955,gnome-calculator,po/en_CA.po
+minute,1252,minutes,1255,gnome-chess,po/en_CA.po
+hour,1259,hours,1262,gnome-chess,po/en_CA.po
+second,1266,seconds,1269,gnome-chess,po/en_CA.po
+Suggestion,619,Suggestions,622,gnome-contacts,po/en_CA.po
+Width of border around the label and image in the alert dialog,26,Width of border around the label and image in the alert dialogue,27,gnome-control-center,po/en_CA.po
+The buttons shown in the alert dialog,42,The buttons shown in the alert dialogue,43,gnome-control-center,po/en_CA.po
+There was an error while trying to get the addressbook information\nEvolution Data Server can't handle the protocol,67,There was an error while trying to get the addressbook information\nEvolution Data Server cannot handle the protocol,70,gnome-control-center,po/en_CA.po
+"Unknown login ID, the user database might be corrupted",79,Unknown login ID; the user database might be corrupted,80,gnome-control-center,po/en_CA.po
+"Old password is incorrect, please retype it",90,Old password is incorrect; please retype it,91,gnome-control-center,po/en_CA.po
+"Please type the password again, it is wrong.",136,Incorrect password; please type the password again.,137,gnome-control-center,po/en_CA.po
+Click on Change Password to change the password.,140,"Click on \""Change Password\"" to change the password.",141,gnome-control-center,po/en_CA.po
+State/Pro_vince:,273,Pro_vince/State:,274,gnome-control-center,po/en_CA.po
+Zip/_Postal code:,293,_Postal/Zip Code:,294,gnome-control-center,po/en_CA.po
+_Zip/Postal code:,357,Postal/_Zip code:,358,gnome-control-center,po/en_CA.po
+There was an error launching the mouse preferences dialog: %s,444,There was an error launching the mouse preferences dialogue: %s,445,gnome-control-center,po/en_CA.po
+<b>_Desktop Colors</b>,677,<b>_Desktop Colours</b>,678,gnome-control-center,po/en_CA.po
+Open a dialog to specify the color,685,Open a dialogue to specify the colour,686,gnome-control-center,po/en_CA.po
+Centered,709,Centred,710,gnome-control-center,po/en_CA.po
+Solid Color,729,Solid Colour,730,gnome-control-center,po/en_CA.po
+pixel,759,pixels,762,gnome-control-center,po/en_CA.po
+"Couldn't find the file '%s'.\n\nPlease make sure it exists and try again, or choose a different background picture.",933,"Could not find the file '%s'.\n\nPlease make sure it exists and try again, or choose a different background picture.",938,gnome-control-center,po/en_CA.po
+I don't know how to open the file '%s'.\nPerhaps it's a kind of picture that is not yet supported.\n\nPlease select a different picture instead.,946,I do not know how to open the file '%s'.\nPerhaps it is a kind of picture that is not yet supported.\n\nPlease select a different picture instead.,951,gnome-control-center,po/en_CA.po
+Testing the new settings. If you don't respond in %d second the previous settings will be restored.,1261,Testing the new settings. If you do not respond in %d second the previous settings will be restored.,1267,gnome-control-center,po/en_CA.po
+Testing the new settings. If you don't respond in %d second the previous settings will be restored.,1261,Testing the new settings. If you do not respond in %d seconds the previous settings will be restored.,1270,gnome-control-center,po/en_CA.po
+Gra_yscale,1359,Gre_yscale,1360,gnome-control-center,po/en_CA.po
+_Fixed width font:,1395,_Fixed-width font:,1396,gnome-control-center,po/en_CA.po
+"The font selected is %d point large, and may make it difficult to effectively use the computer.  It is recommended that you select a size smaller than %d.",1440,"The font selected is %d points large, and may make it difficult to effectively use the computer.  It is recommended that you select a size smaller than %d.",1452,gnome-control-center,po/en_CA.po
+"The font selected is %d point large, and may make it difficult to effectively use the computer.  It is recommended that you select a smaller sized font.",1459,"The font selected is %d points large, and may make it difficult to effectively use the computer.  It is recommended that you select a smaller sized font.",1471,gnome-control-center,po/en_CA.po
+Cursor blinks speed,1681,Cursor blink speed,1682,gnome-control-center,po/en_CA.po
+Theme can not be deleted,2089,Theme cannot be deleted,2090,gnome-control-center,po/en_CA.po
+"No themes could be found on your system.  This probably means that your \""Theme Preferences\"" dialog was improperly installed, or you haven't installed the \""gnome-themes\"" package.",2093,"No themes could be found on your system.  This probably means that your \""Theme Preferences\"" dialogue was improperly installed, or you have not installed the \""gnome-themes\"" package.",2097,gnome-control-center,po/en_CA.po
+Can not install theme. \nThe bzip2 utility is not installed.,2111,Cannot install theme. \nThe bzip2 utility is not installed.,2114,gnome-control-center,po/en_CA.po
+Can not install themes. \nThe gzip utility is not installed.,2125,Cannot install themes. \nThe gzip utility is not installed.,2128,gnome-control-center,po/en_CA.po
+Cannot install theme.\nThe tar program is not installed on your system.,2203,Cannot install theme.\nThe tar(1) program is not installed on your system.,2206,gnome-control-center,po/en_CA.po
+"The default theme schemas could not be found on your system.  This means that you probably don't have metacity installed, or that your gconf is configured incorrectly.",2219,"The default theme schemas could not be found on your system.  This means that you probably do not have metacity installed, or that your gconf is configured incorrectly.",2223,gnome-control-center,po/en_CA.po
+<b>Behavior and Appearance</b>,2358,<b>Behaviour and Appearance</b>,2359,gnome-control-center,po/en_CA.po
+GNOME Control Center,2537,GNOME Control Centre,2538,gnome-control-center,po/en_CA.po
+Not a powerbook,2550,Not a PowerBook,2551,gnome-control-center,po/en_CA.po
+"Error activating XKB configuration.\nIt can happen under various circumstances:\n- a bug in libxklavier library\n- a bug in X server (xkbcomp, xmodmap utilities)\n- X server with incompatible libxkbfile implementation\n\nX server version data:\n%s\n%d\n%s\nIf you report this situation as a bug, please include:\n- The result of <b>%s</b>\n- The result of <b>%s</b>",2694,"Error activating XKB configuration.\nThis can happen under various circumstances:\n- a bug in libxklavier library\n- a bug in X server (xkbcomp, xmodmap utilities)\n- X server with incompatible libxkbfile implementation\n\nX server version data:\n%s\n%d\n%s\nIf you report this situation as a bug, please include:\n- The result of <b>%s</b>\n- The result of <b>%s</b>",2708,gnome-control-center,po/en_CA.po
+You are using XFree 4.3.0.\nThere are known problems with complex XKB configurations.\nTry using a simpler configuration or taking a fresher version of XFree software.,2724,You are using XFree 4.3.0.\nThere are known problems with complex XKB configurations.\nTry using a simpler configuration or using a newer version of XFree software.,2729,gnome-control-center,po/en_CA.po
+Couldn't execute command: %s\nVerify that this command exists.,2756,Could not execute command: %s\nVerify that this command exists.,2759,gnome-control-center,po/en_CA.po
+Couldn't put the machine to sleep.\nVerify that the machine is correctly configured.,2764,Could not put the machine to sleep.\nVerify that the machine is correctly configured.,2767,gnome-control-center,po/en_CA.po
+Couldn't load the Glade file.\nMake sure that this daemon is properly installed.,2772,Could not load the Glade file.\nMake sure that this daemon is properly installed.,2775,gnome-control-center,po/en_CA.po
+Couldn't load sound file %s as sample %s,2800,Could not load sound file %s as sample %s,2801,gnome-control-center,po/en_CA.po
+Display a dialog when there are errors running the screensaver,3091,Display a dialogue when there are errors running the screensaver,3092,gnome-control-center,po/en_CA.po
+A collection of scripts to run whenever the keyboard state is reloaded. Useful for re-applying xmodmap based adjustments,3107,A collection of scripts to run whenever the keyboard state is reloaded. Useful for re-applying xmodmap-based adjustments,3110,gnome-control-center,po/en_CA.po
+Keyboard settings in gconf will be overridden from the system ASAP (deprecated),3143,Keyboard settings in GConf will be overridden from the system ASAP (deprecated),3146,gnome-control-center,po/en_CA.po
+"Very soon, keyboard settings in gconf will be overridden (from the system configuration) This key has been deprecated since GNOME 2.12, please unset the model, layouts and options keys to get the default system configuration.",3171,"Very soon, keyboard settings in GConf will be overridden (from the system configuration). This key has been deprecated since GNOME 2.12. Please unset the model, layouts and options keys to get the default system configuration.",3175,gnome-control-center,po/en_CA.po
+%d minute until the next break,3215,%d minutes until the next break,3218,gnome-control-center,po/en_CA.po
+Unable to bring up the typing break properties dialog with the following error: %s,3226,Unable to bring up the typing break properties dialogue with the following error: %s,3229,gnome-control-center,po/en_CA.po
+"The typing monitor uses the notification area to display information. You don't seem to have a notification area on your panel. You can add it by right-clicking on your panel and choosing 'Add to panel', selecting 'Notification area' and clicking 'Add'.",3262,"The typing monitor uses the notification area to display information. You do not seem to have a notification area on your panel. You can add it by right-clicking on your panel and choosing 'Add to panel', selecting 'Notification area' and clicking 'Add'.",3267,gnome-control-center,po/en_CA.po
+_Background color:,266,_Background colour:,267,gnome-mahjongg,po/en_CA.po
+Programs for Internet access such as web and email,82,"Programs for Internet access, such as web and email",83,gnome-menus,po/en_CA.po
+Applications that did not fit in other categories,102,Applications that do not fit in other categories,103,gnome-menus,po/en_CA.po
+Accessibility related preferences,119,Accessibility-related preferences,120,gnome-menus,po/en_CA.po
+Change systemwide settings (affects all users),131,Change system-wide settings (affects all users),132,gnome-menus,po/en_CA.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",212,\n\n\n==== Menu changed; reloading ====\n\n\n,219,gnome-menus,po/en_CA.po
+Network Devices Not Found,305,No Network Devices Found,306,gnome-nettool,po/en_CA.po
+"The file %s doesn't exist, please check if gnome-nettool is correctly installed",497,The file %s doesn't exist. Please check if gnome-nettool is correctly installed,500,gnome-nettool,po/en_CA.po
+Enter the network address to trace a route to.\nFor example: www.domain.com or 192.168.2.1,513,Enter the network address to which to trace a route.\nFor example: www.domain.com or 192.168.2.1,516,gnome-nettool,po/en_CA.po
+Enter the network address to lookup.\nFor example: www.domain.com or 192.168.2.1,549,Enter the network address to look up.\nFor example: www.domain.com or 192.168.2.1,552,gnome-nettool,po/en_CA.po
+Enter a domain address to lookup its whois information.\nFor example: www.domain.com or 192.168.2.1,570,Enter a domain address to look up its whois information.\nFor example: www.domain.com or 192.168.2.1,573,gnome-nettool,po/en_CA.po
+"Getting information of %s on \""%s\""",818,"Getting information about %s on \""%s\""",819,gnome-nettool,po/en_CA.po
+"Getting information of all users on \""%s\""",823,"Getting information about all users on \""%s\""",824,gnome-nettool,po/en_CA.po
+Getting the whois information of %s,828,Getting the whois information about %s,829,gnome-nettool,po/en_CA.po
+Color to use for worm,239,Colour to use for worm,240,gnome-nibbles,po/en_CA.po
+Color to use for worm.,243,Colour to use for worm.,244,gnome-nibbles,po/en_CA.po
+Background color,107,Background colour,108,gnome-robots,po/en_CA.po
+Background color. The hex specification of the background color.,111,Background colour. The hex specification of the background colour.,112,gnome-robots,po/en_CA.po
+_Background color:,447,_Background colour:,448,gnome-robots,po/en_CA.po
+"If enabled, gnome-session will save the session automatically. Otherwise, the logout dialog will have an option to save the session.",42,"If enabled, gnome-session will save the session automatically. Otherwise, the logout dialogue will have an option to save the session.",45,gnome-session,po/en_CA.po
+Selected option in the log out dialog,62,Selected option in the log-out dialogue,63,gnome-session,po/en_CA.po
+This is a relative path value based off the $datadir/pixmaps/ directory. Sub-directories and image names are valid values. Changing this value will effect the next session login.,74,This is a relative path value based off the $datadir/pixmaps/ directory. Sub-directories and image names are valid values. Changing this value will affect the next session login.,78,gnome-session,po/en_CA.po
+"This is the option that will be selected in the logout dialog, valid values are \""logout\"" for logging out, \""shutdown\"" for halting the system and \""restart\"" for restarting the system.",84,"This is the option that will be selected in the logout dialogue. Valid values are \""logout\"" for logging out, \""shutdown\"" for halting the system and \""restart\"" for restarting the system.",88,gnome-session,po/en_CA.po
+Couldn't find program %s in session\n,301,Could not find program %s in session\n,302,gnome-session,po/en_CA.po
+"The GNOME session manager was unable to lock the file '%s'.  Please report this as a GNOME bug.  Sometimes this error may occur if the file's directory is unwritable, you could try logging in via the failsafe session and ensuring that it is.",318,The GNOME session manager was unable to lock the file '%s'.  Please report this as a GNOME bug.  Sometimes this error may occur if the file's directory is unwritable.  You could try logging in via the failsafe session and checking the directory.,323,gnome-session,po/en_CA.po
+The GNOME session manager was unable to read the file: '%s'.  If this file exists it must be readable by you for GNOME to work properly.  Try logging in with the failsafe session and removing this file.,331,The GNOME session manager was unable to read the file '%s'.  If this file exists it must be readable by you for GNOME to work properly.  Try logging in with the failsafe session and removing this file.,335,gnome-session,po/en_CA.po
+The session might encounter issues if the computer clock is not properly configured. Please consider adjusting it.\n\nCurrent date is <b>%s</b>.,422,The session might encounter issues if the computer's clock is not properly configured. Please consider adjusting it.\n\nCurrent date is <b>%s</b>.,427,gnome-session,po/en_CA.po
+The computer clock appears to be wrong,439,The computer's clock appears to be wrong,440,gnome-session,po/en_CA.po
+Use dialog boxes for errors,509,Use dialogue boxes for errors,510,gnome-session,po/en_CA.po
+Couldn't put the machine to sleep.\nVerify that the machine is correctly configured.,636,Could not put the machine to sleep.\nVerify that the machine is correctly configured.,639,gnome-settings-daemon,po/en_CA.po
+Couldn't load sound file %s as sample %s,706,Could not load sound file %s as sample %s,707,gnome-settings-daemon,po/en_CA.po
+Today %l:%M %p,72,Today %H:%M,73,gnome-system-monitor,po/en_CA.po
+Yesterday %l:%M %p,76,Yesterday %H:%M,77,gnome-system-monitor,po/en_CA.po
+%a %l:%M %p,80,%a %H:%M,81,gnome-system-monitor,po/en_CA.po
+%b %d %l:%M %p,84,%d %b %H:%M,85,gnome-system-monitor,po/en_CA.po
+%b %d %Y,88,%d %b %Y,89,gnome-system-monitor,po/en_CA.po
+Default graph background color,134,Default graph background colour,135,gnome-system-monitor,po/en_CA.po
+Default graph cpu color,138,Default graph CPU colour,139,gnome-system-monitor,po/en_CA.po
+Default graph frame color,142,Default graph frame colour,143,gnome-system-monitor,po/en_CA.po
+Default graph mem color,146,Default graph mem colour,147,gnome-system-monitor,po/en_CA.po
+Default graph net in color,150,Default graph net in colour,151,gnome-system-monitor,po/en_CA.po
+Default graph net out color,154,Default graph net out colour,155,gnome-system-monitor,po/en_CA.po
+Default graph swap color,158,Default graph swap colour,159,gnome-system-monitor,po/en_CA.po
+Show warning dialog when hiding processes,214,Show warning dialogue when hiding processes,215,gnome-system-monitor,po/en_CA.po
+Show warning dialog when killing processes,218,Show warning dialogue when killing processes,219,gnome-system-monitor,po/en_CA.po
+Cannot change the priority of process with pid %d to %d.\n%s,536,Cannot change the priority of process with PID %d to %d.\n%s,539,gnome-system-monitor,po/en_CA.po
+Cannot kill process with pid %d with signal %d.\n%s,545,Cannot kill process with PID %d with signal %d.\n%s,548,gnome-system-monitor,po/en_CA.po
+"Killing a process may destroy data, break the session or introduce a security risk. Only unresponding processes should be killed.",574,"Killing a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be killed.",577,gnome-system-monitor,po/en_CA.po
+"Ending a process may destroy data, break the session or introduce a security risk. Only unresponding processes should be ended.",588,"Ending a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be ended.",591,gnome-system-monitor,po/en_CA.po
+Processes i_nfo showed in list:,640,Process i_nfo showed in list:,641,gnome-system-monitor,po/en_CA.po
+Behavior,652,Behaviour,653,gnome-system-monitor,po/en_CA.po
+_Background color:,680,_Background colour:,681,gnome-system-monitor,po/en_CA.po
+_Grid color:,684,_Grid colour:,685,gnome-system-monitor,po/en_CA.po
+%u byte,779,%u bytes,782,gnome-system-monitor,po/en_CA.po
+%.1f KiB,786,%.1f KB,787,gnome-system-monitor,po/en_CA.po
+%.1f MiB,791,%.1f MB,792,gnome-system-monitor,po/en_CA.po
+%.1f GiB,796,%.1f GB,797,gnome-system-monitor,po/en_CA.po
+<small><i><b>Note:</b> Terminal applications have these colors available to them.</i></small>,250,<small><i><b>Note:</b> Terminal applications have these colours available to them.</i></small>,253,gnome-terminal,po/en_CA.po
+<small><i><b>Note:</b> These options may cause some applications to behave incorrectly.  They are only here to allow you to work around certain applications and operating systems that expect different terminal behavior.</i></small>,266,<small><i><b>Note:</b> These options may cause some applications to behave incorrectly.  They are only here to allow you to work around certain applications and operating systems that expect different terminal behaviour.</i></small>,271,gnome-terminal,po/en_CA.po
+Choose Terminal Background Color,332,Choose Terminal Background Colour,333,gnome-terminal,po/en_CA.po
+Choose Terminal Text Color,336,Choose Terminal Text Colour,337,gnome-terminal,po/en_CA.po
+Color _palette:,340,Colour _palette:,341,gnome-terminal,po/en_CA.po
+Colors,344,Colours,345,gnome-terminal,po/en_CA.po
+Replaces initial title\nGoes before initial title\nGoes after initial title\nIsn't displayed,440,Replaces initial title\nGoes before initial title\nGoes after initial title\nIs not displayed,445,gnome-terminal,po/en_CA.po
+Use colors from s_ystem theme,500,Use colours from s_ystem theme,501,gnome-terminal,po/en_CA.po
+_Background color:,512,_Background colour:,513,gnome-terminal,po/en_CA.po
+_None (use solid color),532,_None (use solid colour),533,gnome-terminal,po/en_CA.po
+_Text color:,556,_Text colour:,557,gnome-terminal,po/en_CA.po
+Default color of terminal background,680,Default colour of terminal background,681,gnome-terminal,po/en_CA.po
+"Default color of terminal background, as a color specification (can be HTML-style hex digits, or a color name such as \""red\"").",684,"Default colour of terminal background, as a colour specification (can be HTML-style hex digits, or a colour name such as \""red\"").",687,gnome-terminal,po/en_CA.po
+Default color of text in the terminal,692,Default colour of text in the terminal,693,gnome-terminal,po/en_CA.po
+"Default color of text in the terminal, as a color specification (can be HTML-style hex digits, or a color name such as \""red\"").",696,"Default colour of text in the terminal, as a colour specification (can be HTML-style hex digits, or a colour name such as \""red\"").",699,gnome-terminal,po/en_CA.po
+"If true, the theme color scheme used for text entry boxes will be used for the terminal, instead of colors provided by the user.",816,"If true, the theme colour scheme used for text entry boxes will be used for the terminal, instead of colours provided by the user.",819,gnome-terminal,po/en_CA.po
+"Keyboard shortcut key for bringing up the dialog for profile creation. Expressed as a string in the same format used for GTK+ resource files. If you set the option to the special string \""disabled\"", then there will be no keyboard shortcut for this action.",838,"Keyboard shortcut key for bringing up the dialogue for profile creation. Expressed as a string in the same format used for GTK+ resource files. If you set the option to the special string \""disabled\"", then there will be no keyboard shortcut for this action.",843,gnome-terminal,po/en_CA.po
+Popup a dialog when an S/Key challenge response query is detected and clicked on. Typing a password into the dialog will send it to the terminal.,1344,Pop up a dialogue when an S/Key challenge response query is detected and clicked on. Typing a password into the dialogue will send it to the terminal.,1347,gnome-terminal,po/en_CA.po
+"Terminals have a 16-color palette that applications inside the terminal can use. This is that palette, in the form of a colon-separated list of color names. Color names should be in hex format e.g. \""#FF00FF\""",1406,"Terminals have a 16-colour palette that applications inside the terminal can use. This is that palette, in the form of a colon-separated list of colour names. Colour names should be in hex format e.g. \""#FF00FF\""",1410,gnome-terminal,po/en_CA.po
+"Type of terminal background. May be \""solid\"" for a solid color, \""image\"" for an image, or \""transparent\"" for pseudo-transparency.",1446,"Type of terminal background. May be \""solid\"" for a solid colour, \""image\"" for an image, or \""transparent\"" for pseudo-transparency.",1449,gnome-terminal,po/en_CA.po
+Whether to use the colors from the theme for the terminal widget,1554,Whether to use the colours from the theme for the terminal widget,1555,gnome-terminal,po/en_CA.po
+Choose Palette Color %d,1613,Choose Palette Colour %d,1614,gnome-terminal,po/en_CA.po
+The text you clicked on doesn't seem to be a valid S/Key challenge.,1691,The text you clicked on does not seem to be a valid S/Key challenge.,1692,gnome-terminal,po/en_CA.po
+The text you clicked on doesn't seem to be a valid OTP challenge.,1695,The text you clicked on does not seem to be a valid OTP challenge.,1696,gnome-terminal,po/en_CA.po
+"Could not parse string \""%s\"" as a color palette\n",2030,"Could not parse string \""%s\"" as a colour palette\n",2031,gnome-terminal,po/en_CA.po
+Palette had %d entry instead of %d\n,2035,Palette had %d entries instead of %d\n,2038,gnome-terminal,po/en_CA.po
+Color dropped on terminal had wrong format (%d) or length (%d)\n,2136,Colour dropped on terminal had wrong format (%d) or length (%d)\n,2137,gnome-terminal,po/en_CA.po
+This window has one tab open. Closing the window will close it.,2303,This window has %d tabs open. Closing the window will also close all its tabs.,2308,gnome-terminal,po/en_CA.po
+Delete this profile?\n,2701,Delete these %d profiles?\n,2704,gnome-terminal,po/en_CA.po
+Click to open new profile dialog,2724,Click to open new profile dialogue,2725,gnome-terminal,po/en_CA.po
+Click to open edit profile dialog,2728,Click to open edit profile dialogue,2729,gnome-terminal,po/en_CA.po
+_Search for:,2777,_Search for: ,2778,gnome-terminal,po/en_CA.po
+"If this is true, the Public directory in the users home directory will be shared when the user is logged in.",21,"If this is true, the Public directory in the user's home directory will be shared when the user is logged in.",24,gnome-user-share,po/en_CA.po
+"Failed to parse message \""%s\"" from dialog process\n",57,"Failed to parse message \""%s\"" from dialogue process\n",58,mutter,po/en_CA.po
+Error reading from dialog display process: %s\n,62,Error reading from dialogue display process: %s\n,63,mutter,po/en_CA.po
+Error launching metacity-dialog to ask about killing an application: %s\n,67,Error launching metacity-dialogue to ask about killing an application: %s\n,69,mutter,po/en_CA.po
+Error launching metacity-dialog to print an error about a command: %s\n,153,Error launching metacity-dialogue to print an error about a command: %s\n,154,mutter,po/en_CA.po
+Run a terminal,844,Open a terminal window,845,mutter,po/en_CA.po
+"Setting this option to false can lead to buggy behavior, so users are strongly discouraged from changing it from the default of true. Many actions (e.g. clicking in the client area, moving or resizing the window) normally raise the window as a side-effect. Set this option to false to decouple raising from other user actions. Even when this option is false, windows can still be raised by an alt-left-click anywhere on the window, a normal click on the window decorations, or by special messages from pagers, such as activation requests from tasklist applets. This option is currently disabled in click-to-focus mode. Note that the list of ways to raise windows when raise_on_click is false does not include programmatic requests from applications to raise windows; such requests will be ignored regardless of the reason for the request. If you are an application developer and have a user complaining that your application does not work with this setting disabled, tell them it is _their_ fault for breaking their window manager and that they need to change this option back to true or live with the bug they requested. See also http://bugzilla.gnome.org/show_bug.cgi?id=445447#c6.",848,"Setting this option to false can lead to buggy behaviour, so users are strongly discouraged from changing it from the default of true. Many actions (e.g. clicking in the client area, moving or resizing the window) normally raise the window as a side-effect. Set this option to false to decouple raising from other user actions. Even when this option is false, windows can still be raised by an alt-left-click anywhere on the window, a normal click on the window decorations, or by special messages from pagers, such as activation requests from tasklist applets. This option is currently disabled in click-to-focus mode. Note that the list of ways to raise windows when raise_on_click is false does not include programmatic requests from applications to raise windows; such requests will be ignored regardless of the reason for the request. If you are an application developer and have a user complaining that your application does not work with this setting disabled, tell them it is _their_ fault for breaking their window manager and that they need to change this option back to true or live with the bug they requested. See also http://bugzilla.gnome.org/show_bug.cgi?id=445447#c6.",865,mutter,po/en_CA.po
+Show the panel run application dialog,888,Show the panel run application dialogue,889,mutter,po/en_CA.po
+"The keybinding which display's the panel's \""Run Application\"" dialog box. The format looks like \""&lt;Control&gt;a\"" or \""&lt;Shift&gt;&lt;Alt&gt;F1\"". The parser is fairly liberal and allows lower or upper case, and also abbreviations such as \""&lt;Ctl&gt;\"" and \""&lt;Ctrl&gt;\"". If you set the option to the special string \""disabled\"", then there will be no keybinding for this action.",1904,"The keybinding which display's the panel's \""Run Program\"" dialogue box. The format looks like \""&lt;Control&gt;a\"" or \""&lt;Shift&gt;&lt;Alt&gt;F1\"". The parser is fairly liberal and allows lower or upper case, and also abbreviations such as \""&lt;Ctl&gt;\"" and \""&lt;Ctrl&gt;\"". If you set the option to the special string \""disabled\"", then there will be no keybinding for this action.",1911,mutter,po/en_CA.po
+%d stored in GConf key %s is not a reasonable cursor_size; must be in the range 1..128\n,2370,%d stored in GConf key %s is not a reasonable cursor_size; must be in the range 1--128\n,2373,mutter,po/en_CA.po
+Error launching metacity-dialog to warn about apps that don't support session management: %s\n,2526,Error launching metacity-dialogue to warn about apps that don't support session management: %s\n,2529,mutter,po/en_CA.po
+/Windows/_Dialog,3086,/Windows/_Dialogue,3087,mutter,po/en_CA.po
+/Windows/_Modal dialog,3090,/Windows/_Modal dialogue,3091,mutter,po/en_CA.po
+This is a sample message in a sample dialog,3138,This is a sample message in a sample dialogue,3139,mutter,po/en_CA.po
+Dialog Box,3159,Dialogue Box,3160,mutter,po/en_CA.po
+Modal Dialog Box,3163,Modal Dialogue Box,3164,mutter,po/en_CA.po
+Gradients should have at least two colors,3313,Gradients should have at least two colours,3314,mutter,po/en_CA.po
+"GTK color specification must have the state in brackets, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",3318,"GTK colour specification must have the state in brackets, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",3321,mutter,po/en_CA.po
+"GTK color specification must have a close bracket after the state, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",3327,"GTK colour specification must have a close bracket after the state, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",3330,mutter,po/en_CA.po
+"Did not understand state \""%s\"" in color specification",3336,"Did not understand state \""%s\"" in colour specification",3337,mutter,po/en_CA.po
+"Did not understand color component \""%s\"" in color specification",3341,"Did not understand colour component \""%s\"" in colour specification",3342,mutter,po/en_CA.po
+"Blend format is \""blend/bg_color/fg_color/alpha\"", \""%s\"" does not fit the format",3346,"Blend format is \""blend/bg_colour/fg_colour/alpha\"", \""%s\"" does not fit the format",3349,mutter,po/en_CA.po
+"Could not parse alpha value \""%s\"" in blended color",3355,"Could not parse alpha value \""%s\"" in blended colour",3356,mutter,po/en_CA.po
+"Alpha value \""%s\"" in blended color is not between 0.0 and 1.0",3360,"Alpha value \""%s\"" in blended colour is not between 0.0 and 1.0",3361,mutter,po/en_CA.po
+"Shade format is \""shade/base_color/factor\"", \""%s\"" does not fit the format",3365,"Shade format is \""shade/base_colour/factor\"", \""%s\"" does not fit the format",3367,mutter,po/en_CA.po
+"Could not parse shade factor \""%s\"" in shaded color",3372,"Could not parse shade factor \""%s\"" in shaded colour",3373,mutter,po/en_CA.po
+"Shade factor \""%s\"" in shaded color is negative",3377,"Shade factor \""%s\"" in shaded colour is negative",3378,mutter,po/en_CA.po
+"Could not parse color \""%s\""",3382,"Could not parse colour \""%s\""",3383,mutter,po/en_CA.po
+"%m/%-d/%y, %-I:%M %p",504,"%-d/%m/%y, %-I:%M %p",505,nautilus,po/en_CA.po
+%m/%d/%y,512,%d/%m/%y,513,nautilus,po/en_CA.po
+%'u item,542,%'u items,545,nautilus,po/en_CA.po
+%'u folder,549,%'u folders,552,nautilus,po/en_CA.po
+%'u file,556,%'u files,559,nautilus,po/en_CA.po
+%'d second,773,%'d seconds,776,nautilus,po/en_CA.po
+%'d minute,781,%'d minutes,784,nautilus,po/en_CA.po
+%'d hour,788,%'d hours,791,nautilus,po/en_CA.po
+approximately %'d hour,795,approximately %'d hours,798,nautilus,po/en_CA.po
+Are you sure you want to permanently delete the %'d selected item from the trash?,936,Are you sure you want to permanently delete the %'d selected items from the trash?,945,nautilus,po/en_CA.po
+Are you sure you want to permanently delete the %'d selected item?,975,Are you sure you want to permanently delete the %'d selected items?,979,nautilus,po/en_CA.po
+%'d file left to delete,983,%'d files left to delete,986,nautilus,po/en_CA.po
+%'d file left to trash,1058,%'d files left to trash,1061,nautilus,po/en_CA.po
+Preparing to copy %'d file (%S),1110,Preparing to copy %'d files (%S),1113,nautilus,po/en_CA.po
+Preparing to move %'d file (%S),1117,Preparing to move %'d files (%S),1120,nautilus,po/en_CA.po
+Preparing to delete %'d file (%S),1124,Preparing to delete %'d files (%S),1127,nautilus,po/en_CA.po
+Preparing to trash %'d file,1131,Preparing to trash %'d files,1134,nautilus,po/en_CA.po
+Preparing to move %'d file,1376,Preparing to move %'d files,1379,nautilus,po/en_CA.po
+Making link to %'d file,1396,Making links to %'d files,1399,nautilus,po/en_CA.po
+"Enables the classic Nautilus behavior, where all windows are browsers",1948,"Enables the classic Nautilus behaviour, where all windows are browsers",1949,nautilus,po/en_CA.po
+"If set to true, then all Nautilus windows will be browser windows. This is how Nautilus used to behave before version 2.6, and some people prefer this behavior.",1952,"If set to true, then all Nautilus windows will be browser windows. This is how Nautilus used to behave before version 2.6, and some people prefer this behaviour.",1956,nautilus,po/en_CA.po
+Operation cancelled,2919,Operation cancelllled,2920,nautilus,po/en_CA.po
+Show a window that lets you set your desktop background's pattern or color,2952,Show a window that lets you set your desktop background's pattern or colour,2954,nautilus,po/en_CA.po
+<b>Behavior</b>,3189,<b>Behaviour</b>,3190,nautilus,po/en_CA.po
+Behavior,3233,Behaviour,3234,nautilus,po/en_CA.po
+Metering Mode,3640,Metreing Mode,3641,nautilus,po/en_CA.po
+<b>Width:</b> %d pixel,3677,<b>Width:</b> %d pixels,3680,nautilus,po/en_CA.po
+<b>Height:</b> %d pixel,3684,<b>Height:</b> %d pixels,3687,nautilus,po/en_CA.po
+Do you want to view %d location?,3758,Do you want to view %d locations?,3761,nautilus,po/en_CA.po
+This will open %d separate window.,3765,This will open %d separate windows.,3768,nautilus,po/en_CA.po
+This will open %d separate tab.,3822,This will open %d separate tabs.,3825,nautilus,po/en_CA.po
+This will open %d separate application.,3891,This will open %d separate applications.,3894,nautilus,po/en_CA.po
+Opening %d item.,3912,Opening %d items.,3915,nautilus,po/en_CA.po
+%'d file operation active,4143,%'d file operations active,4146,nautilus,po/en_CA.po
+_Name:,4174,_Names:,4177,nautilus,po/en_CA.po
+"%'d item, with size %s",4213,"%'d items, totalling %s",4216,nautilus,po/en_CA.po
+This will open %'d separate tab.,4597,This will open %'d separate tabs.,4600,nautilus,po/en_CA.po
+This will open %'d separate window.,4604,This will open %'d separate windows.,4607,nautilus,po/en_CA.po
+%'d folder selected,4648,%'d folders selected,4651,nautilus,po/en_CA.po
+ (containing %'d item),4655, (containing %'d items),4658,nautilus,po/en_CA.po
+ (containing a total of %'d item),4663, (containing a total of %'d items),4666,nautilus,po/en_CA.po
+%'d item selected,4670,%'d items selected,4673,nautilus,po/en_CA.po
+%'d other item selected,4678,%'d other items selected,4681,nautilus,po/en_CA.po
+"Use \""%s\"" to open the selected item",4750,"Use \""%s\"" to open the selected items",4753,nautilus,po/en_CA.po
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_FILE_PATHS: newline-delimited paths for selected files in the inactive pane of a split-view window (only if local)\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_URIS: newline-delimited URIs for selected files in the inactive pane of a split-view window\n\nNAUTILUS_SCRIPT_NEXT_PANE_CURRENT_URI: URI for current location in the inactive pane of a split-view window",4778,"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parametres.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_FILE_PATHS: newline-delimited paths for selected files in the inactive pane of a split-view window (only if local)\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_URIS: newline-delimited URIs for selected files in the inactive pane of a split-view window\n\nNAUTILUS_SCRIPT_NEXT_PANE_CURRENT_URI: URI for current location in the inactive pane of a split-view window",4806,nautilus,po/en_CA.po
+The %'d selected item will be moved if you select the Paste command,4837,The %'d selected items will be moved if you select the Paste command,4841,nautilus,po/en_CA.po
+The %'d selected item will be copied if you select the Paste command,4846,The %'d selected items will be copied if you select the Paste command,4851,nautilus,po/en_CA.po
+Ma_ke Link,5054,Ma_ke Links,5057,nautilus,po/en_CA.po
+"Move the selected folder out of the trash to \""%s\""",5359,"Move the selected folders out of the trash to \""%s\""",5362,nautilus,po/en_CA.po
+Move the selected folder out of the trash,5366,Move the selected folders out of the trash,5369,nautilus,po/en_CA.po
+"Move the selected file out of the trash to \""%s\""",5373,"Move the selected files out of the trash to \""%s\""",5376,nautilus,po/en_CA.po
+Move the selected file out of the trash,5380,Move the selected files out of the trash,5383,nautilus,po/en_CA.po
+"Move the selected item out of the trash to \""%s\""",5387,"Move the selected items out of the trash to \""%s\""",5390,nautilus,po/en_CA.po
+Move the selected item out of the trash,5394,Move the selected items out of the trash,5397,nautilus,po/en_CA.po
+Open in %'d New _Window,5510,Open in %'d New _Windows,5513,nautilus,po/en_CA.po
+Open in %'d New _Tab,5517,Open in %'d New _Tabs,5520,nautilus,po/en_CA.po
+"Nautilus is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",5650,"Nautilus is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.",5655,nautilus,po/en_CA.po
+"Nautilus is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",5662,"Nautilus is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.",5667,nautilus,po/en_CA.po
+"You should have received a copy of the GNU General Public License along with Nautilus; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA",5674,"You should have received a copy of the GNU General Public Licence along with Nautilus; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA",5678,nautilus,po/en_CA.po
+Performs the where am I operation.,195,"Performs the \""Where Am I\"" operation.",196,orca,po/en_CA.po
+ColorChooser,1194,ColourChooser,1195,orca,po/en_CA.po
+color chooser,1198,colour chooser,1199,orca,po/en_CA.po
+Dialog,1276,Dialogue,1277,orca,po/en_CA.po
+dialog,1280,dialogue,1281,orca,po/en_CA.po
+HtmlContainer,1369,HTMLContainer,1370,orca,po/en_CA.po
+h t m l container,1373,HTML container,1374,orca,po/en_CA.po
+Whether to give blocks random colors,65,Whether to give blocks random colours,66,quadrapassel,po/en_CA.po
+Whether to give blocks random colors.,69,Whether to give blocks random colours.,70,quadrapassel,po/en_CA.po
+Board color count,39,Board colour count,40,swell-foop,po/en_CA.po
+The number of colors of tiles to use in the game.,43,The number of colours of tiles to use in the game.,44,swell-foop,po/en_CA.po
+Clear the screen by removing groups of colored and shaped tiles,103,Clear the screen by removing groups of coloured and shaped tiles,104,swell-foop,po/en_CA.po
+Colors,244,Colours,245,swell-foop,po/en_CA.po
+Shapes and Colors,248,Shapes and Colours,249,swell-foop,po/en_CA.po
+Game choice: Regular or Colors,180,Game choice: Regular or Colours,181,tali,po/en_CA.po
+Colors,202,Colours,203,tali,po/en_CA.po
+%s wins the game with %d point,235,%s wins the game with %d points,238,tali,po/en_CA.po
+Colors game and multi-level AI (2006):,275,Colours game and multi-level AI (2006):,276,tali,po/en_CA.po
+2 pair Same Color [total],433,2 pair Same Colour [total],434,tali,po/en_CA.po
+Full House Same Color [20 + total],441,Full House Same Colour [20 + total],442,tali,po/en_CA.po
+Flush (all same color) [35],445,Flush (all same colour) [35],446,tali,po/en_CA.po
+Color Balance,260,Colour Balance,261,totem,po/en_CA.po
+%d hour,1039,%d hours,1042,totem,po/en_CA.po
+%d minute,1046,%d minutes,1049,totem,po/en_CA.po
+%d second,1053,%d seconds,1056,totem,po/en_CA.po
+%d frame per second,1079,%d frames per second,1082,totem,po/en_CA.po
+"Totem is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",1119,"Totem is free software; you can redistribute it and/or modify it under the terms of the GNU General Public Licence as published by the Free Software Foundation; either version 2 of the Licence, or (at your option) any later version.",1124,totem,po/en_CA.po
+"Totem is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",1131,"Totem is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public Licence for more details.",1136,totem,po/en_CA.po
+"You should have received a copy of the GNU General Public License along with Totem; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA",1143,"You should have received a copy of the GNU General Public Licence along with Totem; if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA",1147,totem,po/en_CA.po
+The playback of this movie requires a %s plugin which is not installed.,1871,The playback of this movie requires the following decoders which are not installed:\n\n%s,1879,totem,po/en_CA.po
+A format string used to build the network service name used when publishing playlists over the network. The following format placeholders can be used: • %a: the program name as returned by g_get_application_name() • %h: the machine's host name in title case • %u: the user's login name in title case • %U: the user's real name • %%: the percent sign,2345,A format string used to build the network service name used when publishing playlists over the network. The following format placeholders can be used: • a%: the program name as returned by g_get_application_name() • %h: the machine's host name in title case • %u: the user's login name in title case • %U: the user's real name • %%: the percent sign,2351,totem,po/en_CA.po
+second,2556,seconds,2559,totem,po/en_CA.po
+URL color,114,URL colour,115,vino,po/en_CA.po
+The color of the URL's label,118,The colour of the URL's label,119,vino,po/en_CA.po
+"If true, remote users accessing the desktop are required to be able support encryption. It is highly recommended that you use a client which supports encryption unless the intervening network is trusted.",292,"If true, remote users accessing the desktop are required to support encryption. It is highly recommended that you use a client which supports encryption unless the intervening network is trusted.",296,vino,po/en_CA.po
+This key specifies the e-mail address to which the remote desktop URL should be sent if the user clicks on the URL in the Remote Desktop preferences dialog.,342,This key specifies the e-mail address to which the remote desktop URL should be sent if the user clicks on the URL in the Remote Desktop preferences dialogue.,346,vino,po/en_CA.po
+Education Applications,145,Educational Applications,146,yelp,po/en_CA.po
+"The file ‘%s’ could not be parsed. Either the file does not exist, or it is not well-formed XML.",348,"The file ‘%s’ could not be parsed. Either the file does not exist, or it is invalid XML.",351,yelp,po/en_CA.po
+An unknown error occured,356,An unknown error occurred,357,yelp,po/en_CA.po
+"The file  ‘%s’ could not be parsed. Either the file does not exist, or it is not a well-formed info page.",389,"The file  ‘%s’ could not be parsed. Either the file does not exist, or it is not a valid info page.",392,yelp,po/en_CA.po
+Generating PDF is not currently supported,448,PDF generation is not currently supported,449,yelp,po/en_CA.po

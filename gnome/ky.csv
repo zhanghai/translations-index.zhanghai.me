@@ -1,0 +1,2282 @@
+Share…,26,Бөлүшүү…,27,cheese,po/ky.po
+Save _As…,30,_Жаңыча сактоо…,31,cheese,po/ky.po
+Move to _Trash,34,_Себетке көчүрүү,35,cheese,po/ky.po
+Move _All to Trash,38,_Баарын себетке көчүрүү,39,cheese,po/ky.po
+_Wide Mode,42,_Жазы экран режими,43,cheese,po/ky.po
+P_revious Effects,46,_Абалкы эффекттер,47,cheese,po/ky.po
+Ne_xt Effects,50,_Кийинки эффекттер,51,cheese,po/ky.po
+Photo mode,54,Фото тартуу режими,55,cheese,po/ky.po
+Video mode,58,Видео тартуу режими,59,cheese,po/ky.po
+Photo burst mode,62,Сериялык фотосүрөт тартуу режими,63,cheese,po/ky.po
+Take a photo,67,Тартуу,68,cheese,po/ky.po
+_Take a Photo,71,_Тартуу,72,cheese,po/ky.po
+Previous,75,Абалкы,76,cheese,po/ky.po
+Effects,79,Эффекттер,80,cheese,po/ky.po
+_Effects,83,_Эффекттер,84,cheese,po/ky.po
+Next,87,Кийинки,88,cheese,po/ky.po
+Leave fullscreen,91,Толук экран режиминен чыгуу,92,cheese,po/ky.po
+_Leave Fullscreen,95,_Толук экран режиминен чыгуу,96,cheese,po/ky.po
+Preferences,99,Параметрлер,100,cheese,po/ky.po
+Device,103,Орнотмо,104,cheese,po/ky.po
+Photo resolution,107,Фотосүрөттүн чечими,108,cheese,po/ky.po
+Video resolution,111,Видеонун чечими,112,cheese,po/ky.po
+Webcam,115,Веб-камера,116,cheese,po/ky.po
+Brightness,119,Ачык түстүүлүк,120,cheese,po/ky.po
+Saturation,123,Каныккандык,124,cheese,po/ky.po
+Hue,127,Түс,128,cheese,po/ky.po
+Contrast,131,Карама-каршылык,132,cheese,po/ky.po
+Image,135,Сүрөт,136,cheese,po/ky.po
+Shutter,139,Жапкыч,140,cheese,po/ky.po
+_Countdown,143,_Тескери саноо,144,cheese,po/ky.po
+Fire _Flash,147,_Жарк,148,cheese,po/ky.po
+Burst mode,151,Сериялык тартуу режими,152,cheese,po/ky.po
+Number of photos,155,Фотографиялардын саны,156,cheese,po/ky.po
+Delay between photos (seconds),159,Сүрөттөрдүн ортосундагы кечигиш (сек),160,cheese,po/ky.po
+Capture,163,Тартуу,164,cheese,po/ky.po
+Cheese Webcam Booth,172,Cheese веб-камера бөлмөсү,173,cheese,po/ky.po
+"Take photos and videos with your webcam, with fun graphical effects",176,"Шайыр графикалык эффекттерди колдонуп, веб-камера менен фотографияларды жана видеолорду жасоо",177,cheese,po/ky.po
+Use a countdown,182,Тескери саноону колдонуу,183,cheese,po/ky.po
+Set to true to show a countdown before taking a photo,186,"Эгер тандалса, анда сүрөт тартуу алдында тескери саноосу көрсөтүлөт",187,cheese,po/ky.po
+Countdown length,190,Тескери саноосунун узундугу,191,cheese,po/ky.po
+"The duration of the countdown before taking a photo, in seconds",194,Тартууну баштоо алдындагы тескери саноосунун узундугу (секундада),195,cheese,po/ky.po
+Fire flash before taking a picture,198,Жаркты колдонуу,199,cheese,po/ky.po
+Set to true to fire a flash when taking a picture,202,"Эгер тандалса, анда сүрөт тартуу малында жарк этүүсү колдонулат",203,cheese,po/ky.po
+Camera device string indicator,206,Веб-камера туташуусунун индикатору,207,cheese,po/ky.po
+"The path to the device node which points to the camera, for example /dev/video0",210,"Орнотмо түйүнүнө камера багыттаган жол, мисалы /dev/video0",213,cheese,po/ky.po
+Last selected effect,216,Акыркы колдонулган эффект,217,cheese,po/ky.po
+Name of the installed effect that was selected last,220,Акыркы тандалып орнотулган эффекттин аты,221,cheese,po/ky.po
+Photo width,224,Фотосүрөттүн туурасы,225,cheese,po/ky.po
+"The width of the image captured from the camera, in pixels",228,Камерадан тартылуучу сүрөттүн туурасы (пиксельде),229,cheese,po/ky.po
+Photo height,232,Фотосүрөттүн бийиктиги,233,cheese,po/ky.po
+"The height of the image captured from the camera, in pixels",236,Камерадан тартылуучу сүрөттүн бийиктиги (пиксельде),237,cheese,po/ky.po
+Video width,240,Видеонун туурасы,241,cheese,po/ky.po
+"The width of the video captured from the camera, in pixels",244,Камерадан тартылуучу видеонун туурасы (пиксельде),245,cheese,po/ky.po
+Video height,248,Видеонун бийиктиги,249,cheese,po/ky.po
+"The height of the video captured from the camera, in pixels",252,Камерадан тартылуучу видеонун бийиктиги (пиксельде),253,cheese,po/ky.po
+Picture brightness,256,Сүрөттүн ачык түстүүлүгү,257,cheese,po/ky.po
+Adjusts the brightness of the picture coming from the camera,260,Камерадан келген сүрөттүн ачык түстүүлүгүн ырастоо,261,cheese,po/ky.po
+Picture contrast,264,Карама-каршылыктуулук,265,cheese,po/ky.po
+Adjusts the contrast of the picture coming from the camera,268,Камерадан келген сүрөттүн карама-каршылыгын ырастоо,269,cheese,po/ky.po
+Picture saturation,272,Сүрөт каныккандыгы,273,cheese,po/ky.po
+Adjusts the saturation of the picture coming from the camera,276,Камерадан келген сүрөттүн каныккандыгын ырастоо,277,cheese,po/ky.po
+Picture hue,280,Сүрөт түсү,281,cheese,po/ky.po
+Adjusts the hue (color tint) of the picture coming from the camera,284,Камерадан келген сүрөттүн түсүн (күңүрттөө) ырастоо,285,cheese,po/ky.po
+Video Path,288,Видеого жол,289,cheese,po/ky.po
+"Defines the path where the videos are stored. If empty, \""XDG_VIDEO/Webcam\"" will be used.",292,"Видеону сактоо үчүн жолду көрсөтөт. Эгер толтурулбаса, анда «XDG_VIDEO/Webcam» колдонулат.",295,cheese,po/ky.po
+Photo Path,300,Фотого жол,301,cheese,po/ky.po
+"Defines the path where the photos are stored. If empty, \""XDG_PHOTO/Webcam\"" will be used.",304,"Фотосүрөттөрдү сактоо үчүн жолду көрсөтөт. Эгер толтурулбаса, анда «XDG_PHOTO/Webcam» колдонулат.",307,cheese,po/ky.po
+Whether to start in wide mode,312,Жазы калыптуу режиминде жүргүзүү,313,cheese,po/ky.po
+"If set to true, Cheese will start up in wide mode, with the image collection placed on the right-hand side. Useful with small screens.",316,"Эгер тандалса, Cheese жазы калыптуу режиминде жүргүзүлөт, сүрөт жыйындысы оң тарабында болот. Кичинекей экрандар үчүн пайдалуу.",319,cheese,po/ky.po
+Whether to start in fullscreen,324,Толук экран режиминде жүргүзүү,325,cheese,po/ky.po
+"If set to true, Cheese will start up in fullscreen mode.",328,"Эгер тандалса, Cheese толук экран режиминде жүргүзүлөт.",329,cheese,po/ky.po
+Time between photos in burst mode,332,Сериялык тартуу режиминдеги сүрөттөрдүн ортосундагы кечигиш,333,cheese,po/ky.po
+"The length of time, in milliseconds, to delay between taking each photo in a burst sequence of photos. If the burst delay is less than the countdown duration, the countdown duration will be used instead.",336,"Сериялык тартуу режиминдеги сүрөттөрдүн ортосундагы кечигиш (милисекундада). Эгер бул кечигиши тескери саноосунун узундугунан азыраак болсо, анда анын ордуна тескери саноосунун узундугу колдонулат.",340,cheese,po/ky.po
+Number of photos in burst mode,346,Сериялык тартуу режиминдеги фотографиялардын саны,347,cheese,po/ky.po
+The number of photos to take in a single burst.,350,Бир сериядагы сүрөттөрдүн саны.,351,cheese,po/ky.po
+Shutter sound,354,Жапкычтын үнү,355,cheese,po/ky.po
+Select,358,Тандоо,359,cheese,po/ky.po
+_Take a photo,362,_Сүрөткө тартуу,363,cheese,po/ky.po
+_Discard photo,366,_Сүрөттү жокко чыгаруу,367,cheese,po/ky.po
+Device capabilities not supported,370,Орнотмонун мүмкүнчүлүктөрү колдолбойт,371,cheese,po/ky.po
+Failed to initialize device %s for capability probing,375,Ишке жөндөмдүүлүктү текшерүүчү «%s» орнотмосунун инициализациялоо жаңылышы,376,cheese,po/ky.po
+Unknown device,380,Белгисиз орнотмо,381,cheese,po/ky.po
+Cancellable initialization not supported,384,Инициализацияны жокко чыгарууга мүмкүн эмес,385,cheese,po/ky.po
+One or more needed GStreamer elements are missing: ,388,Бирөө же артык GStreamer компоненттери жок болуп жатат: ,389,cheese,po/ky.po
+No device found,393,Орнотмолор табылбады,394,cheese,po/ky.po
+No Effect,408,Эффектсиз,409,cheese,po/ky.po
+Start in wide mode,412,Жазы калыптуу режиминде жүргүзүү,413,cheese,po/ky.po
+Device to use as a camera,416,Камера болуп колдонулуучу орнотмо,417,cheese,po/ky.po
+DEVICE,420,ОРНОТМО,421,cheese,po/ky.po
+Output version information and exit,424,Версия информациясын чыгарып анан чыгуу,425,cheese,po/ky.po
+Start in fullscreen mode,428,Толук экран режиминде жүргүзүү,429,cheese,po/ky.po
+_Shoot,432,_Тартуу,433,cheese,po/ky.po
+Mode:,436,Режим:,437,cheese,po/ky.po
+_Photo,440,_Фото,441,cheese,po/ky.po
+_Video,444,_Видео,445,cheese,po/ky.po
+_Burst,448,С_ерия,449,cheese,po/ky.po
+_Fullscreen,452,_Толук экран,453,cheese,po/ky.po
+P_references,456,П_араметрлер,457,cheese,po/ky.po
+_About,460,_Бул жөнүндө,461,cheese,po/ky.po
+_Help,464,_Жардам,465,cheese,po/ky.po
+_Quit,468,_Чыгуу,469,cheese,po/ky.po
+- Take photos and videos from your webcam,472,— Веб-камерадан фотосүрөттөрдү жана видеолорду жасоо,473,cheese,po/ky.po
+Run '%s --help' to see a full list of available command line options.\n,477,"Жеткиликтүү командалык саптын параметрлеринин толук тизмесин чыгаруу үчүн, «%s --help» командасын жүргүзүңүз.\n",478,cheese,po/ky.po
+Another instance of Cheese is currently running\n,484,Cheese тиркемесинин экземпляры азыркы учурда жүргүзүлгөн\n,485,cheese,po/ky.po
+Cheese Website,492,Cheese веб-сайты,493,cheese,po/ky.po
+Could not open %s,497,%s ачуу иши оңунан чыкпады,498,cheese,po/ky.po
+Are you sure you want to permanently delete the file?,502,Сиз чын эле %d файлын таптакырга өчүргүңүз келеби?,504,cheese,po/ky.po
+"If you delete an item, it will be permanently lost",507,"Эгер сиз элементти өчүрсөңүз, ал таптакырга жоголот",509,cheese,po/ky.po
+Could not move %s to trash,513,%s файлын себетке көчүрүү иши оңунан чыкпады,514,cheese,po/ky.po
+Save File,518,Фалды сактоо,519,cheese,po/ky.po
+Could not save %s,523,%s сактоо иши оңунан чыкпады,524,cheese,po/ky.po
+Stop _Recording,527,Жазууну _токтотуу,528,cheese,po/ky.po
+Stop recording,531,Жазууну токтотуу,532,cheese,po/ky.po
+Record a Video,535,Видео _жазуу,536,cheese,po/ky.po
+Record a video,539,Видео жазуу,540,cheese,po/ky.po
+Stop _Taking Pictures,544,Тартууну _токтотуу,545,cheese,po/ky.po
+Stop taking pictures,548,Тартууну токтотуу,549,cheese,po/ky.po
+Take Multiple Photos,552,Бир нече сүрөт тартуу,553,cheese,po/ky.po
+Take multiple photos,556,Бир нече сүрөт тартуу,557,cheese,po/ky.po
+No effects found,560,Эффекттер табылбады,561,cheese,po/ky.po
+Take a Photo,564,Сүрөт тартуу,565,cheese,po/ky.po
+Take _Multiple Photos,568,_Бир нече сүрөт тартуу,569,cheese,po/ky.po
+/dev/urandom is not a character device,24,/dev/urandom символдук түзүм эмес,25,gdm,po/ky.po
+Could not identify the current session.,29,Учурдагы сессияны аныктоого болбоду.,30,gdm,po/ky.po
+Could not identify the current seat.,34,Учурдагы иш орунду аныктоого болбоду.,35,gdm,po/ky.po
+The system is unable to determine whether to switch to an existing login screen or start up a new login screen.,39,Системага кирүү терезеси табылбады же жаңы терезе ачууга болбоду.,42,gdm,po/ky.po
+The system is unable to start up a new login screen.,46,Система жаңы кирүү терезесин түзө албады.,47,gdm,po/ky.po
+"could not find user \""%s\"" on system",51,"системада \""%s\"" аттуу колдонуучу табылган жок",52,gdm,po/ky.po
+Could not start the X server (your graphical environment) due to an internal error. Please contact your system administrator or check your syslog to diagnose. In the meantime this display will be disabled.  Please restart GDM when the problem is corrected.,55,"Ички катага байланыштуу X серверин (сиздин графикалык чөйрөңүз) иштетүүгө болбоду. Системанын администратору менен байланышыңыз же болбосо, көйгөй жөнүндө маалымат үчүн, системанын журналын караңыз. Азыр бул дисплей өчүрүлөт. Көйгөй чечилген соң GDM ди кайра иштетиңиз.",60,gdm,po/ky.po
+No session available,72,Сессия жок,73,gdm,po/ky.po
+Can only be called before user is logged in,76,Колдонуучу системага киргенге чейин гана чакырууга болот,77,gdm,po/ky.po
+Caller not GDM,80,Чакыруучу GDM эмес,81,gdm,po/ky.po
+Server was to be spawned by user %s but that user doesn't exist,89,"Сервер %s (uid) катары ишке киргизилди, бирок андай колдонуучу жок",90,gdm,po/ky.po
+Couldn't set groupid to %d,94,Группанын %d катары орнотууга болбоду,95,gdm,po/ky.po
+initgroups () failed for %s,99,%s үчүн initgroups () ишке ашпады,100,gdm,po/ky.po
+Couldn't set userid to %d,104,Колдонуучунун идентификаторун %d катары орнотууга болбоду,105,gdm,po/ky.po
+%s: Could not open log file for display %s!,109,%s: %s дисплейи үчүн журнал файлын ачууга болбоду!,110,gdm,po/ky.po
+%s: Error setting %s to %s,115,%s: %s ти %s катары орнотууга болбоду,116,gdm,po/ky.po
+%s: Server priority couldn't be set to %d: %s,120,%s: Сервердин приоритетин %d катары орнотууга болбоду: %s,121,gdm,po/ky.po
+%s: Empty server command for display %s,125,%s: %s дисплейи үчүн бош сервер командасы,126,gdm,po/ky.po
+Username,129,Колдонуучу,130,gdm,po/ky.po
+The username,133,Колдонуучунун аты,134,gdm,po/ky.po
+Hostname,137,Түйүн аты,138,gdm,po/ky.po
+The hostname,141,Түйүн аты,142,gdm,po/ky.po
+Display Device,145,Дисплей түзүмү,146,gdm,po/ky.po
+The display device,149,Дисплей түзүмү,150,gdm,po/ky.po
+Could not create authentication helper process,153,Аутентификация жардамчы процессин жаратууга болбоду,154,gdm,po/ky.po
+Username:,165,Колдонуучу:,166,gdm,po/ky.po
+no user account available,174,колдонуучунун каттоо жазымы жеткиликсиз,175,gdm,po/ky.po
+Unable to change to user,178,Колдонуучуну алмаштырууга болбоду,179,gdm,po/ky.po
+Could not create socket!,187,Сокет жаратууга болбоду!,188,gdm,po/ky.po
+Cannot write PID file %s: possibly out of disk space: %s,205,PID файлын жазууга болбоду %s: дискте бош  орун жок болушу мүмкүн: %s,206,gdm,po/ky.po
+Can't find the GDM user '%s'. Aborting!,220,'%s' аттуу GDM колдонуучусу табылган жок. Кескин токтотулду!,221,gdm,po/ky.po
+The GDM user should not be root. Aborting!,224,GDM колдонуучусу root болушу болбойт. Кескин токтотулду!,225,gdm,po/ky.po
+Can't find the GDM group '%s'. Aborting!,229,%s аттуу GDM тобу табылган жок. Кескин токтотулду!,230,gdm,po/ky.po
+The GDM group should not be root. Aborting!,233,GDM тобу root болушу болбойт. Кескин токтотулду!,234,gdm,po/ky.po
+Make all warnings fatal,237,Бардык эскертүүлөрдү фаталдык(fatal) кылуу,238,gdm,po/ky.po
+Exit after a time (for debugging),241,Убакыт өткөн соң чыгуу (ката издөө үчүн),242,gdm,po/ky.po
+Print GDM version,245,GDM версиясын чыгаруу,246,gdm,po/ky.po
+GNOME Display Manager,249,GNOME дисплей менеджери,250,gdm,po/ky.po
+Only the root user can run GDM,254,Суперколдонуучу гана GDM ди иштете алат,255,gdm,po/ky.po
+GNOME Display Manager Session Worker,260,GNOME дисплей менеджеринин сессия жардамчысы,261,gdm,po/ky.po
+Window management and compositing,270,Терезелерди башкаруу жана компоновкалоо,271,gdm,po/ky.po
+Whether or not to allow fingerprint readers for login,274,Системага кирүү үчүн манжанын изин окуучу түзүмдү иштетүү уруксаты,275,gdm,po/ky.po
+The login screen can optionally allow users who have enrolled their fingerprints to log in using those prints.,278,Системага кирүү терезеси колдонуучулар үчүн манжа изин окуучу түзүлүштү колдонууга шарт түзөт.,281,gdm,po/ky.po
+Whether or not to allow smartcard readers for login,286,Системага кирүү үчүн смарт-кард окуучу түзүмдү иштетүү уруксаты,287,gdm,po/ky.po
+The login screen can optionally allow users who have smartcards to log in using those smartcards.,290,Системага кирүү терезеси колдонуучулар үчүн смарт-кард окуучу түзүлүштү колдонууга шарт түзөт.,293,gdm,po/ky.po
+Path to small image at top of user list,309,Колдонуучулар тизмесинин баш жагындагы кичине сүрөттүн жолу,310,gdm,po/ky.po
+The login screen can optionally show a small image at the top of its user list to provide site administrators and distributions a way to provide branding.,313,Системага кирүү терезеси колдонуучулар тизмесинин башында анча чоң эмес сүрөттү чагылдыра алат. Ал администраторлорго жана дистрибюторлорго фирмалык белги катары колдонууга мүмкүндүк берет.,317,gdm,po/ky.po
+The fallback login screen can optionally show a small image at the top of its user list to provide site administrators and distributions a way to provide branding.,323,Системага кайра кирүү терезеси колдонуучулар тизмесинин башында анча чоң эмес сүрөттү чагылдыра алат. Ал администраторлорго жана дистрибюторлорго фирмалык белги катары колдонууга мүмкүндүк берет.,327,gdm,po/ky.po
+Avoid showing user list,333,Колдонуучулар тизмесин көрсөтпөө,334,gdm,po/ky.po
+The login screen normally shows a list of available users to log in as. This setting can be toggled to disable showing the user list.,337,"Демейде, системага кирүү терезеси колдонуучулардын тизмесин чагылдырат. Бул параметр менен тизмени чыгарууну башкарууга болот.",340,gdm,po/ky.po
+Enable showing the banner message,345,Тексттик баннерди көрсөтүү,346,gdm,po/ky.po
+Set to true to show the banner message text.,349,Бул параметр тексттик баннерди чагылдырууну башкарат,350,gdm,po/ky.po
+Banner message text,353,Тексттик баннердин тексти,354,gdm,po/ky.po
+Text banner message to show in the login window.,357,Системага кирүү терезесинде чагылырылуучу текст,358,gdm,po/ky.po
+Disable showing the restart buttons,361,Системаны кайра иштетүү баскычын өчүрүү,362,gdm,po/ky.po
+Set to true to disable showing the restart buttons in the login window.,365,"Эгер орнотулса, системага кирүү терезесинде \""Кайра иштетүү\"" баскычы болбойт.",366,gdm,po/ky.po
+Number of allowed authentication failures,371,Ийгиликсиз аутентификациянын саны,372,gdm,po/ky.po
+"The number of times a user is allowed to attempt authentication, before giving up and going back to user selection.",375,"Колдонуучуну тандоо аракетине өтүү алдында, аутентификация аракеттеринин саны.",378,gdm,po/ky.po
+Select System,383,Системаны тандоо,384,gdm,po/ky.po
+XDMCP: Could not create XDMCP buffer!,387,XDMCP: XDMCP буферин түзүү ишке ашпады!,388,gdm,po/ky.po
+XDMCP: Could not read XDMCP header!,391,XDMCP: XDMCP баш параметрлерин окууга болбоду! ,392,gdm,po/ky.po
+Unable to create transient display: ,405,Өткөөл экранды түзүүгө болбоду: ,406,gdm,po/ky.po
+Unable to activate session: ,409,Сессияны активдештирүүгө болбоду: ,410,gdm,po/ky.po
+Debugging output,426,Ката издөө үчүн маалымат чыгаруу,427,gdm,po/ky.po
+Screenshot taken,439,Экрандын сүрөтү алынды,440,gdm,po/ky.po
+Take a picture of the screen,444,Экрандын сүрөтүн алуу,445,gdm,po/ky.po
+Changes throughout the day,24,Күн ичинде алмашат,25,gnome-control-center,po/ky.po
+Tile,29,Мозаика,30,gnome-control-center,po/ky.po
+Zoom,34,Чоңойтуу,35,gnome-control-center,po/ky.po
+Center,39,Ортосу,40,gnome-control-center,po/ky.po
+Scale,44,Масштаб,45,gnome-control-center,po/ky.po
+Fill,49,Толтуруу,50,gnome-control-center,po/ky.po
+Span,54,Батыруу,55,gnome-control-center,po/ky.po
+Select Background,59,Фонду тандоо,60,gnome-control-center,po/ky.po
+Wallpapers,63,Тушкагаз,64,gnome-control-center,po/ky.po
+Pictures,67,Сүрөттөр,68,gnome-control-center,po/ky.po
+Colors,71,Түстөр,72,gnome-control-center,po/ky.po
+Select,82,Тандоо,83,gnome-control-center,po/ky.po
+multiple sizes,86,түрдүү өлчөмү,87,gnome-control-center,po/ky.po
+No Desktop Background,97,Фонсуз Иштакта,98,gnome-control-center,po/ky.po
+Current background,101,Учурдагы фон,102,gnome-control-center,po/ky.po
+Background,105,Фон,106,gnome-control-center,po/ky.po
+Change the background,109,Фонду алмаштыруу,110,gnome-control-center,po/ky.po
+Wallpaper;Screen;Desktop;,114,Тушкагаз;Экран;Иштакта;,115,gnome-control-center,po/ky.po
+Configure Bluetooth settings,124,Bluetooth параметрлери,125,gnome-control-center,po/ky.po
+Set Up New Device,128,Жаңы түзүм орнотуу,129,gnome-control-center,po/ky.po
+Remove Device,132,Түзүмдү алып таштоо,133,gnome-control-center,po/ky.po
+Connection,136,Байланыш,137,gnome-control-center,po/ky.po
+Paired,140,Туташкан,141,gnome-control-center,po/ky.po
+Type,144,Түрү,145,gnome-control-center,po/ky.po
+Address,148,Дареги,149,gnome-control-center,po/ky.po
+Mouse and Touchpad Settings,152,Чычкан жана сенсордук панел параметрлери,153,gnome-control-center,po/ky.po
+Sound Settings,156,Үн параметрлери,157,gnome-control-center,po/ky.po
+Keyboard Settings,160,Алиптакта параметрлери,161,gnome-control-center,po/ky.po
+Send Files...,164,Файл жөнөтүү...,165,gnome-control-center,po/ky.po
+Browse Files...,168,Файл аралоо...,169,gnome-control-center,po/ky.po
+Yes,178,Ооба,179,gnome-control-center,po/ky.po
+No,182,Жок,183,gnome-control-center,po/ky.po
+Bluetooth is disabled,186,Bluetooth өчүрүлгөн,187,gnome-control-center,po/ky.po
+Bluetooth is disabled by hardware switch,190,Bluetooth аппараттык которгучу менен өчүрүлгөн,191,gnome-control-center,po/ky.po
+No Bluetooth adapters found,194,Bluetooth адаптери табылган жок,195,gnome-control-center,po/ky.po
+Visibility,198,Көрүнүүсү,199,gnome-control-center,po/ky.po
+Visibility of “%s”,203,“%s” көрүнүүсү,204,gnome-control-center,po/ky.po
+Remove '%s' from the list of devices?,208,'%s' ти түзүмдөр тизмесинен алып таштайлыбы?,209,gnome-control-center,po/ky.po
+"If you remove the device, you will have to set it up again before next use.",212,"Эгер сиз муну алып таштасаңыз, кийинки жолу колдонгондо кайрадан орнотууңуз керек.",214,gnome-control-center,po/ky.po
+Other profile…,220,Башка профиль…,221,gnome-control-center,po/ky.po
+Default: ,226,Абалкы: ,227,gnome-control-center,po/ky.po
+Colorspace: ,232,Түс мейкиндиги: ,233,gnome-control-center,po/ky.po
+Test profile: ,238,Текшерүү профили: ,239,gnome-control-center,po/ky.po
+Set for all users,243,Бардык колдонуучулар үчүн орнотуу,244,gnome-control-center,po/ky.po
+Create virtual device,248,Виртуалдык түзүм түзүү,249,gnome-control-center,po/ky.po
+Select ICC Profile File,253,ICC профайлынын файлын тандоо,254,gnome-control-center,po/ky.po
+_Import,257,_Импорт,258,gnome-control-center,po/ky.po
+Supported ICC profiles,262,Колдоого ээ ICC профайлдары,263,gnome-control-center,po/ky.po
+All files,267,Бардык файл,268,gnome-control-center,po/ky.po
+Available Profiles for Displays,272,Экрандар үчүн мүмкүн болгон профайлдар,273,gnome-control-center,po/ky.po
+Available Profiles for Scanners,277,Сканерлер үчүн мүмкүн болгон профайлдар,278,gnome-control-center,po/ky.po
+Available Profiles for Printers,282,Принтерлер үчүн мүмкүн болгон профайлдар,283,gnome-control-center,po/ky.po
+Available Profiles for Cameras,287,Камералар үчүн мүмкүн болгон профайлдар,288,gnome-control-center,po/ky.po
+Available Profiles for Webcams,292,Вебкамералар үчүн мүмкүн болгон профайлдар,293,gnome-control-center,po/ky.po
+Available Profiles,299,Мүмкүн болгон профайлдар,300,gnome-control-center,po/ky.po
+Device,305,Түзүм,306,gnome-control-center,po/ky.po
+%i year,347,%i жыл,349,gnome-control-center,po/ky.po
+%i month,353,%i ай,355,gnome-control-center,po/ky.po
+%i week,359,%i жума,361,gnome-control-center,po/ky.po
+Less than 1 week,366,1 жумадан аз,367,gnome-control-center,po/ky.po
+Default RGB,371,Абалкы RGB,372,gnome-control-center,po/ky.po
+Default CMYK,376,Абалкы CMYK,377,gnome-control-center,po/ky.po
+Display,420,Экран,421,gnome-control-center,po/ky.po
+Scanner,425,Сканер,426,gnome-control-center,po/ky.po
+Printer,430,Принтер,431,gnome-control-center,po/ky.po
+Camera,435,Камера,436,gnome-control-center,po/ky.po
+Webcam,440,Вебкамера,441,gnome-control-center,po/ky.po
+Color,445,Түс,446,gnome-control-center,po/ky.po
+Delete device,469,Түзүмдү жоготуу,470,gnome-control-center,po/ky.po
+Remove a device,473,Түзүмдү алып таштоо,474,gnome-control-center,po/ky.po
+Set this profile for all users on this computer,477,Бул профайлды компьютердеги бардык колдонуучуларга орнотуу,478,gnome-control-center,po/ky.po
+Add profile,481,Профайл кошуу,482,gnome-control-center,po/ky.po
+Calibrate…,485,Калибрлөө...,486,gnome-control-center,po/ky.po
+Calibrate the device,489,Түзүмдү калибрлөө,490,gnome-control-center,po/ky.po
+Remove profile,493,Профайлды жоготуу,494,gnome-control-center,po/ky.po
+View details,497,Маалыматын кароо,498,gnome-control-center,po/ky.po
+Device type:,501,Түзүм түрү:,502,gnome-control-center,po/ky.po
+Manufacturer:,505,Өндүрүүчү:,506,gnome-control-center,po/ky.po
+Model:,509,Модели:,510,gnome-control-center,po/ky.po
+Image files can be dragged on this window to auto-complete the above fields.,513,"Жогорудагы талааларды автоматтык түрдө толтуруу үчүн, сүрөт файлын бул терезеге сүйрөп келүүгө болот.",515,gnome-control-center,po/ky.po
+Color management settings,520,Түс башкаруу параметрлери,521,gnome-control-center,po/ky.po
+Color;ICC;Profile;Calibrate;Printer;Display;,525,Түс;ICC;Профайл;Калибрлөө;Принтер;Экран;,526,gnome-control-center,po/ky.po
+English,530,Англисче,531,gnome-control-center,po/ky.po
+British English,534,Британ анлис тилинде,535,gnome-control-center,po/ky.po
+German,538,Немисче,539,gnome-control-center,po/ky.po
+French,542,Французча,543,gnome-control-center,po/ky.po
+Spanish,546,Испанча,547,gnome-control-center,po/ky.po
+Chinese (simplified),550,Кытайча (жөнөкөй),551,gnome-control-center,po/ky.po
+Russian,554,Орусча,555,gnome-control-center,po/ky.po
+Arabic,558,Арабча,559,gnome-control-center,po/ky.po
+United States,563,Кошмо Штаттары,564,gnome-control-center,po/ky.po
+Germany,567,Германия,568,gnome-control-center,po/ky.po
+France,571,Франция,572,gnome-control-center,po/ky.po
+Spain,575,Испания,576,gnome-control-center,po/ky.po
+China,579,Кытай,580,gnome-control-center,po/ky.po
+Other...,583,Башка...,584,gnome-control-center,po/ky.po
+Select a region,587,Регион тандоо,588,gnome-control-center,po/ky.po
+Unspecified,591,Аныкталбаган,592,gnome-control-center,po/ky.po
+Select a language,595,Тил тандоо,596,gnome-control-center,po/ky.po
+_Cancel,601,_Айынуу,602,gnome-control-center,po/ky.po
+_Select,605,_Тандоо,606,gnome-control-center,po/ky.po
+_Region:,609,_Регион:,610,gnome-control-center,po/ky.po
+_City:,613,_Шаар:,614,gnome-control-center,po/ky.po
+_Network Time,617,Тармак _убактысы,618,gnome-control-center,po/ky.po
+Set the time one hour ahead.,626,Бир саатка алдыга.,627,gnome-control-center,po/ky.po
+Set the time one hour back.,630,Бир саатка артка.,631,gnome-control-center,po/ky.po
+Set the time one minute ahead.,634,Бир мүнөткө алдыга.,635,gnome-control-center,po/ky.po
+Set the time one minute back.,638,Бир мүнөткө артка.,639,gnome-control-center,po/ky.po
+Switch between AM and PM.,642,ТЧ жана ТК алмашуусу.,643,gnome-control-center,po/ky.po
+Month,646,Ай,647,gnome-control-center,po/ky.po
+Day,650,Күн,651,gnome-control-center,po/ky.po
+Year,654,Жыл,655,gnome-control-center,po/ky.po
+24-hour,658,24 саатык формат,659,gnome-control-center,po/ky.po
+AM/PM,662,ТЧ/ТК,663,gnome-control-center,po/ky.po
+January,666,Январь,667,gnome-control-center,po/ky.po
+February,670,Февраль,671,gnome-control-center,po/ky.po
+March,674,Март,675,gnome-control-center,po/ky.po
+April,678,Апрель,679,gnome-control-center,po/ky.po
+May,682,Май,683,gnome-control-center,po/ky.po
+June,686,Июнь,687,gnome-control-center,po/ky.po
+July,690,Июль,691,gnome-control-center,po/ky.po
+August,694,Август,695,gnome-control-center,po/ky.po
+September,698,Сентябрь,699,gnome-control-center,po/ky.po
+October,702,Октябрь,703,gnome-control-center,po/ky.po
+November,706,Ноябрь,707,gnome-control-center,po/ky.po
+December,710,Декабрь,711,gnome-control-center,po/ky.po
+Date & Time,714,Дата жана убакыт,715,gnome-control-center,po/ky.po
+Date and Time preferences panel,718,Дата жана убакыт параметрлеринин панели,719,gnome-control-center,po/ky.po
+Clock;Timezone;Location;,723,Саат;Убакыт зонасы;Жайгашуу;,724,gnome-control-center,po/ky.po
+Change system time and date settings,727,Системанын убакыт жана дата параметрлерин өзгөртүү,728,gnome-control-center,po/ky.po
+"To change time or date settings, you need to authenticate.",731,"Убакыт жана дата параметрлерин өзгөртүү үчүн, аутентификациядан өтүү зарыл",732,gnome-control-center,po/ky.po
+Normal,737,Кадимкидей,738,gnome-control-center,po/ky.po
+Counterclockwise,742,Саат жэбесине каршы,743,gnome-control-center,po/ky.po
+Clockwise,747,Саат жэбеси боюнча,748,gnome-control-center,po/ky.po
+180 Degrees,752,180 градуска,753,gnome-control-center,po/ky.po
+Mirrored Displays,762,Чагылдырылган экрандар,763,gnome-control-center,po/ky.po
+Monitor,767,Монитор,768,gnome-control-center,po/ky.po
+Drag to change primary display.,781,Негизги дисплейди өзгөртүү үчүн - жылдырыңыз,782,gnome-control-center,po/ky.po
+Select a monitor to change its properties; drag it to rearrange its placement.,785,"Монитордун касиеттерин өзгөртүү үчүн, аны тандаңыз; орунуналмаштыруу үчүн - жылдырыңыз.",788,gnome-control-center,po/ky.po
+Failed to apply configuration: %s,803,Конфигурацияны кабылдоо ишке ашпады: %s,804,gnome-control-center,po/ky.po
+Could not save the monitor configuration,807,Монитордун конфигурациясын сактоого болбоду,808,gnome-control-center,po/ky.po
+Could not detect displays,811,Мониторлорду аныктоого болбоду,812,gnome-control-center,po/ky.po
+Could not get screen information,815,Экран жөнүндө маалымат алууга болбоду,816,gnome-control-center,po/ky.po
+_Resolution,819,_Ажырымдуулук,820,gnome-control-center,po/ky.po
+_Mirror displays,829,_Чагылдырылган дисплейлер,830,gnome-control-center,po/ky.po
+Note: may limit resolution options,833,Эскертүү: ажырымдуулук параметри чектелүү болушу мүмкүн,834,gnome-control-center,po/ky.po
+_Detect Displays,837,Дисплейлерди _аныктоо,838,gnome-control-center,po/ky.po
+Displays,841,Дисплейлер,842,gnome-control-center,po/ky.po
+Change resolution and position of monitors and projectors,845,Мониторлор жана проекторлордун ажыратымдуулугун жана позициясын өзгөртүү,846,gnome-control-center,po/ky.po
+Panel;Projector;xrandr;Screen;Resolution;Refresh;,851,Панель;Проектор;xrandr;Экран;Ажырымдуулук;Жаңылоо;,852,gnome-control-center,po/ky.po
+Unknown,864,Белгисиз,865,gnome-control-center,po/ky.po
+%d-bit,871,%d бит,872,gnome-control-center,po/ky.po
+Unknown model,875,Белгисиз модель,876,gnome-control-center,po/ky.po
+The next login will attempt to use the standard experience.,879,Кийинки жолу системага кирүү учурунда стандарттык режим колдонулат.,880,gnome-control-center,po/ky.po
+The next login will use the fallback mode intended for unsupported graphics hardware.,883,Кийинки жолу системага кирүү учурунда альтернативдик режим колдонулат. Ал колдоого ээ болбогон графикалык түзүмдөр үчүн жасалган.,886,gnome-control-center,po/ky.po
+Fallback,894,Альтернативдик,895,gnome-control-center,po/ky.po
+Standard,901,Стандарттык,902,gnome-control-center,po/ky.po
+Ask what to do,905,Эмне кылышты суроо,906,gnome-control-center,po/ky.po
+Do nothing,909,Эч нерсе кылбоо,910,gnome-control-center,po/ky.po
+Open folder,913,Каталогду ачуу,914,gnome-control-center,po/ky.po
+Select an application for audio CDs,922,Аудио CD үчүн иштеме тандоо,923,gnome-control-center,po/ky.po
+Select an application for video DVDs,926,Аудио DVD үчүн иштеме тандоо,927,gnome-control-center,po/ky.po
+Select an application to run when a music player is connected,930,Музыкалык плеер туташканда аткарылуучу иштеме тандоо,931,gnome-control-center,po/ky.po
+Select an application to run when a camera is connected,934,Камера туташканда аткарылуучу иштеме тандоо,935,gnome-control-center,po/ky.po
+Select an application for software CDs,938,Программалуу CD үчүн иштеме тандоо,939,gnome-control-center,po/ky.po
+audio DVD,947,аудио DVD,948,gnome-control-center,po/ky.po
+blank Blu-ray disc,951,таза Blu-ray диск,952,gnome-control-center,po/ky.po
+blank CD disc,955,таза CD диск,956,gnome-control-center,po/ky.po
+blank DVD disc,959,таза DVD диск,960,gnome-control-center,po/ky.po
+blank HD DVD disc,963,таза HD DVD диск,964,gnome-control-center,po/ky.po
+Blu-ray video disc,967,Blu-ray видео диск,968,gnome-control-center,po/ky.po
+e-book reader,971,электрондук китеп окуу түзүмү,972,gnome-control-center,po/ky.po
+HD DVD video disc,975,HD DVD видео диск,976,gnome-control-center,po/ky.po
+Picture CD,979,Сүрөт CD,980,gnome-control-center,po/ky.po
+Super Video CD,983,Супервидео CD,984,gnome-control-center,po/ky.po
+Video CD,987,Видео CD,988,gnome-control-center,po/ky.po
+Windows software,991,Windows иштемеси,992,gnome-control-center,po/ky.po
+Software,995,Иштеме,996,gnome-control-center,po/ky.po
+Section,1000,Бөлүм,1001,gnome-control-center,po/ky.po
+Overview,1004,Көрүнүшү,1005,gnome-control-center,po/ky.po
+Default Applications,1008,Абалкы иштемелер,1009,gnome-control-center,po/ky.po
+Removable Media,1012,Ажыратма сактама,1013,gnome-control-center,po/ky.po
+Graphics,1016,Графика,1017,gnome-control-center,po/ky.po
+Version %s,1021,Версиясы %s,1022,gnome-control-center,po/ky.po
+Install Updates,1025,Оңдоолорду орнотуу,1026,gnome-control-center,po/ky.po
+System Up-To-Date,1029,Оңдоолор жок,1030,gnome-control-center,po/ky.po
+Checking for Updates,1033,Оңдоолорду издөө,1034,gnome-control-center,po/ky.po
+Details,1037,Кеңири маалыматы,1038,gnome-control-center,po/ky.po
+System Information,1041,Системалык маалымат,1042,gnome-control-center,po/ky.po
+Select how other media should be handled,1056,Башка сактама кантип иштетилүүсүн танда,1057,gnome-control-center,po/ky.po
+_Action:,1060,_Аракет:,1061,gnome-control-center,po/ky.po
+_Type:,1064,_Түрү:,1065,gnome-control-center,po/ky.po
+Device name,1068,Түзүм аты,1069,gnome-control-center,po/ky.po
+Memory,1072,Эс,1073,gnome-control-center,po/ky.po
+Processor,1076,Процессор,1077,gnome-control-center,po/ky.po
+OS type,1080,АС тиби,1081,gnome-control-center,po/ky.po
+Disk,1084,Диск,1085,gnome-control-center,po/ky.po
+Calculating...,1088,Эсептөө,1089,gnome-control-center,po/ky.po
+_Web,1092,_Веб,1093,gnome-control-center,po/ky.po
+_Mail,1096,_Почто,1097,gnome-control-center,po/ky.po
+_Calendar,1100,_Календарь,1101,gnome-control-center,po/ky.po
+M_usic,1104,_Музыка,1105,gnome-control-center,po/ky.po
+_Video,1108,_Видео,1109,gnome-control-center,po/ky.po
+_Photos,1112,_Фото,1113,gnome-control-center,po/ky.po
+Select how media should be handled,1116,Сактама кантип иштетилүүсүн танда,1117,gnome-control-center,po/ky.po
+CD _audio,1120,CD _аудио,1121,gnome-control-center,po/ky.po
+_DVD video,1124,DVD _видео,1125,gnome-control-center,po/ky.po
+_Music player,1128,Музыка _плеери,1129,gnome-control-center,po/ky.po
+_Software,1132,_Иштеме,1133,gnome-control-center,po/ky.po
+_Other Media...,1136,_Башка сактама...,1137,gnome-control-center,po/ky.po
+_Never prompt or start programs on media insertion,1140,_Сактама түзүмү туташканда программаны иштетүүнү сурабоо жана аны аткарбоо,1141,gnome-control-center,po/ky.po
+Driver,1145,Драйвер,1146,gnome-control-center,po/ky.po
+Experience,1149,Режим,1150,gnome-control-center,po/ky.po
+Sound and Media,1158,Үн жана сактамалар,1159,gnome-control-center,po/ky.po
+Volume mute,1162,Үндү өчүрүү,1163,gnome-control-center,po/ky.po
+Volume down,1166,Үндү басаңдатуу,1167,gnome-control-center,po/ky.po
+Volume up,1170,Үндү жогорулатуу,1171,gnome-control-center,po/ky.po
+Launch media player,1174,Медиа плеерди иштетүү,1175,gnome-control-center,po/ky.po
+Play (or play/pause),1178,Ойнотуу (же ойнотуу/пауза),1179,gnome-control-center,po/ky.po
+Pause playback,1182,Ойношун убактылуу токтотуу,1183,gnome-control-center,po/ky.po
+Stop playback,1186,Ойношун токтотуу,1187,gnome-control-center,po/ky.po
+Previous track,1190,Мурунку трек,1191,gnome-control-center,po/ky.po
+Next track,1194,Кийинки трек,1195,gnome-control-center,po/ky.po
+Eject,1198,Чыгаруу,1199,gnome-control-center,po/ky.po
+Typing,1204,Басуу,1205,gnome-control-center,po/ky.po
+Switch to next source,1209,Кийинки булакка өтүү,1210,gnome-control-center,po/ky.po
+Switch to previous source,1214,Мурунку булакка өтүү,1215,gnome-control-center,po/ky.po
+Launchers,1218,Иштемелерди аткаруу,1219,gnome-control-center,po/ky.po
+Launch help browser,1222,Жардам браузерин иштетүү,1223,gnome-control-center,po/ky.po
+Launch calculator,1226,Калькуляторду иштетүү,1227,gnome-control-center,po/ky.po
+Launch email client,1230,Электрондук почто клиентин иштетүү,1231,gnome-control-center,po/ky.po
+Launch web browser,1234,Веб-аралагычын иштетүү,1235,gnome-control-center,po/ky.po
+Home folder,1238,Өзүмдүк каталог,1239,gnome-control-center,po/ky.po
+Search,1242,Издөө,1243,gnome-control-center,po/ky.po
+Screenshots,1246,Экран сүрөтү,1247,gnome-control-center,po/ky.po
+Save a screenshot to Pictures,1251,"Экран сүрөттөрүн \""Сүрөттөр\"" каталогуна жазуу",1252,gnome-control-center,po/ky.po
+Save a screenshot of a window to Pictures,1256,"Терезе сүрөттөрүн \""Сүрөттөр\"" каталогуна жазуу",1257,gnome-control-center,po/ky.po
+Copy a screenshot to clipboard,1266,Экран сүрөтүн алмашуу буферине көчүрүү,1267,gnome-control-center,po/ky.po
+Copy a screenshot of a window to clipboard,1270,Терезе сүрөтүн алмашуу буферине көчүрүү,1271,gnome-control-center,po/ky.po
+Copy a screenshot of an area to clipboard,1274,Област сүрөтүн алмашуу буферине көчүрүү,1275,gnome-control-center,po/ky.po
+System,1279,Система,1280,gnome-control-center,po/ky.po
+Log out,1283,Чыгуу,1284,gnome-control-center,po/ky.po
+Lock screen,1287,Экранды кулпулоо,1288,gnome-control-center,po/ky.po
+Universal Access,1292,Универсалдык жетүү,1293,gnome-control-center,po/ky.po
+Turn zoom on or off,1296,Чоңойтууну иштетүү же токтотуу,1297,gnome-control-center,po/ky.po
+Zoom in,1300,Жакындатуу,1301,gnome-control-center,po/ky.po
+Zoom out,1304,Алыстатуу,1305,gnome-control-center,po/ky.po
+Turn screen reader on or off,1308,Экрандан окугучту иштетүү же токтотуу,1309,gnome-control-center,po/ky.po
+Turn on-screen keyboard on or off,1312,Экран алиптактасын иштетүү же токтотуу,1313,gnome-control-center,po/ky.po
+Increase text size,1316,Текстин өлчөмүн чоңойтуу,1317,gnome-control-center,po/ky.po
+Decrease text size,1320,Текстин өлчөмүн кичирейтүү,1321,gnome-control-center,po/ky.po
+High contrast on or off,1324,Жогору контрастуулукту иштетүү же токтотуу,1325,gnome-control-center,po/ky.po
+Disabled,1335,Токтотулган,1336,gnome-control-center,po/ky.po
+Alternative Characters Key,1339,Альтернативдик символдор баскычы,1340,gnome-control-center,po/ky.po
+Compose Key,1343,Композиция баскычы,1344,gnome-control-center,po/ky.po
+Keyboard,1348,Алиптаката,1349,gnome-control-center,po/ky.po
+Change keyboard settings,1352,Алиптакта параметрлерин өзгөртүү,1353,gnome-control-center,po/ky.po
+Shortcut;Repeat;Blink;,1357,Комбинация;Кайталоо;Өчүп-жануу;,1358,gnome-control-center,po/ky.po
+Custom Shortcut,1361,Баскычтардын кошумча комбинациясы,1362,gnome-control-center,po/ky.po
+_Name:,1365,_Аталышы:,1366,gnome-control-center,po/ky.po
+C_ommand:,1369,_Команда:,1370,gnome-control-center,po/ky.po
+Repeat Keys,1373,Автокайталоо,1374,gnome-control-center,po/ky.po
+Key presses _repeat when key is held down,1377,Басылып турган баскычты _кайталоо,1378,gnome-control-center,po/ky.po
+_Delay:,1381,_Аралык:,1382,gnome-control-center,po/ky.po
+_Speed:,1385,_Ылдамдык:,1386,gnome-control-center,po/ky.po
+Short,1391,Кыска,1392,gnome-control-center,po/ky.po
+Slow,1397,Жай,1398,gnome-control-center,po/ky.po
+Repeat keys speed,1401,Баскычты кайталоо ылдамдыгы,1402,gnome-control-center,po/ky.po
+Long,1407,Узун,1408,gnome-control-center,po/ky.po
+Fast,1413,Тез,1414,gnome-control-center,po/ky.po
+Cursor Blinking,1417,Курсордун өчүп-жануусу,1418,gnome-control-center,po/ky.po
+Cursor _blinks in text fields,1421,Курсор тексттик талааларда _өчүп-жанат,1422,gnome-control-center,po/ky.po
+S_peed:,1425,_Ылдамдык:,1426,gnome-control-center,po/ky.po
+Cursor blink speed,1429,Курсордун  өчүп-жануу ылдамдыгы,1430,gnome-control-center,po/ky.po
+Add Shortcut,1438,Комбинация кошуу,1439,gnome-control-center,po/ky.po
+Remove Shortcut,1442,Комбинацияны жоготуу,1443,gnome-control-center,po/ky.po
+"To edit a shortcut, click the row and hold down the new keys or press Backspace to clear.",1447,"Комбинацияны оңдоо үчүн, сапты тандап жаңы баскычты басыңыз же өчүрүү үчүн Backspace баскычын колдонуңуз",1450,gnome-control-center,po/ky.po
+Shortcuts,1456,Комбинациялар,1457,gnome-control-center,po/ky.po
+Custom Shortcuts,1461,Кошумча комбинациялар,1462,gnome-control-center,po/ky.po
+<Unknown Action>,1465,<Белгисиз аракет>,1466,gnome-control-center,po/ky.po
+"The shortcut \""%s\"" cannot be used because it will become impossible to type using this key.\nPlease try with a key such as Control, Alt or Shift at the same time.",1470,"\""%s\"" комбинациясын колдонууга болбойт, себеби аны колдону терүүгө мүмкүн эмес.\nControl, Alt же Shift баскычтары менен чогуу колдонуп көрүңүз.",1474,gnome-control-center,po/ky.po
+"The shortcut \""%s\"" is already used for\n\""%s\""",1481,"\""%s\"" комбинациясы \n\""%s\"" үчүн колдонулууда",1484,gnome-control-center,po/ky.po
+_Reassign,1495,_Кайра аныктоо,1496,gnome-control-center,po/ky.po
+_Test Your Settings,1499,Сиздин параметрлериңизди _текшерүү,1500,gnome-control-center,po/ky.po
+Mouse & Touchpad,1503,Чычкан жана сенсордук такта,1504,gnome-control-center,po/ky.po
+Set your mouse and touchpad preferences,1507,Сиздин чычкан түзүмүңүздүн жана сенсордук тактаңыздын параметрлери,1508,gnome-control-center,po/ky.po
+Mouse Preferences,1516,Чычкан параметрлери,1517,gnome-control-center,po/ky.po
+General,1520,Жалпы,1521,gnome-control-center,po/ky.po
+Double-click timeout,1524,Коштоп чертүү аралыгы,1525,gnome-control-center,po/ky.po
+_Double-click,1528,_Коштоп чертүү,1529,gnome-control-center,po/ky.po
+Primary _button,1532,Негизги _черткич,1533,gnome-control-center,po/ky.po
+_Left,1536,_Солдогусу,1537,gnome-control-center,po/ky.po
+_Right,1540,_Оңдогусу,1541,gnome-control-center,po/ky.po
+Mouse,1544,Чычкан,1545,gnome-control-center,po/ky.po
+_Pointer speed,1548,_Көрсөткүчтүн  ылдамдыгы,1549,gnome-control-center,po/ky.po
+Touchpad,1552,Сенсордук такта,1553,gnome-control-center,po/ky.po
+Disable while _typing,1556,_Терүү учурунда өчүрүү,1557,gnome-control-center,po/ky.po
+Tap to _click,1560,_Тийгенде чертүү катары кароо,1561,gnome-control-center,po/ky.po
+Two _finger scroll,1564,_Эки манжа менен жылдыруу,1565,gnome-control-center,po/ky.po
+Network proxy,1605,Тармак проксиси,1606,gnome-control-center,po/ky.po
+Network,1626,Тармак,1627,gnome-control-center,po/ky.po
+Network settings,1630,Тармак параметрлери,1631,gnome-control-center,po/ky.po
+Add new connection,1640,Жаңы туташуу кошуу,1641,gnome-control-center,po/ky.po
+%d Mb/s,1648,%d Мб/с,1649,gnome-control-center,po/ky.po
+Connect to a Hidden Network,1655,Жашыруун тармакка туташуу,1656,gnome-control-center,po/ky.po
+Enterprise,1677,Ишкана,1678,gnome-control-center,po/ky.po
+None,1683,Жок,1684,gnome-control-center,po/ky.po
+never,1687,эч качан,1688,gnome-control-center,po/ky.po
+today,1691,бүгүн,1692,gnome-control-center,po/ky.po
+yesterday,1695,кечээ,1696,gnome-control-center,po/ky.po
+%i day ago,1700,%i күн мурун,1702,gnome-control-center,po/ky.po
+Not connected,1707,Туташкан эмес,1708,gnome-control-center,po/ky.po
+Out of range,1712,Жетүү зонасынан тышкары,1713,gnome-control-center,po/ky.po
+None,1717,Жок,1718,gnome-control-center,po/ky.po
+Weak,1722,Аз,1723,gnome-control-center,po/ky.po
+Ok,1727,Орто,1728,gnome-control-center,po/ky.po
+Good,1732,Жакшы,1733,gnome-control-center,po/ky.po
+Excellent,1737,Эң жакшы,1738,gnome-control-center,po/ky.po
+Forget,1748,Унутуу,1749,gnome-control-center,po/ky.po
+Proxy,1791,Прокси,1792,gnome-control-center,po/ky.po
+Provider,1799,Провайдер,1800,gnome-control-center,po/ky.po
+IP Address,1805,IP дарек,1806,gnome-control-center,po/ky.po
+IPv6 Address,1811,IPv6 дарек,1812,gnome-control-center,po/ky.po
+Default Route,1817,Алдына алынган маршрут,1818,gnome-control-center,po/ky.po
+_Options...,1828,_Параметрлер...,1829,gnome-control-center,po/ky.po
+None,1833,Жок,1834,gnome-control-center,po/ky.po
+Manual,1838,Өз алдынча,1839,gnome-control-center,po/ky.po
+Automatic,1843,Автоматтык түрдө,1844,gnome-control-center,po/ky.po
+_Method,1847,_Ыкма,1848,gnome-control-center,po/ky.po
+_Configuration URL,1851,_Конфигурациялоочу URL,1852,gnome-control-center,po/ky.po
+_HTTP Proxy,1855,_HTTP проксиси,1856,gnome-control-center,po/ky.po
+H_TTPS Proxy,1859,H_TTPS проксиси,1860,gnome-control-center,po/ky.po
+_FTP Proxy,1863,_FTP проксиси,1864,gnome-control-center,po/ky.po
+_Socks Host,1867,_Socks хосту,1868,gnome-control-center,po/ky.po
+C_reate...,1875,_Түзүү...,1876,gnome-control-center,po/ky.po
+_Interface,1879,_Интерфейс,1880,gnome-control-center,po/ky.po
+Add Device,1887,Түзүм кошуу,1888,gnome-control-center,po/ky.po
+VPN Type,1891,VPN түрү,1892,gnome-control-center,po/ky.po
+Gateway,1895,Шлюз,1896,gnome-control-center,po/ky.po
+Group Name,1899,Топтун аты,1900,gnome-control-center,po/ky.po
+Group Password,1903,Топтун сырсөзү,1904,gnome-control-center,po/ky.po
+Username,1907,Наама,1908,gnome-control-center,po/ky.po
+_Configure...,1911,_Конфигурация...,1912,gnome-control-center,po/ky.po
+_Disconnect,1932,_Ажыратуу,1933,gnome-control-center,po/ky.po
+_Connect,1936,_Туташуу,1937,gnome-control-center,po/ky.po
+Last used,1940,Акыркы колдонулганы,1941,gnome-control-center,po/ky.po
+Hardware Address,1945,Аппараттык дарек,1946,gnome-control-center,po/ky.po
+Security,1949,Коопсуздук,1950,gnome-control-center,po/ky.po
+Strength,1953,Кубаттуулугу,1954,gnome-control-center,po/ky.po
+Link speed,1957,Байланыш ылдамдыгы,1958,gnome-control-center,po/ky.po
+IPv4 Address,1962,IPv4 дарек,1963,gnome-control-center,po/ky.po
+_Forget Network,1966,Тармакты _унутуу,1967,gnome-control-center,po/ky.po
+_Settings...,1970,_Параметрлер...,1971,gnome-control-center,po/ky.po
+Network Name,1978,Тармактын аты,1979,gnome-control-center,po/ky.po
+Connected Devices,1982,Туташкан түзүмдөр,1983,gnome-control-center,po/ky.po
+Security type,1986,Коопсуздук түрү,1987,gnome-control-center,po/ky.po
+Security key,1990,Коопсуздук ачкычы,1991,gnome-control-center,po/ky.po
+Wired,1995,Кабелдик,1996,gnome-control-center,po/ky.po
+Mesh,2006,Тармактык,2007,gnome-control-center,po/ky.po
+Infrastructure,2016,Инфраструктура,2017,gnome-control-center,po/ky.po
+Status unknown,2022,Абалы белгисиз,2023,gnome-control-center,po/ky.po
+Unmanaged,2027,Башкарууга мүмкүн эмес,2028,gnome-control-center,po/ky.po
+Firmware missing,2031,Фирмалык программасы жок,2032,gnome-control-center,po/ky.po
+Cable unplugged,2035,Кабель суурулган,2036,gnome-control-center,po/ky.po
+Unavailable,2039,Жеткиликтүү эмес,2040,gnome-control-center,po/ky.po
+Disconnected,2044,Ажыратылган,2045,gnome-control-center,po/ky.po
+Connecting,2050,Туташуу,2051,gnome-control-center,po/ky.po
+Authentication required,2056,Аутентификация талап кылынат,2057,gnome-control-center,po/ky.po
+Connected,2062,Туташкан,2063,gnome-control-center,po/ky.po
+Disconnecting,2067,Ажыратуу,2068,gnome-control-center,po/ky.po
+Connection failed,2073,Туташуу ишке ашпады,2074,gnome-control-center,po/ky.po
+Status unknown (missing),2079,Абалы белгисиз  (жок),2080,gnome-control-center,po/ky.po
+Configuration failed,2084,Конфигурциялоо ишке ашпады,2085,gnome-control-center,po/ky.po
+IP configuration failed,2089,IP конфигурациялоо ишке ашпады,2090,gnome-control-center,po/ky.po
+IP configuration expired,2094,IP конфигурациясынын убакыты өтүп кеткен,2095,gnome-control-center,po/ky.po
+"Secrets were required, but not provided",2099,"Сырсөз талап кылынат, бирок берилген эмес",2100,gnome-control-center,po/ky.po
+802.1x supplicant disconnected,2104,802.1x клиенти ажыратылган,2105,gnome-control-center,po/ky.po
+802.1x supplicant configuration failed,2109,802.1x клиентин конфигурациялоо ишке ашпады,2110,gnome-control-center,po/ky.po
+802.1x supplicant took too long to authenticate,2120,802.1x клиенти аутентификацядан өтө узак өтүүдө,2121,gnome-control-center,po/ky.po
+PPP service failed to start,2125,PPP кызматы ишин баштай албады,2126,gnome-control-center,po/ky.po
+PPP service disconnected,2130,PPP кызматы ажыратылган,2131,gnome-control-center,po/ky.po
+PPP failed,2135,PPP катасы,2136,gnome-control-center,po/ky.po
+DHCP client failed to start,2140,DHCP клиенти ишин баштай албады,2141,gnome-control-center,po/ky.po
+DHCP client error,2145,DHCP клиентинин катасы,2146,gnome-control-center,po/ky.po
+DHCP client failed,2150,DHCP клиент катасы,2151,gnome-control-center,po/ky.po
+Line busy,2180,Канал бош эмес,2181,gnome-control-center,po/ky.po
+No dial tone,2185,Каналда сигнал жок,2186,gnome-control-center,po/ky.po
+Modem initialization failed,2205,Модемди инициализациялоо ишке ашпады,2206,gnome-control-center,po/ky.po
+Network registration denied,2220,Тармак каттоодон баш тартты,2221,gnome-control-center,po/ky.po
+Network registration timed out,2225,Тармактын каттоо убакыты бүттү,2226,gnome-control-center,po/ky.po
+PIN check failed,2235,PIN текшерүү катасы,2236,gnome-control-center,po/ky.po
+Modem not found,2260,Модем табылган жок,2261,gnome-control-center,po/ky.po
+Bluetooth connection failed,2265,Bluetooth туташуу катасы,2266,gnome-control-center,po/ky.po
+SIM Card not inserted,2270,SIM картасы орнотулган эмес,2271,gnome-control-center,po/ky.po
+SIM Pin required,2275,SIM картанын Pin коду керек,2276,gnome-control-center,po/ky.po
+SIM Puk required,2280,SIM картанын Puk коду керек,2281,gnome-control-center,po/ky.po
+SIM wrong,2285,Туура эмес SIM карта,2286,gnome-control-center,po/ky.po
+_Log In,2313,_Кирүү,2314,gnome-control-center,po/ky.po
+%i minute,2373,%i  мүнөт,2375,gnome-control-center,po/ky.po
+%i hour,2379,%i саат,2381,gnome-control-center,po/ky.po
+hour,2391,саат,2393,gnome-control-center,po/ky.po
+minute,2396,мүнөт,2398,gnome-control-center,po/ky.po
+Using battery power - %s remaining,2415,Батарея колдонулууда - %s калды,2416,gnome-control-center,po/ky.po
+Charging,2420,Заряд алуу,2421,gnome-control-center,po/ky.po
+Using battery power,2425,Батареяны колдонуу,2426,gnome-control-center,po/ky.po
+Charging - fully charged,2430,Заряд алуу - толду,2431,gnome-control-center,po/ky.po
+Empty,2435,Бош,2436,gnome-control-center,po/ky.po
+5 minutes,2578,5 мүнөт,2579,gnome-control-center,po/ky.po
+10 minutes,2582,10 мүнөт,2583,gnome-control-center,po/ky.po
+30 minutes,2586,30 мүнөт,2587,gnome-control-center,po/ky.po
+1 hour,2590,1 саат,2591,gnome-control-center,po/ky.po
+Don't suspend,2594,Күтүү режимине өткөрбөө,2595,gnome-control-center,po/ky.po
+On battery power,2598,Батареядан иштеп жатканда,2599,gnome-control-center,po/ky.po
+When plugged in,2602,Ток булагына туташканда,2603,gnome-control-center,po/ky.po
+Suspend when inactive for,2606,Көрсөтүлгөн убакта жөн турса,2607,gnome-control-center,po/ky.po
+When power is _critically low,2610,Батареянын кубаттуулугу _критикалык азайганда,2611,gnome-control-center,po/ky.po
+Low on toner,2615,Тонер аз,2616,gnome-control-center,po/ky.po
+Out of toner,2620,Тонер жок,2621,gnome-control-center,po/ky.po
+Low on a marker supply,2637,Маркер жакында бүтөт,2638,gnome-control-center,po/ky.po
+Out of a marker supply,2642,Маркер бүттү,2643,gnome-control-center,po/ky.po
+Open cover,2647,Капкагы ачык,2648,gnome-control-center,po/ky.po
+Open door,2652,Эшиги ачык,2653,gnome-control-center,po/ky.po
+Low on paper,2657,Кагаз аз,2658,gnome-control-center,po/ky.po
+Out of paper,2662,Кагаз жок,2663,gnome-control-center,po/ky.po
+Offline,2668,Өчүрүлгөн,2669,gnome-control-center,po/ky.po
+Paused,2674,Паузада,2675,gnome-control-center,po/ky.po
+Waste receptacle almost full,2679,Резервуар толгонуна жакын калды,2680,gnome-control-center,po/ky.po
+Waste receptacle full,2684,Резервуар толду,2685,gnome-control-center,po/ky.po
+The optical photo conductor is near end of life,2689,Фоторезистор жакында иштен чыгат,2690,gnome-control-center,po/ky.po
+The optical photo conductor is no longer functioning,2694,Фоторезистор иштен чыкты,2695,gnome-control-center,po/ky.po
+Configuring,2700,Конфигурация,2701,gnome-control-center,po/ky.po
+Ready,2706,Даяр,2707,gnome-control-center,po/ky.po
+Processing,2712,Иштетүү,2713,gnome-control-center,po/ky.po
+Stopped,2718,Токтотулган,2719,gnome-control-center,po/ky.po
+Toner Level,2723,Тонердин деңгээли,2724,gnome-control-center,po/ky.po
+Ink Level,2728,Боёктун деңгээли,2729,gnome-control-center,po/ky.po
+Supply Level,2733,Ресурстардын деңгээли,2734,gnome-control-center,po/ky.po
+Installing,2739,Орнотуу,2740,gnome-control-center,po/ky.po
+No printers available,2744,Принтерлер табылган жок,2745,gnome-control-center,po/ky.po
+%u active,2750,%u активдүү,2752,gnome-control-center,po/ky.po
+Failed to add new printer.,2756,Жаңы принтер кошуулбады,2757,gnome-control-center,po/ky.po
+Select PPD File,2760,PPD файлын танда,2761,gnome-control-center,po/ky.po
+"PostScript Printer Description files (*.ppd, *.PPD, *.ppd.gz, *.PPD.gz, *.PPD.GZ)",2764,"PostScript Printer Description файлдары (*.ppd, *.PPD, *.ppd.gz, *.PPD.gz, *.PPD.GZ)",2767,gnome-control-center,po/ky.po
+No suitable driver found,2772,Жарактуу драйвер табылган жок,2773,gnome-control-center,po/ky.po
+Searching for preferred drivers...,2776,Жарактуу драйверлер изделип жатат...,2777,gnome-control-center,po/ky.po
+Select from database...,2780,Маалымат базасынан тандоо...,2781,gnome-control-center,po/ky.po
+Provide PPD File...,2784,PPD файлын колдонуу...,2785,gnome-control-center,po/ky.po
+Test page,2790,Текшерүү барагы,2791,gnome-control-center,po/ky.po
+Could not load ui: %s,2796,Колдонуучу интерфейси жүктөлбөдү: %s,2797,gnome-control-center,po/ky.po
+Printers,2800,Принтерлер,2801,gnome-control-center,po/ky.po
+Change printer settings,2804,Принтер параметрлерин өзгөртүү,2805,gnome-control-center,po/ky.po
+Printer;Queue;Print;Paper;Ink;Toner;,2809,Принтер;Кезек;Басуу;Кагаз;Боёк;Тонер;,2810,gnome-control-center,po/ky.po
+Close,2820,Жабуу,2821,gnome-control-center,po/ky.po
+Active Jobs,2825,Активдүү тапшырмалар,2826,gnome-control-center,po/ky.po
+Resume Printing,2829,Басууну улантуу,2830,gnome-control-center,po/ky.po
+Pause Printing,2833,Басууну убактылуу токтотуу,2834,gnome-control-center,po/ky.po
+Cancel Print Job,2837,Басуу тапшырмасын алып таштоо,2838,gnome-control-center,po/ky.po
+_Add,2842,_Кошуу,2843,gnome-control-center,po/ky.po
+Add a New Printer,2846,Жаңы принтер кошуу,2847,gnome-control-center,po/ky.po
+Search for network printers or filter result,2850,Тармактагы принтерлерди издөө же жыйынтыгын чыпкалоо,2851,gnome-control-center,po/ky.po
+Options,2854,Параметрлер,2855,gnome-control-center,po/ky.po
+Loading options...,2858,Параметрлер жүктөлүүдө...,2859,gnome-control-center,po/ky.po
+Cancel,2864,Айынуу,2865,gnome-control-center,po/ky.po
+Loading drivers database...,2868,Драйверлер маалымат базасынан жүктөлүүдө...,2869,gnome-control-center,po/ky.po
+Select Printer Driver,2872,Принтер драйверин тандоо,2873,gnome-control-center,po/ky.po
+One Sided,2878,Бир тараптуу,2879,gnome-control-center,po/ky.po
+Long Edge (Standard),2884,Узун жагы менен (Стандарт),2885,gnome-control-center,po/ky.po
+Portrait,2896,Портрет,2897,gnome-control-center,po/ky.po
+Landscape,2901,Ландшафт,2902,gnome-control-center,po/ky.po
+Reverse landscape,2906,Алмаштырылган ландшафт,2907,gnome-control-center,po/ky.po
+Reverse portrait,2911,Алмаштырылган портрет,2912,gnome-control-center,po/ky.po
+Pending,2917,Күтүү,2918,gnome-control-center,po/ky.po
+Processing,2929,Аткарылууда,2930,gnome-control-center,po/ky.po
+Stopped,2935,Токтотулган,2936,gnome-control-center,po/ky.po
+Canceled,2941,Баш тартылган,2942,gnome-control-center,po/ky.po
+Completed,2953,Аяктаган,2954,gnome-control-center,po/ky.po
+Job Title,2958,Тапшырма,2959,gnome-control-center,po/ky.po
+Job State,2963,Абалы,2964,gnome-control-center,po/ky.po
+Time,2968,Убакыт,2969,gnome-control-center,po/ky.po
+%s Active Jobs,2973,%s активдүү тапшырма,2974,gnome-control-center,po/ky.po
+No printers detected.,2978,Принтерлер табылган жок,2979,gnome-control-center,po/ky.po
+Two Sided,2982,Эки тараптуу,2983,gnome-control-center,po/ky.po
+Paper Type,2986,Кагаз түрү,2987,gnome-control-center,po/ky.po
+Paper Source,2990,Кагаз булагы,2991,gnome-control-center,po/ky.po
+Output Tray,2994,Чыгуу орду,2995,gnome-control-center,po/ky.po
+Resolution,2998,Ажырымдуулугу,2999,gnome-control-center,po/ky.po
+GhostScript pre-filtering,3002,GhostScript менен алыдна ала чыпкалоо,3003,gnome-control-center,po/ky.po
+Pages per side,3007,Беттеги барактардын саны,3008,gnome-control-center,po/ky.po
+Two-sided,3012,Эки тараптуу,3013,gnome-control-center,po/ky.po
+Orientation,3017,Багыты,3018,gnome-control-center,po/ky.po
+General,3023,Жалпы,3024,gnome-control-center,po/ky.po
+Page Setup,3029,Барак параметрлери,3030,gnome-control-center,po/ky.po
+Installable Options,3035,Орнотулуучу параметрлер,3036,gnome-control-center,po/ky.po
+Job,3041,Тапшырма,3042,gnome-control-center,po/ky.po
+Image Quality,3047,Сүрөттүн сапаттуулугу,3048,gnome-control-center,po/ky.po
+Color,3053,Түс,3054,gnome-control-center,po/ky.po
+Finishing,3059,Аяктоо,3060,gnome-control-center,po/ky.po
+Advanced,3065,Кошумча,3066,gnome-control-center,po/ky.po
+%s Options,3071,%s параметрлери,3072,gnome-control-center,po/ky.po
+Auto Select,3078,Автоматтык түрдө тандоо,3079,gnome-control-center,po/ky.po
+Printer Default,3087,Абалкы принтерлер,3088,gnome-control-center,po/ky.po
+Embed GhostScript fonts only,3092,GhostScript ариптерин гана колдонуу (embed),3093,gnome-control-center,po/ky.po
+Convert to PS level 1,3097,PS level 1 ге өткөрүү,3098,gnome-control-center,po/ky.po
+Convert to PS level 2,3102,PS level 2 ге өткөрүү,3103,gnome-control-center,po/ky.po
+No pre-filtering,3107,Алдына ала чыпкалабоо,3108,gnome-control-center,po/ky.po
+Manufacturers,3112,Өндүрүүчүлөр,3113,gnome-control-center,po/ky.po
+Drivers,3117,Драйверлер,3118,gnome-control-center,po/ky.po
+Add Printer,3121,Принтер кошуу,3122,gnome-control-center,po/ky.po
+Remove Printer,3125,Принтерди алып таштоо,3126,gnome-control-center,po/ky.po
+Supply,3130,Ресурс,3131,gnome-control-center,po/ky.po
+Location,3135,Жайгашкан жери,3136,gnome-control-center,po/ky.po
+_Default,3140,_Абалкы,3141,gnome-control-center,po/ky.po
+Jobs,3144,Тапшырмалар,3145,gnome-control-center,po/ky.po
+_Show,3149,_Көрсөтүү,3150,gnome-control-center,po/ky.po
+Model,3153,Модели,3154,gnome-control-center,po/ky.po
+page 1,3157,1-барак,3158,gnome-control-center,po/ky.po
+label,3161,белги,3162,gnome-control-center,po/ky.po
+page 2,3165,2-барак,3166,gnome-control-center,po/ky.po
+Setting new driver...,3169,Жаңы драйвер орнотуу...,3170,gnome-control-center,po/ky.po
+page 3,3173,3-барак,3174,gnome-control-center,po/ky.po
+Print _Test Page,3178,_Текшерүү барагын басуу,3179,gnome-control-center,po/ky.po
+_Options,3183,_Параметрлер,3184,gnome-control-center,po/ky.po
+Add New Printer,3188,Жаңы принтер кошуу,3189,gnome-control-center,po/ky.po
+Sorry! The system printing service\ndoesn't seem to be available.,3193,Кечириңиз! Системалык басуу кызматы (CUPS)\nиштебеген сыяктуу.,3196,gnome-control-center,po/ky.po
+Region & Language,3201,Регион жана тил,3202,gnome-control-center,po/ky.po
+Change your region and language settings,3205,Сиздин регион жана тил параметрлери,3206,gnome-control-center,po/ky.po
+Language;Layout;Keyboard;,3210,Тил;Такта;Алиптакта;,3211,gnome-control-center,po/ky.po
+Imperial,3214,Империялык,3215,gnome-control-center,po/ky.po
+Metric,3218,Метрикалык,3219,gnome-control-center,po/ky.po
+Choose an input source,3222,Киргизүү булагын тандаңыз,3223,gnome-control-center,po/ky.po
+Select an input source to add,3226,Кошуу үчүн киргизүү булагын тандаңыз,3227,gnome-control-center,po/ky.po
+"The login screen, system accounts and new user accounts use the system-wide Region and Language settings.",3230,"Кирүү терезеси, системалык наамалар жана жаңы наамалар системанын регион жана тил параметрлерин колдонот.",3233,gnome-control-center,po/ky.po
+"The login screen, system accounts and new user accounts use the system-wide Region and Language settings. You may change the system settings to match yours.",3239,"Кирүү терезеси, системалык наамалар жана жаңы наамалар системанын регион жана тил параметрлерин колдонот. Сиз системалык параметрлерди өзүңүзгө ылайыктап алсаңыз болот.",3243,gnome-control-center,po/ky.po
+Copy Settings,3249,Параметрлерди көчүрүү,3250,gnome-control-center,po/ky.po
+Copy Settings...,3254,Параметрлерди көчүрүү...,3255,gnome-control-center,po/ky.po
+Region and Language,3258,Регион жана тил,3259,gnome-control-center,po/ky.po
+Select a display language (change will be applied next time you log in),3262,Тил тандаңыз (системага кийинки жолу киргенде колдонула баштайт),3263,gnome-control-center,po/ky.po
+Add Language,3266,Тил кошуу,3267,gnome-control-center,po/ky.po
+Remove Language,3270,Тилди алып таштоо,3271,gnome-control-center,po/ky.po
+Install languages...,3274,Тилдер орнотулууда...,3275,gnome-control-center,po/ky.po
+Language,3278,Тил,3279,gnome-control-center,po/ky.po
+Select a region (change will be applied the next time you log in),3282,Регион тандаңыз (системага кийинки жолу киргенде колдонула баштайт),3283,gnome-control-center,po/ky.po
+Add Region,3286,Регион кошуу,3287,gnome-control-center,po/ky.po
+Remove Region,3290,Регионду алып таштоо,3291,gnome-control-center,po/ky.po
+Dates,3294,Дата,3295,gnome-control-center,po/ky.po
+Times,3298,Убакыт,3299,gnome-control-center,po/ky.po
+Numbers,3302,Сан,3303,gnome-control-center,po/ky.po
+Currency,3306,Акча,3307,gnome-control-center,po/ky.po
+Measurement,3310,Чен бирдиктери,3311,gnome-control-center,po/ky.po
+Examples,3314,Мисалдар,3315,gnome-control-center,po/ky.po
+Formats,3318,Форматтар,3319,gnome-control-center,po/ky.po
+Select keyboards or other input sources,3322,Алиптактаны жана башка киргизүү түзүмдөрүн тандаңыз,3323,gnome-control-center,po/ky.po
+Add Input Source,3326,Киргизүү булагын кошуу,3327,gnome-control-center,po/ky.po
+Remove Input Source,3330,Киргизүү булагын алып таштоо,3331,gnome-control-center,po/ky.po
+Move Input Source Up,3334,Киргизүү булагын жогору жылдыруу,3335,gnome-control-center,po/ky.po
+Move Input Source Down,3338,Киргизүү булагын төмөн жылдыруу,3339,gnome-control-center,po/ky.po
+Input Source Settings,3342,Киргизүү булактарынын параметрлери,3343,gnome-control-center,po/ky.po
+Show Keyboard Layout,3346,Алиптактанын жайгашуусун көрсөтүү,3347,gnome-control-center,po/ky.po
+Ctrl+Alt+Shift+Space,3354,Ctrl+Alt+Shift+Аралык,3355,gnome-control-center,po/ky.po
+Shortcut Settings,3358,Композициялардын параметри,3359,gnome-control-center,po/ky.po
+Input Sources,3362,Киргизүү булактары,3363,gnome-control-center,po/ky.po
+Display language:,3367,Колдонулуучу тил:,3368,gnome-control-center,po/ky.po
+Input source:,3371,Киргизүү булагы:,3372,gnome-control-center,po/ky.po
+Format:,3375,Формат:,3376,gnome-control-center,po/ky.po
+Your settings,3379,Сиздин параметрлер,3380,gnome-control-center,po/ky.po
+System settings,3383,Системанын параметрлери,3384,gnome-control-center,po/ky.po
+Brightness & Lock,3387,Ачыктык жана бекитүү,3388,gnome-control-center,po/ky.po
+Screen brightness and lock settings,3391,Экрандын ачыктыгы жана экранды бекитүүнүн  параметрлери,3392,gnome-control-center,po/ky.po
+Screen turns off,3401,Экран өчүрүлөт,3402,gnome-control-center,po/ky.po
+30 seconds,3405,30 секундда,3406,gnome-control-center,po/ky.po
+1 minute,3409,1 мүнөттө,3410,gnome-control-center,po/ky.po
+2 minutes,3413,2 мүнөттө,3414,gnome-control-center,po/ky.po
+3 minutes,3417,3 мүнөттө,3418,gnome-control-center,po/ky.po
+_Dim screen to save power,3421,Энергияны үнөмдөө үчүн экрандын ачыктыгын азайтуу,3422,gnome-control-center,po/ky.po
+Brightness,3425,Ачыктык,3426,gnome-control-center,po/ky.po
+_Turn screen off when inactive for:,3429,"Убакыт аралыгында иш жүрбөсө, экранды  _өчүрүү:",3430,gnome-control-center,po/ky.po
+_Lock screen after:,3433,Убакыт өткөндө _бекит:,3434,gnome-control-center,po/ky.po
+Don't lock when at home,3438,Үйдө болгондо бекитпөө,3439,gnome-control-center,po/ky.po
+Locations...,3442,Жайгашкан жерлер...,3443,gnome-control-center,po/ky.po
+Show _notifications when locked,3446,"Экран бекитилгенде да, билдирүүлөрдү көрсөтүү",3447,gnome-control-center,po/ky.po
+Lock,3450,Бекитүү,3451,gnome-control-center,po/ky.po
+Enable debugging code,3454,Ката издөөнү иштетүү,3455,gnome-control-center,po/ky.po
+Version of this application,3458,Бул иштеменени версиясы,3459,gnome-control-center,po/ky.po
+ — GNOME Volume Control Applet,3462, — GNOME үн бийиктигин башкаруу апплети,3463,gnome-control-center,po/ky.po
+Volume Control,3466,Үн бийиктигин башкаруу,3467,gnome-control-center,po/ky.po
+Show desktop volume control,3470,Үн бийиктигин башкарууну ачуу,3471,gnome-control-center,po/ky.po
+Sound,3474,Үн,3475,gnome-control-center,po/ky.po
+Change sound volume and sound events,3478,Үн бийиктигин жана кабарлардын үнүн өзгөртүү,3479,gnome-control-center,po/ky.po
+Bark,3489,Ит,3490,gnome-control-center,po/ky.po
+Drip,3495,Тамчы,3496,gnome-control-center,po/ky.po
+Glass,3501,Айнек,3502,gnome-control-center,po/ky.po
+Sonar,3507,Сонар,3508,gnome-control-center,po/ky.po
+Output,3511,Чыгуу,3512,gnome-control-center,po/ky.po
+Sound Output Volume,3515,Чыгуудагы үн бийиктиги,3516,gnome-control-center,po/ky.po
+Input,3519,Кирүү,3520,gnome-control-center,po/ky.po
+Microphone Volume,3523,Микрофондун бийиктиги,3524,gnome-control-center,po/ky.po
+Left,3528,Сол,3529,gnome-control-center,po/ky.po
+Right,3533,Оң,3534,gnome-control-center,po/ky.po
+Rear,3538,Арткы,3539,gnome-control-center,po/ky.po
+Front,3543,Алдынкы,3544,gnome-control-center,po/ky.po
+Minimum,3548,Минимум,3549,gnome-control-center,po/ky.po
+Maximum,3553,Максимум,3554,gnome-control-center,po/ky.po
+_Balance:,3557,_Баланс:,3558,gnome-control-center,po/ky.po
+_Subwoofer:,3565,_Сабвуфер:,3566,gnome-control-center,po/ky.po
+Unamplified,3575,Күчтөтүүсүз,3576,gnome-control-center,po/ky.po
+_Profile:,3580,_Профайл:,3581,gnome-control-center,po/ky.po
+%u Output,3587,%u чыгуу,3589,gnome-control-center,po/ky.po
+%u Input,3595,%u кирүү,3597,gnome-control-center,po/ky.po
+System Sounds,3600,Системалык үндөр,3601,gnome-control-center,po/ky.po
+_Test Speakers,3604,Динамикти _текшерүү,3605,gnome-control-center,po/ky.po
+Name,3613,Аты,3614,gnome-control-center,po/ky.po
+_Output volume:,3622,Үндүн _бийиктиги:,3623,gnome-control-center,po/ky.po
+C_hoose a device for sound output:,3626,Үн үчүн чыгуу түзүмүн тандоо:,3627,gnome-control-center,po/ky.po
+Settings for the selected device:,3630,Тандалган түзүмдүн параметрлери:,3631,gnome-control-center,po/ky.po
+_Input volume:,3634,Жазуу _бийиктиги:,3635,gnome-control-center,po/ky.po
+Input level:,3638,Жазуу деңгээли:,3639,gnome-control-center,po/ky.po
+C_hoose a device for sound input:,3642,Үн кирүүчү түзүмдү танда:,3643,gnome-control-center,po/ky.po
+Sound Effects,3646,Үн эффектери,3647,gnome-control-center,po/ky.po
+_Alert volume:,3650,Билдирүүлөрдүн үн бийиктиги:,3651,gnome-control-center,po/ky.po
+Applications,3654,Иштемелер,3655,gnome-control-center,po/ky.po
+No application is currently playing or recording audio.,3658,Учуруда үндү ойноткон же жазган иштеме жок.,3659,gnome-control-center,po/ky.po
+Sound Preferences,3668,Үн параметрлери,3669,gnome-control-center,po/ky.po
+Default,3678,Абалкы,3679,gnome-control-center,po/ky.po
+From theme,3682,Бул темадан,3683,gnome-control-center,po/ky.po
+C_hoose an alert sound:,3686,_Билдирүү үчүн үн танда:,3687,gnome-control-center,po/ky.po
+Stop,3690,Токтотуу,3691,gnome-control-center,po/ky.po
+Test,3695,Текшерүү,3696,gnome-control-center,po/ky.po
+Subwoofer,3699,Сабвуфер,3700,gnome-control-center,po/ky.po
+Failed to start Sound Preferences: %s,3704,Үн параметрлерин иштетүүгө болбоду: %s,3705,gnome-control-center,po/ky.po
+_Mute,3708,_Өчүрүү,3709,gnome-control-center,po/ky.po
+_Sound Preferences,3712,_Үн параметрлери,3713,gnome-control-center,po/ky.po
+Muted,3716,Өчүрүлгөн,3717,gnome-control-center,po/ky.po
+Custom,3720,Башка,3721,gnome-control-center,po/ky.po
+No shortcut set,3725,Комбинация орнотулган эмес,3726,gnome-control-center,po/ky.po
+Universal Access Preferences,3729,Универсалдык жетүү параметрлери,3730,gnome-control-center,po/ky.po
+Low,3741,Төмөн,3742,gnome-control-center,po/ky.po
+Normal,3746,Кадимкидей,3747,gnome-control-center,po/ky.po
+High,3751,Жогору,3752,gnome-control-center,po/ky.po
+High/Inverse,3756,Жогору/Инверсия,3757,gnome-control-center,po/ky.po
+On screen keyboard,3760,Экран алиптактасы,3761,gnome-control-center,po/ky.po
+None,3772,Жок,3773,gnome-control-center,po/ky.po
+Small,3782,Кичирейтилген,3783,gnome-control-center,po/ky.po
+Normal,3792,Кадимки,3793,gnome-control-center,po/ky.po
+Large,3802,Чоңойтулган,3803,gnome-control-center,po/ky.po
+Larger,3812,Чоң,3813,gnome-control-center,po/ky.po
+High Contrast,3816,Бийик контраст,3817,gnome-control-center,po/ky.po
+Beep on Caps and Num Lock,3820,Caps жана Num Lock басылганда үн чыгаруу,3821,gnome-control-center,po/ky.po
+Options...,3824,Параметрлер...,3825,gnome-control-center,po/ky.po
+Screen Reader,3828,Экрандан окуу,3829,gnome-control-center,po/ky.po
+Turn on or off:,3832,Жандыруу же өчүрүү:,3833,gnome-control-center,po/ky.po
+Zoom,3837,Чоңойтуу,3838,gnome-control-center,po/ky.po
+Zoom in:,3841,Жакындатуу:,3842,gnome-control-center,po/ky.po
+Zoom out:,3845,Алыстатуу:,3846,gnome-control-center,po/ky.po
+Large Text,3849,Чоң текст,3850,gnome-control-center,po/ky.po
+Seeing,3853,Көрүү,3854,gnome-control-center,po/ky.po
+Visual Alerts,3857,Визуалдык билдирүүлөр,3858,gnome-control-center,po/ky.po
+Flash the window title,3865,Терезенин башынын күйүп-өчүүсү,3866,gnome-control-center,po/ky.po
+Flash the entire screen,3869,Экрандын күйүп-өчүүсү,3870,gnome-control-center,po/ky.po
+Hearing,3885,Угуу,3886,gnome-control-center,po/ky.po
+On Screen Keyboard,3889,Экран алиптактасы,3890,gnome-control-center,po/ky.po
+Sticky Keys,3893,Илешме тергичтер,3894,gnome-control-center,po/ky.po
+- System Settings,5190,- Системалык параметрлер,5191,gnome-control-center,po/ky.po
+%s\nRun '%s --help' to see a full list of available command line options.\n,5195,%s\nБардык параметрлердин толук тизмесин көрүү үчүн '%s --help' аткарыңыз.\n,5198,gnome-control-center,po/ky.po
+Help,5203,Жардам,5204,gnome-control-center,po/ky.po
+Quit,5207,Чыгуу,5208,gnome-control-center,po/ky.po
+Control Center,5211,Башкаруу борбору,5212,gnome-control-center,po/ky.po
+System Settings,5215,Системалык параметрлер,5216,gnome-control-center,po/ky.po
+All Settings,5223,Бардык параметрлер,5224,gnome-control-center,po/ky.po
+Text to thumbnail (default: Aa),24,Миниатюра үчүн текст (абалкысы: Аа),25,gnome-font-viewer,po/ky.po
+TEXT,28,ТЕКСТ,29,gnome-font-viewer,po/ky.po
+Thumbnail size (default: 128),32,Миниатюра өлчөмү (абалкысы: 128),33,gnome-font-viewer,po/ky.po
+SIZE,36,ӨЛЧӨМ,37,gnome-font-viewer,po/ky.po
+FONT-FILE OUTPUT-FILE,40,АЛИП-ФАЙЛЫ ЧЫГУУ-ФАЙЛЫ,41,gnome-font-viewer,po/ky.po
+About Font Viewer,44,Алип көрүү программасы жөнүндө,45,gnome-font-viewer,po/ky.po
+Quit,48,Чыгуу,49,gnome-font-viewer,po/ky.po
+Name,52,Аты,53,gnome-font-viewer,po/ky.po
+Style,56,Стили,57,gnome-font-viewer,po/ky.po
+Type,60,Түрү,61,gnome-font-viewer,po/ky.po
+Version,64,Версиясы,65,gnome-font-viewer,po/ky.po
+Copyright,68,Автордук укук,69,gnome-font-viewer,po/ky.po
+Description,72,Маалыматы,73,gnome-font-viewer,po/ky.po
+Install Failed,76,Орнотуу ишке ашпады,77,gnome-font-viewer,po/ky.po
+Installed,80,Орнотулду,81,gnome-font-viewer,po/ky.po
+Install,84,Орнотуу,85,gnome-font-viewer,po/ky.po
+Info,88,Маалымат,89,gnome-font-viewer,po/ky.po
+Back,92,Артка,93,gnome-font-viewer,po/ky.po
+All Fonts,96,Бардык алиптер,97,gnome-font-viewer,po/ky.po
+Font Viewer,101,Алип кароо программасы,102,gnome-font-viewer,po/ky.po
+View fonts on your system,105,Системада орнотулган алиптерди кароо,106,gnome-font-viewer,po/ky.po
+Sound & Video,27,Аудио жана видео,28,gnome-menus,po/ky.po
+Multimedia menu,31,Мультимедиа,32,gnome-menus,po/ky.po
+Programming,35,Программалоо,36,gnome-menus,po/ky.po
+Tools for software development,39,Программа түзүү куралдары,40,gnome-menus,po/ky.po
+Education,43,Билим берүү,44,gnome-menus,po/ky.po
+Games,47,Оюндар,48,gnome-menus,po/ky.po
+Games and amusements,51,Оюндар жана эс алуу,52,gnome-menus,po/ky.po
+Graphics,55,Графика,56,gnome-menus,po/ky.po
+Graphics applications,59,Графикалык тиркемелер,60,gnome-menus,po/ky.po
+Hardware,63,Жабдуулар,64,gnome-menus,po/ky.po
+Settings for several hardware devices,67,Кээ бир аппараттык жабдуулардын параметрлери,68,gnome-menus,po/ky.po
+Internet,71,Интернет,72,gnome-menus,po/ky.po
+Programs for Internet access such as web and email,75,"Интернетти аралоо тиркемелери (почта, браузер ж.б.)",76,gnome-menus,po/ky.po
+Office,79,Офис,80,gnome-menus,po/ky.po
+Office Applications,83,Офис тиркемелери,84,gnome-menus,po/ky.po
+Personal,88,Өзүмдүк,89,gnome-menus,po/ky.po
+Personal settings,92,Өзүмдүк параметрлер,93,gnome-menus,po/ky.po
+System,96,Система,97,gnome-menus,po/ky.po
+System settings,100,Системанын параметрлери,101,gnome-menus,po/ky.po
+System Tools,104,Системалык куралдар,105,gnome-menus,po/ky.po
+System configuration and monitoring,108,Системаны ыңгайлоо жана мониторинг,109,gnome-menus,po/ky.po
+Universal Access,113,Универсалдык жетүү,114,gnome-menus,po/ky.po
+Universal Access Settings,118,Универсалдык жетүү параметрлери,119,gnome-menus,po/ky.po
+Accessories,122,Кошумча куралдар,123,gnome-menus,po/ky.po
+Desktop accessories,126,Иш такта тиркемелери,127,gnome-menus,po/ky.po
+Applications,130,Тиркемелер,131,gnome-menus,po/ky.po
+Other,134,Башкалар,135,gnome-menus,po/ky.po
+Applications that did not fit in other categories,138,Башка топко кирбеген тиркемелер,139,gnome-menus,po/ky.po
+Web Applications,142,Веб тиркемелери,143,gnome-menus,po/ky.po
+Applications and sites saved from Web,146,Вебтен алынган тиркемелер жана сайттар,147,gnome-menus,po/ky.po
+Menu Editor,150,Меню редактору,151,gnome-menus,po/ky.po
+Edit Menus,154,Менюну оңдоо,155,gnome-menus,po/ky.po
+_Defaults,158,_Баштапкы көрүнүш,159,gnome-menus,po/ky.po
+_Menus:,162,_Менюлар:,163,gnome-menus,po/ky.po
+_Applications:,166,_Тиркемелер:,167,gnome-menus,po/ky.po
+Simple Menu Editor %s,172,%s жөнөкөй меню редактору ,173,gnome-menus,po/ky.po
+Name,177,Ысым,178,gnome-menus,po/ky.po
+Show,181,Көрсөтүү,182,gnome-menus,po/ky.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,185,Өзүмдүк каталог табылбады: /etc/passwd файлында аныкталбаган жана $HOME чөйрө өзгөрмөсүндө көрсөтүлбөгөн,188,gnome-menus,po/ky.po
+System,35,Файлдар системасы,36,gnome-shell,po/ky.po
+Show the message tray,39,Кабар сабын көрсөтүү,40,gnome-shell,po/ky.po
+Window management and application launching,47,Терезелерди башкаруу жана тиркемелерди иштетүү,48,gnome-shell,po/ky.po
+GNOME Shell Extension Preferences,52,GNOME Shell кеңейтмелеринин параметрлери,53,gnome-shell,po/ky.po
+Configure GNOME Shell Extensions,56,GNOME Shell кеңейтмелерин ырастоо,57,gnome-shell,po/ky.po
+Uuids of extensions to enable,70,Күйгүзүлгөн кеңейтмелердин uuid'ри,71,gnome-shell,po/ky.po
+Whether to collect stats about applications usage,82,Тиркемелерди колдонуу жөнүндө статистиканы чогултуш керекпи,83,gnome-shell,po/ky.po
+History for command (Alt-F2) dialog,104,(Alt-F2) диалогунун команда тарыхы,105,gnome-shell,po/ky.po
+History for the looking glass dialog,108,Тунук диалогтун көрүү тарыхы,109,gnome-shell,po/ky.po
+Show the week date in the calendar,124,Жылнаамадан жуманын датасын көрсөтүү,125,gnome-shell,po/ky.po
+Keybinding to open the application menu,132,Тиркеме менюсун ачуу үчүн клавиштик айкалыш,133,gnome-shell,po/ky.po
+Keybinding to open the application menu.,136,Тиркеме менюсун ачуу үчүн клавиштик айкалыш.,137,gnome-shell,po/ky.po
+Keybinding to toggle the screen recorder,152,Экран тарткычты которуучу клавиштик айкалыш,153,gnome-shell,po/ky.po
+Keybinding to start/stop the builtin screen recorder.,156,Ички экран тарткычты жүргүзүүчү/токтотуучу клавиштик айкалыш.,157,gnome-shell,po/ky.po
+Which keyboard to use,160,Кайсы клавиатураны колдонуу,161,gnome-shell,po/ky.po
+The type of keyboard to use.,164,Колдонгон клавиатуранын түрү.,165,gnome-shell,po/ky.po
+Framerate used for recording screencasts.,168,Скринкасттарды жазыш үчүн кадр жыштыгынын алмашуусу.,169,gnome-shell,po/ky.po
+File extension used for storing the screencast,197,Скринкасттарды сактоо үчүн колдонулган файлдын кеңейтмеси,198,gnome-shell,po/ky.po
+Session...,223,Сеанс…,224,gnome-shell,po/ky.po
+Sign In,228,Кирүү,229,gnome-shell,po/ky.po
+Not listed?,235,Тизмеде жокпу?,236,gnome-shell,po/ky.po
+Cancel,242,Айнуу,243,gnome-shell,po/ky.po
+Sign In,247,Кирүү,248,gnome-shell,po/ky.po
+Login Window,251,Кирүү терезеси,252,gnome-shell,po/ky.po
+Suspend,256,Күтүүчү режим,257,gnome-shell,po/ky.po
+Restart,260,Кайта жүргүзүү,261,gnome-shell,po/ky.po
+Power Off,265,Өчүрүү,266,gnome-shell,po/ky.po
+(or swipe finger),277,(же эсептеген орнотмодон бармагыңызды өткөрүңүз),278,gnome-shell,po/ky.po
+Command not found,286,Команда табылбады,287,gnome-shell,po/ky.po
+Could not parse command:,292,Команданы талдоого мүмкүн эмес:,293,gnome-shell,po/ky.po
+All,302,Баары,303,gnome-shell,po/ky.po
+APPLICATIONS,306,ТИРКЕМЕЛЕР,307,gnome-shell,po/ky.po
+SETTINGS,310,ЫРАСТООЛОР,311,gnome-shell,po/ky.po
+New Window,314,Жаңы терезе,315,gnome-shell,po/ky.po
+Remove from Favorites,318,Тандалмадан өчүрүү,319,gnome-shell,po/ky.po
+Add to Favorites,322,Тандалмага кошуу,323,gnome-shell,po/ky.po
+%s has been added to your favorites.,327,Cиздин тандалмаларыңызга %s кошулду.,328,gnome-shell,po/ky.po
+%s has been removed from your favorites.,332,Cиздин тандалмаларыңыздан %s алынды.,333,gnome-shell,po/ky.po
+All Day,340,Бүт күн,341,gnome-shell,po/ky.po
+S,362,Жк,363,gnome-shell,po/ky.po
+M,368,Дш,369,gnome-shell,po/ky.po
+T,374,Ше,375,gnome-shell,po/ky.po
+W,380,Ша,381,gnome-shell,po/ky.po
+T,386,Бш,387,gnome-shell,po/ky.po
+F,392,Жм,393,gnome-shell,po/ky.po
+S,398,Иш,399,gnome-shell,po/ky.po
+Su,409,Жк,410,gnome-shell,po/ky.po
+M,415,Дш,416,gnome-shell,po/ky.po
+T,421,Ше,422,gnome-shell,po/ky.po
+W,427,Ша,428,gnome-shell,po/ky.po
+Th,433,Бш,434,gnome-shell,po/ky.po
+F,439,Жм,440,gnome-shell,po/ky.po
+S,445,Иш,446,gnome-shell,po/ky.po
+Nothing Scheduled,450,Окуялар жок,451,gnome-shell,po/ky.po
+"%A, %B %d",456,%B айынын %e %a,457,gnome-shell,po/ky.po
+"%A, %B %d, %Y",462,%Y-ж. %B айынын %e %a,463,gnome-shell,po/ky.po
+Today,466,Бүгүн,467,gnome-shell,po/ky.po
+Tomorrow,470,Эртең,471,gnome-shell,po/ky.po
+This week,474,Ушул жума,475,gnome-shell,po/ky.po
+Next week,478,Кийинки жума,479,gnome-shell,po/ky.po
+Removable Devices,482,Алынуучу орнотмолор,483,gnome-shell,po/ky.po
+Open with %s,487,%s менен ачуу,488,gnome-shell,po/ky.po
+Eject,491,Чыгаруу,492,gnome-shell,po/ky.po
+Password:,495,Сырсөз:,496,gnome-shell,po/ky.po
+Type again:,499,Дагы киргизиңиз:,500,gnome-shell,po/ky.po
+Connect,503,Туташуу,504,gnome-shell,po/ky.po
+Password: ,512,Сырсөз: ,513,gnome-shell,po/ky.po
+Key: ,517,Ачкыч: ,518,gnome-shell,po/ky.po
+Username: ,525,Колдонуучу аты: ,526,gnome-shell,po/ky.po
+Identity: ,529,Окшоштук: ,530,gnome-shell,po/ky.po
+Private key password: ,533,Өздүк ачкычтын сырсөзү: ,534,gnome-shell,po/ky.po
+Service: ,537,Кызмат: ,538,gnome-shell,po/ky.po
+Authentication required by wireless network,541,Зымсыз тармагына аутентификация керек,542,gnome-shell,po/ky.po
+Wired 802.1X authentication,552,Wired 802.1X аутентификация,553,gnome-shell,po/ky.po
+Network name: ,556,Тармак аты: ,557,gnome-shell,po/ky.po
+DSL authentication,560,DSL аутентификация,561,gnome-shell,po/ky.po
+PIN code required,564,PIN-код керек,565,gnome-shell,po/ky.po
+Mobile broadband network password,576,Мобилдүү жазы тилкелик тармак үчүн сырсөз,577,gnome-shell,po/ky.po
+A password is required to connect to '%s'.,581,«%s» жерине туташыш үчүн сырсөз керек.,582,gnome-shell,po/ky.po
+Authentication Required,585,Аутентификация керек,586,gnome-shell,po/ky.po
+Administrator,589,Администратор,590,gnome-shell,po/ky.po
+Authenticate,593,Аныктоо,594,gnome-shell,po/ky.po
+"Sorry, that didn't work. Please try again.",601,"Кечириңиз, бул иштеген жок. Дагы аракет кылып көрүңүз.",602,gnome-shell,po/ky.po
+Screencast from %d %t,607,Скринкаст %d %t,608,gnome-shell,po/ky.po
+Invitation,613,Чакыруу,614,gnome-shell,po/ky.po
+Call,618,Чакыруу,619,gnome-shell,po/ky.po
+File Transfer,623,Файл берүү,624,gnome-shell,po/ky.po
+Subscription request,627,Жазылыш сурамы,628,gnome-shell,po/ky.po
+Connection error,631,Туташуу катасы,632,gnome-shell,po/ky.po
+Unmute,635,Катуулукту калыбына келтирүү,636,gnome-shell,po/ky.po
+Mute,639,Үндү басаңдатуу,640,gnome-shell,po/ky.po
+%s is now known as %s,668,%s эми %s болуп калды,669,gnome-shell,po/ky.po
+Invitation to %s,675,%s бөлүмүнө чакыруу,676,gnome-shell,po/ky.po
+%s is inviting you to join %s,683,%s сизди %s бөлүмүнө чакырып жатат,684,gnome-shell,po/ky.po
+Decline,689,Кабыл албоо,690,gnome-shell,po/ky.po
+Accept,695,Кабыл алуу,696,gnome-shell,po/ky.po
+Video call from %s,701,Сизди видеодон %s чыкырып жатат,702,gnome-shell,po/ky.po
+Call from %s,707,Сизди %s чакырып жатат,708,gnome-shell,po/ky.po
+Reject,712,Кабыл албоо,713,gnome-shell,po/ky.po
+Answer,717,Жооп берүү,718,gnome-shell,po/ky.po
+%s is sending you %s,727,%s сизге %s жиберип жатат,728,gnome-shell,po/ky.po
+Network error,737,Тармак катасы,738,gnome-shell,po/ky.po
+Authentication failed,741,Аутентификация оңунан чыккан жок,742,gnome-shell,po/ky.po
+Encryption error,745,Шифрлоо катасы,746,gnome-shell,po/ky.po
+Certificate not provided,749,Сертификат берилбейт,750,gnome-shell,po/ky.po
+Certificate untrusted,753,Ишеничсиз сертификат,754,gnome-shell,po/ky.po
+Certificate expired,757,Сертификаттын күч мөөнөтү өткөн,758,gnome-shell,po/ky.po
+Certificate not activated,761,Сертификат активацияланган жок,762,gnome-shell,po/ky.po
+Certificate hostname mismatch,765,Сертификаттын түйүн аты дал келген жок,766,gnome-shell,po/ky.po
+Certificate fingerprint mismatch,769,Сертификаттын бармак тагы дал келген жок,770,gnome-shell,po/ky.po
+Certificate self-signed,773,Өз жазылган сертификат,774,gnome-shell,po/ky.po
+Status is set to offline,777,Офлайн статусуна коюлду,778,gnome-shell,po/ky.po
+Encryption is not available,781,Шифрлоо жеткиликсиз,782,gnome-shell,po/ky.po
+Certificate is invalid,785,Жарабас сертификат,786,gnome-shell,po/ky.po
+Connection has been refused,789,Туташтырууга кабыл албады,790,gnome-shell,po/ky.po
+Connection can't be established,793,Туташтырууну коюуга мүмкүн эмес,794,gnome-shell,po/ky.po
+Connection has been lost,797,Туташтыруу жоготулду,798,gnome-shell,po/ky.po
+This account is already connected to the server,801,Бул эсептик жазылыш эчак эле серверге туташытырлган,802,gnome-shell,po/ky.po
+The account already exists on the server,810,Эсептик жазылыш эчак эле серверде бар,811,gnome-shell,po/ky.po
+Server is currently too busy to handle the connection,814,Учурда туташтырууну иштетип чыгаруу үчүн сервердин күчү жетпей жатат,815,gnome-shell,po/ky.po
+Certificate has been revoked,818,Сертификат жокко чыгарылды,819,gnome-shell,po/ky.po
+Internal error,833,Ички ката,834,gnome-shell,po/ky.po
+Connection to %s failed,840,%s дарегине туташтыруу оңунан чыккан жок,841,gnome-shell,po/ky.po
+Reconnect,844,Кайта туташуу,845,gnome-shell,po/ky.po
+Edit account,848,Эсептик жазылышты оңдоо,849,gnome-shell,po/ky.po
+Unknown reason,852,Белгисиз себеп,853,gnome-shell,po/ky.po
+Date and Time Settings,862,Дата жана убакытты ырастоо,863,gnome-shell,po/ky.po
+Open Calendar,866,Жылнааманы ачуу,867,gnome-shell,po/ky.po
+"%A %B %e, %Y",873,%Y-ж. %B айынын %e %a,874,gnome-shell,po/ky.po
+Log Out %s,879,%s колдонуучусунун сеансын бүтүрүү,880,gnome-shell,po/ky.po
+Log Out,884,Системадан чыгуу,885,gnome-shell,po/ky.po
+%s will be logged out automatically in %d second.,893,%s колдонуучусунун сеансы %d секундадан кийин автоматтуу түрдө бүтүрүлөт.,895,gnome-shell,po/ky.po
+You will be logged out automatically in %d second.,900,%d секундадан кийин автоматтуу түрдө сеанс бүтөт.,902,gnome-shell,po/ky.po
+Logging out of the system.,905,Системадан чыгуу.,906,gnome-shell,po/ky.po
+Log Out,910,Системадан чыгуу,911,gnome-shell,po/ky.po
+Power Off,915,Өчүрүү,916,gnome-shell,po/ky.po
+The system will power off automatically in %d second.,924,%d секундадан кийин автоматтуу түрдө система өчүрүлөт.,926,gnome-shell,po/ky.po
+Powering off the system.,929,Системаны өчүрүү.,930,gnome-shell,po/ky.po
+Restart,934,Кайта жүргүзүү,935,gnome-shell,po/ky.po
+Power Off,939,Өчүрүү,940,gnome-shell,po/ky.po
+Restart,944,Кайта жүргүзүү,945,gnome-shell,po/ky.po
+The system will restart automatically in %d second.,953,%d секундадан кийин автоматтуу түрдө система кайта жүргүзүлөт.,955,gnome-shell,po/ky.po
+Restarting the system.,958,Системаны кайта жүргүзүү.,959,gnome-shell,po/ky.po
+Install,962,Орнотуу,963,gnome-shell,po/ky.po
+Download and install '%s' from extensions.gnome.org?,967,extensions.gnome.org сайтынан «%s» кеңейтмесин жүктөп орнотосузбу?,968,gnome-shell,po/ky.po
+tray,971,жайма,972,gnome-shell,po/ky.po
+Keyboard,976,Клавиатура,977,gnome-shell,po/ky.po
+No extensions installed,980,Кеңейтмелер орнотулган жок,981,gnome-shell,po/ky.po
+%s has not emitted any errors.,986,%s каталар жөнүндө эч нерсе маалымдаган жок.,987,gnome-shell,po/ky.po
+Hide Errors,990,Каталарды катуу,991,gnome-shell,po/ky.po
+Show Errors,994,Каталарды көрсөтүү,995,gnome-shell,po/ky.po
+Enabled,998,Күйгүлгөн,999,gnome-shell,po/ky.po
+Disabled,1004,Өчүрүлгөн,1005,gnome-shell,po/ky.po
+Error,1008,Ката,1009,gnome-shell,po/ky.po
+Out of date,1012,Эскирген,1013,gnome-shell,po/ky.po
+Downloading,1016,Жүктөө,1017,gnome-shell,po/ky.po
+View Source,1020,Кодду көрсөтүү,1021,gnome-shell,po/ky.po
+Web Page,1024,Веб-барак,1025,gnome-shell,po/ky.po
+Open,1028,Ачуу,1029,gnome-shell,po/ky.po
+Remove,1032,Өчүрүү,1033,gnome-shell,po/ky.po
+System Information,1040,Системалык информация,1041,gnome-shell,po/ky.po
+Unknown,1045,Белгисиз,1046,gnome-shell,po/ky.po
+Undo,1049,Жокко чыгаруу,1050,gnome-shell,po/ky.po
+Overview,1053,Сереп,1054,gnome-shell,po/ky.po
+Type to search...,1061,Табуу…,1062,gnome-shell,po/ky.po
+Dash,1067,Аспаптык панель,1068,gnome-shell,po/ky.po
+Quit,1071,Жабуу,1072,gnome-shell,po/ky.po
+Activities,1077,Сереп,1078,gnome-shell,po/ky.po
+Top Bar,1081,Үстүңкү панель,1082,gnome-shell,po/ky.po
+toggle-switch-us,1090,toggle-switch-intl,1091,gnome-shell,po/ky.po
+Please enter a command:,1094,Команданы киргизиңиз:,1095,gnome-shell,po/ky.po
+Searching...,1120,Издөө…,1121,gnome-shell,po/ky.po
+Copy,1130,Копиялоо,1131,gnome-shell,po/ky.po
+Paste,1134,Коюу,1135,gnome-shell,po/ky.po
+Show Text,1138,Текстти көрсөтүү,1139,gnome-shell,po/ky.po
+Hide Text,1142,Текстти катуу,1143,gnome-shell,po/ky.po
+Unlock,1158,Ачуу,1159,gnome-shell,po/ky.po
+Accessibility,1162,Жеткиликтүүлүк,1163,gnome-shell,po/ky.po
+Zoom,1166,Масштабтоо,1167,gnome-shell,po/ky.po
+Screen Reader,1170,Экран окугуч,1171,gnome-shell,po/ky.po
+Screen Keyboard,1174,Экрандык клавиатура,1175,gnome-shell,po/ky.po
+Visual Alerts,1178,Көрүнөө эскертүүлөр,1179,gnome-shell,po/ky.po
+Sticky Keys,1182,Жабышма клавиштер,1183,gnome-shell,po/ky.po
+Slow Keys,1186,Жай клавиштер,1187,gnome-shell,po/ky.po
+Bounce Keys,1190,Секирген клавиштер,1191,gnome-shell,po/ky.po
+Mouse Keys,1194,Чычкан клавиштери,1195,gnome-shell,po/ky.po
+Universal Access Settings,1198,Атайы мүмкүнчүлүктөрдү\nырастоо,1199,gnome-shell,po/ky.po
+High Contrast,1204,Карама-каршы тема,1205,gnome-shell,po/ky.po
+Large Text,1208,Ири текст,1209,gnome-shell,po/ky.po
+Visibility,1219,Көрүнүү,1220,gnome-shell,po/ky.po
+Send Files to Device...,1223,Орнотмого файлдарды жөнөтүү…,1224,gnome-shell,po/ky.po
+Set up a New Device...,1227,Жаңы орнотмону ырастоо…,1228,gnome-shell,po/ky.po
+Bluetooth Settings,1231,Bluetooth'ту ырастоо,1232,gnome-shell,po/ky.po
+hardware disabled,1236,орнотмо өчүрүлдү,1237,gnome-shell,po/ky.po
+Connection,1240,Туташуу,1241,gnome-shell,po/ky.po
+disconnecting...,1244,өчүрүлүү…,1245,gnome-shell,po/ky.po
+connecting...,1249,туташуу…,1250,gnome-shell,po/ky.po
+Send Files...,1253,Файлдарды жөнөтүү…,1254,gnome-shell,po/ky.po
+Browse Files...,1257,Файлдарды кароо…,1258,gnome-shell,po/ky.po
+Error browsing device,1261,Орнотмону көрүү катасы,1262,gnome-shell,po/ky.po
+Keyboard Settings,1270,Клавиатураны ырастоо,1271,gnome-shell,po/ky.po
+Mouse Settings,1274,Чычканды ырастоо,1275,gnome-shell,po/ky.po
+Sound Settings,1278,Үндү ырастоо,1279,gnome-shell,po/ky.po
+Authorization request from %s,1283,%s авториязацияны сурап жатат,1284,gnome-shell,po/ky.po
+Device %s wants access to the service '%s',1288,%s орнотмосу «%s» кызматына кирүү аракетин кылып жатат,1289,gnome-shell,po/ky.po
+Always grant access,1292,Дайыма кирүүгө мүмкүндүк берүү,1293,gnome-shell,po/ky.po
+Grant this time only,1296,Бир гана жолу берүү,1297,gnome-shell,po/ky.po
+Pairing confirmation for %s,1301,%s менен байланыштыруу аныктоосу,1302,gnome-shell,po/ky.po
+Device %s wants to pair with this computer,1306,%s орнотмосу ушу компьютер менен байланышайын деп жатат,1307,gnome-shell,po/ky.po
+Matches,1315,Дал келди,1316,gnome-shell,po/ky.po
+Does not match,1319,Дал келбеди,1320,gnome-shell,po/ky.po
+Pairing request for %s,1324,%s менен байланыштырууга суроо,1325,gnome-shell,po/ky.po
+Show Keyboard Layout,1336,Клавиатура жайылматүрүн көрсөтүү,1337,gnome-shell,po/ky.po
+Region and Language Settings,1340,Региондук жана тилдик ырастоолор,1341,gnome-shell,po/ky.po
+<unknown>,1348,<белгисиз>,1349,gnome-shell,po/ky.po
+disabled,1353,өчүрүлгөн,1354,gnome-shell,po/ky.po
+unmanaged,1359,башкарылган жок,1360,gnome-shell,po/ky.po
+authentication required,1364,аутентификация керек,1365,gnome-shell,po/ky.po
+firmware missing,1370,тигилме жок,1371,gnome-shell,po/ky.po
+cable unplugged,1375,кабель кошулган жок,1376,gnome-shell,po/ky.po
+unavailable,1381,жеткиликтүү эмес,1382,gnome-shell,po/ky.po
+connection failed,1385,туташтыруу оңунан чыккан жок,1386,gnome-shell,po/ky.po
+More...,1389,Дагы…,1390,gnome-shell,po/ky.po
+Connected (private),1395,Туташтырылды (жеке),1396,gnome-shell,po/ky.po
+Auto Ethernet,1399,Автоматтуу зымдык,1400,gnome-shell,po/ky.po
+Auto broadband,1403,Автоматтуу жазы тилкелик,1404,gnome-shell,po/ky.po
+Auto dial-up,1407,Автоматтуу коммутациялык,1408,gnome-shell,po/ky.po
+Auto %s,1413,Автоматтуу %s,1414,gnome-shell,po/ky.po
+Auto bluetooth,1417,Автоматтуу bluetooth,1418,gnome-shell,po/ky.po
+Auto wireless,1421,Автоматтуу зымсыз,1422,gnome-shell,po/ky.po
+Enable networking,1425,Тармакты күйгүзүү,1426,gnome-shell,po/ky.po
+Wired,1429,Зымдык,1430,gnome-shell,po/ky.po
+Wireless,1433,Зымсыз,1434,gnome-shell,po/ky.po
+Mobile broadband,1437,Мобильдүү жазы тилкелик,1438,gnome-shell,po/ky.po
+VPN Connections,1441,VPN туташтыруусу,1442,gnome-shell,po/ky.po
+Network Settings,1445,Тармакты ырастоо,1446,gnome-shell,po/ky.po
+Network Manager,1449,Тармак диспетчери,1450,gnome-shell,po/ky.po
+Connection failed,1453,Туташтыруу оңунан чыккан жок,1454,gnome-shell,po/ky.po
+Activation of network connection failed,1457,Тармактык туташтыруунун активациясы оңунан чыккан жок,1458,gnome-shell,po/ky.po
+Networking is disabled,1461,Тармак өчүрүлгөн,1462,gnome-shell,po/ky.po
+Battery,1465,Батарея,1466,gnome-shell,po/ky.po
+Power Settings,1469,Азыктанууну ырастоо,1470,gnome-shell,po/ky.po
+Estimating...,1475,Эсептелип жатат…,1476,gnome-shell,po/ky.po
+%d hour remaining,1480,%d саат калды,1482,gnome-shell,po/ky.po
+%d %s %d %s remaining,1487,%d %s %d %s калды,1488,gnome-shell,po/ky.po
+hour,1491,саат,1493,gnome-shell,po/ky.po
+minute,1496,мүнөт,1498,gnome-shell,po/ky.po
+%d minute remaining,1502,%d мүнөт калды,1504,gnome-shell,po/ky.po
+AC adapter,1513,Алмашма ток адаптери,1514,gnome-shell,po/ky.po
+Laptop battery,1517,Ноутбук батареясы,1518,gnome-shell,po/ky.po
+UPS,1521,ҮЖБ,1522,gnome-shell,po/ky.po
+Monitor,1525,Монитор,1526,gnome-shell,po/ky.po
+Mouse,1529,Чычкан,1530,gnome-shell,po/ky.po
+PDA,1533,ЧПК,1534,gnome-shell,po/ky.po
+Cell phone,1537,Мобильдик телефон,1538,gnome-shell,po/ky.po
+Media player,1541,Медиаплеер,1542,gnome-shell,po/ky.po
+Tablet,1545,Планшет,1546,gnome-shell,po/ky.po
+Computer,1549,Компьютер,1550,gnome-shell,po/ky.po
+Unknown,1554,Белгисиз,1555,gnome-shell,po/ky.po
+Volume,1559,Катуулук,1560,gnome-shell,po/ky.po
+Microphone,1563,Микрофон,1564,gnome-shell,po/ky.po
+Available,1573,Жеткиликтүү,1574,gnome-shell,po/ky.po
+Busy,1577,Бош эмес,1578,gnome-shell,po/ky.po
+Invisible,1581,Көрүнбөс,1582,gnome-shell,po/ky.po
+Away,1585,Кетти,1586,gnome-shell,po/ky.po
+Idle,1589,Аракет кылган жок,1590,gnome-shell,po/ky.po
+Unavailable,1593,Жеткиликсиз,1594,gnome-shell,po/ky.po
+Switch User,1597,Колдонуучуну которуу,1598,gnome-shell,po/ky.po
+Switch Session,1601,Сеансты которуу,1602,gnome-shell,po/ky.po
+Notifications,1605,Эскертүүлөр,1606,gnome-shell,po/ky.po
+System Settings,1609,Системалык параметрлер,1610,gnome-shell,po/ky.po
+Log Out,1613,Системадан чыгуу,1614,gnome-shell,po/ky.po
+Lock,1617,Камалоо,1618,gnome-shell,po/ky.po
+Install Updates & Restart,1621,Жаңыртмаларды орнотуп жана кайта жүргүзүү,1622,gnome-shell,po/ky.po
+Your chat status will be set to busy,1625,Чат статусу «бош эмес» дегенине коюлат,1626,gnome-shell,po/ky.po
+Windows,1635,Терезелер,1636,gnome-shell,po/ky.po
+Applications,1639,Тиркемелер,1640,gnome-shell,po/ky.po
+Search,1643,Издөө,1644,gnome-shell,po/ky.po
+"Sorry, no wisdom for you today:\n%s",1648,"Кечириңиз, бүгүнкүгө эч кандай кеңештер жок:\n%s",1651,gnome-shell,po/ky.po
+%s the Oracle says,1657,«%s» деп оракул айтып жатат,1658,gnome-shell,po/ky.po
+Your favorite Easter Egg,1661,Сиз жакшы көргөн «пасха жумуртасы»,1662,gnome-shell,po/ky.po
+'%s' is ready,1666,«%s» терезеси даяр,1667,gnome-shell,po/ky.po
+Evolution Calendar,1670,Evolution жылнаамасы,1671,gnome-shell,po/ky.po
+%u Output,1677,%u чыгыш,1679,gnome-shell,po/ky.po
+%u Input,1685,%u кириш,1687,gnome-shell,po/ky.po
+System Sounds,1690,Системалык үндөр,1691,gnome-shell,po/ky.po
+Print version,1694,Версиянын номерин көрсөтүү,1695,gnome-shell,po/ky.po
+Mode used by GDM for login screen,1698,Кирүү экранына GDM менен колдонулуучу режим,1699,gnome-shell,po/ky.po
+"Use a specific mode, e.g. \""gdm\"" for login screen",1702,"Кирүү экраны үчүн белгилүү бир режимди колдонуу, мисалы «gdm»",1703,gnome-shell,po/ky.po
+List possible modes,1706,Мүмкүн болгон режимдеринин тизмеси,1707,gnome-shell,po/ky.po
+Passwords do not match.,1715,Сырсөздөр дал келген жок.,1716,gnome-shell,po/ky.po
+Password cannot be blank,1719,Сырсөз бош боло албайт,1720,gnome-shell,po/ky.po
+United Kingdom,1723,Улуу Британия,1724,gnome-shell,po/ky.po
+Default,1727,Жарыяланбас,1728,gnome-shell,po/ky.po
+Authentication dialog was dismissed by the user,1731,Аутентификация диалогун колдонуучу кабыл албады,1732,gnome-shell,po/ky.po
+System Monitor,25,Тутум монитору,26,gnome-system-monitor,po/ky.po
+View current processes and monitor system state,30,Кезектеги жараяндарды көрүү жана тутумдун абалын көзөмөлдөө,31,gnome-system-monitor,po/ky.po
+Monitor;System;Process;CPU;Memory;Network;History;Usage;,35,Монитор;Тутум;Жараян;БЖБ;Эс;Тармак;Тарых;Колдонуу;,36,gnome-system-monitor,po/ky.po
+GNOME System Monitor,39,GNOME тутум монитору,40,gnome-system-monitor,po/ky.po
+Kill process,43,Жараянды жок кылуу,44,gnome-system-monitor,po/ky.po
+Privileges are required to control other users' processes,47,"Башка колдонуучулардын жараяндарын көзөмөлдөө үчүн, артыкчылыктар талап кылынат",48,gnome-system-monitor,po/ky.po
+Renice process,53,Жараян алгачкылыгын өзгөртүү,54,gnome-system-monitor,po/ky.po
+Privileges are required to change the priority of processes,57,"Жараяндардын алгачкылыгын өзгөртүү үчүн, артыкчылыктар талап кылынат",58,gnome-system-monitor,po/ky.po
+View,61,Көрүнүш,62,gnome-system-monitor,po/ky.po
+End _Process,65,Жараянды аяктоо,66,gnome-system-monitor,po/ky.po
+Processes,69,Жараяндар,70,gnome-system-monitor,po/ky.po
+CPU History,73,БЖБ тарыхы,74,gnome-system-monitor,po/ky.po
+Memory and Swap History,77,Эс менен куюштурулуунун тарыхы,78,gnome-system-monitor,po/ky.po
+Memory,82,Эси,83,gnome-system-monitor,po/ky.po
+Swap,86,Куюштурулуусу,87,gnome-system-monitor,po/ky.po
+Network History,90,Тармак тарыхы,91,gnome-system-monitor,po/ky.po
+Receiving,94,Алынууда,95,gnome-system-monitor,po/ky.po
+Total Received,98,Бардыгы алынганы,99,gnome-system-monitor,po/ky.po
+Sending,102,Жөнөтүлүүдө,103,gnome-system-monitor,po/ky.po
+Total Sent,106,Бардыгы жөнөтүлгөнү,107,gnome-system-monitor,po/ky.po
+Resources,110,Ресурстар,111,gnome-system-monitor,po/ky.po
+File Systems,114,Файл тутумдары,115,gnome-system-monitor,po/ky.po
+Search for Open Files,119,Ачык файлдарды издөө,120,gnome-system-monitor,po/ky.po
+_Name contains:,123,_Атында камтылганы:,124,gnome-system-monitor,po/ky.po
+Case insensitive matching,127,Регистрди эсепке алуу,128,gnome-system-monitor,po/ky.po
+C_lear,131,Та_залоо,132,gnome-system-monitor,po/ky.po
+S_earch results:,135,_Издөө натыйжалары:,136,gnome-system-monitor,po/ky.po
+Search for Open Files,140,Ачык файлдарды издөө,141,gnome-system-monitor,po/ky.po
+Preferences,144,Ырастоолор,145,gnome-system-monitor,po/ky.po
+Help,148,Жардам,149,gnome-system-monitor,po/ky.po
+About,152,Программа жөнүндө,153,gnome-system-monitor,po/ky.po
+Quit,156,Чыгуу,157,gnome-system-monitor,po/ky.po
+Open Files,160,Ачык файлдар,161,gnome-system-monitor,po/ky.po
+System Monitor Preferences,164,Тутум мониторунун ырастоолору,165,gnome-system-monitor,po/ky.po
+Behavior,168,Кылык,169,gnome-system-monitor,po/ky.po
+_Update interval in seconds:,172,_Жаңылоо интервалы (сек.):,173,gnome-system-monitor,po/ky.po
+Enable _smooth refresh,176,_Тегиз жаңылоону аракетке келтирүү,177,gnome-system-monitor,po/ky.po
+Alert before ending or _killing processes,180,Жараяндарды аяктоо же _жок кылуу алдында эскертүү,181,gnome-system-monitor,po/ky.po
+_Divide CPU usage by CPU count,184,БЖБ колдонулушун БЖ саны боюнча _бөлүү,185,gnome-system-monitor,po/ky.po
+Information Fields,188,Маалымат талаалары,189,gnome-system-monitor,po/ky.po
+Process i_nformation shown in list:,192,Тизмеде көрсөтүлгөн жараян _маалыматы:,193,gnome-system-monitor,po/ky.po
+Graphs,196,Графиктер,197,gnome-system-monitor,po/ky.po
+_Show network speed in bits,200,Тармак ылдамдыгын бит бирдигинде көрсөтүү,201,gnome-system-monitor,po/ky.po
+_Draw CPU chart as stacked area chart,204,БЖБ диаграммасын үйүлгөн аянт түрүндө _тартуу,205,gnome-system-monitor,po/ky.po
+Show _all file systems,208,_Бардык файл тутумдарын көрсөтүү,209,gnome-system-monitor,po/ky.po
+File system i_nformation shown in list:,212,Тизмеде көрсөтүлгөн файл тутумунун _маалыматы:,213,gnome-system-monitor,po/ky.po
+Change _Priority,216,_Алгачкылыгын өзгөртүү,217,gnome-system-monitor,po/ky.po
+_Nice value:,220,_Nice мааниси:,221,gnome-system-monitor,po/ky.po
+<small><i><b>Note:</b> The priority of a process is given by its nice value. A lower nice value corresponds to a higher priority.</i></small>,224,<small><i><b>Эскертүү:</b> жараяндын алгачкылыгы nice мааниси боюнча берилет. Жапызыраак nice мааниси бийик алгачкылыкка дал келет.</i></small>,227,gnome-system-monitor,po/ky.po
+Show the Processes tab,232,Жараяндар салмасын көрсөтүү,233,gnome-system-monitor,po/ky.po
+Show the Resources tab,236,Ресурстар салмасын көрсөтүү,237,gnome-system-monitor,po/ky.po
+Show the File Systems tab,240,Файл тутумдары салмасын көрсөтүү,241,gnome-system-monitor,po/ky.po
+Show the application's version,244,Тиркеменин версиясын көрсөтүү,245,gnome-system-monitor,po/ky.po
+Device,252,Түзүлүшү,253,gnome-system-monitor,po/ky.po
+Directory,256,Каталогу,257,gnome-system-monitor,po/ky.po
+Type,260,Түрү,261,gnome-system-monitor,po/ky.po
+Total,264,Бардыгы,265,gnome-system-monitor,po/ky.po
+Free,268,Бошу,269,gnome-system-monitor,po/ky.po
+Available,272,Жеткиликтүүсү,273,gnome-system-monitor,po/ky.po
+Used,276,Колдонулганы,277,gnome-system-monitor,po/ky.po
+Today %l:%M %p,285,Бүгүн %l:%M %p,286,gnome-system-monitor,po/ky.po
+Yesterday %l:%M %p,289,Кечээ %l:%M %p,290,gnome-system-monitor,po/ky.po
+Fraction,305,Бөлүк,306,gnome-system-monitor,po/ky.po
+Percentage full for pie color pickers,310,Түс тандоо тилкелеринин толуу бөлүгү,311,gnome-system-monitor,po/ky.po
+Title,314,Аталышы,315,gnome-system-monitor,po/ky.po
+The title of the color selection dialog,318,Түс тандоо диалогунун аталышы,319,gnome-system-monitor,po/ky.po
+Pick a Color,322,Түстү тандоо,323,gnome-system-monitor,po/ky.po
+Current Color,326,Кезектеги түсү,327,gnome-system-monitor,po/ky.po
+The selected color,330,Тандалган түсү,331,gnome-system-monitor,po/ky.po
+Type of color picker,334,Түс тандагычтын түрү,335,gnome-system-monitor,po/ky.po
+Received invalid color data\n,338,Туура эмес түс маалыматтары алынды\n,339,gnome-system-monitor,po/ky.po
+Click to set graph colors,342,"График түстөрүн өзгөртүү үчүн, басыңыз",343,gnome-system-monitor,po/ky.po
+_View,346,_Көрүнүш,347,gnome-system-monitor,po/ky.po
+_Stop Process,350,Жараянды _токтотуу,351,gnome-system-monitor,po/ky.po
+Stop process,354,Жараянды токтотуу,355,gnome-system-monitor,po/ky.po
+_Continue Process,358,Жараянды _улантуу,359,gnome-system-monitor,po/ky.po
+Continue process if stopped,362,Токтотулган жараяндын ишин улантуу,363,gnome-system-monitor,po/ky.po
+_End Process,366,Жараянды _аяктоо,367,gnome-system-monitor,po/ky.po
+Force process to finish normally,370,Жараянды дурус аяктоого мажбурлоо,371,gnome-system-monitor,po/ky.po
+_Kill Process,374,Жараянды _жок кылуу,375,gnome-system-monitor,po/ky.po
+Force process to finish immediately,378,Жараянды токтоосуз мажбурлап бүтүрүү,379,gnome-system-monitor,po/ky.po
+_Change Priority,382,Алгачкылыгын ө_згөртүү...,383,gnome-system-monitor,po/ky.po
+Change the order of priority of process,386,Жараянды алгачкылык тартибин өзгөртүү,387,gnome-system-monitor,po/ky.po
+_Refresh,390,_Жаңылоо,391,gnome-system-monitor,po/ky.po
+Refresh the process list,394,Жараян тизмесин жаңылоо,395,gnome-system-monitor,po/ky.po
+_Memory Maps,398,Э_с карталары,399,gnome-system-monitor,po/ky.po
+Open the memory maps associated with a process,402,Жараянга байланыштуу эс карталарын ачуу,403,gnome-system-monitor,po/ky.po
+Open _Files,407,Ачык _файлдар,408,gnome-system-monitor,po/ky.po
+View the files opened by a process,411,Жараян ачкан файлдарды көрүү,412,gnome-system-monitor,po/ky.po
+_Properties,415,_Касиеттери,416,gnome-system-monitor,po/ky.po
+View additional information about a process,419,Жараян жөнүндө кошумча маалыматын көрүү,420,gnome-system-monitor,po/ky.po
+_Dependencies,423,_Көз карандылыктар,424,gnome-system-monitor,po/ky.po
+Show parent/child relationship between processes,427,Жараяндардын ата-эне/тукум катышын көрсөтүү,428,gnome-system-monitor,po/ky.po
+_Active Processes,431,_Активдүү жараяндар,432,gnome-system-monitor,po/ky.po
+Show active processes,435,Активдүү жараяндарды көрсөтүү,436,gnome-system-monitor,po/ky.po
+A_ll Processes,439,_Бардык жараяндар,440,gnome-system-monitor,po/ky.po
+Show all processes,443,Бардык жараяндарды көрсөтүү,444,gnome-system-monitor,po/ky.po
+M_y Processes,447,_Менин жараяндарым,448,gnome-system-monitor,po/ky.po
+Show only user-owned processes,451,Кезектеги колдонуучунун жараяндарын гана көрсөтүү,452,gnome-system-monitor,po/ky.po
+Very High,455,Өтө бийик,456,gnome-system-monitor,po/ky.po
+Set process priority to very high,459,Жараяндын алгачкылыгын өтө бийикке орнотуу,460,gnome-system-monitor,po/ky.po
+High,463,Бийик,464,gnome-system-monitor,po/ky.po
+Set process priority to high,467,Жараяндын алгачкылыгын бийикке орнотуу,468,gnome-system-monitor,po/ky.po
+Normal,471,Кадимкидей,472,gnome-system-monitor,po/ky.po
+Set process priority to normal,475,Жараяндын алгачкылыгын кадимкейге орнотуу,476,gnome-system-monitor,po/ky.po
+Low,479,Жапыз,480,gnome-system-monitor,po/ky.po
+Set process priority to low,483,Жараяндын алгачкылыгын жапызга орнотуу,484,gnome-system-monitor,po/ky.po
+Very Low,487,Өтө жапыз,488,gnome-system-monitor,po/ky.po
+Set process priority to very low,491,Жараяндын алгачкылыгын өтө жапызга орнотуу,492,gnome-system-monitor,po/ky.po
+Custom,495,Башка,496,gnome-system-monitor,po/ky.po
+Set process priority manually,499,Жараяндын алгачкылыгын кол менен орнотуу,500,gnome-system-monitor,po/ky.po
+Pick a Color for '%s',505,«%s» түсүн тандоо,506,gnome-system-monitor,po/ky.po
+CPU,509,БЖБ,510,gnome-system-monitor,po/ky.po
+CPU%d,514,БЖБ%d,515,gnome-system-monitor,po/ky.po
+%u second,519,%u секунда,521,gnome-system-monitor,po/ky.po
+not available,524,жеткиликтүү эмес,525,gnome-system-monitor,po/ky.po
+%s (%.1f%%) of %s,530,%s (%.1f%%) / %s,531,gnome-system-monitor,po/ky.po
+Error,534,Ката,535,gnome-system-monitor,po/ky.po
+'%s' is not a valid Perl regular expression.,539,«%s» туура эмес Perl регулярдык туюнтмасы.,540,gnome-system-monitor,po/ky.po
+Process,543,Жараяны,544,gnome-system-monitor,po/ky.po
+Filename,551,Файл аты,552,gnome-system-monitor,po/ky.po
+VM Start,556,ВЭ башы,557,gnome-system-monitor,po/ky.po
+VM End,561,ВЭ аягы,562,gnome-system-monitor,po/ky.po
+VM Size,566,ВЭ өлчөмү,567,gnome-system-monitor,po/ky.po
+Flags,570,Желектери,571,gnome-system-monitor,po/ky.po
+VM Offset,575,ВЭ жылышы,576,gnome-system-monitor,po/ky.po
+Private clean,581,Жеке тазасы,582,gnome-system-monitor,po/ky.po
+Private dirty,587,Жеке кири,588,gnome-system-monitor,po/ky.po
+Shared clean,593,Бөлүшүлгөн тазасы,594,gnome-system-monitor,po/ky.po
+Shared dirty,599,Бөлүшүлгөн кири,600,gnome-system-monitor,po/ky.po
+Memory Maps,607,Эс карталары,608,gnome-system-monitor,po/ky.po
+"_Memory maps for process \""%s\"" (PID %u):",612,«%s» (PID %u) жараянынын э_с карталары:,613,gnome-system-monitor,po/ky.po
+file,616,файл,617,gnome-system-monitor,po/ky.po
+pipe,620,канал,621,gnome-system-monitor,po/ky.po
+IPv6 network connection,624,IPv6 тармак туташтыруусу,625,gnome-system-monitor,po/ky.po
+IPv4 network connection,628,IPv4 тармак туташтыруусу,629,gnome-system-monitor,po/ky.po
+local socket,632,жердик сокет,633,gnome-system-monitor,po/ky.po
+unknown type,636,белгисиз түр,637,gnome-system-monitor,po/ky.po
+Object,647,Объектиси,648,gnome-system-monitor,po/ky.po
+"_Files opened by process \""%s\"" (PID %u):",652,«%s» (PID %u) жараяны ачкан _файлдары:,653,gnome-system-monitor,po/ky.po
+Main Window width,656,Негизги терезенин туурасы,657,gnome-system-monitor,po/ky.po
+Main Window height,660,Негизги терезенин бийиктиги,661,gnome-system-monitor,po/ky.po
+Main Window should open maximized,664,Башкы терезе жогорку өлчөмүндө ачылыш керек,665,gnome-system-monitor,po/ky.po
+Main Window X position,668,Башкы терезенин X өңүтү,669,gnome-system-monitor,po/ky.po
+Main Window Y position,672,Башкы терезенин Y өңүтү,673,gnome-system-monitor,po/ky.po
+Show process dependencies in tree form,676,Жараян көз карандылыгын бак түрүндө көрсөтүү,677,gnome-system-monitor,po/ky.po
+Solaris mode for CPU percentage,680,БЖБ пайызынын Solaris режими,681,gnome-system-monitor,po/ky.po
+"If TRUE, system-monitor operates in 'Solaris mode' where a task's CPU usage is divided by the total number of CPUs. Otherwise, it operates in 'Irix mode'.",684,"Эгер ЧЫН болсо, тутум монитору, маселенин БЖБ колдонулушу БЖБлардын жалпы саны боюнча бөлүнгөн, «Solaris режиминде» иштейт. Андай болбой калса, «Irix режиминде» иштейт.",688,gnome-system-monitor,po/ky.po
+Show CPU chart as stacked area chart,694,БЖБ диаграммасын үйүлгөн аянт түрүндө көрсөтүү,695,gnome-system-monitor,po/ky.po
+"If TRUE, system-monitor shows the CPU chart as a stacked area chart instead of a line chart.",698,"Эгер ЧЫН болсо, тутум монитору, сызык диаграммасынын ордуна үйүлгөн аянт диаграммасын колдонуп БЖБ диаграммасын көрсөтөт.",701,gnome-system-monitor,po/ky.po
+Enable/Disable smooth refresh,706,Тегиз жаңылоосун аракетке келтирүү/келтирбөө,707,gnome-system-monitor,po/ky.po
+Show warning dialog when killing processes,710,Жараяндарды жок кылуу учурунда эскертүү диалогун көрсөтүү,711,gnome-system-monitor,po/ky.po
+Time in milliseconds between updates of the process view,714,Жараян көрүнүшүн жаңылоо арасындагы убакыт (мс),715,gnome-system-monitor,po/ky.po
+Time in milliseconds between updates of the graphs,718,Графиктерди жаңылоо арасындагы убакыт (мс),719,gnome-system-monitor,po/ky.po
+Whether information about all file systems should be displayed,722,Файл тутумдары жөнүндө маалымат көрсөтүлүшү керекпи дегенин аныктайт,723,gnome-system-monitor,po/ky.po
+Whether to display information about all file systems (including types like 'autofs' and 'procfs'). Useful for getting a list of all currently mounted file systems.,726,"Бардык файл тутумдары жөнүндө маалымат көрсөтүлүшү керекпи дегенин аныктайт (autofs жана procfs менен кошо). Ушул кездеги, бардык монтирленген файл тутумдарынын тизмесин алганга пайдалуу.",730,gnome-system-monitor,po/ky.po
+Time in milliseconds between updates of the devices list,736,Түзүлүштөр тизмесин жаңылоо арасындагы убакыт (мс),737,gnome-system-monitor,po/ky.po
+"Determines which processes to show by default. 0 is All, 1 is user, and 2 is active",740,"Кайсы жараяндарды жарыяланбас түрүндө көрсөтүү керегин, аныктайт. 0 баарыныкын, 1 колдонуучунукун, жана 2 активдүүнүкүн",743,gnome-system-monitor,po/ky.po
+Saves the currently viewed tab,748,Кезектеги көрүлгөн салманы сактайт,749,gnome-system-monitor,po/ky.po
+"0 for the processes list, 1 for the resources and 2 for the disks list",752,"0 жараяндар тизмесиники, 1 ресурстардыкы жана 2 диск тизмесиники",753,gnome-system-monitor,po/ky.po
+CPU colors,756,БЖБ түстөрү,757,gnome-system-monitor,po/ky.po
+"Each entry is in the format (CPU#, Hexadecimal color value)",760,"Ар бир жазуу төмөнкү форматта (№ БЖБ, он алтылык түс мааниси)",761,gnome-system-monitor,po/ky.po
+Default graph memory color,764,Кезектеги көрүлгөн салманы сактайт,765,gnome-system-monitor,po/ky.po
+Default graph swap color,768,Куюштурулуу графигинин жарыяланбас түсү,769,gnome-system-monitor,po/ky.po
+Default graph incoming network traffic color,772,Келүүчү траффиктин жарыяланбас график түсү,773,gnome-system-monitor,po/ky.po
+Default graph outgoing network traffic color,776,Жөнөтүлүүчү траффиктин жарыяланбас график түсү,777,gnome-system-monitor,po/ky.po
+Show network traffic in bits,780,Тармак траффигин бит бирдигинде көрсөтүү,781,gnome-system-monitor,po/ky.po
+Process view sort column,784,Жараян көрүнүшүнүн сорттоо тилкеси,785,gnome-system-monitor,po/ky.po
+Process view columns order,788,Жараян көрүнүшүнүн тилке тартиби,789,gnome-system-monitor,po/ky.po
+Process view sort order,792,Жараян көрүнүшүнүн сорттоо тартиби,793,gnome-system-monitor,po/ky.po
+Width of process 'Name' column,796,«Аты» жараянынын тилке туурасы,797,gnome-system-monitor,po/ky.po
+Show process 'Name' column on startup,800,Жүргүзгөндө «Аты» жараянынын тилкесин көрсөтүү,801,gnome-system-monitor,po/ky.po
+Width of process 'User' column,804,«Колдонуучусу» жараянынын тилке туурасы,805,gnome-system-monitor,po/ky.po
+Show process 'User' column on startup,808,Жүргүзгөндө «Колдонуучусу» жараянынын тилкесин көрсөтүү,809,gnome-system-monitor,po/ky.po
+Width of process 'Status' column,812,«Абалы» жараянынын тилке туурасы,813,gnome-system-monitor,po/ky.po
+Show process 'Status' column on startup,816,Жүргүзгөндө «Абалы» жараянынын тилкесин көрсөтүү,817,gnome-system-monitor,po/ky.po
+Width of process 'Virtual Memory' column,820,«Виртуалдуу эси» жараянынын тилке туурасы,821,gnome-system-monitor,po/ky.po
+Show process 'Virtual Memory' column on startup,824,Жүргүзгөндө «Виртуалдуу эси» жараянынын тилкесин көрсөтүү,825,gnome-system-monitor,po/ky.po
+Width of process 'Resident Memory' column,828,«Резиденттик эси» жараянынын тилке туурасы,829,gnome-system-monitor,po/ky.po
+Show process 'Resident Memory' column on startup,832,Жүргүзгөндө «Резиденттик эси» жараянынын тилкесин көрсөтүү,833,gnome-system-monitor,po/ky.po
+Width of process 'Writable Memory' column,836,«Жазылуучу эси» жараянынын тилке туурасы,837,gnome-system-monitor,po/ky.po
+Show process 'Writable Memory' column on startup,840,Жүргүзгөндө «Жазылуучу эси» жараянынын тилкесин көрсөтүү,841,gnome-system-monitor,po/ky.po
+Width of process 'Shared Memory' column,844,«Бөлүшүлгөн эси» жараянынын тилке туурасы,845,gnome-system-monitor,po/ky.po
+Show process 'Shared Memory' column on startup,848,Жүргүзгөндө «Бөлүшүлгөн эси» жараянынын тилкесин көрсөтүү,849,gnome-system-monitor,po/ky.po
+Width of process 'X Server Memory' column,852,«X-сервер эси» жараянынын тилке туурасы,853,gnome-system-monitor,po/ky.po
+Show process 'X Server Memory' column on startup,856,Жүргүзгөндө «X-сервер эси» жараянынын тилкесин көрсөтүү,857,gnome-system-monitor,po/ky.po
+Width of process 'CPU %' column,861,«БЖБ %» жараянынын тилке туурасы,862,gnome-system-monitor,po/ky.po
+Show process 'CPU %' column on startup,866,Жүргүзгөндө «БЖБ %» жараянынын тилкесин көрсөтүү,867,gnome-system-monitor,po/ky.po
+Width of process 'CPU Time' column,870,«БЖБ убагы» жараянынын тилке туурасы,871,gnome-system-monitor,po/ky.po
+Show process 'CPU Time' column on startup,874,Жүргүзгөндө «БЖБ убагы» жараянынын тилкесин көрсөтүү,875,gnome-system-monitor,po/ky.po
+Width of process 'Started' column,878,«Жүргүзүлгөн күнү» жараянынын тилке туурасы,879,gnome-system-monitor,po/ky.po
+Show process 'Started' column on startup,882,Жүргүзгөндө «Жүргүзүлгөн күнү» жараянынын тилкесин көрсөтүү,883,gnome-system-monitor,po/ky.po
+Width of process 'Nice' column,886,«Nice» жараянынын тилке туурасы,887,gnome-system-monitor,po/ky.po
+Show process 'Nice' column on startup,890,Жүргүзгөндө «Nice» жараянынын тилкесин көрсөтүү,891,gnome-system-monitor,po/ky.po
+Width of process 'PID' column,894,«PID» жараянынын тилке туурасы,895,gnome-system-monitor,po/ky.po
+Show process 'PID' column on startup,898,Жүргүзгөндө «PID» жараянынын тилкесин көрсөтүү,899,gnome-system-monitor,po/ky.po
+Width of process 'SELinux Security Context' column,902,«SELinux коопсуздук контексти» жараянынын тилке туурасы,903,gnome-system-monitor,po/ky.po
+Show process 'SELinux Security Context' column on startup,906,Жүргүзгөндө «SELinux коопсуздук контексти» жараянынын тилкесин көрсөтүү,907,gnome-system-monitor,po/ky.po
+Width of process 'Command Line' column,911,«Командалык сабы» жараянынын тилке туурасы,912,gnome-system-monitor,po/ky.po
+Show process 'Command Line' column on startup,915,Жүргүзгөндө «Командалык сабы» жараянынын тилкесин көрсөтүү,916,gnome-system-monitor,po/ky.po
+Width of process 'Memory' column,919,«Эси» жараянынын тилке туурасы,920,gnome-system-monitor,po/ky.po
+Show process 'Memory' column on startup,923,Жүргүзгөндө «Эси» жараянынын тилкесин көрсөтүү,924,gnome-system-monitor,po/ky.po
+Width of process 'Waiting Channel' column,927,«Күтүүдөгү каналы» жараянынын тилке туурасы,928,gnome-system-monitor,po/ky.po
+Show process 'Waiting Channel' column on startup,931,Жүргүзгөндө «Күтүүдөгү каналы» жараянынын тилкесин көрсөтүү,932,gnome-system-monitor,po/ky.po
+Width of process 'Control Group' column,935,«Көзөмөлдөө тобу» жараянынын тилке туурасы,936,gnome-system-monitor,po/ky.po
+Show process 'Control Group' column on startup,939,Жүргүзгөндө «Көзөмөлдөө тобу» жараянынын тилкесин көрсөтүү,940,gnome-system-monitor,po/ky.po
+Width of process 'Unit' column,943,«Ченөө өлчөмү» жараянынын тилке туурасы,944,gnome-system-monitor,po/ky.po
+Show process 'Unit' column on startup,947,Жүргүзгөндө «Ченөө өлчөмү» жараянынын тилкесин көрсөтүү,948,gnome-system-monitor,po/ky.po
+Width of process 'Session' column,951,«Сеансы» жараянынын тилке туурасы,952,gnome-system-monitor,po/ky.po
+Show process 'Session' column on startup,955,Жүргүзгөндө «Сеансы» жараянынын тилкесин көрсөтүү,956,gnome-system-monitor,po/ky.po
+Width of process 'Seat' column,959,«Иш орду» жараянынын тилке туурасы,960,gnome-system-monitor,po/ky.po
+Show process 'Seat' column on startup,963,Жүргүзгөндө «Иш орду» жараянынын тилкесин көрсөтүү,964,gnome-system-monitor,po/ky.po
+Width of process 'Owner' column,967,«Ээси» жараянынын тилке туурасы,968,gnome-system-monitor,po/ky.po
+Show process 'Owner' column on startup,971,Жүргүзгөндө «Ээси» жараянынын тилкесин көрсөтүү,972,gnome-system-monitor,po/ky.po
+Width of process 'Priority' column,975,«Алгачкылыгы» жараянынын тилке туурасы,976,gnome-system-monitor,po/ky.po
+Show process 'Priority' column on startup,979,Жүргүзгөндө «Алгачкылыгы» жараянынын тилкесин көрсөтүү,980,gnome-system-monitor,po/ky.po
+Disk view sort column,983,Диск көрүнүшүнүн сорттоо тилкеси,984,gnome-system-monitor,po/ky.po
+Disk view sort order,987,Диск көрүнүшүнүн сорттоо тартиби,988,gnome-system-monitor,po/ky.po
+Disk view columns order,991,Диск көрүнүшүнүн тилке тартиби,992,gnome-system-monitor,po/ky.po
+Width of disk view 'Device' column,995,Диск көрүнүшүндөгү «Түзүлүшү» тилкесинин туурасы,996,gnome-system-monitor,po/ky.po
+Show disk view 'Device' column on startup,999,Жүргүзгөндө диск көрүнүшүндөгү «Түзүлүшү» тилкесин көрсөтүү,1000,gnome-system-monitor,po/ky.po
+Width of disk view 'Directory' column,1003,Диск көрүнүшүндөгү «Каталогу» тилкесинин туурасы,1004,gnome-system-monitor,po/ky.po
+Show disk view 'Directory' column on startup,1007,Жүргүзгөндө диск көрүнүшүндөгү «Каталогу» тилкесин көрсөтүү,1008,gnome-system-monitor,po/ky.po
+Width of disk view 'Type' column,1011,Диск көрүнүшүндөгү «Түрү» тилкесинин туурасы,1012,gnome-system-monitor,po/ky.po
+Show disk view 'Type' column on startup,1015,Жүргүзгөндө диск көрүнүшүндөгү «Түрү» тилкесин көрсөтүү,1016,gnome-system-monitor,po/ky.po
+Width of disk view 'Total' column,1019,Диск көрүнүшүндөгү «Бардыгы» тилкесинин туурасы,1020,gnome-system-monitor,po/ky.po
+Show disk view 'Total' column on startup,1023,Жүргүзгөндө диск көрүнүшүндөгү «Бардыгы» тилкесин көрсөтүү,1024,gnome-system-monitor,po/ky.po
+Width of disk view 'Free' column,1027,Диск көрүнүшүндөгү «Бошу» тилкесинин туурасы,1028,gnome-system-monitor,po/ky.po
+Show disk view 'Free' column on startup,1031,Жүргүзгөндө диск көрүнүшүндөгү «Бошу» тилкесин көрсөтүү,1032,gnome-system-monitor,po/ky.po
+Width of disk view 'Available' column,1035,Диск көрүнүшүндөгү «Жеткиликтүүсү» тилкесинин туурасы,1036,gnome-system-monitor,po/ky.po
+Show disk view 'Available' column on startup,1039,Жүргүзгөндө диск көрүнүшүндөгү «Жеткиликтүүсү» тилкесин көрсөтүү,1040,gnome-system-monitor,po/ky.po
+Width of disk view 'Used' column,1043,Диск көрүнүшүндөгү «Колдонулганы» тилкесинин туурасы,1044,gnome-system-monitor,po/ky.po
+Show disk view 'Used' column on startup,1047,Жүргүзгөндө диск көрүнүшүндөгү «Колдонулганы» тилкесин көрсөтүү,1048,gnome-system-monitor,po/ky.po
+Memory map sort column,1051,Эс картасынын сорттоо тилкеси,1052,gnome-system-monitor,po/ky.po
+Memory map sort order,1055,Эс картасынын сорттоо тартиби,1056,gnome-system-monitor,po/ky.po
+Open files sort column,1059,Ачык файлдардын сорттоо тилкеси,1060,gnome-system-monitor,po/ky.po
+Open files sort order,1063,Ачык файлдардын сорттоо тартиби,1064,gnome-system-monitor,po/ky.po
+Cannot change the priority of process with PID %d to %d.\n%s,1068,PID %d жараянынын алгачкылыгын төмөнкүгө өзгөртүү мүмкүн эмес: %d.\n%s,1071,gnome-system-monitor,po/ky.po
+Cannot kill process with PID %d with signal %d.\n%s,1077,PID %d жараянын %d сигналы менен жок кылуу мүмкүн эмес.\n%s,1080,gnome-system-monitor,po/ky.po
+Kill the selected process “%s” (PID: %u)?,1087,Тандалган «%s» (PID: %u) жараянын жок кыласызбы?,1088,gnome-system-monitor,po/ky.po
+"Killing a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be killed.",1092,"Жараяндын жок кылынышы маалыматтарды бузуп, сеансты үзүп же коопсуздук тобокелине алып келиши мүмкүн. Жооп бербеген жараяндар гана жок кылыныш керек.",1095,gnome-system-monitor,po/ky.po
+End the selected process “%s” (PID: %u)?,1103,Тандалган «%s» (PID: %u) жараянын аяктайсызбы?,1104,gnome-system-monitor,po/ky.po
+"Ending a process may destroy data, break the session or introduce a security risk. Only unresponsive processes should be ended.",1108,"Жараяндын аякталышы маалыматтарды бузуп, сеансты үзүп же коопсуздук тобокелине алып келиши мүмкүн. Жооп бербеген жараяндар гана аякталыш керек.",1111,gnome-system-monitor,po/ky.po
+Change Priority of Process “%s” (PID: %u),1117,«%s» (PID: %u) жараянынын алгачкылыгын өзгөртүү,1118,gnome-system-monitor,po/ky.po
+Note:,1121,Эскертүү:,1122,gnome-system-monitor,po/ky.po
+The priority of a process is given by its nice value. A lower nice value corresponds to a higher priority.,1125,Жараяндын алгачкылыгы nice мааниси боюнча берилет. Жапызыраак nice мааниси бийик алгачкылыкка дал келет.,1128,gnome-system-monitor,po/ky.po
+Icon,1133,Значок,1134,gnome-system-monitor,po/ky.po
+A simple process and system monitor.,1137,Жөнөкөй жараян жана тутум диспетчери.,1138,gnome-system-monitor,po/ky.po
+N/A,1141,Ж/Э,1142,gnome-system-monitor,po/ky.po
+Process Name,1145,Жараян аты,1146,gnome-system-monitor,po/ky.po
+User,1149,Колдонуучусу,1150,gnome-system-monitor,po/ky.po
+Status,1153,Абалы,1154,gnome-system-monitor,po/ky.po
+Virtual Memory,1157,Виртуалдуу эси,1158,gnome-system-monitor,po/ky.po
+Resident Memory,1161,Резиденттик эси,1162,gnome-system-monitor,po/ky.po
+Writable Memory,1165,Жазылуучу эси,1166,gnome-system-monitor,po/ky.po
+Shared Memory,1169,Бөлүшүлгөн эси,1170,gnome-system-monitor,po/ky.po
+X Server Memory,1173,X-сервер эси,1174,gnome-system-monitor,po/ky.po
+CPU Time,1177,БЖБ убагы,1178,gnome-system-monitor,po/ky.po
+%lld second,1182,%lld секунда,1184,gnome-system-monitor,po/ky.po
+Started,1187,Жүргүзүлгөн күнү,1188,gnome-system-monitor,po/ky.po
+Priority,1195,Алгачкылыгы,1196,gnome-system-monitor,po/ky.po
+ID,1199,ID'си,1200,gnome-system-monitor,po/ky.po
+Security Context,1203,Коопсуздук контексти,1204,gnome-system-monitor,po/ky.po
+Command Line,1207,Командалык сабы,1208,gnome-system-monitor,po/ky.po
+Waiting Channel,1212,Күтүүдөгү каналы,1213,gnome-system-monitor,po/ky.po
+Control Group,1216,Көзөмөл тобу,1217,gnome-system-monitor,po/ky.po
+Process Properties,1220,Жараян касиеттери,1221,gnome-system-monitor,po/ky.po
+"Properties of process \""%s\"" (PID %u):",1225,«%s» (PID %u) жараянынын касиеттери:,1226,gnome-system-monitor,po/ky.po
+% CPU,1230,% БЖБ,1231,gnome-system-monitor,po/ky.po
+Unit,1234,Ченөө бирдиги,1235,gnome-system-monitor,po/ky.po
+Session,1238,Сеансы,1239,gnome-system-monitor,po/ky.po
+Seat,1244,Иш орду,1245,gnome-system-monitor,po/ky.po
+Owner,1248,Ээси,1249,gnome-system-monitor,po/ky.po
+"Load averages for the last 1, 5, 15 minutes: %0.2f, %0.2f, %0.2f",1253,"1, 5, 15 минуталарындагы орточо жүктөлүшү: %0.2f, %0.2f, %0.2f",1254,gnome-system-monitor,po/ky.po
+Running,1257,Иштөөдө,1258,gnome-system-monitor,po/ky.po
+Stopped,1261,Токтотулган,1262,gnome-system-monitor,po/ky.po
+Zombie,1265,Зомби,1266,gnome-system-monitor,po/ky.po
+Uninterruptible,1269,Үзгүлтүксүз,1270,gnome-system-monitor,po/ky.po
+Sleeping,1273,Күтүүдө,1274,gnome-system-monitor,po/ky.po
+%.1f KiB,1302,%.1f КиБ,1303,gnome-system-monitor,po/ky.po
+%.1f MiB,1307,%.1f МиБ,1308,gnome-system-monitor,po/ky.po
+%.1f GiB,1312,%.1f ГиБ,1313,gnome-system-monitor,po/ky.po
+%.1f TiB,1317,%.1f ТиБ,1318,gnome-system-monitor,po/ky.po
+%.3g kbit,1322,%.3g кбит,1323,gnome-system-monitor,po/ky.po
+%.3g Mbit,1327,%.3g Мбит,1328,gnome-system-monitor,po/ky.po
+%.3g Gbit,1332,%.3g Гбит,1333,gnome-system-monitor,po/ky.po
+%.3g Tbit,1337,%.3g Тбит,1338,gnome-system-monitor,po/ky.po
+%u bit,1342,%u бит,1344,gnome-system-monitor,po/ky.po
+%u byte,1348,%u байт,1350,gnome-system-monitor,po/ky.po
+Very High Priority,1353,Өтө жогорку приоритет,1354,gnome-system-monitor,po/ky.po
+High Priority,1357,Жогорку приоритет,1358,gnome-system-monitor,po/ky.po
+Normal Priority,1361,Кадимки приоритет,1362,gnome-system-monitor,po/ky.po
+Low Priority,1365,Төмөнкү приоритет,1366,gnome-system-monitor,po/ky.po
+Very Low Priority,1369,Өтө төмөнкү приоритет ,1370,gnome-system-monitor,po/ky.po
+%s/s,1375,%s/с,1376,gnome-system-monitor,po/ky.po
+Tweak Tool,25,Ырастоо аспабы,26,gnome-tweaks,po/ky.po
+Tweak advanced GNOME 3 settings,29,GNOME 3-түн комшумча параметрлерин өзгөртүү,30,gnome-tweaks,po/ky.po
+welcome,33,кош келиңиз,34,gnome-tweaks,po/ky.po
+tweaks,37,ырастоолор,38,gnome-tweaks,po/ky.po
+Fonts,41,Шрифттер,42,gnome-tweaks,po/ky.po
+Theme,45,Тема,46,gnome-tweaks,po/ky.po
+Desktop,49,Иш столу,50,gnome-tweaks,po/ky.po
+Windows,53,Терезелер,54,gnome-tweaks,po/ky.po
+Typing,61,Терүү,62,gnome-tweaks,po/ky.po
+Files,70,Файлдар,71,gnome-tweaks,po/ky.po
+Miscellaneous,74,Ар башкалар,75,gnome-tweaks,po/ky.po
+<i>Default</i>,78,<i>Абалкы</i>,79,gnome-tweaks,po/ky.po
+Extension downloading,82,Кеңейтме жүктөлүп жатат,83,gnome-tweaks,po/ky.po
+Error loading extension,86,Кеңейтменин жүктөө катасы,87,gnome-tweaks,po/ky.po
+Extension does not support shell version,90,Кеңейтме Shell'дин версиясын колдобойт,91,gnome-tweaks,po/ky.po
+Unknown extension error,94,Кеңейтменин белгисиз катасы,95,gnome-tweaks,po/ky.po
+The shell must be restarted for changes to take effect,98,Өзгөрүүлөр күчүнө кириш үчүн Shell'ди кайта жүргүзүш керек,99,gnome-tweaks,po/ky.po
+Restart,103,Кайта жүргүзүү,104,gnome-tweaks,po/ky.po
+Install Shell Extension,107,Shell кеңейтмесин орнотуу,108,gnome-tweaks,po/ky.po
+Select an extension,111,Кеңейтемени тандоо,112,gnome-tweaks,po/ky.po
+Get more extensions,115,Кошумча кеңейтмелер,116,gnome-tweaks,po/ky.po
+%s extension updated successfully,120,%s кеңейтмеси ийгиликтүү жаңыртылды,121,gnome-tweaks,po/ky.po
+%s extension installed successfully,125,%s кеңейтмеси ийгиликтүү орнотулду,126,gnome-tweaks,po/ky.po
+Error installing extension,129,Кеңейтмени орнотуу катасы,130,gnome-tweaks,po/ky.po
+Invalid extension,134,Туура эмес кеңейтме,135,gnome-tweaks,po/ky.po
+Shell Extensions,138,Shell кеңейтмелери,139,gnome-tweaks,po/ky.po
+Close Only,142,Жабуу гана,143,gnome-tweaks,po/ky.po
+Minimize and Close,146,Кичирейтүү жана жабуу,147,gnome-tweaks,po/ky.po
+Maximize and Close,150,Чоңойтуу жана жабуу,151,gnome-tweaks,po/ky.po
+All,154,Баары,155,gnome-tweaks,po/ky.po
+Shell theme,158,Shell темасы,159,gnome-tweaks,po/ky.po
+Install custom or user themes for gnome-shell,162,gnome-shell үчүн өз теманы орнотуу,163,gnome-tweaks,po/ky.po
+Unknown error,167,Белгисиз ката,168,gnome-tweaks,po/ky.po
+Shell not running,171,Shell жүргүзүлгөн жок,172,gnome-tweaks,po/ky.po
+Shell user-theme extension incorrectly installed,175,«user-theme» кеңейтмеси туура эмес орнотулуптур,176,gnome-tweaks,po/ky.po
+Shell user-theme extension not enabled,179,«user-theme» кеңейтмеси күйгүзүлгөн жок,180,gnome-tweaks,po/ky.po
+Could not list shell extensions,183,Кеңейтме тизмесин алуу оңунан чыкпады,184,gnome-tweaks,po/ky.po
+Select a theme,188,Теманы тандаңыз,189,gnome-tweaks,po/ky.po
+%s theme updated successfully,193,%s темасы ийгиликтүү жаңыртылды,194,gnome-tweaks,po/ky.po
+%s theme installed successfully,198,%s темасы ийгиликтүү орнотулду,199,gnome-tweaks,po/ky.po
+Error installing theme,202,Теманы орнотуу катасы,203,gnome-tweaks,po/ky.po
+Invalid theme,207,Туура эмес тема,208,gnome-tweaks,po/ky.po
+Dynamic workspaces,211,Динамикалык иш орундары,212,gnome-tweaks,po/ky.po
+"Disable gnome-shell dynamic workspace management, use static workspaces",215,"gnome-shell иш орундары үчүн динамикалык башкарууну колдонбоо, статикалыкты колдонуу",216,gnome-tweaks,po/ky.po
+Disabled,221,Өчүк,222,gnome-tweaks,po/ky.po
+%s <i>(default)</i>,227,%s <i>(абалкы)</i>,228,gnome-tweaks,po/ky.po
+Enable dark theme for all applications,231,Бүт тиркемелерге күңүрт теманы колдонуу,232,gnome-tweaks,po/ky.po
+Enable the dark theme hint for all the applications in the session,235,Сеанстын бүт тиркемелерине күңүрт теманы колдонуу,236,gnome-tweaks,po/ky.po
+Error writing setting,239,Параметрлерди жазуу катасы,240,gnome-tweaks,po/ky.po
+Iagno,23,Ягно,24,iagno,po/ky.po
+Dominate the board in a classic version of Reversi,27,Реверсинин классикалык версиясынан тактаны басып алыңыз,28,iagno,po/ky.po
+othello;,31,отелло;,32,iagno,po/ky.po
+_New Game,35,_Жаңы оюн,36,iagno,po/ky.po
+_Undo,39,Ж_окко чыгаруу,40,iagno,po/ky.po
+_Preferences,43,_Параметрлер,44,iagno,po/ky.po
+_Help,47,Жа_рдам,48,iagno,po/ky.po
+_About,51,_Программа жөнүндө,52,iagno,po/ky.po
+_Quit,55,_Чыгуу,56,iagno,po/ky.po
+Sound,59,Үн,60,iagno,po/ky.po
+Whether or not to play event sounds.,63,Үн окуялары ойнотулабы дегенин дайындайт.,64,iagno,po/ky.po
+Width of the window in pixels,67,Терезенин туурасы (пикс.),68,iagno,po/ky.po
+Height of the window in pixels,71,Терезенин бийиктиги (пикс.),72,iagno,po/ky.po
+true if the window is maximized,75,"чын, эгер терезе максималдуу өлчмөдө болсо",76,iagno,po/ky.po
+true if the window is fullscren,79,"чын, эгер терезе толук экран болсо",80,iagno,po/ky.po
+Dark:,83,Карасы:,84,iagno,po/ky.po
+Light:,87,Ачыгы:,88,iagno,po/ky.po
+"Light must pass, Dark's move",91,"Ачыгы жол берет, карасы жүрөт",92,iagno,po/ky.po
+"Dark must pass, Light's move",95,"Карасы жол берет, ачыгы жүрөт",96,iagno,po/ky.po
+A disk flipping game derived from Reversi.\n\nIagno is a part of GNOME Games.,106,Реверсиден пайда болгон фишкаларды ыргытмай оюн.\n\nЯгно GNOME оюндарынын бөлүгү.,110,iagno,po/ky.po
+GNOME Games web site,120,GNOME Games веб-сайты,121,iagno,po/ky.po
+Light player wins!,124,Ак оюнчу утту!,125,iagno,po/ky.po
+Dark player wins!,128,Кара оюнчу утту!,129,iagno,po/ky.po
+The game was a draw.,132,Оюндан эч ким уткан жок.,133,iagno,po/ky.po
+Invalid move.,136,Туура эмес жүрүш.,137,iagno,po/ky.po
+Iagno Preferences,140,Ягнонун параметрлери,141,iagno,po/ky.po
+Dark Player:,144,Кара оюнчусу:,145,iagno,po/ky.po
+Human,148,Киши,149,iagno,po/ky.po
+Level one,152,Биринчи деңгээл,153,iagno,po/ky.po
+Level two,156,Экинчи деңгээл,157,iagno,po/ky.po
+Level three,160,Үчүнчү деңгээл,161,iagno,po/ky.po
+Light Player:,164,Ачык оюнчусу:,165,iagno,po/ky.po
+E_nable sounds,168,Үндөрдү күй_гүзүү,169,iagno,po/ky.po
+S_how grid,172,Тор сызыкты _көрсөтүү,173,iagno,po/ky.po
+_Flip final results,176,Акыркы натыйжаларын _ыргытуу,177,iagno,po/ky.po
+_Tile set:,180,_Фишка жыйыны:,181,iagno,po/ky.po
+Run Software,26,Программаны иштетүү,27,nautilus,po/ky.po
+Connect to Server,32,Серверге туташуу,33,nautilus,po/ky.po
+Files,40,Файлдар,41,nautilus,po/ky.po
+Saved search,48,Сакталган издөө,49,nautilus,po/ky.po
+Text,61,Текст,62,nautilus,po/ky.po
+Justification,69,Түздөө,70,nautilus,po/ky.po
+Cursor Position,88,Курсор оруну,89,nautilus,po/ky.po
+Select All,105,Баарын тандоо,106,nautilus,po/ky.po
+Input Methods,109,Киргизүү ыкмалары,110,nautilus,po/ky.po
+Show more _details,113,Көбүрөөк _детальдарды көрсөтүү,114,nautilus,po/ky.po
+Home,129,Башы,130,nautilus,po/ky.po
+Select _All,160,Б_аарын тандоо,161,nautilus,po/ky.po
+Move _Up,169,Үстү_гө жылдыруу,170,nautilus,po/ky.po
+Move Dow_n,173,Ас_тыга жылдыруу,174,nautilus,po/ky.po
+Use De_fault,177,Жарыяланбасча,178,nautilus,po/ky.po
+Name,182,Ат,183,nautilus,po/ky.po
+Size,190,Көлөм,191,nautilus,po/ky.po
+The size of the file.,194,Файл көлөмү.,195,nautilus,po/ky.po
+Type,198,Түр,199,nautilus,po/ky.po
+The type of the file.,202,Файл түрү.,203,nautilus,po/ky.po
+Modified,206,Акыркы өзгөртүү,207,nautilus,po/ky.po
+The date the file was modified.,210,Файлдын акыркы өзгөртүү датасы.,211,nautilus,po/ky.po
+Owner,214,Ээ,215,nautilus,po/ky.po
+The owner of the file.,218,Файлдын ээси.,219,nautilus,po/ky.po
+Group,222,Топ,223,nautilus,po/ky.po
+The group of the file.,226,Файл тобу.,227,nautilus,po/ky.po
+Permissions,231,Укуктар,232,nautilus,po/ky.po
+MIME Type,239,MIME түр,240,nautilus,po/ky.po
+Location,248,Дарек,249,nautilus,po/ky.po
+Trashed On,256,Өчүрүлгөн,257,nautilus,po/ky.po
+Original Location,264,Баштапкы турган жай,265,nautilus,po/ky.po
+on the desktop,281,иштик столдо,282,nautilus,po/ky.po
+_Move Here,308,Бул жакка _көчүрүү,309,nautilus,po/ky.po
+_Copy Here,312,Бул жакка ко_пиялоо,313,nautilus,po/ky.po
+_Link Here,316,Бул жакка _шилтеме жасоо,317,nautilus,po/ky.po
+Set as _Background,320,_Фон кылып коюуу,321,nautilus,po/ky.po
+Cancel,324,Калтыруу,325,nautilus,po/ky.po
+File not found,357,Файл табылбады,358,nautilus,po/ky.po
+%'u item,444,%'u объект,446,nautilus,po/ky.po
+%'u folder,450,%'u папка,452,nautilus,po/ky.po
+%'u file,456,%'u файл,458,nautilus,po/ky.po
+? items,463,? объект,464,nautilus,po/ky.po
+? bytes,468,? байт,469,nautilus,po/ky.po
+unknown,483,белгисиз,484,nautilus,po/ky.po
+Image,504,Сүрөт,505,nautilus,po/ky.po
+Video,517,Видео,518,nautilus,po/ky.po
+Presentation,538,Презентация,539,nautilus,po/ky.po
+Spreadsheet,543,Электрондук таблица,544,nautilus,po/ky.po
+Replacing it will remove all files in the folder.,610,Алмаштырганда папканын ичиндеги бүт файлдар өчүрүлөт.,611,nautilus,po/ky.po
+Replacing it will overwrite its content.,632,Алмаштырганда мазмун кайтадан жазылат.,633,nautilus,po/ky.po
+Original file,654,Баштапкы файл,655,nautilus,po/ky.po
+Size:,660,Өлчөм:,661,nautilus,po/ky.po
+Type:,666,Түр:,667,nautilus,po/ky.po
+Last modified:,671,Акыркы өзгөртүү:,672,nautilus,po/ky.po
+Replace with,675,Жаңы файл,676,nautilus,po/ky.po
+Merge,679,Бириктирүү,680,nautilus,po/ky.po
+_Select a new name for the destination,684,Дайындоо үчүн жаңы ат _тандоо,685,nautilus,po/ky.po
+Reset,689,Түшүрүү,690,nautilus,po/ky.po
+Apply this action to all files,694,Ушу аракетти бүт файлдарга колдонуу,695,nautilus,po/ky.po
+_Skip,699,_Өткөрүү,700,nautilus,po/ky.po
+Re_name,703,А_тын өзгөртүү,704,nautilus,po/ky.po
+Replace,707,Алмаштыруу,708,nautilus,po/ky.po
+File conflict,711,Файл жаңжалы,712,nautilus,po/ky.po
+S_kip All,715,Баарын өткө_рүү,716,nautilus,po/ky.po
+_Retry,719,_Кайталоо,720,nautilus,po/ky.po
+Delete _All,723,_Баарын өчүрүү,724,nautilus,po/ky.po
+_Replace,727,_Алмаштыруу,728,nautilus,po/ky.po
+Replace _All,731,_Баарын алмаштыруу,732,nautilus,po/ky.po
+_Merge,735,_Бириктирүү,736,nautilus,po/ky.po
+Merge _All,739,Б_аарын бириктирүү,740,nautilus,po/ky.po
+Copy _Anyway,743,_Баар деле копиялоо,744,nautilus,po/ky.po
+%'d second,748,%'d секунда,750,nautilus,po/ky.po
+%'d minute,755,%'d мүнөт,757,nautilus,po/ky.po
+%'d hour,761,%'d саат,763,nautilus,po/ky.po
+Are you sure you want to permanently delete the %'d selected item from the trash?,909,Тандалган %'d объектти себеттен таптакырга өчүргүңүз келеби?,915,nautilus,po/ky.po
+"If you delete an item, it will be permanently lost.",919,"Эгер элементти өчүрсөңүз, ал таптакырга жоголот.",920,nautilus,po/ky.po
+Empty all items from Trash?,923,Себеттен бүт объекттерди өчүрөсүзбү?,924,nautilus,po/ky.po
+All items in the Trash will be permanently deleted.,927,Себеттеги бүт элементтер таптакырга өчүрүлөт.,928,nautilus,po/ky.po
+Empty _Trash,934,_Себетти тазалоо,935,nautilus,po/ky.po
+Are you sure you want to permanently delete the %'d selected item?,945,Тандалган %'d объектти таптакырга өчүрөсүзбү?,948,nautilus,po/ky.po
+Deleting files,957,Файлдарды өчүрүү,958,nautilus,po/ky.po
+Moving files to trash,1019,Фалдар себетке көчүрүлүп жатат,1020,nautilus,po/ky.po
+Trashing Files,1038,Файлдар себетке көчүрүлүп жатат,1039,nautilus,po/ky.po
+Deleting Files,1042,Файлдар өчүрүлүп жатат,1043,nautilus,po/ky.po
+There was an error copying the file into %F.,1319,%F дарегине копия жасап жатканда ката чыкты.,1320,nautilus,po/ky.po
+Copying Files,1324,Файлдар копияланып жатат,1325,nautilus,po/ky.po
+Moving Files,1343,Файлдар көчүрүлүп жатат,1344,nautilus,po/ky.po
+Setting permissions,1374,Укуктар коюлуп жатат,1375,nautilus,po/ky.po
+Untitled Folder,1379,Аты жок папка,1380,nautilus,po/ky.po
+Untitled %s,1385,Аты жок %s,1386,nautilus,po/ky.po
+Untitled Document,1390,Аты жок документ,1391,nautilus,po/ky.po
+Emptying Trash,1407,Себетти тазалоо,1408,nautilus,po/ky.po
+Undo,1420,Жокко чыгаруу,1421,nautilus,po/ky.po
+Undo last action,1425,Акыркы аракетти жокко чыгаруу,1426,nautilus,po/ky.po
+Redo,1431,Кайталоо,1432,nautilus,po/ky.po
+_Undo Move %d item,1453,%d элементтин көчүрүүсүн _жокко чыгаруу,1455,nautilus,po/ky.po
+_Redo Move %d item,1459,%d элементтин көчүрүүсүн _кайталоо,1461,nautilus,po/ky.po
+_Undo Move,1474,Көчүрүүнү _жокко чыгаруу,1475,nautilus,po/ky.po
+_Redo Move,1478,Көчүрүүнү _кайталоо,1479,nautilus,po/ky.po
+_Undo Restore from Trash,1482,Себеттен калыбына келтирүүнү _жокко чыгаруу,1483,nautilus,po/ky.po
+_Redo Restore from Trash,1486,Себеттен калыбына келтирүүнү _кайталоо,1487,nautilus,po/ky.po
+Delete '%s',1540,«%s» өчүрүү,1541,nautilus,po/ky.po
+_Undo Copy,1549,Копиялоону _жокко чыгаруу,1550,nautilus,po/ky.po
+_Redo Copy,1553,Копиялоону _кайталоо,1554,nautilus,po/ky.po
+_Undo Duplicate,1586,Дубликаттоону _жокко чыгаруу,1587,nautilus,po/ky.po
+_Redo Duplicate,1590,Дубликаттоону _кайталоо,1591,nautilus,po/ky.po
+_Undo Create Link,1616,Шилтеме жасоону _жокко чыгаруу,1617,nautilus,po/ky.po
+_Redo Create Link,1620,Шилтеме жасоону _кайталоо,1621,nautilus,po/ky.po
+_Undo Create Empty File,1629,Бош файлды жаратууну _жокко чыгаруу,1630,nautilus,po/ky.po
+_Redo Create Empty File,1633,Бош файлды жаратууну _кайталоо,1634,nautilus,po/ky.po
+_Undo Create Folder,1642,Папканы жаратууну _жокко чыгаруу,1643,nautilus,po/ky.po
+_Redo Create Folder,1646,Папканы жаратууну _кайталоо,1647,nautilus,po/ky.po
+_Undo Create from Template,1655,Шаблондон жасоону _жокко чыгаруу,1656,nautilus,po/ky.po
+_Redo Create from Template,1659,Шаблондон жасоону _кайталоо,1660,nautilus,po/ky.po
+_Undo Rename,1669,Ат өзгөртүүнү _жокко чыгаруу,1670,nautilus,po/ky.po
+_Redo Rename,1673,Ат өзгөртүүнү _кайталоо,1674,nautilus,po/ky.po
+Move %d item to trash,1678,%d элементин себетке көчүрүү,1680,nautilus,po/ky.po
+Move '%s' to trash,1689,«%s» объектин себетке көчүрүү,1690,nautilus,po/ky.po
+_Undo Trash,1693,Себетке көчүрүүнү _жокко чыгаруу,1694,nautilus,po/ky.po
+_Redo Trash,1697,Себетке көчүрүүнү _кайталоо,1698,nautilus,po/ky.po
+_Undo Change Permissions,1712,Укуктарды өзгөртүүнү _жокко чыгаруу,1713,nautilus,po/ky.po
+_Redo Change Permissions,1717,Укуктарды өзгөртүүнү _кайталоо,1718,nautilus,po/ky.po
+_Undo Change Group,1741,Топту өзгөртүүнү _жокко чыгаруу,1742,nautilus,po/ky.po
+_Redo Change Group,1745,Топту өзгөртүүнү _кайталоо,1746,nautilus,po/ky.po
+_Undo Change Owner,1759,Ээни өзгөртүүнү _жокко чыгаруу,1760,nautilus,po/ky.po
+_Redo Change Owner,1763,Ээни өзгөртүүнү _кайталоо,1764,nautilus,po/ky.po
+%s document,1805,%s документи,1806,nautilus,po/ky.po
+Set as default,1821,Жарыяланбасча коюу,1822,nautilus,po/ky.po
+Details: ,1854,Детальдар: ,1855,nautilus,po/ky.po
+Search,1866,Издөө,1867,nautilus,po/ky.po
+Desktop font,2165,Иштик столдун шрифти,2166,nautilus,po/ky.po
+Send To...,2305,Жөнөтүү...,2306,nautilus,po/ky.po
+Show the version of the program.,2370,Программанын версиясын көрсөтүү.,2371,nautilus,po/ky.po
+Create the initial window with the given geometry.,2374,Берилген геометриясы менен баштапкы терезени жаратуу.,2375,nautilus,po/ky.po
+GEOMETRY,2378,ГЕОМЕТРИЯ,2379,nautilus,po/ky.po
+Only create windows for explicitly specified URIs.,2382,Ачык берилген даректер (URI) үчүн гана терезелерди жаратуу.,2383,nautilus,po/ky.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,2386,Иштик столду башкарбоо (параметрлер диалогунун параметрлерин көңүлгө салбоо),2389,nautilus,po/ky.po
+Quit Nautilus.,2393,Nautilus'тан чыгуу.,2394,nautilus,po/ky.po
+\n\nBrowse the file system with the file manager,2401,\n\nФайлдык менежерден файлдык системаны көрүү,2405,nautilus,po/ky.po
+New _Window,2426,Жаңы _терезе,2427,nautilus,po/ky.po
+Connect to _Server,2430,_Серверге туташуу,2431,nautilus,po/ky.po
+_Bookmarks,2440,_Чөп каттар,2441,nautilus,po/ky.po
+Prefere_nces,2444,_Параметрлер,2445,nautilus,po/ky.po
+_Help,2453,_Жардам,2454,nautilus,po/ky.po
+_Quit,2457,_Чыгуу,2458,nautilus,po/ky.po
+_Run,2490,Жү_ргүзүү,2491,nautilus,po/ky.po
+No bookmarks defined,2494,Чөп каттар табылбады,2495,nautilus,po/ky.po
+Bookmarks,2498,Чөп каттар,2499,nautilus,po/ky.po
+Remove,2503,Өчүрүү,2504,nautilus,po/ky.po
+_Name,2519,_Ат,2520,nautilus,po/ky.po
+_Location,2523,_Дарек,2524,nautilus,po/ky.po
+Re_versed Order,2529,Те_скери иретте,2530,nautilus,po/ky.po
+_Manually,2549,_Кол менен,2550,nautilus,po/ky.po
+By _Name,2557,_Ат боюнча,2558,nautilus,po/ky.po
+By _Size,2565,_Өлчөм боюнча,2566,nautilus,po/ky.po
+By _Type,2573,_Түр боюнча,2574,nautilus,po/ky.po
+By Modification _Date,2581,Өзгөртүлгөн _дата боюнча,2582,nautilus,po/ky.po
+By T_rash Time,2589,Өчүрүлгөн уба_кыты боюнча,2590,nautilus,po/ky.po
+Icon View,2609,Белги түрүндө көрүү,2610,nautilus,po/ky.po
+_Icons,2614,_Белгилер,2615,nautilus,po/ky.po
+C_onnect,2704,Тута_шуу,2705,nautilus,po/ky.po
+E_mpty Trash,2711,Себетти б_ошотуу,2712,nautilus,po/ky.po
+Empty Trash,2737,Себетти тазалоо,2738,nautilus,po/ky.po
+Delete all items in the Trash,2743,Себеттеги бүт объекттерди өчүрүү,2744,nautilus,po/ky.po
+Comment,2783,Комментарий,2784,nautilus,po/ky.po
+Description,2793,Баяндама,2794,nautilus,po/ky.po
+Command,2797,Команда,2798,nautilus,po/ky.po
+Desktop,2803,Иштик стол,2804,nautilus,po/ky.po
+None,2919,Жок,2920,nautilus,po/ky.po
+Default View,2929,Жарыяланбас көрүнүш,2930,nautilus,po/ky.po
+Views,2965,Көрүнүш,2966,nautilus,po/ky.po
+Behavior,2969,Кылык,2970,nautilus,po/ky.po
+Trash,2998,Себет,2999,nautilus,po/ky.po
+Display,3020,Көрсөтүү,3021,nautilus,po/ky.po
+List Columns,3028,Тизме тилкелери,3029,nautilus,po/ky.po
+Folders,3041,Папкалар,3042,nautilus,po/ky.po
+Preview,3049,Алдын ала көрүү,3050,nautilus,po/ky.po
+List View,3056,Тизме түрүндө көрүү,3057,nautilus,po/ky.po
+Always,3060,Дайыма,3061,nautilus,po/ky.po
+Local Files Only,3064,Жердик файлдар гана,3065,nautilus,po/ky.po
+Never,3068,Эч качан,3069,nautilus,po/ky.po
+By Name,3072,Ат боюнча,3073,nautilus,po/ky.po
+By Size,3076,Өлчөм боюнча,3077,nautilus,po/ky.po
+By Type,3080,Түр боюнча,3081,nautilus,po/ky.po
+By Modification Date,3084,Өзгөртүлгөн дата боюнча,3085,nautilus,po/ky.po
+By Access Date,3088,Кайрылган дата боюнча,3089,nautilus,po/ky.po
+By Trashed Date,3092,Өчүрүлгөн дата боюнча,3093,nautilus,po/ky.po
+100 KB,3131,100 КБ,3132,nautilus,po/ky.po
+500 KB,3135,500 КБ,3136,nautilus,po/ky.po
+1 MB,3139,1 МБ,3140,nautilus,po/ky.po
+3 MB,3143,3 МБ,3144,nautilus,po/ky.po
+5 MB,3147,5 МБ,3148,nautilus,po/ky.po
+10 MB,3151,10 МБ,3152,nautilus,po/ky.po
+100 MB,3155,100 МБ,3156,nautilus,po/ky.po
+1 GB,3159,1 ГБ,3160,nautilus,po/ky.po
+2 GB,3163,2 ГБ,3164,nautilus,po/ky.po
+4 GB,3167,4 ГБ,3168,nautilus,po/ky.po
+Camera Brand,3171,Камера маркасы,3172,nautilus,po/ky.po
+Camera Model,3175,Камера модели,3176,nautilus,po/ky.po
+Date Taken,3180,Тартылган дата,3181,nautilus,po/ky.po
+Date Digitized,3184,Санариптөө датасы,3185,nautilus,po/ky.po
+Date Modified,3188,Өзгөртүлгөн дата,3189,nautilus,po/ky.po
+Exposure Time,3192,Экспозиция убакыты,3193,nautilus,po/ky.po
+Aperture Value,3196,Апертура чоңдугу,3197,nautilus,po/ky.po
+ISO Speed Rating,3200,Жарык сезгичтик,3201,nautilus,po/ky.po
+Flash Fired,3204,Жарк,3205,nautilus,po/ky.po
+Metering Mode,3208,Өлчөө режими,3209,nautilus,po/ky.po
+Exposure Program,3212,Экспозиция программасы,3213,nautilus,po/ky.po
+Focal Length,3216,Фокустук аралык,3217,nautilus,po/ky.po
+Software,3220,Программалар,3221,nautilus,po/ky.po
+Keywords,3224,Ачкыч сөздөр,3225,nautilus,po/ky.po
+Creator,3228,Автор,3229,nautilus,po/ky.po
+Copyright,3232,Автордук укук,3233,nautilus,po/ky.po
+Rating,3236,Баа,3237,nautilus,po/ky.po
+Failed to load image information,3261,Сүрөт маалыматын жүктөө оңунан чыкпады,3262,nautilus,po/ky.po
+Loading...,3267,Жүктөө...,3268,nautilus,po/ky.po
+(Empty),3271,(Бош),3272,nautilus,po/ky.po
+_List,3296,_Тизме,3297,nautilus,po/ky.po
+Mo_ve to Trash,3347,Себетке кө_чүрүү,3348,nautilus,po/ky.po
+Run in _Terminal,3363,Т_ерминалдан жүргүзүү,3364,nautilus,po/ky.po
+_Display,3367,_Көрсөтүү,3368,nautilus,po/ky.po
+_Select Application,3397,Тиркемени _тандоо,3398,nautilus,po/ky.po
+_Launch Anyway,3427,Баар деле _жүргүзүү,3428,nautilus,po/ky.po
+Opening %d item.,3452,%d элементи ачылып жатат.,3454,nautilus,po/ky.po
+Close tab,3457,Салманы жабуу,3458,nautilus,po/ky.po
+Devices,3461,Орнотмолор,3462,nautilus,po/ky.po
+Places,3465,Орундар,3466,nautilus,po/ky.po
+Recent,3469,Жакындагы,3470,nautilus,po/ky.po
+Recent files,3473,Жакындагы файлдар,3474,nautilus,po/ky.po
+Open your personal folder,3478,Сиздин өздүк папкаңызды ачуу,3479,nautilus,po/ky.po
+Open the contents of your desktop in a folder,3482,Иштик столдун мазмунун папкадан ачуу,3483,nautilus,po/ky.po
+Open the trash,3486,Себетти ачуу,3487,nautilus,po/ky.po
+Open the contents of the File System,3496,Файлдык системанын мазмунун ачуу,3497,nautilus,po/ky.po
+Network,3500,Тармак,3501,nautilus,po/ky.po
+Browse Network,3504,Тармакты кароо,3505,nautilus,po/ky.po
+Browse the contents of the network,3508,Тармактын мазмунун кароо,3509,nautilus,po/ky.po
+_Stop,3530,_Токтотуу,3531,nautilus,po/ky.po
+_Open,3595,_Ачуу,3596,nautilus,po/ky.po
+Open in New _Tab,3603,Жаңы _салмадан ачуу,3604,nautilus,po/ky.po
+Open in New _Window,3608,Жаңы _терезеден ачуу,3609,nautilus,po/ky.po
+_Add Bookmark,3612,Чөп кат _кошуу,3613,nautilus,po/ky.po
+Rename...,3616,Атын өзгөртүү...,3617,nautilus,po/ky.po
+_Mount,3623,_Кошуу,3624,nautilus,po/ky.po
+_Eject,3637,_Чыгаруу,3638,nautilus,po/ky.po
+_Properties,3648,Ө_згөчөлүктөр,3649,nautilus,po/ky.po
+Computer,3652,Компьютер,3653,nautilus,po/ky.po
+Show Details,3663,Детальдарды көрсөтүү,3664,nautilus,po/ky.po
+_Name:,3699,_Ат:,3701,nautilus,po/ky.po
+Properties,3705,Өзгөчөлүктөр,3706,nautilus,po/ky.po
+%s Properties,3710,%s өзгөчөлүктөрү,3711,nautilus,po/ky.po
+nothing,3728,эчтеке,3729,nautilus,po/ky.po
+Contents:,3752,Мазмун:,3753,nautilus,po/ky.po
+Basic,3774,Негизги,3775,nautilus,po/ky.po
+Location:,3782,Дарек:,3783,nautilus,po/ky.po
+Volume:,3786,Көлөм:,3787,nautilus,po/ky.po
+Accessed:,3790,Акыркы кайрылуу:,3791,nautilus,po/ky.po
+Modified:,3794,Акыркы өзгөртүү:,3795,nautilus,po/ky.po
+Free space:,3798,Бош орун:,3799,nautilus,po/ky.po
+read,3815,окуу,3816,nautilus,po/ky.po
+create/delete,3819,жаратуу/өчүрүү,3820,nautilus,po/ky.po
+write,3823,жазуу,3824,nautilus,po/ky.po
+access,3827,кирүү,3828,nautilus,po/ky.po
+Access files,3835,Файлдарга кирүү,3836,nautilus,po/ky.po
+Create and delete files,3839,Файлдарды жаратуу жана өчүрүү,3840,nautilus,po/ky.po
+Read-only,3843,Окуу гана,3844,nautilus,po/ky.po
+Read and write,3847,Окуу жана жазуу,3848,nautilus,po/ky.po
+Access:,3851,Кирүү:,3852,nautilus,po/ky.po
+Folder access:,3855,Папкага кирүү:,3856,nautilus,po/ky.po
+File access:,3859,Файлга кирүү:,3860,nautilus,po/ky.po
+_Owner:,3863,_Ээ:,3864,nautilus,po/ky.po
+Owner:,3868,Ээ:,3869,nautilus,po/ky.po
+_Group:,3872,_Топ:,3873,nautilus,po/ky.po
+Group:,3877,Топ:,3878,nautilus,po/ky.po
+Others,3881,Калгандар,3882,nautilus,po/ky.po
+Execute:,3885,Аткаруу:,3886,nautilus,po/ky.po
+Allow _executing file as program,3889,Файлды программа катары аткар_ууга уруксат берүү,3890,nautilus,po/ky.po
+Others:,3903,Калгандар:,3904,nautilus,po/ky.po
+"You are not the owner, so you cannot change these permissions.",3907,"Сиз ээси болбогон үчүн, укуктарды өзгөртө албайсыз.",3908,nautilus,po/ky.po
+Open With,3930,Башка менен ачуу,3931,nautilus,po/ky.po
+File Type,3942,Файл түрү,3943,nautilus,po/ky.po
+Documents,3946,Документтер,3947,nautilus,po/ky.po
+Music,3950,Музыка,3951,nautilus,po/ky.po
+Picture,3954,Сүрөт,3955,nautilus,po/ky.po
+Illustration,3958,Иллюстрация,3959,nautilus,po/ky.po
+Text File,3966,Текст файлы,3967,nautilus,po/ky.po
+Select type,3970,Түрдү тандоо,3971,nautilus,po/ky.po
+Select,3974,Тандоо,3975,nautilus,po/ky.po
+Any,3978,Каалаган,3979,nautilus,po/ky.po
+Other Type...,3982,Башка түр...,3983,nautilus,po/ky.po
+Remove this criterion from the search,3986,Ушу критерийди издөөдөн өчүрүү,3987,nautilus,po/ky.po
+Current,3991,Азыркы,3992,nautilus,po/ky.po
+All Files,3995,Баардык файлдар,3996,nautilus,po/ky.po
+Add a new criterion to this search,3999,Ушу издөөгө жаңы критерий кошуу,4000,nautilus,po/ky.po
+Restore selected items to their original position,4017,Тандалган объекттерди баштапкы орундарына келтирүү,4018,nautilus,po/ky.po
+Select Items Matching,4040,Шаблон боюнча тандоо,4041,nautilus,po/ky.po
+_Pattern:,4044,_Шаблон:,4045,nautilus,po/ky.po
+Examples: ,4048,Мисалдар: ,4049,nautilus,po/ky.po
+_Folder:,4060,_Папка:,4061,nautilus,po/ky.po
+Content View,4074,Мазмунду көрүү,4075,nautilus,po/ky.po
+%'d folder selected,4089,%'d папка тандалды,4091,nautilus,po/ky.po
+%'d item selected,4112,%'d объект тандалды,4114,nautilus,po/ky.po
+Open With %s,4147,%s менен ачуу,4148,nautilus,po/ky.po
+_Select,4172,_Тандоо,4173,nautilus,po/ky.po
+New _Document,4199,Жаңы _документ,4200,nautilus,po/ky.po
+Open Wit_h,4204,Башка _программадан ачуу,4205,nautilus,po/ky.po
+New _Folder,4228,Жаңы п_апка,4229,nautilus,po/ky.po
+_Empty Document,4251,_Бош документ,4252,nautilus,po/ky.po
+Other _Application...,4286,_Башка тиркеме...,4287,nautilus,po/ky.po
+Open With Other _Application...,4297,Башка _программадан ачуу...,4298,nautilus,po/ky.po
+_Paste Into Folder,4337,Папкага к_оюу,4338,nautilus,po/ky.po
+Copy To...,4350,Копиялоо...,4351,nautilus,po/ky.po
+Move To...,4361,Көчүрүү...,4362,nautilus,po/ky.po
+Select I_tems Matching...,4377,Шаблон боюнча т_андоо...,4378,nautilus,po/ky.po
+_Invert Selection,4388,Тандоону _тескерилетүү,4389,nautilus,po/ky.po
+Ma_ke Link,4399,Ши_лтеме жасоо,4401,nautilus,po/ky.po
+Rename selected item,4418,Тандалган объекттин атын өзгөртүү,4419,nautilus,po/ky.po
+_Delete,4443,Өчү_рүү,4444,nautilus,po/ky.po
+_Restore,4454,_Калыбына келтирүү,4455,nautilus,po/ky.po
+_Undo,4460,Жокко чы_гаруу,4461,nautilus,po/ky.po
+Undo the last action,4465,Акыркы аракетти жокко чыгаруу,4466,nautilus,po/ky.po
+_Redo,4471,_Кайталоо,4472,nautilus,po/ky.po
+Reset View to _Defaults,4488,_Баштапкы көрүнүш,4489,nautilus,po/ky.po
+Sa_ve Search,4561,Издөөнү сак_тоо,4562,nautilus,po/ky.po
+Show _Hidden Files,4654,Катылга_ндарды көрсөтүү,4655,nautilus,po/ky.po
+_Scripts,4668,С_ценарийлер,4669,nautilus,po/ky.po
+_Connect,4744,_Туташуу,4745,nautilus,po/ky.po
+_Disconnect,4778,_Үзүү,4779,nautilus,po/ky.po
+_Delete Permanently,4835,Такырга _өчүрүү,4836,nautilus,po/ky.po
+_Open With %s,4854,%s менен _ачуу,4855,nautilus,po/ky.po
+Open in %'d New _Window,4859,Жаңы %'d _терезеден ачуу,4861,nautilus,po/ky.po
+Open in %'d New _Tab,4865,Жаңы %'d _салмадан ачуу,4867,nautilus,po/ky.po
+_New Tab,4903,Жаңы _салма,4904,nautilus,po/ky.po
+Move Tab _Left,4907,Салманы со_лго жылдыруу,4908,nautilus,po/ky.po
+Move Tab _Right,4911,Салманы _оңго жылдыруу,4912,nautilus,po/ky.po
+_Close Tab,4915,Салманы _жабуу,4916,nautilus,po/ky.po
+Searching...,4970,Издөө жүрүп жатат...,4971,nautilus,po/ky.po
+_Close,5030,_Жабуу,5031,nautilus,po/ky.po
+Close this folder,5035,Ушул папканы жабуу,5036,nautilus,po/ky.po
+Edit Nautilus preferences,5039,Nautilus параметрлерин оңдоо,5040,nautilus,po/ky.po
+Open _Parent,5044,_Энелик папканы ачуу,5045,nautilus,po/ky.po
+Open the parent folder,5048,Энелик папканы ачуу,5049,nautilus,po/ky.po
+_Reload,5059,_Жаңыртуу,5060,nautilus,po/ky.po
+Reload the current location,5064,Кезектеги даректи жаңыртуу,5065,nautilus,po/ky.po
+_All Topics,5070,_Бардык темалар,5071,nautilus,po/ky.po
+Display Nautilus help,5075,Nautilus жардамын көрсөтүү,5076,nautilus,po/ky.po
+Search for files,5081,Файлдарды издөө,5082,nautilus,po/ky.po
+Sort files and folders,5093,Файл жана папкаларды сорттоо,5094,nautilus,po/ky.po
+Find a lost file,5104,Жоголгон файлды табуу,5105,nautilus,po/ky.po
+Share and transfer files,5115,Файлдарды берүү жана бөлүшүү,5116,nautilus,po/ky.po
+_About,5127,Программа _жөнүндө,5128,nautilus,po/ky.po
+Zoom _In,5138,_Чоңойтуу,5139,nautilus,po/ky.po
+Increase the view size,5143,Көрүнүшүн чоңойтуу,5144,nautilus,po/ky.po
+Zoom _Out,5149,_Кичирейтүү,5150,nautilus,po/ky.po
+Normal Si_ze,5160,Жө_нөкөй өлчөмдө,5161,nautilus,po/ky.po
+Connect to _Server...,5171,_Серверге туташуу...,5172,nautilus,po/ky.po
+_Home,5182,_Үйдүк папка,5183,nautilus,po/ky.po
+New _Tab,5191,Жаңы _салма,5192,nautilus,po/ky.po
+Close _All Windows,5200,Терезелерди ж_абуу,5201,nautilus,po/ky.po
+_Back,5209,А_ртка,5210,nautilus,po/ky.po
+Go to the previous visited location,5213,Барган даректин абалкысына өтүү,5214,nautilus,po/ky.po
+_Forward,5218,А_лга,5219,nautilus,po/ky.po
+Go to the next visited location,5222,Барган даректин кийинкисине өтүү,5223,nautilus,po/ky.po
+Enter _Location...,5228,_Дарек киргиз...,5229,nautilus,po/ky.po
+_Previous Tab,5260,_Мурунку салма,5261,nautilus,po/ky.po
+_Next Tab,5268,_Кийинки салма,5269,nautilus,po/ky.po
+_Show Sidebar,5286,Каптал панелин _көрсөтүү,5287,nautilus,po/ky.po
+_Search for Files...,5298,Файлдарды _издөө...,5299,nautilus,po/ky.po
+Search documents and folders by name,5303,Документтерди жана каталогдорду аты боюнча издөө,5304,nautilus,po/ky.po
+_Up,5321,_Жогоруга,5322,nautilus,po/ky.po
+Audio CD,5325,Аудио CD,5326,nautilus,po/ky.po
+Audio DVD,5329,Аудио DVD,5330,nautilus,po/ky.po
+Video DVD,5333,Видео DVD,5334,nautilus,po/ky.po
+Video CD,5337,Видео CD,5338,nautilus,po/ky.po
+Super Video CD,5341,Супервидео CD,5342,nautilus,po/ky.po
+Photo CD,5345,Фотосүрөттүү CD,5346,nautilus,po/ky.po
+Detected as “%s”,5367,“%s” катары таанылды,5368,nautilus,po/ky.po
+Open with:,5379,Жардамы менен ачуу:,5380,nautilus,po/ky.po
+Front and Back,38,Алды жана Арты,39,simple-scan,po/ky.po
+Front,43,Алды,44,simple-scan,po/ky.po
+Back,48,Арты,49,simple-scan,po/ky.po
+Photo,95,Фото,96,simple-scan,po/ky.po
+Rotate _Left,116,_Солго тегеретүү,117,simple-scan,po/ky.po
+Rotate _Right,121,_Оңго тегеретүү,122,simple-scan,po/ky.po
+Move Left,176,Солго жылуу,177,simple-scan,po/ky.po
+Move Right,181,Оңго жылуу,182,simple-scan,po/ky.po
+New,200,Жаңы,201,simple-scan,po/ky.po
+Save document to a file,215,Документти файлга сактоо,216,simple-scan,po/ky.po
+Save,219,Сактоо,220,simple-scan,po/ky.po
+Rotate Left,238,Солго тегеретүү,239,simple-scan,po/ky.po
+Rotate Right,248,Оңго тегеретүү,249,simple-scan,po/ky.po
+Crop the selected page,252,Тандалган баракты кесүү,253,simple-scan,po/ky.po
+Crop,256,Кесүү,257,simple-scan,po/ky.po
+Page Size:,286,Барактын чоңдугу,287,simple-scan,po/ky.po
+Stopped,27,Токтотулган,28,totem,po/ky.po
+Paused,31,Паузаланды,32,totem,po/ky.po
+Playing,35,Ойнотуу,36,totem,po/ky.po
+Playing a movie,40,Фильмди ойнотуу,41,totem,po/ky.po
+No URI to play,44,Ойнотуу үчүн URI жок,45,totem,po/ky.po
+Totem Movie Player,49,Totem видеоойноткучу,50,totem,po/ky.po
+"_Open with \""%s\""",57,«%s» менен _ачуу,58,totem,po/ky.po
+An error occurred,61,Ката чыкты,62,totem,po/ky.po
+No playlist or playlist empty,65,Ойнотуу тизмеси жок же ал бош,66,totem,po/ky.po
+Movie browser plugin,69,Фильмдин браузер плагини,70,totem,po/ky.po
+Leave Fullscreen,81,Толук экран режиминен чыгуу,82,totem,po/ky.po
+Time:,85,Убакыт:,86,totem,po/ky.po
+Repeat mode,131,Кайталоо режими,132,totem,po/ky.po
+Shuffle mode,135,Иретсиз түрдө,136,totem,po/ky.po
+Subtitle font,169,Субтитр шрифти,170,totem,po/ky.po
+Subtitle encoding,177,Субтитр кодировкасы,178,totem,po/ky.po
+_Remove,237,_Өчүрүү,238,totem,po/ky.po
+Add...,261,Кошуу…,262,totem,po/ky.po
+Remove,265,Өчүрүү,266,totem,po/ky.po
+Stereo,297,Стерео,298,totem,po/ky.po
+4-channel,301,4-каналдуу,302,totem,po/ky.po
+4.1-channel,305,4.1-каналдуу,306,totem,po/ky.po
+5.0-channel,309,5.0-каналдуу,310,totem,po/ky.po
+5.1-channel,313,5.1-каналдуу,314,totem,po/ky.po
+Totem Preferences,321,Totem параметрлери,322,totem,po/ky.po
+_Font:,341,_Шрифт:,342,totem,po/ky.po
+_Encoding:,345,_Кодировка:,346,totem,po/ky.po
+General,357,Жалпы,358,totem,po/ky.po
+Video,379,Видео,380,totem,po/ky.po
+Video or Audio,383,Видео же аудио,384,totem,po/ky.po
+Visual Effects,387,Көрүнөө эффекттер,388,totem,po/ky.po
+Color Balance,403,Түс балансы,404,totem,po/ky.po
+_Brightness:,407,Ачык _түстүүлүк:,408,totem,po/ky.po
+Co_ntrast:,411,_Карама каршылык:,412,totem,po/ky.po
+Sat_uration:,415,Ка_ныккандык:,416,totem,po/ky.po
+_Hue:,419,Тү_с:,420,totem,po/ky.po
+Audio,436,Аудио,437,totem,po/ky.po
+Title:,440,Ат:,441,totem,po/ky.po
+Artist:,444,Аткаруучу:,445,totem,po/ky.po
+Duration:,448,Узундук:,449,totem,po/ky.po
+Year:,452,Жыл:,453,totem,po/ky.po
+Album:,456,Альбом:,457,totem,po/ky.po
+Comment:,460,Комментарий:,461,totem,po/ky.po
+Container:,464,Контейнер:,465,totem,po/ky.po
+Dimensions:,468,Өлчөм:,469,totem,po/ky.po
+Codec:,472,Кодек:,473,totem,po/ky.po
+Framerate:,476,Кадр жыштыгы:,477,totem,po/ky.po
+Bitrate:,480,Агым ылдамдыгы:,481,totem,po/ky.po
+Sample rate:,484,Дискретизация жыштыгы:,485,totem,po/ky.po
+Channels:,488,Каналдар:,489,totem,po/ky.po
+Videos,494,Видео,495,totem,po/ky.po
+_Open,506,_Ачуу,507,totem,po/ky.po
+_Fullscreen,514,_Толук экран,515,totem,po/ky.po
+Prefere_nces,518,_Параметрлер,519,totem,po/ky.po
+_Quit,530,_Чыгуу,531,totem,po/ky.po
+_Movie,534,_Фильм,535,totem,po/ky.po
+_Eject,538,_Чыгаруу,539,totem,po/ky.po
+_Properties,546,_Өзгөчөлүктөр,547,totem,po/ky.po
+Play / P_ause,554,Ойнотуу / П_ауза,555,totem,po/ky.po
+_Edit,562,_Оңдоо,563,totem,po/ky.po
+_Clear Playlist,566,Ойнотуу тизме_син тазалоо,567,totem,po/ky.po
+Clear the playlist,570,Ойнотуу тизмесин тазалоо,571,totem,po/ky.po
+Plugins...,574,Плагиндер…,575,totem,po/ky.po
+_View,582,_Көрүнүш,583,totem,po/ky.po
+Fit Window to Movie,586,Терезе өлчөмү,587,totem,po/ky.po
+_Resize 1:2,590,_Масштаб 1:2,591,totem,po/ky.po
+Resize _1:1,598,Масштаб _1:1,599,totem,po/ky.po
+Resize _2:1,606,Масштаб _2:1,607,totem,po/ky.po
+_Go,626,_Өтүш,627,totem,po/ky.po
+_DVD Menu,630,_DVD менюсу,631,totem,po/ky.po
+_Title Menu,638,_Эпизод менюсу,639,totem,po/ky.po
+A_udio Menu,646,А_удио менюсу,647,totem,po/ky.po
+_Sound,686,_Үн,687,totem,po/ky.po
+_Help,706,_Жардам,707,totem,po/ky.po
+_Contents,710,_Мазмун,711,totem,po/ky.po
+_About,718,_Бул жөнүндө,719,totem,po/ky.po
+Auto,743,Авто,744,totem,po/ky.po
+Square,751,Чарчы,752,totem,po/ky.po
+4:3 (TV),759,4:3 (ТВ),760,totem,po/ky.po
+16:9 (Widescreen),767,16:9 (жазы экран),768,totem,po/ky.po
+S_ubtitles,783,С_убтитрлар,784,totem,po/ky.po
+_Languages,787,_Тилдер,788,totem,po/ky.po
+Zoom In,791,Чоңойтуу,792,totem,po/ky.po
+Zoom in,795,Чоңойтуу,796,totem,po/ky.po
+Surround,901,Көлөмдүү,902,totem,po/ky.po
+Mono,905,Моно,906,totem,po/ky.po
+All Files,959,Бүт файлдар,960,totem,po/ky.po
+File Format,971,Файл форматы,972,totem,po/ky.po
+Extension(s),975,Кеңейтме(лер),976,totem,po/ky.po
+FILE,1000,ФАЙЛ,1001,totem,po/ky.po
+ID,1008,ИДЕНТИФИКАТОР,1009,totem,po/ky.po
+Unknown,1054,Белгисиз,1055,totem,po/ky.po
+N/A,1060,Ж,1061,totem,po/ky.po
+N/A,1066,Ж,1067,totem,po/ky.po
+N/A,1071,Ж,1072,totem,po/ky.po
+N/A,1077,Ж,1078,totem,po/ky.po
+N/A,1082,Ж,1083,totem,po/ky.po
+N/A,1088,Ж,1089,totem,po/ky.po
+0 Hz,1093,0 Гц,1094,totem,po/ky.po
+0 Channels,1098,0 канал,1099,totem,po/ky.po
+%d hour,1103,%d саат,1105,totem,po/ky.po
+%d minute,1109,%d мүнөт,1111,totem,po/ky.po
+%d second,1115,%d секунда,1117,totem,po/ky.po
+0 seconds,1135,0 секунда,1136,totem,po/ky.po
+Unknown video,1153,Белгисиз видео,1154,totem,po/ky.po
+Cancel,1161,Айнуу,1162,totem,po/ky.po
+No File,1165,Файл жок,1166,totem,po/ky.po
+None,1213,Жок,1214,totem,po/ky.po
+Auto,1219,Авто,1220,totem,po/ky.po
+Pause,1252,Пауза,1253,totem,po/ky.po
+Play,1257,Ойнотуу,1258,totem,po/ky.po
+Play / Pause,1279,Ойнотуу / Пауза,1280,totem,po/ky.po
+Fullscreen,1288,Толук экран,1289,totem,po/ky.po
+Open Location...,1300,Дарек ачуу…,1301,totem,po/ky.po
+Next,1312,Кийинки,1313,totem,po/ky.po
+Previous,1316,Абалкы,1317,totem,po/ky.po
+Volume Up,1328,Катуулукту чоңойтуу,1329,totem,po/ky.po
+Volume Down,1332,Катуулукту кичирейтүү,1333,totem,po/ky.po
+Mute sound,1336,Үндү басаңдатуу,1337,totem,po/ky.po
+Toggle Fullscreen,1340,Толук экранга которуу,1341,totem,po/ky.po
+Quit,1348,Чыгуу,1349,totem,po/ky.po
+Playlist,1416,Ойнотуу тизмеси,1417,totem,po/ky.po
+Playlist error,1425,Ойнотуу тизмесинин катасы,1426,totem,po/ky.po
+Preferences,1429,Параметрлер,1430,totem,po/ky.po
+Select Subtitle Font,1433,Субтитр шрифтин тандоо,1434,totem,po/ky.po
+Audio/Video,1437,Аудио/Видео,1438,totem,po/ky.po
+N/A,1441,Ж,1442,totem,po/ky.po
+N/A,1448,Ж,1449,totem,po/ky.po
+N/A,1473,Ж,1474,totem,po/ky.po
+N/A,1478,Ж,1479,totem,po/ky.po
+Buffering,1503,Буферизация,1504,totem,po/ky.po
+Current Locale,1525,Кезектеги локаль,1526,totem,po/ky.po
+Arabic,1530,Араб,1531,totem,po/ky.po
+Armenian,1534,Армян,1535,totem,po/ky.po
+Celtic,1543,Кельт,1544,totem,po/ky.po
+Cyrillic,1568,Кириллица,1569,totem,po/ky.po
+Greek,1585,Грек,1586,totem,po/ky.po
+Hebrew,1598,Иврит,1599,totem,po/ky.po
+Hindi,1606,Хинди,1607,totem,po/ky.po
+Japanese,1615,Жапон,1616,totem,po/ky.po
+Korean,1620,Корей,1621,totem,po/ky.po
+Thai,1640,Тай,1641,totem,po/ky.po
+Turkish,1645,Түрк,1646,totem,po/ky.po
+Unicode,1651,Юникод,1652,totem,po/ky.po
+Western,1657,Батыштык,1658,totem,po/ky.po
+Vietnamese,1662,Вьетнам,1663,totem,po/ky.po
+All files,1666,Бүт файлдар,1667,totem,po/ky.po
+Supported files,1670,Колдолгон файлдар,1671,totem,po/ky.po
+Audio files,1674,Аудиофайлдар,1675,totem,po/ky.po
+Video files,1678,Видеофайлдар,1679,totem,po/ky.po
+Subtitle files,1682,Субтитр файлдары,1683,totem,po/ky.po
+Filename,1713,Файл,1714,totem,po/ky.po
+Resolution,1717,Чечим,1718,totem,po/ky.po
+Duration,1721,Узундук,1722,totem,po/ky.po
+Save,1907,Сактоо,1908,totem,po/ky.po
+Add to Playlist,1962,Ойнотуу тизмесине кошуу,1963,totem,po/ky.po
+Copy Location,1966,Даректи копиялоо,1967,totem,po/ky.po
+Browse,1970,Сереп,1971,totem,po/ky.po
+Search,1974,Издөө,1975,totem,po/ky.po
+Browse Error,1978,Сереп катасы,1979,totem,po/ky.po
+Search Error,1982,Издөө катасы,1983,totem,po/ky.po
+Subtitles,2072,Субтитрлар,2073,totem,po/ky.po
+Format,2078,Формат,2079,totem,po/ky.po
+Rating,2084,Баа,2085,totem,po/ky.po
+Subtitle language,2112,Субтитр тили,2113,totem,po/ky.po
+Properties,2128,Өзгөчөлүктөр,2129,totem,po/ky.po
+Recent files,2187,Жакындагы файлдар,2188,totem,po/ky.po
+Save Copy,2211,Копияны сактоо,2212,totem,po/ky.po
+Save a Copy...,2219,Копияны сактоо…,2220,totem,po/ky.po
+Save a Copy,2227,Копияны сактоо,2228,totem,po/ky.po
+Movie,2233,Фильм,2234,totem,po/ky.po
+Save Gallery,2284,Кадр сериясын сактоо,2285,totem,po/ky.po
+Creating Gallery...,2298,Кадр сериясын жаратуу…,2299,totem,po/ky.po
+Take _Screenshot,2317,_Кадрды сактоо,2318,totem,po/ky.po
+Take a screenshot,2321,Экрандан кадрды сактоо,2322,totem,po/ky.po
+Create Screenshot _Gallery...,2325,_Кадр сериясын жасоо…,2326,totem,po/ky.po
+Skip To,2334,Өтүү,2335,totem,po/ky.po
+_Skip to:,2342,_Өтүү:,2343,totem,po/ky.po
+second,2348,секунда,2350,totem,po/ky.po
+_Skip To...,2362,_Өтүү…,2363,totem,po/ky.po
+Install <string/>,31,Орнотуу <string/>,32,yelp,po/ky.po
+Invalid compressed data,36,Туура эмес кысылган маалымат,37,yelp,po/ky.po
+Not enough memory,41,Эс жетишсиз,42,yelp,po/ky.po
+The page ‘%s’ was not found in the document ‘%s’.,48,‘%2$s’ документинен ‘%1$s’ барагы табылган жок.,49,yelp,po/ky.po
+The file does not exist.,54,Файл табылган жок.,55,yelp,po/ky.po
+The file ‘%s’ does not exist.,60,‘%s’ файлы табылган жок.,61,yelp,po/ky.po
+The file ‘%s’ could not be parsed because it is not a well-formed XML document.,65,‘%s’ файлын ажыратып окууга болбоду. Бул файл жок же туура эмес XML файл.,68,yelp,po/ky.po
+The file ‘%s’ could not be parsed because one or more of its included files is not a well-formed XML document.,73,"‘%s’ файлын ажыратып окууга болбоду, себеби ал камтыган кээ бир файлдар, туура эмес XML файл.",76,yelp,po/ky.po
+Unknown,81,Белгисиз,82,yelp,po/ky.po
+The requested page was not found in the document ‘%s’.,87,Талап кылынган барак ‘%s’ документинен табылган жок.,88,yelp,po/ky.po
+Indexed,91,Индекстелген,92,yelp,po/ky.po
+Whether the document content has been indexed,95,Документтин маалыматы индекстелгенби,96,yelp,po/ky.po
+Document URI,99,Документтин URI си,100,yelp,po/ky.po
+The URI which identifies the document,103,Документти чагылдырган URI,104,yelp,po/ky.po
+Search results for “%s”,108,“%s” үчүн издөө жыйынтыгы,109,yelp,po/ky.po
+No matching help pages found in “%s”.,113,“%s” ичинде жардам барактары табылган жок.,114,yelp,po/ky.po
+No matching help pages found.,117,Туура келген барактар табылган жок.,118,yelp,po/ky.po
+An unknown error occurred.,122,Белгисиз ката пайда болду.,123,yelp,po/ky.po
+All Help Documents,126,Бардык жардам документтери,127,yelp,po/ky.po
+The file ‘%s’ could not be parsed because it is not a well-formed info page.,131,"‘%s’ файлын ажыратып окууга болбоду, себеби ал, туура эмес XML файл.",133,yelp,po/ky.po
+View,136,Кароо,137,yelp,po/ky.po
+A YelpView instance to control,140,Башкаруу үчүн YelpView экземпляры,141,yelp,po/ky.po
+Bookmarks,144,Эсбелгилер,145,yelp,po/ky.po
+A YelpBookmarks implementation instance,148,YelpBookmarks имплементация экземпляры,149,yelp,po/ky.po
+Enable Search,152,Издөөнү ишке киргизүү,153,yelp,po/ky.po
+Whether the location entry can be used as a search field,156,"Жайгашкан жери, издөө талаасы катар колдонулсунбу",157,yelp,po/ky.po
+Search...,160,Издөө...,161,yelp,po/ky.po
+Clear the search text,164,Издөө текстин тазалоо,165,yelp,po/ky.po
+Bookmark this page,168,Бул баракты эсбелги катары сактоо,169,yelp,po/ky.po
+Remove bookmark,172,Эсбелгин жоготуу,173,yelp,po/ky.po
+Search for “%s”,177,“%s” текстин издөө,178,yelp,po/ky.po
+Loading,181,Жүктөө,182,yelp,po/ky.po
+The directory ‘%s’ does not exist.,186,‘%s’ каталогу жок.,187,yelp,po/ky.po
+A GtkSettings object to get settings from,194,Параметрлерди алуу үчүн GtkSettings объекти,195,yelp,po/ky.po
+A GtkIconTheme object to get icons from,202,Сүрөтбелгилерди алуу үчүн GtkIconTheme объекти,203,yelp,po/ky.po
+Font Adjustment,206,Ариптерди тууралоо,207,yelp,po/ky.po
+A size adjustment to add to font sizes,210,Алиптердин өлчөмүнө тууралоо үчүн кошулуучу  өлчөм,211,yelp,po/ky.po
+Show Text Cursor,214,Тексттик курсорду көрсөтүү,215,yelp,po/ky.po
+Show the text cursor or caret for accessible navigation,218,Навигация үчүн документте курсорду же каретканы көрсөтүү,219,yelp,po/ky.po
+Editor Mode,222,Оңдоо режими,223,yelp,po/ky.po
+Enable features useful to editors,226,Терүүчүлөр үчүн пайдалуу мүмкунчүлүктөрдү иштетүү,227,yelp,po/ky.po
+Database filename,230,Маалымат базасынын файл аты,231,yelp,po/ky.po
+The filename of the sqlite database,234,Sqlite базасынын аты,235,yelp,po/ky.po
+XSLT Stylesheet,238,XSLT стилдеринин таблицасы,239,yelp,po/ky.po
+The location of the XSLT stylesheet,242,XSLT стилдик таблицасынын жайгашкан жери,243,yelp,po/ky.po
+The XSLT stylesheet ‘%s’ is either missing or not valid.,250,‘%s’ XSLT стиль файлы жок же туура эмес.,251,yelp,po/ky.po
+No href attribute found on yelp:document\n,254,yelp:document ичинен href атрибуту табылбады\n,255,yelp,po/ky.po
+Out of memory,258,Эс жетишсиз,259,yelp,po/ky.po
+_Print...,262,_Басуу...,263,yelp,po/ky.po
+_Back,266,_Артка,267,yelp,po/ky.po
+_Forward,270,А_лга,271,yelp,po/ky.po
+_Previous Page,274,_Мурунку барак,275,yelp,po/ky.po
+_Next Page,278,_Кийинки барак,279,yelp,po/ky.po
+A YelpUri with the current location,286,YelpUri учурдагы жайгашкан жер менен,287,yelp,po/ky.po
+Loading State,290,Жүктөө абалы,291,yelp,po/ky.po
+The loading state of the view,294,Көрүнүшүнүн абалын жүктөө,295,yelp,po/ky.po
+Page ID,298,Барактын ИДси,299,yelp,po/ky.po
+The ID of the root page of the page being viewed,302,Каралып жаткан барактын негизги барагынын идентификатору,303,yelp,po/ky.po
+Root Title,306,Негизги титул,307,yelp,po/ky.po
+The title of the root page of the page being viewed,310,Каралып жаткан барактын негизги барагынын титулу,311,yelp,po/ky.po
+Page Title,314,Барактын титулу,315,yelp,po/ky.po
+The title of the page being viewed,318,Каралып жаткан барактын титулу,319,yelp,po/ky.po
+Page Description,322,Барак жөнүндө маалымат,323,yelp,po/ky.po
+The description of the page being viewed,326,Каралып жаткан барактын аныктамасы,327,yelp,po/ky.po
+Page Icon,330,Барактын сүрөтбелгиси,331,yelp,po/ky.po
+The icon of the page being viewed,334,Каралып жаткан барактын сүрөтбелгиси,335,yelp,po/ky.po
+You do not have PackageKit. Package install links require PackageKit.,338,PackageKit орнотулган эмес. Пакетти орнотуу шилтемеси PackageKit ти керектейт.,339,yelp,po/ky.po
+Save Image,343,Сүрөттү сактоо,344,yelp,po/ky.po
+Save Code,347,Кодду сактоо,348,yelp,po/ky.po
+Send email to %s,352,%s ке кат жөнөтүү,353,yelp,po/ky.po
+_Install Packages,356,Пакеттерди _орнотуу,357,yelp,po/ky.po
+_Open Link,360,_Шилтеме ачуу,361,yelp,po/ky.po
+_Copy Link Location,364,Даректи _көчүрүү ,365,yelp,po/ky.po
+Open Link in New _Window,368,Шилтемени _жаңы терезеде ачуу,369,yelp,po/ky.po
+_Save Image As...,372,Сүрөттү _жаңыча сактоо...,373,yelp,po/ky.po
+_Save Video As...,376,_Видеону жаңыча сактоо...,377,yelp,po/ky.po
+S_end Image To...,380,_Сүрөт жөнөтүү...,381,yelp,po/ky.po
+S_end Video To...,384,_Видео жөнөтүү...,385,yelp,po/ky.po
+_Copy Text,388,Тексти _көчүрүү,389,yelp,po/ky.po
+C_opy Code Block,392,_Код блогун көчүрүү,393,yelp,po/ky.po
+Save Code _Block As...,396,Код _блогун жаңыча сактоо...,397,yelp,po/ky.po
+See all search results for “%s”,401,“%s” үчүн бардык издөө жыйынтыктарын көрүү,402,yelp,po/ky.po
+Could not load a document for ‘%s’,406,‘%s’ үчүн документ жүктөөгө болбоду,407,yelp,po/ky.po
+Could not load a document,411,Документти жүктөөгө болбоду,412,yelp,po/ky.po
+Document Not Found,415,Документ табылган жок,416,yelp,po/ky.po
+Page Not Found,419,Барак табылган жок,420,yelp,po/ky.po
+Cannot Read,423,Окууга болбоду,424,yelp,po/ky.po
+Unknown Error,427,Белгисиз ката,428,yelp,po/ky.po
+Search for packages containing this document.,431,Бул документти камтыган пакеттерди издөө,432,yelp,po/ky.po
+The URI ‘%s’ does not point to a valid page.,436,‘%s’ URI си туура баракты көрсөткөн жок.,437,yelp,po/ky.po
+The URI does not point to a valid page.,441,URI туура эмес баракка көрсөтүүдө.,442,yelp,po/ky.po
+The URI ‘%s’ could not be parsed.,446,URI ‘%s’ ажыратылып окулган жок.,447,yelp,po/ky.po
+Turn on editor mode,450,Оңдоо режимине өтүү,451,yelp,po/ky.po
+_Larger Text,454,Тексти _чоңойтуу,455,yelp,po/ky.po
+Increase the size of the text,458,Тексттин өлчөмүн көбөйтүү,459,yelp,po/ky.po
+_Smaller Text,462,Тексти _кичирейтүү,463,yelp,po/ky.po
+Decrease the size of the text,466,Текстин өлчөмүн азайтуу,467,yelp,po/ky.po
+Help,471,Жардам,472,yelp,po/ky.po
+Show Text _Cursor,475,_Курсорду көрсөтүү,476,yelp,po/ky.po
+_Page,479,_Барак,480,yelp,po/ky.po
+_View,483,_Кароо,484,yelp,po/ky.po
+_Go,487,_Өтүү,488,yelp,po/ky.po
+_Bookmarks,491,_Эсбелгилер,492,yelp,po/ky.po
+_New Window,495,_Жаңы терезе,496,yelp,po/ky.po
+_Close,499,_Жабуу,500,yelp,po/ky.po
+_All Documents,503,_Бардык документтер,504,yelp,po/ky.po
+_Add Bookmark,507,Эсбелги _кошуу,508,yelp,po/ky.po
+_Remove Bookmark,511,Эсбелгини _жоготуу,512,yelp,po/ky.po
+Find in Page...,515,Барак _ичинен издөө...,516,yelp,po/ky.po
+Open Location,519,Дарек боюнча ачуу,520,yelp,po/ky.po
+Application,523,Тиркемелер,524,yelp,po/ky.po
+A YelpApplication instance that controls this window,527,Бул терезени башкарган YelpApplication иштемеси,528,yelp,po/ky.po
+Read Link _Later,531,Шилтемени _кечирээк окуу,532,yelp,po/ky.po
+Find:,535,Табуу:,536,yelp,po/ky.po
+Read Later,539,Кечирээк окуу,540,yelp,po/ky.po
+%i match,544,%i дал келүү,546,yelp,po/ky.po
+No matches,549,Дал келгени жок,550,yelp,po/ky.po
+Get help with GNOME,553,GNOME чөйрөсүнүн жардамын алуу,554,yelp,po/ky.po

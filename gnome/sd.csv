@@ -1,0 +1,54 @@
+_Authorize,23,_اجازت ڏيو,24,simple-scan,po/sd.po
+_Password:,33,_ڳجھو لفظ:,34,simple-scan,po/sd.po
+Front and Back,38,اڳيون ۽ پويون,39,simple-scan,po/sd.po
+Front,43,اڳيون,44,simple-scan,po/sd.po
+Back,48,پوئتي,49,simple-scan,po/sd.po
+Simple Scan,54,سادو اسڪين,55,simple-scan,po/sd.po
+_Document,59,_دستاويز,60,simple-scan,po/sd.po
+Sc_an,64,_اسڪين,65,simple-scan,po/sd.po
+Single _Page,70,هڪڙو _صفحو,71,simple-scan,po/sd.po
+_Stop Scan,87,اسڪين _روڪيو,88,simple-scan,po/sd.po
+Text,91,تحرير,92,simple-scan,po/sd.po
+Photo,95,فوٽو,96,simple-scan,po/sd.po
+_Email,106,_ايميل,107,simple-scan,po/sd.po
+_Page,111,_صفحو,112,simple-scan,po/sd.po
+Rotate _Left,116,_کاٻي ڦيرايو,117,simple-scan,po/sd.po
+Rotate _Right,121,_ساڄي ڦيرايو,122,simple-scan,po/sd.po
+_Crop,126,_ڪاٽيو,127,simple-scan,po/sd.po
+_None,131,_ڪوبه نه,132,simple-scan,po/sd.po
+_Custom,166,_مرضي مطابق,167,simple-scan,po/sd.po
+Move Left,176,کاٻي چوريو,177,simple-scan,po/sd.po
+Move Right,181,ساڄي چوريو,182,simple-scan,po/sd.po
+_Help,186,_مدد,187,simple-scan,po/sd.po
+_Contents,191,_مواد,192,simple-scan,po/sd.po
+Start a new document,196,نئون دستاويز بنايو,197,simple-scan,po/sd.po
+New,200,نئون,201,simple-scan,po/sd.po
+Scan a single page from the scanner,205,اسڪينر مان هڪڙو صفحو اسڪين ڪريو,206,simple-scan,po/sd.po
+Scan,210,اسڪين,211,simple-scan,po/sd.po
+Save document to a file,215,دستاويز کي فائل ۾ سانڍيو,216,simple-scan,po/sd.po
+Save,219,سانڍيو,220,simple-scan,po/sd.po
+Stop the current scan,224,هلندڙ اسڪين روڪيو,225,simple-scan,po/sd.po
+Stop,228,روڪيو,229,simple-scan,po/sd.po
+Rotate Left,238,کاٻي ڦيرايو,239,simple-scan,po/sd.po
+Rotate Right,248,ساڄي ڦيرايو,249,simple-scan,po/sd.po
+Crop the selected page,252,چونڊيل صفحي کي ڪاٽيو,253,simple-scan,po/sd.po
+Crop,256,ڪاٽيو,257,simple-scan,po/sd.po
+Preferences,261,ترجيحون,262,simple-scan,po/sd.po
+Scan Side:,281,پاسو اسڪين ڪريو:,282,simple-scan,po/sd.po
+Page Size:,286,صفحي جي ماپ:,287,simple-scan,po/sd.po
+Scan Documents,314,دستاويزات اسڪين ڪريو,315,simple-scan,po/sd.po
+Failed to scan,374,اسڪين ڪرڻ ۾ ناڪامي,375,simple-scan,po/sd.po
+Save As...,420,هينئن سانڍيو...,421,simple-scan,po/sd.po
+Scanned Document.pdf,433,اسڪين دستاويز.pdf,434,simple-scan,po/sd.po
+Image Files,438,شڪل فائلون,439,simple-scan,po/sd.po
+All Files,443,تمام فائلون,444,simple-scan,po/sd.po
+Failed to save file,479,فائل سانڍڻ ۾ ناڪامي,480,simple-scan,po/sd.po
+Save current document?,489,هاڻوڪو دستاويز سانڍيو؟,490,simple-scan,po/sd.po
+Discard Changes,494,تبديليون منسوخ ڪريو,495,simple-scan,po/sd.po
+Unable to open help file,529,سهڪاري فائل ڀرڻ ۾ ناڪام,530,simple-scan,po/sd.po
+About Simple Scan,551,سادي اسڪين بابت,552,simple-scan,po/sd.po
+Simple document scanning tool,556,سادو دستاويز اسڪين ڪندڙ اوزار,557,simple-scan,po/sd.po
+Save document before quitting?,567,نڪرڻ کان پهرين دستاويز سانڍيو؟,568,simple-scan,po/sd.po
+Quit without Saving,572,سانڍڻ بغير نڪرو,573,simple-scan,po/sd.po
+Change _Scanner,707,اسڪينر _تبديل ڪريو,708,simple-scan,po/sd.po
+Automatic,717,پاڻمرادو,718,simple-scan,po/sd.po

@@ -1,0 +1,1039 @@
+Browse and organize your bookmarks,18,Wáròyìn kí o sì ṣààtò àwọn àmì-ìwé rẹ,19,epiphany,po/yo.po
+Epiphany Web Bookmarks,22,Àwọn Àmì-ìwé Wẹ́ẹ̀bù Epiphany,23,epiphany,po/yo.po
+Web Bookmarks,26,Àwọn Àmì-ìwé Wẹ́ẹ̀bù,27,epiphany,po/yo.po
+Search the web,30,Wá wẹ́ẹ̀bù náà,31,epiphany,po/yo.po
+Browse the web,50,Wáròyìn wẹ́ẹ̀bù náà,51,epiphany,po/yo.po
+Epiphany Web Browser,59,Awáròyìn Wẹ́ẹ̀bù Epiphany,60,epiphany,po/yo.po
+Web Browser,63,Awáròyìn Wẹ́ẹ̀bù,64,epiphany,po/yo.po
+Certificate _Fields,67,Àwon Ààyè Wúnrẹ̀n_Ìwé-ẹ̀rí,68,epiphany,po/yo.po
+Certificate _Hierarchy,71,Ààtò-ìgasí _Ìwé-ẹ̀rí,72,epiphany,po/yo.po
+Common Name:,75,Orúkọ Tó Wọ́pọ̀:,76,epiphany,po/yo.po
+Details,79,Àwọn àlàyé,80,epiphany,po/yo.po
+Expires On:,83,Á Parí Iṣẹ́ Ní:,84,epiphany,po/yo.po
+Field _Value,87,Fálù _Ààyè Wúnrẹ̀n,88,epiphany,po/yo.po
+General,96,Gbogbogbò,97,epiphany,po/yo.po
+Issued On:,105,Ìpínfúnni Ní:,106,epiphany,po/yo.po
+MD5 Fingerprint:,114,Ìtẹ̀-ìka ọwọ́ MD5:,115,epiphany,po/yo.po
+Organization:,118,Àjọ:,119,epiphany,po/yo.po
+Organizational Unit:,122,       Àjọ:,123,epiphany,po/yo.po
+SHA1 Fingerprint:,126,Ìtẹ̀-ìka ọwọ́ SHA1:,127,epiphany,po/yo.po
+Serial Number:,130,Nọ́ńbà Atẹ̀léra:,131,epiphany,po/yo.po
+<b>_Automatic</b>,139,<b>_Aládàáṣe</b>,140,epiphany,po/yo.po
+<b>_Use a different encoding:</b>,143,<b>_Lo ìyítumọ̀ mìíràn:</b>,144,epiphany,po/yo.po
+Cookies,151,Àwọn kúkì,152,epiphany,po/yo.po
+Passwords,155,Àwọn Àmì-àṣírí,156,epiphany,po/yo.po
+Personal Data,159,Àkójọpọ̀-ẹ̀rì Ara-ẹni,160,epiphany,po/yo.po
+Text Encoding,163,Ìyítumọ̀ Àyọkà,164,epiphany,po/yo.po
+Use the encoding specified by the document,167,Lo ìyítumọ̀ tí àkọsílẹ̀ náà sọ ní pàtó,168,epiphany,po/yo.po
+_Password:,192,_Àmì-àṣírí:,193,epiphany,po/yo.po
+Add Language,211,Ṣàfikún Èdè,212,epiphany,po/yo.po
+Allow popup _windows,215,Fàyè gba àwon fèrèsé _ìtasókè,216,epiphany,po/yo.po
+Choose a l_anguage:,219,Yan è_dè kan:,220,epiphany,po/yo.po
+Cl_ear,228,Pa_rẹ́,229,epiphany,po/yo.po
+De_fault:,232,Ìp_éwọ̀n:,233,epiphany,po/yo.po
+Downloads,237,Àwon àgbéwọlé,238,epiphany,po/yo.po
+Enable Java_Script,241,Fún Java_Script lágbára iṣẹ́,242,epiphany,po/yo.po
+Encodings,249,Àwọn ìyítumọ̀,250,epiphany,po/yo.po
+Fonts,253,Àwọn Ìrísí-lẹ́tà,254,epiphany,po/yo.po
+Fonts & Style,257,Àwọn Ìrísí-lẹ́tà & Sítàì,258,epiphany,po/yo.po
+Home page,261,Ojú-ìwé ilé,262,epiphany,po/yo.po
+Language,265,Èdè,266,epiphany,po/yo.po
+Languages,269,Àwọn èdè,270,epiphany,po/yo.po
+Only _from sites you visit,281,Láti inú àwọn gbàgede tí o bẹ̀wò nìkan,282,epiphany,po/yo.po
+Preferences,285,Àwọn Ìkúndùn,286,epiphany,po/yo.po
+Privacy,289,Ibi-ìkọ̀kọ̀,290,epiphany,po/yo.po
+Set to Current _Page,301,Gbékalẹ̀ sí _Ojú-ìwé Lọ́wọ́lọ́wọ́,302,epiphany,po/yo.po
+Set to _Blank Page,305,Gbekalẹ̀ sí _Ojú-ìwé Òfìfo,306,epiphany,po/yo.po
+Use custom _stylesheet,322,Lo _sítàì-ṣiìtì àkànṣe,323,epiphany,po/yo.po
+_Address:,331,_Àdírẹ̀sì:,332,epiphany,po/yo.po
+_Always accept,335,_Gbà nígbà gbogbo,336,epiphany,po/yo.po
+_Disk space:,339,_Ààyè fọ́nrán:,340,epiphany,po/yo.po
+_Download folder:,343,_Ṣàgbéwọlé fódà:,344,epiphany,po/yo.po
+_Never accept,356,_Kò gbà rárá,357,epiphany,po/yo.po
+P_age title,399,À_kọ́lé ojú-ìwé,400,epiphany,po/yo.po
+Page _numbers,403,Àwọn _nọ́ńbà ojú-ìwé,404,epiphany,po/yo.po
+_Date,415,_Déètì,416,epiphany,po/yo.po
+_Page address,423,_Àdírẹ̀sì ojú-ìwé,424,epiphany,po/yo.po
+Unicode (UTF-_8),697,Kóòdù gbogbogbò (UTF-_8),698,epiphany,po/yo.po
+English (_US-ASCII),748,Gẹ́ẹ̀sì(_US-ASCII),749,epiphany,po/yo.po
+Unicode (UTF-_16 BE),752,Kóòdù gbogbogbò (UTF-_16 BE),753,epiphany,po/yo.po
+Unicode (UTF-1_6 LE),756,Kóòdù gbogbogbò (UTF-1_6 LE),757,epiphany,po/yo.po
+Unicode (UTF-_32 BE),760,Kóòdù gbogbogbò (UTF-_32 BE),761,epiphany,po/yo.po
+Unicode (UTF-3_2 LE),764,Kóòdù gbogbogbò (UTF-3_2 LE),765,epiphany,po/yo.po
+Unknown (%s),772,Àìmọ̀ (%s),773,epiphany,po/yo.po
+All,776,Gbogbo wọn,777,epiphany,po/yo.po
+Others,780,Àwọn Mìíràn,781,epiphany,po/yo.po
+Local files,784,Àwọn fáìlì agbègbè,785,epiphany,po/yo.po
+Name,829,Orúkọ,830,epiphany,po/yo.po
+Blank page,841,Ojú-ìwé òfìfo,842,epiphany,po/yo.po
+Show “_%s”,993,Fi %s hàn,994,epiphany,po/yo.po
+_Move on Toolbar,997,_Gbé lórí Àká-irinṣẹ́,998,epiphany,po/yo.po
+Move the selected item on the toolbar,1001,Gbé wúnrẹ̀n tí a yàn lọ lórí àká-irinṣẹ́,1002,epiphany,po/yo.po
+_Remove from Toolbar,1005,_Yọọ́kúrò nínú Àká-irinṣẹ́,1006,epiphany,po/yo.po
+Remove the selected item from the toolbar,1009,Yọ wúnrẹ̀n tí a yàn náà kúrò nínu àká-irinṣẹ́ náà,1010,epiphany,po/yo.po
+_Delete Toolbar,1013,_Pa Àká-irinṣẹ́ Jẹ,1014,epiphany,po/yo.po
+Remove the selected toolbar,1017,Yọ àká-irinṣẹ́ tí a yàn náà,1018,epiphany,po/yo.po
+FILE,1029,FÁÌLÌ,1030,epiphany,po/yo.po
+Separator,1049,Aṣàpínyà,1050,epiphany,po/yo.po
+All supported types,1053,Gbogbo àwọn irúfẹ́ tí a ṣàtílẹ́yìn,1054,epiphany,po/yo.po
+Web pages,1057,Àwọn ojú-ìwé wẹ́ẹ̀bù,1058,epiphany,po/yo.po
+Images,1061,Àwọn àwòrán,1062,epiphany,po/yo.po
+All files,1065,Gbogbo àwọn fáìlì,1066,epiphany,po/yo.po
+Could not create a temporary directory in “%s”.,1075,Kò lè ṣẹ̀dá atọ́nà ìgbà díẹ̀ nínú “%s”.,1076,epiphany,po/yo.po
+The file “%s” exists. Please move it out of the way.,1080,Fáìlì “%s” wà. Jọ̀wọ́ gbé kúrò lọ́nà.,1081,epiphany,po/yo.po
+Failed to create directory “%s”.,1085,Ó kùnà láti ṣẹ̀dá “%s”.,1086,epiphany,po/yo.po
+Directory “%s” is not writable,1090,Atọ́nà “%s” kò ṣeé kọ,1091,epiphany,po/yo.po
+You do not have permission to create files in this directory.,1094,O kò ní ìyànda láti ṣẹ̀dá àwọn fáìlì nínú atọ́nà yìí.,1095,epiphany,po/yo.po
+Directory not Writable,1098,Atọ́nà Tí kò Ṣeé Kọ,1099,epiphany,po/yo.po
+Cannot overwrite existing file “%s”,1103,Kò lè ṣẹ̀dà lórí fáìlì tó wà nílẹ̀“%s”,1104,epiphany,po/yo.po
+A file with this name already exists and you don't have permission to overwrite it.,1107,"Fáìlì tó ń jẹ́ orúkọ yìí ti wà nílẹ̀ tẹ́lẹ̀, o kò sì ní ìyànda láti ṣẹ̀dà le lórí.",1110,epiphany,po/yo.po
+Cannot Overwrite File,1114,Kò Lè Ṣẹ̀dà Lórí Fáìlì,1115,epiphany,po/yo.po
+Could not display help: %s,1119,Kò lè ṣàfihàn ìrànwọ́: %s,1120,epiphany,po/yo.po
+Popup Windows,1139,Àwọn Fèrèsé Ìtasókè,1140,epiphany,po/yo.po
+History,1143,Ìtàn,1144,epiphany,po/yo.po
+Bookmark,1149,Àmì-ìwé,1150,epiphany,po/yo.po
+Bookmarks,1155,Àwọn Àmì-ìwé,1156,epiphany,po/yo.po
+Address Entry,1159,Àmúwọlé Àdírẹ̀sì,1160,epiphany,po/yo.po
+_Download,1163,_Ṣàgbéwọlé,1164,epiphany,po/yo.po
+Unknown,1204,Àìmọ̀,1205,epiphany,po/yo.po
+Open,1287,Ṣí,1288,epiphany,po/yo.po
+Drag and drop this icon to create a link to this page,1301,"Wọ, kí o sì ju áíkànnù yìí sílẹ̀ láti ṣẹ̀dá líǹkì sí ojú-ìwé yìí",1302,epiphany,po/yo.po
+%d _Similar,1323,%d _Jọra,1325,epiphany,po/yo.po
+%d _Similar,1323,%d _Jọra,1326,epiphany,po/yo.po
+_Unify With %d Identical Bookmark,1330,_Ṣeé ní Ọ̀kan Pẹ̀lú Àmì-ìwé Ajọra %d,1332,epiphany,po/yo.po
+_Unify With %d Identical Bookmark,1330,_Ṣeé ní Ọ̀kan Pẹ̀lú Àmì-ìwé Ajọra %d,1333,epiphany,po/yo.po
+Show “%s”,1338,Fi “%s” hàn,1339,epiphany,po/yo.po
+“%s” Properties,1343,“%s” Àwọn àbùdá,1344,epiphany,po/yo.po
+_Title:,1347,_Àkọ́lé:,1348,epiphany,po/yo.po
+A_ddress:,1351,À_dírẹ̀sì:,1352,epiphany,po/yo.po
+T_opics:,1355,A_wọn àkọlé:,1356,epiphany,po/yo.po
+Sho_w all topics,1359,Fi_ gbogbo àwọn àkọlé hàn,1360,epiphany,po/yo.po
+Entertainment,1363,Ìgbádùn,1364,epiphany,po/yo.po
+News,1367,Ìròyìn,1368,epiphany,po/yo.po
+Shopping,1371,Ìnọ́jà,1372,epiphany,po/yo.po
+Sports,1375,Eré-ìdárayá,1376,epiphany,po/yo.po
+Travel,1379,Ìrìn-àjò,1380,epiphany,po/yo.po
+Work,1383,Iṣẹ́,1384,epiphany,po/yo.po
+Update bookmark “%s”?,1389,Ṣàfikún àmì-ìwé “%s”?,1390,epiphany,po/yo.po
+The bookmarked page has moved to “%s”.,1395,A ti gbé ojú-ìwé tí a sàmì rẹ̀ lọ sí “%s”.,1396,epiphany,po/yo.po
+_Don't Update,1399,_Má Ṣàfikún,1400,epiphany,po/yo.po
+_Update,1403,_Ṣàfikún,1404,epiphany,po/yo.po
+Update Bookmark?,1407,Ṣàfikún Àmì-ìwé?,1408,epiphany,po/yo.po
+Untitled,1442,Kò ní àkọ́lé,1443,epiphany,po/yo.po
+Remove from this topic,1454,Yọọ́kúrò láti inú àkọlé yìí,1455,epiphany,po/yo.po
+_File,1460,_Fáìlì,1461,epiphany,po/yo.po
+_Edit,1465,À̀yẹ̀wò,1466,epiphany,po/yo.po
+_View,1470,_Òye,1471,epiphany,po/yo.po
+_Help,1475,_Ìrànwọ́,1476,epiphany,po/yo.po
+_New Topic,1480,_Àkọlé Tuntun,1481,epiphany,po/yo.po
+Create a new topic,1484,Ṣẹ̀dá àkọlé tuntun,1485,epiphany,po/yo.po
+Open in New _Window,1493,Ṣi nínú _Fèrèsé Tuntun,1495,epiphany,po/yo.po
+Open in New _Window,1493,Ṣi nínú _Fèrèsé Tuntun,1496,epiphany,po/yo.po
+Open the selected bookmark in a new window,1499,Ṣí àmì-ìwé tí a yàn nínú fèrèsé tuntun,1500,epiphany,po/yo.po
+Open in New _Tab,1507,Ṣi nínú _Táàbù Tuntun,1509,epiphany,po/yo.po
+Open in New _Tab,1507,Ṣí nínú _Táàbù Túntun,1510,epiphany,po/yo.po
+Open the selected bookmark in a new tab,1513,Ṣí àmì-ìwé tí a yàn nínú táàbù tuntun,1514,epiphany,po/yo.po
+Rename the selected bookmark or topic,1522,Tún orúkọ àmì-ìwé tàbí àkọlé tí a yàn sọ,1523,epiphany,po/yo.po
+_Properties,1528,_Àwọn àbùdá,1529,epiphany,po/yo.po
+View or modify the properties of the selected bookmark,1532,Wòye tàbí kí o tún àwọn àbùdá àmì-ìwé tí a yàn tò,1533,epiphany,po/yo.po
+Import bookmarks from another browser or a bookmarks file,1541,Gbé àwọn àmì-ìwé láti inú awáròyìn mìíràn tàbí fáìlì àwọn àmì-ìwé,1542,epiphany,po/yo.po
+Export bookmarks to a file,1550,Gbé àwọn àmì-ìwé lọ sínú fáìlì,1551,epiphany,po/yo.po
+_Close,1555,_Ti,1556,epiphany,po/yo.po
+Close the bookmarks window,1559,Ti fèrèsé àwọn àmì-ìwé,1560,epiphany,po/yo.po
+Cu_t,1565,G_é,1566,epiphany,po/yo.po
+Cut the selection,1570,Gé ẹ̀yàn náà,1571,epiphany,po/yo.po
+_Copy,1577,_Ṣẹ̀dà,1578,epiphany,po/yo.po
+Copy the selection,1582,Ṣẹ̀dà ẹ̀yàn náà,1583,epiphany,po/yo.po
+_Paste,1587,_Lẹ,1588,epiphany,po/yo.po
+Paste the clipboard,1592,Lẹ agbàròyìn dúró náà,1593,epiphany,po/yo.po
+_Delete,1597,_Pajẹ,1598,epiphany,po/yo.po
+Delete the selected bookmark or topic,1601,Pa àmì-ìwé tàbí àkọlé tí a yàn jẹ,1602,epiphany,po/yo.po
+Select _All,1606,Yan _Gbogbo Wọn,1607,epiphany,po/yo.po
+Select all bookmarks or text,1610,Yan gbogbo àwọn àmì-ìwé tàbí àyọkà,1611,epiphany,po/yo.po
+_Contents,1617,_Àwọn àkóónú,1618,epiphany,po/yo.po
+Display bookmarks help,1621,Ṣàfihàn ìrànwọ́ àwọn àmì-ìwé,1622,epiphany,po/yo.po
+_About,1626,_Nípa,1627,epiphany,po/yo.po
+Display credits for the web browser creators,1631,Ṣàfihàn ìgbóríyìn fún àwọn olùdásílẹ̀ awáròyìn wẹ́èbù náà,1632,epiphany,po/yo.po
+_Show on Toolbar,1635,_Fihàn lórí Àká-irinṣẹ́,1636,epiphany,po/yo.po
+Show the selected bookmark on a toolbar,1639,Fi àmì-ìwé tí a yàn hàn lórí àká-irinṣẹ́,1640,epiphany,po/yo.po
+_Title,1645,_Àkọ́lé,1646,epiphany,po/yo.po
+Address,1657,Àdírẹ̀sì,1658,epiphany,po/yo.po
+Type a topic,1667,Tẹ àkọlé,1668,epiphany,po/yo.po
+Delete topic “%s”?,1672,Pa àkọlé jẹ “%s”?,1673,epiphany,po/yo.po
+Delete this topic?,1676,Pa àkọlé yìí jẹ?,1677,epiphany,po/yo.po
+"Deleting this topic will cause all its bookmarks to become uncategorized, unless they also belong to other topics. The bookmarks will not be deleted.",1680,"Pípa àkọlé yìí jẹ, yóò fa kí gbogbo àwọn àmì-ìwé rẹ̀ má sìí ní ọ̀wọ́ mọ́ àyàfi tí wọ́n bá jẹ́ ti àwọn àkọlé mìíràn. A óò pa àwọn àmì-ìwé náà jẹ.",1683,epiphany,po/yo.po
+_Delete Topic,1688,_Pa Àkọlé Jẹ,1689,epiphany,po/yo.po
+Mozilla “%s” profile,1705,Àkópọ̀-ìròyìn Mozilla “%s”,1706,epiphany,po/yo.po
+Import failed,1717,Ìgbéwọlé kùnà,1718,epiphany,po/yo.po
+Import Failed,1721,Igbéwọlé Kùnà,1722,epiphany,po/yo.po
+The bookmarks from “%s” could not be imported because the file is corrupted or of an unsupported type.,1726,A kò lè gbé àwọn àmì-ìwé tí a gbé láti inú “%s” wọlé nítorí pé fáìlì náà ti bàjẹ́ tàbí kó jẹ̀ irúfẹ́ tí kò ní àtìlẹ́yìn.,1729,epiphany,po/yo.po
+Firefox/Mozilla bookmarks,1739,Àwọn àmì-ìwé Firefox/Mozilla,1740,epiphany,po/yo.po
+Galeon/Konqueror bookmarks,1743,Àwọn àmì-ìwé Galeon/Konqueror,1744,epiphany,po/yo.po
+Epiphany bookmarks,1747,Àwọn àmì-ìwé Epiphany,1748,epiphany,po/yo.po
+Export Bookmarks,1751,Gbé Àwọn Àmì-ìwé Jáde,1752,epiphany,po/yo.po
+Import Bookmarks,1761,Gbé Àwọn Àmì-ìwé Wọlé,1762,epiphany,po/yo.po
+I_mport,1765,Ì_gbéwọlé,1766,epiphany,po/yo.po
+Import bookmarks from:,1769,Gbé àwọn àmì-ìwé wọlé láti:,1770,epiphany,po/yo.po
+File,1773,Fá́ìlì,1774,epiphany,po/yo.po
+_Copy Address,1778,_Ṣẹ̀dà Àdírẹ̀sì,1779,epiphany,po/yo.po
+_Search:,1783,_Wádìí:,1784,epiphany,po/yo.po
+Topics,1787,Àwọn àkọlé,1788,epiphany,po/yo.po
+Title,1792,Àkọ́lé,1793,epiphany,po/yo.po
+Show properties for this bookmark,1796,Fi àwọn àbùdá fún àmì-ìwé yìí hàn,1797,epiphany,po/yo.po
+Open this bookmark in a new tab,1800,Ṣí àmì-ìwé yìí nínú táàbù wẹ́ẹ̀bù,1801,epiphany,po/yo.po
+Open this bookmark in a new window,1804,Ṣí àmì-ìwé yìí nínú fèrèsé tuntun,1805,epiphany,po/yo.po
+Open in New _Tabs,1809,Ṣi nínú Àwọn _Táàbù Tuntun,1810,epiphany,po/yo.po
+Open the bookmarks in this topic in new tabs,1813,Ṣí àwọn àmì-ìwé inú àkọlé yìí nínú àwọn táàbù tuntun,1814,epiphany,po/yo.po
+Related,1817,Jọra,1818,epiphany,po/yo.po
+Create topic “%s”,1827,Ṣẹ̀dá àkọ́lé “%s”,1828,epiphany,po/yo.po
+Other encodings,1836,Àwọn ìyítumọ̀ mìíràn,1837,epiphany,po/yo.po
+_Automatic,1840,_Aládàáṣe,1841,epiphany,po/yo.po
+Not found,1844,A kò ri,1845,epiphany,po/yo.po
+Wrapped,1848,Yípọ̀,1849,epiphany,po/yo.po
+Find links:,1852,Wá Àwọn líǹkì:,1853,epiphany,po/yo.po
+Find:,1856,Wa:,1857,epiphany,po/yo.po
+Find Previous,1866,Wá Tílẹ̀,1867,epiphany,po/yo.po
+Find previous occurrence of the search string,1870,Wá ìṣẹ̀lẹ̀ ìwádìí fọ́nrán tilẹ̀,1871,epiphany,po/yo.po
+Find Next,1874,Wá Èyí Tókàn,1875,epiphany,po/yo.po
+Find next occurrence of the search string,1878,Wá ìṣẹ̀lẹ̀ ìwádìí fọ́nrán tókàn,1879,epiphany,po/yo.po
+Leave Fullscreen,1883,Fi Ojú Kọ̀ǹpútà Kíkún Sílẹ̀,1884,epiphany,po/yo.po
+Go,1887,Lọ,1888,epiphany,po/yo.po
+Open the selected history link in a new window,1891,Ṣí líǹkì ìtàn tí a yàn nínú fèrèsé tuntun,1892,epiphany,po/yo.po
+Open the selected history link in a new tab,1895,Ṣí líǹkì ìtàn tí a yàn nínú táàbù tuntun,1896,epiphany,po/yo.po
+Bookmark the selected history link,1904,Sàmì ìwé sí líǹkì ìtàn tí a yàn,1905,epiphany,po/yo.po
+Close the history window,1908,Ti fèrèsé ìtàn náà,1909,epiphany,po/yo.po
+Delete the selected history link,1912,Pa líǹkì ìtàn tí a yàn jẹ,1913,epiphany,po/yo.po
+Select all history links or text,1916,Yan gbogbo àwọn líǹkì ìtàn tàbí àyọkà,1917,epiphany,po/yo.po
+Clear _History,1920,Pa _Ìtàn Rẹ́,1921,epiphany,po/yo.po
+Clear your browsing history,1924,Pa ìtàn ìwáròyìn rẹ rẹ́,1925,epiphany,po/yo.po
+Display history help,1928,Ṣàfihàn ìrànwọ́ ìtàn,1929,epiphany,po/yo.po
+_Address,1932,_Àdírẹ̀sì,1933,epiphany,po/yo.po
+Clear browsing history?,1945,́Pa ìtàn ìwáròyìn rẹ́?,1946,epiphany,po/yo.po
+Clearing the browsing history will cause all history links to be permanently deleted.,1949,Pípa ìtàn ìwáròyìn náà rẹ́ yóò mú ìpajẹ bá gbogbo àwọn líǹkì ìtàn ráúráú.,1952,epiphany,po/yo.po
+Clear History,1956,Pa Ìtàn Rẹ́,1957,epiphany,po/yo.po
+Last 30 minutes,1960,Ní ọgbọ̀n ìṣẹ̀jú sẹ́yìn,1961,epiphany,po/yo.po
+Today,1964,Lónìí,1965,epiphany,po/yo.po
+Last %d day,1972,Ní ọjọ́ %d sẹ́yìn,1974,epiphany,po/yo.po
+Last %d day,1972,Ní ọjọ́ %d sẹ́yìn,1975,epiphany,po/yo.po
+Sites,1978,Àwọn gbàgede,1979,epiphany,po/yo.po
+GNOME Web Browser,1987,Awáròyìn Wẹ́ẹ̀bù GNOME,1988,epiphany,po/yo.po
+Open a new tab in an existing browser window,1991,Ṣí táàbù tuntun nínú fèrèsé awáròyìn tó wà nílẹ̀,1992,epiphany,po/yo.po
+Open a new browser window,1995,Ṣí fèrèsé awáròyìn tuntun,1996,epiphany,po/yo.po
+Launch the bookmarks editor,1999,Fi olótùú àwọn àmì-ìwé náà lọ́lẹ̀,2000,epiphany,po/yo.po
+Import bookmarks from the given file,2003,Gbé àwọn àmì-ìwé wọlé láti inú fáìlì náà,2004,epiphany,po/yo.po
+Load the given session file,2007,Kí fáìlì sáà náà,2008,epiphany,po/yo.po
+Add a bookmark,2011,Ṣàfikún àmì-ìwé,2012,epiphany,po/yo.po
+Start a private instance,2019,Bẹ̀rẹ̀ àpẹẹrẹ aládàáni,2020,epiphany,po/yo.po
+Profile directory to use in the private instance,2027,Atọ́nà àkójọpọ̀-ìròyìn tí a óó lò nínú àpẹẹrẹ aládàáni,2028,epiphany,po/yo.po
+Could not start GNOME Web Browser,2040,Kò lè bẹ̀rẹ̀ Awáròyìn Wẹ́ẹ̀bù GNOME,2041,epiphany,po/yo.po
+Startup failed because of the following error:\n%s,2045,Ìbẹ̀rẹ̀ iṣẹ́ kọ̀ǹpútà kùnà nítorí àṣìṣe wọ̀nyí:\n%s,2048,epiphany,po/yo.po
+GNOME Web Browser options,2053,Àwọn ẹ̀yàn Awáròyìn Wẹ́ẹ̀bù GNOME,2054,epiphany,po/yo.po
+Close tab,2057,Ti táàbù,2058,epiphany,po/yo.po
+Downloads will be aborted and logout proceed in %d second.,2062,A óò dènà àwọn àgbéwọlé ìparí iṣẹ́ á sì bẹ̀rẹ̀ ní ìṣísẹ̀ %d.,2064,epiphany,po/yo.po
+Downloads will be aborted and logout proceed in %d second.,2062,A óò dènà àwọn àgbéwọlé ìparí iṣẹ́ á sì bẹ̀rẹ̀ ní ìṣísẹ̀ %d.,2065,epiphany,po/yo.po
+Abort pending downloads?,2068,Dènà àwọn àgbéwọlé tó kù díẹ̀?,2069,epiphany,po/yo.po
+"There are still downloads pending. If you log out, they will be aborted and lost.",2072,"Àwọn àgbéwọlé kan ṣì ku díẹ̀. Tí o bá parí iṣẹ́ a ó dènà wọn, a óò sì sọ wọ́n nù.",2075,epiphany,po/yo.po
+_Cancel Logout,2080,_Pa Parí iṣẹ́ Rẹ́,2081,epiphany,po/yo.po
+_Abort Downloads,2084,Dènà Àwọn Àgbéwọlé,2085,epiphany,po/yo.po
+Switch to this tab,2103,Sún sí táàbù yìí,2104,epiphany,po/yo.po
+_Back,2107,_Padà,2108,epiphany,po/yo.po
+Go to the previous visited page,2111,Lọ sí Ojú-ìwé tí a bẹ̀ wò tẹ́lẹ̀,2112,epiphany,po/yo.po
+Back history,2118,Ìtàn ẹ̀yìn,2119,epiphany,po/yo.po
+_Forward,2122,_Iwájú,2123,epiphany,po/yo.po
+Go to the next visited page,2126,Lọ sí ojú-ìwé tókàn tí a óò bẹ̀ wò,2127,epiphany,po/yo.po
+Forward history,2133,Ìtàn iwájú,2134,epiphany,po/yo.po
+_Up,2137,_Òkè,2138,epiphany,po/yo.po
+Go up one level,2141,Lọ sókè ní ìpele kan,2142,epiphany,po/yo.po
+List of upper levels,2148,Àtojọ àwọn ìpele gíga,2149,epiphany,po/yo.po
+"Enter a web address to open, or a phrase to search for",2152,Tẹ àdírẹ̀sì wẹ́èbù wọlé láti ṣi tàbí àpólà láti wá,2153,epiphany,po/yo.po
+Zoom,2156,Fẹ̀ẹ́,2157,epiphany,po/yo.po
+Adjust the text size,2160,Tún ìwọ̀n àyọkà náà ṣe,2161,epiphany,po/yo.po
+Go to the address entered in the address entry,2164,Lọ sí àdírẹ̀sì tí a tẹ̀ wọlé nínú àmúwọlé àdírẹ̀sì,2165,epiphany,po/yo.po
+_Home,2168,_Ilé,2169,epiphany,po/yo.po
+Go to the home page,2172,Lọ sí ojú-ìwé ilé,2173,epiphany,po/yo.po
+New _Tab,2176,Táàbù _Tuntun,2177,epiphany,po/yo.po
+Open a new tab,2180,Ṣí táàbù tuntun,2181,epiphany,po/yo.po
+_New Window,2184,_Fèrèsé Tuntun,2185,epiphany,po/yo.po
+Open a new window,2188,Ṣí fèrèsé tuntun,2189,epiphany,po/yo.po
+Toolbar Editor,2220,Olótùú Àká-irinṣẹ́,2221,epiphany,po/yo.po
+Toolbar _button labels:,2225,Àwọn ìwé-ìsàmì _bọ́tìnì àká-irinṣẹ́:,2226,epiphany,po/yo.po
+_Add a New Toolbar,2229,_Ṣàfikún Àká-irinṣẹ́ Tuntun,2230,epiphany,po/yo.po
+_Bookmarks,2233,_Àwọn Àmì-ìwé,2234,epiphany,po/yo.po
+_Go,2237,_Lọ,2238,epiphany,po/yo.po
+T_ools,2241,Àwọn I_rinṣẹ́,2242,epiphany,po/yo.po
+_Tabs,2245,_À̀wọn táàbù,2246,epiphany,po/yo.po
+_Toolbars,2249,_Àwọn àká-irinṣẹ́,2250,epiphany,po/yo.po
+Open a file,2259,Ṣí fáìlì,2260,epiphany,po/yo.po
+Save the current page,2268,Fi ojú-ìwé lọ́wọ́lọ́wọ́ pamọ́,2269,epiphany,po/yo.po
+Setup the page settings for printing,2286,Ṣàgbékalẹ̀ ètò àwọn ààtò fún píríǹtì,2287,epiphany,po/yo.po
+Print Pre_view,2290,Àkọ́gbéyẹ̀wò Pírí_ǹtì,2291,epiphany,po/yo.po
+Print preview,2294,Àkọ́gbéyẹ̀wò píríǹtì,2295,epiphany,po/yo.po
+Print the current page,2303,Píríǹtì ojú-ìwé lọ́wọ́lọ́wọ́,2304,epiphany,po/yo.po
+Send a link of the current page,2312,Fi líǹkì ojú-ìwé lọ́wọ́lọ́wọ́ ránṣẹ́,2313,epiphany,po/yo.po
+Close this tab,2316,Ti táàbù yìí,2317,epiphany,po/yo.po
+_Undo,2321,_Padà sípò,2322,epiphany,po/yo.po
+Undo the last action,2325,Dá iṣẹ́ tó kẹ́yìn padà sípò,2326,epiphany,po/yo.po
+Re_do,2329,Tú_nṣe,2330,epiphany,po/yo.po
+Redo the last undone action,2333,Tún iṣẹ́ tí a dá padà sípò ṣe,2334,epiphany,po/yo.po
+Paste clipboard,2337,Lẹ agbàròyìn dúró,2338,epiphany,po/yo.po
+Select the entire page,2346,Yan gbogbo ojú-ìwé náà,2347,epiphany,po/yo.po
+Find a word or phrase in the page,2355,Wá ọ̀rọ̀ tàbí àpólà ní ojú-ìwé náà,2356,epiphany,po/yo.po
+Find Ne_xt,2359,Wá Èyí Tó_kàn,2360,epiphany,po/yo.po
+Find next occurrence of the word or phrase,2363,Wá ìṣẹ̀lẹ̀ ọ̀rọ̀ tàbí àpólà tókàn,2364,epiphany,po/yo.po
+Find Pre_vious,2367,Wá Ti_lẹ̀,2368,epiphany,po/yo.po
+Find previous occurrence of the word or phrase,2371,Wá ìṣẹ̀lẹ̀ ọ̀rọ̀ tàbí àpólà tilẹ̀,2372,epiphany,po/yo.po
+P_ersonal Data,2375,Àkójọpọ̀-ẹ̀rí Ara-ẹ̀ni,2376,epiphany,po/yo.po
+View and remove cookies and passwords,2379,Wòye kí o sì yọ àwọn kúkì àti àwọn àmì-àṣírí kúrò,2380,epiphany,po/yo.po
+Manage Certificates,2388,Ṣàbójútó Àwọn Ìwé-ẹ̀rí,2389,epiphany,po/yo.po
+P_references,2392,A_wọn Ìkúndùn,2393,epiphany,po/yo.po
+Configure the web browser,2396,Ṣàtòpọ̀ awáròyìn wẹ́ẹ̀bù,2397,epiphany,po/yo.po
+Customize toolbars,2406,Àwọn àká-irinṣẹ́ tó ṣe rẹ́gí,2407,epiphany,po/yo.po
+_Stop,2410,_Dúró,2411,epiphany,po/yo.po
+Stop current data transfer,2414,Dá gbígbé àkójọpọ̀-ẹ̀rí lọ́wọ́lọ́wọ́ dúró,2415,epiphany,po/yo.po
+_Reload,2418,_Túnkì,2419,epiphany,po/yo.po
+Display the latest content of the current page,2422,Ṣàfihàn àkóónú ìwòyí ojú-ìwé lọ́wọ́lọ́wọ́,2423,epiphany,po/yo.po
+_Larger Text,2426,_Àyọkà Ńlá,2427,epiphany,po/yo.po
+Increase the text size,2430,Fikún ìwọ̀n àyọkà náà,2431,epiphany,po/yo.po
+S_maller Text,2434,À_yọkà Kekeré si,2435,epiphany,po/yo.po
+Decrease the text size,2438,Dín ìwọ̀n àyọkà náà kù,2439,epiphany,po/yo.po
+_Normal Size,2442,_Ìwọ̀n Déédéé,2443,epiphany,po/yo.po
+Use the normal text size,2446,Lo ìwọ̀n àyọkà déédéé náà,2447,epiphany,po/yo.po
+Text _Encoding,2450,Ìyítumọ _Àyọkà,2451,epiphany,po/yo.po
+Change the text encoding,2454,Yí ìyítumọ̀ àyọkà náà padà,2455,epiphany,po/yo.po
+_Page Source,2458,_Orísun Ojú-ìwé,2459,epiphany,po/yo.po
+View the source code of the page,2462,Wòye kóòdù orísun ojú-ìwé náà,2463,epiphany,po/yo.po
+Add a bookmark for the current page,2482,Ṣàfikún àmì-ìwé fún ojú-ìwé lọ́wọ́lọ́wọ́,2483,epiphany,po/yo.po
+_Edit Bookmarks,2486,_Ṣàyẹ̀wò Àwọn Àmì-ìwé,2487,epiphany,po/yo.po
+Open the bookmarks window,2490,Ṣí fèrèsé àwọn àmì-ìwé náà,2491,epiphany,po/yo.po
+Go to a specified location,2500,Lọ sí àyè kan ní pàtó,2501,epiphany,po/yo.po
+Open the history window,2510,Ṣí fèrèsé ìtàn,2511,epiphany,po/yo.po
+_Previous Tab,2515,_Táàbù Tilẹ̀,2516,epiphany,po/yo.po
+Activate previous tab,2519,Mú táàbù tilẹ̀ ṣiṣẹ́,2520,epiphany,po/yo.po
+_Next Tab,2523,_Táàbù Tókàn,2524,epiphany,po/yo.po
+Activate next tab,2527,Mú táàbù tókàn ṣiṣẹ́,2528,epiphany,po/yo.po
+Move Tab _Left,2531,Gbé Táàbù _Sósì,2532,epiphany,po/yo.po
+Move current tab to left,2535,Gbé táàbù lọ́wọ́lọ́wọ́ lọ sí òsì,2536,epiphany,po/yo.po
+Move Tab _Right,2539,Gbé Táàbù -Ọtún,2540,epiphany,po/yo.po
+Move current tab to right,2543,Gbé táàbù lọ́wọ́lọ́wọ́ lọ sí ọ̀tún,2544,epiphany,po/yo.po
+_Detach Tab,2547,_Yọ Táàbù,2548,epiphany,po/yo.po
+Detach current tab,2551,Yọ táàbù lọ́wọ́lọ́wọ́,2552,epiphany,po/yo.po
+Display web browser help,2555,Ṣàfihàn ìrànwọ́ awáròyìn wẹ́ẹ̀bù,2556,epiphany,po/yo.po
+_Work Offline,2560,_Ṣiṣẹ́ Láìsí Lórí Wáyà,2561,epiphany,po/yo.po
+Switch to offline mode,2564,Sún sí móòdù àìsí lórí wáyà,2565,epiphany,po/yo.po
+_Hide Toolbars,2569,_Fi Àwọn Àká-irinṣẹ́ Pamọ́,2570,epiphany,po/yo.po
+Show or hide toolbar,2573,Fi àká̀-irinṣẹ́ hàn tàbí kí o fi pamọ́,2574,epiphany,po/yo.po
+_Fullscreen,2591,_Ojú kọ̀ǹpùtà kíkún,2592,epiphany,po/yo.po
+Browse at full screen,2595,Wáròyìn ní ojú kọ̀ǹpútà kíkún,2596,epiphany,po/yo.po
+Popup _Windows,2599,Àwọn Fèrèsé _Ìtasókè,2600,epiphany,po/yo.po
+Show or hide unrequested popup windows from this site,2603,Fi àwọn fèrèsé ìtasókè tí a kò bèrè fún láti inú gbàgede yìí hàn tàbí pamọ́,2604,epiphany,po/yo.po
+Selection Caret,2608,Caret Ẹ̀yàn,2609,epiphany,po/yo.po
+Show Only _This Frame,2619,Fi Férémù _Yìí Nìkan Hàn,2620,epiphany,po/yo.po
+Show only this frame in this window,2623,Férémù yìí nìkan ni ko fihàn nínú fèrèsé yìí,2624,epiphany,po/yo.po
+_Open Link,2628,_Ṣí Líǹkì,2629,epiphany,po/yo.po
+Open link in this window,2632,Ṣí líǹkì nínú fèrèsé yìí,2633,epiphany,po/yo.po
+Open Link in New _Window,2636,Ṣí Líǹkì nínú Fèrèsé _Tuntun,2637,epiphany,po/yo.po
+Open link in a new window,2640,Ṣí líǹkì nínú fèrèsé tuntun,2641,epiphany,po/yo.po
+Open Link in New _Tab,2644,Ṣí Líǹkì nínú Táàbù _Tuntun,2645,epiphany,po/yo.po
+Open link in a new tab,2648,Ṣí líǹkì nínú táàbù tuntun,2649,epiphany,po/yo.po
+_Download Link,2652,_Ṣàgbéwọlé líǹkì,2653,epiphany,po/yo.po
+Save link with a different name,2661,Fi líǹkì pamọ́ pẹ̀lú orúkọ mìíràn,2662,epiphany,po/yo.po
+_Copy Link Address,2670,Ṣẹ̀dà Àdírẹ̀sì Líǹkì,2671,epiphany,po/yo.po
+_Copy Email Address,2681,_Ṣẹ̀dà Àdírẹ̀sì Lẹ́tà Kọ̀ǹpútà,2682,epiphany,po/yo.po
+Open _Image,2686,Ṣí _Àwòrán,2687,epiphany,po/yo.po
+_Use Image As Background,2695,_Lo Àwòrán Gẹ́gẹ́ Bíi Ẹ̀yìn,2696,epiphany,po/yo.po
+Copy I_mage Address,2699,Ṣẹ̀dà Àdírẹ̀sì À_wòrán,2700,epiphany,po/yo.po
+St_art Animation,2703,Bẹ̀_rẹ̀ Ìṣàfarawé Kọ̀ǹpútà,2704,epiphany,po/yo.po
+St_op Animation,2707,Da_ Ìṣàfarawé Kọ̀ǹpútà Dúró,2708,epiphany,po/yo.po
+There are unsubmitted changes to form elements,2716,Àwọn ìyípadà tí a lò láti dá àwọn fọ́nrán tí a kò tíì fi lélẹ̀ wà,2717,epiphany,po/yo.po
+"If you close the document anyway, you will lose that information.",2720,"Tí o bá ti àkọsílẹ̀ náà ní ọ̀nàkọ́nà, wàá sọ ìròyìn náà nù.",2721,epiphany,po/yo.po
+Close _Document,2724,Ti _Àkọsílẹ̀,2725,epiphany,po/yo.po
+Save As,2740,Fi pamọ́ Lórúkọ,2741,epiphany,po/yo.po
+Print,2748,Píríǹtì,2749,epiphany,po/yo.po
+Find,2752,Wá,2753,epiphany,po/yo.po
+Larger,2757,Tóbi sí,2758,epiphany,po/yo.po
+Smaller,2762,Kéré sí,2763,epiphany,po/yo.po
+Insecure,2766,Àìfìdímúlẹ̀,2767,epiphany,po/yo.po
+Broken,2770,Dàrú,2771,epiphany,po/yo.po
+Low,2774,Kéré,2775,epiphany,po/yo.po
+High,2778,Ga,2779,epiphany,po/yo.po
+Security level: %s,2783,Ìpele ààbò: %s,2784,epiphany,po/yo.po
+Open image “%s”,2788,Ṣí àwòrán “%s”,2789,epiphany,po/yo.po
+Use as desktop background “%s”,2793,Lòó gẹ́gẹ́ bíi ẹ̀yìn ojú-iṣẹ́ “%s”,2794,epiphany,po/yo.po
+Save image “%s”,2798,Fi àwòrán pamọ́ “%s”,2799,epiphany,po/yo.po
+Copy image address “%s”,2803,Ṣẹ̀dà àdírẹ̀sì àwòrán “%s”,2804,epiphany,po/yo.po
+Send email to address “%s”,2808,Fi lẹ́tà kọ̀ǹpútà ránṣẹ́ sí àdírẹ̀sì “%s”,2809,epiphany,po/yo.po
+Copy email address “%s”,2813,Ṣẹ̀dà àdírẹ̀sì lẹ́tà kọ̀ǹpútà “%s”,2814,epiphany,po/yo.po
+Save link “%s”,2818,Fi líǹkì pamọ́ “%s”,2819,epiphany,po/yo.po
+Bookmark link “%s”,2823,Líǹkì àmì-ìwé “%s”,2824,epiphany,po/yo.po
+Copy link's address “%s”,2828,Ṣẹ̀dà àdírẹ̀sì líǹkì “%s”,2829,epiphany,po/yo.po
+Cookie Properties,2872,Àwọn Àbùdá Kúkì,2873,epiphany,po/yo.po
+Content:,2876,Àkóónú,2877,epiphany,po/yo.po
+Path:,2880,Ipa:,2881,epiphany,po/yo.po
+Send for:,2884,Ránṣẹ́ fún:,2885,epiphany,po/yo.po
+Encrypted connections only,2888,Àwọn ìdarapọ̀ ìyídà nìkan,2889,epiphany,po/yo.po
+Any type of connection,2892,Ìdarapọ̀ èyíkèyí,2893,epiphany,po/yo.po
+Expires:,2896,Parí iṣẹ́:,2897,epiphany,po/yo.po
+End of current session,2901,Ìparí sáà lọ́wọ́lọ́wọ́,2902,epiphany,po/yo.po
+Domain,2905,Agbègbè,2906,epiphany,po/yo.po
+Host,2909,Agbàlejò,2910,epiphany,po/yo.po
+User Name,2913,Orúkọ Òǹlò,2914,epiphany,po/yo.po
+User Password,2917,Á̀mì-àṣírí Òǹlò,2918,epiphany,po/yo.po
+Download Link,2921,Ṣàgbéwọlé Líǹkì,2922,epiphany,po/yo.po
+Save Link As,2925,Fi Líǹkì Pamọ́ Gẹ́gẹ́ Bíi,2926,epiphany,po/yo.po
+Save Image As,2929,Fi Àwòrán Pamọ́ Gẹ́gẹ́ bíi,2930,epiphany,po/yo.po
+System language (%s),2953,Èdè ètò kọ̀ǹpútà (%s),2955,epiphany,po/yo.po
+System language (%s),2953,Èdè ètò kọ̀ǹpútà (%s),2956,epiphany,po/yo.po
+Select a Directory,2959,Yan Atọ́nà,2960,epiphany,po/yo.po
+Save,2963,Fi pamọ́,2964,epiphany,po/yo.po
+"The GNOME Web Browser is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",3008,"Ẹ̀yà-ara kọ̀ǹpútà àìfojúrí ọ̀fẹ́ ni Awáròyìn Wẹ́ẹ̀bù GNOME; o lè tun pín kí o/tàbí tuntò lábẹ́ àwọn ìwọ̀fún Ìwé-àṣẹ Gbogbogbò ti GNU gẹ́gẹ́ bí a ṣe tẹ̀ẹ́ láti ọwọ́ Àjọ Ẹ̀yà-ara kọ̀ǹpútà Ọ̀fẹ́; yálà ẹ̀yà kejì ti Ìwé-àṣẹ, tàbí (ti ẹ̀yàn rẹ) ẹ̀yà mìíràn tó lè jáde lọ́jọ́ iwájú.",3013,epiphany,po/yo.po
+"The GNOME Web Browser is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.",3020,"A pín Awáròyìn Wẹ́ẹ̀bù GNOME pẹ̀lú ìrètí pé yóò wúlò ṣùgbọ́n a pin LÁÌ SÍ WÁRÁǸTÌ, kódà wáráǹ̀tì ITAJA tàbí ÌWÚLÒ FÚN ÌLÒ PÀTÀKÌ KAN.  Wo Àṣẹ Gbogbogbò GNU fún àlàyé lẹ́kùnrẹ́rẹ́.",3025,epiphany,po/yo.po
+Contact us at:,3043,Kàn si wá ní:,3044,epiphany,po/yo.po
+Contributors:,3047,Àwọn tó dá si:,3048,epiphany,po/yo.po
+Past developers:,3051,Àwọn oníṣẹ́-ọ̀nà tẹ́lẹ̀:,3052,epiphany,po/yo.po
+GNOME Web Browser Website,3074,Gbàgede-wẹ́ẹ̀bù Awáròyìn Wẹ́ẹ̀bù GNOME,3075,epiphany,po/yo.po
+Multimedia menu,17,Àtòjọ-ẹ̀yàn agbé-ọ̀pọ̀-ìròyìn-jáde,18,gnome-menus,po/yo.po
+Sound & Video,21,Ìró & Fídíò,22,gnome-menus,po/yo.po
+Programming,25,Ìṣàtòjọ-ètò,26,gnome-menus,po/yo.po
+Tools for software development,29,Àwọn irinṣẹ́ fún ìdàgbàsókè ẹ̀yà-ará kọ̀ǹpútà àìfojúrí,30,gnome-menus,po/yo.po
+Education,33,Ẹ̀kọ́,34,gnome-menus,po/yo.po
+Games,37,Àwọn Ayò,38,gnome-menus,po/yo.po
+Games and amusements,41,Àwọn ayò àti àwọn eré-àṣenọjú,42,gnome-menus,po/yo.po
+Graphics,45,Gíráfíìsì,46,gnome-menus,po/yo.po
+Graphics applications,49,Àwọn ìṣàmúlò-ètò gíráfíìsì,50,gnome-menus,po/yo.po
+Internet,77,Ítánẹ́̀ẹ̀tì,78,gnome-menus,po/yo.po
+Programs for Internet access such as web and email,81,Àwọn àtòjọ-ètò fún ìráyè ítánẹ́ẹ̀tì bíi wẹ́ẹ̀bù àti lẹ́tà kọ̀ǹpútà,82,gnome-menus,po/yo.po
+Office,85,Ọ́fíìsì,86,gnome-menus,po/yo.po
+Office Applications,89,Àwọn Ìṣàmúlò-ètò Ọ́fíìsì,90,gnome-menus,po/yo.po
+Administration,102,Ìṣàkóso,103,gnome-menus,po/yo.po
+Personal preferences,111,Àwọn ìkúndùn aládàáni,112,gnome-menus,po/yo.po
+Preferences,115,Àwọn ìkúndùn,116,gnome-menus,po/yo.po
+System Tools,129,Àwọn Irinṣẹ́ Ètò Kọ̀ǹpútà,130,gnome-menus,po/yo.po
+System configuration and monitoring,133,Ìṣàmójútó àti àtòpọ̀ ètò kọ̀ǹpútà,134,gnome-menus,po/yo.po
+Accessories,146,Àwọn Àsẹ́sírì,147,gnome-menus,po/yo.po
+Desktop accessories,150,Àwọn àsẹ́sírì ojù-iṣẹ́,151,gnome-menus,po/yo.po
+Applications,154,Àwọn Ìṣàmúlò-ètò,155,gnome-menus,po/yo.po
+Personal preferences and administration settings,158,Àwọn ààtò ìṣàkóso àti àwọn ìkúndùn aládàáni,159,gnome-menus,po/yo.po
+Applications that did not fit in other categories,162,Àwọn ìsàmúlò-ètò tí kò bá àwọn ọ̀wọ́ mìíràn mu,163,gnome-menus,po/yo.po
+Other,166,Òmíràn,167,gnome-menus,po/yo.po
+Menu Editor,170,Olótùú Àtòjọ-ẹ̀yàn,171,gnome-menus,po/yo.po
+Edit Menus,174,Ṣàyẹ̀wò Àwọn Àtòjọ-ẹ̀yàn,175,gnome-menus,po/yo.po
+_Applications:,178,_Àwọn Ìṣàmúlò-ètò:,179,gnome-menus,po/yo.po
+_Defaults,182,_Àwọn ìpéwọ̀n,183,gnome-menus,po/yo.po
+_Menus:,186,_Àwọn Àtòjọ-ẹ̀yàn:,187,gnome-menus,po/yo.po
+Name,191,Orúkọ,192,gnome-menus,po/yo.po
+Show,195,Fihàn,196,gnome-menus,po/yo.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,199,Kò lè wá atọ́nà ilé: kò sí àgbékalẹ̀ rẹ̀ ní /etc/passwd kò sí oye fún $HOME ní àyíká,202,gnome-menus,po/yo.po
+Menu file,207,Fáìlì àtòjọ-ẹ̀yàn,208,gnome-menus,po/yo.po
+MENU_FILE,211,FÁÌLÌ_ÀTÒJỌ-Ẹ̀YÀN,212,gnome-menus,po/yo.po
+Monitor for menu changes,215,Àpótí ìṣàfihàn fún àwọn ìyípadà àtòjọ-ẹ̀yàn,216,gnome-menus,po/yo.po
+Include <Exclude>d entries,219,Fi àwọn àmúwọlé <Tí Kò Sí Níbẹ̀> si,220,gnome-menus,po/yo.po
+Invalid desktop file ID,228,ID fáìlì ojú-iṣẹ́ àìfẹsẹmúlẹ̀,229,gnome-menus,po/yo.po
+[Invalid Filename],232,̀̀̀̀̀̀̀̀[Orúkọ-fáìlì Àìfẹsẹ̀múlẹ̀],233,gnome-menus,po/yo.po
+ <excluded>,236, <kò sí níbẹ̀>,237,gnome-menus,po/yo.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",241,\n\n\n==== Àtúnkì àtòjọ-ẹ̀yàn tó yípadà ====\n\n\n,248,gnome-menus,po/yo.po
+Menu tree is empty,257,Igi àtòjọ-ẹ̀yàn ṣófo,258,gnome-menus,po/yo.po
+- test GNOME's implementation of the Desktop Menu Specification,261,- yẹ ìpilẹ̀ Ojúùwọ̀n Àtòjọ-ẹ̀yàn Ojú-iṣẹ́ GNOME wò,262,gnome-menus,po/yo.po
+Add Startup Program,21,Ṣàfikún Àtòjọ-ètò Fún Ìbẹ̀rẹ̀,22,gnome-session,po/yo.po
+Edit Startup Program,25,Ṣàyẹ̀wò Àtòjọ-ètò Fún Ìbẹ̀rẹ̀,26,gnome-session,po/yo.po
+The startup command cannot be empty,38,Àṣẹ fún ìbẹ̀rẹ̀ kò lè jẹ́ òfìfo,39,gnome-session,po/yo.po
+Program,56,Àtòjọ-ètò,57,gnome-session,po/yo.po
+"If enabled, gnome-session will prompt the user before ending a session.",103,Tí a bá fún lágbára iṣẹ́ sáà gnome á́ ṣí òǹlò náà lórí kó tó parí sáà kan.,104,gnome-session,po/yo.po
+"If enabled, gnome-session will save the session automatically. Otherwise, the logout dialog will have an option to save the session.",108,"Tí a bá fún lágbára sáà-gnome á dáfi sáà náà pamọ́. Láì jẹ́ bẹ́ẹ̀, onísọ̀rọ̀gbèsì ìparí iṣẹ́ á ní ẹ̀yàn láti fi sáà náà pamọ́.",111,gnome-session,po/yo.po
+Logout prompt,130,Ìṣílórí ìparí iṣẹ́,131,gnome-session,po/yo.po
+Preferred Image to use for login splash screen,139,Àwòrán tí a fẹ́ láti lò fún ojú kọ̀ǹpútà píláàṣì,140,gnome-session,po/yo.po
+Save sessions,147,Fi àwọn sáà pamọ́,148,gnome-session,po/yo.po
+Show the splash screen,155,Fi ojú kọ̀ǹpútà píláàṣì hàn,156,gnome-session,po/yo.po
+Show the splash screen when the session starts up,159,Fi ojú kọ̀ǹpútà píláàṣì hàn tí sáà náà bá ti bẹ̀rẹ̀,160,gnome-session,po/yo.po
+This is a relative path value based off the $datadir/pixmaps/ directory. Sub-directories and image names are valid values. Changing this value will effect the next session login.,186,Fálù tó jẹmọ́ ipa tó dálé atọ́nà $datadir/pixmaps/ ni èyí. Àwọn ẹ̀ka-atọ́nà àti àwọn orúkọ àwòrán jẹ́ àwọn fálù tó fẹsẹ̀múlẹ̀. Ìyípadà fálù yìí á kan ìbẹ̀rẹ̀ iṣẹ́ sáà tókàn.,190,gnome-session,po/yo.po
+Window Manager,207,Alábòójútó Fèrèsé,208,gnome-session,po/yo.po
+Configure your sessions,222,Ṣàtòpọ̀ àwọn sáà rẹ,223,gnome-session,po/yo.po
+Sessions,226,Àwọn Sáà,227,gnome-session,po/yo.po
+Additional startup _programs:,230,Àwọn àtòjọ-ètò fún ìbẹ̀rẹ̀ _aláfikún:,231,gnome-session,po/yo.po
+Startup Programs,253,Àwọn Àtòjọ-ètò fún Ìbẹ̀rẹ̀,254,gnome-session,po/yo.po
+Unknown,348,Àìmọ̀,349,gnome-session,po/yo.po
+Kill session,540,Pa sáà,541,gnome-session,po/yo.po
+Could not connect to the session manager,553,Kò lè darapọ̀ mọ́ alábòójútó sáà,554,gnome-session,po/yo.po
+"Could not parse \""%s\"" as an integer",34,"Kò lè ṣètò \""%s\"" gẹ́gẹ́ bíi ítíjà",35,mutter,po/yo.po
+"Did not understand trailing characters \""%s\"" in string \""%s\""",41,"Àwọn àmì-ìkọ tírélìn kò yé \""%s\"" nínú fọ́nrán \""%s\""",42,mutter,po/yo.po
+"Failed to parse message \""%s\"" from dialog process\n",46,"Ó kùnà láti ṣètò iṣẹ́ rírán \""%s\"" láti inú ìlànà onísọ̀rọ̀gbèsi\n",47,mutter,po/yo.po
+Error reading from dialog display process: %s\n,51,Àṣìṣe kíkà láti ìlànà ìṣàfihàn onísọ̀rọ̀gbèsì: %s\n,52,mutter,po/yo.po
+Error launching metacity-dialog to ask about killing an application: %s\n,56,Àṣìṣe ìfilọ́lẹ̀ metacity-onísọ̀rọ̀gbèsì á bèrè nípa pípa ìṣàmúlò-ètò kan: %s\n,58,mutter,po/yo.po
+Failed to get hostname: %s\n,63,Ó kùnà láti rí orúkọ-agbàlejò: %s\n,64,mutter,po/yo.po
+Failed to open X Window System display '%s'\n,73,Ó kùnà láti ṣí ìṣàfihàn Ètò Fèrèsé X '%s'\n,74,mutter,po/yo.po
+Lost connection to the display '%s';\nmost likely the X server was shut down or you killed/destroyed\nthe window manager.\n,78,Ó sọ ìdarapọ̀ nù fún ìsàfihàn '%s';\nÓ ṣeé ṣe kí a pa sáfà X tàbí o pa/ba alábòójútó fèrèsé náà jẹ́.\n,82,mutter,po/yo.po
+Fatal IO error %d (%s) on display '%s'.\n,88,Àṣìṣe IO ńlá %d (%s) lórí ìṣàfihàn '%s'.\n,89,mutter,po/yo.po
+Some other program is already using the key %s with modifiers %x as a binding\n,93,Ọ̀pọ̀lọpọ̀ àtòjọ-ètò mìíràn ló ń ti ń lo bọ́tìnì %s tẹ́lẹ̀ pẹ́lú àwọn aṣàtúntò %x gẹ́gẹ́ bíi aṣẹ̀dá-ìtọ́ka\n,96,mutter,po/yo.po
+No command %d has been defined.\n,115,A kò tíì soríkì àṣe %d kankan.\n,116,mutter,po/yo.po
+No terminal command has been defined.\n,120,A kò tíì soríkì àṣẹ támínà kankan.\n,121,mutter,po/yo.po
+Failed to scan themes directory: %s\n,175,Ó kùnà láti síkáànì atọ́nà àwọn kókó: %s\n,176,mutter,po/yo.po
+Failed to restart: %s\n,186,Ó kùnà láti tún bẹ̀rẹ̀: %s\n,187,mutter,po/yo.po
+GConf key '%s' is set to an invalid value\n,202,A gbé bọ́tìnì GConf '%s' kalẹ̀ sí irúfẹ́ tí kò fẹsẹ̀múlẹ̀\n,203,mutter,po/yo.po
+"GConf key \""%s\"" is set to an invalid type\n",214,"A gbé bọ́tìnì GConf \""%s\"" kalẹ̀ sí irúfẹ́ tí kò fẹsẹ̀múlẹ̀\n",215,mutter,po/yo.po
+Workarounds for broken applications disabled. Some applications may not behave properly.\n,218,Àwọn workaround fún àwọn ìṣàmúlò-ètò tó dàrú kò ṣiṣẹ́. Ọ̀pọ̀lọpọ̀ àwọn ìṣàmúlò-ètò kò hùwà dáadáa.\n,221,mutter,po/yo.po
+"Could not parse font description \""%s\"" from GConf key %s\n",227,"Kò lè páàsì àpèjúwe ìrísí-lẹ́tà \""%s\"" láti inú bọ́tìnì GConf %s\n",228,mutter,po/yo.po
+"\""%s\"" found in configuration database is not a valid value for mouse button modifier\n",232,"\""%s\"" tí a rí nínú èròjà ìwádìí àtòpọ̀ kìí ṣe fálù tó fẹsẹ̀múlẹ̀ fún aṣàtúntò bọ́tìnì ohun-èlò aṣèkúté\n",235,mutter,po/yo.po
+Error setting number of workspaces to %d: %s\n,241,Àṣìṣe ìgbékalẹ̀ oye àwon ààyè-iṣẹ́ sí %d: %s\n,242,mutter,po/yo.po
+Workspace %d,246,Ààyè-iṣẹ́ %d,247,mutter,po/yo.po
+"\""%s\"" found in configuration database is not a valid value for keybinding \""%s\""\n",251,"\""%s\"" tí a rí nínú èròjà ìwádìí àtòpọ̀ kìí ṣe fálu tó fẹsẹ̀múlẹ̀ fún aṣẹ̀dá-ìtọ́ka \""%s\""\n",254,mutter,po/yo.po
+"Error setting name for workspace %d to \""%s\"": %s\n",260,"Àṣìṣe ìgbékalẹ̀ orúkọ fún ààyè-iṣẹ́ %d sí \""%s\"": %s\n",261,mutter,po/yo.po
+Screen %d on display '%s' is invalid\n,270,Ojú kọ̀ǹpútà %d tí a ̀ṣàfihàn '%s' kò fẹsẹ̀múlẹ̀\n,271,mutter,po/yo.po
+"Screen %d on display \""%s\"" already has a window manager; try using the --replace option to replace the current window manager.\n",275,"Ojú kọ̀ǹpútà %d tí a ṣàfihàn \""%s\"" ti ní alábòójútó fèrèsé tẹ́lẹ̀; gbìyànjú lílo --ẹ̀yàn ìpààrọ̀ láti pà́àrọ̀ alábòójútó lọ́wọ́lọ́wọ́.\n",278,mutter,po/yo.po
+"Could not acquire window manager selection on screen %d display \""%s\""\n",284,"Kò lè gba ẹ̀yàn alábòójútó fèrèsé lórí ojú kọ̀ǹpútà %d ìṣàfihàn \""%s\""\n",286,mutter,po/yo.po
+"Screen %d on display \""%s\"" already has a window manager\n",290,"Ojú kọ̀ǹpútà %d tí a ̀ṣàfihàn \""%s\"" ti ní alábòójútó fèrèsé tẹ́lẹ̀\n",291,mutter,po/yo.po
+"Could not release screen %d on display \""%s\""\n",295,"Kò lè fi ojú kọ̀ǹpútà %d tí a ṣàfihàn sílẹ̀\""%s\""\n",296,mutter,po/yo.po
+Could not create directory '%s': %s\n,339,Kò lè ṣẹ̀dá atọ́nà '%s': %s\n,340,mutter,po/yo.po
+Could not open session file '%s' for writing: %s\n,344,Kò lè ṣí fáìlì sáà '%s' fún kíkọ: %s\n,345,mutter,po/yo.po
+Error writing session file '%s': %s\n,349,Àṣìṣe kíkọ fáìlì sáà '%s': %s\n,350,mutter,po/yo.po
+Error closing session file '%s': %s\n,354,Aṣìse títi fáìlì sáà '%s': %s\n,355,mutter,po/yo.po
+Failed to read saved session file %s: %s\n,360,Ó kùnà láti ka fáìlì sáà tí a fi pamọ́ %s: %s\n,361,mutter,po/yo.po
+Failed to parse saved session file: %s\n,365,Ó kùnà láti páàsì fáìlì sáà tí a fi pamọ́: %s\n,366,mutter,po/yo.po
+<metacity_session> attribute seen but we already have the session ID,370,àbùdá <sáà_metacity> tí a rí ṣùgbọ́n tí a ti ní sáà ID náà tẹ́lẹ̀,371,mutter,po/yo.po
+Unknown element %s,387,Fọ́nrán àìmọ̀ %s,388,mutter,po/yo.po
+Error launching metacity-dialog to warn about apps that don't support session management: %s\n,392,Àṣìṣe ìfi onísọ̀rọ̀gbèsì-metacity lọ́lẹ̀ láti kìlọ̀ nípa apps tí kò ṣàtìlẹ́yìn alábòójútó sáà: %s\n,395,mutter,po/yo.po
+Failed to open debug log: %s\n,401,Ó kùnà láti ṣí ìpamọ́ ìwáṣìṣe bárakú: %s\n,402,mutter,po/yo.po
+Failed to fdopen() log file %s: %s\n,406,Ó kùnà láti fdṣí () fáìlì ìpamọ́ %s: %s\n,407,mutter,po/yo.po
+Opened log file %s\n,411,Fáìlì ìpamọ́ tí a ṣí %s\n,412,mutter,po/yo.po
+Metacity was compiled without support for verbose mode\n,416,A ṣàmúpọ̀ metacity láì sí àtìlẹ́yìn fún móòdù verbose\n,417,mutter,po/yo.po
+Window manager: ,420,Alábòójútó fèrèsé: ,421,mutter,po/yo.po
+Bug in window manager: ,424,Àsìṣe bárakú nínú alábòójútó fèrèsé: ,425,mutter,po/yo.po
+Window manager warning: ,428,Ìkìlọ̀ alábòójútó fèrèsé: ,429,mutter,po/yo.po
+Window manager error: ,432,Àṣìṣe alábòójútó fèrèsé: ,433,mutter,po/yo.po
+"Window %s sets SM_CLIENT_ID on itself, instead of on the WM_CLIENT_LEADER window as specified in the ICCCM.\n",445,Fèrèsé %s ń ṣàgbékalẹ̀ SM_CLIENT_ID lórí ara rẹ̀ dípò lórí fèrèsé WM_CLIENT_LEADER gẹ́gẹ́ bí a ṣe sọ ní pàtó nínú ICCCM.\n,448,mutter,po/yo.po
+"Window %s sets an MWM hint indicating it isn't resizable, but sets min size %d x %d and max size %d x %d; this doesn't make much sense.\n",461,"Fèrèsé %s ń ṣàgbékalẹ̀ òfófó MWM, ó sì ń tọ́ka si pè kò ṣeé tún wọ̀n, ṣùgbọ́n ó gbé ìwọ̀n %d x %d kalẹ̀ fún min, ó sì gbé %d x %d kalẹ̀ fún ìwọ̀n max; èyí kò fi bẹ́ẹ̀ ní ọpọlọ.\n",464,mutter,po/yo.po
+"Window 0x%lx has property %s\nthat was expected to have type %s format %d\nand actually has type %s format %d n_items %d.\nThis is most likely an application bug, not a window manager bug.\nThe window has title=\""%s\"" class=\""%s\"" name=\""%s\""\n",486,"Fèrèsé 0x%lx ní àbùdá %s\ntí a rò pé á ní irúfẹ́ %s ìgúnrégé %d\ntó sì wá ní irúfẹ́ %s ìgúnrégé %d n_àwọn wúnrẹ̀n %d.\nÀṣìṣe bárakú ìṣàmúlò-ètò ni yóò jẹ́ kìí ṣe àṣìṣe bárakú alábòójútó fèrèsé.\nFèrèsé náà ní àkọ́lé=\""%s\"" kíláàsì=\""%s\"" orúkọ=\""%s\""\n",492,mutter,po/yo.po
+Property %s on window 0x%lx contained invalid UTF-8\n,501,Àbùdá %s lórí fèrèsé 0x%lx ní UTF-8 tí kò fẹsẹ̀múlẹ̀ nínú̀\n,502,mutter,po/yo.po
+Property %s on window 0x%lx contained invalid UTF-8 for item %d in the list\n,506,Àbùdá %s lórí fèrèsé 0x%lx ní UTF-8 tí kò fẹsẹ̀múlẹ̀ fún wúnrẹ̀n %d nínú àtòjọ náà\n,508,mutter,po/yo.po
+Switch to workspace 1,513,Sún sí ààyè-iṣẹ́ kìíní,514,mutter,po/yo.po
+Switch to workspace 2,517,Sún sí ààyè-iṣẹ́ kejì,518,mutter,po/yo.po
+Switch to workspace 3,521,Sún sí ààyè-iṣẹ́ kẹta,522,mutter,po/yo.po
+Switch to workspace 4,525,Sún sí ààyè-iṣẹ́ kẹrin,526,mutter,po/yo.po
+Switch to workspace 5,529,Sún sí ààyè-iṣẹ́ karùn ún,530,mutter,po/yo.po
+Switch to workspace 6,533,Sún sí ààyè-iṣẹ́ kẹfà,534,mutter,po/yo.po
+Switch to workspace 7,537,Sún sí ààyè-iṣẹ́ keje,538,mutter,po/yo.po
+Switch to workspace 8,541,Sún sí ààyè-iṣẹ́ kẹjọ,542,mutter,po/yo.po
+Switch to workspace 9,545,Sún sí ààyè-iṣẹ́ kẹsàn án,546,mutter,po/yo.po
+Switch to workspace 10,549,Sún sí ààyè-iṣẹ́ kẹwàá,550,mutter,po/yo.po
+Switch to workspace 11,553,Sún sí ààyè-iṣẹ́ kọkànlá,554,mutter,po/yo.po
+Switch to workspace 12,557,Sún sí ààyè-iṣẹ́ kejìlá,558,mutter,po/yo.po
+Move between windows immediately,621,Lọ láàrin àwọn fèrèsé lẹ́sẹ̀kẹsẹ̀,622,mutter,po/yo.po
+Move between panels and the desktop immediately,630,Lọ láàrin àwọn pánẹ́èlì àti ojú-iṣẹ́ lẹ́sẹ̀kẹsẹ̀,631,mutter,po/yo.po
+Move backward between panels and the desktop immediately,634,Lọ sẹ́yìn láàrin àwọn pánẹ́ẹ̀lì àti ojú-iṣẹ́ lẹ́sẹ̀kẹsẹ̀,635,mutter,po/yo.po
+Take a screenshot,653,Ya ìmáwòrán,654,mutter,po/yo.po
+Take a screenshot of a window,657,Ya ìmáwòrán fèrèsé kan,658,mutter,po/yo.po
+Run a terminal,661,Rọ́ọ̀nù támínà,662,mutter,po/yo.po
+Toggle fullscreen mode,670,Tọ́gù móòdù ojú kọ̀ǹpútà kíkún,671,mutter,po/yo.po
+Toggle maximization state,674,Tọ́gù ipò ìfẹ̀lójú,675,mutter,po/yo.po
+Maximize window,683,Fẹ fèrèsé,684,mutter,po/yo.po
+Toggle shaded state,692,Tọ́gù ipò tí a kùn,693,mutter,po/yo.po
+Minimize window,696,Pa fèrèsé dé,697,mutter,po/yo.po
+Close window,700,Ti Fèrèsé,701,mutter,po/yo.po
+Move window,704,Gbé fèrèsé,705,mutter,po/yo.po
+Resize window,708,Ìṣòdíwọ̀n fèrèsé,709,mutter,po/yo.po
+Move window to workspace 1,717,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kìíní,718,mutter,po/yo.po
+Move window to workspace 2,721,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kejì,722,mutter,po/yo.po
+Move window to workspace 3,725,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹta,726,mutter,po/yo.po
+Move window to workspace 4,729,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹrin,730,mutter,po/yo.po
+Move window to workspace 5,733,Gbé fèrèsé lọ sí ààyè-iṣẹ́ karùn ún,734,mutter,po/yo.po
+Move window to workspace 6,737,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹfà,738,mutter,po/yo.po
+Move window to workspace 7,741,Gbé fèrèsé lọ sí ààyè-iṣẹ́ keje,742,mutter,po/yo.po
+Move window to workspace 8,745,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹjọ,746,mutter,po/yo.po
+Move window to workspace 9,749,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹsàn án,750,mutter,po/yo.po
+Move window to workspace 10,753,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kẹwàá,754,mutter,po/yo.po
+Move window to workspace 11,757,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kọkànlá,758,mutter,po/yo.po
+Move window to workspace 12,761,Gbé fèrèsé lọ sí ààyè-iṣẹ́ kejìlá,762,mutter,po/yo.po
+Move window one workspace to the left,765,Gbé ààyè-iṣẹ́ fèrèsé kan sí òsì,766,mutter,po/yo.po
+Move window one workspace to the right,769,Gbé ààyè-iṣẹ́ fèrèsé kan sí ọ̀tún,770,mutter,po/yo.po
+Move window one workspace up,773,Gbé ààyè-iṣẹ́ fèrèsé kan sókè,774,mutter,po/yo.po
+Move window one workspace down,777,Gbé ààyè-iṣẹ́ fèrèsé kan wálẹ̀,778,mutter,po/yo.po
+Raise window above other windows,786,Gbeŕ fèrèsé ga ju àwọn fèrèsé mìíràn lọ,787,mutter,po/yo.po
+Lower window below other windows,790,Fèrèsé ìsàlẹ̀ lábẹ́ àwọn fèrèsé mìíràn,791,mutter,po/yo.po
+Maximize window vertically,794,Fẹ fèrèsé lólóròó,795,mutter,po/yo.po
+Maximize window horizontally,798,Fẹ fèrèsé lóníbùú,799,mutter,po/yo.po
+(Not implemented) Navigation works in terms of applications not windows,841,(A kò pilẹ̀ rẹ̀) Wíwúlò àwọn ìṣàmúlò-ètò ní ìtọpa ń bá ṣiṣẹ́ kìí ṣe ti àwọn fèrèsé,842,mutter,po/yo.po
+Action on title bar double-click,862,"Iṣẹ́ lórí àká ákọ́lé, tẹ̀ẹ́-lẹ́ẹ̀mejì",863,mutter,po/yo.po
+Arrangement of buttons on the titlebar,876,Ètò àwọn bọ́tìnì lórí àká-àkọ́lé,877,mutter,po/yo.po
+Automatically raises the focused window,897,Ń gbé fèrèsé tí a wòye sókè fún ra rẹ̀,898,mutter,po/yo.po
+"Clicking a window while holding down this modifier key will move the window (left click), resize the window (middle click), or show the window menu (right click). Modifier is expressed as \""&lt;Alt&gt;\"" or \""&lt;Super&gt;\"" for example.",901,"Títẹ fèrèsé kan, nígbà tí o bá ń tẹ bọ́tìnì aṣàtúntò yìí yóò gbé fèrèsé náà (ìtẹ̀ òsì) ìṣòdíwọ̀n fèrèsé náà (ìtẹ̀ àárín), tàbí kí o fi àtòjọ-ẹ̀yàn fèrèsé náà hàn (ìtẹ̀ ọ̀tún). A máa ń ṣàfihàn aṣàtúntò gẹ́gẹ́ bíi \""&lt;Alt&gt;\"" tàbí \""&lt;Super&gt;\"" bíi àpẹẹrẹ.",906,mutter,po/yo.po
+Commands to run in response to keybindings,913,Àwọn àṣẹ tí a fẹ́ rọ́ọ̀nù ní ìfèsì àwọn aṣẹ̀dá-ìtọ́ka bọ́tìnì,914,mutter,po/yo.po
+Current theme,925,Kókó lọ́wọ́lọ́wọ́,926,mutter,po/yo.po
+Delay in milliseconds for the auto raise option,929,Ìdádúró ìdá-ọ̀kẹ́ ìṣísẹ̀ fún ẹ̀yàn ìgbésókè aládàáṣe,930,mutter,po/yo.po
+Determines whether applications or the system can generate audible 'beeps'; may be used in conjunction with 'visual bell' to allow silent 'beeps'.,937,Ń máa ń sọ bóyá àwọn ìṣàmúlò-ètò tàbí ètò kọ̀ǹpútà lè da àwọn 'ìfùnpè' tó dún rọ. KÁ sì lè lòó pẹ̀lú 'aago afojúrí' láti lè fàyè gba àwọn 'ìfùnpè' ìdákẹ́jẹ́.,940,mutter,po/yo.po
+Disable misfeatures that are required by old or broken applications,945,Má mùú àwọn àbùd́á ségesège tí àwọn ìṣàmúlò-ètò àtijọ́ tàbí tí ó bàjẹ́ ń fẹ́ ṣiṣẹ́,946,mutter,po/yo.po
+Enable Visual Bell,950,Mú Agogo Afojúrí Ṣiṣẹ́,951,mutter,po/yo.po
+"If true, ignore the titlebar_font option, and use the standard application font for window titles.",966,"Tó bá jẹ́ òótọ́, pa ẹ̀yàn ìrísí-lẹ́tà àká-àkọ́lé náà ti, kí o sì lo ìrísí-lẹ́tà ìṣàmúlò-ètò òpéwọ̀n fún àwọn àkọ́lé fèrèsé.",969,mutter,po/yo.po
+"If true, trade off usability for less resource usage",1011,"Tó bá jẹ́ òótọ́, pààrọ̀ agbára ìlò fún ìlò ìròyìn díẹ̀",1012,mutter,po/yo.po
+Modifier to use for modified window click actions,1015,Aṣàtúntò tí a fẹ́ lò fún àwọn iṣẹ́ ìtẹ fèrèsé tí a túntò,1016,mutter,po/yo.po
+Name of workspace,1019,Orúkọ ààyè-iṣẹ́,1020,mutter,po/yo.po
+Number of workspaces,1023,Iye àwọn ààyè-iṣẹ́,1024,mutter,po/yo.po
+Run a defined command,1037,Rọ́ọ̀nù àṣẹ tí a kì,1038,mutter,po/yo.po
+System Bell is Audible,1071,Agogo Ètò Kọ̀ǹpútà Dún dáadáa,1072,mutter,po/yo.po
+"Tells Metacity how to implement the visual indication that the system bell or another application 'bell' indicator has been rung. Currently there are two valid values, \""fullscreen\"", which causes a fullscreen white-black flash, and \""frame_flash\"" which causes the titlebar of the application which sent the bell signal to flash. If the application which sent the bell is unknown (as is usually the case for the default \""system beep\""), the currently focused window's titlebar is flashed.",1075,"Ń sọ fún Metacity bí wọ́n ṣe ń pilẹ̀ ìtọ́ka tí a lè fojúrí pé aago ètò kọ̀ǹpútà tàbí atọ́ka 'aago' ìṣàmúlò-ètò mìíràn ti dún. Lọ́wọ́lọ́wọ́ báyìí àwọn fálù tó fesẹ̀múlẹ̀ méjì ló wà, \""ojú -kọ̀ǹpútà kíkún\"" tí ó máa ń fa fíláàṣì funfun-dúdú ojú kọ̀ǹpútà kíkún àti \""fíláàṣì_férémù\"" tó máa ń fa kí àká-àkọ́lé ìṣàmúlò-ètò tó ń fi àmì aago ránṣẹ́ sí fíláàṣì. Tí ìṣàmúlò-ètò tó fi aago náà ránṣẹ́ bá jẹ́ àìmọ̀ (bó ṣe máa ń rí fún ìpéwọ̀n \""ìfùnpè ètò kọ̀ǹpútà\"") á fíláàṣì àká-àkọ́lé fèrèsé tí a wòye lọ́wọ́lọ́wọ́.",1083,mutter,po/yo.po
+The /apps/metacity/global_keybindings/run_command_N keys define keybindings that correspond to these commands. Pressing the keybinding for run_command_N will execute command_N.,1093,Àwọn bọ́tìnì /apps/metacity/àwọn aṣẹ̀dá-ìtọ́ka bọ́tìnì_kárí ayé/rọ́ọ̀nù_àṣẹ_N máa ń soríkì àwọn aṣẹ̀dá-ìtọ́ka bọ́tìnì tó bá àwọn àṣẹ yìí mu. Títẹ aṣẹ̀dá-ìtọ́ka bọ́tìnì náà láti rọ́ọ̀nù_àṣẹ_N á mú àṣẹ_N ṣe.,1097,mutter,po/yo.po
+The /apps/metacity/global_keybindings/run_command_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1103,Bọ́tìnì /apps/metacity/àwọn aṣẹ̀dá-ìtọ́ka bọ́tìni_kárí ayé/rọ́ọ̀nù_àṣẹ_ìmáwòrán ló máa ń sọ oríkì aṣẹ̀dá-ìtọ́ka bọ́tìnì tó ń fa ìgbàpadà àṣẹ tí ààtò yìí sọ ní pàtó.,1106,mutter,po/yo.po
+The /apps/metacity/global_keybindings/run_command_window_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1112,Bọ́tìnì /apps/metacity/àwọn aṣẹ̀dá-ìtọ́ka bọ́tìni_kárí ayé/rọ́ọ̀nù_àṣẹ_ìmáwòrán_fèrèsé ló máa ń sọ oríkì aṣẹ̀dá-ìtọ́ka bọ́tìnì tó ń fa ìgbàpadà àṣẹ tí ààtò yìí sọ ní pàtó.,1116,mutter,po/yo.po
+"The keybinding that runs the correspondingly-numbered command in /apps/metacity/keybinding_commands The format looks like \""&lt;Control&gt;a\"" or \""&lt;Shift&gt;&lt;Alt&gt;F1\"". The parser is fairly liberal and allows lower or upper case, and also abbreviations such as \""&lt;Ctl&gt;\"" and \""&lt;Ctrl&gt;\"". If you set the option to the special string \""disabled\"", then there will be no keybinding for this action.",1122,"Aṣẹ̀dá-ìtọ́ka bọ́tìnì tí́ ó ń rọ́ọ̀nù àwọn àṣẹ tí a nọ́ńbà tó jọra nínú /apps/metacity/àwọn àṣẹ_aṣẹ̀dá-ìtọ́ka bọ́tìnì. Ìgúnrégé náà jọ \""&lt;Ìdarí&gt;a\"" tàbí \""&lt;Shift&gt;&lt;Alt&gt;F1\"". Pásà náà fanimọ́ra, ó sì ń fàyè gba lẹ́tà kékeré àti gòdògbò àti àwọn ìgékúrú bíi \""&lt;Ctl&gt;\"" àti \""&lt;Ctrl&gt;\"". Tí o bá gbé ẹ̀yàn náà kalẹ̀ sí fọ́nrán àkànṣe \""kò ní agbára mọ́\"", a jẹ́ pé kò ní sí aṣẹ̀dá-ìtọ́ka bọ́tìnì fún iṣẹ́ yìí nìyẹn.",1129,mutter,po/yo.po
+The name of a workspace.,1138,Orúkọ ààyè-iṣẹ́ kan.,1139,mutter,po/yo.po
+The screenshot command,1142,Àṣẹ ìmáwòrán,1143,mutter,po/yo.po
+"The theme determines the appearance of window borders, titlebar, and so forth.",1146,"́Kókó náà ni yóò sọ bí ìrísí àwọn ìpàlà fèrèsé, àká-àkọ́lé, àti bẹ́ẹ̀ bẹ́ẹ̀ lọ ṣe rí.",1149,mutter,po/yo.po
+The time delay before raising a window if auto_raise is set to true. The delay is given in thousandths of a second.,1154,Ìdádúró wà ní àkókò kí a tó gbé fèrèsé sókè tí a bá gbé ìgbéga_aládàáṣe kalẹ̀ sí òótọ́. Ìdádúró náà a máa wà ní ìdá ẹgbẹ̀rún ìṣísẹ̀.,1157,mutter,po/yo.po
+"The window focus mode indicates how windows are activated. It has three possible values; \""click\"" means windows must be clicked in order to focus them, \""sloppy\"" means windows are focused when the mouse enters the window, and \""mouse\"" means windows are focused when the mouse enters the window and unfocused when the mouse leaves the window.",1162,"Móòdù ìwòye fèrèsé náà máa ń fi bí a ṣe ń mú àwọn fèrèsé ṣiṣẹ́. Àwọn fálù mẹ́ta ló lè jẹ́; \""tẹ\"" ó túmọ sí pé a gbọ́dọ̀ tẹ àwọn fèrèsé láti lè wòye wọn \""àìbìkíta\"" ó túmọ̀ sí pé a gbọ́dọ̀ wòye àwọn fèrèsé nígbà tí fèrèsé náà bá wọ fèrèsé náà, àti\""ohun-èlò aṣèkúté\"" ó túmọ sí pé a gbọ́dọ̀ wòye àwọn fèrèsé nígbà tí ohun-èlò aṣèkúté bá wọ fèrèsé náà kò sí ní wòye nígbà tí ó fi fèrèsé náà sílẹ̀.",1168,mutter,po/yo.po
+The window screenshot command,1177,Àṣẹ ìmáwòràn fèrèsé,1178,mutter,po/yo.po
+Use standard system font in window titles,1236,Lo ìrísí-lẹ́tà ètò òpéwọ̀n nínú àwọn àkọ́lé fèrèsé,1237,mutter,po/yo.po
+Visual Bell Type,1240,Irúfẹ́ Aago Tí a lè rí,1241,mutter,po/yo.po
+Window focus mode,1248,Móòdù ìwòye fèrèsé,1249,mutter,po/yo.po
+Window title font,1252,Ìrísí-lẹ́tà àkọ́lé fèrèsé,1253,mutter,po/yo.po
+Usage: %s\n,1257,Ìlò: %s\n,1258,mutter,po/yo.po
+Close Window,1261,Ti Fèrèsé,1262,mutter,po/yo.po
+Window Menu,1265,Àtròjọ-ẹ̀yàn Fèrèsé,1266,mutter,po/yo.po
+Minimize Window,1269,Pa Fèrèsé Dé,1270,mutter,po/yo.po
+Maximize Window,1273,Fẹ Fèrèsé,1274,mutter,po/yo.po
+Mi_nimize,1311,Ìp_ajúdé,1312,mutter,po/yo.po
+Ma_ximize,1316,Fẹ̀_ẹ́lójú,1317,mutter,po/yo.po
+Unma_ximize,1321,Ma fẹ̀_ẹ́lójú,1322,mutter,po/yo.po
+Roll _Up,1326,Ka _Sókè,1327,mutter,po/yo.po
+_Unroll,1331,_Máka,1332,mutter,po/yo.po
+_Move,1336,_Gbe,1337,mutter,po/yo.po
+_Resize,1341,_Ìṣòdíwọ̀n,1342,mutter,po/yo.po
+_Always on Visible Workspace,1357,_Ó máa ń wà lórí Ààyè-iṣẹ́ tí a le Rí,1358,mutter,po/yo.po
+_Only on This Workspace,1362,_Lórí Ààyè-iṣẹ́ Yìí Nìkan,1363,mutter,po/yo.po
+Move to Workspace _Left,1367,Gbe lọ sí Ààyè-iṣẹ́ _Òsì,1368,mutter,po/yo.po
+Move to Workspace R_ight,1372,Gbe lọ sí Ààyè-iṣẹ́ Ọ̀_tún,1373,mutter,po/yo.po
+Move to Workspace _Up,1377,Gbe lọ sí Ààyè-iṣẹ́ _Òkè,1378,mutter,po/yo.po
+Move to Workspace _Down,1382,Gbe lọ sí ààyè-iṣẹ́ _Ìsàlẹ̀,1383,mutter,po/yo.po
+_Close,1388,_Ti,1389,mutter,po/yo.po
+Workspace 1_0,1398,Ààyè-iṣẹ́ 1_0,1399,mutter,po/yo.po
+Workspace %s%d,1403,Ààyè-iṣẹ́ %s%d,1404,mutter,po/yo.po
+Move to Another _Workspace,1407,Gbé sí Ààyè-iṣẹ́_Mìíràn,1408,mutter,po/yo.po
+_Force Quit,1516,_Ìjáde Ipá,1517,mutter,po/yo.po
+Title,1520,Àkọ́lé,1521,mutter,po/yo.po
+Class,1524,kíláàsì,1525,mutter,po/yo.po
+"These windows do not support \""save current setup\"" and will have to be restarted manually next time you log in.",1528,"Àwọn Fèrèsé yìí kò ṣàtìlẹ́yìn \""fi àgbékalẹ̀-ètò lọ́wọ́lọ́wọ́ pamọ́\"", a máa ní láti tun bẹ̀rẹ̀ pẹ̀lú ọwọ́ nígbà mìíràn tí a bá bẹ̀rẹ̀ iṣẹ́.",1531,mutter,po/yo.po
+"There was an error running \""%s\"":\n%s.",1537,"Àṣìṣe kan ń rọ́ọ̀nù \""%s\"":\n%s.",1540,mutter,po/yo.po
+top,1553,òkè,1554,mutter,po/yo.po
+bottom,1557,ìsàlẹ̀,1558,mutter,po/yo.po
+left,1561,òsì,1562,mutter,po/yo.po
+right,1565,ọ̀tún,1566,mutter,po/yo.po
+"frame geometry does not specify \""%s\"" dimension",1570,"Férémù jiọmítírì kò sọ ní pàtó ojúùwọ̀n \""%s\""",1571,mutter,po/yo.po
+"frame geometry does not specify dimension \""%s\"" for border \""%s\""",1575,"Férémù jiọmítírì kò sọ ní pàtó ojúùwọ̀n \""%s\"" fún ìpàlà \""%s\""",1576,mutter,po/yo.po
+Button aspect ratio %g is not reasonable,1580,Bọ́tìnì réṣíò aspect %g kò ní ọ̀pọ̀lọ,1581,mutter,po/yo.po
+Frame geometry does not specify size of buttons,1585,Férémù jiọmítírì kò sọ ní pàtó ìwọ̀n àwọn bọ́tìnì,1586,mutter,po/yo.po
+Gradients should have at least two colors,1590,Àwọn ìdàgẹ̀rẹ̀ yẹ kó ní ó kéré tán àwọn àwọ̀ méjì,1591,mutter,po/yo.po
+"GTK color specification must have the state in brackets, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1595,"Ojú-ìwọ̀n àwọ̀ GTK gbọ́dọ̀ ní ipò náà nínú àwọn àmì àkámọ́, b.a. gtk:fg[DÉÉDÉÉ] níbi tí DÉÉDÉÉ bá jẹ́ ipò;kò ní lè páàsì \""%s\""",1598,mutter,po/yo.po
+"GTK color specification must have a close bracket after the state, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1604,"Ojú-ìwọ̀n àwọ̀ GTK gbọ́dọ̀ ní àmì àkámọ́ títí lẹ́yìn ipò náà, b.a. gtk:fg[DÉÉDÉÉ] níbi tí DÉÉDÉÉ ti jẹ́ ipò kò ní lè páàsì \""%s\""",1607,mutter,po/yo.po
+"Did not understand state \""%s\"" in color specification",1613,"Ipò \""%s\"" kò ye nínú ojú-ìwọ̀n àwọ̀",1614,mutter,po/yo.po
+"Did not understand color component \""%s\"" in color specification",1618,"Ọmọ-inú àwọ̀ \""%s\"" kò ye nínú ojú-ìwọ̀n àwọ̀",1619,mutter,po/yo.po
+"Blend format is \""blend/bg_color/fg_color/alpha\"", \""%s\"" does not fit the format",1623,"Ìgúnrégé tí a pòpọ̀ ni \""blend/bg_color/fg_color/alpha\"", \""%s\"" kò bá ìgúnrégé náà mu",1626,mutter,po/yo.po
+"Could not parse alpha value \""%s\"" in blended color",1632,"Kò lè páàsì fálù áfà \""%s\"" nínú àwọ tí a pòpọ̀",1633,mutter,po/yo.po
+"Alpha value \""%s\"" in blended color is not between 0.0 and 1.0",1637,"Fálù áfà \""%s\"" nínú àwọ̀ tí a papọ̀ kò sí láàrin 0.0 àti 1.0",1638,mutter,po/yo.po
+"Shade format is \""shade/base_color/factor\"", \""%s\"" does not fit the format",1642,"Ìgúnrégé kíkùn jẹ́ \""shade/base_color/factor\"", \""%s\"" kò bá ìgúnrégé náà mu",1644,mutter,po/yo.po
+"Could not parse shade factor \""%s\"" in shaded color",1649,"Kò lè páàsì ọ̀fà kíkùn \""%s\"" nínú àwọ̀ tí a kùn",1650,mutter,po/yo.po
+"Shade factor \""%s\"" in shaded color is negative",1654,"Ọ̀fà kíkùn \""%s\"" nínú àwọ̀ tí a kùn jẹ́ ìyọkúrò",1655,mutter,po/yo.po
+"Could not parse color \""%s\""",1659,"Kò lè páàsì àwọ̀ \""%s\""",1660,mutter,po/yo.po
+Coordinate expression contains character '%s' which is not allowed,1664,Ìsọ ìfètò sí nǹkan ní àmì-ìkọ '%s' nínú tí a kò fàyè gbà,1665,mutter,po/yo.po
+Coordinate expression contains floating point number '%s' which could not be parsed,1669,Ìsọ ìfètò sí nǹkan ní nọ́ńbà floating point nínú '%s' tí a kò lè páàsì,1672,mutter,po/yo.po
+Coordinate expression contains integer '%s' which could not be parsed,1676,Ìsọ ìfètò sí nǹkan ní ítíjà '%s' nínú tí a kò lè páàsì,1677,mutter,po/yo.po
+"Coordinate expression contained unknown operator at the start of this text: \""%s\""",1681,"Ìsọ ìfètò sí nǹkan ní ọpirétọ̀ àìmọ̀ nínú ní ìbẹ̀rẹ̀ àyọkà yìí: \""%s\""",1684,mutter,po/yo.po
+Coordinate expression was empty or not understood,1688,Òfìfo ni ìsọ ìfètò sí nǹkan wà tàbí kó má yé ni,1689,mutter,po/yo.po
+Coordinate expression results in division by zero,1693,Èsì ìpín ìsọ ìfètò sí nǹkan pẹ̀lú òdo,1694,mutter,po/yo.po
+Coordinate expression tries to use mod operator on a floating-point number,1698,Ìsọ ìfètò sí nǹkan ń gbìyànjú láti lo ọpirétọ̀ mod lórí nọ́ńbà floating point,1700,mutter,po/yo.po
+"Coordinate expression has an operator \""%s\"" where an operand was expected",1705,"Ìsọ ìfètò sí nǹkan ní ọpirétọ̀ \""%s\"" kan níbi tí a ti ń retí operand",1707,mutter,po/yo.po
+Coordinate expression had an operand where an operator was expected,1711,Ìsọ ìfèto sí nǹkan ní operand níbi tí a ti ń retí ọpirétọ̀,1712,mutter,po/yo.po
+Coordinate expression ended with an operator instead of an operand,1716,Ọpirétọ̀ ló kẹ́yìn ìsọ ìfètò sí nǹkàn dípò operand,1717,mutter,po/yo.po
+"Coordinate expression has operator \""%c\"" following operator \""%c\"" with no operand in between",1721,"Ìsọ ìfètò sí nǹkan ní ọpirétọ̀ \""%c\"" tó tẹ̀lé ọpirétọ̀ \""%c\"" láì sí operand láàrin rẹ̀",1724,mutter,po/yo.po
+"Coordinate expression had unknown variable or constant \""%s\""",1730,"Ìsọ ìfètò sí nǹkan ní férébù tàbí kọ́nsítáǹtì \""%s\"" àìmọ̀",1731,mutter,po/yo.po
+Coordinate expression had a close parenthesis with no open parenthesis,1740,"Ìsọ ìfètò sí nǹkan ní àkámọ́ títì, kò ní àkámọ́ ṣíṣí",1741,mutter,po/yo.po
+Coordinate expression had an open parenthesis with no close parenthesis,1745,Ìsọ ìfètò sí nǹkan ní àkámọ́ ṣíṣí láì sí àkámọ́ títì,1746,mutter,po/yo.po
+Coordinate expression doesn't seem to have any operators or operands,1750,Ó jọ pé ìsọ ìfètò sí nǹkan kò ní àwọn ọpirétọ̀ tàbí àwọn operand,1751,mutter,po/yo.po
+"<button function=\""%s\"" state=\""%s\"" draw_ops=\""whatever\""/> must be specified for this frame style",1760,"<ojúṣe bọ́tìnì=\""%s\"" ipò=\""%s\"" ya_ops=\""ohunkóhun\""/> a gbọ́dọ̀ sọ ní pàtó fún sítáì férémù",1763,mutter,po/yo.po
+"Missing <frame state=\""%s\"" resize=\""%s\"" focus=\""%s\"" style=\""whatever\""/>",1769,"A kò ri <ipò férémù=\""%s\"" ìṣòdíwọ̀n=\""%s\"" òye=\""%s\"" sítáì=\""ohunkóhun\""/>",1771,mutter,po/yo.po
+"Failed to load theme \""%s\"": %s\n",1776,"Ó kùnà láti ki kókó \""%s\"": %s\n",1777,mutter,po/yo.po
+"No <%s> set for theme \""%s\""",1782,"Kòsí <%s> àgbékalẹ̀ fún kókó \""%s\""",1783,mutter,po/yo.po
+"No frame style set for window type \""%s\"" in theme \""%s\"", add a <window type=\""%s\"" style_set=\""whatever\""/> element",1787,"Kò sí sítàì férémù kankan tí a gbékalẹ̀ fún irúfẹ́ fèrèsé \""%s\"" nínú kókó \""%s\"", ṣàfikún <irúfẹ́ fèrèsé=\""%s\"" àgbékalẹ̀_sítáì=\""ohunkóhun\""/> fọ́nrán",1790,mutter,po/yo.po
+"User-defined constants must begin with a capital letter; \""%s\"" does not",1796,"Àwọn kọ́nsítáǹtì òǹlò gbọ́dọ̀ bẹ̀rẹ̀ pẹ̀lú lẹ́tà ńlá; \""%s\"" kò ní",1798,mutter,po/yo.po
+"Constant \""%s\"" has already been defined",1802,"A ti soríkì kọ́nsítáǹtì \""%s\"" tẹ́lẹ̀",1803,mutter,po/yo.po
+"No \""%s\"" attribute on element <%s>",1810,"Kò sí àbùdá \""%s\"" lórí fọ́nrán <%s>",1811,mutter,po/yo.po
+Line %d character %d: %s,1815,Ilà %d àmì-ìkọ %d: %s,1816,mutter,po/yo.po
+"Attribute \""%s\"" repeated twice on the same <%s> element",1820,"Àbùdá \""%s\"" tí a tún ṣe lẹ́ẹ̀mejì lórí fọ́nrán <%s. kan náà",1821,mutter,po/yo.po
+"Attribute \""%s\"" is invalid on <%s> element in this context",1825,"Àbùdá \""%s\"" kò fẹsẹ̀múlẹ̀ lórí fọ́nrán <%s> ní ọ̀gangan ipò yìí",1826,mutter,po/yo.po
+Integer %ld must be positive,1830,Ítíjà %ld gbọ́dọ̀ jẹ́ àròpọ̀,1831,mutter,po/yo.po
+"Integer %ld is too large, current max is %d",1835,"Ítíjà %ld ti tóbi jù, max lọ́wọ́lọ́wọ́ jẹ́ %d",1836,mutter,po/yo.po
+"Could not parse \""%s\"" as a floating point number",1840,"Kò lé páàsì \""%s\"" gẹ́gẹ́ bíi nọ́ńbà floating point",1841,mutter,po/yo.po
+"Boolean values must be \""true\"" or \""false\"" not \""%s\""",1845,"Àwọn fálù Boolean gbọ́dọ̀ jẹ́ \""òótọ́\"" tàbí \""irọ́ kìí ṣe \""%s\""",1846,mutter,po/yo.po
+"Angle must be between 0.0 and 360.0, was %g\n",1850,"Áńgù gbọ́dọ̀ wà láàrin 0.0 àti 360.0, ó jẹ́ %g\n",1851,mutter,po/yo.po
+"Alpha must be between 0.0 (invisible) and 1.0 (fully opaque), was %g\n",1855,"Áfà gbọ́dọ̀ wà láàrin 0.0 (àìfojúrí) àti 1.0 (dídí pátápátá), ó jẹ́ %g\n",1856,mutter,po/yo.po
+"Invalid title scale \""%s\"" (must be one of xx-small,x-small,small,medium,large,x-large,xx-large)\n",1860,"Òṣùwọ̀n àkọ́lé tí kò fẹsẹ̀múlẹ̀ \""%s\"" (ó gbọ́dọ̀ jẹ́ ọ̀kan lára kékeré gan,kékeré díẹ̀,àárín,ńlá,ńlá díẹ̀, ńlá púpọ̀)\n",1863,mutter,po/yo.po
+"<%s> name \""%s\"" used a second time",1870,"<%s> orúkọ \""%s\"" tí a lò lẹ́ẹ̀kejì",1871,mutter,po/yo.po
+"<%s> parent \""%s\"" has not been defined",1876,"<%s> a kò tíi soríkì òbí \""%s\""",1877,mutter,po/yo.po
+"<%s> geometry \""%s\"" has not been defined",1881,"<%s> a kò tíì soríkì \""%s\"" jiọmítírì",1882,mutter,po/yo.po
+<%s> must specify either a geometry or a parent that has a geometry,1886,<%s> gbọ́dọ̀ sọ ní pàtó bóyá jiọmítírì tàbí òbí tó ní jiọmítírì,1887,mutter,po/yo.po
+"Unknown type \""%s\"" on <%s> element",1895,"Irúfẹ́ àìmọ̀ \""%s\"" lórí <%s> fọ́nrán",1896,mutter,po/yo.po
+"Unknown style_set \""%s\"" on <%s> element",1900,"Sẹ́ẹ̀tì_sítàì àìmọ̀ \""%s\"" lórí <%s> fọ́nrán",1901,mutter,po/yo.po
+"Window type \""%s\"" has already been assigned a style set",1905,"Irúfẹ́ fèrèsé \""%s\"" ti ní sẹ́ètì sítàì ná",1906,mutter,po/yo.po
+Element <%s> is not allowed below <%s>,1914,A kò fàyè gba <%s> fọ́nrán nísàlẹ̀ <%s>,1915,mutter,po/yo.po
+"Distance \""%s\"" is unknown",1928,"A kò mọ ìjìnsí \""%s\""",1929,mutter,po/yo.po
+"Aspect ratio \""%s\"" is unknown",1933,"A kò mọ réṣíò aspect \""%s\""",1934,mutter,po/yo.po
+"Border \""%s\"" is unknown",1938,"Àìmọ̀ ni ìpàlà \""%s\""",1939,mutter,po/yo.po
+"Did not understand value \""%s\"" for type of gradient",1953,"Fálù \""%s\"" fún irúfẹ́ ìdàgẹ̀rẹ̀ kò ye",1954,mutter,po/yo.po
+"Did not understand fill type \""%s\"" for <%s> element",1958,"Irúfẹ́ \""%s\"" fún fọ́nrán <%s> kò ye",1959,mutter,po/yo.po
+"Did not understand state \""%s\"" for <%s> element",1964,"Ipò \""%s\"" fún fọ́nrán <%s> kò ye",1965,mutter,po/yo.po
+"Did not understand shadow \""%s\"" for <%s> element",1969,"Òjìji \""%s\"" fún  fọ́nrán <%s> kò ye",1970,mutter,po/yo.po
+"Did not understand arrow \""%s\"" for <%s> element",1974,"Atọ́ka árò \""%s\"" fún fọ́nrán <%s> kò ye",1975,mutter,po/yo.po
+"No <draw_ops> called \""%s\"" has been defined",1979,"Kò sí <draw_ops> tí a pè ní \""%s\"" tí a ti kì",1980,mutter,po/yo.po
+"Including draw_ops \""%s\"" here would create a circular reference",1984,"Ṣíṣàfikún draw_ops \""%s\"" níbí á ṣẹ̀dá ìtọ́kasí òbìrìkìtí",1985,mutter,po/yo.po
+"Unknown position \""%s\"" for frame piece",1989,"Ipò àìmọ̀ \""%s\"" fún férémù",1990,mutter,po/yo.po
+Frame style already has a piece at position %s,1994,Sítàì férémù ti ní ẹyọ ipò %s tẹ́lẹ̀,1995,mutter,po/yo.po
+"No <draw_ops> with the name \""%s\"" has been defined",1999,"Kò sí <draw_ops> pẹ̀lú orúkọ \""%s\"" tí a ti kì",2000,mutter,po/yo.po
+"Unknown function \""%s\"" for button",2004,"Ojúṣe àìmọ̀ \""%s\"" fún bọ́tìnì",2005,mutter,po/yo.po
+"Unknown state \""%s\"" for button",2014,"Ipò àìmọ̀\""%s\"" fún bọ́tìnì",2015,mutter,po/yo.po
+Frame style already has a button for function %s state %s,2019,Sítàì férémù ti ni bọ́tìnì fún ojúṣe %s ipò %s tẹ́lẹ̀,2020,mutter,po/yo.po
+"\""%s\"" is not a valid value for focus attribute",2024,"\""%s\"" kìí ṣe fálù tó fesẹ̀múlẹ̀ fún àbùdá òye",2025,mutter,po/yo.po
+"\""%s\"" is not a valid value for state attribute",2029,"\""%s\"" kìí ṣe fálù tó fẹsẹ̀múlẹ̀ fún àbùdá ipò",2030,mutter,po/yo.po
+"A style called \""%s\"" has not been defined",2034,"A kò tíì soríkì sítàì tí a pè ní \""%s\""",2035,mutter,po/yo.po
+"\""%s\"" is not a valid value for resize attribute",2039,"\""%s\"" kìí ṣe fálù tó fesẹ̀múlẹ̀ fún àbùdá ìṣòdíwọ̀n",2040,mutter,po/yo.po
+"Should not have \""resize\"" attribute on <%s> element for maximized/shaded states",2044,"Kó má ní àbùdá \""ìṣòdíwọ̀n\"" lórí fọ́nrán <%s> fún àwọn ipò tí a fẹ̀lójú/kùn",2047,mutter,po/yo.po
+Style has already been specified for state %s resize %s focus %s,2059,A ti sọ sítàì kan ní pàtó fún ipò %s ìṣòdíwọ̀n %s òye %s,2060,mutter,po/yo.po
+Style has already been specified for state %s focus %s,2064,A ti sọ sítàì kan ní pàtó fún ipò %s òye %s,2065,mutter,po/yo.po
+"Can't have a two draw_ops for a <piece> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2068,Kò lè ní draw_ops fún fónrán <ẹyọ> (kókó sọ ní pàtó àbùdá draw_ops àti fọ́nrán <draw_ops> pẹ̀lú tàbí àwọn fọ́nrán méjì ní pàtó),2071,mutter,po/yo.po
+"Can't have a two draw_ops for a <button> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2076,"Kò lè ní draw_ops fún fónrán <bọ́tìnì> (kókó sọ ní pàtó àbùdá draw_ops àti fọ́nrán <draw_ops> pẹ̀lú, tàbí àwọn fọ́nrán méjì ní pàtó)",2079,mutter,po/yo.po
+"Can't have a two draw_ops for a <menu_icon> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2084,Kò lè ní draw_ops fún fónrán <áíkànnù_àtòjọ-ẹ̀yàn (kókó sọ ní pàtó àbùdá draw_ops àti fọ́nrán <draw_ops> pẹ̀lú tàbí àwọn fọ́nrán méjì ní pàtó),2087,mutter,po/yo.po
+Outermost element in theme must be <metacity_theme> not <%s>,2093,Fọ́nrán tó jìn jù nínú kókó gbọ́dọ̀ jẹ́ <kókó_metacity> kìí ṣe <%s>,2094,mutter,po/yo.po
+Element <%s> is not allowed inside a name/author/date/description element,2098,Kò sáyè fún fọ́nrán <%s> nínú fọ́nrán orúkọ/olùdásílẹ̀/déètì/àpèjúwe,2100,mutter,po/yo.po
+Element <%s> is not allowed inside a <constant> element,2104,Kò sáyè fún fọ́nrán <%s> nínú fọ́nrán <kọ́nsítáǹtì.,2105,mutter,po/yo.po
+Element <%s> is not allowed inside a distance/border/aspect_ratio element,2109,Kò sáyè fún fọ́nrán <%s> nínú fọ́nrán ìjìnsí/ìpàlà/aspect_ratio,2111,mutter,po/yo.po
+Element <%s> is not allowed inside a draw operation element,2115,Kò sáyè fún fọ́nrán <%s> nínú fọ́nrán iṣẹ́,2116,mutter,po/yo.po
+Element <%s> is not allowed inside a <%s> element,2121,Fọ́nrán <%s> kò fàyè gba nínú fọ́nrán <%s>,2122,mutter,po/yo.po
+No draw_ops provided for frame piece,2125,A kò pèsè draw_ops fún ẹyọ férémù,2126,mutter,po/yo.po
+No draw_ops provided for button,2129,A kò pèsè draw_ops fún bọ́tìnì,2130,mutter,po/yo.po
+No text is allowed inside element <%s>,2134,A kò fàyè gba àyọkà nínú fọ́nrán <%s>,2135,mutter,po/yo.po
+<name> specified twice for this theme,2138,<orúkọ> tí a sọ ní pàtó lẹ́ẹ̀mejì fún kókó̀ yìí,2139,mutter,po/yo.po
+<author> specified twice for this theme,2142,<olùdásílẹ̀> tí a sọ lẹ́ẹ̀mejì fún kókó yìí,2143,mutter,po/yo.po
+<copyright> specified twice for this theme,2146,<àṣẹ-lórí-àrà> tí a sọ ní pàtó lẹ́ẹ̀mejì fún kókó yìí,2147,mutter,po/yo.po
+<date> specified twice for this theme,2150,<déètì> tí a sọ ní pàtó lẹ́ẹ̀mejì fún kókó yìí,2151,mutter,po/yo.po
+<description> specified twice for this theme,2154,<àpèjúwe> tí a sọ ní pàtó lẹ́ẹ̀mejì fún kókó yìí,2155,mutter,po/yo.po
+Theme file %s did not contain a root <metacity_theme> element,2164,Fáìlì kókó %s kò ní ìpìlẹ̀ fọ́nrán <kókó_metacity> nínú,2165,mutter,po/yo.po
+/_Windows,2168,/_Àwọn Fèrèsé,2169,mutter,po/yo.po
+/Windows/tearoff,2172,/Àwọn fèrèsé/tearoff,2173,mutter,po/yo.po
+/Windows/_Dialog,2176,/Àwọn Fèrèsé/_Onísọ̀rọ̀gbèsì,2177,mutter,po/yo.po
+/Windows/_Modal dialog,2180,/Àwọn Fèrèsé/_Onísọ̀rọ̀gbèsì aṣèrànwọ́,2181,mutter,po/yo.po
+/Windows/_Utility,2184,/Àwọn Fèrèsé/_Àwọn Ohun-èlò,2185,mutter,po/yo.po
+/Windows/_Splashscreen,2188,/Àwọn Fèrèsé/_Ojú-Kọ̀ǹpútà-Píláàṣì,2189,mutter,po/yo.po
+/Windows/_Top dock,2192,/Àwọn Fèrèsé/_Dọ́ọ̀kì òkè,2193,mutter,po/yo.po
+/Windows/_Bottom dock,2196,/Àwọn Fèrèsé/_Dọ́ọ̀kì ìsàlẹ̀,2197,mutter,po/yo.po
+/Windows/_Left dock,2200,/Àwọn Fèrèsé/_Dọ́ọ̀kì òsì,2201,mutter,po/yo.po
+/Windows/_Right dock,2204,/Àwọn Fèrèsé/_Dọ́ọ̀kì ọ̀tún,2205,mutter,po/yo.po
+/Windows/_All docks,2208,/Àwọn Fèrèsé/_Gbogbo àwọn dọ́ọ̀kì,2209,mutter,po/yo.po
+/Windows/Des_ktop,2212,/Àwọn Fèrèsé/Ojú-iṣẹ́,2213,mutter,po/yo.po
+Open another one of these windows,2216,Ṣí òmíràn nínú awọn fèrèsé yìí,2217,mutter,po/yo.po
+This is a demo button with an 'open' icon,2220,Bọ́tìnì dẹ́mò lèyí pẹ̀lú áíkànnù 'ṣíṣí',2221,mutter,po/yo.po
+This is a demo button with a 'quit' icon,2224,Bọ́tìnì dẹ́mò lèyí pẹ̀lú áíkànnù 'jáde',2225,mutter,po/yo.po
+This is a sample message in a sample dialog,2228,Èyí ni àpẹẹrẹ iṣẹ́ rírán nínú onísọ̀rọ̀gbèsì àpẹẹrẹ,2229,mutter,po/yo.po
+Fake menu item %d\n,2233,Wúnrẹ̀n àtòjọ-ẹ̀yàn ayédèrú %d\n,2234,mutter,po/yo.po
+Border-only window,2237,Fèrèsé Ìpàlà nìkan,2238,mutter,po/yo.po
+Bar,2241,Àká,2242,mutter,po/yo.po
+Normal Application Window,2245,Fèrèsé Ìṣàmúlò-ètò Déédéé,2246,mutter,po/yo.po
+Dialog Box,2249,Àpótí Onísọ̀rọ̀gbèsì,2250,mutter,po/yo.po
+Modal Dialog Box,2253,Àpótí Onísọ̀rọ̀gbèsì Aṣèrànwọ́,2254,mutter,po/yo.po
+Utility Palette,2257,Pálẹ́ẹ̀tì Ohun-èlò,2258,mutter,po/yo.po
+Torn-off Menu,2261,Pa Àtòjọ-ẹ̀yàn,2262,mutter,po/yo.po
+Border,2265,Ìpàlà,2266,mutter,po/yo.po
+Button layout test %d,2270,Àyẹ̀wò ìlàálẹ̀ bọ́tìnì %d,2271,mutter,po/yo.po
+%g milliseconds to draw one window frame,2275,%g ọ̀kẹ́-ìṣísẹ̀ láti ya férémù fèrèsé kan,2276,mutter,po/yo.po
+Usage: metacity-theme-viewer [THEMENAME]\n,2280,Ìlò: awòye-kókó-metacity [ORÚKỌ-KÓKÓ]\n,2281,mutter,po/yo.po
+Error loading theme: %s\n,2285,Àṣìṣe kíki kókó: %s\n,2286,mutter,po/yo.po
+"Loaded theme \""%s\"" in %g seconds\n",2290,"Kókó tí a ti kì\""%s\"" ní %g ìṣísẹ̀\n",2291,mutter,po/yo.po
+Normal Title Font,2294,Ìrísí-lẹ́tà Àkọ́lé déédéé,2295,mutter,po/yo.po
+Small Title Font,2298,Ìrísí-lẹ́tà Àkọ́lé Kékeré,2299,mutter,po/yo.po
+Large Title Font,2302,Ìrísí-lẹ́tà Àkọ́lé Ńlá,2303,mutter,po/yo.po
+Button Layouts,2306,Àwọn Ìlàálẹ̀ Bọ́tìnì,2307,mutter,po/yo.po
+Benchmark,2310,Ìdíwọ̀n,2311,mutter,po/yo.po
+Window Title Goes Here,2314,Ibí ni Àkọ́lé Fèrèsé Máa Lọ,2315,mutter,po/yo.po
+Drew %d frames in %g client-side seconds (%g milliseconds per frame) and %g seconds wall clock time including X server resources (%g milliseconds per frame)\n,2319,Ó ya àwọn férémù %d ní ìṣísẹ̀ abẹ̀wẹ̀ %g (ọ̀kẹ́-ìṣísẹ̀ %g fún férémù kọ̀ọ̀kan) àti %g ìṣísẹ̀ aago ara ògiri pẹ̀lú àwọn ìròyìn sáfà X (%g ọ̀kẹ́-ìṣísẹ̀ fún férémù kọ̀ọ̀kan)\n,2323,mutter,po/yo.po
+position expression test returned TRUE but set error,2329,Ipò àyẹ̀wò ìsọ padà pẹ̀lú ÒÓTỌ́ ṣùgbọ́n ó gbé àsìṣe kalẹ̀,2330,mutter,po/yo.po
+position expression test returned FALSE but didn't set error,2333,Ipò àyẹ̀wò ìsọ padà pẹ̀lú IRỌ́ ṣùgbọ́n ó gbé àsìṣe kalẹ̀,2334,mutter,po/yo.po
+Error was expected but none given,2337,A ń retí àṣìṣe ṣùgbọ́n kò wá,2338,mutter,po/yo.po
+Error %d was expected but %d given,2342,À ń réti àṣìṣe %d ṣùgbọ́n %d ló wá,2343,mutter,po/yo.po
+Error not expected but one was returned: %s,2347,A kò retí àṣìṣe ṣùgbọ́n a dá eyọkan padà: %s,2348,mutter,po/yo.po
+"x value was %d, %d was expected",2352,"à ń retí fálù x %d, %d",2353,mutter,po/yo.po
+"y value was %d, %d was expected",2357,"à ń retí fálù y %d, %d",2358,mutter,po/yo.po
+%d coordinate expressions parsed in %g seconds (%g seconds average)\n,2362,%d àwọn ìsọ ìfètò sí nǹkan tí a páàsì nínú àwọn ìṣísẹ̀ %g (%g àròpín àwọn ìṣísẹ̀)\n,2363,mutter,po/yo.po
+Connect to Server,40,Darapọ̀ mọ́ Sáfà,41,nautilus,po/yo.po
+The selection rectangle,195,Oníhàmẹ́rìn gígùn ẹ̀yàn náà,196,nautilus,po/yo.po
+Cut the selected text to the clipboard,200,Gé àyọkà tí a yàn náà lọ sí agbàròyìn dúró,201,nautilus,po/yo.po
+Copy the selected text to the clipboard,205,Ṣẹ̀dà àyọkà tí a ti yàn náà lọ sí agbàròyìn dúró,206,nautilus,po/yo.po
+Paste the text stored on the clipboard,210,Le ayọkà tí a fi pamọ́ sórí agbàròyìn dúró náà,211,nautilus,po/yo.po
+Select _All,216,Yan _Gbogbo wọn,217,nautilus,po/yo.po
+Select all the text in a text field,221,Yan gbogbo àyọkà ní pápá àyọkà,222,nautilus,po/yo.po
+Move _Up,225,Lọ _Sókè,226,nautilus,po/yo.po
+Name,240,Orúkọ,241,nautilus,po/yo.po
+The name and icon of the file.,244,Orúkọ àti áíkànnù fáìlì.,245,nautilus,po/yo.po
+Size,248,Ìwọ̀n,249,nautilus,po/yo.po
+The size of the file.,252,Ìwọ̀n fáìlì náà.,253,nautilus,po/yo.po
+Type,256,Irúfẹ́,257,nautilus,po/yo.po
+The type of the file.,260,Irúfẹ́ fáìlì náà.,261,nautilus,po/yo.po
+The date the file was modified.,269,Déètì tí a tún fáìlì náà tò.,270,nautilus,po/yo.po
+The date the file was accessed.,278,Déètí tí a ráyè sí fáìlì náà.,279,nautilus,po/yo.po
+Owner,282,Olóhun,283,nautilus,po/yo.po
+The owner of the file.,286,Ẹni tó ni fáìlì náà.,287,nautilus,po/yo.po
+Group,290,Ẹgbẹ́,291,nautilus,po/yo.po
+The group of the file.,294,Ẹgbẹ́ fáìlì náà.,295,nautilus,po/yo.po
+Permissions,299,Àwọn Ìyànda,300,nautilus,po/yo.po
+The permissions of the file.,303,Àwọn ìyànda fáìlì náà.,304,nautilus,po/yo.po
+MIME Type,307,Irúfẹ́ MIME,308,nautilus,po/yo.po
+The mime type of the file.,311,Irúfẹ́ mime fáìlì náà.,312,nautilus,po/yo.po
+on the desktop,355,lórí ojú-iṣẹ́,356,nautilus,po/yo.po
+Cancel,412,Parẹ́̀,413,nautilus,po/yo.po
+? items,563,? àwọn wúnrẹ̀n,564,nautilus,po/yo.po
+? bytes,568,? àwọn ikin kọ̀ǹpútà,569,nautilus,po/yo.po
+unknown,582,àìmọ̀,583,nautilus,po/yo.po
+Image,603,Àwòrán,604,nautilus,po/yo.po
+Link,655,Líǹkì,656,nautilus,po/yo.po
+Size:,751,Ìwọ̀n:,752,nautilus,po/yo.po
+Type:,757,Irúfẹ́:,758,nautilus,po/yo.po
+_Skip,796,_Fòó,797,nautilus,po/yo.po
+_Retry,818,_Tun gbèyẹ̀wò,819,nautilus,po/yo.po
+_Delete,826,_Pajẹ,827,nautilus,po/yo.po
+_Replace,835,_Pààrọ̀,836,nautilus,po/yo.po
+Replace _All,839,Pààrọ̀ _Gbogbo Wọn,840,nautilus,po/yo.po
+ (copy),924, (ẹ̀dà),925,nautilus,po/yo.po
+ (another copy),929, (ẹ̀dà mìíràn),930,nautilus,po/yo.po
+th copy),940,ẹ̀dà th),941,nautilus,po/yo.po
+st copy),945,ẹ̀dà st),946,nautilus,po/yo.po
+nd copy),950,ẹ̀dà nd),951,nautilus,po/yo.po
+rd copy),955,ẹ̀dà rd),956,nautilus,po/yo.po
+%s (copy)%s,961,%s (ẹ̀dà)%s,962,nautilus,po/yo.po
+%s (another copy)%s,967,%s (ẹ̀dà mìíràn)%s,968,nautilus,po/yo.po
+"If you delete an item, it will be permanently lost.",1035,"Tí o bá pa wúnrẹ̀n kan je, ó máa sọnù ráúráú.",1036,nautilus,po/yo.po
+Empty _Trash,1051,Da _Pàǹtí Nù,1052,nautilus,po/yo.po
+Deleting files,1075,Ìpa àwọn fáìlì jẹ,1076,nautilus,po/yo.po
+Error while deleting.,1092,Àṣìṣe nígbà ìpajẹ.,1093,nautilus,po/yo.po
+Error while copying.,1235,Àṣìṣe nígbà ìṣẹ̀dà.,1236,nautilus,po/yo.po
+Error while moving.,1241,Àṣìṣe nígbà gbígbé.,1242,nautilus,po/yo.po
+You cannot move a folder into itself.,1433,O kò lè gbé fódà sínú ara rẹ̀.,1434,nautilus,po/yo.po
+You cannot copy a folder into itself.,1438,O kò lè ṣẹ̀dà fódà sínú ara rẹ̀.,1439,nautilus,po/yo.po
+The destination folder is inside the source folder.,1443,Inú fódà orísun ni fódà ibi tí wọ́n ń lọ wà.,1444,nautilus,po/yo.po
+You cannot copy a file over itself.,1453,O kò lè ṣẹ̀dà fáìlì sórí ara rẹ̀.,1454,nautilus,po/yo.po
+This is disabled due to security considerations.,2046,A kò mu èyí ṣiṣẹ́ nítiorí ọ̀rọ̀ ìdáàbòbò.,2047,nautilus,po/yo.po
+There was an error launching the application.,2051,Àṣìṣe kán wà nípa fífí ìṣàmúlò-ètò lọ́lẹ̀.,2052,nautilus,po/yo.po
+This drop target only supports local files.,2056,Àwọn fáìlì agbègbè nìkan ni òsùnsùn awálẹ̀ yìí tì lẹ́yìn.,2057,nautilus,po/yo.po
+To open non-local files copy them to a local folder and then drop them again.,2060,"Láti ṣí àwọn fáìlì tí kìí ṣe ti agbègbè, ṣẹ̀dà wọn lọ sí fódà agbègbè kí o sì jù wọ́n sílẹ̀ lẹ́ẹ̀kan si.",2062,nautilus,po/yo.po
+To open non-local files copy them to a local folder and then drop them again. The local files you dropped have already been opened.,2067,"Láti ṣí àwọn fáìlì tí kìí ṣe ti agbègbè, ṣẹ̀dà wọn lọ sí fódà agbègbè kí o sì jù wọ́n sílẹ̀ lẹ́ẹ̀kan si. Àwọn fáìlì agbègbè tí o jù sílẹ̀ ti ṣí.",2070,nautilus,po/yo.po
+Details: ,2075,Àwọn Àlàyé: ,2076,nautilus,po/yo.po
+Whether to enable immediate deletion,2138,Bóyá ká mú ìpajẹ wáyé kíákíá ni,2139,nautilus,po/yo.po
+"If set to true, then Nautilus will have a feature allowing you to delete a file immediately and in-place, instead of moving it to the trash. This feature can be dangerous, so use caution.",2142,"Tí a bá gbekalẹ̀ sí òótọ́, a jẹ́ pé Nautilus máa ní àbùdá kan tí yóò máa fàyè gbà ẹ́ láti pa fáìlì jẹ kíákíá dípò gbígbe lọ sí inú pàǹtí. Àbùdá yìí lè ní ewu, kí o fẹ̀sọ̀ ṣe.",2146,nautilus,po/yo.po
+When to show number of items in a folder,2152,Ìgbà tí a ó fi oye àwọn wúnrẹ̀n inú fódà hàn,2153,nautilus,po/yo.po
+Type of click used to launch/open files,2170,Irúfẹ́ ìtẹ̀ tí à ń lò láti fi àwọn fáìlì lọ́lẹ̀/ṣi,2171,nautilus,po/yo.po
+"Possible values are \""single\"" to launch files on a single click, or \""double\"" to launch them on a double click.",2174,"Àwọn fálù tó lè jẹ́ ni \""ẹyọ kan\"" láti fi àwọn fáìlì lórí ìtẹ̀ kan lọ́lẹ̀ tàbí \""méjì\"" láti fi wọn lọ́lẹ̀ lórí ìtẹ̀ méjì.",2177,nautilus,po/yo.po
+What to do with executable text files when activated,2182,Ohun tí a ó ṣe pẹ̀lú àwọn fáìlì àyọkà tó lè ṣiṣẹ́ nígbà tí a bá mu ṣiṣẹ́,2183,nautilus,po/yo.po
+"What to do with executable text files when they are activated (single or double clicked). Possible values are \""launch\"" to launch them as programs, \""ask\"" to ask what to do via a dialog, and \""display\"" to display them as text files.",2186,"Ohun tí a lè ṣe pẹ̀lú àwon fáìlì àyọkà tó lè ṣiṣẹ́ nígbà tí a bá mu ṣiṣẹ́ (tí a bá tẹ̀ẹ́ lẹ́ẹ̀kan tàbí ẹ̀ẹ̀mejì). Àwọn fálù tó lè jẹ́ ni \""fi lọ́lẹ̀\"" láti fi wọ́n lọ́lẹ̀ gẹ́gẹ́ bí àwọn àtòjọ-ètò, \""bèrè\"" láti bèrè ohun tó yẹ ká ṣe nípasẹ̀ onísọ̀rọ̀gbèsì àti \""ìṣàfihàn\"" láti ṣàfihàn wọn gẹ́gẹ́ bí àwọn fáìlì àyọkà.",2191,nautilus,po/yo.po
+Maximum image size for thumbnailing,2263,Ìwọ̀n àwòrán tó ga jù fún ìṣàpẹẹrẹ ojú-ìwé rébété,2264,nautilus,po/yo.po
+Images over this size (in bytes) won't be thumbnailed. The purpose of this setting is to avoid thumbnailing large images that may take a long time to load or use lots of memory.,2267,A kò ní ṣe àpẹẹrẹ ojú-ìwé rébété àwọn àwòrán tí o bá ti kọ́ja ìwọ̀n (ní àwọn ikin kọ̀ǹpútà) yìí. Ìdí pàtàkí ààtò yìí ni láti dẹ́kun ìṣàpẹẹrẹ ojú-ìwé rébété àwọn àwòrán ńlá tó lè gba àkíkò púpọ̀ láti kìí tàbí lo ọpọlọ kọ̀ǹpútà púpọ.,2271,nautilus,po/yo.po
+Show folders first in windows,2277,Àwọn fódà ni ki o kọ́kọ́ fihàn nínú àwọn fèrèsé,2278,nautilus,po/yo.po
+"If set to true, then Nautilus shows folders prior to showing files in the icon and list views.",2281,"Tí a bá gbekalẹ̀ sí òótọ́,a jẹ́ pé Nautilus máa fi àwọn fódà hàn ṣíwájú fífi àwọn fáìlì inú áíkànnù àti àwọn òye àtòjọ hàn.",2284,nautilus,po/yo.po
+Default sort order,2289,Ètò ì̀ṣààtò ìpéwọ̀n,2290,nautilus,po/yo.po
+Reverse sort order in new windows,2302,Dá ìṣàtò   inú àwọn fèrèsé tuntun pada,2303,nautilus,po/yo.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\""; if sorted by size, instead of being incrementally they will be sorted decrementally.",2306,"Tó bá jẹ́ òótọ́, a óò ṣàtò àwọn fáìlì nínú àwọn fèrèsé tuntun ní àṣewásẹ́yìn tó túmọ̀ pé tí a bá ṣàtò nípa orúkọ, dípò ká ṣe ìṣàtò àwọn fáìlì náà láti \""a\"" dé \""z\"" a óò ṣeé láti \""z\"" dé \""a\""; tí a bá ṣeé nípa ìwọ̀n, dípò kó jẹ́ aláfikún díndínkù ni yóò jẹ́.",2311,nautilus,po/yo.po
+Default folder viewer,2318,Awòye fódà ìpéwọ̀n,2319,nautilus,po/yo.po
+Whether to show hidden files,2333,Bóyà ká fi a[wọn fáìlì tó farapamọ́ hàn,2334,nautilus,po/yo.po
+List of possible captions on icons,2356,Àtòjọ àwọn àkọlé tó lè wà lórí àwọn áíkànnù,2357,nautilus,po/yo.po
+Default icon zoom level,2368,Ìpele ìfẹ áíkànnù ìpéwọ̀n,2369,nautilus,po/yo.po
+Default zoom level used by the icon view.,2372,Ìpele ìfẹ ìpéwọ̀n tí òye áíkànnù lò,2373,nautilus,po/yo.po
+Default list zoom level,2409,Ìpele ìfẹ àtòjọ ìpéwọ̀n,2410,nautilus,po/yo.po
+Default zoom level used by the list view.,2413,Ìpele ìfẹ ìpéwọ̀n tí òye áíkànnù lò.,2414,nautilus,po/yo.po
+Default list of columns visible in the list view,2417,Àtòjọ ìpéwọ̀n àwọn kọ́lọ̀mù tí a lè rí nínú òye àtòjọ,2418,nautilus,po/yo.po
+Default list of columns visible in the list view.,2421,Àtòjọ ìpéwọ̀n àwọn kọ́lọ̀mù tí a lè rí nínú òye àtòjọ.,2422,nautilus,po/yo.po
+Default column order in the list view,2425,Ètò kọ́lọ̀mù ìpéwọ̀n inú òye àtòjọ náà,2426,nautilus,po/yo.po
+Default column order in the list view.,2429,Ètò kọ́lọ̀mù ìpéwọ̀n inú òye àtòjọ náà.,2430,nautilus,po/yo.po
+Desktop font,2443,Ìrísí-lẹ́tà ojú-iṣẹ́,2444,nautilus,po/yo.po
+The font description used for the icons on the desktop.,2447,Àpèjúwe ìrísí-lẹ́tà tí a lò fún àwọn áíkànnù lórí ojú-iṣẹ́.,2448,nautilus,po/yo.po
+Home icon visible on desktop,2451,Áíkànnù ilé tí a lè rí lórí ojú-iṣẹ́,2452,nautilus,po/yo.po
+"If this is set to true, an icon linking to the home folder will be put on the desktop.",2455,"Tí a bá gbé èyí kalẹ̀ sí òótọ́,a óò gbé áíkànnù tóńlíǹkì sí fódà ilé lórí ojú-iṣẹ́ náà.",2458,nautilus,po/yo.po
+Trash icon visible on desktop,2463,Áíkànnù pàǹtí ṣeé rí lórí ojú-iṣẹ́,2464,nautilus,po/yo.po
+"If this is set to true, an icon linking to the trash will be put on the desktop.",2467,"Tí a bá gbé èyí kalẹ̀ sí òótọ́,a óò gbé áíkànnù tó ń líǹkì sí pàǹtí lórí ojú-iṣẹ́ náà.",2470,nautilus,po/yo.po
+Show mounted volumes on the desktop,2475,Fi àwọn ìgbóhuǹsókè-sódò tí a fi lọ́lẹ̀ lórí ojú-iṣẹ́ hàn,2476,nautilus,po/yo.po
+"If this is set to true, icons linking to mounted volumes will be put on the desktop.",2479,"Tí a bá gbé èyí kalẹ̀ sí òótọ́,a óò gbé àwọn áíkànnù tó ń líǹkì sí àwọn ìgbóhùnsókè-sódò tí a fi lọ́lẹ̀ lórí ojú-iṣẹ́ náà.",2482,nautilus,po/yo.po
+Desktop home icon name,2501,Orúkọ áíkànnù ilé ojú-iṣẹ́,2502,nautilus,po/yo.po
+This name can be set if you want a custom name for the home icon on the desktop.,2505,"A lè ṣàgbékalẹ̀ orúkọ yìí, tí o bá fẹ́ àkànṣe orúkọ fún áíkànnù ilé náà lórí ojú-iṣẹ́.",2508,nautilus,po/yo.po
+Desktop trash icon name,2513,Orúkọ áíkànnù pàǹtí ojú-iṣẹ́,2514,nautilus,po/yo.po
+This name can be set if you want a custom name for the trash icon on the desktop.,2517,A lè ṣàgbékalẹ̀ orúkọ yìí tí o bá fẹ́ àkànṣe orúkọ fún áíkànnù pàǹtí náà lórí ojú-iṣẹ́.,2520,nautilus,po/yo.po
+Width of the side pane,2579,Ìfẹ̀sí péènì ẹ̀gbẹ́,2580,nautilus,po/yo.po
+The default width of the side pane in new windows.,2583,Ìfẹ̀sí ìpéwọ̀n péènì ẹ̀gbẹ́ nínú àwọn fèrèsé tuntun.,2584,nautilus,po/yo.po
+Show location bar in new windows,2587,Fi áká ààyè hàn nínú àwọn fèrèsé tuntun,2588,nautilus,po/yo.po
+"If set to true, newly opened windows will have the location bar visible.",2591,"Tí a bá gbekalẹ̀ sí òótọ́, a óò lè rí àká ààyè àwọn fèrèsé tuntun tí a ṣẹ̀ ṣí.",2593,nautilus,po/yo.po
+Show side pane in new windows,2597,Fi péènì ẹ̀gbẹ́ hàn nínú àwọn fèrèsé tuntun,2598,nautilus,po/yo.po
+"If set to true, newly opened windows will have the side pane visible.",2601,"Tí a bá gbekalẹ̀ sí òótọ́, a óò lè rí péènì ẹ̀gbẹ́ àwọn fèrèsé tuntun tí a ṣẹ̀ ṣí.",2602,nautilus,po/yo.po
+Perform a quick set of self-check tests.,2668,Sáré ṣe àwọn àyẹ̀wò ayẹ̀ra-ẹni-wò,2669,nautilus,po/yo.po
+Create the initial window with the given geometry.,2672,Ṣẹ̀dá fèrèsé àkọ́kọ́ pẹ̀lú jiọmẹ́tírì tí a fún wa.,2673,nautilus,po/yo.po
+GEOMETRY,2676,JIOMẸ́TÍRÌ,2677,nautilus,po/yo.po
+Only create windows for explicitly specified URIs.,2690,Kàn ṣẹ̀dá àwọn fèrèsé fún àwọn URI tí a sọ ní pàtó.,2691,nautilus,po/yo.po
+Quit Nautilus.,2706,Kúrò ní Nautilus.,2707,nautilus,po/yo.po
+There was an error displaying help: \n%s,2727,Àṣìṣe wà nínú ìṣàfihàn ìrànwọ́: \n%s,2730,nautilus,po/yo.po
+_Bookmarks,2745,_Àwọn Àmì-ìwé,2746,nautilus,po/yo.po
+Prefere_nces,2749,Àwọn Ìkúnd_ùn,2750,nautilus,po/yo.po
+_Help,2753,_Ìrànwọ́,2754,nautilus,po/yo.po
+_About,2757,_Nípa,2758,nautilus,po/yo.po
+_Run,2793,_Rọ́ọ̀nù,2794,nautilus,po/yo.po
+No bookmarks defined,2797,Kò sí soríkì àwọn àmì-ìwé kankan,2798,nautilus,po/yo.po
+Remove,2806,Yọkúrò,2807,nautilus,po/yo.po
+Re_versed Order,2832,Ètò Ìyípadà Sẹ́yìn,2833,nautilus,po/yo.po
+Display icons in the opposite order,2837,Ṣàfihàn àwọn áíkànnù ní ìṣàtò òdì̀,2838,nautilus,po/yo.po
+_Keep Aligned,2843,_Jẹ́ kí o Dọ́gba,2844,nautilus,po/yo.po
+Keep icons lined up on a grid,2848,Jẹ́kí àwọn áíkànnù tò sóri gíríìdì,2849,nautilus,po/yo.po
+_Manually,2852,_Ọlọ́wọ́,2853,nautilus,po/yo.po
+Leave icons wherever they are dropped,2856,Fi àwọn áíkànnù sílẹ̀ níbikíbi tí a bá jù wọ̀n sí,2857,nautilus,po/yo.po
+By _Name,2860,Nípa _Orúkọ,2861,nautilus,po/yo.po
+Keep icons sorted by name in rows,2864,Jẹ́kí àwọn áíkànnù tí a ṣètò nípa orúkọ wà ní àwọn róòlù,2865,nautilus,po/yo.po
+By _Size,2868,Nípa _Ìwọ̀n,2869,nautilus,po/yo.po
+Keep icons sorted by size in rows,2872,Jẹ́kí àwọn áíkànnù tí a ṣètò nípa ìwọ̀n wà ní àwọn róòlù,2873,nautilus,po/yo.po
+By _Type,2876,Nípa _Irúfẹ́,2877,nautilus,po/yo.po
+Keep icons sorted by type in rows,2880,Jẹ́kí àwọn áíkànnù tí a ṣètò nípa irúfẹ́ wà ní àwọn róòlù,2881,nautilus,po/yo.po
+By Modification _Date,2884,Nípa Déètì _Àtúntò,2885,nautilus,po/yo.po
+Keep icons sorted by modification date in rows,2888,Jẹ́kí àwọn áíkànnù tí a ṣètò nípa déètì àtúntò wà ní àwọn róòlù,2889,nautilus,po/yo.po
+Icon View,2920,Òye Áíkànnù,2921,nautilus,po/yo.po
+C_onnect,2984,D_arapọ̀,2985,nautilus,po/yo.po
+E_mpty Trash,2991,P_àǹtí Òfìfo,2992,nautilus,po/yo.po
+Restore Icons' Original Si_zes,2997,Dá Àwọn Áíkànnù Pada sí Àwọn Iw_ọ̀n Wọn Gangan,2998,nautilus,po/yo.po
+Restore Icon's Original Si_ze,3001,Dá Ìw_ọn Áíkànnù Gangan Padà Sípò,3002,nautilus,po/yo.po
+Change Desktop _Background,3006,Yí Ẹ̀yìn _Ojú-iṣẹ́ Padà,3007,nautilus,po/yo.po
+Show a window that lets you set your desktop background's pattern or color,3011,Fi fèrèsé tí ó ń jẹ́ kí o ṣàgbékalẹ̀ bátànì tàbí àwọ̀ ẹ̀yìn ojú-iṣẹ́ rẹ hàn,3013,nautilus,po/yo.po
+Empty Trash,3017,Pàǹtí Òfìfo,3018,nautilus,po/yo.po
+Delete all items in the Trash,3023,Pa gbogbo àwọn wúnrẹ̀n inú pàǹtí jẹ,3024,nautilus,po/yo.po
+Reposition icons to better fit in the window and avoid overlapping,3033,Tún àwọn áíkànnù gbé sípò láti lè bá fèrèsé mu ká sì dènà ìkálura,3034,nautilus,po/yo.po
+Restore each selected icon to its original size,3049,Dá áíkànnù kọ̀ọ̀kan tí a yàn padà sí ìwọ̀n rẹ̀ gangan,3050,nautilus,po/yo.po
+Comment,3055,Ìdáásí,3056,nautilus,po/yo.po
+Description,3066,Àpèjúwe,3067,nautilus,po/yo.po
+Command,3070,Àṣẹ,3071,nautilus,po/yo.po
+Desktop,3075,Ojú-iṣẹ́,3076,nautilus,po/yo.po
+The group could not be changed.,3110,A kò lè yí ẹgb́ẹ́ náà padà,3111,nautilus,po/yo.po
+The owner could not be changed.,3119,A kò lè yí olóhun padà.,3120,nautilus,po/yo.po
+The permissions could not be changed.,3128,A kò lè yí àwọn ìyànda padà.,3129,nautilus,po/yo.po
+The item could not be renamed.,3173,A kò lè tún wúnrẹ̀n náà sọ lórúkọ.,3174,nautilus,po/yo.po
+None,3185,Kò sí,3186,nautilus,po/yo.po
+View _new folders using:,3199,Wòye _àwọn fódà tuntun tó ń lo:,3200,nautilus,po/yo.po
+_Arrange items:,3203,_To àwọn wúnrẹ̀n:,3204,nautilus,po/yo.po
+Sort _folders before files,3207,Ìṣàtò àwọn fódà ṣaájú àwọn fáìlì,3208,nautilus,po/yo.po
+Show hidden and _backup files,3211,Fí àwọn fáìlì tí a fi pamọ́ àti _aṣàtìlẹ́yìn hàn,3212,nautilus,po/yo.po
+Default _zoom level:,3220,Ìpele _ìfẹ̀ ìpéwọ̀n:,3221,nautilus,po/yo.po
+Views,3234,Àwọn Òye,3235,nautilus,po/yo.po
+Behavior,3238,Ìṣesí,3239,nautilus,po/yo.po
+_Ask each time,3267,_Bère àkókò kọ̀ọ̀kan,3268,nautilus,po/yo.po
+Trash,3273,Pàǹtí,3274,nautilus,po/yo.po
+Ask before _emptying the Trash or deleting files,3277,Bèrè kí o tó da Pàǹtí nù tàbí pa àwọn fáìlì jẹ,3278,nautilus,po/yo.po
+I_nclude a Delete command that bypasses Trash,3281,F_i àṣẹ Ìpajẹ tí yóò kọ́ja Pàǹtí,3282,nautilus,po/yo.po
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,3290,Yan ètò ìròyìn tí yóò farahàn nísàlẹ̀ àwọn orúkọ áíkànnù. Ìròyìn á sì tún farahàn nígbà tí o bá ń fẹ̀ẹ́ si.,3293,nautilus,po/yo.po
+List View,3299,Òye Àtòjọ,3300,nautilus,po/yo.po
+Display,3307,Ìṣàfihàn,3308,nautilus,po/yo.po
+Choose the order of information to appear in the list view.,3311,Yan ètò ìròyìn tí o fẹ́ kí o farahàn nínú òye àtòjọ náà.,3312,nautilus,po/yo.po
+List Columns,3315,Ṣàtòjọ Àwọn Kọ́lọ̀mù,3316,nautilus,po/yo.po
+Show _thumbnails:,3319,Fí àwọn _àpẹẹrẹ ojú-ìwé rébété hàn:,3320,nautilus,po/yo.po
+_Only for files smaller than:,3323,_Àwọn fáìlì tí ó kéré ju èyí lọ nìkan ló wà fún:,3324,nautilus,po/yo.po
+Count _number of items:,3333,Ka _oye àwọn wúnrẹ̀n:,3334,nautilus,po/yo.po
+Preview,3337,Àkọ́gbéyẹ̀wò,3338,nautilus,po/yo.po
+Always,3341,Ìgbà gbogbo,3342,nautilus,po/yo.po
+Never,3350,Kò ṣẹlẹ̀ rárá,3351,nautilus,po/yo.po
+By Name,3354,Nípa Orúkọ,3355,nautilus,po/yo.po
+By Size,3358,Nípa Ìwọ̀n,3359,nautilus,po/yo.po
+By Type,3362,Nípa Irúfẹ́,3363,nautilus,po/yo.po
+By Modification Date,3366,Nípa Déètì Àtúntò,3367,nautilus,po/yo.po
+Camera Brand,3516,Àmì-ìyàsọ́tọ̀ Kámẹ́rà,3517,nautilus,po/yo.po
+Camera Model,3520,Ìdánimọ̀ Kámẹ́rà,3521,nautilus,po/yo.po
+Date Taken,3525,Déètì Tí A Yàá,3526,nautilus,po/yo.po
+Date Modified,3534,A tún Déètì Tò,3535,nautilus,po/yo.po
+Exposure Time,3538,Àkókò Oye-ìmọ́lẹ̀,3539,nautilus,po/yo.po
+Aperture Value,3542,Fálù Ojú-ihò,3543,nautilus,po/yo.po
+ISO Speed Rating,3546,Ìyásí Eré ISO,3547,nautilus,po/yo.po
+Flash Fired,3550,Fíláàṣì Bú Yàrì,3551,nautilus,po/yo.po
+Metering Mode,3554,Ọ̀nà Ìwọn Oye-ìmọ́lẹ̀,3555,nautilus,po/yo.po
+Exposure Program,3558,Àtòjọ-ètò Oye-ìmọ́lẹ̀,3559,nautilus,po/yo.po
+Focal Length,3562,Ìgùnsí Ojú-ẹ̀ká Nǹkan,3563,nautilus,po/yo.po
+Software,3566,Ẹ̀yà-ara kọ̀ǹpútà àìfojúrí,3567,nautilus,po/yo.po
+Failed to load image information,3585,Ó kùnà láti fi ìròyìn àwòrán lọ́lẹ̀,3586,nautilus,po/yo.po
+(Empty),3596,(Òfìfo),3597,nautilus,po/yo.po
+%s Visible Columns,3606,%s Àwọn Kọ́lọ̀mù Afojúrí,3607,nautilus,po/yo.po
+Select the columns visible in this folder,3623,Yan àwọn kọ́lọ̀mù afojúrí nínú fódà yìí,3624,nautilus,po/yo.po
+Do you want to view %d location?,3628,Ṣé o fẹ́ wòye àyè %d?,3630,nautilus,po/yo.po
+Do you want to view %d location?,3628,Ṣé o fẹ́ wòye ààyè %d?,3631,nautilus,po/yo.po
+This will open %d separate window.,3635,Èyí á ṣí fèrèsé %d mìíràn.,3637,nautilus,po/yo.po
+This will open %d separate window.,3635,Èyí á ṣí fèrèsé %d mìíràn.,3638,nautilus,po/yo.po
+Mo_ve to Trash,3665,Gb_e lọ sínú Pàǹtí,3666,nautilus,po/yo.po
+Run in _Terminal,3679,Rọ́ọ̀nù nínú _Támínà,3680,nautilus,po/yo.po
+_Display,3683,_Ìṣàfihàn,3684,nautilus,po/yo.po
+Are you sure you want to open all files?,3688,Ṣé ó dá ẹ lójú pé o fẹ́ ṣí gbogbo àwọn fáìlì?,3689,nautilus,po/yo.po
+Please drag just one image to set a custom icon.,3813,Jọ̀wọ́ wọ àwòrán kan ṣoṣo láti gbé áíkànnù àkànṣe kalẹ̀.,3814,nautilus,po/yo.po
+The file that you dropped is not local.,3817,Fáìlì tí o jù sílẹ̀ kìí ṣe ti agbègbè.,3818,nautilus,po/yo.po
+You can only use local images as custom icons.,3822,O kàn lè lo àwọn àwòrán agbègbè nìkan gẹ́gẹ́ bíi àwọn áíkànnù àkànṣe.,3823,nautilus,po/yo.po
+The file that you dropped is not an image.,3826,Fáìlì tí o jù sílẹ̀ kìí ṣe àwòrán.,3827,nautilus,po/yo.po
+Properties,3838,Àwọn Àbùdá,3839,nautilus,po/yo.po
+%s Properties,3843,%s Àwọn Àbùdá,3844,nautilus,po/yo.po
+Cancel Group Change?,3853,Pa Ìyípadà Olóhun Rẹ́?,3854,nautilus,po/yo.po
+Cancel Owner Change?,3857,Pa Ìyípadà Olóhun Rẹ́?,3858,nautilus,po/yo.po
+nothing,3861,òfo,3862,nautilus,po/yo.po
+unreadable,3865,kò ṣeé kà,3866,nautilus,po/yo.po
+(some contents unreadable),3876,(ọ̀pọ̀lọpọ̀ àwọn àkóónú ni kò ṣeé kà),3877,nautilus,po/yo.po
+Contents:,3886,Àwọn Àkóónú:,3887,nautilus,po/yo.po
+Basic,3910,Ìbẹ̀rẹ̀,3911,nautilus,po/yo.po
+Link target:,3914,Òsùnsùn líǹkì:,3915,nautilus,po/yo.po
+Location:,3918,Àyè:,3919,nautilus,po/yo.po
+Volume:,3922,Ìgbóhùnsókè-sódò:,3923,nautilus,po/yo.po
+Accessed:,3926,Ó Ráyè:,3927,nautilus,po/yo.po
+Modified:,3930,A Tuntò:,3931,nautilus,po/yo.po
+Free space:,3934,Àyè òfìfo:,3935,nautilus,po/yo.po
+Owner:,4016,Olóhun:,4017,nautilus,po/yo.po
+Group:,4026,Ẹgbẹ́:,4027,nautilus,po/yo.po
+Others:,4054,Àwọn Mìíràn:,4055,nautilus,po/yo.po
+The permissions of the selected file could not be determined.,4077,A kò lè so àwọn ìyànda fáìlì tí a ti yàn.,4078,nautilus,po/yo.po
+Open With,4081,ṣí Pẹ̀lú,4082,nautilus,po/yo.po
+Creating Properties window.,4085,Ń Ṣẹ̀dá Fèrèsé Àwọn Àbùdá.,4086,nautilus,po/yo.po
+_Open,4102,_Ṣi,4103,nautilus,po/yo.po
+Documents,4111,Àwọn Àkọsílẹ̀,4112,nautilus,po/yo.po
+_Pattern:,4242,_Bátànì:,4243,nautilus,po/yo.po
+_Folder:,4263,_Fódà:,4264,nautilus,po/yo.po
+Content View,4277,Òye Àkóónú,4278,nautilus,po/yo.po
+View of the current folder,4281,Òye fódà lọ́wọ́lọ́wọ́,4282,nautilus,po/yo.po
+Open Wit_h,4410,Ṣi Pẹ̀l_ú,4411,nautilus,po/yo.po
+Choose a program with which to open the selected item,4414,Yan àtòjọ-ètò tí a lè fi ṣí wúnrẹ̀n tí a yàn,4415,nautilus,po/yo.po
+View or modify the properties of each selected item,4427,Wòye tàbí kí o tún àwọn àbùdá wúnrẹ̀n kọ̀ọ̀kan tí a ti yàn tò,4428,nautilus,po/yo.po
+Create a new empty folder inside this folder,4439,Ṣẹ̀dá fódà òfìfo tuntun kan nínú fódà yìí,4440,nautilus,po/yo.po
+Open the selected item in this window,4456,Ṣí wúnrẹ̀n tí a yàn nínú fèrèsé yìí,4457,nautilus,po/yo.po
+Open in Navigation Window,4478,Ṣí nínú Fèrèsé Ìtọpa,4479,nautilus,po/yo.po
+Open each selected item in a navigation window,4483,Ṣí wúnrẹ̀n kọ̀ọọkan tí a yàn nínú fèrèsé ìtọpa,4484,nautilus,po/yo.po
+Choose another application with which to open the selected item,4509,Yan ìṣàmúlò-ètò mìíràn tí wàá fi ṣi wúnrẹ̀n tí a yàn,4510,nautilus,po/yo.po
+_Open Scripts Folder,4522,_Ṣí Fódà Àwọn Ìwé,4523,nautilus,po/yo.po
+Show the folder containing the scripts that appear in this menu,4527,Fi fódà tó ní àwọn ìwé tó ń farahàn nínú àtòjọ-ẹ̀yàn yìí hàn,4528,nautilus,po/yo.po
+Select all items in this window,4595,Yan gbogbo àwọn wúnrẹ̀n inú fèrèsé yìí,4596,nautilus,po/yo.po
+Select items in this window matching a given pattern,4607,Yan àwọn wúnrẹ̀n nínú fèrèsé yìí tí yóò bá bátànì kan mu,4608,nautilus,po/yo.po
+Create a symbolic link for each selected item,4632,Ṣẹ̀dá líǹkì alámì fún wúnrẹ̀n kọ̀ọ̀kan tí a yàn,4633,nautilus,po/yo.po
+Rename selected item,4644,Tun orúkọ wúnrẹ̀n tí a yàn sọ,4645,nautilus,po/yo.po
+Move each selected item to the Trash,4660,Gbé wúnrẹ̀n kọ̀ọ̀kan tí a yàn lọ sínú Pàǹtí,4661,nautilus,po/yo.po
+"Delete each selected item, without moving to the Trash",4665,Pa wúnrẹ̀n kọ̀ọ̀kan tí a yàn jẹ láì gbe lọ sínú Pàǹtí,4666,nautilus,po/yo.po
+_Undo,4678,_Padà Sípò,4679,nautilus,po/yo.po
+Reset View to _Defaults,4708,Tún Òye sí _Àwọn Ìpéwọ̀n Tò,4709,nautilus,po/yo.po
+Reset sorting order and zoom level to match preferences for this view,4713,Tún ètò ìṣàtò àti ìpele ìfẹ̀ tò kó lè bá àwọn ìkúndùn fún òye yìí mu,4714,nautilus,po/yo.po
+Mount the selected volume,4726,Fi ìgbóhùnsókè-sódò tí a yàn lọ́lẹ̀,4727,nautilus,po/yo.po
+Unmount the selected volume,4739,Má fi ìgbóhùnsókè-sódò tí a yàn lọ́lẹ̀ mọ́,4740,nautilus,po/yo.po
+_Eject,4746,_Yọkúrò,4747,nautilus,po/yo.po
+Eject the selected volume,4751,Yọ ìgbóhùnsókè-sódò tí a yàn kúrò,4752,nautilus,po/yo.po
+_Stop,4776,_Dúró,4777,nautilus,po/yo.po
+Open File and Close window,4830,Ṣí Fáìlì kí o sì Ti fèrèsé,4831,nautilus,po/yo.po
+Show _Hidden Files,4940,Fi _Àwọn Fáìlì Tí A Fi Pamọ́ Hàn,4941,nautilus,po/yo.po
+_Scripts,4956,_Àwọn Ìwé,4957,nautilus,po/yo.po
+_Connect,5032,_Darapọ̀,5033,nautilus,po/yo.po
+Delete all selected items permanently,5205,Pa gbogbo àwọn wúnrẹ̀n jẹ ráúráú,5206,nautilus,po/yo.po
+Drag and drop is not supported.,5224,Kò sí àtìlẹ́yìn fún wíwọ́ àti ìjùsílẹ̀.,5225,nautilus,po/yo.po
+Drag and drop is only supported on local file systems.,5228,Orí àwọn ètò kọ̀ǹpútà fáìlì agbègbè nìkan ni wíwọ́ àti ìjùsílẹ̀ ti ní àtìlẹ́yìn.,5229,nautilus,po/yo.po
+An invalid drag type was used.,5233,A lo irúfẹ́ wíwọ́ tí kò fẹsẹ̀múlẹ̀.,5234,nautilus,po/yo.po
+_Properties,5249,_Àwọn Àbùdá,5250,nautilus,po/yo.po
+_Close,5294,_Tìí,5295,nautilus,po/yo.po
+Close this folder,5299,Ti fódà yìí,5300,nautilus,po/yo.po
+Open _Parent,5305,Ṣí _Òbí,5306,nautilus,po/yo.po
+Open the parent folder,5309,Ṣí fódà òbí náà,5310,nautilus,po/yo.po
+_Reload,5321,_Tunkì,5322,nautilus,po/yo.po
+Zoom _In,5333,Fẹ̀ẹ́ _Sínú,5334,nautilus,po/yo.po
+Zoom _Out,5344,Fẹ̀ẹ́ _Síta,5345,nautilus,po/yo.po
+Normal Si_ze,5355,Ìw_ọ̀n Déédéé,5356,nautilus,po/yo.po
+_Home,5366,_Ilé,5367,nautilus,po/yo.po
+_Back,5387,_Ẹ̀yìn,5388,nautilus,po/yo.po
+Go to the previous visited location,5391,Lọ sí àyè tí a ṣẹ̀ bẹ̀wò tán,5392,nautilus,po/yo.po
+_Forward,5396,_Iwájú,5397,nautilus,po/yo.po
+Go to the next visited location,5400,Lọ sí àyè tókàn tí a fẹ́ bẹ̀wò,5401,nautilus,po/yo.po
+Specify a location to open,5410,Sọ ní pàtó àyè ta fẹ́ ṣí,5411,nautilus,po/yo.po
+_Up,5500,_Òkè,5501,nautilus,po/yo.po

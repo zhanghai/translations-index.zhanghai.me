@@ -1,0 +1,617 @@
+Photo mode,23,ໂຫມດຮູບພາບ,24,cheese,po/lo.po
+Photo,27,ຮູບພາບ,28,cheese,po/lo.po
+Video mode,31,ໂຫມດວິດີໂອ,32,cheese,po/lo.po
+Video,35,ວິດີໂອ,36,cheese,po/lo.po
+Photo burst mode,39,ໂຫມດຮູບພາບຕໍ່ເນື່ອງ,40,cheese,po/lo.po
+Burst,43,ຮູບພາບຕໍ່ເນື່ອງ,44,cheese,po/lo.po
+Take a photo using a webcam,47,ຖ່າຍຮູບໂດຍການນຳໃຊ້ເວັບແຄມ,48,cheese,po/lo.po
+Navigate to the previous page of effects,51,ກັບໄປຫາລູກຫລີ້ນຫນ້າກ່ອນຫນ້ານີ້,52,cheese,po/lo.po
+Effects,55,ລູກຫລີ້ນ,56,cheese,po/lo.po
+_Effects,59,_ລູກຫລີ້ນ,60,cheese,po/lo.po
+Navigate to the next page of effects,63,ເຂົ້າໄປຫາລູກຫລີ້ນຫນ້າຕໍ່ໄປ,64,cheese,po/lo.po
+Leave fullscreen mode and go back to windowed mode,67,ອອກຈາກໂຫມດເຕັມຫນ້າຈໍ ແລະ ກັບໄປທີ່ໂຫມດວິນໂດ,68,cheese,po/lo.po
+Preferences,71,ການປັບແຕ່ງ,72,cheese,po/lo.po
+_Help,75,_ວິທີໃຊ້,76,cheese,po/lo.po
+_Close,79,_ປິດ,80,cheese,po/lo.po
+Device,83,ອຸປະກອນ,84,cheese,po/lo.po
+Photo resolution,87,ຄວາມລະອຽດຂອງພາບ,88,cheese,po/lo.po
+Video resolution,91,ຄວາມລະອຽດຂອງວິດີໂອ,92,cheese,po/lo.po
+Webcam,95,ເວັບແຄມ,96,cheese,po/lo.po
+Brightness,99,ຄວາມແຈ້ງ,100,cheese,po/lo.po
+Saturation,103,ສີສົດ,104,cheese,po/lo.po
+Hue,107,ທາດສີ,108,cheese,po/lo.po
+Contrast,111,ຄວາມຕ່າງຂອງລະດັບສີ,112,cheese,po/lo.po
+Image,115,ພາບ,116,cheese,po/lo.po
+Shutter,119,ຊັດເຕີ,120,cheese,po/lo.po
+_Countdown,123,_ນັບຖອຍຫລັງ,124,cheese,po/lo.po
+Fire _flash,127,ຍິງ _ແຟລຊ໌,128,cheese,po/lo.po
+Burst mode,131,ໂຫມດຮູບພາບຕໍ່ເນື່ອງ,132,cheese,po/lo.po
+Number of photos,135,ຈຳນວນຂອງຮູບພາບ,136,cheese,po/lo.po
+Delay between photos (seconds),139,ໄລຍະເວລາລະຫວ່າງແຕ່ລະຮູບ (ວິນາທີ),140,cheese,po/lo.po
+Capture,143,ການຈັບພາບ,144,cheese,po/lo.po
+_Fullscreen,147,_ເຕັມຈໍ,148,cheese,po/lo.po
+P_references,151,ການປັບແຕ່ງ,152,cheese,po/lo.po
+_Keyboard Shortcuts,155,_ຕົວຫຍໍ້ຄີບອດ,156,cheese,po/lo.po
+_About Cheese,159,_ກ່ຽວກັບ,160,cheese,po/lo.po
+Take a Photo,163,ຖ່າຍຮູບ,164,cheese,po/lo.po
+Open,167,ເປີດ,168,cheese,po/lo.po
+Save _As…,171,ບັນທຶກໄວ້ທີ່…,172,cheese,po/lo.po
+Move to _Trash,175,ຖີ້ມລົງໃນຖັງຂີ້ເຫຍື້ອ,176,cheese,po/lo.po
+Delete,179,ລຶບ,180,cheese,po/lo.po
+"Take photos and videos with your webcam, with fun graphical effects",190,ຖ່າຍຮູບ ແລະ ວິດີໂອດ້ວຍເວັບແຄມຂອງທ່ານ ພ້ອມກັບໃສ່ລູກຫລີ້ນທີ່ຫນ້າຮັກ,191,cheese,po/lo.po
+"Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.",194,Cheese ນຳໃຊ້ເວັບແຄມຂອງທ່ານໃນການຖ່າຍຮູບ ແລະ ວິດີໂອ ພ້ອມກັບມີລູກຫລີ້ນທີ່ຫລາກລາຍ ແລະ ເຮັດໃຫ້ທ່ານສາມາດແບ່ງປັນຄວາມສະຫນຸກສະຫນານກັບຄົນອື່ນໆ.,197,cheese,po/lo.po
+"Take multiple photos in quick succession with burst mode. Use the countdown to give yourself time to strike a pose, and wait for the flash!",202,ຖ່າຍຫລາຍຮູບພ້ອມກັນຢ່າງວອງໄວດ້ວຍການນຳໃຊ້ໂຫມດຮູບພາບຕໍ່ເນື່ອງ. ໃຊ້ການນັບຖອຍຫລັງເພື່ອເຮັດໃຫ້ທ່ານມີເວລາກັບໄປຖ່າຍຮູບທັນ!,205,cheese,po/lo.po
+"Under the hood, Cheese uses GStreamer to apply fancy effects to photos and videos. With Cheese it is easy to take photos of you, your friends, pets or whatever you want and share them with others.",209,"ການເຮັດວຽກພາຍໃນຂອງ Cheese ແມ່ນໄດ້ນຳໃຊ້ GStreamer ໃນການເພີ່ມລູກຫລີ້ນທີ່ຫລາກຫລາຍໃຫ້ກັບຮູບພາບ ແລະ ວິດີໂອ. Cheese ຈະເຮັດໃຫ້ທ່ານສາມາດຖ່າຍຮູບຂອງທ່ານໄດ້ງ່າຍຂື້ນ, ຫມູ່ຂອງທ່ານ, ສັດລ້ຽງ ຫລື ອື່ນໆທີ່ທ່ານຕ້ອງການ ແລະ ແບ່ງປັນຮູບເຫລົ່ານັ້ນກັບຄົນອື່ນໆ.",213,cheese,po/lo.po
+Webcam Booth,219,ບູດເວັບແຄມ,220,cheese,po/lo.po
+photo;video;webcam;camera;selfie;,224,ຮູບພາບ;ວິດີໂອ;ເວັບແຄມ;ກ້ອງ;ເຊລຟີ;,225,cheese,po/lo.po
+Use a countdown,228,ນຳໃຊ້ການນັບຖອຍຫລັງ,229,cheese,po/lo.po
+Set to true to show a countdown before taking a photo,232,ກຳນົດເປັນຄ່າຈິງຖ້າຕ້ອງການສະແດງການນັບຖອຍຫລັງກ່ອນການຖ່າຍຮູບ,233,cheese,po/lo.po
+Countdown length,236,ຊ່ວງເວລາການນັບຖອຍຫລັງ,237,cheese,po/lo.po
+"The duration of the countdown before taking a photo, in seconds",240,ໄລຍະເວລາຂອງການນັບຖອຍຫລັງກ່ອນການຖ່າຍຮູບເປັນວິນາທີ,241,cheese,po/lo.po
+Fire flash before taking a photo,244,ເປີດແຟລຊ໌ກ່ອນການຖ່າຍຮູບ,245,cheese,po/lo.po
+Set to true to fire a flash before taking a photo,248,ກຳນົດຄ່າເປັນຈິງເພື່ອເປີດແຟລຊ໌ກ່ອນການຖ່າຍຮູບ,249,cheese,po/lo.po
+Camera device string indicator,252,ຊື່ແຟ້ມອຸປະກອນຂອງກ້ອງ,253,cheese,po/lo.po
+"The path to the device node which points to the camera, for example /dev/video0",256,ພາທ໌ໄປຫາໂນດຂອງອຸປະກອນທີ່ຊີ້ໄປຫາກ້ອງ ເຊັ່ນ /dev/video0,257,cheese,po/lo.po
+Last selected effect,260,ລູກຫລີ້ນທີ່ໄດ້ເລືອກໂຕຫລ້າສຸດ,261,cheese,po/lo.po
+Name of the installed effect that was selected last,264,ຊື່ຂອງລູກຫລີ້ນທີ່ໄດ້ຕິດຕັ້ງໄວ້ທີ່ໄດ້ເລືອກໄວ້ຫລ້າສຸດ,265,cheese,po/lo.po
+Photo width,268,ຄວາມກ້ວາງຂອງຮູບພາບ,269,cheese,po/lo.po
+"The width of the image captured from the camera, in pixels",272,ຄວາມກ້ວາງຂອງຮູບພາບທີ່ໄດ້ຖ່າຍຈາກກ້ອງ ເປັນພິກເຊລ,273,cheese,po/lo.po
+Photo height,276,ລວງສູງຂອງຮູບພາບ,277,cheese,po/lo.po
+"The height of the image captured from the camera, in pixels",280,ລວງສູງຂອງຮູບພາບທີ່ໄດ້ຖ່າຍຈາກກ້ອງ ເປັນພິກເຊລ,281,cheese,po/lo.po
+Video width,284,ຄວາມກ້ວາງຂອງວິດີໂອ,285,cheese,po/lo.po
+"The width of the video captured from the camera, in pixels",288,ຄວາມກ້ວາງຂອງວິດີໂອທີ່ໄດ້ຖ່າຍຈາກກ້ອງ ເປັນພິກເຊລ,289,cheese,po/lo.po
+Video height,292,ລວງສູງຂອງວິດີໂອ,293,cheese,po/lo.po
+"The height of the video captured from the camera, in pixels",296,ລວງສູງຂອງວິດີໂອທີ່ໄດ້ຖ່າຍຈາກກ້ອງ ເປັນພິກເຊລ,297,cheese,po/lo.po
+Image brightness,300,ຄວາມສະຫວ່າງຂອງຮູບ,301,cheese,po/lo.po
+Adjusts the brightness of the image coming from the camera,304,ປັບຄວາມສະຫວ່າງຂອງຮູບຈາກກ້ອງ,305,cheese,po/lo.po
+Image contrast,308,ຄວາມຕ່າງລະດັບສີຂອງຮູບ,309,cheese,po/lo.po
+Adjusts the contrast of the image coming from the camera,312,ປັບຄວາມຕ່າງລະດັບສີຂອງຮູບຈາກກ້ອງ,313,cheese,po/lo.po
+Image saturation,316,ຄວາມສົດຂອງສີພາບ,317,cheese,po/lo.po
+Adjusts the saturation of the image coming from the camera,320,ປັບຄວາມສົດຂອງສີພາບຈາກກ້ອງ,321,cheese,po/lo.po
+Image hue,324,ທາດສີຂອງຮູບ,325,cheese,po/lo.po
+Adjusts the hue (color tint) of the image coming from the camera,328,ປັບທາດສີຂອງຮູບຈາກກ້ອງ,329,cheese,po/lo.po
+Video path,332,ພາທ໌ທີ່ເກັບວິດີໂອ,333,cheese,po/lo.po
+"Defines the path where the videos are stored. If empty, “XDG_VIDEOS_DIR/Webcam” will be used.",336,ກຳນົດພາທ໌ທີ່ຈະໃຊ້ເກັບວິດີໂອ. ຖ້າບໍ່ກຳນົດໄວ້ຈະໃຊ້ “XDG_VIDEOS_DIR/Webcam” ແທນ.,339,cheese,po/lo.po
+Photo path,342,ພາທ໌ທີ່ເກັບຮູບພາບ,343,cheese,po/lo.po
+"Defines the path where the photos are stored. If empty, “XDG_PICTURES_DIR/Webcam” will be used.",346,ກຳນົດພາທ໌ທີ່ຈະໃຊ້ເກັບຮູບພາບ. ຖ້າບໍ່ກຳນົດໄວ້ຈະໃຊ້ “XDG_VIDEOS_DIR/Webcam” ແທນ.,349,cheese,po/lo.po
+Time between photos in burst mode,352,ເວລາລະຫວ່າງພາບໃນໂຫມດຖ່າຍຕໍ່ເນື່ອງ,353,cheese,po/lo.po
+"The length of time, in milliseconds, to delay between taking each photo in a burst sequence of photos. If the burst delay is less than the countdown duration, the countdown duration will be used instead.",356,ໄລຍະເວລາທີ່ໃຊ້ໃນການຖ່າຍຮູບພາບແບບຕໍ່ເນື່ອງແມ່ນໃຊ້ຫົວຫນ່ວຍເປັນມິລລີວິນາທີ. ຖ້າວ່າເວລາທີ່ໃຊ້ໃນການຖ່າຍນ້ອຍກ່ວາໄລຍະເວລາການນັບຖອຍຫລັງ ມັນກໍຈະນຳໃຊ້ໄລຍະເວລາການນັບຖອຍຫລັງແທນ.,360,cheese,po/lo.po
+Number of photos in burst mode,365,ຈຳນວນຂອງຮູບພາບໃນໂຫມດຮູບພາບຕໍ່ເນື່ອງ,366,cheese,po/lo.po
+The number of photos to take in a single burst.,369,ຈຳນວນຂອງຮູບພາບທີ່ຈະຖ່າຍໃນໂຫມດຕໍ່ເນື່ອງແຕ່ລະຄັ້ງ.,370,cheese,po/lo.po
+Overview,374,ພາບລວມ,375,cheese,po/lo.po
+Fullscreen on / off,379,ເປີດ/ປິດ ໂຫມດເຕັມຈໍ,380,cheese,po/lo.po
+Quit the application,384,ອອກຈາກແອັບພຣິເຄຊັນ,385,cheese,po/lo.po
+Thumbnails,389,ຮູບນ້ອຍ,390,cheese,po/lo.po
+Open,394,ເປີດ,395,cheese,po/lo.po
+Save As,399,ບັນທຶກໄວ້ທີ່,400,cheese,po/lo.po
+Move to Trash,404,ຍ້າຍໄປຖັງຂີ້ເຫຍື້ອ,405,cheese,po/lo.po
+Delete,409,ລຶບ,410,cheese,po/lo.po
+_Cancel,414,_ຍົກເລີກ,415,cheese,po/lo.po
+_Select,418,_ເລືອກ,419,cheese,po/lo.po
+Shutter sound,422,ສຽງຊັດເຕີ,423,cheese,po/lo.po
+_Take Another Picture,426,_ຖ່າຍຮູບອື່ນ,427,cheese,po/lo.po
+One or more needed GStreamer elements are missing: ,430,ອົງປະກອບຂອງ GStreamer ທີ່ຈຳເປັນຢ່າງນ້ອຍຫນຶ່ງໄດ້ຢ່າງຂາດຫາຍໄປ: ,431,cheese,po/lo.po
+No device found,435,ບໍ່ພົບອຸປະກອນ,436,cheese,po/lo.po
+Device capabilities not supported,450,ຄວາມສາມາດຂອງອຸປະກອນບໍ່ໄດ້ຮັບການຮັບຮອງ,451,cheese,po/lo.po
+Unknown device,454,ບໍ່ຮູ້ຊະນິດຂອງອຸປະກອນ,455,cheese,po/lo.po
+Cancellable initialization not supported,458,ບໍ່ຮັບຮອງການເລີ່ມຕົ້ນຂອງອຸປະກອນແບບຍົກເລີກໄດ້,459,cheese,po/lo.po
+Start in wide mode,462,ເລີ່ມໃນໂຫມດຈໍກ້ວາງ,463,cheese,po/lo.po
+Device to use as a camera,466,ອຸປະກອນທີ່ຈະນຳໃຊ້ກ້ອງ,467,cheese,po/lo.po
+DEVICE,470,ອຸປະກອນ,471,cheese,po/lo.po
+Output version information and exit,474,ສະແດງຂໍ້ມູນຂອງເວີຊັນ ແລະ ອອກໄປ,475,cheese,po/lo.po
+Start in fullscreen mode,478,ເລີ່ມໃນໂຫມດເຕັມຫນ້າຈໍ,479,cheese,po/lo.po
+Webcam in use,482,ເວັບແຄມຖືກນຳໃຊ້ຢູ່,483,cheese,po/lo.po
+Cheese Website,490,ເວັບໄຊທ໌ຂອງ Cheese,491,cheese,po/lo.po
+No Effect,496,ບໍ່ມີລູກຫລີ້ນ,497,cheese,po/lo.po
+Could not open %s,501,ບໍ່ສາມາດເປີດ %s,502,cheese,po/lo.po
+Are you sure you want to permanently delete the file?,506,ທ່ານຫມັ້ນໃຈແລ້ວບໍ່ວ່າຕ້ອງການຈະລຶບ %d ໄຟລ໌ນີ້ຢ່າງຖາວອນ?,508,cheese,po/lo.po
+_Delete,511,_ລຶບ,512,cheese,po/lo.po
+"If you delete an item, it will be permanently lost",515,ຖ້າທ່ານລຶບລາຍການເຫລົ່ານີ້ ພວກມັນຈະຖືກລຶບໄປຢ່າງຖາວອນ,517,cheese,po/lo.po
+Could not delete %s,521,ບໍ່ສາມາດເປີດ %s,522,cheese,po/lo.po
+Skip,525,ຂ້າມ,526,cheese,po/lo.po
+Skip all,529,ຂ້າມທັງຫມົດ,530,cheese,po/lo.po
+Could not move %s to trash,534,ບໍ່ສາມາດຍ້າຍ %s ໄປລົງໄວ້ໃນຖັງຂີ້ເຫຍື້ອໄດ້,535,cheese,po/lo.po
+Save File,539,ບັນທຶກໄຟລ໌,540,cheese,po/lo.po
+Save,543,ບັນທຶກ,544,cheese,po/lo.po
+Could not save %s,548,ບໍ່ສາມາດບັນທຶກ %s,549,cheese,po/lo.po
+Stop recording,552,ຍຸດການບັນທຶກ,553,cheese,po/lo.po
+Record a video,556,ບັນທຶກວິດີໂອ,557,cheese,po/lo.po
+Stop taking pictures,561,ຍຸດການຖ່າຍຮູບ,562,cheese,po/lo.po
+Take multiple photos,565,ຖ່າຍຫລາຍຮູບ,566,cheese,po/lo.po
+No effects found,569,ບໍ່ພົບລູກຫລີ້ນ,570,cheese,po/lo.po
+There was an error playing video from the webcam,573,ເກີດມີຂໍ້ຜິດພາດໃນການເປີດວິດີໂອທີ່ມາຈາກເວັບແຄມ,574,cheese,po/lo.po
+Record a video using a webcam,577,ບັນທຶກວິດີໂອໂດຍການນຳໃຊ້ເວັບແຄມ,578,cheese,po/lo.po
+Take multiple photos using a webcam,581,ຖ່າຍຫລາຍຮູບໂດຍການນຳໃຊ້ເວັບແຄມ,582,cheese,po/lo.po
+Choose an Effect,585,ເລືອກລູກຫລີ້ນ,586,cheese,po/lo.po
+Record a Video,589,ບັນທຶກວິດີໂອ,590,cheese,po/lo.po
+Take Multiple Photos,593,ຖ່າຍຫລາຍຮູບ,594,cheese,po/lo.po
+Sound & Video,23,ສຽງ ເເລະ ວີດີໂອ,24,gnome-menus,po/lo.po
+Multimedia menu,27,ລາຍການສືປະສົມ,28,gnome-menus,po/lo.po
+Programming,31,ຂງນໂປຣແກຣມ,32,gnome-menus,po/lo.po
+Tools for software development,35,ເຄື່ອງມືພັດທະນາຊອບແວຣ,36,gnome-menus,po/lo.po
+Education,39,ການສຶກສາ,40,gnome-menus,po/lo.po
+Games,43,ເກມ,44,gnome-menus,po/lo.po
+Games and amusements,47,ເກມ ແລະ ລາ້ເລີງ,48,gnome-menus,po/lo.po
+Graphics,51,ຮູບພາບ,52,gnome-menus,po/lo.po
+Graphics applications,55,ໂປຣແກຣມຮູບພາບ,56,gnome-menus,po/lo.po
+Internet,59,ອິນເຕີເນັດ,60,gnome-menus,po/lo.po
+Programs for Internet access such as web and email,63,ໂປຣແກຣມສຳລັບເຂົ້າອິນເຕີເນັດຕົວຢ່າງ ເວັບ ເເລະ ອີເມວລ໌,64,gnome-menus,po/lo.po
+Office,67,ໂປຣເເກຣມຫ້ອງການ,68,gnome-menus,po/lo.po
+Office Applications,71,ໂປຣມແກຣມສຳລັບຫ້ອງການ,72,gnome-menus,po/lo.po
+System Tools,75,ເຄື່ອງມືລະບົບ,76,gnome-menus,po/lo.po
+System configuration and monitoring,79,ຕັ້ງຄ່າ ແລະ ເບີ່ງເເຍງລະບົບ,80,gnome-menus,po/lo.po
+Universal Access,83,ສິ່ງອຳນວຍຄວາມສະດວກ,84,gnome-menus,po/lo.po
+Universal Access Settings,87,ຕັ້ງຄ່າສິ່ງອຳນວຍຄວາມສະດວກ,88,gnome-menus,po/lo.po
+Accessories,91,ເຄື່ອງອຸປະກອນເພີ້ມ,92,gnome-menus,po/lo.po
+Desktop accessories,95,ໂປຣມແກຣມເຄື່ອງໃຊ້ສອຍເດັດທອບ,96,gnome-menus,po/lo.po
+Applications,99,ໂປຣເເກຣມທົວໄປ,100,gnome-menus,po/lo.po
+Other,103,ອື່ນໆ,104,gnome-menus,po/lo.po
+Applications that did not fit in other categories,107,ໂປຣເເກຣມ ບໍ່ຢູ່ໃນໝວດອື່ນໆ,108,gnome-menus,po/lo.po
+Sundry,111,ອື່ນໆ,112,gnome-menus,po/lo.po
+Utilities,115,ເຄື່ອງມື,116,gnome-menus,po/lo.po
+Small but useful GNOME tools,119,ນ້ອຍ ແຕ່ວ່າເປັນເຄື່ອງມືທີ່ເປັນປະໂຫຍດຂອງ GNOME,120,gnome-menus,po/lo.po
+Web Applications,123,ເວັບແອັບພລິເຄຊັນ,124,gnome-menus,po/lo.po
+Applications and sites saved from Web,127,ແອັບພລິເຄຊັນ ແລະ ເວັບທີ່ໄດ້ບັນທຶກໄວ້ຈາກເວັບຕ່າງໆ,128,gnome-menus,po/lo.po
+Network Tools,24,ເຄື່ອງມືທີ່ໃຊ້ກວດສອບເຄືອຂ່າຍ,25,gnome-nettool,po/lo.po
+Perform advanced networking analysis,28,ປະຕິບັດການວິເຄາະເຄືອຂ່າຍຂັ້ນສູງ,29,gnome-nettool,po/lo.po
+"Network Tools is a utility to perform advanced networking analysis operations. It features a range of networking tools that are typically done on the command line, but allows you to perform them with a graphical interface.",32,ເຄື່ອງມືເຄືອຂ່າຍແມ່ນສິ່ງທີ່ໃຊ້ເພື່ອດຳເນີນການວິເຄາະລະບົບເຄືອຂ່າຍຂັ້ນສູງ. ທ່ານສາມາດນຳໃຊ້ໄດ້ໃນຮູບແບບຂອງ command line ແລະ ແບບກຣາບຟິກ.,36,gnome-nettool,po/lo.po
+"With Network Tools, you can perform the following: ping, netstat, traceroute, port scans, lookup, finger and whois.",41,"ທ່ານສາມາດ ping, netstat, traceroute, port scans, lookup, finger and whois ໂດຍການນຳໃຊ້ເຄື່ອງມືເຄືອຂ່າຍ.",44,gnome-nettool,po/lo.po
+The GNOME Project,49,ໂຄງການ GNOME,50,gnome-nettool,po/lo.po
+Network information tools,53,ເຄື່ອງມືຂໍ້ມູນເຄືອຂ່າຍ,54,gnome-nettool,po/lo.po
+View information about your network,57,ເບິງຂໍ້ມູນກ່ຽວກັບເຄືອຂ່າຍຂອງທ່ານ,58,gnome-nettool,po/lo.po
+network;monitor;remote;,62,ເຄືອຂ່າຍ;ເຝົ້າຕິດຕາມ;ລີໂຫມດ;,63,gnome-nettool,po/lo.po
+Host,72,ໂຮສ໌ຕ,73,gnome-nettool,po/lo.po
+User,76,ຊື່ຜູ້ໃຊ້,77,gnome-nettool,po/lo.po
+_Tool,80,_ເຄື່ອງມື,81,gnome-nettool,po/lo.po
+Beep on ping,84,ສົງສຽງບີບເມື່ອ Ping,85,gnome-nettool,po/lo.po
+_Edit,88,_ແກ້ໄຂ,89,gnome-nettool,po/lo.po
+Copy as text _report,92,ສຳເນົາ_ລາຍງານໃນຮູບແບບຂໍ້ຄວາມເປົ່າ,93,gnome-nettool,po/lo.po
+Clear _History,96,_ລົບລ້າງປະຫວັດການນຳໃຊ້,97,gnome-nettool,po/lo.po
+_Help,100,_ວິທີນຳໃຊ້,101,gnome-nettool,po/lo.po
+_Contents,104,_ເນື້ອຫາ,105,gnome-nettool,po/lo.po
+Devices — Network Tools,109,ອຸປະກອນ — ເຄື່ອງມືທີ່ໃຊ້ກວດສອບເຄືອຂ່າຍ,110,gnome-nettool,po/lo.po
+_Network device:,113,_ອຸປະກອນເຄືອຂ່າຍ:,114,gnome-nettool,po/lo.po
+_Configure,117,_ຕັ້ງຄ່າ,118,gnome-nettool,po/lo.po
+IP Information,121,ຂໍ້ມູນຂອງໄອພີ,122,gnome-nettool,po/lo.po
+Hardware address:,125,ທີ່ຢູ່ຂອງຮາດແວ:,126,gnome-nettool,po/lo.po
+Multicast:,129,ມັລ໌ຕິແຄສຕ໌,130,gnome-nettool,po/lo.po
+Link speed:,137,ຄວາມໄວລີ້ງ:,138,gnome-nettool,po/lo.po
+State:,141,ສະຖານະ:,142,gnome-nettool,po/lo.po
+Not Available,148,ບໍ່ມີຂໍ້ມູນ,149,gnome-nettool,po/lo.po
+Interface Information,152,ຂໍ້ມູນຂອງອິນເຕີເຟຊ,153,gnome-nettool,po/lo.po
+Transmitted bytes:,156,ຈຳນວນໄບຕ໌ທີ່ໄດ້ສົງໄປ:,157,gnome-nettool,po/lo.po
+Received bytes:,160,ຈຳນວນໄບຕ໌ທີ່ໄດ້ຮັບ:,161,gnome-nettool,po/lo.po
+Transmission errors:,164,ການສົ່ງເກີດມີຂໍ້ຜິດພາດ:,165,gnome-nettool,po/lo.po
+Transmitted packets:,168,ຈຳນວນແພັກເກັດທີ່ໄດ້ສົງໄປ:,169,gnome-nettool,po/lo.po
+Received packets:,172,ຈຳນວນແພັກເກັດທີ່ໄດ້ຮັບ:,173,gnome-nettool,po/lo.po
+Reception errors:,176,ມີຂໍ້ຜິດພາດໃນການຮັບ:,177,gnome-nettool,po/lo.po
+Collisions:,180,ການຕຳກັນ:,181,gnome-nettool,po/lo.po
+Interface Statistics,184,ສະຖິຕິຂອງອິນເຕີເຟສ:,185,gnome-nettool,po/lo.po
+Devices,188,ອຸປະກອນ,189,gnome-nettool,po/lo.po
+Only,192,ເທົ່ານັ້ນ,193,gnome-nettool,po/lo.po
+requests,196,ຄໍາຮ້ອງຂໍ,197,gnome-nettool,po/lo.po
+Unlimited requests,200,ຄໍາຮ້ອງຂໍບໍ່ມີກຳນົດ,201,gnome-nettool,po/lo.po
+Send:,204,ສົ່ງ:,205,gnome-nettool,po/lo.po
+Enter the network address to ping. For example: www.domain.com or 192.168.2.1,208,ປ້ອນທີ່ຢູ່ຂອງເຄື່ອຂາຍເພື່ອປິງໄປຫາ. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,209,gnome-nettool,po/lo.po
+Network address,213,ທີ່ຢູ່ຂອງເຄື່ອຂາຍ,214,gnome-nettool,po/lo.po
+_Network address:,218,_ທີ່ຢູ່ຂອງເຄື່ອຂາຍ:,219,gnome-nettool,po/lo.po
+Ping,222,ປິງ,223,gnome-nettool,po/lo.po
+ms,231,ວິນາທີ,232,gnome-nettool,po/lo.po
+Maximum:,235,ສູງສຸດ:,236,gnome-nettool,po/lo.po
+Average:,239,ສະເລ່ຍ:,240,gnome-nettool,po/lo.po
+Minimum:,243,ຕຳສຸດ:,244,gnome-nettool,po/lo.po
+Round Trip Time Statistics,247,ສະຖິຕິຂອງເວລາໄປກັບ:,248,gnome-nettool,po/lo.po
+Packets transmitted:,251,ຈຳນວນແພັກເກັດທີ່ໄດ້ສົງໄປ:,252,gnome-nettool,po/lo.po
+Successful packets:,263,ສຳເລັດການສົ່ງແພັກເກັດ:,264,gnome-nettool,po/lo.po
+Packets received:,267,ຈຳນວນແພັກເກັດທີ່ໄດ້ຮັບ:,268,gnome-nettool,po/lo.po
+Transmission Statistics,271,ສະຖິຕິການສົ່ງ:,272,gnome-nettool,po/lo.po
+Details,275,ລາຍລະອຽດ,276,gnome-nettool,po/lo.po
+Display:,279,ສະແດງ:,280,gnome-nettool,po/lo.po
+Routing Table Information,283,ຂໍ້ມູນຂອງ Routing Table,284,gnome-nettool,po/lo.po
+Active Network Services,287,ເຊີວິດຂອງເຄື່ອຂາຍທີ່ເປີດນຳໃຊ້ຢູ່,288,gnome-nettool,po/lo.po
+Multicast Information,291,ຂໍ້ມູນຂອງ Multicast,292,gnome-nettool,po/lo.po
+Output for net stat,299,ຜົນລັບສຳລັບ net stat,300,gnome-nettool,po/lo.po
+Netstat output,303,ຜົນລັບຂອງ Netstat,304,gnome-nettool,po/lo.po
+Enter the network address to trace a path to. For example: www.domain.com or 192.168.2.1,307,ປ້ອນທີ່ຢູ່ຂອງເຄື່ອຂາຍເພື່ອ trace ໄປຫາພາສທ໌. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,309,gnome-nettool,po/lo.po
+Output for traceroute,316,ຜົນລັບສຳລັບ traceroute,317,gnome-nettool,po/lo.po
+Traceroute output,320,ຜົນລັບຂອງ Traceroute,321,gnome-nettool,po/lo.po
+Enter the network address to trace a route to. For example: www.domain.com or 192.168.2.1,324,ປ້ອນທີ່ຢູ່ຂອງເຄື່ອຂາຍເພື່ອ trace ໄປຫາ route. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,326,gnome-nettool,po/lo.po
+Enter the network address to scan for open ports. For example: www.domain.com or 192.168.2.1,333,ປ້ອນທີ່ຢູ່ຂອງເຄື່ອຂາຍເພື່ອສະແກນພອດທີ່ເປີດຢູ່. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,335,gnome-nettool,po/lo.po
+Scan,338,ສະແກນ,339,gnome-nettool,po/lo.po
+Output for port scan,342,ຜົນລັບສຳລັບການສະແກນພອດ,343,gnome-nettool,po/lo.po
+Port scan output,346,ຜົນລັບຂອງການສະແກນພອດ,347,gnome-nettool,po/lo.po
+Port Scan,350,ສະແກນພອດ,351,gnome-nettool,po/lo.po
+_Information type:,354,_ປະເພດຂອງຂໍ້ມູນ:,355,gnome-nettool,po/lo.po
+Enter the domain to lookup. For example: domain.com or ftp.domain.com.,358,ປ້ອນໂດເມນເພື່ອ lookup. ຕົວຢ່າງ domain.com ຫລື ftp.domain.com.,359,gnome-nettool,po/lo.po
+Output for lookup,366,ຜົນລັບສຳລັບ Lookup,367,gnome-nettool,po/lo.po
+Lookup output,370,ຜົນລັບຂອງ Lookup,371,gnome-nettool,po/lo.po
+Enter the network address to finger that user. For example: www.domain.com or 192.168.2.1,374,ປ້ອນທີ່ຢູ່ຂອງເຄື່ອຂາຍເພື່ອ finger ໄປຫາຜູ້ໃຊ້ນັ້ນ. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,376,gnome-nettool,po/lo.po
+Enter the user to finger,379,ປ້ອນຊື່ຜູ້ໃຊ້ເພື່ອ finger,380,gnome-nettool,po/lo.po
+User name,383,ຊື່ຜູ້ໃຊ້,384,gnome-nettool,po/lo.po
+_Username:,387,_ຊື່ຜູ້ໃຊ້:,388,gnome-nettool,po/lo.po
+Output for finger,395,ຜົນລັບສຳລັບ Finger,396,gnome-nettool,po/lo.po
+Finger output,399,ຜົນລັບຂອງ Finger,400,gnome-nettool,po/lo.po
+_Domain address:,403,_ທີ່ຢູ່ໂດເມນ:,404,gnome-nettool,po/lo.po
+Enter a domain address to lookup its whois information. For example: www.domain.com or 192.168.2.1,407,ປ້ອນທີ່ຢູ່ຂອງໂດເມນເພື່ອ lookup ເບິງຂໍ້ມູນ whois ຂອງມັນ. ຕົວຢ່າງ: www.domain.com ຫລື 192.168.2.1,410,gnome-nettool,po/lo.po
+Domain address,413,ທີ່ຢູ່ໂດເມນ,414,gnome-nettool,po/lo.po
+Output for whois,421,ຜົນລັບສຳລັບ Whois,422,gnome-nettool,po/lo.po
+Whois output,425,ຜົນລັບຂອງ Whois,426,gnome-nettool,po/lo.po
+Historically used hostnames,429,ໂຮສ໌ຕເນມທີ່ໃຊ້ກ່ອນຫນ້ານີ້,430,gnome-nettool,po/lo.po
+A list of hostnames previously used,433,ລາຍຊື່ໂຮສ໌ຕເນມທີ່ໃຊ້ກ່ອນຫນ້ານີ້,434,gnome-nettool,po/lo.po
+Historically used usernames,437,ຊື່ຜູ້ໃຊ້ທີ່ໃຊ້ກ່ອນຫນ້ານີ້,438,gnome-nettool,po/lo.po
+A list of usernames previously used,441,ລາຍຊື່ຜູ້ໃຊ້ທີ່ໃຊ້ກ່ອນຫນ້ານີ້,442,gnome-nettool,po/lo.po
+Historically used domains,445,ໂດເມນທີ່ໃຊ້ກ່ອນຫນ້ານີ້,446,gnome-nettool,po/lo.po
+A list of domains previously used,449,ລາຍຊື່ໂດເມນທີ່ໃຊ້ກ່ອນຫນ້ານີ້,450,gnome-nettool,po/lo.po
+Copyright © 2003-2008 %s,459,ລິຂະສິດ © 2003-2008 %s,460,gnome-nettool,po/lo.po
+Graphical user interface for common network utilities,463,ເຄື່ອງມືທີ່ໃຊ້ກວດສອບເຄືອຂ່າຍໃນຮູບແບບກຣາຟິກ,464,gnome-nettool,po/lo.po
+Idle,467,ບໍ່ໄດ້ໃຊ້ງານ,468,gnome-nettool,po/lo.po
+%s — Network Tools,474,%s — ເຄື່ອງມືທີ່ໃຊ້ກວດສອບເຄືອຂ່າຍ,475,gnome-nettool,po/lo.po
+Unable to open help file,478,ບໍ່ສາມາດເປີດໄຟລ໌ເອກະສານວິທີນຳໃຊ້ໄດ້,479,gnome-nettool,po/lo.po
+Getting information of %s on “%s”,483,ກຳລັງອ່ານຂໍ້ມູນຂອງ %s ໃນ “%s”,484,gnome-nettool,po/lo.po
+Getting information of all users on “%s”,488,ກຳລັງອ່ານຂໍ້ມູນຂອງທຸກຜູ້ໃຊ້້ໃນ “%s”,489,gnome-nettool,po/lo.po
+Other type,493,ປະເພດອື່ນໆ,494,gnome-nettool,po/lo.po
+Ethernet Interface,497,ອິນເຕີເຟສອີເທີເນັດ,498,gnome-nettool,po/lo.po
+Wireless Interface,501,ອິນເຕີເຟສ Wireless,502,gnome-nettool,po/lo.po
+Modem Interface,505,ອິນເຕີເຟສໂມເດມ,506,gnome-nettool,po/lo.po
+Parallel Line Interface,509,ອິນເຕີເຟສ Parallel Line,510,gnome-nettool,po/lo.po
+Infrared Interface,513,ອິນເຕີເຟສອິນຟຣາເລດ,514,gnome-nettool,po/lo.po
+Infiniband Interface,517,ອິນເຕີເຟສ Infiniband,518,gnome-nettool,po/lo.po
+Loopback Interface,521,ອິນເຕີເຟສ Loopback,522,gnome-nettool,po/lo.po
+Unknown Interface,525,ອິນເຕີເຟສທີ່ບໍ່ຮູ້ຈັກ,526,gnome-nettool,po/lo.po
+Network Devices Not Found,529,ບໍ່ພົບອຸປະກອນເຄື່ອຂາຍໃດໆ,530,gnome-nettool,po/lo.po
+Unknown,533,ບໍ່ຮູ້ຈັກ,534,gnome-nettool,po/lo.po
+Active,537,ເຮັດວຽກຢູ່,538,gnome-nettool,po/lo.po
+Inactive,541,ບໍ່ໄດ້ເຮັດວຽກ,542,gnome-nettool,po/lo.po
+Enabled,549,ເປີດໃຊ້ງານຢູ່,550,gnome-nettool,po/lo.po
+Disabled,553,ປິດໃຊ້ງານຢູ່,554,gnome-nettool,po/lo.po
+Network device:\t%s\n,559,ອຸປະກອນເຄື່ອຂາຍ:\t%s\n,560,gnome-nettool,po/lo.po
+Hardware address:\t%s\n,564,ທີ່ຢູ່ຂອງຮາດແວ:\t%s\n,565,gnome-nettool,po/lo.po
+Link speed:\t%s\n,579,ຄວາມໄວຂອງລີ້ງ:\t%s\n,580,gnome-nettool,po/lo.po
+State:\t%s\n,584,ສະຖານະ:\t%s\n,585,gnome-nettool,po/lo.po
+Transmitted packets:\t%s\n,589,ຈຳນວນແພັກເກັດທີ່ໄດ້ສົງໄປແລ້ວ:\t%s\n,590,gnome-nettool,po/lo.po
+Transmission errors:\t%s\n,594,ການສົ່ງເກີດມີຂໍ້ຜິດພາດ:\t%s\n,595,gnome-nettool,po/lo.po
+Received packets:\t%s\n,599,ຈຳນວນແພັກເກັດທີ່ໄດ້ຮັບ:\t%s\n,600,gnome-nettool,po/lo.po
+Reception errors:\t%s\n,604,ມີຂໍ້ຜິດພາດໃນການຮັບ:\t%s\n,605,gnome-nettool,po/lo.po
+Collisions:\t%s\n,609,ການຕຳກັນ:\t%s\n,610,gnome-nettool,po/lo.po
+not available,613,ບໍ່ມີຂໍ້ມູນ,614,gnome-nettool,po/lo.po
+Looking up %s,618,ກຳລັງຄົ້ນຫາ %s,619,gnome-nettool,po/lo.po
+Name,622,ຊື່,623,gnome-nettool,po/lo.po
+Address Type,631,ປະເພດທີ່ຢູ່,632,gnome-nettool,po/lo.po
+Record Type,635,ປະເພດ Record,636,gnome-nettool,po/lo.po
+Address,639,ທີ່ຢູ່,640,gnome-nettool,po/lo.po
+Source\tTTL\tAddress Type\tRecord Type1\tResolution\n,649,ທີ່ມາ\tTTL\tປະເພດທີ່ຢູ່\tປະເພດ Record1\tResolution\n,650,gnome-nettool,po/lo.po
+Load information for a network device,653,ໂຫລດຂໍ້ມູນສຳລັບອຸປະກອນເຄື່ອຂາຍ,654,gnome-nettool,po/lo.po
+DEVICE,657,ອຸປະກອນ,658,gnome-nettool,po/lo.po
+Send a ping to a network address,661,ສົ່ງປິງໄປຫາທີ່ຢູ່ເຄື່ອຂາຍ,662,gnome-nettool,po/lo.po
+HOST,665,ໂຮສຕ໌,666,gnome-nettool,po/lo.po
+"Get netstat information.  Valid options are: route, active, multicast.",669,"ອ່ານຂໍ້ມູນຂອງ netstat. ຕົວເລືອກທີ່ເປັນໄປໄດ້ມີຄື: route, active, multicast.",670,gnome-nettool,po/lo.po
+COMMAND,673,ຄຳສັ່ງ,674,gnome-nettool,po/lo.po
+Trace a route to a network address,677,Trace ເບິງເສັ້ນທາງໄປຫາທີ່ຢູ່ເຄື່ອຂາຍ,678,gnome-nettool,po/lo.po
+Port scan a network address,681,ສະແກນພອດຂອງທີ່ຢູ່ເຄື່ອຂາຍ,682,gnome-nettool,po/lo.po
+Look up a network address,685,Look up ເບິງທີ່ຢູ່ເຄື່ອຂາຍ,686,gnome-nettool,po/lo.po
+Finger command to run,689,ເອີ້ນໃຊ້ຄຳສັ່ງ Finger,690,gnome-nettool,po/lo.po
+USER,693,ຜູ້ໃຊ້,694,gnome-nettool,po/lo.po
+Perform a whois lookup for a network domain,697,ສະແດງ whois ຂອງໂດເມນເຄື່ອຂາຍ,698,gnome-nettool,po/lo.po
+DOMAIN,701,ໂດເມນ,702,gnome-nettool,po/lo.po
+"The file %s doesn’t exist, please check if gnome-nettool is correctly installed",706,ບໍ່ມີໄຟລ໌ %s. ກະລຸນາກວດເບິງວ່າ gnome-nettool ໄດ້ຮັບການຕິດຕັ້ງຢ່າງຖືກຕ້ອງ.,707,gnome-nettool,po/lo.po
+Protocol,710,ໂປຣໂຕຄໍລ,711,gnome-nettool,po/lo.po
+IP Address,714,ທີ່ຢູ່ໄອພີ,715,gnome-nettool,po/lo.po
+Netmask / Prefix,718,ເນັດມາສກ໌ / ພຣີຟິກ,719,gnome-nettool,po/lo.po
+Broadcast,722,ບຣອດເຄສທ໌,723,gnome-nettool,po/lo.po
+Scope,726,ຂອບເຂດ,727,gnome-nettool,po/lo.po
+Default Information,730,ຂໍ້ມູນພື້ນຖານ,731,gnome-nettool,po/lo.po
+Internet Address,734,ທີ່ຢູ່ອິນເຕີເນັດ,735,gnome-nettool,po/lo.po
+Canonical Name,738,ຊື່ Canonical,739,gnome-nettool,po/lo.po
+CPU / OS Type,742,CPU / ປະເພດ OS,743,gnome-nettool,po/lo.po
+Mailbox Exchange,752,ກ່ອງອີເມລ Exchange,753,gnome-nettool,po/lo.po
+Mailbox Information,756,ຂໍ້ມູນກ່ຽວກັບກ່ອງອີເມລ,757,gnome-nettool,po/lo.po
+Name Server,761,ຊື່ເຊີເວີ,762,gnome-nettool,po/lo.po
+Host name for Address,765,ຊື່ໂຮສ໌ຕສຳລັບທີ່ຢູ່,766,gnome-nettool,po/lo.po
+Text Information,776,ຂໍ້ມູນກ່ຽວກັບຂໍ້ຄວາມ,777,gnome-nettool,po/lo.po
+Well Known Services,780,ເຊີວິດທີ່ຮູ້ຈັກເປັນຢ່າງດີ,781,gnome-nettool,po/lo.po
+Any / All Information,784,ຂໍ້ມູນທັງຫມົດ,785,gnome-nettool,po/lo.po
+Getting routing table,788,ກຳລັງອ່ານ routing table,789,gnome-nettool,po/lo.po
+Getting active Internet connections,792,ກຳລັງກວດສອບການເຊື່ອມຕໍກັບອິນເຕີເນັດທີ່ໃຊ້ງານຢູ່,793,gnome-nettool,po/lo.po
+Getting group memberships,796,ກຳລັງກວດສອບກຸ່ມຂອງສະມາຊິກ,797,gnome-nettool,po/lo.po
+IP Source,800,ທີ່ມາໄອພີ,801,gnome-nettool,po/lo.po
+Port/Service,804,ພອດ/ເຊີວິດ,805,gnome-nettool,po/lo.po
+State,808,ສະຖານະ,809,gnome-nettool,po/lo.po
+Destination/Prefix,812,ປາຍທາງ / ພຣີຟິກ,813,gnome-nettool,po/lo.po
+Destination,816,ປາຍທາງ,817,gnome-nettool,po/lo.po
+Gateway,820,ເກດເວ,821,gnome-nettool,po/lo.po
+Netmask,824,ເນັດມາສກ໌,825,gnome-nettool,po/lo.po
+Interface,828,ອິນເຕີເຟສ,829,gnome-nettool,po/lo.po
+Member,832,ສະມາຊິກ,833,gnome-nettool,po/lo.po
+Group,836,ກຸ່ມ,837,gnome-nettool,po/lo.po
+Protocol\tIP Source\tPort/Service\tState\n,843,ໂປຣໂຕຄໍລ\tທີ່ມາໄອພີ\tພອດ/ເຊີວິດ\tສະຖານະ\n,844,gnome-nettool,po/lo.po
+Destination\tGateway\tNetmask\tInterface\n,850,ປາຍທາງ\tເກດເວ\tເນັດມາສກ໌\tອິນເຕີເຟສ\n,851,gnome-nettool,po/lo.po
+Interface\tMember\tGroup\n,856,ອິນເຕີເຟສ\tສະມາຊິກ\tກູ່ມ\n,857,gnome-nettool,po/lo.po
+A network address was not specified,860,ທີ່ຢູ່ເຄື່ອຂາຍຍັງບໍ່ທັນໄດ້ຮັບການລະບຸເທື່ອ,861,gnome-nettool,po/lo.po
+Please enter a valid network address and try again.,864,ກະລຸນາປ້ອນທີ່ຢູ່ເຄື່ອຂາຍທີ່ຖືກຕ້ອງ ແລະ ລອງໃຫມ່ອີກຄັ້ງ.,865,gnome-nettool,po/lo.po
+The address “%s” cannot be found,869,ບໍ່ພົບທີ່ຢູ່ “%s”,870,gnome-nettool,po/lo.po
+A domain address was not specified,873,ທີ່ຢູ່ໂດເມນຍັງບໍ່ທັນໄດ້ຮັບການລະບຸເທື່ອ,874,gnome-nettool,po/lo.po
+Please enter a valid domain address and try again.,877,ກະລຸນາປ້ອນທີ່ຢູ່ໂດເມນທີ່ຖືກຕ້ອງ ແລະ ລອງໃຫມ່ອີກຄັ້ງ.,878,gnome-nettool,po/lo.po
+An error occurred when try to run “%s”,884,ເກີດມີຂໍ້ຜິດພາດໃນຂະນະທີ່ກຳລັງ run “%s”,885,gnome-nettool,po/lo.po
+Information not available,888,ບໍ່ມີຂໍ້ມູນ,889,gnome-nettool,po/lo.po
+Stop,892,ຍຸດ,893,gnome-nettool,po/lo.po
+Time (ms):,901,ເວລາ (ວິນາທີ):,902,gnome-nettool,po/lo.po
+Seq. No.:,905,Seq. ທີ່:,906,gnome-nettool,po/lo.po
+Sending ping requests to %s,910,ສົ່ງປິງໄປທີ່ %s,911,gnome-nettool,po/lo.po
+Bytes,914,ໄບຕ໌,915,gnome-nettool,po/lo.po
+Source,918,ທີ່ມາ,919,gnome-nettool,po/lo.po
+Time,926,ເວລາ,927,gnome-nettool,po/lo.po
+Units,930,ຫົວຫນ່ວຍ,931,gnome-nettool,po/lo.po
+Bytes\tSource\tSeq\tTime\tUnits\n,938,ໄບຕ໌\tທີ່ມາ\tSeq\tເວລາ\tຫົວຫນ່ວຍ\n,939,gnome-nettool,po/lo.po
+Time minimum:\t%s ms\n,944,ເວລານ້ອຍສຸດ:\t%s ວິນາທີ\n,945,gnome-nettool,po/lo.po
+Time average:\t%s ms\n,949,ເວລາສະເລ່ຍ:\t%s ວິນາທີ\n,950,gnome-nettool,po/lo.po
+Time maximum:\t%s ms\n,954,ເວລາໃຫຍ່ສຸດ:\t%s ວິນາທີ\n,955,gnome-nettool,po/lo.po
+Packets transmitted:\t%s\n,959,ຈຳນວນແພັກເກັດທີ່ໄດ້ສົງໄປແລ້ວ:\t%s\n,960,gnome-nettool,po/lo.po
+Packets received:\t%s\n,964,ຈຳນວນແພັກເກັດທີ່ໄດ້ຮັບ:\t%s\n,965,gnome-nettool,po/lo.po
+Successful packets:\t%s\n,969,ສຳເລັດການສົ່ງແພັກເກັດ:\t%s\n,970,gnome-nettool,po/lo.po
+Scanning %s for open ports,974,ກຳລັງສະແກນ %s ສຳລັບພອດທີ່ເປີດ,975,gnome-nettool,po/lo.po
+Port,978,ພອດ,979,gnome-nettool,po/lo.po
+Service,982,ເຊີວິດ,983,gnome-nettool,po/lo.po
+Port\tState\tService\n,989,ພອດ\tສະຖານະ\tເຊີວິດ\n,990,gnome-nettool,po/lo.po
+Tracing route to %s,994,ກຳລັງ Trace route ໄປຫາ %s,995,gnome-nettool,po/lo.po
+Hostname,1002,ຊື່ໂຮສຕ໌,1003,gnome-nettool,po/lo.po
+IP,1006,ໄອພີ,1007,gnome-nettool,po/lo.po
+Hop\tHostname\tIP\tTime 1\n,1013,Hop\tຊື່ໂຮສຕ໌\tໄອພີ\tເວລາ 1\n,1014,gnome-nettool,po/lo.po
+"In order to use this feature of the program, %s must be installed in your system",1018,"ຫາກຈະນຳໃຊ້ຄວາມສາມາດນີ້ຂອງໂປຣແກຣມ, %s ຕ້ອງໄດ້ຮັບການຕິດຕັ້ງໃນລະບົບຂອງທ່ານ",1019,gnome-nettool,po/lo.po
+Getting the whois information of %s,1023,ກຳລັງອ່ານຂໍ້ມູນ whois ຂອງ %s,1024,gnome-nettool,po/lo.po
+_New Puzzle,22,puzzle ໃຫມ່,23,gnome-sudoku,po/lo.po
+_Clear Board,26,ລົບລ້າງບຣອດ,27,gnome-sudoku,po/lo.po
+_Print,30,ພິມ,31,gnome-sudoku,po/lo.po
+Print _Current Puzzle…,34,ພິມ Puzzle ປະຈຸບັນນີ້…,35,gnome-sudoku,po/lo.po
+Print _Multiple Puzzles…,38,ພິມຫລາຍ Puzzle…,39,gnome-sudoku,po/lo.po
+High_lighter,42,ຈຸດເດັ່ນ,43,gnome-sudoku,po/lo.po
+_Warnings,46,ເຕື່ອນ,47,gnome-sudoku,po/lo.po
+_Help,50,ຊ່ວຍເຫລືອ,51,gnome-sudoku,po/lo.po
+_About Sudoku,54,ກ່ຽວກັບສູໂດກຸ,55,gnome-sudoku,po/lo.po
+Sudoku,59,ສູໂດກຸ,60,gnome-sudoku,po/lo.po
+Undo your last action,63,ກັບຄືນການເຄືອນໄຫວຫລ້າສຸດຂອງທ່ານ,64,gnome-sudoku,po/lo.po
+Redo your last action,67,ເຮັດຄືນການເຄືອນໄຫວຫລ້າສຸດຂອງທ່ານ,68,gnome-sudoku,po/lo.po
+Pause,71,ຢຸດ,72,gnome-sudoku,po/lo.po
+Start playing the custom puzzle you have created,75,ເລີ່ມຫລີ້ນ puzzle ທີ່ທ່ານໄດ້ສ້າງຂື້ນມາ,76,gnome-sudoku,po/lo.po
+Go back to the current game,79,ກັບຄືນໄປເກມປະຈຸບັນນີ້,80,gnome-sudoku,po/lo.po
+_Easy,83,ງ່າຍ,84,gnome-sudoku,po/lo.po
+_Medium,87,ປານກາງ,88,gnome-sudoku,po/lo.po
+_Hard,91,ຢາກ,92,gnome-sudoku,po/lo.po
+_Very Hard,95,ຢາກຫລາຍ,96,gnome-sudoku,po/lo.po
+_Create your own puzzle,99,ສ້າງ puzzle ຂອງທ່ານເອງ,100,gnome-sudoku,po/lo.po
+GNOME Sudoku,103,ສູໂດກຸ GNOME,104,gnome-sudoku,po/lo.po
+Test your logic skills in this number grid puzzle,107,ທົດສອບທັກສະໂລຈິກຂອງທ່ານໃນຈຳນວນຂອງ grid puzzle ນີ້,108,gnome-sudoku,po/lo.po
+"Play the popular Japanese logic game. GNOME Sudoku is a must-install for Sudoku lovers, with a simple, unobtrusive interface that makes playing Sudoku fun for players of any skill level.",111,ຫລີ້ນເກມໂລຊິກທີ່ນິຍົມຂອງຊາວຢີ່ປຸນ. GNOME Sudoku ແມ່ນຈະຕ້ອງໄດ້ຮັບການຕິດຕັ້ງສຳລັບຄົນຮັກ Sudoku. ດ້ວຍເຫດທີ Sudoku ມີຫນ້າຕ່າງທີໃຊ້ງານງ່າຍ ແລະ ດືງດູດຄວາມສົນໃຈ ສະນັ້ນມັນຈຶ່ງເຮັດໃຫ້ຜູ້ຫລີ້ນໃນລະດັບຕ່າງໆມີຄວາມມ່ວນຊືນໃນການຫລີ້ນ.,114,gnome-sudoku,po/lo.po
+"Each game is assigned a difficulty similar to those given by newspapers and websites, so your game will be as easy or as difficult as you want it to be.",119,ແຕ່ລະເກມແມ່ນຈະໄດ້ຮັບການຕັ້ງຄ່າລະດັບຄວາມຍາກຄ້າຍຄືກັນກັບຢູ່ໃນຫນັງສືພິມ ຫລື ເວັບໄຊທ ສະນັ້ນລະດັບຄວາມຍາກເກມແມ່ນຈະຂື້ນກັບທ່ານຕ້ອງການໃຫ້ຍາກນ້ອຍ ຫລື ຫຼາຍສຳໃດ.,122,gnome-sudoku,po/lo.po
+"If you like to play on paper, you can print games out. You can choose how many games you want to print per page and what difficulty of games you want to print: as a result, GNOME Sudoku can act a renewable Sudoku book for you.",127,ຖ້າທ່ານມັກຫລີ້ນໃສ່ເຈ້ຍ ທ່ານສາມາດພິມເກມອອກໄດ້. ທ່ານສາມາດເລືອກຈຳນວນເກມທີ່ຕ້ອງການພິມໃນຫນ້າຫນຶ່ງ ແລະ ລະດັບຄວາມຍາກຂອງເກມທີ່ທ່ານຕ້ອງການຈະພິມ: ດັ່ງນັ້ນ GNOME Sudoku ຈຶ່ງສາມາດເປັນປື້ມ Sudoku ສຳລັບທ່ານໄດ້.,131,gnome-sudoku,po/lo.po
+A GNOME sudoku game preview,136,ພລີວິວເກມ GNOME sudoku,137,gnome-sudoku,po/lo.po
+The GNOME Project,140,ໂຄງການ GNOME,141,gnome-sudoku,po/lo.po
+magic;square;,145,magic;ຈະຕຸລັດ;,146,gnome-sudoku,po/lo.po
+Difficulty level of sudokus to be printed,149,ລະດັບຄວາມຍາກຂອງ sudokus ທີ່ຈະໄດ້ຮັບການພິມ,150,gnome-sudoku,po/lo.po
+"Set the difficulty level of the sudokus you want to print. Possible values are: \""easy\"", \""medium\"", \""hard\"", \""very_hard\""",153,"ຕັ້ງຄ່າລະດັບຄວາມຍາກຂອງ sudokus ທີ່ທ່ານຕ້ອງການຈະພິມ. ຄ່າທີ່ເປັນໄປໄດ້ມີ: \""ງ່າຍ\"", \""ປານກາງ\"", \""ຍາກ\"", \""ຍາກຫຼາຍ\""",156,gnome-sudoku,po/lo.po
+Number of Sudokus to print,161,ຈຳນວນຂອງ Sudokus  ທີ່ຈະພິມ,162,gnome-sudoku,po/lo.po
+Set the number of sudokus you want to print,165,ຕັ້ງຄ່າຈຳນວນຂອງ Sudokus ທີ່ທ່ານຕ້ອງການຈະພິມ,166,gnome-sudoku,po/lo.po
+Number of Sudokus to print per page,169,ຈຳນວນຂອງ Sudokus ທີ່ຈະພິມຕໍຫນ້າ,170,gnome-sudoku,po/lo.po
+Set the number of sudokus you want to print per page,173,ຕັ້ງຄ່າຈຳນວນຂອງ Sudokus ທີ່ທ່ານຕ້ອງການຈະພິມຕໍຫນ້າ,174,gnome-sudoku,po/lo.po
+Warn about unfillable squares and duplicate numbers,177,ເຕືອນກ່ຽວກັບການທີ່ບໍ່ສາມາດຕື່ມໃສ່ຫ້ອງໄດ້ ແລະ ຕົວເລກທີ່ຊໍ້າກັນ,178,gnome-sudoku,po/lo.po
+Displays a big red X in a square if it cannot possibly be filled by any number and duplicate numbers are highlighted in red,181,ສະແດງຕົວອັກສອນ X ໃຫຍ່ໃນຫ້ອງ ຖ້າຫາກວ່າມັນຫາກບໍ່ສາມາດຕືມຕົວເລກຕ່າງໆ ແລະ ຕົວເລກທີ່ຊໍ້າກັນໄດ້ແມ່ນໃຫ້ໄດ້ຖືກທາສີໄວ້ເປັນສີແດງ,184,gnome-sudoku,po/lo.po
+"Highlight row, column and square that contain the selected cell",188,"ທາສີແຖວ, ຖັນ ແລະ ຫ້ອງທີ່ປະກອບດ້ວຍເຊລທີ່ໄດ້ເລືອກໄວ້",189,gnome-sudoku,po/lo.po
+Width of the window in pixels,192,ຄວາມກ້ວາງຂອງວິນໂດເປັນພິກເຊລ,193,gnome-sudoku,po/lo.po
+Height of the window in pixels,196,ຄວາມສູງຂອງວິນໂດເປັນພິກເຊລ,197,gnome-sudoku,po/lo.po
+true if the window is maximized,200,ຖືກຕ້ອງຖ້າຫາກວ່າວິນໂດເປັນຂະຫນາດໃຫຍ່ສຸດ,201,gnome-sudoku,po/lo.po
+Print Multiple Puzzles,204,ພິມຫຼາຍ Puzzle,205,gnome-sudoku,po/lo.po
+_Cancel,208,ຍົກເລີກ,209,gnome-sudoku,po/lo.po
+_Number of puzzles,212,ຈຳນວນຂອງ Puzzle,213,gnome-sudoku,po/lo.po
+_Number of puzzles per page,216,ຈຳນວນຂອງ Puzzle ຕໍຫນ້າ,217,gnome-sudoku,po/lo.po
+Difficulty,220,ຄວາມຍາກ,221,gnome-sudoku,po/lo.po
+Unknown Difficulty,224,ບໍ່ຮູ້ລະດັບຄວາມຍາກ,225,gnome-sudoku,po/lo.po
+Easy Difficulty,228,ງ່າຍ,229,gnome-sudoku,po/lo.po
+Medium Difficulty,232,ປານກາງ,233,gnome-sudoku,po/lo.po
+Hard Difficulty,236,ຍາກ,237,gnome-sudoku,po/lo.po
+Very Hard Difficulty,240,ຍາກຫຼາຍ,241,gnome-sudoku,po/lo.po
+Custom Puzzle,244,ດັດແກ້ Puzzle,245,gnome-sudoku,po/lo.po
+Show release version,249,ສະແດງເວີຊັນທີ່ປ່ອຍອອກ,250,gnome-sudoku,po/lo.po
+Show the possible values for each cell,254,ສະແດງຄ່າທີ່ເປັນໄປໄດ້ຂອງແຕ່ລະເຊລ,255,gnome-sudoku,po/lo.po
+The puzzle you have entered is not a valid Sudoku.,259,Puzzle ທີ່ທ່ານໄດ້ປ້ອນເຂົ້າໄປແມ່ນຄ່າ Sudoku ທີ່ບໍ່ຖືກຕ້ອງ.,260,gnome-sudoku,po/lo.po
+Please enter a valid puzzle.,263,ກະລຸນາປ້ອນ puzzle ທີ່ຖືກຕ້ອງ.,264,gnome-sudoku,po/lo.po
+The puzzle you have entered has multiple solutions.,268,Puzzle ທີ່ທ່ານໄດ້ປ້ອນເຂົ້າໄປແມ່ນມີຫລາຍວິທີແກ້.,269,gnome-sudoku,po/lo.po
+Valid Sudoku puzzles have exactly one solution.,272,Sudoku ທີຖືກຕ້ອງຈະມີວິທີແກ້ພຽງວິທີດຽວ.,273,gnome-sudoku,po/lo.po
+_Back,276,_ກັບຄືນ,277,gnome-sudoku,po/lo.po
+Play _Anyway,280,ຫລີ້ນຕໍ່ໄປ,281,gnome-sudoku,po/lo.po
+"Well done, you completed the puzzle in %d minute!",285,"ເກັງຫຼາຍ, ທ່ານໄດ້ແກ້ puzzle ສຳເລັດພາຍໃນ %d ນາທີ!",287,gnome-sudoku,po/lo.po
+_Quit,290,ອອກ,291,gnome-sudoku,po/lo.po
+Play _Again,294,ຫລີ້ນໃຫມ່ອີກຄັ້ງ,295,gnome-sudoku,po/lo.po
+Reset the board to its original state?,298,ຕ້ອງການລີເຊັດບອດກັບຄືນໄປສູ່ຄ່າເລີ່ມຕົ້ນຫລືບໍ່?,299,gnome-sudoku,po/lo.po
+The popular Japanese logic puzzle\n\nPuzzles generated by QQwing %s,304,ເປັນໂລຈິກ puzzle ຍອດນິຍົມຂອງຊາວຢີ່ປຸນ\n\nPuzzles ສ້າງຂື້ນໂດຍ QQwing %s,308,gnome-sudoku,po/lo.po
+Clear,318,ລົບລ້າງ,319,gnome-sudoku,po/lo.po
+Error printing file:,323,ເກີດມີຂໍ້ຜິດພາດໃນການພິມໄຟລ:,324,gnome-sudoku,po/lo.po
+Paused,328,ຢຸດແລ້ວ,329,gnome-sudoku,po/lo.po
+Select Difficulty,332,ເລືອກຄວາມຍາກ,333,gnome-sudoku,po/lo.po
+Create Puzzle,336,ສ້າງ Puzzle,337,gnome-sudoku,po/lo.po
+An Internet Relay Chat Client for GNOME,28,ໂປແກຣມສົ່ງຂໍ້ຄວາມສັ້ນຜ່ານອິນເຕີເນັດສຳລັບ GNOME,29,polari,po/lo.po
+A simple Internet Relay Chat (IRC) client that is designed to integrate seamlessly with GNOME; it features a simple and beautiful interface which allows you to focus on your conversations.,32,Internet Relay Chat (IRC) ເປັນໂປແກຣມແຊັດທີ່ໃຊ້ງານງ່າຍ ທີ່ໄດ້ຮັບການອອກແບບມາໃຫ້ເຮັດວຽກໄດ້ດີກັບ GNOME ຊຶ່ງມີຫນ້າຕາທີ່ເບິງງ່າຍ ແລະ ເຮັດໃຫ້ທ່ານສາມາດຊຸ່ມໃສ່ແຕ່ການສົນທະນາຂອງທ່ານ.,36,polari,po/lo.po
+"You can use Polari to publicly chat with people in a channel, and to have private one-to-one conversations. Notifications make sure that you never miss an important message — for private conversations, they even allow you to reply instantly without switching back to the application!",41,ທ່ານສາມາດນຳໃຊ້ Polari ເຂົ້າໃນການແຊັດແບບສາທາລະນະກັບຄົນຢູ່ໃຫ່ກຸ່ມຕ່າງໆ ແລະ ໃຊ້ແຊັດແບບສ່ວນຕົວກໍ່ໄດ້. ການແຈ້ງເຕືອນຈະເຮັດໃຫ້ທ່ານບໍ່ພາດໃນການຮັບຂໍ້ຄວາມຕ່າງໆທີ່ສຳຄັນ — ສຳລັບການສົນທະນາແບບສ່ວນຕົວ ທ່ານສາມາດຕອບກັບຂໍ້ຄວາມນັ້ນໄດ້ໂດຍບໍ່ຕ້ອງກັບເຂົ້າໄປໂປແກຣມອີກກໍ່ໄດ້!,46,polari,po/lo.po
+The GNOME Project,52,ໂຄງການ GNOME,53,polari,po/lo.po
+IRC;Internet;Relay;Chat;,57,IRC;ອິນເຕີເນັດ;Relay;ແຊັດ;,58,polari,po/lo.po
+Saved channel list,61,ລາຍຊື່ຊ່ອງທີ່ໄດ້ບັນທຶກໄວ້,62,polari,po/lo.po
+List of channels to restore on startup,65,ລາຍຊື່ຊ່ອງທີ່ຈະເປີດຄືນໃນ startup,66,polari,po/lo.po
+Run in Background,69,ເປີດໃນ Background,70,polari,po/lo.po
+Keep running in background when closed.,73,ສືບຕໍ່ເປີດຕໍ່ໄປໃນ Background ເມື່ອອອກໂປແກຣມແລ້ວ.,74,polari,po/lo.po
+Window size,77,ຂະຫນາດວິນໂດ,78,polari,po/lo.po
+Window size (width and height).,81,ຂະຫນາດວິນໂດ (ກ້ວາງ ແລະ ສູງ).,82,polari,po/lo.po
+Window maximized,85,ຂະຫຍາຍວິນໂດໃຫຍ່ສຸດ,86,polari,po/lo.po
+Window maximized state,89,ສະຖານະຂະຫຍາຍວິນໂດໃຫຍ່ສຸດ,90,polari,po/lo.po
+Last active channel,93,ຊ່ອງທີ່ຫາກາເຂົ້ານຳໃຊ້ຫລ້າສຸດ,94,polari,po/lo.po
+Last active (selected) channel,97,ຊ່ອງທີ່ຫາກາເຂົ້ານຳໃຊ້ຫລ້າສຸດ,98,polari,po/lo.po
+Identify botname,101,ລະບຸ botname,102,polari,po/lo.po
+Nickname of the bot to identify with,105,ຊື່ຫລີ້ນຂອງ bot ທີ່ຈະລະບຸດ້ວຍ,106,polari,po/lo.po
+Identify command,109,ຄຳສັງລະບຸ,110,polari,po/lo.po
+Command used to identify with bot,113,ຄຳສັງທີ່ເຄີຍໃຊ້ລະບຸກັບ bot,114,polari,po/lo.po
+Identify username,117,ລະບຸຊື່ຜູ້ໃຊ້,118,polari,po/lo.po
+Username to use in identify command,121,ຊື່ຜູ້ໃຊ້ທີ່ໃຊ້ຢູ່ໃນຄຳສັງລະບຸ,122,polari,po/lo.po
+Identify username supported,125,ລະບຸຊື່ຜູ້ໃຊ້ໄດ້,126,polari,po/lo.po
+Whether the identify command is known to support the username parameter,129,ຄຳສັ່ງລະບຸຕົວຕົນແມ່ນໄດ້ຮັບການສະຫນັບສະຫນູນຕົວປ່ຽນຊື່ຜູ້ໃຊ້,130,polari,po/lo.po
+List of muted usernames,133,ລາຍຊື່ຜູ້ໃຊ້ທີ່ປິດສຽງໄວ້,134,polari,po/lo.po
+A list of usernames for whose private messages not to show notifications,137,ລາຍຊື່ຜູ້ໃຊ້ສໍາລັບຜູ້ທີ່ມີຂ່າວສານສ່ວນຕົວທີ່ຈະບໍ່ສະແດງການແຈ້ງເຕືອນ,138,polari,po/lo.po
+_Server Address,141,_ທີ່ຢູ່ຂອງເຊີເວີ,142,polari,po/lo.po
+Net_work Name,145,ຊື່ເນັດເວີກ,146,polari,po/lo.po
+optional,149,ທາງເລືອກ,150,polari,po/lo.po
+Use secure c_onnection,153,ນຳໃຊ້ການເຊື່ອມຕໍ່ທີ່ປອດໄພ,154,polari,po/lo.po
+_Nickname,157,_ຊື່ຫລີ້ນ,158,polari,po/lo.po
+_Real Name,161,_ຊື່ແທ້,162,polari,po/lo.po
+_Cancel,166,_ອອກ,167,polari,po/lo.po
+_Apply,170,_ໃຊ້,171,polari,po/lo.po
+Change nickname,174,ປ່ຽນຊື່ຫລີ້ນ,175,polari,po/lo.po
+_Paste,178,_ວ່າງ,179,polari,po/lo.po
+General,183,ທົ່ວໄປ,184,polari,po/lo.po
+Join Room,188,ເຂົ້າຮ່ວມຫ້ອງ,189,polari,po/lo.po
+Leave Room,193,ອອກຈາກຫ້ອງ,194,polari,po/lo.po
+Show Userlist,198,ສະແດງລາຍຊື່ຜູ້ໃຊ້,199,polari,po/lo.po
+Show Emoji Picker,203,ສະແດງ Emoji Picker,204,polari,po/lo.po
+Show Help,208,ສະແດງວິທີໃຊ້,209,polari,po/lo.po
+Open Menu,213,ເປີດເມນູ,214,polari,po/lo.po
+Quit,218,ອອກ,219,polari,po/lo.po
+Keyboard Shortcuts,223,ຕົວລັດຄີບອດ,224,polari,po/lo.po
+Navigation,228,ການນຳທາງ,229,polari,po/lo.po
+Next Room,233,ຫ້ອງຕໍ່ໄປ,234,polari,po/lo.po
+Previous Room,238,ຫ້ອງກ່ອນຫນ້ານີ້,239,polari,po/lo.po
+Next Room with Unread Messages,243,ຫ້ອງຕໍ່ໄປກັບຂໍ້ຄວາມທີ່ຍັງບໍ່ທັນອ່ານ,244,polari,po/lo.po
+Previous Room with Unread Messages,248,ຫ້ອງກ່ອນຫນ້ານີ້ກັບຂໍ້ຄວາມທີ່ຍັງບໍ່ທັນອ່ານ,249,polari,po/lo.po
+First Room,253,ຫ້ອງທຳອິດ,254,polari,po/lo.po
+Last Room,258,ຫ້ອງສຸດທ້າຍ,259,polari,po/lo.po
+First – Ninth Room,263,ຫ້ອງທຳອິດ – ທີ່ເກົ້າ,264,polari,po/lo.po
+Polari Setup,267,ຕິດຕັ້ງ Polari,268,polari,po/lo.po
+Not connected,271,ບໍ່ໄດ້ເຊື່ອມຕໍ່,272,polari,po/lo.po
+Please connect to the internet to continue the setup.,275,ກະລຸນາເຊື່ອມຕໍ່ກັບອິນເຕີເນັດເພື່ອສືບຕໍ່ການຕິດຕັ້ງ.,276,polari,po/lo.po
+Welcome to Polari,279,ຍິນດີຕ້ອນຮັບສູ່ Polari,280,polari,po/lo.po
+Polari is an easy way to chat using IRC. Select a network to get started.,283,Polari ແມ່ນວິທີການແຊັດທີ່ງ່າຍໂດຍການນຳໃຊ້ IRC. ເລືອກເນັດເວີກເພື່ອເລີ່ມການນຳໃຊ້.,284,polari,po/lo.po
+"Select rooms you want to connect to. You can add more networks and rooms later, by clicking the + button.",287,ເລືອກຫ້ອງທີ່ທ່ານຕ້ອງການຈະເຊື່ອມຕໍ່. ທ່ານສາມາດເພີ່ມຫລາຍເນັດເວີກ ແລະ ຫ້ອງໄດ້ໃນພາຍຫລັງ ໂດຍການຄິກໃສ່ປຸ່ມ +.,290,polari,po/lo.po
+Join Chat Room,293,ເຂົ້າຮ່ວມຫ້ອງສົນທະນາ,294,polari,po/lo.po
+_Join,297,_ເຂົ້າຮ່ວມ,298,polari,po/lo.po
+C_onnection,301,ເຊື່ອມຕໍ່,302,polari,po/lo.po
+_Add Network,305,_ເພີ່ມເນັດເວີກ,306,polari,po/lo.po
+_Add,309,_ເພີ່ມ,310,polari,po/lo.po
+_Custom Network,313,_ຕັ້ງຄ່າເນັດເວີກ,314,polari,po/lo.po
+Keyboard Shortcuts,317,ຕົວຫຍໍ້ຄີບອດ,318,polari,po/lo.po
+Help,321,ຊ່ວຍເຫລືອ,322,polari,po/lo.po
+About,325,ກ່ຽວກັບ,326,polari,po/lo.po
+Quit,329,ອອກ,330,polari,po/lo.po
+Add rooms and networks,333,ເພີ່ມຫ້ອງ ແລະ ເນັດເວີກ,334,polari,po/lo.po
+Show connected users,337,ສະແດງຊື່ຜູ້ໃຊ້ທີ່ເຊື່ອມຕໍ່ຢູ່,338,polari,po/lo.po
+Offline,341,ອັອບລາຍ,342,polari,po/lo.po
+Go online to chat and receive messages.,345,ເປີດອອນໄລນເພື່ອແຊັດ ແລະ ຮັບຂໍ້ຄວາມ.,346,polari,po/lo.po
+Change nickname:,349,ປ່ຽນຊື່ຫລີ້ນ:,350,polari,po/lo.po
+_Change,353,_ປ່ຽນ,354,polari,po/lo.po
+Connect,357,ເຊື່ອມຕໍ່,358,polari,po/lo.po
+Reconnect,361,ເຊື່ອມຕໍ່ຄື່ນໃຫມ່,362,polari,po/lo.po
+Disconnect,365,ຢຸດການເຊື່ອມຕໍ່,366,polari,po/lo.po
+Remove,369,ລຶບ,370,polari,po/lo.po
+Properties,373,ຄຸນສົມບັດ,374,polari,po/lo.po
+Enter room name to add,377,ປ້ອນຊື່ຫ້ອງທີ່ຈະເພີ່ມ,378,polari,po/lo.po
+Loading details,381,ກຳຫລັງໂຫລດຫລາຍລະອຽດ,382,polari,po/lo.po
+Last Activity:,385,ການເຄື່ອນໄຫວຫລ້າສຸດ:,386,polari,po/lo.po
+Will notify if user appears online.,389,ຈະແຈ້ງເຕືອນຖ້າປະກົດເຫັນວ່າຜູ້ໃຊ້ອັອບລາຍຢູ່.,390,polari,po/lo.po
+Start Conversation,393,ເລີ່ມການສົນທະນາ,394,polari,po/lo.po
+Start Telepathy client,397,ເລີ່ມ Telepathy client,398,polari,po/lo.po
+Start in debug mode,401,ເລີ່ມໃນໂຫມດດີບັກ,402,polari,po/lo.po
+Allow running alongside another instance,405,ອະນຸຍາດໃຫ້ເປີດຄວບຄູ່ໄປກັບ instance ອື່ນ,406,polari,po/lo.po
+Print version and exit,409,ພິມເວີຊັນ ແລະ ອອກ,410,polari,po/lo.po
+Failed to open link,413,ມີຂໍ້ຜິດພາດໃນການເປີດລີ້ງ,414,polari,po/lo.po
+%s removed.,418,%s ລຶບແລ້ວ.,419,polari,po/lo.po
+Learn more about Polari,426,ຮຽນຮູ້ເພີ່ມເຕີ່ມກ່ຽວກັບ Polari,427,polari,po/lo.po
+Undo,430,ກັບຄືນ,431,polari,po/lo.po
+New Messages,434,ຂໍ້ຄວາມໃຫມ່,435,polari,po/lo.po
+Open Link,438,ເປີດລີ້ງ,439,polari,po/lo.po
+Copy Link Address,442,ສຳເນົາທີ່ຢູ່ລີ້ງ,443,polari,po/lo.po
+%s is now known as %s,447,%s ຕອນນີ້ແມ່ນຮູ້ຈັກໃນຖານະ %s,448,polari,po/lo.po
+%s has disconnected,452,%s ໄດ້ຢຸດການເຊື່ອມຕໍ່ແລ້ວ,453,polari,po/lo.po
+%s has been kicked by %s,457,%s ໄດ້ຖືກໄລ່ອອກໂດຍ %s,458,polari,po/lo.po
+%s has been kicked,462,%s ໄດ້ຖືກໄລ່ອອກແລ້ວ,463,polari,po/lo.po
+%s has been banned by %s,467,%s ໄດ້ຖືກແບນໂດຍ %s,468,polari,po/lo.po
+%s has been banned,472,%s ໄດ້ຖືກແບນແລ້ວ,473,polari,po/lo.po
+%s joined,477,%s ໄດ້ເຂົ້າຮ່ວມແລ້ວ,478,polari,po/lo.po
+%s left,482,%s ອອກໄປແລ້ວ,483,polari,po/lo.po
+%d user joined,487,ຜູ້ໃຊ້ %d ໄດ້ເຂົ້າຮ່ວມແລ້ວ,489,polari,po/lo.po
+%d user left,493,ຜູ້ໃຊ້ %d ໄດ້ເຂົ້າອອກໄປແລ້ວ,495,polari,po/lo.po
+"Yesterday, %H∶%M",508,"ມື້ວານ, %H∶%M",509,polari,po/lo.po
+"Yesterday, %l∶%M %p",549,"ມື້ວານ, %l∶%M %p",550,polari,po/lo.po
+Already added,579,ໄດ້ເພີ່ມແລ້ວ,580,polari,po/lo.po
+No results.,583,ບໍ່ພົບ.,584,polari,po/lo.po
+“%s” Properties,588,"\""%s\"" ຄຸນສົມບັດ",589,polari,po/lo.po
+Polari disconnected due to a network error. Please check if the address field is correct.,592,Polari ຂາດການເຊື່ອມຕໍ່ເພາະວ່າເກີດມີຂໍ້ຜິດພາດໃນລະບົບເນັດເວີກ. ກະລຸນາກວດເບິງຄືນວ່າການຕັ້ງຄ່າເນັດເວີກຕ່າງໆແມ່ນຖືກຕ້ອງຫມົດແລ້ວ.,594,polari,po/lo.po
+Paste %s line of text to public paste service?,600,ວ່າງແຖວ %s ຂອງຕົວຫນັງສືໄວ້ໃນ public paste service?,602,polari,po/lo.po
+Uploading %s line of text to public paste service…,606,ກຳລັງອັບໂຫລດແຖວ %s ຂອງຕົວຫນັງສືໄວ້ໃນ public paste service…,608,polari,po/lo.po
+Upload image to public paste service?,611,ອັບໂຫລດຮູບພາບໄປໄວ້ໃນ public paste service?,612,polari,po/lo.po
+Uploading image to public paste service…,615,ກຳຫລັງອັບໂຫລດຮູບພາບໄປໄວ້ໃນ public paste service…,616,polari,po/lo.po
+Upload “%s” to public paste service?,621,ອັບໂຫລດ “%s” to public paste service?,622,polari,po/lo.po
+Uploading “%s” to public paste service…,627,ກຳຫລັງອັບໂຫລດ “%s” to public paste service…,628,polari,po/lo.po
+%s in #%s,633,%s ໃນ #%s,634,polari,po/lo.po
+Paste from %s,638,ວ່າງຈາກ %s,639,polari,po/lo.po
+_Back,642,_ກັບ,643,polari,po/lo.po
+_Done,646,_ສຳເລັດ,647,polari,po/lo.po
+_Next,650,_ຕໍ່ໄປ,651,polari,po/lo.po
+"/CLOSE [<channel>] [<reason>] — closes <channel>, by default the current one",663,"/CLOSE [<channel>] [<reason>] — ປິດ <channel>, by default the current one",664,polari,po/lo.po
+"/HELP [<command>] — displays help for <command>, or a list of available commands",667,"/HELP [<command>] — ສະແດງວິທີນຳໃຊ້ສຳລັບ <command>, ຫລືສະແດງຄຳສັງທີ່ມີຢູ່",668,polari,po/lo.po
+"/INVITE <nick> [<channel>] — invites <nick> to <channel>, or the current one",671,"/INVITE <nick> [<channel>] — ເຊີນ <nick> ເຂົ້າ <channel>, ຫລື ເຂົ້າຫ້ອງປະຈຸບັນ",672,polari,po/lo.po
+/JOIN <channel> — joins <channel>,675,/JOIN <channel> — ເຂົ້າຮ່ວມ <channel>,676,polari,po/lo.po
+/KICK <nick> — kicks <nick> from current channel,679,/KICK <nick> — ໄລ່ <nick> ອອກຈາກຫ້ອງປະຈຸບັນ,680,polari,po/lo.po
+/ME <action> — sends <action> to the current channel,683,/ME <action> — ສົ່ງ <action> ເຂົ້າໄປໃນຫ້ອງປະຈຸບັນ,684,polari,po/lo.po
+/MSG <nick> [<message>] — sends a private message to <nick>,687,/MSG <nick> [<message>] — ສົ່ງຂໍ້ຄວາມສ່ວນຕົວໄປຫາ <nick>,688,polari,po/lo.po
+/NAMES — lists users on the current channel,691,/NAMES — ສະແດງລາຍຊື່ຜູ້ໃຊ້ທີ່ມີຢູ່ໃນຫ້ອງຕອນນີ້,692,polari,po/lo.po
+/NICK <nickname> — sets your nick to <nickname>,695,/NICK <nickname> — ຕັ້ງຊື່ຫລີ້ນຂອງທ່ານໄປເປັນ <nickname>,696,polari,po/lo.po
+"/PART [<channel>] [<reason>] — leaves <channel>, by default the current one",699,"/PART [<channel>] [<reason>] — ອອກຈາກ <channel>, by default the current one",700,polari,po/lo.po
+/QUERY <nick> — opens a private conversation with <nick>,703,/QUERY <nick> — ເປີດການສົນທະນາແບບສ່ວນຕົວກັບ <nick>,704,polari,po/lo.po
+/QUIT [<reason>] — disconnects from the current server,707,/QUIT [<reason>] — ຕັດການເຊື່ອມຕໍ່ກັບເຊີເວີປະຈຸບັນນີ້,708,polari,po/lo.po
+/SAY <text> — sends <text> to the current room/contact,711,/SAY <text> — ສົ່ງ <text> ໄປຫາ ຫ້ອງ/ລາຍຊື່ຕິດຕໍ່ປະຈຸບັນນີ້,712,polari,po/lo.po
+"/TOPIC <topic> — sets the topic to <topic>, or shows the current one",715,"/TOPIC <topic> — ຕັ້ງຫົວຂໍ້ໄປເປັນ <topic>, ຫລື ສະແດງຫົວຂໍ້ປະຈຸບັນນີ້",716,polari,po/lo.po
+/WHOIS <nick> — requests information on <nick>,719,/WHOIS <nick> — ຂໍຂໍ້ມູນກ່ຽວກັບ <nick>,720,polari,po/lo.po
+Unknown command — try /HELP for a list of available commands,723,ຄຳສັ່ງນີ້ບໍ່ຮຸ້ຈັກ — ໃຫ້ພິມຄຳວ່າ /HELP ເພື່ອຊອກເບິງຄຳສັ່ງຕ່າງໆທີ່ມີຢູ່,724,polari,po/lo.po
+Usage: %s,728,ນຳໃຊ້: %s,729,polari,po/lo.po
+Known commands:,732,ຄຳສັ່ງທີ່ຮູ້ຈັກ:,733,polari,po/lo.po
+Users on %s:,737,ຜູ້ໃຊ້ໃນ %s:,738,polari,po/lo.po
+No topic set,741,ບໍ່ໄດ້ຕັ້ງຫົວຂໍ້,742,polari,po/lo.po
+User: %s - Last activity: %s,746,ຜູ້ໃຊ້: %s - ກິດຈະກໍາສຸດທ້າຍ: %s,747,polari,po/lo.po
+Add Network,750,ເພີ່ມເນັດເວີກ,751,polari,po/lo.po
+%d user,755,%d ຜຸ້ໃຊ້,757,polari,po/lo.po
+Leave chatroom,760,ອອກຈາກຫ້ອງແຊັດ,761,polari,po/lo.po
+End conversation,764,ຈົບການແຊັດ,765,polari,po/lo.po
+Unmute,768,ບໍ່ປິດສຽງ,769,polari,po/lo.po
+Mute,772,ປິດສຽງ,773,polari,po/lo.po
+Network %s has an error,777,ເນັດເວີກ %s ມີຂໍ້ຜິດພາດ,778,polari,po/lo.po
+Connection Problem,788,ບັນຫາການເຊື່ອມຕໍ່,789,polari,po/lo.po
+Connected,792,ເຊື່ອມຕໍ່ແລ້ວ,793,polari,po/lo.po
+Connecting…,796,ກຳລັງເຊື່ອມຕໍ່…,797,polari,po/lo.po
+Unknown,800,ບໍ່ຮູ້ຈັກ,801,polari,po/lo.po
+Could not connect to %s in a safe way.,805,ບໍ່ສາມາດເຊື່ອມຕໍ່ກັບ %s ໃນຮູບແບບທີ່ປອດໄພໄດ້.,806,polari,po/lo.po
+%s requires a password.,810,%s ຕ້ອງການລະຫັດຜ່ານ.,811,polari,po/lo.po
+Could not connect to %s. The server is busy.,815,ບໍ່ສາມາດເຊື່ອມຕໍ່ໄປຫາ %s. ເຊີເວີຂັດຂ້ອງ.,816,polari,po/lo.po
+Could not connect to %s.,820,ບໍ່ສາມາດເຊື່ອມຕໍ່ໄປຫາ %s.,821,polari,po/lo.po
+Should the password be saved?,824,ຄວນຈະບັນທຶກລະຫັດຜ່ານໄວ້ບໍ່?,825,polari,po/lo.po
+Identification will happen automatically the next time you connect to %s,829,ການລະບຸຕົວຕົນຈະເກີດຂື້ນໂດຍອັດຕະໂນມັດໃນຄັ້ງຕໍ່ໄປເມື່ອທ່ານເຊື່ອມຕໍ່ກັບ %s,830,polari,po/lo.po
+_Save Password,833,_ບັນທຶກລະຫັດຜ່ານ,834,polari,po/lo.po
+Failed to join the room,837,ເຂົ້າຮ່ວມຫ້ອງນີ້ບໍ່ໄດ້,838,polari,po/lo.po
+_Retry,841,_ຫລອງໃຫມ່,842,polari,po/lo.po
+The room is full.,845,ຫ້ອງນີ້ເຕັມແລ້ວ.,846,polari,po/lo.po
+You have been banned from the room.,849,ທ່ານໄດ້ຖືກແບນຈາກຫ້ອງນີ້ແລ້ວ.,850,polari,po/lo.po
+The room is invite-only.,853,ຫ້ອງນີ້ແມ່ນສຳລັບຜູ້ທີ່ໄດ້ຮັບການເຊີນເຂົ້າເທົ່ານັ້ນ.,854,polari,po/lo.po
+You have been kicked from the room.,857,ທ່ານໄດ້ຖືກໄລ່ອອກຈາກກຸ່ມແລ້ວ.,858,polari,po/lo.po
+"It is not possible to join the room now, but you can retry later.",861,ບໍ່ສາມາດເຂົ້າຮ່ວມຫ້ອງນີ້ໄດ້ໃນຕອນນີ້ ແຕ່ວ່າທ່ານສາມາດລອງເຂົ້າໃຫມ່ຕາມຫລັງ.,862,polari,po/lo.po
+Join a room using the + button.,865,ເຂົ້າຫ້ອງແຊັດໂດຍການນຳໃຊ້ປຸ່ມ +.,866,polari,po/lo.po
+Good Bye,869,ລ່າກ່ອນ,870,polari,po/lo.po
+Save %s password for %s?,876,ຕ້ອງການບັນທຶກລະຫັດ %s ສຳລັບ %s ບໍ່?,877,polari,po/lo.po
+Save,880,ບັນທຶກ,881,polari,po/lo.po
+%s in %s,887,%s ໃນ %s,888,polari,po/lo.po
+Available in another room.,891,ວ່າງຢູ່ໃນຫ້ອງແຊັດອື່ນ.,892,polari,po/lo.po
+Online,895,ອອນລາຍ,896,polari,po/lo.po
+No Results,899,ບໍ່ພົບຫຍັງ,900,polari,po/lo.po
+User is online,903,ຜູ້ໃຊ້ທີ່ອອນລາຍຢູ່,904,polari,po/lo.po
+User %s is now online.,908,ຜູ້ໃຊ້ %s ຕອນນີ້ແມ່ນອອນລາຍຢູ່.,909,polari,po/lo.po
+Polari server password for %s,913,ລະຫັດຜ່ານເຊີເວີ Polari ສຳລັບ %s,914,polari,po/lo.po
+Polari NickServ password for %s,918,ລະຫັດຜ່ານ Polari NickServ ສຳລັບ %s,919,polari,po/lo.po
+Now,922,ຕອນນີ້,923,polari,po/lo.po
+Unavailable,926,ບໍ່ຫວ່າງ,927,polari,po/lo.po
+%d second ago,931,%d ວິນາທີທີ່ຜ່ານມາ,933,polari,po/lo.po
+%d minute ago,937,%d ນາທີທີ່ຜ່ານມາ,939,polari,po/lo.po
+%d hour ago,943,%d ຊົ່ວໂມງທີ່ຜ່ານມາ,945,polari,po/lo.po
+%d day ago,949,%d ມື້ທີ່ຜ່ານມາ,951,polari,po/lo.po
+%d week ago,955,%d ອາທິດທີ່ຜ່ານມາ,957,polari,po/lo.po
+%d month ago,961,%d ເດືອນທີ່ຜ່ານມາ,963,polari,po/lo.po

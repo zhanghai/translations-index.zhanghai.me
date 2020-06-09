@@ -1,0 +1,315 @@
+Show “_%s”,31,Komba “_%s”,32,eog,po/ts.po
+_Move on Toolbar,35,_Fambisa eka xivandla xa switirhi,36,eog,po/ts.po
+Move the selected item on the toolbar,39,Fambisa lexi hlawuriweke eka xivandla xa switirhi,40,eog,po/ts.po
+_Remove from Toolbar,43,_Susa eka xivandla xa switirhi,44,eog,po/ts.po
+Remove the selected item from the toolbar,47,Susa lexi hlawuriweke eka xivandla xa switirhi,48,eog,po/ts.po
+_Delete Toolbar,51,_Susa xivandla xa switirhi,52,eog,po/ts.po
+Remove the selected toolbar,55,Susa xivandla xa switirhi lexi hlawuriweke,56,eog,po/ts.po
+Separator,59,Xihambanisi,60,eog,po/ts.po
+Activate fullscreen mode with double-click,63,Yisa eka nkombiso wo tata hi kutlhava ka mbirhi,64,eog,po/ts.po
+Fullscreen with double-click,67,Nkombiso wo tata hi kutlhava ka mbirhi,68,eog,po/ts.po
+Reload Image,72,Panga xifaniso nakambe,73,eog,po/ts.po
+Reload current image,77,Panga nakambe xifaniso lexi,78,eog,po/ts.po
+Date in statusbar,81,Siku eka xiyenge xa le hansi xa furemi,82,eog,po/ts.po
+Shows the image date in the window statusbar,85,Xi komba siku ra xifaniso eka xiyenge xa le hansi xa furemi,86,eog,po/ts.po
+Browse and rotate images,89,Lavalava na ku hundzuluxa swifaniso,90,eog,po/ts.po
+Image Viewer,93,Xikomba Swifaniso,94,eog,po/ts.po
+Aperture Value:,97,Xilawula rivoningo:,98,eog,po/ts.po
+Author:,101,Mutsari:,102,eog,po/ts.po
+Bytes:,105,Tibayiti:,106,eog,po/ts.po
+Camera Model:,109,Rixaka ra Khamera:,110,eog,po/ts.po
+Copyright:,113,Timpfanelo ta mutsari:,114,eog,po/ts.po
+Date/Time:,117,Siku/Nkarhi:,118,eog,po/ts.po
+Description:,121,Nhlamuselo:,122,eog,po/ts.po
+Details,125,Vuxokoxoko,126,eog,po/ts.po
+Exposure Time:,129,Nkarhi wo hlangana ni rivoningo:,130,eog,po/ts.po
+Flash:,133,Ntsayito:,134,eog,po/ts.po
+Focal Length:,137,Mpfhuka wo vona:,138,eog,po/ts.po
+General,141,Angarhela,142,eog,po/ts.po
+Height:,145,Vulehi:,146,eog,po/ts.po
+ISO Speed Rating:,149,Mpimo wa rivilo ku ya hi ISO:,150,eog,po/ts.po
+Image Properties,153,Swihlawulekisi Swa Xifaniso,154,eog,po/ts.po
+Keywords:,157,Marito-nkulu:,158,eog,po/ts.po
+Location:,161,Ndhawu:,162,eog,po/ts.po
+Metadata,165,Switiviwa swa switiviwa,166,eog,po/ts.po
+Metering Mode:,169,Mapimelo:,170,eog,po/ts.po
+Name:,173,Vito:,174,eog,po/ts.po
+Type:,177,Muxaka:,178,eog,po/ts.po
+Width:,181,Vuanami:,182,eog,po/ts.po
+_Next,185,Leswi _landzelaka,186,eog,po/ts.po
+_Previous,189,Leswi nga _hundza,190,eog,po/ts.po
+<b>%f:</b> original filename,194,<b>%f:</b> vito ra fayili yo sungula kona,195,eog,po/ts.po
+<b>%n:</b> counter,199,<b>%n:</b> xihlayi,200,eog,po/ts.po
+Choose a folder,203,Hlawula folidara,204,eog,po/ts.po
+Destination folder:,207,Xiyenge lexi ku yisiwaka eka xona:,208,eog,po/ts.po
+File Name Preview,211,Vona Malangutelo Ya Vito Ra Fayili,212,eog,po/ts.po
+File Path Specifications,215,Swipimelo Swa Ndhawu/Ndlela Ya Fayili,216,eog,po/ts.po
+Filename format:,219,Malangutele ya vito va fayili:,220,eog,po/ts.po
+Options,223,Swo tihlawulela,224,eog,po/ts.po
+Rename from:,227,Ncinca vito kusuka eka:,228,eog,po/ts.po
+Replace spaces with underscores,231,Pfala pfuleko exikarhi ka marito hi _,232,eog,po/ts.po
+Save As,235,Hlayisa tani hi,236,eog,po/ts.po
+Start counter at:,239,Sungula xihlayi eka:,240,eog,po/ts.po
+To:,243,Eka:,244,eog,po/ts.po
+As _background,247,Tani hi muvala wa le _hansi,248,eog,po/ts.po
+As check _pattern,251,Tani hi mavala ya _cheke/swibokisana,252,eog,po/ts.po
+As custom c_olor:,255,Tani hi _muhlovo wo tihlawulela:,256,eog,po/ts.po
+As custom color:,259,Tani hi muhlovo wo tihlawulela:,260,eog,po/ts.po
+Background,263,Xitandzhaku,264,eog,po/ts.po
+Background Color,268,Muvala wa le Hansi,269,eog,po/ts.po
+Color for Transparent Areas,272,Muhlovo wa swiyenge leswi vonikelaka,273,eog,po/ts.po
+E_xpand images to fit screen,276,_Kurisa swifaniso ku ringanela nkombiso,277,eog,po/ts.po
+Image Enhancements,280,Vuantswisi Bya Swifaniso,281,eog,po/ts.po
+Image View,284,Kombiso Wa Xifaniso,285,eog,po/ts.po
+Image Zoom,288,Ntshineto Wa Xifaniso,289,eog,po/ts.po
+Plugins,292,Switirhi swa engetelo,293,eog,po/ts.po
+seconds,298,tisekene,299,eog,po/ts.po
+_Switch image after:,304,_Ncinca xifaniso endzhaku ka:,305,eog,po/ts.po
+Preferences,308,Swo tihlawulela,309,eog,po/ts.po
+Sequence,312,Landzelelana,313,eog,po/ts.po
+Slideshow,316,Nkombiso wo ncinca-ncinca,317,eog,po/ts.po
+Smooth images when zoomed-_in,320,Rhetisa swifaniso loko swi _kurisiwile,321,eog,po/ts.po
+Smooth images when zoomed-_out,324,Rhetisa swifaniso loko swi _ntsananisiwile,325,eog,po/ts.po
+Transparent Parts,328,Swiyenge leswi vonikelaka,329,eog,po/ts.po
+_Automatic orientation,332,_Matshamelo hi woxe,333,eog,po/ts.po
+_Loop sequence,336,_Ku ncinca ka ku landzelelana,337,eog,po/ts.po
+A value greater than 0 determines the seconds an image stays on screen until the next one is shown automatically. Zero disables the automatic browsing.,340,Nhlanyo leyi kulu ka 0 yi komba nkarhi lowu xifaniso xi nga ta tshama eka nkombiso ku nga si nghena xin'wanyana hi xoxe. Tandza ri sivela ku ncinca ka xifaniso hi xoxe.,343,eog,po/ts.po
+Active plugins,349,Switirhisiwa swa engetelo leswi pfuriweke,350,eog,po/ts.po
+Allow zoom greater than 100% initially,354,Pfumelela nkuriso lowu hundzaka 100% emasunguleni,355,eog,po/ts.po
+Automatic orientation,358,Ku hlawula matshamelo hi xoxe,359,eog,po/ts.po
+Close main window without asking to save changes.,362,Pfala furemi-nkulu u nga vutisani ku hlayisa leswi ncinciweke.,363,eog,po/ts.po
+Delay in seconds until showing the next image,366,Yimanyana hi tisekene u nga si komba xifaniso lexi landzelaka,367,eog,po/ts.po
+"Determines how transparency should be indicated. Valid values are CHECK_PATTERN, COLOR and NONE. If COLOR is chosen, then the trans-color key determines the color value used.",370,"Kuma ndlela leyi ku vonikela ku nga ta kombisiwaka ha kona. Ku pfumeleriwa ntsena CHECK_PATTERN, COLOR kumbe NONE. Loko COLOR yi hlawuriwile, xiphemu lexi yimelaka ku vonikela xi tirhisiwa ku kuma muhlovo.",374,eog,po/ts.po
+External program to use for editing images,380,Xithirhi xa lehandle xo hlela swifaniso,381,eog,po/ts.po
+Extrapolate Image,384,Vhubha vukulu bya xifaniso,385,eog,po/ts.po
+"If activated and no image is loaded in the active window, the file chooser will display the user's pictures folder using the XDG special user directories. If deactivated or the pictures folder has not been set up, it will show the current working directory.",388,"Loko xi pfuriwile kuri hava xifaniso lexi nga pangiwa eka furemu leri, xihlawula-tifayili xi ta khomba folidara ya swifaniso ya mutirhisi xi tirhisa tifolidara ta XDG. Loko xi pfariwile kumbe folidara ya swifaniso a se endliwa, xi ta folidara leyi kunga ku tirheliweni ka yona.",393,eog,po/ts.po
+"If activated, Eye of GNOME won't ask for confirmation when moving images to the trash. It will still ask if any of the files cannot be moved to the trash and would be deleted instead.",400,"Loko xi pfuriwile, Tihlo ra GNOME, xi nge kombeli mpfulelo wo yisa swifaniso etaleni. Xi ta vutisa loko tifayili tifanele ku yisiwa etaleni kumbe ku susiwa hi ku hetiseka ntsena.",404,eog,po/ts.po
+"If activated, the detailed metadata list in the properties dialog will be moved to its own page in the dialog. This should make the dialog more usable on smaller screens, e.g. as used by netbooks. If disabled, the widget will be embedded on the \""Metadata\"" page.",410,"Loko xi pfuriwile, nongonoko wa switiviwa swa switiviwa hinkwaswo eka furemu ra swihlawulekisi ri ta yisiwa eka pheji ya rona. Leswi swi endla leswaku furemu ri tirhiseka eka mikombiso leyi ntsongo, xikombiso i ti-netbook. Loko xi timiwile, xiyenye lexi xi ta engeteriwa eka pheji ra \""Switiviwa swa switiviwa\"".",415,eog,po/ts.po
+"If the transparency key has the value COLOR, then this key determines the color which is used for indicating transparency.",423,"Loko xivandla xa vunikelo xi ri COLOR, xi tirhisiwa ku kuma muhlovo lowu nga ta tirhisa tani hi ku vonikela.",426,eog,po/ts.po
+"If this is active, the color set by the background-color key will be used to fill the area behind the image. If it is not set, the current GTK+ theme will determine the fill color.",431,"Loko lexi xi pfuriwile, muhlovo wale hansi wu ta tirhisa ku funengetaka xiyenge xa le ndzhaku xa xifaniso. Loko muhlovo wale hansi wu nga boxiwanga, ku ta tirhisiwa muhlovo wa GTK+ wa nkhaviso.",435,eog,po/ts.po
+If this is set to FALSE small images will not be stretched to fit into the screen initially.,441,Loko ku boxiwile FALSE swifaniso leswi ntsongo a swi nge tsanyusiwi ku ringanela eka nkombiso.,444,eog,po/ts.po
+Image gallery pane position. Set to 0 for bottom; 1 for left; 2 for top; 3 for right.,449,Ndhawu ya xiyenge xa swifaniso. Tirhisa 0 ku yisa ehansi; 1 ku yisa eximatsini; 2 ku yisa ehenhla; 3 ku yisa exineneni.,452,eog,po/ts.po
+Interpolate Image,457,Hlahluvela vululu bya xifaniso,458,eog,po/ts.po
+"List of active plugins. It doesn't contain the \""Location\"" of the active plugins. See the .eog-plugin file for obtaining the \""Location\"" of a given plugin.",461,"Nxaxamelo wa switirhi swa engetelo. A yi na ti \""Ndhawu\"" ta switirhi leswi pfuriweke. Vona fayili ya .eog-plugin ku tiva \""Ndhawu\"" ya xitirhi xo karhi.",465,eog,po/ts.po
+Loop through the image sequence,470,Fambisa endzeni ka nxaxameto wa swifaniso leswi landzelelanaka,471,eog,po/ts.po
+Scroll wheel zoom,474,Ntshineto hi vhilwa ra mawusi,475,eog,po/ts.po
+Show/Hide the image gallery pane scroll buttons.,478,Komba/Tumbeta tibatheni to yisa ehansi/ehenhla ta xiyenge xa swifaniso.,479,eog,po/ts.po
+Show/Hide the image gallery pane.,482,Komba/Tumbeta xiyenge xa swifaniso.,483,eog,po/ts.po
+Show/Hide the window side pane.,486,Komba/Tumbeta xiyenge xa furemu xele tlhelo.,487,eog,po/ts.po
+Show/Hide the window statusbar.,490,Komba/Tumbeta xiyenge xa furemu xele hansi.,491,eog,po/ts.po
+Show/Hide the window toolbar.,494,Komba/Tumbeta xiyenge xa switirhi.,495,eog,po/ts.po
+"The color that is used to fill the area behind the image. If the use-background-color key is not set, the color is determined by the active GTK+ theme instead.",498,"Muhlovo lowu tirhisiwaka eka xiyenge xele ndzhaku xa xifaniso. Loko muhlovo wale hansi wu nga boxiwanga, muhlovo wu kumeka eka muhlovo wa GTK+ leyi nga ku tirhisiweni.",502,eog,po/ts.po
+"The desktop file name (including the \"".desktop\"") of the application to use for editing images (when the \""Edit Image\"" toolbar button is clicked). Set to the empty string to disable this feature.",508,"Vito ra fayili ya desikithopi (ku katsa na \"".desktop\"") ya xitirhi xo hlela swifaniso (Loko kunupu ya \""Hlela Xifaniso\"" ku suka eka xiyenge xa switirhi yi tlhaviwa). U nga faki ncumu loko u tsakela u tima.",512,eog,po/ts.po
+"The multiplier to be applied when using the mouse scroll wheel for zooming. This value defines the zooming step used for each scroll event. For example, 0.05 results in a 5% zoom increment for each scroll event and 1.00 result in a 100% zoom increment.",519,"Nhlayo ya nkuriso yi ta tirhisiwa loko ku tirhisiwa mawusu ku tshineta. Nhlayo leyi komba ku hambana ka nkuriso leyi landzelelanaka. Xikombiso:0.05 yi endla nkuriso hi 5% eka fambiso wa vhilwa ra mawusu, 1.00 yi endla nkuriso hi 100%.",524,eog,po/ts.po
+Transparency color,531,Muhlovo wo vonikela,532,eog,po/ts.po
+Transparency indicator,535,Xiyimela muhlovo wo vonikela,536,eog,po/ts.po
+Trash images without asking,539,Yisa swifaniso etaleni u nga vutisani,540,eog,po/ts.po
+Use a custom background color,543,Tirhisa muhlovo wa le hansi wo tihlawulela,544,eog,po/ts.po
+Whether the file chooser should show the user's pictures folder if no images are loaded.,547,Loko kuri xihlawula-tifayili xi komba folidara ya swifaniso ya mutirhisi loko kuri hava swifaniso leswi nga pangiwa.,550,eog,po/ts.po
+Whether the image gallery pane should be resizable.,555,Loko kuri xiyenge xa swifaniso xa kuriseka.,556,eog,po/ts.po
+Whether the image should be extrapolated on zoom-in. This leads to blurry quality and is somewhat slower than non-extrapolated images.,559,"Loko kuri vukulu bya xifaniso byi nga vhubhiwa endzaku ka ntshineto. Leswi swi endla xifaniso yi nga vonakali kahle, xi teka nkarhi ku tlula swifaniso swin'wana swo fana.",562,eog,po/ts.po
+Whether the image should be interpolated on zoom-out. This leads to better quality but is somewhat slower than non-interpolated images.,568,"Loko kuri vukulu bya xifaniso byi hlahluveriwa loko xi tshinetiwa endzaku. Leswi swi antswisa xifani, kambe swi nga teka nkarhi ku tlula swifaniso swin'wana leswi hlahluveriweke vukulu.",571,eog,po/ts.po
+Whether the image should be rotated automatically based on EXIF orientation.,577,Loko kuri xifaniso xita jikisiwa ya hi matshamelo ya EXIF,579,eog,po/ts.po
+Whether the metadata list in the properties dialog should have its own page.,582,Loko kuri nongonoko wa switiviwa swa switiviwa eka xiyenge xa swihlawulekisi swi na pheji ra swona.,584,eog,po/ts.po
+Whether the scroll wheel should be used for zooming.,589,Loko kuri vhilwa ra xikondlwana/mawusi rita tirhisiwa ku kurisa.,590,eog,po/ts.po
+Whether the sequence of images should be shown in an endless loop.,593,Loko kuri swifaniso leswi landzelelanaka swi ta kombiwa hi laha ku nga heriki.,594,eog,po/ts.po
+Zoom multiplier,599,Nhlayo yo kurisa,600,eog,po/ts.po
+Close _without Saving,603,Pfala u nga _hlayisani,604,eog,po/ts.po
+Question,607,Xivutiso,608,eog,po/ts.po
+"If you don't save, your changes will be lost.",611,"Loko u nga hlayisi, ku ncinca ku ta lahleka.",612,eog,po/ts.po
+"Save changes to image \""%s\"" before closing?",616,"Hlayisa ku ncinca eka xifaniso \""%s\"" u nga se pfala?",617,eog,po/ts.po
+There is %d image with unsaved changes. Save changes before closing?,621,Kuna xifaniso(%d) lexi nga ncinca lexi nga hlayisiwanga. Hlayisa ku ncinca u nga se pfala? ,624,eog,po/ts.po
+There is %d image with unsaved changes. Save changes before closing?,621,Kuna swifaniso swa %d leswi nga ncinca leswi nga hlayisiwanga. Hlayisa ku ncinca u nga se pfala?,627,eog,po/ts.po
+S_elect the images you want to save:,632,_Hlawula swifaniso leswi u tsakelaka ku hlayisa:,633,eog,po/ts.po
+"If you don't save, all your changes will be lost.",637,"Loko u nga hlayisi, ku ncinca hinkwako ku ta lahleka.",638,eog,po/ts.po
+File format is unknown or unsupported,641,Xixaka ra fayili a ri tiveki,642,eog,po/ts.po
+Image Viewer could not determine a supported writable file format based on the filename.,645,Xikomba Xifaniso xi tsandzeke vhubha rixaka ra fayili leyi nga ku nga tsaleriwa eka yona ku suka eka vito ra fayili.,648,eog,po/ts.po
+Please try a different file extension like .png or .jpg.,653,Ringeta mahetelelo ya fayili yo hambana yo fana na .png kumbe .jpg.,654,eog,po/ts.po
+All files,663,Tifayi hinkwato,664,eog,po/ts.po
+Supported image files,667,Tifayi leti tivekaka,668,eog,po/ts.po
+pixel,673,pixels,676,eog,po/ts.po
+Open Image,679,Pfula xifaniso,680,eog,po/ts.po
+Save Image,683,Hlayisa xifaniso,684,eog,po/ts.po
+Open Folder,687,Pfula folidara,688,eog,po/ts.po
+Transformation on unloaded image.,692,Kuncinciwa ka xifaniso lexi nga pfariwa.,693,eog,po/ts.po
+Transformation failed.,697,Tsandzekile kuncinciwa.,698,eog,po/ts.po
+EXIF not supported for this file format.,702,EXIF a yi tiveki eka rixaka ra fayili leyi.,703,eog,po/ts.po
+Image loading failed.,707,Tsandzeke ku panga xifaniso.,708,eog,po/ts.po
+No image loaded.,712,Ku hava xifaniso lexi pangiweke.,713,eog,po/ts.po
+You do not have the permissions necessary to save the file.,717,U hava mpfumelelo lowu ringaneleke ku hlayisa xifaniso lexi.,718,eog,po/ts.po
+Temporary file creation failed.,722,Tsandzeke ku endla fayili ya nkarhi-nyana.,723,eog,po/ts.po
+Couldn't create temporary file for saving: %s,727,Tsandzeke ku endla fayili ya nkarhi-nyana yo hlasilela kon: %s,728,eog,po/ts.po
+Couldn't allocate memory for loading JPEG file,732,Tsandzeka ku veka etlhelo vundzeni lebyi lavekaka u panga fayili ya JPEG,733,eog,po/ts.po
+Camera,737,Khamera,738,eog,po/ts.po
+Image Data,741,Switiviwa swa xifaniso,742,eog,po/ts.po
+Image Taking Conditions,745,Swipimelo swo teka xifaniso,746,eog,po/ts.po
+GPS Data,749,Switiviwa swa GPS,750,eog,po/ts.po
+Maker Note,753,Tsalwa ra Muaki,754,eog,po/ts.po
+Other,757,Swin'wana,758,eog,po/ts.po
+XMP Rights Management,769,Ku lawula ka mpfumelelo eka XMP,770,eog,po/ts.po
+XMP Other,773,Swin'wana hi XMP,774,eog,po/ts.po
+Tag,777,Thege,778,eog,po/ts.po
+Value,781,Ntsengo,782,eog,po/ts.po
+North,785,N'walungu,786,eog,po/ts.po
+East,789,Vuxeni,790,eog,po/ts.po
+West,793,Vupeladyambu,794,eog,po/ts.po
+South,797,Dzonga,798,eog,po/ts.po
+_Cancel,811,_Tshika,812,eog,po/ts.po
+_Reload,815,Panga _nakambe,816,eog,po/ts.po
+Save _As…,819,Hlayisa tani _hi…,820,eog,po/ts.po
+Could not load image '%s'.,824,Tsandzeka ku panga xifaniso '%s'.,825,eog,po/ts.po
+Could not save image '%s'.,829,Tsandzeka ku hlayisa xifaniso '%s'.,830,eog,po/ts.po
+No images found in '%s'.,834,Ku hava swifaniso eka '%s'.,835,eog,po/ts.po
+The given locations contain no images.,838,Ku hava swifaniso eka ndhawu leyi nga boxiwa.,839,eog,po/ts.po
+Image Settings,842,Malulamiselo ya xifaniso,843,eog,po/ts.po
+Image,846,Xifaniso,847,eog,po/ts.po
+The image whose printing properties will be set up,850,Xifaniso lexi ndlela yo printa ya xona yi nga ta lulamisiwa,851,eog,po/ts.po
+Page Setup,854,Ndzulamiso wa pheji,855,eog,po/ts.po
+The information for the page where the image will be printed,858,Vuxokoxoko bya pheji leri xifaniso xi nga ta printiwa kona,859,eog,po/ts.po
+Position,862,Xiyimo,863,eog,po/ts.po
+_Left:,866,_Eximatsini:,867,eog,po/ts.po
+_Right:,870,_Xinene:,871,eog,po/ts.po
+_Top:,874,_Ehenhla:,875,eog,po/ts.po
+_Bottom:,878,E_hansi:,879,eog,po/ts.po
+C_enter:,882,Xi_karhi:,883,eog,po/ts.po
+None,886,Ku hava,887,eog,po/ts.po
+Horizontal,890,Vuandlalo,891,eog,po/ts.po
+Vertical,894,Ku ya ehenhla,895,eog,po/ts.po
+Both,898,Hivumbirhi,899,eog,po/ts.po
+Size,902,Vukulu,903,eog,po/ts.po
+_Width:,906,Vua_nami:,907,eog,po/ts.po
+_Height:,910,Vu_lehi:,911,eog,po/ts.po
+_Scaling:,914,Ku _kurisa kumbe ku hunguta:,915,eog,po/ts.po
+_Unit:,918,_Mapimelo:,919,eog,po/ts.po
+Millimeters,922,Milimitara,923,eog,po/ts.po
+Inches,926,Tiinci,927,eog,po/ts.po
+Preview,930,Xivonela mahlweni,931,eog,po/ts.po
+Unknown,934,Tiviwiki,935,eog,po/ts.po
+%.1f (lens),941,%.1f (lense),942,eog,po/ts.po
+%.1f (35mm film),949,%.1f (35mm ya filimi),950,eog,po/ts.po
+as is,953,tani hi,954,eog,po/ts.po
+Taken on,972,Tekiwe hi,973,eog,po/ts.po
+At least two file names are equal.,977,Kuna mavito ma tifayili ma mbirhi lama ringanaka.,978,eog,po/ts.po
+Could not display help for Image Viewer,981,Tsandzeka ku komba pfuno wa Xikomba Xifaniso,982,eog,po/ts.po
+ (invalid Unicode),985, (khodi ya Unicode yoka yi nga tiveki),986,eog,po/ts.po
+%i × %i pixel  %s    %i%%,996,%i × %i pixels  %s    %i%%,999,eog,po/ts.po
+Hi_de,1003,T_umbeta,1004,eog,po/ts.po
+"The image \""%s\"" has been modified by an external application.\nWould you like to reload it?",1010,"Xifaniso \""%s\"" xi ncinciwile hi xithirhi xele handle.\nU nga tsakela ku panga nakambe?",1013,eog,po/ts.po
+"Use \""%s\"" to open the selected image",1019,"Tirhisa \""%s\"" ku pfula xifaniso lexi hlawuriweke",1020,eog,po/ts.po
+"Saving image \""%s\"" (%u/%u)",1029,"Eku hlayiseni ka xifaniso \""%s\"" (%u/%u)",1030,eog,po/ts.po
+"Opening image \""%s\""",1034,"Eku pfuleni ka xifaniso \""%s\""",1035,eog,po/ts.po
+Error printing file:\n%s,1039,Xihoxo eku kandziyiseni ka:\n%s,1042,eog,po/ts.po
+Toolbar Editor,1047,Xilulamisa Yiyenge Xa Switirhi,1048,eog,po/ts.po
+_Reset to Default,1051,_Vuyisela emasunguleni,1052,eog,po/ts.po
+The GNOME image viewer.,1059,Xikomba xifaniso xa GNOME.,1060,eog,po/ts.po
+Error launching System Settings: ,1063,Xihoxo eku sunguleni ka ndzulamiso ya sisiteme: ,1064,eog,po/ts.po
+_Open Background Preferences,1069,Pfula Swo _Tihlawulela Swa Muhlovo Wa Le Hansi,1070,eog,po/ts.po
+"The image \""%s\"" has been set as Desktop Background.\nWould you like to modify its appearance?",1076,"Xifaniso \""%s\"" xi tirhisiwe tani hi muhlovo wa le hansi.\nU nga tsakela ku ncinca makhombelo ya xona?",1079,eog,po/ts.po
+Saving image locally…,1084,E ku hlayiseni ka xifaniso kwala ka khompyuta…,1085,eog,po/ts.po
+"Are you sure you want to move\n\""%s\"" to the trash?",1089,"Wa tiyisisa leswaku u lava ku yisa\n\""%s\"" etaleni?",1092,eog,po/ts.po
+"A trash for \""%s\"" couldn't be found. Do you want to remove this image permanently?",1098,"Tsandzeka ku kuma tala ra \""%s\"". U nga tsakela ku susa xifaniso leyi hi ku hetiseka?",1101,eog,po/ts.po
+Are you sure you want to move\nthe selected image to the trash?,1107,Wa tiyisisa leswaku u tsakela ku yisa\nxifaniso lexi hlawuriweke etaleni?,1113,eog,po/ts.po
+Are you sure you want to move\nthe selected image to the trash?,1107,Wa tiyisisa leswaku u tsakela ku siya\nswifaniso swa %d leswi hlawuriweke etaleni?,1116,eog,po/ts.po
+Some of the selected images can't be moved to the trash and will be removed permanently. Are you sure you want to proceed?,1121,"Tsandzeka ku yisa swifaniso swin'wana leswi hlawuriweke etaleni, swi ta susiwa hi ku hetiseka. U nga tsakela ku ya emahlweni?",1124,eog,po/ts.po
+Move to _Trash,1129,Yisa e_taleni,1130,eog,po/ts.po
+_Do not ask again during this session,1133,_U nga vutisi kambe eka tirho lowu,1134,eog,po/ts.po
+Couldn't access trash.,1138,Tsandzeka ku vona tala.,1139,eog,po/ts.po
+Couldn't delete file,1143,Tsandzeka ku sula fayili,1144,eog,po/ts.po
+Error on deleting image %s,1148,Xihoxo eku suleni ka xifaniso %s,1149,eog,po/ts.po
+_Image,1152,_Xifaniso,1153,eog,po/ts.po
+_Edit,1156,_Hlela,1157,eog,po/ts.po
+_View,1160,_Vona,1161,eog,po/ts.po
+_Go,1164,_Famba,1165,eog,po/ts.po
+_Tools,1168,_Switirho,1169,eog,po/ts.po
+_Help,1172,_Mpfuno,1173,eog,po/ts.po
+_Open…,1176,_Pfula…,1177,eog,po/ts.po
+Open a file,1180,Pfula fayili,1181,eog,po/ts.po
+_Close,1184,_Pfala,1185,eog,po/ts.po
+Close window,1188,Pfala furemu,1189,eog,po/ts.po
+T_oolbar,1192,_Xiyenge xa switirhi,1193,eog,po/ts.po
+Edit the application toolbar,1196,Hlela xiyenge ya switirhi,1197,eog,po/ts.po
+Prefere_nces,1200,Swo ti_hlawulela,1201,eog,po/ts.po
+Preferences for Image Viewer,1204,Swo tihlawulela swa Xikomba Xifaniso,1205,eog,po/ts.po
+_Contents,1208,_Leswi nga ndzeni,1209,eog,po/ts.po
+Help on this application,1212,Pfuno eka xitirhi lexi,1213,eog,po/ts.po
+_About,1216,_Mayelana,1217,eog,po/ts.po
+About this application,1220,Mayelana na xitirhi lexi,1221,eog,po/ts.po
+_Toolbar,1224,_Xiyenge xa switirhi,1225,eog,po/ts.po
+Changes the visibility of the toolbar in the current window,1228,Ncinca ku vonakala ka xiyenge xa switirhi eka furemu leri,1229,eog,po/ts.po
+_Statusbar,1232,_Xiyenge xa le hansi xa furemu,1233,eog,po/ts.po
+Changes the visibility of the statusbar in the current window,1236,Ncinca ku vonakala ka xiyenge xa le hansi eka furemu leri,1237,eog,po/ts.po
+_Image Gallery,1240,Xiyenge xa _swifaniso,1241,eog,po/ts.po
+Changes the visibility of the image gallery pane in the current window,1244,Ncinca ku vonakala ka xiyenge xa swifaniso eka furemu leri,1245,eog,po/ts.po
+Side _Pane,1248,Xiyenge xa le _tlhelo,1249,eog,po/ts.po
+Changes the visibility of the side pane in the current window,1252,Ncinca ku vonakala ka xiyenge xa le tlhelo eka furemu leri,1253,eog,po/ts.po
+_Save,1256,_Hlayisa,1257,eog,po/ts.po
+Save changes in currently selected images,1260,Hlayisa ku ncinca eka swifaniso leswi nga hlawuriwa,1261,eog,po/ts.po
+Open _with,1264,_Pfula hi,1265,eog,po/ts.po
+Open the selected image with a different application,1268,Pfula xifaniso lexi nga hlawuriwa hi xitirhi xo hambana,1269,eog,po/ts.po
+Save the selected images with a different name,1272,Hlayisa xifaniso lexi nga hlawuriwa eka vito ro hambana,1273,eog,po/ts.po
+Show Containing _Folder,1276,Pfula folidara leyi nga _rhwala,1277,eog,po/ts.po
+Show the folder which contains this file in the file manager,1280,Pfula folidara leyi nga na fayili leyi pfuriweke hi xilawuri xa tifa,1281,eog,po/ts.po
+_Print…,1284,_Printa…,1285,eog,po/ts.po
+Print the selected image,1288,Printa xifaniso lexi hlawuriweke,1289,eog,po/ts.po
+Prope_rties,1292,Swi_hlawulekisi,1293,eog,po/ts.po
+Show the properties and metadata of the selected image,1296,Komba swihlawulekisi na switiviwa swa switiviwa swa xifaniso lexi hlawuriweke,1297,eog,po/ts.po
+_Undo,1300,Tlhelela e_ndzhaku,1301,eog,po/ts.po
+Undo the last change in the image,1304,Tlherisa ku ncinca loku nga hundza,1305,eog,po/ts.po
+Flip _Horizontal,1308,Hundzuluxa Hi _Vuandlalo,1309,eog,po/ts.po
+Mirror the image horizontally,1312,Hundzuluxa hi vuandlalo tani hi xivoni,1313,eog,po/ts.po
+Flip _Vertical,1316,Hundzuluxa ku ya e_henhla,1317,eog,po/ts.po
+Mirror the image vertically,1320,Hundzuluxa ku ya ehenhla tani hi xivoni,1321,eog,po/ts.po
+_Rotate Clockwise,1324,Jikisa ku ya hi mafambelo ya _Wachi,1325,eog,po/ts.po
+Rotate the image 90 degrees to the right,1328,Jikisa hi tidigiri ta 90 ku ya exineneni,1329,eog,po/ts.po
+Rotate Counterc_lockwise,1332,Jikisa ku ya ku h_ambana na wachi,1333,eog,po/ts.po
+Rotate the image 90 degrees to the left,1336,Jikisa hi tidigiri ta 90 ku ya eximatsini,1337,eog,po/ts.po
+Set as _Desktop Background,1340,Lulamisa Xitandzhaku xa _Desikithopo,1341,eog,po/ts.po
+Set the selected image as the desktop background,1344,Lulamisa xifaniso lexi hlawuriweke tani ni hi xitandzhaku xa desikithopo,1345,eog,po/ts.po
+Move the selected image to the trash folder,1348,Yisa xifaniso lexi hlawuriweke eka folidara ya le taleni,1349,eog,po/ts.po
+_Copy,1352,_Kopa,1353,eog,po/ts.po
+Copy the selected image to the clipboard,1356,Kopela xifaniso lexi hlawuriweke eka clipboard,1357,eog,po/ts.po
+_Zoom In,1360,_Tshineta,1361,eog,po/ts.po
+Enlarge the image,1364,Kurisa xifaniso,1365,eog,po/ts.po
+Zoom _Out,1368,Tshineta N_dzhaku,1369,eog,po/ts.po
+Shrink the image,1372,Ntsananisa xifaniso,1373,eog,po/ts.po
+_Normal Size,1376,Mpimo wa _ntolovelo,1377,eog,po/ts.po
+Show the image at its normal size,1380,Komba xifaniso hi mpimo wa xona,1381,eog,po/ts.po
+_Fullscreen,1384,Nkombiso wo _tala,1385,eog,po/ts.po
+Show the current image in fullscreen mode,1388,Komba xifaniso lexi eka nkombiso wo tala,1389,eog,po/ts.po
+Pause Slideshow,1392,Yimisanyana nkombiso wo ncinca-ncinca,1393,eog,po/ts.po
+Pause or resume the slideshow,1396,Yimanyana kumbe yana mahlweni na nkombiso wo ncinca-ncinca,1397,eog,po/ts.po
+_Best Fit,1400,_Vonakisa hinkwaxo,1401,eog,po/ts.po
+Fit the image to the window,1404,Ringanisa xifaniso na furemu,1405,eog,po/ts.po
+_Previous Image,1408,Xifaniso lexi nga _Hundza,1409,eog,po/ts.po
+Go to the previous image of the gallery,1412,Yana eka xifaniso lexi nga hundza eka xiyenge xa swifaniso,1413,eog,po/ts.po
+_Next Image,1416,_Xifaniso lexi landzelaka,1417,eog,po/ts.po
+Go to the next image of the gallery,1420,Yana eka xifaniso lexi landzelaka eka xiyenge xa swifaniso,1421,eog,po/ts.po
+_First Image,1424,Xifaniso xo _Sungula,1425,eog,po/ts.po
+Go to the first image of the gallery,1428,Yana eka xifaniso xo sungula eka xiyenge xa swifaniso,1429,eog,po/ts.po
+_Last Image,1432,Xifaniso ro _Hetelela,1433,eog,po/ts.po
+Go to the last image of the gallery,1436,Yana eka xifaniso xo hetelela eka xiyenge xa swifaniso,1437,eog,po/ts.po
+_Random Image,1440,_Xifaniso xihi kumbe xihi,1441,eog,po/ts.po
+Go to a random image of the gallery,1444,Yana eka xifaniso xihi kumbe xihi eka xiyenge xa swifaniso,1445,eog,po/ts.po
+S_lideshow,1448,K_ombiso wo ncinca-ncinca,1449,eog,po/ts.po
+Start a slideshow view of the images,1452,Sungula kombiso wo ncinca-ncica wa swifaniso,1453,eog,po/ts.po
+Previous,1456,Leswi nga hundza,1457,eog,po/ts.po
+Next,1460,Leswi landzelaka,1461,eog,po/ts.po
+Right,1464,Exineneni,1465,eog,po/ts.po
+Left,1468,Eximatsini,1469,eog,po/ts.po
+Show Folder,1472,Kombisa Folidara,1473,eog,po/ts.po
+In,1476,Ndzeni,1477,eog,po/ts.po
+Out,1480,Handle,1481,eog,po/ts.po
+Normal,1484,Tolovelekeke,1485,eog,po/ts.po
+Fit,1488,Ringanela,1489,eog,po/ts.po
+Gallery,1492,Xivandla xa swifaniso,1493,eog,po/ts.po
+Trash,1497,Tala,1498,eog,po/ts.po
+Edit the current image using %s,1502,Hlela xifaniso lexi hi %s,1503,eog,po/ts.po
+Edit Image,1506,Hlela xifaniso,1507,eog,po/ts.po
+GNOME Image Viewer,1510,Xikomba Xifaniso Xa GNOME,1511,eog,po/ts.po
+Open in fullscreen mode,1514,Pfula eka nkombiso wo tala,1515,eog,po/ts.po
+Disable image gallery,1518,Pfala xiyenge xa swifaniso,1519,eog,po/ts.po
+Open in slideshow mode,1522,Pfula hindlela ya nkombiso,1523,eog,po/ts.po
+Start a new instance instead of reusing an existing one,1526,Sungula xin'wana e handle ko xitirhi lexi nga kona,1527,eog,po/ts.po
+Show the application's version,1530,Komba ntsariso wa xitirhi,1531,eog,po/ts.po
+[FILE…],1534,[FILE..],1535,eog,po/ts.po
+Run '%s --help' to see a full list of available command line options.,1540,Nghenisa '%s --help' ku kuma nxanxamelo wa swihlawulekisi leswi nga tirhisiwaka.,1541,eog,po/ts.po

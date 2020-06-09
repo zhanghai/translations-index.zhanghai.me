@@ -1,0 +1,486 @@
+Universal Access,21,Universala Aceso,22,gnome-menus,po/io.po
+Universal Access Settings,25,Situesi pri Universala Aceso,26,gnome-menus,po/io.po
+Accessories,29,Acesori,30,gnome-menus,po/io.po
+Desktop accessories,33,Pupitrosuprala acesori,34,gnome-menus,po/io.po
+Applications,37,Programi,38,gnome-menus,po/io.po
+Personal preferences and administration settings,41,Personala preferi ed situesi pri administrado,42,gnome-menus,po/io.po
+System,46,Sistemo,47,gnome-menus,po/io.po
+Programming,50,Programado,51,gnome-menus,po/io.po
+Education,58,Edukado,59,gnome-menus,po/io.po
+Games,62,Ludi,63,gnome-menus,po/io.po
+Games and amusements,66,Ludi ed amuzi,67,gnome-menus,po/io.po
+Graphics,70,Grafikarti,71,gnome-menus,po/io.po
+Graphics applications,74,Programi pri grafikarti,75,gnome-menus,po/io.po
+Hardware,78,Metalajaro,79,gnome-menus,po/io.po
+Internet and Network,86,Interreto e Reto,87,gnome-menus,po/io.po
+Network-related settings,90,Retala setuesi,91,gnome-menus,po/io.po
+Internet,94,Interreto,95,gnome-menus,po/io.po
+Look and Feel,102,Aspekto e Sento,103,gnome-menus,po/io.po
+Sound & Video,114,Sono ed Video,115,gnome-menus,po/io.po
+Office,118,Kontoro,119,gnome-menus,po/io.po
+Office Applications,122,Kontorala Programi,123,gnome-menus,po/io.po
+Other,130,Altra,131,gnome-menus,po/io.po
+Personal,134,Personala,135,gnome-menus,po/io.po
+Personal settings,138,Personala situesi,139,gnome-menus,po/io.po
+Personal preferences,142,Personala preferi,143,gnome-menus,po/io.po
+Preferences,147,Preferi,148,gnome-menus,po/io.po
+Universal access related preferences,151,Preferi pri universala aceso,152,gnome-menus,po/io.po
+Personal preferences and settings,155,Personala preferi e situesi,156,gnome-menus,po/io.po
+System settings,159,Sistemala situesi,160,gnome-menus,po/io.po
+Administration,163,Administrado,164,gnome-menus,po/io.po
+System Tools,171,Sistemala Utensili,172,gnome-menus,po/io.po
+Menu Editor,179,Menuala Editilo,180,gnome-menus,po/io.po
+Edit Menus,183,Editez Menui,184,gnome-menus,po/io.po
+_Applications:,187,_Programi:,188,gnome-menus,po/io.po
+_Menus:,195,_Menui:,196,gnome-menus,po/io.po
+Name,200,Nomo,201,gnome-menus,po/io.po
+Show,204,Montrez,205,gnome-menus,po/io.po
+Menu file,212,Menuala dokumento,213,gnome-menus,po/io.po
+MENU_FILE,216,MENUALA_DOKUMENTO,217,gnome-menus,po/io.po
+Invalid desktop file ID,232,Nevalida ID di pupitrosuprala dokumentala,233,gnome-menus,po/io.po
+[Invalid Filename],236,[Nevalida Dokumentnomo],237,gnome-menus,po/io.po
+ <excluded>,240,<excluzesa>,241,gnome-menus,po/io.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",245,"\n\n\n==== Menuo chanjis, richarjas ====\n\n\n",252,gnome-menus,po/io.po
+Menu tree is empty,262,Menuala arboro esas vakua,263,gnome-menus,po/io.po
+Apparition,21,Aparo,22,nautilus,po/io.po
+Black,29,Nigro,30,nautilus,po/io.po
+Blue Ridge,33,Blua Strio,34,nautilus,po/io.po
+Blue Type,41,Blua Tipo,42,nautilus,po/io.po
+C_olors,57,K_olori,58,nautilus,po/io.po
+Chalk,65,Kreto,66,nautilus,po/io.po
+Concrete,73,Betono,74,nautilus,po/io.po
+Cork,77,Korko,78,nautilus,po/io.po
+Dark Cork,89,Obskura Korko,90,nautilus,po/io.po
+Dots,101,Punti,102,nautilus,po/io.po
+Eclipse,117,Eklipso,118,nautilus,po/io.po
+Envy,121,Envidio,122,nautilus,po/io.po
+Erase,128,Efacez,129,nautilus,po/io.po
+Fibers,132,Fibri,133,nautilus,po/io.po
+Fire Engine,136,Incendiopumpilo,137,nautilus,po/io.po
+Fleur De Lis,140,Lilifloro,141,nautilus,po/io.po
+Floral,144,Florala,145,nautilus,po/io.po
+Fossil,148,Fosilo,149,nautilus,po/io.po
+Granite,156,Granito,157,nautilus,po/io.po
+Grapefruit,160,Pompelmuseo,161,nautilus,po/io.po
+Green Weave,164,Verda Texuro,165,nautilus,po/io.po
+Ice,168,Glacio,169,nautilus,po/io.po
+Leaf,176,Folio,177,nautilus,po/io.po
+Lemon,180,Limono,181,nautilus,po/io.po
+Mango,184,Mangeo,185,nautilus,po/io.po
+Moss Ridge,192,Muskea Strio,193,nautilus,po/io.po
+Mud,196,Fango,197,nautilus,po/io.po
+Numbers,200,Nombri,201,nautilus,po/io.po
+Ocean Strips,204,Oceanea Strii,205,nautilus,po/io.po
+Onyx,208,Onixo,209,nautilus,po/io.po
+Orange,212,Oranjeo,213,nautilus,po/io.po
+Pale Blue,216,Pala Bluo,217,nautilus,po/io.po
+Purple Marble,220,Purpura Marmoro,221,nautilus,po/io.po
+Ridged Paper,224,Strioza Papero,225,nautilus,po/io.po
+Rough Paper,228,Aspera Papero,229,nautilus,po/io.po
+Ruby,232,Rubineo,233,nautilus,po/io.po
+Sea Foam,236,Marospumo,237,nautilus,po/io.po
+Shale,240,Skistargilo,241,nautilus,po/io.po
+Silver,244,Arjento,245,nautilus,po/io.po
+Sky,248,Cielo,249,nautilus,po/io.po
+Sky Ridge,252,Cielea Strio,253,nautilus,po/io.po
+Snow Ridge,256,Nivea Strio,257,nautilus,po/io.po
+Stucco,260,Stuko,261,nautilus,po/io.po
+Tangerine,264,Mandarino,265,nautilus,po/io.po
+Terracotta,268,Terakoto,269,nautilus,po/io.po
+Violet,272,Violeo,273,nautilus,po/io.po
+Wavy White,276,Ondoza Blanko,277,nautilus,po/io.po
+White,280,Blanko,281,nautilus,po/io.po
+White Ribs,284,Blanka Kosto,285,nautilus,po/io.po
+_Emblems,288,_Emblemi,289,nautilus,po/io.po
+_Patterns,292,_Shabloni,293,nautilus,po/io.po
+Blank Blu-Ray Disc,297,Vakua Blu-Ray Disko,298,nautilus,po/io.po
+Blank CD Disc,302,Vakua CD Disko,303,nautilus,po/io.po
+Blank DVD Disc,307,Vakua DVD Disko,308,nautilus,po/io.po
+Blank HD DVD Disc,312,Vakua HD DVD Disko,313,nautilus,po/io.po
+Compact Disc Audio,322,Kompakta Disko de Sono,323,nautilus,po/io.po
+DVD Audio,327,DVD Sono,328,nautilus,po/io.po
+Digital Photos,337,Digitala Fotografuri,338,nautilus,po/io.po
+"If set to true, Nautilus will only show folders in the tree side pane. Otherwise it will show both folders and files.",517,"Se vera, Nautilo montros nur dokumentuyi en la arbora latera karelo.  Altre olu montros du dokumentuyi e dokumenti.",518,nautilus,po/io.po
+"If set to true, newly opened windows will have the location bar visible.",521,"Se vera, nove apertita fenestri havos la loka stango videbla.",522,nautilus,po/io.po
+"If set to true, newly opened windows will have the side pane visible.",525,"Se vera, nova apertita fenestri havos la latera karelo videbla.",526,nautilus,po/io.po
+"If set to true, newly opened windows will have the status bar visible.",529,"Se vera, nove apertita fenestri havos la standa stango videbla.",530,nautilus,po/io.po
+"If set to true, newly opened windows will have toolbars visible.",533,"Se vera, nove apertita fenestri havos utensila stangi videbla.",534,nautilus,po/io.po
+Side pane view,740,Latera karela vidajo,741,nautilus,po/io.po
+Whether to enable immediate deletion,864,Ka permisar nemediata efaco,865,nautilus,po/io.po
+Whether to preview sounds when mousing over an icon,868,Ka previdar soni kande musagas trae ikono,869,nautilus,po/io.po
+Whether to show hidden files,876,Kad montrar celita dokumenti,877,nautilus,po/io.po
+Width of the side pane,880,Largeso di la latera karelo,881,nautilus,po/io.po
+No applications found,884,Nula programi trovita,885,nautilus,po/io.po
+Ask what to do,888,Demandez quo agar,889,nautilus,po/io.po
+Do Nothing,892,Agez Nulo,893,nautilus,po/io.po
+Open Folder,897,Apertez Dokumentuyo,898,nautilus,po/io.po
+Open %s,903,Apertez %s,904,nautilus,po/io.po
+_Eject,985,_Ejektez,986,nautilus,po/io.po
+_Unmount,990,_Desmuntez,991,nautilus,po/io.po
+Move _Up,1023,Movez Ad_supre,1024,nautilus,po/io.po
+Move Dow_n,1027,Movez Adi_nfre,1028,nautilus,po/io.po
+_Show,1031,_Montrez,1032,nautilus,po/io.po
+Hi_de,1035,_Celez,1036,nautilus,po/io.po
+Name,1045,Nomo,1046,nautilus,po/io.po
+The name and icon of the file.,1049,La nomo ed ikono di dokumento.,1050,nautilus,po/io.po
+Size,1053,Grandeso,1054,nautilus,po/io.po
+The size of the file.,1057,La grandeso di dokumento.,1058,nautilus,po/io.po
+Type,1061,Tipo,1062,nautilus,po/io.po
+The type of the file.,1065,La tipo di la dokumento.,1066,nautilus,po/io.po
+Owner,1086,Proprietanto,1087,nautilus,po/io.po
+The owner of the file.,1090,La proprietanto di la dokumento.,1091,nautilus,po/io.po
+Group,1094,Grupo,1095,nautilus,po/io.po
+The group of the file.,1098,La grupo di la dokumento.,1099,nautilus,po/io.po
+on the desktop,1141,sur la pupitrosupro,1142,nautilus,po/io.po
+"You cannot move the volume \""%s\"" to the trash.",1146,"Vu ne povas movar la volumino \""%s\"" ad la eskombreyo.",1147,nautilus,po/io.po
+_Move Here,1158,_Movez Hike,1159,nautilus,po/io.po
+_Copy Here,1162,_Kopiez Hike,1163,nautilus,po/io.po
+_Link Here,1166,_Ligez Hike,1167,nautilus,po/io.po
+Cancel,1175,Abrogez,1176,nautilus,po/io.po
+%s %ld of %ld %s,1226,%s %ld de %ld %s,1227,nautilus,po/io.po
+(%d:%02d:%02d Remaining),1231,(%d:%02d:%02d Restanta),1232,nautilus,po/io.po
+(%d:%02d Remaining),1236,(%d:%02d Restanta),1237,nautilus,po/io.po
+_Skip,1240,_Omisez,1241,nautilus,po/io.po
+S_kip All,1244,O_misez Omna,1245,nautilus,po/io.po
+_Retry,1248,_Riesforcez,1249,nautilus,po/io.po
+Delete _All,1252,Efacez _Omna,1253,nautilus,po/io.po
+_Replace,1256,_Remplasez,1257,nautilus,po/io.po
+Replace _All,1260,Remplasez _Omna,1261,nautilus,po/io.po
+_Merge,1264,A_bsorbez,1265,nautilus,po/io.po
+Merge _All,1268,Absorbez _Omna,1269,nautilus,po/io.po
+%'d second,1273,%'d sekundo,1275,nautilus,po/io.po
+%'d second,1273,%'d sekundi,1276,nautilus,po/io.po
+%'d minute,1281,%'d minuto,1283,nautilus,po/io.po
+%'d minute,1281,%'d minuti,1284,nautilus,po/io.po
+%'d hour,1288,%'d horo,1290,nautilus,po/io.po
+%'d hour,1288,%'d hori,1291,nautilus,po/io.po
+Link to %s,1309,Ligilo ad %s,1310,nautilus,po/io.po
+Another link to %s,1315,Altra ligilo ad %s,1316,nautilus,po/io.po
+%'dst link to %s,1324,%'dma ligilo ad %s,1325,nautilus,po/io.po
+%'dnd link to %s,1330,%'dma ligilo ad %s,1331,nautilus,po/io.po
+%'drd link to %s,1336,%'dma ligilo ad %s,1337,nautilus,po/io.po
+%'dth link to %s,1342,%'dma ligilo ad %s,1343,nautilus,po/io.po
+ (copy),1351, (kopiuro),1352,nautilus,po/io.po
+ (another copy),1356, (altra kopiuro),1357,nautilus,po/io.po
+th copy),1367,ma kopiuro),1368,nautilus,po/io.po
+st copy),1372,ma kopiuro),1373,nautilus,po/io.po
+nd copy),1377,ma kopiuro),1378,nautilus,po/io.po
+rd copy),1382,ma kopiuro),1383,nautilus,po/io.po
+%s (copy)%s,1388,%s (kopiuro)%s,1389,nautilus,po/io.po
+%s (another copy)%s,1394,%s (altra kopiuro)%s,1395,nautilus,po/io.po
+%s (%'dth copy)%s,1406,%s (%'dma kopiuro)%s,1407,nautilus,po/io.po
+%s (%'dst copy)%s,1412,%s (%'dma kopiuro)%s,1413,nautilus,po/io.po
+%s (%'dnd copy)%s,1418,%s (%'dma kopiuro)%s,1419,nautilus,po/io.po
+%s (%'drd copy)%s,1424,%s (%'dma kopiuro)%s,1425,nautilus,po/io.po
+ (,1429,(,1430,nautilus,po/io.po
+ (%'d,1435,(%'d,1436,nautilus,po/io.po
+Deleting files,1466,Efacas dokumenti,1467,nautilus,po/io.po
+%'d file left to delete,1471,%'d dokumento restanta efacar,1473,nautilus,po/io.po
+%'d file left to delete,1471,%'d dokumenti restanta efacar,1474,nautilus,po/io.po
+%'d file left to delete — %T left,1478,%'d dokumento restanta efacar — %T restanta,1480,nautilus,po/io.po
+%'d file left to delete — %T left,1478,%'d dokumenti restanta efacar,1481,nautilus,po/io.po
+_Skip files,1503,_Omisez dokumenti,1504,nautilus,po/io.po
+Moving files to trash,1525,Movas dokumenti ad la eskombreyo,1526,nautilus,po/io.po
+%'d file left to trash,1530,%d dokumento restanta eskombrigar,1532,nautilus,po/io.po
+%'d file left to trash,1530,%'d dokumenti restanta eskombrigar,1533,nautilus,po/io.po
+"The file \""%B\"" cannot be moved to the trash.",1540,"La dokumento \""%B\"" ne povas movar ad la eskombreyo.",1541,nautilus,po/io.po
+Unable to eject %V,1544,Ne povas ejektar %V,1545,nautilus,po/io.po
+Unable to unmount %V,1548,Ne povas desmuntar %V,1549,nautilus,po/io.po
+Do you want to empty the trash before you unmount?,1552,Ka vu deziras vakuigar la eskombreyo ante vu desmuntas?,1553,nautilus,po/io.po
+Don't Empty Trash,1560,Ne Vakuigez Eskombreyo,1561,nautilus,po/io.po
+Empty Trash,1566,Vakuigez Eskombreyo,1567,nautilus,po/io.po
+Unable to mount %s,1571,Ne povas muntar %s,1572,nautilus,po/io.po
+Preparing to copy %'d file (%S),1576,Preparas kopiar %'d dokumenti (%S),1578,nautilus,po/io.po
+Preparing to copy %'d file (%S),1576,Preparas kopiar %'d dokumenti (%S),1579,nautilus,po/io.po
+Preparing to move %'d file (%S),1583,Preparas movar %'d dokumenti (%S),1585,nautilus,po/io.po
+Preparing to move %'d file (%S),1583,Preparas movar %d dokumenti (%S),1586,nautilus,po/io.po
+Preparing to delete %'d file (%S),1590,Preparas efacar %'d dokumenti (%S),1592,nautilus,po/io.po
+Preparing to delete %'d file (%S),1590,Preparas efacar %'d dokumenti (%S),1593,nautilus,po/io.po
+Preparing to trash %'d file,1597,Preparas eskombrigar %d dokumenti,1599,nautilus,po/io.po
+Preparing to trash %'d file,1597,Preparas eskombrigar %'d dokumenti,1600,nautilus,po/io.po
+Error while copying.,1606,Eroro dum kopias.,1607,nautilus,po/io.po
+Error while moving.,1612,Eroro dum movas.,1613,nautilus,po/io.po
+Error while moving files to trash.,1616,Eroro dum movas dokumenti ad la eskombreyo.,1617,nautilus,po/io.po
+"Error while copying to \""%B\"".",1639,"Eroro dum kopias ad \""%B\"".",1640,nautilus,po/io.po
+"Moving \""%B\"" to \""%B\""",1668,"Movas \""%B\"" ad \""%B\""",1669,nautilus,po/io.po
+"Copying \""%B\"" to \""%B\""",1672,"Kopias \""%B\"" ad \""%B\""",1673,nautilus,po/io.po
+"Duplicating \""%B\""",1676,"Duplikatigas \""%B\""",1677,nautilus,po/io.po
+"Moving %'d file (in \""%B\"") to \""%B\""",1680,"Movas %'d dokumento (en \""%B\"") to \""%B\""",1682,nautilus,po/io.po
+"Moving %'d file (in \""%B\"") to \""%B\""",1680,"Movas %'d dokumenti (en \""%B\"") to \""%B\""",1683,nautilus,po/io.po
+"Copying %'d file (in \""%B\"") to \""%B\""",1686,"Kopias %'d dokumento (en \""%B\"") to \""%B\""",1688,nautilus,po/io.po
+"Copying %'d file (in \""%B\"") to \""%B\""",1686,"Kopias %'d dokumenti (en \""%B\"") to \""%B\""",1689,nautilus,po/io.po
+"Moving %'d file to \""%B\""",1699,"Movas %'d dokumento ad \""%B\""",1701,nautilus,po/io.po
+"Moving %'d file to \""%B\""",1699,"Movas %'d dokumenti ad \""%B\""",1702,nautilus,po/io.po
+"Copying %'d file to \""%B\""",1705,"Kopias %'d dokumento ad \""%B\""",1707,nautilus,po/io.po
+"Copying %'d file to \""%B\""",1705,"Kopias %'d dokumenti ad \""%B\""",1708,nautilus,po/io.po
+Duplicating %'d file,1712,Duplikatigas %'d dokumento,1714,nautilus,po/io.po
+Duplicating %'d file,1712,Duplikatigas %'d dokumenti,1715,nautilus,po/io.po
+%S of %S,1720,%S de %S,1721,nautilus,po/io.po
+%S of %S — %T left (%S/sec),1727,%S de %S — %T restanta (%S/sek),1728,nautilus,po/io.po
+"Error while moving \""%B\"".",1749,"Eroro dum movas \""%B\"".",1750,nautilus,po/io.po
+"Error while copying \""%B\"".",1760,"Eroro dum kopias \""%B\"".",1761,nautilus,po/io.po
+"Preparing to Move to \""%B\""",1815,"Preparas Movar ad \""%B\""",1816,nautilus,po/io.po
+Preparing to move %'d file,1820,Preparas movar %'d dokumento,1822,nautilus,po/io.po
+Preparing to move %'d file,1820,Preparas movar %'d dokumenti,1823,nautilus,po/io.po
+Making links to %'d file,1840,Preparas movar %'d dokumento,1842,nautilus,po/io.po
+Making links to %'d file,1840,Preparas movar %'d dokumenti,1843,nautilus,po/io.po
+untitled folder,1868,netitulita dokumentuyo,1869,nautilus,po/io.po
+new file,1873,nova dokumento,1874,nautilus,po/io.po
+Error while creating directory %B.,1877,Eroro dum kreas dokumentuyo %B.,1878,nautilus,po/io.po
+Error while creating file %B.,1881,Eroro dum kreas dokumento %B.,1882,nautilus,po/io.po
+There was an error creating the directory in %F.,1886,Eroro dum kreas la dokumentuyo en %F.,1887,nautilus,po/io.po
+today at 00:00:00 PM,1936,cadie ye 00:00:00,1937,nautilus,po/io.po
+today at %-I:%M:%S %p,1941,cadie ye %-k:%M:%S,1942,nautilus,po/io.po
+today at 00:00 PM,1945,cadie ye 00:00,1946,nautilus,po/io.po
+today at %-I:%M %p,1949,cadie ye %-k:%M,1950,nautilus,po/io.po
+"today, 00:00 PM",1953,"cadie, 00:00",1954,nautilus,po/io.po
+"today, %-I:%M %p",1957,"cadie, %-k:%M",1958,nautilus,po/io.po
+today,1962,cadie,1963,nautilus,po/io.po
+yesterday at 00:00:00 PM,1969,hiere ye 00:00:00,1970,nautilus,po/io.po
+yesterday at %-I:%M:%S %p,1973,hiere ye %-k:%M:%S,1974,nautilus,po/io.po
+yesterday at 00:00 PM,1977,hiere ye 00:00,1978,nautilus,po/io.po
+yesterday at %-I:%M %p,1981,hiere ye %-k:%M,1982,nautilus,po/io.po
+"yesterday, 00:00 PM",1985,"hiere, 00:00",1986,nautilus,po/io.po
+"yesterday, %-I:%M %p",1989,"hiere, %-k:%M",1990,nautilus,po/io.po
+yesterday,1994,hiere,1995,nautilus,po/io.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2003,"merkurdio, septembro 00 0000 ye 00:00:00",2004,nautilus,po/io.po
+"%A, %B %-d %Y at %-I:%M:%S %p",2007,"%A, %B %-d %Y ye %-k:%M:%S",2008,nautilus,po/io.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2011,"lun, okt 00 0000 ye 00:00:00",2012,nautilus,po/io.po
+"%a, %b %-d %Y at %-I:%M:%S %p",2015,"%a, %b %-d %Y ye %-k:%M:%S",2016,nautilus,po/io.po
+"Mon, Oct 00 0000 at 00:00 PM",2019,"lun, okt 00 0000 ye 00:00",2020,nautilus,po/io.po
+"%a, %b %-d %Y at %-I:%M %p",2023,"%a, %b %-d %Y ye %-k:%M",2024,nautilus,po/io.po
+Oct 00 0000 at 00:00 PM,2027,okt 00 0000 ye 00:00,2028,nautilus,po/io.po
+%b %-d %Y at %-I:%M %p,2031,%b %-d %Y ye %-k:%M,2032,nautilus,po/io.po
+"Oct 00 0000, 00:00 PM",2035,"okt 00 0000, 00:00",2036,nautilus,po/io.po
+"%b %-d %Y, %-I:%M %p",2039,"%b %-d %Y, %-k:%M",2040,nautilus,po/io.po
+"00/00/00, 00:00 PM",2043,"00/00/00, 00:00",2044,nautilus,po/io.po
+"%m/%-d/%y, %-I:%M %p",2047,"%y/%m/%-d, %-k:%M",2048,nautilus,po/io.po
+%m/%d/%y,2055,%y/%m/%d,2056,nautilus,po/io.po
+%'u item,2086,%'u elemento,2088,nautilus,po/io.po
+%'u item,2086,%'u elementi,2089,nautilus,po/io.po
+%'u folder,2093,%'u dokumentuyo,2095,nautilus,po/io.po
+%'u folder,2093,%'u dokumentuyi,2096,nautilus,po/io.po
+%'u file,2100,%'u dokumento,2102,nautilus,po/io.po
+%'u file,2100,%'u dokumenti,2103,nautilus,po/io.po
+? items,2118,? elementi,2119,nautilus,po/io.po
+unknown type,2127,nekonocata tipo,2128,nautilus,po/io.po
+unknown MIME type,2131,nekonocata tipo de MIME,2132,nautilus,po/io.po
+unknown,2139,nekonocata,2140,nautilus,po/io.po
+program,2143,programo,2144,nautilus,po/io.po
+link,2147,ligilo,2148,nautilus,po/io.po
+_Always,2155,_Sempre,2156,nautilus,po/io.po
+_Local File Only,2159,_Lokala Dokumento Nur,2160,nautilus,po/io.po
+_Never,2163,_Nultempe,2164,nautilus,po/io.po
+By Name,2273,Per Nomo,2274,nautilus,po/io.po
+By Size,2277,Per Grandeso,2278,nautilus,po/io.po
+By Type,2281,Per Tipo,2282,nautilus,po/io.po
+By Modification Date,2285,Per Modifika Dato,2286,nautilus,po/io.po
+By Emblems,2289,Per Emblemi,2290,nautilus,po/io.po
+%s's Home,2338,Hemo di %s,2339,nautilus,po/io.po
+Computer,2343,Ordinatro,2344,nautilus,po/io.po
+Trash,2349,Eskombreyo,2350,nautilus,po/io.po
+Mo_ve to Trash,2389,Mo_vez ad Eskombreyo,2390,nautilus,po/io.po
+"Opening \""%s\"".",2450,"Apertas \""%s\"".",2451,nautilus,po/io.po
+Opening %d item.,2455,Apertas %d elemento.,2457,nautilus,po/io.po
+Opening %d item.,2455,Apertas %d elementi.,2458,nautilus,po/io.po
+Icon,2476,Ikono,2477,nautilus,po/io.po
+%s document,2490,%s dokumento,2491,nautilus,po/io.po
+Open With,2531,Apertez Per,2532,nautilus,po/io.po
+_Open,2552,_Apertez,2553,nautilus,po/io.po
+"Open %s and other files of type \""%s\"" with:",2557,"Apertez %s ed altra dokumenti de tipo \""%s\"" per:",2558,nautilus,po/io.po
+_Add,2561,_Adjuntez,2562,nautilus,po/io.po
+Add Application,2565,Adjuntez Programo,2566,nautilus,po/io.po
+Preparing,2640,Preparas,2641,nautilus,po/io.po
+Search,2647,Serchez,2648,nautilus,po/io.po
+"Search for \""%s\""",2652,"Serchez por \""%s\""",2653,nautilus,po/io.po
+Edit,2657,Redaktez,2658,nautilus,po/io.po
+Undo Edit,2661,Desfacez Redakto,2662,nautilus,po/io.po
+Undo the edit,2665,Desfacez la redakto,2666,nautilus,po/io.po
+Redo Edit,2669,Rifacez Redakto,2670,nautilus,po/io.po
+Redo the edit,2673,Rifacez la redakto,2674,nautilus,po/io.po
+Home Folder,2696,Hema Dokumentuyo,2697,nautilus,po/io.po
+Background,2739,Fundo,2740,nautilus,po/io.po
+E_mpty Trash,2746,_Vakuigez Eskombreyo,2747,nautilus,po/io.po
+Desktop,2785,Pupitrosupro,2786,nautilus,po/io.po
+View as Desktop,2789,Videz kom Pupitrosupro,2790,nautilus,po/io.po
+View as _Desktop,2793,Videz kom _Pupitrosupro,2794,nautilus,po/io.po
+_Pattern:,2826,_Shablono:,2827,nautilus,po/io.po
+_Folder:,2838,_Dokumentuyo:,2839,nautilus,po/io.po
+"Open with \""%s\""",2930,"Apertez per \""%s\""",2931,nautilus,po/io.po
+_Connect,3012,_Konektez,3013,nautilus,po/io.po
+Create _Document,3020,Kreez _Dokumento,3021,nautilus,po/io.po
+Open Wit_h,3025,Apertez _Per,3026,nautilus,po/io.po
+_Properties,3036,_Propraji,3037,nautilus,po/io.po
+Create _Folder,3051,Kreez Dokumentu_yo,3052,nautilus,po/io.po
+_Empty File,3067,_Vakua dokumento,3068,nautilus,po/io.po
+Open with Other _Application...,3107,Apertez per Altra _Programo...,3108,nautilus,po/io.po
+_Rename...,3197,_Rinomizez...,3198,nautilus,po/io.po
+_Delete,3217,_Efacez,3218,nautilus,po/io.po
+_Mount Volume,3248,_Muntez Volumino,3249,nautilus,po/io.po
+Mount the selected volume,3253,Muntez la selektata volumino,3254,nautilus,po/io.po
+_Unmount Volume,3260,_Desmuntez Volumino,3261,nautilus,po/io.po
+Unmount the selected volume,3265,Desmuntez la selektata volumino,3266,nautilus,po/io.po
+Eject the selected volume,3270,Ejektez la selektata volumino,3271,nautilus,po/io.po
+_Format,3277,_Formatigez,3278,nautilus,po/io.po
+Format the selected volume,3282,Formatigez la selektata volumino,3283,nautilus,po/io.po
+Mount the volume associated with the open folder,3287,Muntez la volumino asociata kun la apertata dokumentuyo,3288,nautilus,po/io.po
+Unmount the volume associated with the open folder,3292,Desmuntez la volumino asociata kun la apertata dokumentuyo,3293,nautilus,po/io.po
+Eject the volume associated with the open folder,3297,Ejektez la volumino asociata kun la apertata dokumentuyo,3298,nautilus,po/io.po
+Format the volume associated with the open folder,3302,Formatigez la volumino asociata kun la apertata dokumentuyo,3303,nautilus,po/io.po
+Open File and Close window,3307,Apertez Dokumento e Klozez Fenestro,3308,nautilus,po/io.po
+Sa_ve Search,3312,Sal_vez Sercho,3313,nautilus,po/io.po
+Save the edited search,3317,Salvez la redaktita sercho,3318,nautilus,po/io.po
+Sa_ve Search As...,3322,Sal_vez Sercho Kom...,3323,nautilus,po/io.po
+Save the current search as a file,3327,Salvez la nuna sercho kom dokumento,3328,nautilus,po/io.po
+Open this folder in a navigation window,3332,Apertez ica dokumentuyo en navigala fenestro,3333,nautilus,po/io.po
+Open this folder in a folder window,3337,Apertez ica dokumentuyo en dokumentuya fenestro,3338,nautilus,po/io.po
+Prepare this folder to be moved with a Paste command,3343,"Preparas ica dokumentuyo movesar per impero \""Glutinez\""",3344,nautilus,po/io.po
+Prepare this folder to be copied with a Paste command,3349,"Preparas ica dokumentuyo kopiesar per impero \""Glutinez\""",3350,nautilus,po/io.po
+Move this folder to the Trash,3354,Movez ica dokumentuyo ad la Eskombreyo,3355,nautilus,po/io.po
+"Delete this folder, without moving to the Trash",3359,"Efacez ica dokumentuyo, sen movas ad la Eskombreyo",3360,nautilus,po/io.po
+Show _Hidden Files,3364,Montrez _Celita Dokumenti,3365,nautilus,po/io.po
+_Scripts,3380,_Skribaji,3381,nautilus,po/io.po
+Open in New Window,3387,Apertez en Nova Fenestro,3388,nautilus,po/io.po
+"_Open with \""%s\""",3417,"_Apertez per \""%s\""",3418,nautilus,po/io.po
+Open in %'d New Window,3422,Apertez en %'d Nova Fenestro,3424,nautilus,po/io.po
+Open in %'d New Window,3422,Apertez en %'d Nova Fenestri,3425,nautilus,po/io.po
+Comment,3476,Komento,3477,nautilus,po/io.po
+Description,3486,Deskripto,3487,nautilus,po/io.po
+Link,3490,Ligilo,3491,nautilus,po/io.po
+Command,3494,Impero,3495,nautilus,po/io.po
+"Sorry, couldn't rename \""%s\"" to \""%s\"": %s",3548,"Pardonez, ne povis rinomizar \""%s\"" ad \""%s\"": %s",3549,nautilus,po/io.po
+The item could not be renamed.,3552,La elemento ne povis rinomizesar.,3553,nautilus,po/io.po
+"Renaming \""%s\"" to \""%s\"".",3590,"Rinomizas \""%s\"" ad \""%s\"".",3591,nautilus,po/io.po
+by _Name,3594,per _Nomo,3595,nautilus,po/io.po
+by _Size,3603,per _Grandeso,3604,nautilus,po/io.po
+_Manually,3705,_Manuale,3706,nautilus,po/io.po
+By _Name,3713,Per _Nomo,3714,nautilus,po/io.po
+By _Size,3717,Per _Grandeso,3718,nautilus,po/io.po
+Icons,3742,Ikoni,3743,nautilus,po/io.po
+View as Icons,3746,Videz kom Ikoni,3747,nautilus,po/io.po
+View as _Icons,3750,Videz kom _Ikoni,3751,nautilus,po/io.po
+(Empty),3767,(Vakua),3768,nautilus,po/io.po
+Loading...,3772,Charjas...,3773,nautilus,po/io.po
+List,3795,Listo,3796,nautilus,po/io.po
+View as List,3799,Videz kom Listo,3800,nautilus,po/io.po
+View as _List,3803,Videz kom _Listo,3804,nautilus,po/io.po
+Properties,3845,Propraji,3846,nautilus,po/io.po
+%s Properties,3850,%s Propraji,3851,nautilus,po/io.po
+nothing,3862,nulo,3863,nautilus,po/io.po
+used,3892,uzata,3893,nautilus,po/io.po
+free,3897,neuzata,3898,nautilus,po/io.po
+Type:,3921,Tipo:,3922,nautilus,po/io.po
+Size:,3925,Grandeso:,3926,nautilus,po/io.po
+Location:,3930,Loko:,3931,nautilus,po/io.po
+Emblems,3959,Emblemi,3960,nautilus,po/io.po
+_Read,3963,_Lektez,3964,nautilus,po/io.po
+_Write,3967,_Skribez,3968,nautilus,po/io.po
+E_xecute,3971,E_xekutez,3972,nautilus,po/io.po
+no ,3980,ne,3981,nautilus,po/io.po
+list,3984,listo,3985,nautilus,po/io.po
+read,3988,lekto,3989,nautilus,po/io.po
+create/delete,3992,kreo/efaco,3993,nautilus,po/io.po
+write,3996,skribo,3997,nautilus,po/io.po
+access,4000,aceso,4001,nautilus,po/io.po
+Access:,4004,Aceso:,4005,nautilus,po/io.po
+None,4018,Nula,4019,nautilus,po/io.po
+List files only,4022,Listez dokumenti nur,4023,nautilus,po/io.po
+Access files,4026,Acesez dokumenti,4027,nautilus,po/io.po
+Create and delete files,4030,Kreez ed efacez dokumenti,4031,nautilus,po/io.po
+Read and write,4038,Lektez e skribez,4039,nautilus,po/io.po
+_Sticky,4054,_Glutinala,4055,nautilus,po/io.po
+_Owner:,4059,_Proprietanto:,4060,nautilus,po/io.po
+Owner:,4065,Proprietanto:,4066,nautilus,po/io.po
+_Group:,4070,_Grupo:,4071,nautilus,po/io.po
+Group:,4076,Grupo:,4077,nautilus,po/io.po
+Others,4080,Altri,4081,nautilus,po/io.po
+Execute:,4084,Exekutez:,4085,nautilus,po/io.po
+Others:,4092,Altri:,4093,nautilus,po/io.po
+E_ject,4141,E_jektez,4142,nautilus,po/io.po
+Create Folder,4146,Kreez Dokumentuyo,4147,nautilus,po/io.po
+Tree,4163,Arboro,4164,nautilus,po/io.po
+Show Tree,4167,Montrez Arboro,4168,nautilus,po/io.po
+Unable to eject %s,4248,Ne povas ejektar %s,4249,nautilus,po/io.po
+<b>_Bookmarks</b>,4278,<b>_Markorubandi</b>,4279,nautilus,po/io.po
+<b>_Location</b>,4282,<b>_Loko</b>,4283,nautilus,po/io.po
+<b>_Name</b>,4286,<b>_Nomo</b>,4287,nautilus,po/io.po
+Edit Bookmarks,4290,Redaktez Markorubandi,4291,nautilus,po/io.po
+Rename Emblem,4309,Rinomizez Emblemo,4310,nautilus,po/io.po
+Rename,4317,Rinomizez,4318,nautilus,po/io.po
+Add Emblems...,4321,Adjuntez Emblemi...,4322,nautilus,po/io.po
+Show Emblems,4361,Montrez Emblemi,4362,nautilus,po/io.po
+<b>Folders</b>,4414,<b>Dokumentuyi</b>,4415,nautilus,po/io.po
+<b>Text Files</b>,4452,<b>Texta Dokumenti</b>,4453,nautilus,po/io.po
+Views,4588,Vidi,4589,nautilus,po/io.po
+_Type:,4644,_Tipo:,4645,nautilus,po/io.po
+Location,4718,Loko,4719,nautilus,po/io.po
+Image,4764,Imajo,4765,nautilus,po/io.po
+_Location:,4809,_Loko:,4810,nautilus,po/io.po
+Quit Nautilus.,4837,Livez Nautilo.,4838,nautilus,po/io.po
+Restart Nautilus.,4841,Ristartez Nautilo.,4842,nautilus,po/io.po
+Nautilus,4874,Nautilo,4875,nautilus,po/io.po
+_Go,4926,_Irez,4927,nautilus,po/io.po
+_Bookmarks,4931,_Markorubandi,4932,nautilus,po/io.po
+New _Window,4936,Nova _Fenestro,4937,nautilus,po/io.po
+Close _All Windows,4954,Klozez _Omna Fenestri,4955,nautilus,po/io.po
+_Location...,4963,_Loko...,4964,nautilus,po/io.po
+Clea_r History,4973,_Netigez Historio,4974,nautilus,po/io.po
+_Add Bookmark,4983,_Adjuntez Markorubando,4984,nautilus,po/io.po
+_Edit Bookmarks,4994,_Redaktez Markorubandi,4995,nautilus,po/io.po
+_Side Pane,5027,_Latera Karelo,5028,nautilus,po/io.po
+Location _Bar,5038,Loka _Stango,5039,nautilus,po/io.po
+St_atusbar,5049,St_anda Stango,5050,nautilus,po/io.po
+_Search,5082,_Serchez,5083,nautilus,po/io.po
+Notes,5096,Noti,5097,nautilus,po/io.po
+Show Notes,5100,Montrez Noti,5101,nautilus,po/io.po
+Rename...,5117,Rinomizez...,5118,nautilus,po/io.po
+_Mount,5121,_Muntez,5122,nautilus,po/io.po
+Places,5135,Placi,5136,nautilus,po/io.po
+Show Places,5139,Montrez Placi,5140,nautilus,po/io.po
+_Image:,5184,_Imajo:,5185,nautilus,po/io.po
+Patterns:,5300,Shablomi:,5301,nautilus,po/io.po
+Colors:,5304,Kolori:,5305,nautilus,po/io.po
+Emblems:,5308,Emblemi:,5309,nautilus,po/io.po
+File Type,5324,Tipo de Dokumento,5325,nautilus,po/io.po
+Documents,5332,Dokumenti,5333,nautilus,po/io.po
+Music,5336,Muziko,5337,nautilus,po/io.po
+Picture,5344,Pikturo,5345,nautilus,po/io.po
+Text File,5364,Texta Dokumento,5365,nautilus,po/io.po
+Select type,5368,Selektez tipo,5369,nautilus,po/io.po
+Any,5372,Irga,5373,nautilus,po/io.po
+Other Type...,5376,Altra Tipo...,5377,nautilus,po/io.po
+Go,5396,Irez,5397,nautilus,po/io.po
+Reload,5400,Richarjez,5401,nautilus,po/io.po
+_Search for:,5408,_Serchez por:,5409,nautilus,po/io.po
+Search results,5412,Serchuri,5413,nautilus,po/io.po
+Search:,5416,Serchez:,5417,nautilus,po/io.po
+Close the side pane,5420,Klozez la latera karelo,5421,nautilus,po/io.po
+_Places,5424,_Placi,5425,nautilus,po/io.po
+Open _Location...,5429,Apertez _Loko...,5430,nautilus,po/io.po
+Clos_e All Folders,5442,Kloz_ez Omna Dokumentuyi,5443,nautilus,po/io.po
+throbber,5451,pulsero,5452,nautilus,po/io.po
+The location is not a folder.,5487,La loko ne esas dokumentuyo.,5488,nautilus,po/io.po
+"Couldn't find \""%s\"".",5492,"Ne povis trovar \""%s\"".",5493,nautilus,po/io.po
+Nautilus cannot handle %s: locations.,5497,Nautilo ne povas manuagar %s: loki.,5498,nautilus,po/io.po
+Nautilus cannot handle this kind of locations.,5501,Nautilo ne povas manuagar ica sorto de loki.,5502,nautilus,po/io.po
+Unable to mount the location.,5505,Ne povas muntar la loko.,5506,nautilus,po/io.po
+Access was denied.,5509,Aceso refuzesis.,5510,nautilus,po/io.po
+Copyright © 1999-2007 The Nautilus authors,5554,Autoryuro © 1999-2007 La autori di Nautilo,5555,nautilus,po/io.po
+_File,5570,_Dokumento,5571,nautilus,po/io.po
+_Edit,5575,_Redaktez,5576,nautilus,po/io.po
+_View,5580,_Videz,5581,nautilus,po/io.po
+_Help,5585,_Helpo,5586,nautilus,po/io.po
+_Close,5591,_Klozez,5592,nautilus,po/io.po
+Close this folder,5596,Klozez ica dokumentuyo,5597,nautilus,po/io.po
+Prefere_nces,5608,_Preferi,5609,nautilus,po/io.po
+_Undo,5616,_Desfacez,5617,nautilus,po/io.po
+_Stop,5635,_Haltez,5636,nautilus,po/io.po
+_Reload,5645,_Richarjez,5646,nautilus,po/io.po
+_Contents,5655,_Kontentaji,5656,nautilus,po/io.po
+Display Nautilus help,5660,Montrez helpo pri Nautilo,5661,nautilus,po/io.po
+_About,5665,_Pri,5666,nautilus,po/io.po
+_Home Folder,5717,_Hema Dokumentuyo,5718,nautilus,po/io.po
+_Computer,5722,_Ordinatro,5723,nautilus,po/io.po
+_Network,5727,_Reto,5728,nautilus,po/io.po
+_Home,5771,_Hemo,5772,nautilus,po/io.po
+Network,5845,Reto,5846,nautilus,po/io.po

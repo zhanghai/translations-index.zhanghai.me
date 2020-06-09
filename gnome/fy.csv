@@ -1,0 +1,2392 @@
+Disk Usage Analyzer,29,Skiifgebrûk,30,baobab,po/fy.po
+Check folder sizes and available disk space,33,Kontrolearje map gruttes en beskikbere skiifromte,34,baobab,po/fy.po
+A simple application to keep your disk usage and available space under control.,37,In simpele applikaasje op jo skiifgebrûk en beskikbere romte yn'e touwen te hâlden.,40,baobab,po/fy.po
+"Disk Usage Analyzer can scan specific folders, storage devices and online accounts. It provides both a tree and a graphical representation showing the size of each folder, making it easy to identify where disk space is wasted.",45,"Skiifgebrûk kin spesifyke mappen, opslach apparaten en online accounts scanne. It hat sawol in beam as in grafyske represintaasje dy't de grutte fan eltse map sjen lit, wat it maklik makket om te sjen wêr as jo skiifrome oan op giet.",49,baobab,po/fy.po
+Devices and Locations,56,Apparaten en Lokaasjes,57,baobab,po/fy.po
+The GNOME Project,60,It GNOME Projekt,61,baobab,po/fy.po
+storage;space;cleanup;,65,storage;opslach;space;romte;cleanup;,66,baobab,po/fy.po
+Excluded locations URIs,69,Lokaasje URIs dy't net scant hoeve te wurden,70,baobab,po/fy.po
+A list of URIs for locations to be excluded from scanning.,73,In list mei URIs fan lokaasjes dy net scant hoeve te wurden.,74,baobab,po/fy.po
+Active Chart,77,Aktive Grafyk,78,baobab,po/fy.po
+Which type of chart should be displayed.,81,Hokker soart kaart soe der sjen litten wurde moatte?,82,baobab,po/fy.po
+Window size,85,Finster grutte,86,baobab,po/fy.po
+The initial size of the window,89,De inisjele steat fan it finster,90,baobab,po/fy.po
+Window state,93,Finster steat,94,baobab,po/fy.po
+The GdkWindowState of the window,97,De GdkWindowState fan it finster,98,baobab,po/fy.po
+General,102,Algemien,103,baobab,po/fy.po
+Show help,107,Help sjen litte,108,baobab,po/fy.po
+Show / Hide primary menu,112,Haadmenu wol / net sjen litte,113,baobab,po/fy.po
+Quit,117,Ôfslute,118,baobab,po/fy.po
+Show Keyboard Shortcuts,122,Toetseboerd Fluchtoetsen Besjen,123,baobab,po/fy.po
+Go back to location list,127,Werom gean nei lokaasje list,128,baobab,po/fy.po
+Scanning,132,Oan it scannen,133,baobab,po/fy.po
+Scan folder,137,Map scanne,138,baobab,po/fy.po
+Rescan current location,142,Aktive lokaasje noch ris scanne,143,baobab,po/fy.po
+_Open Folder,146,_Folder Iepenje,147,baobab,po/fy.po
+_Copy Path to Clipboard,150,_Kopiear Lokaasje nei Klemboerd,151,baobab,po/fy.po
+Mo_ve to Trash,154,_Nei Jiskefet Ferpleatse,155,baobab,po/fy.po
+Go to _parent folder,158,Gean nei boppelizzende map,159,baobab,po/fy.po
+Zoom _in,162,_Ynzoome,163,baobab,po/fy.po
+Zoom _out,166,_Utzoome,167,baobab,po/fy.po
+Folder,170,Map,171,baobab,po/fy.po
+Size,174,Grutte,175,baobab,po/fy.po
+Contents,178,Ynhâld,179,baobab,po/fy.po
+Modified,182,Datum fan Oanpassen,183,baobab,po/fy.po
+This Computer,186,Dizze Kompûter,187,baobab,po/fy.po
+Remote Locations,190,Lokaasjes op Ôfstân,191,baobab,po/fy.po
+Preferences,194,Foarkarren,195,baobab,po/fy.po
+Locations to Ignore,198,Lokaasjes om te negearen,199,baobab,po/fy.po
+Scan Folder…,202,Map Scanne…,203,baobab,po/fy.po
+Clear Recent List,206,"\""Resintlik\"" list leechsmite",207,baobab,po/fy.po
+Keyboard _Shortcuts,210,Toetseboerd _Koartkaaien,211,baobab,po/fy.po
+_About Disk Usage Analyzer,218,_Oer Skiifgebrûk,219,baobab,po/fy.po
+Go back to location list,222,Werom gean nei lokaasje list,223,baobab,po/fy.po
+Rescan current location,226,Aktive lokaasje opnij scanne,227,baobab,po/fy.po
+Close,230,Slute,231,baobab,po/fy.po
+Rings Chart,234,Sirkelgrafyk,235,baobab,po/fy.po
+Treemap Chart,238,Beamgrafyk,239,baobab,po/fy.po
+Do not skip directories on different file systems. Ignored if DIRECTORY is not specified.,242,Sla gjin triemtafels op ferskillende triemsystemen oer. Wurd negearre as DIRECTORY net opjûn is.,245,baobab,po/fy.po
+Print version information and exit,250,Ferzje ynformaasje sjen litte en ôfslute,251,baobab,po/fy.po
+%d item,255,%d items,258,baobab,po/fy.po
+Unknown,262,Ûnbekend,263,baobab,po/fy.po
+Today,267,Hjoed,268,baobab,po/fy.po
+%lu day,273,%lu dei,275,baobab,po/fy.po
+%lu day,273,%lu dagen,276,baobab,po/fy.po
+%lu month,281,%lu moanne,283,baobab,po/fy.po
+%lu month,281,%lu moannen,284,baobab,po/fy.po
+%lu year,289,%lu jier,291,baobab,po/fy.po
+%lu year,289,%lu jierren,292,baobab,po/fy.po
+%s Total,296,%s yn't gehiel,297,baobab,po/fy.po
+%s Available,301,%s beskikber,302,baobab,po/fy.po
+%s Used,308,%s Brûkt,309,baobab,po/fy.po
+Unmounted,312,Loskeppele,313,baobab,po/fy.po
+Home Folder,316,Thús Map,317,baobab,po/fy.po
+Computer,320,Kompûter,321,baobab,po/fy.po
+Select Location to Ignore,325,Lokaasje om te negearren selektearje,326,baobab,po/fy.po
+_Cancel,329,_Ofbrekke,330,baobab,po/fy.po
+_Open,333,_Iepenje,334,baobab,po/fy.po
+Add Location…,337,Lokaasje Tafoegje…,338,baobab,po/fy.po
+Select Folder,341,Map Selektearje,342,baobab,po/fy.po
+Recursively analyze mount points,345,Oankeppelpunten rekursyf analysearje,346,baobab,po/fy.po
+Could not analyze volume.,349,Koe skiif net analysearje.,350,baobab,po/fy.po
+Failed to show help,353,Koe help net sjen litte,354,baobab,po/fy.po
+A graphical tool to analyze disk usage.,357,In grafyske applikaasje om skiifgebrûk te analysearjen.,358,baobab,po/fy.po
+Failed to open file,365,Koe triem net iepenje,366,baobab,po/fy.po
+Failed to move file to the trash,369,Ferpleatsen fan triem nei it jiskefet mislearre,370,baobab,po/fy.po
+Devices & Locations,373,Apperaten & Lokaasjes,374,baobab,po/fy.po
+Could not scan folder “%s”,378,Koe de map “%s” net scanne,379,baobab,po/fy.po
+Could not always detect occupied disk sizes.,382,Koe de brûkte skiifromte net altiid detektearre,383,baobab,po/fy.po
+Apparent sizes may be shown instead.,386,Yn't plak fan de wiere grutte kin de skynbere grutte hjir ek sjen litten wurde.,387,baobab,po/fy.po
+Scan completed,392,Scan foltôge,393,baobab,po/fy.po
+Completed scan of “%s”,397,Scan fan “%s” foltôge,398,baobab,po/fy.po
+“%s” is not a valid folder,402,“%s” is gjin jildiche map,403,baobab,po/fy.po
+Could not analyze disk usage.,406,Koe skiifgebrûk net analysearje.,407,baobab,po/fy.po
+Show “_%s”,32,"Lit \""_%s\"" sjen",33,eog,po/fy.po
+_Delete Toolbar,52,Wiskje Arbalke,53,eog,po/fy.po
+Separator,60,Ôfskieder,61,eog,po/fy.po
+Activate fullscreen mode with double-click,64,Skeakelje folledich-skerm-moadus yn mei dûbbelklik,65,eog,po/fy.po
+Fullscreen with double-click,68,Folledich-skerm mei dûbelklik,69,eog,po/fy.po
+Reload Image,73,Laad ôfbylding opnij,74,eog,po/fy.po
+Reload current image,78,Laad warbere ôfbylding opnij,79,eog,po/fy.po
+Date in statusbar,82,Datum yn steatbalke,83,eog,po/fy.po
+Shows the image date in the window statusbar,86,Lit de datum fan'e ôfbylding sjen yn de steatbalke,87,eog,po/fy.po
+Browse and rotate images,90,Bleaderje en draaie ôfbylingen,91,eog,po/fy.po
+Image Viewer,94,Ôfbyldingswerjefteprogramma,95,eog,po/fy.po
+Author:,102,Skriuwer:,103,eog,po/fy.po
+Bytes:,106,Parten:,107,eog,po/fy.po
+Copyright:,114,Auteursrjocht:,115,eog,po/fy.po
+Description:,122,Beskriuwing:,123,eog,po/fy.po
+Flash:,134,Flits:,135,eog,po/fy.po
+General,142,Algemien,143,eog,po/fy.po
+Height:,146,Hichte:,147,eog,po/fy.po
+Image Properties,154,Ôfbieldingseigenskippen,155,eog,po/fy.po
+Keywords:,158,Kaaiwurden:,159,eog,po/fy.po
+Location:,162,Lokaasje:,163,eog,po/fy.po
+Name:,174,Namme:,175,eog,po/fy.po
+Width:,182,Breedte:,183,eog,po/fy.po
+_Next,186,Folgje_nde,187,eog,po/fy.po
+_Previous,190,Foargeande,191,eog,po/fy.po
+Choose a folder,204,Kar in map út,205,eog,po/fy.po
+Options,224,Opsjes,225,eog,po/fy.po
+Save As,236,Bewarje as,237,eog,po/fy.po
+To:,244,Nei:,245,eog,po/fy.po
+As _background,248,As eftergrûn,249,eog,po/fy.po
+As custom c_olor:,256,As oanpaste kleur,257,eog,po/fy.po
+As custom color:,260,As oanpaste kleur:,261,eog,po/fy.po
+Background,264,Eftergrûn,265,eog,po/fy.po
+Background Color,269,Eftergrûnkleur,270,eog,po/fy.po
+Color for Transparent Areas,273,Kleur foar Trochsichtich Gebiet,274,eog,po/fy.po
+E_xpand images to fit screen,277,Set ôfbyldingen út om it skerm te passen,278,eog,po/fy.po
+Eye of GNOME Preferences,281,Eye of GNOME Foarkarren,282,eog,po/fy.po
+Image View,289,Ôfbieldingswerjefte,290,eog,po/fy.po
+Plugins,297,Ynstekkers,298,eog,po/fy.po
+Slideshow,305,Diafoarstelling,306,eog,po/fy.po
+_Switch image after:,329,Wik_selje ôfbylding nei:,330,eog,po/fy.po
+seconds,333,sekonden,334,eog,po/fy.po
+Active plugins,343,Ynstelde ynstekkers,344,eog,po/fy.po
+Use a custom background color,530,As oanpaste eftergrûnkleur bruke,531,eog,po/fy.po
+Running in fullscreen mode,534,Rint yn folledich-skerm-moadus,535,eog,po/fy.po
+Question,542,Fraach,543,eog,po/fy.po
+All Files,586,Alle Triemen,587,eog,po/fy.po
+All Images,590,Alle Ôfbyldingen,591,eog,po/fy.po
+pixel,602,byldpunt,604,eog,po/fy.po
+pixel,602,byldpunten,605,eog,po/fy.po
+Open Image,608,Ôfbylding Openje,609,eog,po/fy.po
+Save Image,612,Ôfbylding Bewarje,613,eog,po/fy.po
+Open Folder,616,Map Openje,617,eog,po/fy.po
+Camera,660,Kamera,661,eog,po/fy.po
+Other,676,Oare,677,eog,po/fy.po
+Value,700,Wearde,701,eog,po/fy.po
+Image,736,Ôfbylding,737,eog,po/fy.po
+_Left:,756,_Lofts:,757,eog,po/fy.po
+_Right:,760,_Rjochts:,761,eog,po/fy.po
+Both,788,Beide,789,eog,po/fy.po
+Size,792,Grutte,793,eog,po/fy.po
+_Width:,796,Breedte:,797,eog,po/fy.po
+_Height:,800,_Hichte:,801,eog,po/fy.po
+ (invalid Unicode),875, (mishypte Unicode),876,eog,po/fy.po
+Toolbar Editor,919,Arkbalkbewurker,920,eog,po/fy.po
+The GNOME image viewer.,960,De GNOME ôfbyldingswerjefter,961,eog,po/fy.po
+Move to _Trash,1008,Nei Jiskefet Ferpleatse,1009,eog,po/fy.po
+_Image,1031,Ôfbylding,1032,eog,po/fy.po
+_Edit,1035,B_ewurkje,1036,eog,po/fy.po
+_View,1039,Werjefte,1040,eog,po/fy.po
+_Go,1043,_Gean,1044,eog,po/fy.po
+_Tools,1047,Arken,1048,eog,po/fy.po
+_Open…,1055,_Openje...,1056,eog,po/fy.po
+Open a file,1059,Openje in triem,1060,eog,po/fy.po
+_Contents,1087,Ynhald,1088,eog,po/fy.po
+_About,1095,Oer,1096,eog,po/fy.po
+_Toolbar,1103,Arkbalke,1104,eog,po/fy.po
+_Save,1135,Bewarje,1136,eog,po/fy.po
+Open _with,1143,Openje mei,1144,eog,po/fy.po
+Save _As…,1151,Bewarje _As...,1152,eog,po/fy.po
+_Print…,1159,Ôfdrukke...,1160,eog,po/fy.po
+Prope_rties,1167,Eigenskippen,1168,eog,po/fy.po
+_Undo,1175,Ûngedien meitsje,1176,eog,po/fy.po
+_Zoom In,1227,Seamje Yn,1228,eog,po/fy.po
+Zoom _Out,1235,Seamje Út,1236,eog,po/fy.po
+_Normal Size,1243,_Normale Grutte,1244,eog,po/fy.po
+Pause Slideshow,1267,Diafoarstelling Skoftsje,1268,eog,po/fy.po
+_Previous Image,1275,Foariche Ôfbylding,1276,eog,po/fy.po
+_Next Image,1283,Folgje_nde Ôfbylding,1284,eog,po/fy.po
+_First Image,1291,Earste Ôfbylding,1292,eog,po/fy.po
+_Last Image,1299,_Letste Ôfbylding,1300,eog,po/fy.po
+_Random Image,1307,Sam_r in Ôfbylding,1308,eog,po/fy.po
+Previous,1323,Foariche,1324,eog,po/fy.po
+Next,1327,Folgjende,1328,eog,po/fy.po
+Right,1331,Rjochts,1332,eog,po/fy.po
+Left,1335,Lofts,1336,eog,po/fy.po
+In,1339,Yn,1340,eog,po/fy.po
+Out,1343,Út,1344,eog,po/fy.po
+Normal,1347,Normaal,1348,eog,po/fy.po
+Fit,1351,Pasje,1352,eog,po/fy.po
+Trash,1360,Jiskefet,1361,eog,po/fy.po
+Plugin,1364,Ynstekker,1365,eog,po/fy.po
+Enabled,1368,Oan set,1369,eog,po/fy.po
+C_onfigure,1372,Ynstelle,1373,eog,po/fy.po
+A_ctivate,1376,Aktivearje,1377,eog,po/fy.po
+Ac_tivate All,1380,Ak_tivearje Alles,1381,eog,po/fy.po
+Active _Plugins:,1388,Aktive Ynstekkers:,1389,eog,po/fy.po
+_About Plugin,1392,Oer Ynstekker,1393,eog,po/fy.po
+C_onfigure Plugin,1396,Ynstekker Ynstelle,1397,eog,po/fy.po
+[FILE…],1424,[TRIEM...],1425,eog,po/fy.po
+Web browser for GNOME,27,Webblêder foar GNOME,28,epiphany,po/fy.po
+The GNOME web site displayed in GNOME Web,43,De GNOME webside sjen litten yn GNOME Web,44,epiphany,po/fy.po
+The GNOME Project,47,It GNOME Projekt,48,epiphany,po/fy.po
+Web Browser,57,Webblêder,58,epiphany,po/fy.po
+Browse the web,61,Blêdzje troch it web,62,epiphany,po/fy.po
+web;browser;internet;,66,web;browser;internet;ynternet;blêder;webblêder;,67,epiphany,po/fy.po
+New Window,70,Nij Finster,71,epiphany,po/fy.po
+New Incognito Window,74,Nij Priveefinster,75,epiphany,po/fy.po
+Memory usage,78,Geheugengebrûk,79,epiphany,po/fy.po
+Version %s,83,Ferzje %s,84,epiphany,po/fy.po
+About Web,87,Oer Web,88,epiphany,po/fy.po
+Epiphany Technology Preview,91,Epiphany Technology Foarfertoaning,92,epiphany,po/fy.po
+"A simple, clean, beautiful view of the web",95,"In maklik, oersichtlik, kreas oersjoch fan it web",96,epiphany,po/fy.po
+Applications,101,Applikaasjes,102,epiphany,po/fy.po
+List of installed web applications,105,List fan ynstallearre web applikaasjes,106,epiphany,po/fy.po
+Delete,109,Fuortsmite,110,epiphany,po/fy.po
+Installed on:,114,Ynstallearre op:,115,epiphany,po/fy.po
+You can add your favorite website by clicking <b>Install Site as Web Application…</b> within the page menu.,118,Jo kinne jo favorite webside tafoegje troch op <b>Ynstallear side as webapplikaasje</b> yn it webside menu te klikken.,121,epiphany,po/fy.po
+Welcome to Web,127,Wolkom by Web,128,epiphany,po/fy.po
+Start browsing and your most-visited sites will appear here.,131,Begjin mei blêdzjen en jo faakst besochte siden wurde hjir sjen litten.,132,epiphany,po/fy.po
+Remove from overview,137,Út oersjoch wei smite,138,epiphany,po/fy.po
+Private Browsing,141,Privee Blêdzje,142,epiphany,po/fy.po
+Finished downloading %s,166,Klear mei it delheljen van %s,167,epiphany,po/fy.po
+Download finished,171,Klear mei Delheljen,172,epiphany,po/fy.po
+Download requested,175,Delheljen oanfreege,176,epiphany,po/fy.po
+_Cancel,186,Ôfbrekke,187,epiphany,po/fy.po
+_Download,190,Delhelje,191,epiphany,po/fy.po
+From: %s,201,Fan: %s,202,epiphany,po/fy.po
+Where do you want to save the file?,206,Wêr wolle jo de triem bewarje?,207,epiphany,po/fy.po
+Save file,211,Triem bewarje,212,epiphany,po/fy.po
+Press %s to exit fullscreen,217,Druk op %s om it folsleine skerm te ferlitten,218,epiphany,po/fy.po
+Web is being controlled by automation.,230,Web wurd behearre troch automatisearings sêftguod.,231,epiphany,po/fy.po
+Send an email message to “%s”,235,In e-mail berjocht nei “%s” stjoere,236,epiphany,po/fy.po
+Blank page,239,Lege side,240,epiphany,po/fy.po
+Most Visited,244,Faakst Besocht,245,epiphany,po/fy.po
+English (_US-ASCII),544,Ingelsk (_US-ASCII),545,epiphany,po/fy.po
+Unknown (%s),568,ûnbekend (%s),569,epiphany,po/fy.po
+Text not found,572,Tekst net fûn,573,epiphany,po/fy.po
+Search wrapped back to the top,576,Sykjen is werom by it begjin,577,epiphany,po/fy.po
+Type to search…,580,Tikje om te sykjen,581,epiphany,po/fy.po
+%s is not a valid URI,593,%s is net in jildiche URI,594,epiphany,po/fy.po
+Open,597,Iepenje,598,epiphany,po/fy.po
+Not No_w,601,No Net,602,epiphany,po/fy.po
+_Never Save,605,_Nea Bewarje,606,epiphany,po/fy.po
+_Save,610,Bewarje,611,epiphany,po/fy.po
+Do you want to save your password for “%s”?,618,Wolle jo it wachtwurd foar “%s” bewarje?,619,epiphany,po/fy.po
+Web process crashed,629,Webproses fêstrûn,630,epiphany,po/fy.po
+Web process terminated due to exceeding memory limit,633,Webproses ôfsluten omdat it te folle geheugen brûkt,634,epiphany,po/fy.po
+Deny,642,Tagong ôfwize,643,epiphany,po/fy.po
+Allow,647,Tagong tastean,648,epiphany,po/fy.po
+The page at %s wants to show desktop notifications.,653,De side op %s wol buroblêdnotifikaasjes sjen litte.,654,epiphany,po/fy.po
+The page at %s wants to know your location.,659,De side op %s wol jo lokaasje witte.,660,epiphany,po/fy.po
+The page at %s wants to use your microphone.,665,De side op %s wol jo mikrofoan brûke.,666,epiphany,po/fy.po
+The page at %s wants to use your webcam.,671,De side op %s wol jo webcam brûke.,672,epiphany,po/fy.po
+The page at %s wants to use your webcam and microphone.,677,De side op %s wol jo webcam en mikrofoan brûke.,678,epiphany,po/fy.po
+Do you want to allow “%s” to use cookies while browsing “%s”?,682,Wolle jo “%s” tastean koekjes te brûken wylst jo troch “%s” blêdzje?,683,epiphany,po/fy.po
+This will allow “%s” to track your activity.,687,Dit jout “%s” tastimming jo aktiviteit by te hâlden.,688,epiphany,po/fy.po
+Loading “%s”…,693,Oan it laden fan “%s”…,694,epiphany,po/fy.po
+Loading…,697,Oan it laden…,698,epiphany,po/fy.po
+This website presented identification that belongs to a different website.,702,Dizze webside docht harren foar as in oare webside.,704,epiphany,po/fy.po
+This website’s identification is too old to trust. Check the date on your computer’s calendar.,708,Dizze webside harren identifikaasje is te âld om betrouwber te wêzen. Kontrolearje de datum op de kalinder fan jo kompûter.,711,epiphany,po/fy.po
+This website’s identification was not issued by a trusted organization.,717,Dizze webside harren identifikaasje is net útjûn troch in betrouwbere organisaasje.,718,epiphany,po/fy.po
+This website’s identification could not be processed. It may be corrupted.,724,Dizze webside harren identifikaasje koe net ferwurke wurde. Miskien is it skansearre.,726,epiphany,po/fy.po
+This website’s identification has been revoked by the trusted organization that issued it.,732,Dizze webside harren identifikaasje is ynlutsen troch de organisaasje dy it útjûn hat.,735,epiphany,po/fy.po
+This website’s identification cannot be trusted because it uses very weak encryption.,741,Dizze webside harren identifikaasje is net betrouwber omdat it hiele maklik te ferbrekken fersifering brûkt.,744,epiphany,po/fy.po
+This website’s identification is only valid for future dates. Check the date on your computer’s calendar.,750,Dizze webside harren identifikaasje is allinich jildich foar datums yn'e takomst. Kontrolearje de datum op de kalinder fan jo kompûter.,753,epiphany,po/fy.po
+Problem Loading Page,761,Flater by it Laden fan Webside,762,epiphany,po/fy.po
+Unable to display this website,766,Kin dizze webside net sjen litte,767,epiphany,po/fy.po
+The site at %s seems to be unavailable.,772,De side op %s liket ûnbeskikber te wêzen.,773,epiphany,po/fy.po
+It may be temporarily inaccessible or moved to a new address. You may wish to verify that your internet connection is working correctly.,777,It kin tiidlik ûnbeskikber wêze of ferpleatst wêze nei in oar adres. Jo kinne probearje wis te wêzen fan dat jo ynternetferbining it docht.,780,epiphany,po/fy.po
+The precise error was: %s,787,De detailleare flater wie: %s,788,epiphany,po/fy.po
+Reload,797,Ferfarskje,798,epiphany,po/fy.po
+Oops! There may be a problem,809,Blikje! Der kin wot ferkeard gien wêze,810,epiphany,po/fy.po
+Problem Displaying Page,827,Flater by it Sjen Litten fan Side,828,epiphany,po/fy.po
+Oops!,832,Blikje!,833,epiphany,po/fy.po
+Unresponsive Page,845,Fêstrûne Side,846,epiphany,po/fy.po
+This Connection is Not Secure,868,Sizze Ferbining is Net Feilich,869,epiphany,po/fy.po
+This does not look like the real %s. Attackers might be trying to steal or alter information going to or from this site.,874,Dit sjocht der net út as de echte %s. In oanfaller kin oan it probearjen wêze jo gegevens te stellen as oan te passen dy jo op dizze side ynfiere.,877,epiphany,po/fy.po
+Go Back,886,Werom gean,887,epiphany,po/fy.po
+Accept Risk and Proceed,901,Risiko Akseptearje en Trochgean,902,epiphany,po/fy.po
+Security Warning,914,Feiligens Warskôging,915,epiphany,po/fy.po
+File not found,967,Triem net fûn,968,epiphany,po/fy.po
+%s could not be found.,972,%s koe net fûn wurde.,973,epiphany,po/fy.po
+Technical information,987,Technyske ynformaasje,988,epiphany,po/fy.po
+Desktop,1005,Buroblêd,1006,epiphany,po/fy.po
+Could not create a temporary directory in “%s”.,1010,Koe gjin tiidlike map oanmeitsje yn “%s”.,1011,epiphany,po/fy.po
+The file “%s” exists. Please move it out of the way.,1015,De triem “%s” bestiet. Graach dizze ferplaetse.,1016,epiphany,po/fy.po
+Failed to create directory “%s”.,1020,Koe map “%s” net oanmeitsje.,1021,epiphany,po/fy.po
+Could not display help: %s,1025,Koe  help net sjen litte: %s,1026,epiphany,po/fy.po
+%s’s GNOME Web on %s,1042,%s harren GNOME Web op %s,1043,epiphany,po/fy.po
+Today %I∶%M %p,1047,Hjoed %I∶%M %p,1048,epiphany,po/fy.po
+Today %H∶%M,1052,Hjoed %H∶%M,1053,epiphany,po/fy.po
+Yesterday %I∶%M %p,1059,Juster %I∶%M %p,1060,epiphany,po/fy.po
+Yesterday %H∶%M,1066,Juster %H∶%M,1067,epiphany,po/fy.po
+Unknown,1106,ûnbekend,1107,epiphany,po/fy.po
+Cannot create SQLite connection. Close browser and try again.,1111,Koe gjin SQLite ferbining meitsje. Slút de webblêder en probearje it noch ris.,1112,epiphany,po/fy.po
+Browser password database could not be opened. Close browser and try again.,1118,Webblêder wachtwurd databank koe net iepene wurde. Slút de browser ôf in probearje it opnij.,1120,epiphany,po/fy.po
+The password of your Firefox account seems to have been changed.,1149,It wachtwurd fan jo Firefox account liket feroare te wêzen.,1150,epiphany,po/fy.po
+Failed to retrieve crypto keys.,1185,Koe kryptografyske kaaien net ophelje.,1186,epiphany,po/fy.po
+%d second left,1266,%d sekonde te gean,1268,epiphany,po/fy.po
+%d second left,1266,%d sekonden te gean,1269,epiphany,po/fy.po
+%d minute left,1273,%d minút te gean,1275,epiphany,po/fy.po
+%d minute left,1273,%d minuten te gean,1276,epiphany,po/fy.po
+%d hour left,1280,%d oere te gean,1282,epiphany,po/fy.po
+%d hour left,1280,%d oeren te gean,1283,epiphany,po/fy.po
+%d day left,1287,%d dei te gean,1289,epiphany,po/fy.po
+%d day left,1287,%d dagen te gean,1290,epiphany,po/fy.po
+%d week left,1294,%d wike te gean,1296,epiphany,po/fy.po
+%d week left,1294,%d wiken te gean,1297,epiphany,po/fy.po
+%d month left,1301,%d moanne te gean,1303,epiphany,po/fy.po
+%d month left,1301,%d moannen te gean,1304,epiphany,po/fy.po
+Finished,1308,Klear,1309,epiphany,po/fy.po
+Moved or deleted,1312,Ferplaetst of fuortsmiten,1313,epiphany,po/fy.po
+Error downloading: %s,1318,Flater by it delheljen: %s,1319,epiphany,po/fy.po
+Cancelling…,1322,Oan it ôfbrekken…,1323,epiphany,po/fy.po
+Starting…,1326,Oan it starten…,1327,epiphany,po/fy.po
+All supported types,1335,Alle stipe typen,1336,epiphany,po/fy.po
+Web pages,1339,Websiden,1340,epiphany,po/fy.po
+Images,1343,Ôfbyldingen,1344,epiphany,po/fy.po
+All files,1347,Alle triemen,1348,epiphany,po/fy.po
+"Search for websites, bookmarks, and open tabs",1376,"Sykje om websiden, bledwiizers, en iepen ljepblêden",1377,epiphany,po/fy.po
+Bookmark this page,1380,Dizze side oan blêdwiizers tafoegje,1381,epiphany,po/fy.po
+Toggle reader mode,1384,Lêsmodus ynskeakelje,1385,epiphany,po/fy.po
+Ask,1418,Freechje,1419,epiphany,po/fy.po
+Permissions,1422,Rjochten,1423,epiphany,po/fy.po
+Notifications,1430,Notifikaasjes,1431,epiphany,po/fy.po
+Password saving,1434,Wachtwurd bewarje,1435,epiphany,po/fy.po
+Location access,1438,Lokaasje tagong,1439,epiphany,po/fy.po
+Microphone access,1442,Mikrofoan tagong,1443,epiphany,po/fy.po
+Webcam access,1446,Webcam tagong,1447,epiphany,po/fy.po
+Without Sound,1454,Sûnder lûd,1455,epiphany,po/fy.po
+Favorites,1503,Favoriten,1504,epiphany,po/fy.po
+Mobile,1507,Mobyl,1508,epiphany,po/fy.po
+Reload the current page,1512,Aktive side ferfarskje,1513,epiphany,po/fy.po
+Last synchronized: %s,1524,Foar it lêst syngroniseare: %s,1525,epiphany,po/fy.po
+Copy URL,1540,URL kopiearje,1541,epiphany,po/fy.po
+Clear browsing history?,1544,Blêdskiednis leechsmite?,1545,epiphany,po/fy.po
+Remove all history,1554,Alle skiednis fuortsmite,1555,epiphany,po/fy.po
+Web options,1598,Web opsjes,1599,epiphany,po/fy.po
+Open a new tab,1603,Nij ljepblêd iepenje,1604,epiphany,po/fy.po
+Do you really want to remove this extension?,1607,Binne jo der wis fan dat jo dizze útwreiding fuortsmite wolle?,1608,epiphany,po/fy.po
+_Remove,1612,_Fuortsmite,1613,epiphany,po/fy.po
+Author,1616,Auteur,1617,epiphany,po/fy.po
+Version,1620,Ferzje,1621,epiphany,po/fy.po
+Homepage,1625,Thússide,1626,epiphany,po/fy.po
+Remove selected WebExtension,1629,Selektearre Webútwreiding fuortsmite,1630,epiphany,po/fy.po
+Open File (manifest.json/xpi),1634,Triem Iepenje (manifest.json/xpi),1635,epiphany,po/fy.po
+Do you want to leave this website?,1638,Wolle jo dizze webside ferlitte?,1639,epiphany,po/fy.po
+There are multiple tabs open.,1650,Der binne meardere ljepblêden iepen.,1651,epiphany,po/fy.po
+Search the Web for “%s”,1793,Op it web sykje om “%s”,1794,epiphany,po/fy.po
+Open Link,1797,Keppeling Iepenje,1798,epiphany,po/fy.po
+Open Link In New Tab,1801,Keppeling in nij ljepblêd iepenje,1802,epiphany,po/fy.po
+Open Link In New Window,1805,Keppeling in nij finster iepenje,1806,epiphany,po/fy.po
+Open Link In Incognito Window,1809,Keppeling in nij priveefinster iepenje,1810,epiphany,po/fy.po
+Show details,1817,Details sjen litte,1818,epiphany,po/fy.po
+View open tabs,1829,Iepen ljepblêden besjen,1830,epiphany,po/fy.po
+Set Web as your default browser?,1833,Web as jo standert webblêder ynstelle?,1834,epiphany,po/fy.po
+Save Link As,1849,Keppeling Bewarje as,1850,epiphany,po/fy.po
+Save Image As,1853,Ôfbylding Bewarje as,1854,epiphany,po/fy.po
+Save Media As,1857,Media Bewarje as,1858,epiphany,po/fy.po
+Cookies,1861,Koekjes,1862,epiphany,po/fy.po
+WebSQL databases,1881,WebSQL databanken,1882,epiphany,po/fy.po
+This field is required,1897,Dit fjild is nedich,1898,epiphany,po/fy.po
+Address must start with either http:// or https://,1901,Adres moat mei http:// of https:// begjinne,1902,epiphany,po/fy.po
+Address is not a valid URI,1905,Adres is net in jildiche URI,1906,epiphany,po/fy.po
+A name is required,1929,In namme is nedich,1930,epiphany,po/fy.po
+This search engine already exists,1933,Dizze sykmasine bestiet al,1934,epiphany,po/fy.po
+Delete All Passwords?,1937,Alle Wachtwurden Fuortsmite?,1938,epiphany,po/fy.po
+Copy password,1949,Wachtwurd kopearje,1950,epiphany,po/fy.po
+Username,1953,Brûkersnamme,1954,epiphany,po/fy.po
+Copy username,1957,Brûkersnamme kopiearje,1958,epiphany,po/fy.po
+Password,1961,Wachtwurd,1962,epiphany,po/fy.po
+Reveal password,1965,Wachtwurd sichtber meitsje,1966,epiphany,po/fy.po
+Remove Password,1969,Wachtwurd,1970,epiphany,po/fy.po
+Light,1981,Ljocht,1982,epiphany,po/fy.po
+Dark,1985,Tsjuster,1986,epiphany,po/fy.po
+Add Language,1990,Taal tafoegje,1991,epiphany,po/fy.po
+System language (%s),1996,Systeem taal (%s),1998,epiphany,po/fy.po
+System language (%s),1996,Systeem talen (%s),1999,epiphany,po/fy.po
+Select a directory,2002,Map selektearje,2003,epiphany,po/fy.po
+Web Application Icon,2006,Webapplikaasje Ikoan,2007,epiphany,po/fy.po
+Supported Image Files,2010,Stipe ôfbyldingstriemen,2011,epiphany,po/fy.po
+View and manage your bookmarks,2035,Besjoch en behear jo blêdwiizers,2036,epiphany,po/fy.po
+Name,2069,Namme,2070,epiphany,po/fy.po
+Address,2074,Adres,2075,epiphany,po/fy.po
+All,2092,Alle,2093,epiphany,po/fy.po
+No bookmarks yet?,2096,Noch gjin blêdwiizers?,2097,epiphany,po/fy.po
+Personal Data,2105,Persoanlike Gegevens,2106,epiphany,po/fy.po
+Search personal data,2117,Om persoanlike gegevens sykje,2118,epiphany,po/fy.po
+There is no Personal Data,2121,Der binne gjin Persoanlike Gegevens,2122,epiphany,po/fy.po
+Search,2140,Sykje,2141,epiphany,po/fy.po
+No Results Found,2144,Gjin Resultaten Fûn,2145,epiphany,po/fy.po
+Try a different search,2148,Probearje ris om wot oars te sykjen,2149,epiphany,po/fy.po
+Text Encoding,2152,Tekst Kodearing,2153,epiphany,po/fy.po
+Show all…,2168,Alles sjen litte…,2169,epiphany,po/fy.po
+Logged in,2187,Ynlogd,2188,epiphany,po/fy.po
+Frequency,2219,Frekwinsje,2220,epiphany,po/fy.po
+Device name,2227,Apparaat namme,2228,epiphany,po/fy.po
+History,2236,Skiednis,2237,epiphany,po/fy.po
+Select Items,2240,Items Selektearje,2241,epiphany,po/fy.po
+Search history,2244,Sykskiednis,2245,epiphany,po/fy.po
+The History is Empty,2248,De Skiednis is Leech,2249,epiphany,po/fy.po
+Visited pages will be listed here,2252,Besochte siden wurde hjir sjen litten,2253,epiphany,po/fy.po
+Delete language,2256,Taal fuortsmite,2257,epiphany,po/fy.po
+Zoom Out,2301,Útzoome,2302,epiphany,po/fy.po
+Zoom In,2310,Ynzoome,2311,epiphany,po/fy.po
+Fullscreen,2322,Folslein skerm,2323,epiphany,po/fy.po
+Import and Export,2386,Ymportearre en Eksportearre,2387,epiphany,po/fy.po
+Close page,2402,Side slúte,2403,epiphany,po/fy.po
+Tabs,2406,Ljepblêden,2407,epiphany,po/fy.po
+Passwords,2411,Wachtwurden,2412,epiphany,po/fy.po
+Remove all passwords,2415,Alle wachtwurden fuortsmite,2416,epiphany,po/fy.po
+Search passwords,2419,Wachtwurden sykje,2420,epiphany,po/fy.po
+There are no Passwords,2423,Der binne gjin Wachtwurden,2424,epiphany,po/fy.po
+Saved passwords will be listed here,2427,Bewarre wachtwurden wurde hjir sjen litten,2428,epiphany,po/fy.po
+Appearance,2439,Úterlik,2440,epiphany,po/fy.po
+Fonts,2443,Lettertypen,2444,epiphany,po/fy.po
+Style,2475,Styl,2476,epiphany,po/fy.po
+General,2491,Algemien,2492,epiphany,po/fy.po
+Web Application,2495,Webapplikaasje,2496,epiphany,po/fy.po
+Web Content,2515,Web Ynhâld,2516,epiphany,po/fy.po
+Block _Advertisements,2519,Advertinsjes Blokearre,2520,epiphany,po/fy.po
+Most _visited pages,2527,Faakst besochte websiden,2528,epiphany,po/fy.po
+Search Engines,2547,Sykmasinen,2548,epiphany,po/fy.po
+Session,2551,Sesje,2552,epiphany,po/fy.po
+Browsing,2563,Blêdzjen,2564,epiphany,po/fy.po
+Choose a language:,2579,In taal útsykje:,2580,epiphany,po/fy.po
+Web Safety,2587,Web Feiligens,2588,epiphany,po/fy.po
+Search Suggestions,2611,Syksugestjes,2612,epiphany,po/fy.po
+Selects the default search engine,2643,selektearret de standert sykmasine ,2644,epiphany,po/fy.po
+Shortcut,2647,Fluchtoets,2648,epiphany,po/fy.po
+General,2663,Algemien,2664,epiphany,po/fy.po
+New window,2668,Nij finster,2669,epiphany,po/fy.po
+New incognito window,2673,Nij priveefinster,2674,epiphany,po/fy.po
+Open file,2678,Triem iepenje,2679,epiphany,po/fy.po
+Save page,2683,Side bewarje,2684,epiphany,po/fy.po
+Print page,2688,Side ôfdrukke,2689,epiphany,po/fy.po
+Quit,2693,Ôfslute,2694,epiphany,po/fy.po
+Open menu,2703,Menu iepenje,2704,epiphany,po/fy.po
+Shortcuts,2708,Fluchtoetsen,2709,epiphany,po/fy.po
+Show bookmarks list,2714,Blêdwiizer list sjen litte,2715,epiphany,po/fy.po
+Navigation,2719,Navigaasje,2720,epiphany,po/fy.po
+Go to homepage,2724,Gean nei thússide,2725,epiphany,po/fy.po
+Reload current page,2729,Aktive side ferfarskje,2730,epiphany,po/fy.po
+Tabs,2756,Ljepblêden,2757,epiphany,po/fy.po
+New tab,2761,Nij ljepblêd,2762,epiphany,po/fy.po
+Close current tab,2766,Aktyf ljeblêd slute,2767,epiphany,po/fy.po
+Reopen closed tab,2771,Sluten ljeblêden wer iepenje,2772,epiphany,po/fy.po
+Go to the next tab,2776,Gean nei folgjend ljepblêd,2777,epiphany,po/fy.po
+Go to the previous tab,2781,Gean nei foarich ljepblêd,2782,epiphany,po/fy.po
+Duplicate current tab,2796,Aktive ljepblêd duplisearre,2797,epiphany,po/fy.po
+History,2806,Skiednis,2807,epiphany,po/fy.po
+Preferences,2811,Foarkarren,2812,epiphany,po/fy.po
+Import bookmarks,2821,Blêdwiizers ymportearje,2822,epiphany,po/fy.po
+Export bookmarks,2826,Blêdwiizers eksportearje,2827,epiphany,po/fy.po
+Web application,2836,Webapplikaasje,2837,epiphany,po/fy.po
+Install site as web application,2841,Ynstallear side as webapplikaasje,2842,epiphany,po/fy.po
+Open web application manager,2846,Webapplikaasjebehear Iepenje,2847,epiphany,po/fy.po
+View,2851,Oersjoch,2852,epiphany,po/fy.po
+Zoom in,2856,Ynzoome,2857,epiphany,po/fy.po
+Zoom out,2861,Útzoome,2862,epiphany,po/fy.po
+Fullscreen,2871,Folslein skerm,2872,epiphany,po/fy.po
+View page source,2876,Boarne fan side besjen,2877,epiphany,po/fy.po
+Editing,2891,Oan it oanpassen,2892,epiphany,po/fy.po
+Cut,2896,Knippe,2897,epiphany,po/fy.po
+Copy,2901,Kopiearje,2902,epiphany,po/fy.po
+Paste,2906,Plakke,2907,epiphany,po/fy.po
+Undo,2911,Ûngedien meitsje,2912,epiphany,po/fy.po
+Redo,2916,Opnij útfiere,2917,epiphany,po/fy.po
+Select all,2921,Alles Selektearje,2922,epiphany,po/fy.po
+Select page URL,2926,Side URL selektearje,2927,epiphany,po/fy.po
+Search with default search engine,2931,Sykje mei standert sykmasine,2932,epiphany,po/fy.po
+Synced Tabs,2950,Syngronisearre Ljepblêden,2951,epiphany,po/fy.po
+Add new URL,2977,Nije URL tafoegje,2978,epiphany,po/fy.po
+Remove the selected URLs,2981,Selektearre URLs fuortsmite,2982,epiphany,po/fy.po
+Extensions,2990,Útwreidingen,2991,epiphany,po/fy.po
+No Extensions Installed,2998,Gjin Útwreidingen Ynstallearre,2999,epiphany,po/fy.po
+Add some extensions to display them here.,3002,Foegje útwreidingen ta om se hjir sjen te litten.,3003,epiphany,po/fy.po
+Search the web for “%s”,3007,Sykje op it web op “%s”,3008,epiphany,po/fy.po
+Load “%s”,3012,Oan it laden fan “%s”,3013,epiphany,po/fy.po
+Local Tabs,3016,Lokale Ljepblêden,3017,epiphany,po/fy.po
+GVDB File,3020,GVDB Triem,3021,epiphany,po/fy.po
+HTML File,3024,HTML Triem,3025,epiphany,po/fy.po
+I_mport,3047,Y_mportearre,3048,epiphany,po/fy.po
+Select Profile,3051,Profyl Selektearje,3052,epiphany,po/fy.po
+_Select,3055,_Selektearre,3056,epiphany,po/fy.po
+Choose File,3060,Triem útsykje,3061,epiphany,po/fy.po
+Import Bookmarks,3070,Blêdwiizers Ymportearje,3071,epiphany,po/fy.po
+From:,3074,Fan:,3075,epiphany,po/fy.po
+Import Passwords,3091,Wachtwurden Ymportearre,3092,epiphany,po/fy.po
+"A simple, clean, beautiful view of the web.\nPowered by WebKitGTK %d.%d.%d",3096,"In maklik, oersichtlik, kreas oersjoch fan it web.\nMooglik makke troch WebKitGTK %d.%d.%d",3099,epiphany,po/fy.po
+Website,3104,Webside,3105,epiphany,po/fy.po
+Do you want to reload this website?,3112,Wolle jo dizze webside ferfarskje?,3113,epiphany,po/fy.po
+A web application named “%s” already exists. Do you want to replace it?,3117,In webapplikaasje mei de namme “%s” bestiet al. Wolle jo disse ferfange?,3118,epiphany,po/fy.po
+Cancel,3122,Ôfbrekke,3123,epiphany,po/fy.po
+Replace,3126,Ferfange,3127,epiphany,po/fy.po
+An application with the same name already exists. Replacing it will overwrite it.,3130,In applikaasje mei deselde namme bestiet al. It sil mei it ferfangen oerskreaun wurde.,3133,epiphany,po/fy.po
+The application “%s” is ready to be used,3139,De applikaasje “%s” is klear om brûkt te wurden,3140,epiphany,po/fy.po
+The application “%s” could not be created,3144,De applikaasje “%s” koe net oanmakke wurde,3145,epiphany,po/fy.po
+Launch,3149,Útfiere,3150,epiphany,po/fy.po
+Create Web Application,3154,Webapplikaasje Oanmeitsje,3155,epiphany,po/fy.po
+Save,3162,Bewarje,3163,epiphany,po/fy.po
+File is not a valid .desktop file,25,Triem is gjin deugdlike .desktop-triem,26,file-roller,po/fy.po
+Unrecognized desktop file Version '%s',30,Net weromkende fersje '%s' fan desktop-triem,31,file-roller,po/fy.po
+Starting %s,35,Uteinsette fan %s,36,file-roller,po/fy.po
+Unrecognized launch option: %d,45,Net weromkende opstartopsje: %d,46,file-roller,po/fy.po
+Can't pass documents to this desktop element,50,Kin gjin dokuminten nei dit buroblêdelement trochjaan,51,file-roller,po/fy.po
+Not a launchable item,55,Gjin útein te setten item,56,file-roller,po/fy.po
+Disable connection to session manager,59,Skeakelje ferbining mei sesjebehearder út,60,file-roller,po/fy.po
+Specify file containing saved configuration,63,Spesifisear triem mei bewarre konfiguraasje,64,file-roller,po/fy.po
+FILE,67,TRIEM,68,file-roller,po/fy.po
+Specify session management ID,71,Tsjut sesjebehear-ID oan,72,file-roller,po/fy.po
+Session management options:,79,Sesjebehearkarren:,80,file-roller,po/fy.po
+Show session management options,83,Lit sesjebehearkarren sjen,84,file-roller,po/fy.po
+Archive Manager,88,Triemûnthâldbehear,89,file-roller,po/fy.po
+Create and modify an archive,92,Foarmje in triemûnthâld,93,file-roller,po/fy.po
+Load Options,96,Ynlaadmooglikheden,97,file-roller,po/fy.po
+C_reate,100,Oanm_eitsje,101,file-roller,po/fy.po
+Compress,104,Komprimearje,105,file-roller,po/fy.po
+Location,108,Lokaasje,109,file-roller,po/fy.po
+_Filename:,127,Triemnamme:,128,file-roller,po/fy.po
+_Location:,132,_Lokaasje:,133,file-roller,po/fy.po
+_Other Options,136,_Oare Opsjes,137,file-roller,po/fy.po
+_Password:,141,_Wachtwurd,142,file-roller,po/fy.po
+Delete,149,Wiskje,150,file-roller,po/fy.po
+_All files,153,_Alle triemmen,154,file-roller,po/fy.po
+_Files:,157,_Triemmen,158,file-roller,po/fy.po
+_Selected files,161,_Keazen triemmen,162,file-roller,po/fy.po
+example: *.txt; *.doc,165,foarbyld: *.txt; *.doc,166,file-roller,po/fy.po
+A_vailable application:,169,B_eskikbere tapassing,170,file-roller,po/fy.po
+Open Files,173,Triemmen iepenje,174,file-roller,po/fy.po
+R_ecent applications:,177,N_ijere tapassingen:,178,file-roller,po/fy.po
+_Application:,181,_Tapassing:,182,file-roller,po/fy.po
+"<i><b>Note:</b> the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.</i>",185,"<i><b>Opmerking:</b> it wachtwurd sil brûkt wurde om triemmen te fersiferjen dy't jo bewarje yn it archyf en om dyselde fersifering fan triemmen te iepenjen út it archyf wei. As jo it archyf slute, sil it wachtwurd ferneatige wurde.</i>",189,file-roller,po/fy.po
+Password,196,Wachtwurd,197,file-roller,po/fy.po
+Extract Here,220,Hjirhinne ûtpakke,221,file-roller,po/fy.po
+Extract the selected archive to the current position,225,It selekteare argyf nei de warbere posysje útpakke,226,file-roller,po/fy.po
+Extract To...,229,Ûtpakke Nei ...,230,file-roller,po/fy.po
+Extract the selected archive,233,It selekteare argyf útpakke,234,file-roller,po/fy.po
+Could not create the archive,248,Der koe gjin archyf oanmakke wurde,249,file-roller,po/fy.po
+You have to specify an archive name.,252,Jo moatte de namme fan it archyf jaan.,253,file-roller,po/fy.po
+You don't have permission to create an archive in this folder,256,Jo hawwe gjin tastimming om in archyf yn dizze triemtafel te meitsjen,257,file-roller,po/fy.po
+Archive type not supported.,262,Archyftype wurdt net stipe.,263,file-roller,po/fy.po
+Could not delete the old archive.,266,It âlde archyf koe net wiske wurde.,267,file-roller,po/fy.po
+Open,270,Iepenje,271,file-roller,po/fy.po
+All archives,274,Alle archyfen,275,file-roller,po/fy.po
+All files,278,Alle triemmen,279,file-roller,po/fy.po
+Last Output,282,Lêste útfier,283,file-roller,po/fy.po
+"Copyright © 2001–2010 Free Software Foundation, Inc.",309,"Auteursrjocht © 2001–2010 Free Software Foundation, Inc.",310,file-roller,po/fy.po
+An archive manager for GNOME.,313,In archyfbehearder foar GNOME,314,file-roller,po/fy.po
+Could not add the files to the archive,324,De triemmen koenen net oan it archyf taheakke wurde.,325,file-roller,po/fy.po
+"You don't have the right permissions to read files from folder \""%s\""",329,"Jo hawwe gjin tastimming triemmen út triemtafel \""%s\"" te lêzen.",330,file-roller,po/fy.po
+Add Files,333,Triemmen taheakje,334,file-roller,po/fy.po
+Add a Folder,343,In triemtafel taheakje,344,file-roller,po/fy.po
+_Include subfolders,347,_ ûndertriemtafels ynslûte,348,file-roller,po/fy.po
+Exclude folders that are symbolic lin_ks,351,"Triemtafels, dy't symbolyske skea_kels binne, útsûnderje",352,file-roller,po/fy.po
+example: *.o; *.bak,356,foarbyld: *.o; *.bak,357,file-roller,po/fy.po
+E_xclude files:,364,Utsûndere triemmen:,365,file-roller,po/fy.po
+_Load Options,372,_Opsjes lade,373,file-roller,po/fy.po
+Sa_ve Options,376,Opsjes be_warje,377,file-roller,po/fy.po
+Save Options,384,Opsjes bewarje,385,file-roller,po/fy.po
+Options Name:,388,Opsjenammen:,389,file-roller,po/fy.po
+"The name \""%s\"" is not valid because it cannot contain the characters: %s\n\n%s",399,"De namme \""%s\"" is net tastien om't er net de folgjende tekens hawwe mei: %s\n\n\n\n%s",403,file-roller,po/fy.po
+Please use a different name.,413,Graach in oare namme brûke.,414,file-roller,po/fy.po
+You don't have the right permissions to create an archive in the destination folder.,417,Jo hawwe net de krekte tastimming om in triemûnthâld yn de doeltriemtafel te meitsjen.,420,file-roller,po/fy.po
+"Destination folder \""%s\"" does not exist.\n\nDo you want to create it?",426,"Doeltriemtafel \""%s\"" bestiet net.\n\nWolle jo it oanmeitjse?",430,file-roller,po/fy.po
+Create _Folder,436,Meitsje _Triemtafel,437,file-roller,po/fy.po
+Could not create the destination folder: %s.,441,"Doeltriemtafel, %s, koe net makke wurde.",442,file-roller,po/fy.po
+Archive not created,445,Archyf net makke,446,file-roller,po/fy.po
+The archive is already present.  Do you want to overwrite it?,449,It archyf bestiet al. Wolle jo der oerhinne skriuwe?,450,file-roller,po/fy.po
+_Overwrite,453,_Der oerhinne skriuwe,454,file-roller,po/fy.po
+Extraction not performed,458,Ûtpakken hat gjin stal krigen,459,file-roller,po/fy.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",463,"Jo hawwe net de krekte tastimming triemûnthâlden nei triemtafel \""%s\"" ta te ûntsiferjen",465,file-roller,po/fy.po
+Extract,470,Ûtpakke,471,file-roller,po/fy.po
+Actions,474,Aksjes,475,file-roller,po/fy.po
+Over_write existing files,482,Oer_ besteande triemmen hinne skriuwe,483,file-roller,po/fy.po
+Do not e_xtract older files,486,Gjin âldere triemmen ûtpakke,487,file-roller,po/fy.po
+New,491,Nij,492,file-roller,po/fy.po
+Save,496,Bewarje,497,file-roller,po/fy.po
+Location:,520,Lokaasje:,521,file-roller,po/fy.po
+Name:,525,Namme:,526,file-roller,po/fy.po
+%s Properties,530,%s eigenskippen,531,file-roller,po/fy.po
+Modified on:,534,Oanpast op:,535,file-roller,po/fy.po
+Archive size:,538,Archyfgrutte:,539,file-roller,po/fy.po
+Content size:,542,Ynhâldsgrutte,543,file-roller,po/fy.po
+Number of files:,550,Oantal triemmen:,551,file-roller,po/fy.po
+All Files,569,Alle Triemen,570,file-roller,po/fy.po
+By Extension,577,Op Taheaksel,578,file-roller,po/fy.po
+Extension(s),585,Taheaksel(s),586,file-roller,po/fy.po
+Adding file: ,624,It taheakjen fan triem: ,625,file-roller,po/fy.po
+Extracting file: ,630,It ûntsiferjen fan triem: ,631,file-roller,po/fy.po
+Removing file: ,635,It wiskjen fan triem: ,636,file-roller,po/fy.po
+Deleting files from archive,644,It wiskjen fan triemmen út it triemûnthâld,645,file-roller,po/fy.po
+_Add,656,_Taheakje,657,file-roller,po/fy.po
+_Extract,660,Ûtpakk_e,661,file-roller,po/fy.po
+%d object (%s),665,%d objekt (%s),667,file-roller,po/fy.po
+%d object (%s),665,%d objekten (%s),668,file-roller,po/fy.po
+%d object selected (%s),672,%d objekt selekteare (%s),674,file-roller,po/fy.po
+%d object selected (%s),672,%d objekt selekteare (%s),675,file-roller,po/fy.po
+Folder,678,Map,679,file-roller,po/fy.po
+Archive:,735,Argyf:,736,file-roller,po/fy.po
+"Could not open \""%s\""",756,"Koe \""%s\"" net openje",757,file-roller,po/fy.po
+Create _Archive,811,_Archyf Meitsje,812,file-roller,po/fy.po
+Folders,815,Mappen,816,file-roller,po/fy.po
+Size,820,Grutte,821,file-roller,po/fy.po
+Date Modified,830,Datum Oanpast:,831,file-roller,po/fy.po
+Location,835,Lokaasje,836,file-roller,po/fy.po
+Name,840,Namme,841,file-roller,po/fy.po
+Find:,844,Fine:,845,file-roller,po/fy.po
+Open archive,853,Argyf openje,854,file-roller,po/fy.po
+Destination folder,920,Doeltriemtafel,921,file-roller,po/fy.po
+Command _Line Output,940,Kommando _Rigelútfier,941,file-roller,po/fy.po
+Lha (.lzh),1004,Jar (.jar),1005,file-roller,po/fy.po
+ARCHIVE,1064,ARGYF,1065,file-roller,po/fy.po
+FOLDER,1076,MAP,1077,file-roller,po/fy.po
+_Archive,1106,_Argivearje,1107,file-roller,po/fy.po
+_Edit,1110,B_ewurkje,1111,file-roller,po/fy.po
+_View,1114,_Sjen litte,1115,file-roller,po/fy.po
+Open _Recent,1127,Openje _Resint,1128,file-roller,po/fy.po
+Contents,1159,Ynhâld,1160,file-roller,po/fy.po
+_Extract...,1199,Útpakke...,1200,file-roller,po/fy.po
+Find...,1207,Fine...,1208,file-roller,po/fy.po
+New...,1220,Nij...,1221,file-roller,po/fy.po
+Open...,1229,Iepenje,1230,file-roller,po/fy.po
+_Open With...,1233,_Openje Mei...,1234,file-roller,po/fy.po
+Pass_word...,1241,_Wachtwurd...,1242,file-roller,po/fy.po
+Save As...,1258,Bewarje As...,1259,file-roller,po/fy.po
+Select all files,1266,Selektearje alle triemen,1267,file-roller,po/fy.po
+_Toolbar,1307,Arkbalke,1308,file-roller,po/fy.po
+Stat_usbar,1315,Tastânsbalke,1316,file-roller,po/fy.po
+_Folders,1331,Mappen,1332,file-roller,po/fy.po
+View All _Files,1339,Lit Alle Triemen Sjen,1340,file-roller,po/fy.po
+View as a F_older,1343,Lit Sjen As Map,1344,file-roller,po/fy.po
+by _Name,1347,op _Namme,1348,file-roller,po/fy.po
+by _Size,1355,op Grutte,1356,file-roller,po/fy.po
+by T_ype,1363,op T_ype,1364,file-roller,po/fy.po
+by _Location,1380,op _Lokaasje,1381,file-roller,po/fy.po
+"could not find user \""%s\"" on system",52,"Koe brûker \""%s\"" net fine op systeem",53,gdm,po/fy.po
+Username,127,Brûkersnamme,128,gdm,po/fy.po
+The username,131,De brûkersnamme,132,gdm,po/fy.po
+Hostname,135,Kompjûternamme,136,gdm,po/fy.po
+The hostname,139,De kompjûternamme,140,gdm,po/fy.po
+Display Device,143,Skermapparaat,144,gdm,po/fy.po
+The display device,147,It skermapparaat,148,gdm,po/fy.po
+Username:,164,Brûkersnamme:,165,gdm,po/fy.po
+no user account available,173,gjin brûkersakkount beskikber,174,gdm,po/fy.po
+Unable to change to user,177,Koe brûker net oanpasse,178,gdm,po/fy.po
+Could not create socket!,186,Koe hâlder net meitsje,187,gdm,po/fy.po
+Cannot write PID file %s: possibly out of disk space: %s,204,Kin PID-triem %s net skriuwe: mooglik gjin skiifromte meer: %s,205,gdm,po/fy.po
+Can't find the GDM user '%s'. Aborting!,219,Kin GDM-brûker '%s' net fine. Ôfbrekke!,220,gdm,po/fy.po
+Can't find the GDM group '%s'. Aborting!,228,Kin GDM-groep '%s' net fine. Ôfbrekke!,229,gdm,po/fy.po
+Make all warnings fatal,236,Meitsje alle warskôgingen fataal,237,gdm,po/fy.po
+Print GDM version,244,Jouw GDM-ferzje,245,gdm,po/fy.po
+GNOME Display Manager,248,GNOME Skermbehearder,249,gdm,po/fy.po
+Only the root user can run GDM,253,Allinich de systeemberêder kin GDM útfiere,254,gdm,po/fy.po
+GNOME Display Manager Session Worker,259,GNOME Skermbehearder Sesjearbeider,260,gdm,po/fy.po
+Select System,367,Selektearje Systeem,368,gdm,po/fy.po
+XDMCP: Could not create XDMCP buffer!,371,XDMCP: Koe lyts XDMCP-ûnthâld net meitsje,372,gdm,po/fy.po
+XDMCP: Could not read XDMCP header!,375,XDMCP: Koe XDMCP-koptekst net lêze!,376,gdm,po/fy.po
+Calendar,29,Kalinder,30,gnome-calendar,po/fy.po
+Calendar for GNOME,33,Kalinder foar GNOME,34,gnome-calendar,po/fy.po
+"GNOME Calendar is a simple and beautiful calendar application designed to perfectly fit the GNOME desktop. By reusing the components which the GNOME desktop is built on, Calendar nicely integrates with the GNOME ecosystem.",37,"GNOME Kalinder is in ienfâldige en moaie kalinderapplikaasje, ûntwurpen om perfekt by de GNOME-desktop te passen. Troch de komponinten wêr't de GNOME-desktop út bestiet wer opnij te brûken, kin Calendar goed yntegrearje yn it GNOME-ekosysteem.",41,gnome-calendar,po/fy.po
+"We aim to find the perfect balance between nicely crafted features and user-centred usability. No excess, nothing missing. You’ll feel comfortable using Calendar, like you’ve been using it for ages!",48,"Wy probearje de balâns te finen tusken goed gearstalde funksjes en brûkberheid foar de einbrûker. Net te folle, mar ek net te min. Jo kinne Kalinder komfortabel brûke, it is krekt as brûke jo it al jierren!",52,gnome-calendar,po/fy.po
+Week view,58,Wike-oersjoch,59,gnome-calendar,po/fy.po
+Year view,62,Jieroersjoch,63,gnome-calendar,po/fy.po
+Access and manage your calendars,66,Krij tagong ta en besjoch jo kalinders,67,gnome-calendar,po/fy.po
+Calendar;Event;Reminder;,71,Kalinder;Evenemint;Oantinkens;,72,gnome-calendar,po/fy.po
+Window maximized,75,Finster maksimalisearre,76,gnome-calendar,po/fy.po
+Window maximized state,79,Finster maksimalisearsteat,80,gnome-calendar,po/fy.po
+Window size,83,Finstergrutte,84,gnome-calendar,po/fy.po
+Window size (width and height).,87,Finstergrutte (breedte en hichte).,88,gnome-calendar,po/fy.po
+Window position,91,Finsterposysje,92,gnome-calendar,po/fy.po
+Window position (x and y).,95,Finsterposysje (x en y).,96,gnome-calendar,po/fy.po
+Type of the active view,99,It soarte aktive oersjoch,100,gnome-calendar,po/fy.po
+"Type of the active window view, default value is: monthly view",103,"It soarte aktive finsteroersjoch, de standertwearde is: moanliks oersjoch",104,gnome-calendar,po/fy.po
+Weather Service Configuration,108,Waartsjinstynstellingen,109,gnome-calendar,po/fy.po
+"Whether weather reports are shown, automatic locations are used and a location-name",112,"Oft waarberjochten toand wurde, der wurde automatyske lokaasjes brûkt, tegearre mei in lokaasjenamme",115,gnome-calendar,po/fy.po
+Follow system night light,120,Nachtlampe fan systeem brûke,121,gnome-calendar,po/fy.po
+Use GNOME night light setting to activate night-mode.,124,Brûk de GNOME-nachtlampeynstellingen om de nachtmoadus te aktivearjen.,125,gnome-calendar,po/fy.po
+Calendar Settings,151,Kalinderynstellingen,152,gnome-calendar,po/fy.po
+Manage Calendars,155,Kalinders beheare,156,gnome-calendar,po/fy.po
+Calendar <b>%s</b> removed,161,Kalinder <b>%s</b> fuortsmiten,162,gnome-calendar,po/fy.po
+Undo,166,Ungedien meitsje,167,gnome-calendar,po/fy.po
+Add Calendar…,170,Kalinder tafoegje,171,gnome-calendar,po/fy.po
+Settings,178,Ynstellingen,179,gnome-calendar,po/fy.po
+Location,185,Lokaasje,186,gnome-calendar,po/fy.po
+Calendar name,189,Kalindernamme,190,gnome-calendar,po/fy.po
+Color,194,Kleur,195,gnome-calendar,po/fy.po
+Display calendar,198,Kalinder toane,199,gnome-calendar,po/fy.po
+Add new events to this calendar by default,202,Foegje standert nije eveneminten oan dizze kalinder ta,203,gnome-calendar,po/fy.po
+Remove Calendar,206,Kalinder fuortsmite,207,gnome-calendar,po/fy.po
+New Calendar,210,Nije kalinder,211,gnome-calendar,po/fy.po
+Calendar files,214,Kalinderbestannen,215,gnome-calendar,po/fy.po
+Calendar Name,219,Kalindernamme,220,gnome-calendar,po/fy.po
+Import a Calendar,223,In Kalinder ymportearje,224,gnome-calendar,po/fy.po
+"Alternatively, enter the web address of an online calendar you want to import, or open a supported calendar file.",227,"Jo kinne ek noch it webadres fan de online kalinder dy't jo ymportearje wolle tafoegje, of in stipe kalinderbestân iepenje.",230,gnome-calendar,po/fy.po
+Open a File,235,Iepenje in bestân,236,gnome-calendar,po/fy.po
+Calendars,239,Kalinders,240,gnome-calendar,po/fy.po
+"If the calendar belongs to one of your online accounts, you can add it through the <a href=\""GOA\"">online account settings</a>.",243,"As de kalinders by ien fan jo online accounts heart, kinne jo it yn de <a href=\""GOA\"">online accountynstellingen</a> tafoegje.",246,gnome-calendar,po/fy.po
+User,251,Brûker,252,gnome-calendar,po/fy.po
+Password,255,Wachtwurd,256,gnome-calendar,po/fy.po
+Cancel,261,Annulearje,262,gnome-calendar,po/fy.po
+Connect,265,Ferbine,266,gnome-calendar,po/fy.po
+Add,270,Tafoegje,271,gnome-calendar,po/fy.po
+"%1$u day, %2$u hour, and %3$u minute before",275,"%1$u dei, %2$u oere, en %3$u minút fan te foaren",277,gnome-calendar,po/fy.po
+"%1$u day, %2$u hour, and %3$u minute before",275,"%1$u dei, %2$u oere, en %3$u minuten fan te foaren",278,gnome-calendar,po/fy.po
+"%1$u day, %2$u hours, and %3$u minute before",282,"%1$u dei, %2$u oeren, en %3$u minút fan te foaren",284,gnome-calendar,po/fy.po
+"%1$u day, %2$u hours, and %3$u minute before",282,"%1$u dei, %2$u oeren, en %3$u minuten fan te foaren",285,gnome-calendar,po/fy.po
+"%1$u days, %2$u hour, and %3$u minute before",289,"%1$u dagen, %2$u oeren, en %3$u minút fan te foaren",291,gnome-calendar,po/fy.po
+"%1$u days, %2$u hour, and %3$u minute before",289,"%1$u dagen, %2$u oeren, en %3$u minuten fan te foaren",292,gnome-calendar,po/fy.po
+"%1$u days, %2$u hours, and %3$u minute before",296,"%1$u dagen, %2$u oeren, en %3$u minút fan te foaren",298,gnome-calendar,po/fy.po
+"%1$u days, %2$u hours, and %3$u minute before",296,"%1$u dagen, %2$u oeren, en %3$u minuten fan te foaren",299,gnome-calendar,po/fy.po
+%1$u day and %2$u hour before,303,%1$u dei en %2$u oere fan te foaren,305,gnome-calendar,po/fy.po
+%1$u day and %2$u hour before,303,%1$u dei en %2$u oeren fan te foaren,306,gnome-calendar,po/fy.po
+%1$u days and %2$u hour before,310,%1$u dagen en %2$u oere fan te foaren,312,gnome-calendar,po/fy.po
+%1$u days and %2$u hour before,310,%1$u dagen en %2$u oeren fan te foaren,313,gnome-calendar,po/fy.po
+%1$u day and %2$u minute before,317,%1$u dei en %2$u minút fan te foaren,319,gnome-calendar,po/fy.po
+%1$u day and %2$u minute before,317,%1$u dei en %2$u minuten fan te foaren,320,gnome-calendar,po/fy.po
+%1$u days and %2$u minute before,324,%1$u dagen en %2$u minút fan te foaren,326,gnome-calendar,po/fy.po
+%1$u days and %2$u minute before,324,%1$u dagen en %2$u minuten fan te foaren,327,gnome-calendar,po/fy.po
+%1$u day before,331,%1$u dei fan te foaren,333,gnome-calendar,po/fy.po
+%1$u day before,331,%1$u dagen fan te foaren,334,gnome-calendar,po/fy.po
+%1$u hour and %2$u minute before,338,%1$u oere en %2$u minút fan te foaren,340,gnome-calendar,po/fy.po
+%1$u hour and %2$u minute before,338,%1$u oere en %2$u minuten fan te foaren,341,gnome-calendar,po/fy.po
+%1$u hours and %2$u minute before,345,%1$u oeren en %2$u minút fan te foaren,347,gnome-calendar,po/fy.po
+%1$u hours and %2$u minute before,345,%1$u oeren en %2$u minuten fan te foaren,348,gnome-calendar,po/fy.po
+%1$u hour before,352,%1$u oere fan te foaren,354,gnome-calendar,po/fy.po
+%1$u hour before,352,%1$u oeren fan te foaren,355,gnome-calendar,po/fy.po
+%1$u minute before,359,%1$u minút fan te foaren,361,gnome-calendar,po/fy.po
+%1$u minute before,359,%1$u minuten fan te foaren,362,gnome-calendar,po/fy.po
+Event start time,365,Begjintiid evenemint,366,gnome-calendar,po/fy.po
+Toggles the sound of the alarm,369,Set it alarmlûd oan of út,370,gnome-calendar,po/fy.po
+Remove the alarm,373,Alarm fuortsmite,374,gnome-calendar,po/fy.po
+Save,377,Bewarje,378,gnome-calendar,po/fy.po
+Done,382,Klear,383,gnome-calendar,po/fy.po
+Click to select the calendar,386,Klik om de kalinder te selektearjen,387,gnome-calendar,po/fy.po
+Schedule,390,Skema,391,gnome-calendar,po/fy.po
+Reminders,394,Oantinkens,395,gnome-calendar,po/fy.po
+Notes,398,Notysjes,399,gnome-calendar,po/fy.po
+Delete Event,402,Evenemint fuortsmite,403,gnome-calendar,po/fy.po
+Add a Reminder…,406,Oantinken tafoegje…,407,gnome-calendar,po/fy.po
+5 minutes,410,5 minuten,411,gnome-calendar,po/fy.po
+10 minutes,414,10 minuten,415,gnome-calendar,po/fy.po
+15 minutes,418,15 minuten,419,gnome-calendar,po/fy.po
+30 minutes,422,30 minuten,423,gnome-calendar,po/fy.po
+1 hour,426,1 oere,427,gnome-calendar,po/fy.po
+1 day,430,1 dei,431,gnome-calendar,po/fy.po
+2 days,434,2 dagen,435,gnome-calendar,po/fy.po
+3 days,438,3 dagen,439,gnome-calendar,po/fy.po
+1 week,442,1 wike,443,gnome-calendar,po/fy.po
+Last %A,448,Lêste %A,449,gnome-calendar,po/fy.po
+Yesterday,453,Juster,454,gnome-calendar,po/fy.po
+Today,460,Hjoed,461,gnome-calendar,po/fy.po
+Tomorrow,465,Moarn,466,gnome-calendar,po/fy.po
+This %A,471,Dizze %A,472,gnome-calendar,po/fy.po
+All Day,484,Folsleine dei,485,gnome-calendar,po/fy.po
+Starts,489,Begjint,490,gnome-calendar,po/fy.po
+Ends,494,Einiget op,495,gnome-calendar,po/fy.po
+Repeat,498,Werhelje,499,gnome-calendar,po/fy.po
+No Repeat,502,Net werhelje,503,gnome-calendar,po/fy.po
+Daily,506,Deistich,507,gnome-calendar,po/fy.po
+Monday – Friday,510,Moandei – Freed ,511,gnome-calendar,po/fy.po
+Weekly,514,Wykliks,515,gnome-calendar,po/fy.po
+Monthly,518,Moanliks,519,gnome-calendar,po/fy.po
+Yearly,522,Jierliks,523,gnome-calendar,po/fy.po
+End Repeat,526,Werhelling beëinigje,527,gnome-calendar,po/fy.po
+Forever,530,Ivich ,531,gnome-calendar,po/fy.po
+No. of occurrences,534,Oantal kearen,535,gnome-calendar,po/fy.po
+Until Date,538,Oant datum,539,gnome-calendar,po/fy.po
+Number of Occurrences,542,Fêst oantal kearen,543,gnome-calendar,po/fy.po
+End Repeat Date,546,Eindatum fan werhelling,547,gnome-calendar,po/fy.po
+Unnamed event,551,Nammeleas evenemint,552,gnome-calendar,po/fy.po
+Title,556,Titel,557,gnome-calendar,po/fy.po
+Quit GNOME Calendar,574,GNOME Kalinder ferlitte,575,gnome-calendar,po/fy.po
+Display version number,578,Ferzjenûmer toane,579,gnome-calendar,po/fy.po
+Enable debug messages,582,Debug-berjochten ynskeakelje,583,gnome-calendar,po/fy.po
+Open calendar on the passed date,586,Kalinder op de passearre datum iepenje,587,gnome-calendar,po/fy.po
+Open calendar showing the passed event,590,De kalinder iepenje en it passearre evenemint toane,591,gnome-calendar,po/fy.po
+Copyright © 2012–%d The Calendar authors,595,Copyright © 2012–%d De kalinderûntwikkelers,596,gnome-calendar,po/fy.po
+_Synchronize Calendars,603,_Kalinders syngronisearje,604,gnome-calendar,po/fy.po
+Manage Calendars…,607,Kalinders beheare…,608,gnome-calendar,po/fy.po
+Synchronizing remote calendars…,612,Syngronisearje mei de kalinders op ôfstân…,613,gnome-calendar,po/fy.po
+January,616,Jannewaris,617,gnome-calendar,po/fy.po
+February,620,Febrewaris,621,gnome-calendar,po/fy.po
+March,624,Maart,625,gnome-calendar,po/fy.po
+May,632,Maaie,633,gnome-calendar,po/fy.po
+June,636,Juny,637,gnome-calendar,po/fy.po
+August,644,Augustus,645,gnome-calendar,po/fy.po
+September,648,Septimber,649,gnome-calendar,po/fy.po
+October,652,Oktober,653,gnome-calendar,po/fy.po
+November,656,Novimber,657,gnome-calendar,po/fy.po
+December,660,Desimber,661,gnome-calendar,po/fy.po
+Today %s,665,Hjoed %s,666,gnome-calendar,po/fy.po
+Tomorrow %s,670,Moarn %s,671,gnome-calendar,po/fy.po
+Yesterday %s,675,Juster %s,676,gnome-calendar,po/fy.po
+"%1$s %2$d, %3$s",685,"%2$d %1$s, %3$s",686,gnome-calendar,po/fy.po
+"%1$s %2$d, %3$d, %4$s",695,"%2$d %1$s, %3$d, %4$s",696,gnome-calendar,po/fy.po
+%1$s %2$d,705,%2$d %1$s,706,gnome-calendar,po/fy.po
+"%1$s %2$d, %3$d",715,"%2$d %1$s, %3$d",716,gnome-calendar,po/fy.po
+"Today, %1$s — %2$s",724,"Hjoed, %1$s — %2$s",725,gnome-calendar,po/fy.po
+"Tomorrow, %1$s – %2$s",733,"Moarn, %1$s – %2$s",734,gnome-calendar,po/fy.po
+"Yesterday, %1$s – %2$s",742,"Juster, %1$s – %2$s",743,gnome-calendar,po/fy.po
+"%1$s %2$d, %3$s – %4$s",752,"%2$d %1$s, %3$s – %4$s",753,gnome-calendar,po/fy.po
+"%1$s %2$d, %3$d, %4$s – %5$s",764,"%2$d %1$s, %3$d, %4$s – %5$s",765,gnome-calendar,po/fy.po
+No event information,768,Gjin ynformaasje oer evenemint,769,gnome-calendar,po/fy.po
+Edit…,772,Wizigje…,773,gnome-calendar,po/fy.po
+At %s,778,Te %s,779,gnome-calendar,po/fy.po
+Whereby,790,Wêrby,791,gnome-calendar,po/fy.po
+Unknown Service,798,Unbekende tsjinst,799,gnome-calendar,po/fy.po
+Join,803,Meidwaan,804,gnome-calendar,po/fy.po
+%s (this calendar is read-only),808,%s (dizze kalinder is allinnich-lêze),809,gnome-calendar,po/fy.po
+from next Monday,812,fan oankommende moandei ôf,813,gnome-calendar,po/fy.po
+from next Tuesday,816,fan oankommende tiisdei ôf,817,gnome-calendar,po/fy.po
+from next Wednesday,820,fan oankommende woansdei ôf,821,gnome-calendar,po/fy.po
+from next Thursday,824,fan oankommende tongersdei ôf,825,gnome-calendar,po/fy.po
+from next Friday,828,fan oankommende freed ôf,829,gnome-calendar,po/fy.po
+from next Saturday,832,fan oankommende sneon ôf,833,gnome-calendar,po/fy.po
+from next Sunday,836,fan oankommende snein ôf,837,gnome-calendar,po/fy.po
+to next Monday,840,oant oankommende moandei,841,gnome-calendar,po/fy.po
+to next Tuesday,844,oant oankommende tiisdei,845,gnome-calendar,po/fy.po
+to next Wednesday,848,oant oankommende woansdei,849,gnome-calendar,po/fy.po
+to next Thursday,852,oant oankommende tongersdei,853,gnome-calendar,po/fy.po
+to next Friday,856,oant oankommende freed,857,gnome-calendar,po/fy.po
+to next Saturday,860,oant oankommende sneon,861,gnome-calendar,po/fy.po
+to next Sunday,864,oant oankommende snein,865,gnome-calendar,po/fy.po
+from Today,869,fan hjoed ôf,870,gnome-calendar,po/fy.po
+from Tomorrow,874,fan moarn ôf,875,gnome-calendar,po/fy.po
+from Yesterday,879,fan juster ôf,880,gnome-calendar,po/fy.po
+from %1$s %2$s,888,fan %1$s %2$s,889,gnome-calendar,po/fy.po
+to Today,893,oant hjoed,894,gnome-calendar,po/fy.po
+to Tomorrow,898,oant moarn,899,gnome-calendar,po/fy.po
+to Yesterday,903,Oant juster,904,gnome-calendar,po/fy.po
+to %1$s %2$s,912,oant %1$s %2$s,913,gnome-calendar,po/fy.po
+New Event %1$s %2$s,918,Nij evenemint %1$s %2$s,919,gnome-calendar,po/fy.po
+New Event Today,923,Nij evenemint hjoed,924,gnome-calendar,po/fy.po
+New Event Tomorrow,928,Nij evenemint moarn,929,gnome-calendar,po/fy.po
+New Event Yesterday,933,Nij evenemint juster,934,gnome-calendar,po/fy.po
+New Event next Monday,937,Nij evenemint oankommende moandei,938,gnome-calendar,po/fy.po
+New Event next Tuesday,941,Nij evenemint oankommende tiisdei,942,gnome-calendar,po/fy.po
+New Event next Wednesday,945,Nij evenemint oankommende woansdei,946,gnome-calendar,po/fy.po
+New Event next Thursday,949,Nij evenemint oankommende tongersdei,950,gnome-calendar,po/fy.po
+New Event next Friday,953,Nij evenemint oankommende freed,954,gnome-calendar,po/fy.po
+New Event next Saturday,957,Nij evenemint oankommende sneon,958,gnome-calendar,po/fy.po
+New Event next Sunday,961,Nij evenemint oankommende snein,962,gnome-calendar,po/fy.po
+New Event on January %d,967,Nij evenemint op %d jannewaris,968,gnome-calendar,po/fy.po
+New Event on February %d,972,Nij evenemint op %d febrewaris,973,gnome-calendar,po/fy.po
+New Event on March %d,977,Nij evenemint op %d maart,978,gnome-calendar,po/fy.po
+New Event on April %d,982,Nij evenemint op %d april,983,gnome-calendar,po/fy.po
+New Event on May %d,987,Nij evenemint op %d maaie,988,gnome-calendar,po/fy.po
+New Event on June %d,992,Nij evenemint op %d juny,993,gnome-calendar,po/fy.po
+New Event on July %d,997,Nij evenemint op %d july,998,gnome-calendar,po/fy.po
+New Event on August %d,1002,Nij evenemint op %d augustus,1003,gnome-calendar,po/fy.po
+New Event on September %d,1007,Nij evenemint op %d septimber,1008,gnome-calendar,po/fy.po
+New Event on October %d,1012,Nij evenemint op %d oktober,1013,gnome-calendar,po/fy.po
+New Event on November %d,1017,Nij evenemint op %d novimber,1018,gnome-calendar,po/fy.po
+New Event on December %d,1022,Nij evenemint op %d desimber,1023,gnome-calendar,po/fy.po
+Edit Details…,1026,Details wizigje…,1027,gnome-calendar,po/fy.po
+_Weather,1030,_It waar,1031,gnome-calendar,po/fy.po
+Show Weather,1034,It waar toane,1035,gnome-calendar,po/fy.po
+Automatic Location,1038,Automatyske lokaasje ,1039,gnome-calendar,po/fy.po
+Another event deleted,1042,In oar evenemint fuortsmiten,1043,gnome-calendar,po/fy.po
+Event deleted,1046,Evenemint fuortsmiten,1047,gnome-calendar,po/fy.po
+Week,1050,Wike,1051,gnome-calendar,po/fy.po
+Month,1054,Moanne,1055,gnome-calendar,po/fy.po
+Year,1058,Jier,1059,gnome-calendar,po/fy.po
+Add a new event,1063,In nij evenemint tafoegje,1064,gnome-calendar,po/fy.po
+Manage your calendars,1067,Jo kalinders beheare,1068,gnome-calendar,po/fy.po
+Search for events,1072,Om eveneminten sykje,1073,gnome-calendar,po/fy.po
+_Online Accounts…,1076,Online _Accounts…,1077,gnome-calendar,po/fy.po
+_Keyboard Shortcuts,1080,Toetseboerd _Koartkaaien,1081,gnome-calendar,po/fy.po
+_About Calendar,1084,_Oer Kalinder,1085,gnome-calendar,po/fy.po
+General,1089,Algemien,1090,gnome-calendar,po/fy.po
+New event,1094,Nij evenemint,1095,gnome-calendar,po/fy.po
+Close window,1099,Finster slute,1100,gnome-calendar,po/fy.po
+Search,1104,Sykje,1105,gnome-calendar,po/fy.po
+Show help,1109,Help toane,1110,gnome-calendar,po/fy.po
+Shortcuts,1114,Fluchtoetsen,1115,gnome-calendar,po/fy.po
+Navigation,1119,Navigaasje,1120,gnome-calendar,po/fy.po
+Go back,1124,Werom gean,1125,gnome-calendar,po/fy.po
+Go forward,1129,Fierder gean,1130,gnome-calendar,po/fy.po
+Show today,1134,Hjoed toane,1135,gnome-calendar,po/fy.po
+Next view,1139,It oankommende oersjoch,1140,gnome-calendar,po/fy.po
+Previous view,1144,It foarige oersjoch,1145,gnome-calendar,po/fy.po
+View,1149,Oersjoch,1150,gnome-calendar,po/fy.po
+Week view,1154,Wike-oersjoch,1155,gnome-calendar,po/fy.po
+Month view,1159,Moanne-oersjoch,1160,gnome-calendar,po/fy.po
+Year view,1164,Jieroersjoch,1165,gnome-calendar,po/fy.po
+Import %d event,1169,%d evenemint ymportearje,1171,gnome-calendar,po/fy.po
+Import %d event,1169,%d eveneminten ymportearje,1172,gnome-calendar,po/fy.po
+Import Files…,1175,Bestannen ymportearje…,1176,gnome-calendar,po/fy.po
+_Cancel,1179,_Ofbrekke,1180,gnome-calendar,po/fy.po
+_Import,1183,_Ymportearre,1184,gnome-calendar,po/fy.po
+C_alendar,1187,K_alinder,1188,gnome-calendar,po/fy.po
+No error,1191,Gjin flater,1192,gnome-calendar,po/fy.po
+Bad argument to function,1195,Ferkearde arguminten foar funksje,1196,gnome-calendar,po/fy.po
+Failed to allocate a new object in memory,1199,Koe gjin nei objekt yn ûnthâld oanmeitsje,1200,gnome-calendar,po/fy.po
+"File is malformed, invalid, or corrupted",1203,"Bestân is misfoarme, ûnjildich of korrupt",1204,gnome-calendar,po/fy.po
+Failed to parse the calendar contents,1207,Koe de ynhâld fan de kalinder net ferwurkje,1208,gnome-calendar,po/fy.po
+Failed to read file,1211,Koe bestân net lêze,1212,gnome-calendar,po/fy.po
+Internal error,1215,Ynterne flater,1216,gnome-calendar,po/fy.po
+File is not an iCalendar (.ics) file,1219,Bestân is gjin iCalendar-bestân (.ics),1220,gnome-calendar,po/fy.po
+Description,1223,Omskriuwing,1224,gnome-calendar,po/fy.po
+New Event…,1227,Nij evenemint…,1228,gnome-calendar,po/fy.po
+Other event,1240,Oar evenemint,1242,gnome-calendar,po/fy.po
+Other event,1240,Nog %d oare eveneminten,1243,gnome-calendar,po/fy.po
+week %d,1247,wike %d,1248,gnome-calendar,po/fy.po
+No events,1265,Gjin eveneminten,1266,gnome-calendar,po/fy.po
+Add Event…,1269,Evenemint oanmeitsje…,1270,gnome-calendar,po/fy.po
+The event you are trying to modify is recurring. The changes you have selected should be applied to:,1273,It evenemint dy't jo probearje te wizigjen is weromkommend. De wizigingen dy't jo selektearre hawwe soene tapast wurde moatte op:,1276,gnome-calendar,po/fy.po
+_Only This Event,1281,Allinnich _dit Evenemint,1282,gnome-calendar,po/fy.po
+_Subsequent events,1285,_Suksessyf oersjoch,1286,gnome-calendar,po/fy.po
+_All events,1289,_Alle eveneminten,1290,gnome-calendar,po/fy.po
+No Results,29,Gjin Resultaten,30,gnome-characters,po/fy.po
+Try a different search.,33,Probearje ris om wot oars te sykjen.,34,gnome-characters,po/fy.po
+Loading…,37,Lade…,38,gnome-characters,po/fy.po
+Copy Character,41,Karakters Kopiearje,42,gnome-characters,po/fy.po
+Character copied to clipboard,45,Karakters binne nei it klemboerd kopiearre,46,gnome-characters,po/fy.po
+No Recent Characters,49,Gjin Resinte Karakters,50,gnome-characters,po/fy.po
+Characters will appear here if you use them.,53,Karakters sille hjir sjen litten wurde as jo se brûke.,54,gnome-characters,po/fy.po
+_Keyboard Shortcuts,57,Toetseboerd _Koartkaaien,58,gnome-characters,po/fy.po
+_About Characters,61,_Oer Characters,62,gnome-characters,po/fy.po
+Filter by Font,70,Filterje per Lettertype,71,gnome-characters,po/fy.po
+General,75,Algemien,76,gnome-characters,po/fy.po
+Open menu,80,Menu Iepenje,81,gnome-characters,po/fy.po
+Search,85,Sykje,86,gnome-characters,po/fy.po
+Keyboard shortcuts,90,Toetseboerd fluchtoetsen,91,gnome-characters,po/fy.po
+Quit,95,Ôfslute,96,gnome-characters,po/fy.po
+Character map application,103,Karakter tabel applikaasje,104,gnome-characters,po/fy.po
+Characters is a simple utility application to find and insert unusual characters. It allows you to quickly find the character you are looking for by searching for keywords.,107,Charakters is in maklik te brûken applikaasje foar it fynen en ynfieren fan ôfwikende karakters. It stelt jo yn steat fluch it karakter te fynen wer om sykje troch in oantal trefwurden yn te fieren.,111,gnome-characters,po/fy.po
+"You can also browse characters by categories, such as Punctuation, Pictures, etc.",117,"Jo kin ek per kategory troch karakters blêdzje, lykas Punktuaasje, Foto's, ensfh.",120,gnome-characters,po/fy.po
+Utility application to find and insert unusual characters,125,Brûkberens applikaasje foar it fynen en ynfieren fan ôfwikende karakters,126,gnome-characters,po/fy.po
+characters;unicode;punctuation;math;letters;emoji;emoticon;,131,charakters;unikoade;punktuaasje;wiskunde;letters;emoji;emoticon;,132,gnome-characters,po/fy.po
+Font to display characters,135,Lettertype om karakters yn sjen te litten,136,gnome-characters,po/fy.po
+Use the font to render characters on the character list.,139,B,140,gnome-characters,po/fy.po
+Maximum recent characters,143,Maksimum resinte karakters,144,gnome-characters,po/fy.po
+Letters & Symbols,151,Letters & Symboalen,152,gnome-characters,po/fy.po
+Punctuation,155,Punktuaasje,156,gnome-characters,po/fy.po
+Arrows,159,Pylken,160,gnome-characters,po/fy.po
+Bullets,163,Kûgels,164,gnome-characters,po/fy.po
+Pictures,167,Foto's,168,gnome-characters,po/fy.po
+Currencies,171,Faluta,172,gnome-characters,po/fy.po
+Math,175,Wiskunde,176,gnome-characters,po/fy.po
+Smileys & People,183,Smileys & Minsken,184,gnome-characters,po/fy.po
+Animals & Nature,187,Bisten & Natuer,188,gnome-characters,po/fy.po
+Food & Drink,191,Iten & Drinken,192,gnome-characters,po/fy.po
+Activities,195,Aktiviteiten,196,gnome-characters,po/fy.po
+Travel & Places,199,Reizgje & Plakken,200,gnome-characters,po/fy.po
+Objects,203,Objekten,204,gnome-characters,po/fy.po
+Symbols,207,Symboalen,208,gnome-characters,po/fy.po
+Flags,211,Flaggen,212,gnome-characters,po/fy.po
+%s Category List Row,216,%s Kategory List Rigel,217,gnome-characters,po/fy.po
+Recently Used,221,Resintlik Brûkt,222,gnome-characters,po/fy.po
+See Also,225,Besjuch Ek,226,gnome-characters,po/fy.po
+Unicode U+%04s,230,Unikoade U+%04s,231,gnome-characters,po/fy.po
+%s is not included in %s,236,%s sit net yn %s,237,gnome-characters,po/fy.po
+Unassigned,240,Net tawiisd,241,gnome-characters,po/fy.po
+None,244,Gjin,245,gnome-characters,po/fy.po
+Unknown character name,248,Ûnbekende karakter namme,249,gnome-characters,po/fy.po
+Search Result,258,Syk Resultaat,259,gnome-characters,po/fy.po
+Character Map,267,Karakter Tabel,268,gnome-characters,po/fy.po
+%s (%s only),272,%s (allinnich %s),273,gnome-characters,po/fy.po
+%s Character List,277,%s Karakter List,278,gnome-characters,po/fy.po
+Recently Used %s Character List,283,Resinklik Brûkte %s Karakter List,284,gnome-characters,po/fy.po
+Search Result Character List,287,Sykresultaten Karakter List,288,gnome-characters,po/fy.po
+Clocks,30,Klokken,31,gnome-clocks,po/fy.po
+"Clocks for world times, plus alarms, stopwatch and a timer",35,"Klokken foar wrâld tiiden, alarms, stopwatches en in timer",36,gnome-clocks,po/fy.po
+time;timer;alarm;world clock;stopwatch;time zone;,40,time;tiid;timer;alarm;world clock;wrâldklok;stopwatch;time zone;tiidsône;,41,gnome-clocks,po/fy.po
+Allows world clocks to be displayed for your time zone.,45,Stiet wrâldklokken ta om sjen litten te wurden foar jo tiidsône.,46,gnome-clocks,po/fy.po
+Configured world clocks,49,Ynstelde wrâldklokken,50,gnome-clocks,po/fy.po
+List of world clocks to show.,53,List fan wrâldklokken om sjen te litten,54,gnome-clocks,po/fy.po
+Configured alarms,57,Ynstelde alarms,58,gnome-clocks,po/fy.po
+List of alarms set.,61,List fan oanmakke alarms.,62,gnome-clocks,po/fy.po
+Configured Timers,65,Ynstelde Timers,66,gnome-clocks,po/fy.po
+List of timers set.,69,List fan oanmakke timers.,70,gnome-clocks,po/fy.po
+Geolocation support,73,Stipe foar Geolokaasje,74,gnome-clocks,po/fy.po
+Turn geolocation support on and off.,77,Stipe foar geolokaasje oan of útskeakelje,78,gnome-clocks,po/fy.po
+Window state,81,Finster steat,82,gnome-clocks,po/fy.po
+"State of the window, e.g. maximized.",85,"Steat fan it finster, bygelyks maksimalisearre.",86,gnome-clocks,po/fy.po
+Window width and height,89,Finster breedte en hichte,90,gnome-clocks,po/fy.po
+Width and height of the window.,93,Breedte en hichte fan it finster,94,gnome-clocks,po/fy.po
+Panel state,97,Steat fan it paniel,98,gnome-clocks,po/fy.po
+Current clock panel.,101,Aktyf klok paniel.,102,gnome-clocks,po/fy.po
+GNOME Clocks,105,GNOME Klokken,106,gnome-clocks,po/fy.po
+"A simple and elegant clock application. It includes world clocks, alarms, a stopwatch and a timer.",109,"In simpele en elegante klok applikaasje. It befettet wrâldklokken, alarms, in stopwatch en in timer.",112,gnome-clocks,po/fy.po
+Goals:,117,Doelen:,118,gnome-clocks,po/fy.po
+Show the time in different cities around the world,121,Lit it tiidsferskil sjen tusken ferskillende wrâldstêden,122,gnome-clocks,po/fy.po
+Set alarms to wake you up,125,Stel in alarm yn om jo wekker te meitsjen,126,gnome-clocks,po/fy.po
+Measure elapsed time with an accurate stopwatch,129,Mjit de ferstrutsen tiid mei in akkurate stopwatch,130,gnome-clocks,po/fy.po
+Set timers to properly cook your food,133,Stel timers yn om jo iten goed te sieden,134,gnome-clocks,po/fy.po
+Initial screen,137,Startskerm,138,gnome-clocks,po/fy.po
+Alarms screen,141,Alarms skerm,142,gnome-clocks,po/fy.po
+Alarms setup,145,Alarms ynstelle,146,gnome-clocks,po/fy.po
+Stopwatch screen,149,Stopwatch skerm,150,gnome-clocks,po/fy.po
+Timer screen,153,Timer skerm,154,gnome-clocks,po/fy.po
+The GNOME Project,157,It GNOME Projekt,158,gnome-clocks,po/fy.po
+General,162,Algemien,163,gnome-clocks,po/fy.po
+Show help,167,Help sjen litte,168,gnome-clocks,po/fy.po
+Open menu,172,Menu Iepenje,173,gnome-clocks,po/fy.po
+Keyboard shortcuts,177,Toetseboerd fluchtoetsen,178,gnome-clocks,po/fy.po
+Quit,182,Ôfslute,183,gnome-clocks,po/fy.po
+Go to the next section,187,Nei de folgende seksje gean,188,gnome-clocks,po/fy.po
+Go to the previous section,192,Nei de foargeande seksje gean,193,gnome-clocks,po/fy.po
+Go to the World section,197,Nei de Wrâld seksje gean,198,gnome-clocks,po/fy.po
+Go to the Alarms section,202,Nei de Alarms seksje gean,203,gnome-clocks,po/fy.po
+Go to the Stopwatch section,207,Nei de Stopwatch seksje gean,208,gnome-clocks,po/fy.po
+Go to the Timer section,212,Nei de Timer seksje gean,213,gnome-clocks,po/fy.po
+World Clocks,217,Wrâldklokken,218,gnome-clocks,po/fy.po
+Add a world clock,222,In wrâldklok tafoegje,223,gnome-clocks,po/fy.po
+Add an alarm,232,In alarm tafoegje,233,gnome-clocks,po/fy.po
+Stop / Reset,242,Stopje / Weromsette,243,gnome-clocks,po/fy.po
+Reset,252,Weromsette,253,gnome-clocks,po/fy.po
+New Timer,257,Nije Timer,258,gnome-clocks,po/fy.po
+_Repeat,261,_Werhelje,262,gnome-clocks,po/fy.po
+Add A_larm,265,_Alarm Tafoegje,266,gnome-clocks,po/fy.po
+Stop,269,Ophâlde,270,gnome-clocks,po/fy.po
+Snooze,273,Dûze,274,gnome-clocks,po/fy.po
+Active,277,Aktyf,278,gnome-clocks,po/fy.po
+Delete,281,Fuortsmite,282,gnome-clocks,po/fy.po
+Repeats,285,Werhellingen,286,gnome-clocks,po/fy.po
+New Alarm,291,Nij Alarm,292,gnome-clocks,po/fy.po
+Name,295,Namme,296,gnome-clocks,po/fy.po
+Optional,299,Opsjoneel,300,gnome-clocks,po/fy.po
+Ring Duration,303,Doer fan it rinkeljen,304,gnome-clocks,po/fy.po
+Snooze Duration,307,Doer fan it slomjen,308,gnome-clocks,po/fy.po
+R_emove Alarm,311,Alarm Fuortsmit_e,312,gnome-clocks,po/fy.po
+You already have an alarm for this time.,315,Jo hawwe al in alarm foar dizze tiid ynsteld.,316,gnome-clocks,po/fy.po
+_Keyboard Shortcuts,319,Toetseboerd _Koartkaaien,320,gnome-clocks,po/fy.po
+_About Clocks,327,_Oer Klokken,328,gnome-clocks,po/fy.po
+Back,331,Werom,332,gnome-clocks,po/fy.po
+_Start,339,_Starte,340,gnome-clocks,po/fy.po
+Clear,343,Wiskje,344,gnome-clocks,po/fy.po
+Time,347,Tiid,348,gnome-clocks,po/fy.po
+Difference,351,Ferskil,352,gnome-clocks,po/fy.po
+Select Duration,355,Doer Selektearje,356,gnome-clocks,po/fy.po
+Title...,359,Titel...,360,gnome-clocks,po/fy.po
+World,400,Wrâld,401,gnome-clocks,po/fy.po
+Add World Clock,416,Wrâldklok ,417,gnome-clocks,po/fy.po
+Add a New World Clock,420,Nije Wrâldklok Tafoegje,421,gnome-clocks,po/fy.po
+_Cancel,424,_Ofbrekke,425,gnome-clocks,po/fy.po
+_Add,428,_Tafoegje,429,gnome-clocks,po/fy.po
+Search for a City,432,Om in Stêd Sykje,433,gnome-clocks,po/fy.po
+Sunrise,436,Sinne-opgong,437,gnome-clocks,po/fy.po
+Sunset,440,Sinne-ûndergong,441,gnome-clocks,po/fy.po
+Snoozed from %s: %s,453,Slomje fanôf %s: %s,454,gnome-clocks,po/fy.po
+Snoozed from %s,459,Slomje fanôf %s,460,gnome-clocks,po/fy.po
+1 minute,463,1 minút,464,gnome-clocks,po/fy.po
+5 minutes,467,5 minúten,468,gnome-clocks,po/fy.po
+10 minutes,471,10 minúten,472,gnome-clocks,po/fy.po
+15 minutes,475,15 minúten,476,gnome-clocks,po/fy.po
+20 minutes,479,20 minúten,480,gnome-clocks,po/fy.po
+30 minutes,483,30 minúten,484,gnome-clocks,po/fy.po
+Edit Alarm,487,Alarm Oanpasse,488,gnome-clocks,po/fy.po
+Cancel,491,Ôfbrekke,492,gnome-clocks,po/fy.po
+Done,495,Klear,496,gnome-clocks,po/fy.po
+Add,499,Tafoegje,500,gnome-clocks,po/fy.po
+Print version information and exit,503,Ferzje ynformaasje sjen litte en ôfslute,504,gnome-clocks,po/fy.po
+Pause,507,Skoftsje,508,gnome-clocks,po/fy.po
+Lap,511,Rûntsje,512,gnome-clocks,po/fy.po
+Resume,515,Trochgean,516,gnome-clocks,po/fy.po
+Start,519,Starte,520,gnome-clocks,po/fy.po
+Lap %i,524,Rûntsje %i,525,gnome-clocks,po/fy.po
+New Timer,529,Nije Timer,530,gnome-clocks,po/fy.po
+Time is up!,533,De tiid is om!,534,gnome-clocks,po/fy.po
+Timer countdown finished,537,Klear mei ôftellen,538,gnome-clocks,po/fy.po
+Current timezone,542,Hjoeddeistiche tiidsône,543,gnome-clocks,po/fy.po
+%s hour earlier,549,%s oere earder,551,gnome-clocks,po/fy.po
+%s hour earlier,549,%s oeren earder,552,gnome-clocks,po/fy.po
+%s hour later,558,%s oere letter,560,gnome-clocks,po/fy.po
+%s hour later,558,%s oeren letter,561,gnome-clocks,po/fy.po
+Mondays,606,Moandei,607,gnome-clocks,po/fy.po
+Tuesdays,610,Tiisdei,611,gnome-clocks,po/fy.po
+Wednesdays,614,Woansdei,615,gnome-clocks,po/fy.po
+Thursdays,618,Tongersdei,619,gnome-clocks,po/fy.po
+Fridays,622,Freed,623,gnome-clocks,po/fy.po
+Saturdays,626,Sneon,627,gnome-clocks,po/fy.po
+Sundays,630,Snein,631,gnome-clocks,po/fy.po
+Every Day,634,Deistich,635,gnome-clocks,po/fy.po
+Weekdays,638,Wykdagen,639,gnome-clocks,po/fy.po
+Weekends,642,Wykeins,643,gnome-clocks,po/fy.po
+Failed to show help: %s,647,Koe help net sjen litte: %s,648,gnome-clocks,po/fy.po
+Utilities to help you with the time.,651,Ark om jo mei de tiid by te stean.,652,gnome-clocks,po/fy.po
+Add Location,660,Lokaasje tafoegje,661,gnome-clocks,po/fy.po
+Tomorrow,666,Moarn,667,gnome-clocks,po/fy.po
+Yesterday,672,Juster,673,gnome-clocks,po/fy.po
+Current location,677,Hjoeddeistiche lokaasje,678,gnome-clocks,po/fy.po
+Contacts,30,Kontakten,31,gnome-contacts,po/fy.po
+A contacts manager for GNOME,35,In kontakt behearder foar GNOME,36,gnome-contacts,po/fy.po
+"Contacts keeps and organize your contacts information. You can create, edit, delete and link together pieces of information about your contacts. Contacts aggregates the details from all your sources providing a centralized place for managing your contacts.",39,"Kontakten hâld en organisearret jo kontakten. Jo kinne ynformaasje oer jo kontakten oanmeitsje, oanpasse, fuortsmite en dielen der fan oan elkoar keppelje. Kontakten hellet gegevens út all jo boarnen fan kontaktgegevens, om jo ien sintraal oersjoch te jaan om jo kontakten mei te behearren.",44,gnome-contacts,po/fy.po
+Contacts will also integrate with online address books and automatically link contacts from different online sources.,51,Kontakten sil ek yntegrearje mei online adresboeken en automatysk kontakten fan ferskillende online boarnen keppelje.,54,gnome-contacts,po/fy.po
+The GNOME Project,59,It GNOME Projekt,60,gnome-contacts,po/fy.po
+friends;address book;,64,friends;address book;freunen;adresboek;,65,gnome-contacts,po/fy.po
+Overview,69,Oersjoch,70,gnome-contacts,po/fy.po
+Open menu,79,Menu iepenje,80,gnome-contacts,po/fy.po
+Create a new contact,84,In nij kontakt oanmeitsje,85,gnome-contacts,po/fy.po
+Search,89,Sykje,90,gnome-contacts,po/fy.po
+Shortcut list,94,Fluchtoets list,95,gnome-contacts,po/fy.po
+Quit,99,Ofslute,100,gnome-contacts,po/fy.po
+Select a new avatar,103,Nije avatar selektearje,104,gnome-contacts,po/fy.po
+Cancel,109,Ofbrekke,110,gnome-contacts,po/fy.po
+Done,114,Klear,115,gnome-contacts,po/fy.po
+Take a Picture…,118,In Foto meitsje…,119,gnome-contacts,po/fy.po
+Select a File…,122,In Triem selektearje…,123,gnome-contacts,po/fy.po
+Select a Contact,126,In Kontakt selektearje…,127,gnome-contacts,po/fy.po
+Change Addressbook,130,Adresboek feroarje,131,gnome-contacts,po/fy.po
+Link Contacts,134,Kontakten keppelje,135,gnome-contacts,po/fy.po
+Linked Accounts,138,Accounts keppelje,139,gnome-contacts,po/fy.po
+You can link contacts by selecting them from the contacts list,142,Jo kinne kontakten keppelje troch se yn de kontakt list te selektearjen,143,gnome-contacts,po/fy.po
+Type to search,147,Tikje om te sykjen,148,gnome-contacts,po/fy.po
+Link,152,Keppelje,153,gnome-contacts,po/fy.po
+Remove,156,Fuortsmite,157,gnome-contacts,po/fy.po
+List Contacts By:,160,Kontakten oarderje op:,161,gnome-contacts,po/fy.po
+First Name,164,Foarnamme,165,gnome-contacts,po/fy.po
+Surname,168,Efternamme,169,gnome-contacts,po/fy.po
+Change Address Book…,172,Adresboek Oanpasse…,173,gnome-contacts,po/fy.po
+Keyboard Shortcuts,180,Toetseboerd fluchtoetsen,181,gnome-contacts,po/fy.po
+About Contacts,188,Oer Kontakten,189,gnome-contacts,po/fy.po
+Create new contact,192,Nij kontakt oanmeitsje,193,gnome-contacts,po/fy.po
+Select Items,200,Items selektearje,201,gnome-contacts,po/fy.po
+Cancel Selection,204,Seleksje ôfbrekke,205,gnome-contacts,po/fy.po
+Loading,208,Oan it laden,209,gnome-contacts,po/fy.po
+_Cancel,212,Ofbrekke,213,gnome-contacts,po/fy.po
+Edit Contact,216,Kontakt oanpasse,217,gnome-contacts,po/fy.po
+Delete Contact,220,Kontakt fuortsmite,221,gnome-contacts,po/fy.po
+Contacts Setup,224,Kontakten Ynstelle,225,gnome-contacts,po/fy.po
+_Quit,228,Ofslute,229,gnome-contacts,po/fy.po
+_Done,232,_Klear,233,gnome-contacts,po/fy.po
+Complete setup,237,Ynstellen foltôgje,238,gnome-contacts,po/fy.po
+Welcome,241,Wolkom,242,gnome-contacts,po/fy.po
+"Please select your main address book: this is where new contacts will be added. If you keep your contacts in an online account, you can add them using the online accounts settings.",245,"Graach jo haad adresboek selektearje: dit is wêr nije kontakten oan tafoege wurde sille. As jo jo kontakten yn in online account byhâlde, kinne jo dizze tafoegje troch de online accounts ynstellingen te brûken.",249,gnome-contacts,po/fy.po
+Local Address Book,256,Lokaal adresboek,257,gnome-contacts,po/fy.po
+Change Address Book,260,Adresboek oanpasse,261,gnome-contacts,po/fy.po
+Change,264,Oanpasse,265,gnome-contacts,po/fy.po
+New contacts will be added to the selected address book.\nYou are able to view and edit contacts from other address books.,268,Nije kontakten sille tafoege wurde oan it selektearre adresboek.\nJo sille yn steat wêze om de kontakten fanút oare adresboeken te besjen en oan te passen.,271,gnome-contacts,po/fy.po
+Show contact with this email address,277,Kontakten mei dit emailadres sjen litte,278,gnome-contacts,po/fy.po
+Show contact with this individual id,281,Kontakten mei dit individuele id sjen litte,282,gnome-contacts,po/fy.po
+Show contacts with the given filter,285,Kontakten mei it ynstelde filter sjen litte,286,gnome-contacts,po/fy.po
+Show the current version of Contacts,289,De hjoeddeistiche ferzje fan Kontakten sjen litte,290,gnome-contacts,po/fy.po
+No contact with id %s found,294,Gjin kontakt mei it id %s fûn,295,gnome-contacts,po/fy.po
+Contact not found,298,Kontakt net fûn,299,gnome-contacts,po/fy.po
+About GNOME Contacts,306,Oer GNOME Kontakten,307,gnome-contacts,po/fy.po
+Contact Management Application,310,Kontakt Behear Applikaasje,311,gnome-contacts,po/fy.po
+"© 2011 Red Hat, Inc.\n© 2011-2020 The Contacts Developers",314,"© 2011 Red Hat, Inc.\n© 2011-2020 De Kontakten Ûntwikkelders",317,gnome-contacts,po/fy.po
+No contact with email address %s found,323,Gjin kontakt mei it e-mailadres %s fûn,324,gnome-contacts,po/fy.po
+No Camera Detected,327,Gjin kamera detektearre,328,gnome-contacts,po/fy.po
+Browse for more pictures,331,Blêdzje om mear ôfbyldingen,332,gnome-contacts,po/fy.po
+_Open,335,Iepenje,336,gnome-contacts,po/fy.po
+Failed to set avatar.,339,Koe avatar net ynstelle.,340,gnome-contacts,po/fy.po
+Change avatar,343,Avatar oanpasse,344,gnome-contacts,po/fy.po
+Add name,347,Namme tafoegje,348,gnome-contacts,po/fy.po
+Favorites,351,Favoriten,352,gnome-contacts,po/fy.po
+All Contacts,355,Alle kontakten,356,gnome-contacts,po/fy.po
+No primary addressbook configured,359,Gjin haad adresboek ynstelt,360,gnome-contacts,po/fy.po
+Unable to create new contacts: %s,364,Koe gjin nei kontact oanmeitsje: %s,365,gnome-contacts,po/fy.po
+Unable to find newly created contact,368,Koe gjin nei oanmakke kontakt fine,369,gnome-contacts,po/fy.po
+%s at %s,374,%s by %s,375,gnome-contacts,po/fy.po
+Send an email to %s,379,Stjoer in e-mail nei %s,380,gnome-contacts,po/fy.po
+Start a call,383,Skilje,384,gnome-contacts,po/fy.po
+Visit website,387,Webstee iepenje,388,gnome-contacts,po/fy.po
+Their birthday is today! 🎉,391,Harren jierdei is hjoerd! 🎉,392,gnome-contacts,po/fy.po
+Show on the map,395,Op plattegrûn sjen litte,396,gnome-contacts,po/fy.po
+Deleting %d contact,400,%d kontakt oan it fuortsmiten,402,gnome-contacts,po/fy.po
+Deleting %d contact,400,%d kontakten oan it fuortsmiten,403,gnome-contacts,po/fy.po
+Show More,406,Mear sjen litte,407,gnome-contacts,po/fy.po
+Day,411,Dei,412,gnome-contacts,po/fy.po
+Month,415,Moanne,416,gnome-contacts,po/fy.po
+Year,419,Jier,420,gnome-contacts,po/fy.po
+Change Birthday,423,Jierdei oanpasse,424,gnome-contacts,po/fy.po
+Street,431,Strjitte,432,gnome-contacts,po/fy.po
+Extension,435,Utwreiding,436,gnome-contacts,po/fy.po
+City,439,Stêd,440,gnome-contacts,po/fy.po
+State/Province,443,Staat/Provinsje,444,gnome-contacts,po/fy.po
+Zip/Postal Code,447,Postkoade,448,gnome-contacts,po/fy.po
+PO box,451,Postbus,452,gnome-contacts,po/fy.po
+Country,455,Lân,456,gnome-contacts,po/fy.po
+Role,460,Funksje,461,gnome-contacts,po/fy.po
+Organisation,464,Organisaasje,465,gnome-contacts,po/fy.po
+Delete field,468,Fjild fuortsmite,469,gnome-contacts,po/fy.po
+Add email,476,E-mailadres tafoegje,477,gnome-contacts,po/fy.po
+Add phone number,480,Telefoannûmer tafoegje,481,gnome-contacts,po/fy.po
+https://example.com,484,https://foarbyld.frl,485,gnome-contacts,po/fy.po
+Nickname,488,Bynamme,489,gnome-contacts,po/fy.po
+Set Birthday,492,Jierdei ynstelle,493,gnome-contacts,po/fy.po
+Local Contact,501,Lokaal kontakt,502,gnome-contacts,po/fy.po
+Local network,541,Lokaal netwurk,542,gnome-contacts,po/fy.po
+Telephony,585,Telefoan,586,gnome-contacts,po/fy.po
+Linked %d contact,602,%d kontakt keppele,604,gnome-contacts,po/fy.po
+Linked %d contact,602,%d kontakten keppele,605,gnome-contacts,po/fy.po
+Is this the same person as %s from %s?,609,Is dit deselfde the same person as %s from %s?,610,gnome-contacts,po/fy.po
+Is this the same person as %s?,614,Is dit deselde persoan as %s?,615,gnome-contacts,po/fy.po
+Unlink,618,Untkeppelje,619,gnome-contacts,po/fy.po
+%d Selected,623,%d Selektearre,625,gnome-contacts,po/fy.po
+%d Selected,623,%d Selektearre,626,gnome-contacts,po/fy.po
+_Add,629,Tafoegje,630,gnome-contacts,po/fy.po
+Editing %s,634,%s oan it oanpassen,635,gnome-contacts,po/fy.po
+_Undo,639,_Ungedien meitsje,640,gnome-contacts,po/fy.po
+Unmark as favorite,643,Net mear as favoryt oanmerke,644,gnome-contacts,po/fy.po
+Mark as favorite,647,As favoryt oanmerke,648,gnome-contacts,po/fy.po
+New Contact,651,Nij kontakt,652,gnome-contacts,po/fy.po
+Other,655,Oars,656,gnome-contacts,po/fy.po
+Home,661,Thús,662,gnome-contacts,po/fy.po
+Work,666,Wurk,667,gnome-contacts,po/fy.po
+Personal,671,Persoanlik,672,gnome-contacts,po/fy.po
+Assistant,676,Assistent,677,gnome-contacts,po/fy.po
+Work Fax,680,Wurk fax,681,gnome-contacts,po/fy.po
+Car,688,Auto,689,gnome-contacts,po/fy.po
+Company,692,Bedriuw,693,gnome-contacts,po/fy.po
+Home Fax,696,Thús fax,697,gnome-contacts,po/fy.po
+Mobile,704,Mobyl,705,gnome-contacts,po/fy.po
+Pager,712,Pieper,713,gnome-contacts,po/fy.po
+Unlinking contacts,729,Kontakten ûntkeppelje,730,gnome-contacts,po/fy.po
+Birthday,741,Jierdei,742,gnome-contacts,po/fy.po
+Calendar event,745,Kalinder evenemint,746,gnome-contacts,po/fy.po
+Email address,749,E-mailadres,750,gnome-contacts,po/fy.po
+Full name,753,Folsleine namme,754,gnome-contacts,po/fy.po
+Gender,757,Geslacht,758,gnome-contacts,po/fy.po
+Group,761,Groep,762,gnome-contacts,po/fy.po
+Favourite,769,Favoryt,770,gnome-contacts,po/fy.po
+Local ID,773,Lokaal ID,774,gnome-contacts,po/fy.po
+Note,777,Opmerking,778,gnome-contacts,po/fy.po
+Phone number,781,Telefoannûmer,782,gnome-contacts,po/fy.po
+Address,785,Adres,786,gnome-contacts,po/fy.po
+Structured name,791,Namme yn dielen,792,gnome-contacts,po/fy.po
+Website,795,Webstee,796,gnome-contacts,po/fy.po
+Web service,799,Web tsjinst,800,gnome-contacts,po/fy.po
+First-time setup done.,803,Earste-kear ynstellen ôfrune.,804,gnome-contacts,po/fy.po
+Set to true after the user has run the first-time setup wizard.,807,Wurd op wier set nei dat de brûker de earste-kear ynstelle wizard útfierd hat.,808,gnome-contacts,po/fy.po
+Sort contacts on surname.,813,Kontacten op efternamme oarderje.,814,gnome-contacts,po/fy.po
+"If this is set to true, the list of contacts will be sorted on their surnames. Otherwise, it will be sorted on the first names of the contacts.",817,"As dit op wier set is, sille kontakten op efternamme oardere wurde. Oars, sille se op foarnamme oardere wurde.",820,gnome-contacts,po/fy.po
+The default height of the contacts window.,825,De standert hichte fan it kontakten finster.,826,gnome-contacts,po/fy.po
+If the window size has not been changed by the user yet this will be used as the initial value for the height of the window.,829,As de finster grutte noch net oanpast is troch de brûker sil dit brûkt wurde as de inisjele waerde foar de hichte fan it finster.,832,gnome-contacts,po/fy.po
+The default width of the contacts window.,837,De standert breedte fan it kontakten finster.,838,gnome-contacts,po/fy.po
+If the window size has not been changed by the user yet this will be used as the initial value for the width of the window.,841,As de finster grutte noch net oanpast is troch de brûker sil dit brûkt wurde as de inisjele waerde foar de breedte fan it finster.,844,gnome-contacts,po/fy.po
+Is the window maximized?,849,Is it finster maksimalisearre?,850,gnome-contacts,po/fy.po
+Stores if the window is currently maximized.,853,Jout oan as it finster op dit momint maksimalisearre is.,854,gnome-contacts,po/fy.po
+Is the window fullscreen,857,Beslacht it finster it folsleine skerm,858,gnome-contacts,po/fy.po
+Multimedia menu,27,Multimediamenu,28,gnome-menus,po/fy.po
+Sound & Video,31,Lûd & fideo,32,gnome-menus,po/fy.po
+Programming,35,Programmeare,36,gnome-menus,po/fy.po
+Tools for software development,39,Arken foar software-ûntwikkeling,40,gnome-menus,po/fy.po
+Education,43,Ûnderwiis,44,gnome-menus,po/fy.po
+Games,47,Spultsjes,48,gnome-menus,po/fy.po
+Games and amusements,51,Spultsjes en ferdiverdaasje,52,gnome-menus,po/fy.po
+Graphics,55,Grafysk,56,gnome-menus,po/fy.po
+Graphics applications,59,Grafyske applikaasjes,60,gnome-menus,po/fy.po
+Settings for several hardware devices,67,Ynstellings foar ferskillende hardware-apparaten,68,gnome-menus,po/fy.po
+Internet,71,Ynternet,72,gnome-menus,po/fy.po
+Programs for Internet access such as web and email,75,"Programma's foar ynternet-tagong, sa as it web en e-mail",76,gnome-menus,po/fy.po
+Office,79,Kantoar,80,gnome-menus,po/fy.po
+Office Applications,83,Kantoarapplikaasjes,84,gnome-menus,po/fy.po
+Personal,88,Persoanlik,89,gnome-menus,po/fy.po
+Personal settings,92,Pearoanlike ynstellingen,93,gnome-menus,po/fy.po
+System,96,Systeem,97,gnome-menus,po/fy.po
+System settings,100,Systeemynstellingen,101,gnome-menus,po/fy.po
+System Tools,104,Systeemarken,105,gnome-menus,po/fy.po
+System configuration and monitoring,108,Systeemkonfiguraasje en -kontrôle,109,gnome-menus,po/fy.po
+Universal Access,112,Algemiene tagong,113,gnome-menus,po/fy.po
+Universal Access Settings,116,Algemiene-tagongsynstellingen,117,gnome-menus,po/fy.po
+Accessories,120,Assesoires,121,gnome-menus,po/fy.po
+Desktop accessories,124,Bureaublêdassesoires,125,gnome-menus,po/fy.po
+Applications,128,Applikaasjes,129,gnome-menus,po/fy.po
+Applications that did not fit in other categories,132,Applikaasjes hokker net yn oare kategoryen passe,133,gnome-menus,po/fy.po
+Other,136,Oare,137,gnome-menus,po/fy.po
+Menu Editor,140,Menubewurker,141,gnome-menus,po/fy.po
+Edit Menus,144,Menus bewurkje,145,gnome-menus,po/fy.po
+_Applications:,148,_Applikaasjes:,149,gnome-menus,po/fy.po
+_Defaults,152,_Standertynstellingen,153,gnome-menus,po/fy.po
+_Menus:,156,_Menu's:,157,gnome-menus,po/fy.po
+Simple Menu Editor %s,162,Simpele menubewurker %s,163,gnome-menus,po/fy.po
+Name,167,Namme,168,gnome-menus,po/fy.po
+Show,171,Sjen litte,172,gnome-menus,po/fy.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,175,Kin thúsmap net fine: net ynsteld yn /etc/passwd en gjin wearde foar $HOME yn de omkriten,178,gnome-menus,po/fy.po
+Play and organize your music collection,30,Spylje jo muzyksamling ôf en organisearje it,31,gnome-music,po/fy.po
+An easy and pleasant way to play your music.,34,In maklik en noflik te brûken wize om jo muzyk ôf te spyljen.,35,gnome-music,po/fy.po
+"Find tracks in your local collection, use automatically generated playlists or curate a fresh one.",38,"Fynt ferskes yn jo lokale samling, brûk automatysk oanmakke ôfspyllisten of meitsje jo eigen.",41,gnome-music,po/fy.po
+The GNOME Music developers,46,De GNOME Music-ûntwikkelers,47,gnome-music,po/fy.po
+Music,51,Muzyk,52,gnome-music,po/fy.po
+Music Player,55,Muzykspiler,56,gnome-music,po/fy.po
+Music;Player;,60,Muzyk;Spiler;,61,gnome-music,po/fy.po
+Window size,64,Finstergrutte,65,gnome-music,po/fy.po
+Window size (width and height).,68,Finstergrutte (breedte en hichte).,69,gnome-music,po/fy.po
+Window position,72,Finsterposysje,73,gnome-music,po/fy.po
+Window position (x and y).,76,Finsterposysje (x en y).,77,gnome-music,po/fy.po
+Window maximized,80,Finster maksimalisearre,81,gnome-music,po/fy.po
+Window maximized state.,84,Finster maksimalisearresteat.,85,gnome-music,po/fy.po
+Playback repeat mode,88,Opnij ôfspyljemodus,89,gnome-music,po/fy.po
+"Value identifies whether to repeat or randomize playback through the collection. Allowed values are: “none” (repeat and shuffle are off), “song” (repeat current song), “all” (repeat playlist, no shuffle), “shuffle” (shuffle playlist, presumes repeat all).",93,"Wearde jout oan as de samling opnij ôfspile of mingd wurde moat. Jildige wearden binne: ‘gjin’ (opnij ôfspyljen en mingen binne útskeakele), ‘ferske’ (aktuele ferske opnij ôfspylje), ‘Alles’ (ôfspyllist opnij ôfspylje, net minge), ‘minge’ (ôfspyllist minge, giet der fan út dat alles opnij ôfspile wurdt).",98,gnome-music,po/fy.po
+Enable ReplayGain,106,ReplayGain ynskeakelje,107,gnome-music,po/fy.po
+Enables or disables ReplayGain for albums,110,Skeakelet ReplayGain foar albums yn of út,111,gnome-music,po/fy.po
+Inhibit system suspend,114,Foarkomme dat de kompjûter yn skoftmodus giet,115,gnome-music,po/fy.po
+Enables or disables inhibiting system suspend while playing music,118,Skeakelet it foarkommen fan dat it systeem yn de skoftstân giet yn of út.,119,gnome-music,po/fy.po
+Report music history to Last.fm,123,Muzykskiednis nei Last.fm ferstjoere,124,gnome-music,po/fy.po
+Enables or disables sending scrobbles and the “currently playing” info to Last.fm.,127,"Skeakelet it ferstjoeren fan \""scrobbles\"" en ‘No oan it ôfspyljen’ ynformaasje nei Last.fm yn of út.",130,gnome-music,po/fy.po
+Copyright © 2018 GNOME Music Developers,135,Copyright © 2018 GNOME Music-ûntwikkelers,136,gnome-music,po/fy.po
+A music player and management application for GNOME.,139,In muzykspiler en behearapplikaasje foar GNOME.,140,gnome-music,po/fy.po
+Visit GNOME Music website,143,De GNOME Music-website besykje,144,gnome-music,po/fy.po
+"GNOME Music is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n\nGNOME Music is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n\nYou should have received a copy of the GNU General Public License along with GNOME Music; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.\n\nThe GNOME Music authors hereby grant permission for non-GPL compatible GStreamer plugins to be used and distributed together with GStreamer and GNOME Music.  This permission is above and beyond the permissions granted by the GPL license by which GNOME Music is covered.  If you modify this code, you may extend this exception to your version of the code, but you are not obligated to do so.  If you do not wish to do so, delete this exception statement from your version.",147,"GNOME Music is frije software; jo meie it fierder distribuearje en/of oanpasse ûnder de betingsten fan de GNU General Public License sa as útjûn troch de Free Software Foundation; ferzje 2 fan de lisinsje, of as jo dat wolle, elke nijere ferzje.",169,gnome-music,po/fy.po
+Play,178,Ofspylje,179,gnome-music,po/fy.po
+_Play,182,_Ofspylje,183,gnome-music,po/fy.po
+Add to _Favorite Songs,186,Oan _favorite ferskes tafoegje,187,gnome-music,po/fy.po
+_Add to Playlist…,190,_Oan ôfspyllist tafoegje…,191,gnome-music,po/fy.po
+Last.fm Account,194,Last.fm-account,195,gnome-music,po/fy.po
+Report Music Listening,198,Muzyk lústerje ferstjoere,199,gnome-music,po/fy.po
+_Keyboard Shortcuts,202,_Fluchtoetsen,203,gnome-music,po/fy.po
+_About Music,210,_Oer Music,211,gnome-music,po/fy.po
+Welcome to Music,214,Wolkom by Music,215,gnome-music,po/fy.po
+Select,222,Selektearje,223,gnome-music,po/fy.po
+_Cancel,227,_Annulearje,228,gnome-music,po/fy.po
+Search,231,Sykje,232,gnome-music,po/fy.po
+Back,235,Tebek,236,gnome-music,po/fy.po
+General,240,Algemien,241,gnome-music,po/fy.po
+Close window,245,Finster slute,246,gnome-music,po/fy.po
+Search,250,Sykje,251,gnome-music,po/fy.po
+Shortcuts,260,Fluchtoetsen,261,gnome-music,po/fy.po
+Playback,265,Ofspylje,266,gnome-music,po/fy.po
+Play/Pause,270,Ofspylje/Skoft,271,gnome-music,po/fy.po
+Next song,275,Folgjende ferske,276,gnome-music,po/fy.po
+Previous song,280,Foarige ferske,281,gnome-music,po/fy.po
+Toggle repeat,285,Opnij ôfspylje yn- of útskeakelje,286,gnome-music,po/fy.po
+Toggle shuffle,290,Minge yn- of útskeakelje,291,gnome-music,po/fy.po
+Navigation,295,Navigaasje,296,gnome-music,po/fy.po
+Go to Albums,300,Gean nei Albums,301,gnome-music,po/fy.po
+Go to Artists,305,Gean nei Artysten,306,gnome-music,po/fy.po
+Go to Songs,310,Gean nei Ferskes,311,gnome-music,po/fy.po
+Go to Playlists,315,Gean nei Ofspyllisten,316,gnome-music,po/fy.po
+Go back,320,Gean tebek,321,gnome-music,po/fy.po
+Last.fm is a music discovery service that gives you personalised recommendations based on the music you listen to.,324,Last.fm is in muzykûntdekkingstsjinst dy't jo persoanlike oanrekommandaasjes jout oan de hân fan de muzyk dêr't jo nei lústerje.,327,gnome-music,po/fy.po
+Music Reporting Not Setup,332,Muzyk opstjoere net ynsteld,333,gnome-music,po/fy.po
+Login to your Last.fm account to report your music listening.,336,Meld oan op jo Last.fm-account om de muzyk dêr't jo nei lústerje op te stjoeren.,337,gnome-music,po/fy.po
+Login,342,Oanmelde,343,gnome-music,po/fy.po
+Loading,346,Lade,347,gnome-music,po/fy.po
+Previous,350,Foarige,351,gnome-music,po/fy.po
+Next,354,Folgjende,355,gnome-music,po/fy.po
+_Delete,358,_Fuortsmite,359,gnome-music,po/fy.po
+_Rename…,362,_Omneame…,363,gnome-music,po/fy.po
+Playlist Name,366,Namme fan de ôfspyllist,367,gnome-music,po/fy.po
+_Done,370,_Dien,371,gnome-music,po/fy.po
+Enter a name for your first playlist,374,In namme foar jo ôfspyllist ynfiere,375,gnome-music,po/fy.po
+C_reate,378,_Oanmeitsje,379,gnome-music,po/fy.po
+New Playlist…,382,Nije ôfspyllist…,383,gnome-music,po/fy.po
+Add,386,Tafoegje,387,gnome-music,po/fy.po
+Add to Playlist,390,Oan ôfspyllist tafoegje,391,gnome-music,po/fy.po
+_Add,394,_Tafoegje,395,gnome-music,po/fy.po
+_Undo,398,_Ungedien meitsje,399,gnome-music,po/fy.po
+Artists,402,Artysten,403,gnome-music,po/fy.po
+View All,406,Alles besjen,407,gnome-music,po/fy.po
+Songs,414,Ferskes,415,gnome-music,po/fy.po
+Select All,418,Alles selektearje,419,gnome-music,po/fy.po
+Select None,422,Neat Selektearje,423,gnome-music,po/fy.po
+Click on items to select them,426,Klik op items om se te selektearjen,427,gnome-music,po/fy.po
+_Add to Playlist,430,_Oan ôfspyllist tafoegje,431,gnome-music,po/fy.po
+Add to Playlist…,434,Oan ôfspyllist tafoegje…,435,gnome-music,po/fy.po
+Remove From Playlist,438,Ut ôfspyllist fuortsmite,439,gnome-music,po/fy.po
+Most Played,443,Meast ôfspile,444,gnome-music,po/fy.po
+Never Played,448,Nea ôfspile,449,gnome-music,po/fy.po
+Recently Played,453,Koartlyn ôfspile,454,gnome-music,po/fy.po
+Recently Added,458,Koartlyn tafoege,459,gnome-music,po/fy.po
+Favorite Songs,463,Favorite ferskes,464,gnome-music,po/fy.po
+Unable to play the file,467,Kin it bestân net ôfspylje,468,gnome-music,po/fy.po
+_Find in {},471,_Sykje yn {},472,gnome-music,po/fy.po
+ and ,476,en,477,gnome-music,po/fy.po
+", ",481,",",482,gnome-music,po/fy.po
+"{} is required to play the file, but is not installed.",485,"{} is nedich om it bestân ôf te spyljen, mar it is net ynstallearre.",487,gnome-music,po/fy.po
+"{} is required to play the file, but is not installed.",485,"{} binne nedich om it bestân ôf te spyljen, mar se binne net ynstallearre.",489,gnome-music,po/fy.po
+Playing music,493,Muzyk oan it ôfspyljen,494,gnome-music,po/fy.po
+Shuffle,498,Minge,499,gnome-music,po/fy.po
+Repeat Song,502,Ferske opnij ôfspylje,503,gnome-music,po/fy.po
+Repeat All,506,Alles opnij ôfspylje,507,gnome-music,po/fy.po
+Shuffle/Repeat Off,510,Minge/Opnij ôfspylje út,511,gnome-music,po/fy.po
+Unknown album,514,Unbekend album,515,gnome-music,po/fy.po
+Unknown Artist,518,Unbekende artyst,519,gnome-music,po/fy.po
+Your XDG Music directory is not set.,522,Jo XDG Muzyk-map is net ynsteld.,523,gnome-music,po/fy.po
+Music Folder,526,Muzykmap,527,gnome-music,po/fy.po
+The contents of your {} will appear here.,532,De ynhâld fan jo {} sil hjir sichtber wurde.,533,gnome-music,po/fy.po
+No Music Found,536,Gjin muzyk fûn,537,gnome-music,po/fy.po
+Try a Different Search,540,Probearje om wat oars te sykjen,541,gnome-music,po/fy.po
+GNOME Music could not connect to Tracker.,544,GNOME Music koe net mei Tracker ferbine.,545,gnome-music,po/fy.po
+Your music files cannot be indexed without Tracker running.,548,Jo muzykbestannen kinne net yndeksearre wurde sûnder dat Tracker útfierd wurdt.,549,gnome-music,po/fy.po
+Your system Tracker version seems outdated.,554,De ferzje fan Tracker op jo systeem liket ferâldere.,555,gnome-music,po/fy.po
+Music needs Tracker version 3.0.0 or higher.,558,Muzyk hat Tracker ferzje 3.0.0 of heger nedich.,559,gnome-music,po/fy.po
+Playlists,562,Ofspyllisten,563,gnome-music,po/fy.po
+Artists Results,566,Artystresultaten,567,gnome-music,po/fy.po
+Albums Results,570,Albumresultaten,571,gnome-music,po/fy.po
+{} minute,574,{} minút,576,gnome-music,po/fy.po
+{} minute,574,{} minuten,577,gnome-music,po/fy.po
+Disc {},580,Skiif {},581,gnome-music,po/fy.po
+Selected {} song,584,No {} ferske selektearre,586,gnome-music,po/fy.po
+Selected {} song,584,No {} ferskes selektearre,587,gnome-music,po/fy.po
+Your music listening is reported to Last.fm.,590,De muzyk dêr't jo nei lústerje wurd nei Last.fm ferstjoerd.,591,gnome-music,po/fy.po
+Your music listening is not reported to Last.fm.,594,"De muzyk dêr't jo nei lústerje, wurdt net nei Last.fm ferstjoerd.",595,gnome-music,po/fy.po
+Logged in as {},599,Oanmeld as {},600,gnome-music,po/fy.po
+Configure,603,Ynstelle,604,gnome-music,po/fy.po
+Playlist {} removed,607,Ofspyllist {} fuortsmiten,608,gnome-music,po/fy.po
+{} removed from {},611,{} út {} fuortsmiten,612,gnome-music,po/fy.po
+Pause,615,Skoft,616,gnome-music,po/fy.po
+{} Song,619,{} Ferske,621,gnome-music,po/fy.po
+{} Song,619,{} Ferskes,622,gnome-music,po/fy.po
+Select Command,24,Kommando selektearje,25,gnome-session,po/fy.po
+Add Startup Program,28,Opstartprogramma tafoegje,29,gnome-session,po/fy.po
+Edit Startup Program,32,Opstartprogramma bewurkje,33,gnome-session,po/fy.po
+The startup command cannot be empty,36,It opstartkommando kin net leech wêze,37,gnome-session,po/fy.po
+The startup command is not valid,40,It opstartkommando is net jildich,41,gnome-session,po/fy.po
+Enabled,44,Ynskeakele,45,gnome-session,po/fy.po
+Icon,48,Ikoan,49,gnome-session,po/fy.po
+Program,52,Programma,53,gnome-session,po/fy.po
+Startup Applications Preferences,56,Ynstellingen foar opstarttapassingen,57,gnome-session,po/fy.po
+No name,60,Gjin namme,61,gnome-session,po/fy.po
+No description,64,Gjin beskriuwing,65,gnome-session,po/fy.po
+Version of this application,68,Ferzje fan dizze tapassing,69,gnome-session,po/fy.po
+Could not display help document,72,Koe it help dokumint net werjaan,73,gnome-session,po/fy.po
+GNOME fallback,76,Gnome weromfal,77,gnome-session,po/fy.po
+GNOME,80,Gnome,81,gnome-session,po/fy.po
+This session logs you into GNOME,84,Dizze sesje meld jo oan by Gnome,85,gnome-session,po/fy.po
+<b>Some programs are still running:</b>,88,<b>Sommiche tapassingen rinne noch:</b>,89,gnome-session,po/fy.po
+Waiting for the program to finish.  Interrupting the program may cause you to lose work.,92,Oan it wachtsjen oant it programma ôfrin is. It programma ûnderbrekke kin jo wurk fuort meitsje.,95,gnome-session,po/fy.po
+Choose what applications to start when you log in,100,Kies hokker tapassingen start wurden by it oanmelde,101,gnome-session,po/fy.po
+Startup Applications,104,Opstarttapassingen,105,gnome-session,po/fy.po
+Additional startup _programs:,108,Ekstra opstart_programma's:,109,gnome-session,po/fy.po
+Browse…,112,Blêdzje…,113,gnome-session,po/fy.po
+Co_mmand:,116,Ko_mmando:,117,gnome-session,po/fy.po
+Comm_ent:,120,Taljochting:,121,gnome-session,po/fy.po
+Options,124,Opsjes,125,gnome-session,po/fy.po
+Startup Programs,128,Opstartprogramma's,129,gnome-session,po/fy.po
+_Automatically remember running applications when logging out,132,Ûnthâld rinnende tapassingen _automatysk by ôfmelde,133,gnome-session,po/fy.po
+_Name:,136,_Namme:,137,gnome-session,po/fy.po
+_Remember Currently Running Application,140,Ûnthâld _rinnende tapassingen,141,gnome-session,po/fy.po
+File is not a valid .desktop file,145,Triem is gjin jildich .desktop-triem,146,gnome-session,po/fy.po
+Unrecognized desktop file Version '%s',150,Ûnbekend fersje '%s' yn desktop-triem,151,gnome-session,po/fy.po
+Starting %s,155,Dwaande mei it starte fan %s,156,gnome-session,po/fy.po
+Application does not accept documents on command line,160,Tapassing akseptearret gjin dokuminten op de kommandorigel,161,gnome-session,po/fy.po
+Unrecognized launch option: %d,165,Ûnbekende startopsje: %d,166,gnome-session,po/fy.po
+Can't pass document URIs to a 'Type=Link' desktop entry,170,Kin gjin dokumint URIs oan in .desktop-triem mei 'Type=Link' trochjaan,171,gnome-session,po/fy.po
+Not a launchable item,175,Gjin útfierber item,176,gnome-session,po/fy.po
+Disable connection to session manager,179,Ferbining mei sesjebehearder útskeakelje,180,gnome-session,po/fy.po
+Specify file containing saved configuration,183,Triem mei bewarre konfiguraasje jaan,184,gnome-session,po/fy.po
+FILE,187,TRIEM,188,gnome-session,po/fy.po
+Specify session management ID,191,Sesjebehear-ID oantsjutte,192,gnome-session,po/fy.po
+Session management options:,199,Sesjebehearopsjes:,200,gnome-session,po/fy.po
+Show session management options,203,Sesjebehearopsjes sjen litte,204,gnome-session,po/fy.po
+There is a problem with the configuration server.\n(%s exited with status %d),208,Der is in probleem mei de konfiguraasjetsjinner.\n(%s útgongen mei status %d),211,gnome-session,po/fy.po
+Icon '%s' not found,217,Ikoan '%s' net fûn,218,gnome-session,po/fy.po
+Unknown,221,Ûnbekend,222,gnome-session,po/fy.po
+A program is still running:,225,In programma rint noch:,226,gnome-session,po/fy.po
+Some programs are still running:,229,Guon programma's rinne noch:,230,gnome-session,po/fy.po
+Waiting for programs to finish.  Interrupting these programs may cause you to lose work.,233,Wachtsjen op it einigjen fan programma's. Ûnderbrekken fan dizze programma's kin jo wurk kwyt meitsje.,236,gnome-session,po/fy.po
+Switch User Anyway,241,Brûker dochs wikselje,242,gnome-session,po/fy.po
+Log Out Anyway,245,Dochs ôfmelde,246,gnome-session,po/fy.po
+Suspend Anyway,249,Dochs ûnderbrekke,250,gnome-session,po/fy.po
+Hibernate Anyway,253,Dochs sliepe,254,gnome-session,po/fy.po
+Shut Down Anyway,257,Dochs ôfslute,258,gnome-session,po/fy.po
+Reboot Anyway,261,Dochs opnij starte,262,gnome-session,po/fy.po
+Lock Screen,265,Skerm skoattelje,266,gnome-session,po/fy.po
+Cancel,269,Ôfbrekke,270,gnome-session,po/fy.po
+You will be automatically logged out in %d second.,277,Jo wurde automatysk ôfmelde yn %d sekonde.,279,gnome-session,po/fy.po
+You will be automatically logged out in %d second.,277,Jo wurde automatysk ôfmelde yn %d sekonde.,280,gnome-session,po/fy.po
+This system will be automatically shut down in %d second.,284,Dit systeem sil automatysk ôfsluten wurde yn %d sekonde.,286,gnome-session,po/fy.po
+This system will be automatically shut down in %d second.,284,Dit systeem sil automatysk ôfsluten wurde yn %d sekonde.,287,gnome-session,po/fy.po
+"You are currently logged in as \""%s\"".",291,"Jo binne no oanmeld as \""%s\""",292,gnome-session,po/fy.po
+Log out of this system now?,295,No ôfmelde fan dit systeem?,296,gnome-session,po/fy.po
+_Switch User,299,Brûker _skeakelje?,300,gnome-session,po/fy.po
+_Log Out,304,Ôfme_lde,305,gnome-session,po/fy.po
+Shut down this system now?,308,Dit systeem no ôfslúte?,309,gnome-session,po/fy.po
+S_uspend,312,Ûnderbrekke,313,gnome-session,po/fy.po
+_Hibernate,316,Sliepe,317,gnome-session,po/fy.po
+_Restart,320,Opnij sta_rte,321,gnome-session,po/fy.po
+_Shut Down,324,Ôf_slúte,325,gnome-session,po/fy.po
+Try _Recovery,328,Fe_rhelp besykje,329,gnome-session,po/fy.po
+A system error has occurred: %s,333,In systeemflater is bard: %s,334,gnome-session,po/fy.po
+A fatal system error has occurred: %s,338,In fatale systeemflater is bart: %s,339,gnome-session,po/fy.po
+Exited with code %d,343,Útgean mei koade %d,344,gnome-session,po/fy.po
+Killed by signal %d,348,Ôfbrutsen troch sinjaal %d,349,gnome-session,po/fy.po
+Stopped by signal %d,353,Stoppet troch signaal %d,354,gnome-session,po/fy.po
+Component '%s': %s,360,Komponint '%s': %s,361,gnome-session,po/fy.po
+Killed by signal,364,Ôfbrutsen troch sinjaal,365,gnome-session,po/fy.po
+Timed out,370,Wachttiid ferstriken,371,gnome-session,po/fy.po
+GNOME 3 Failed to Load,374,Gnome 3 koe net laden wurde,375,gnome-session,po/fy.po
+Unfortunately GNOME 3 failed to start properly and started in the <i>fallback mode</i>.\n\nThis most likely means your system (graphics hardware or driver) is not capable of delivering the full GNOME 3 experience.,378,Spitigernôch is Gnome 3 net goed starte en begjint no in de <i>weromfal modus</i>.\n\nDit betsjut wierskynlik dat jo systeem (grafyske hardware of stjoerprogramma) net de hiele Gnome 3 ûnderfining kin bringe.,384,gnome-session,po/fy.po
+Learn more about GNOME 3,392,Mear ynformaasje oer Gnome 3,393,gnome-session,po/fy.po
+Not responding,396,Reagearret net,397,gnome-session,po/fy.po
+This program is blocking logout.,400,Dit programma hâldt it ôfmelde tsjin,401,gnome-session,po/fy.po
+Refusing new client connection because the session is currently being shut down\n,404,Weigert nije ferbining mei klant omdat de sesje no ôfsluten wurd\n,407,gnome-session,po/fy.po
+Could not create ICE listening socket: %s,411,Koe net ICE-lústerjende hâlder oanmeitsje: %s,412,gnome-session,po/fy.po
+Unable to start login session (and unable to connect to the X server),417,Kin oanmeldsesje net starte (en kin gjin kontakt mei de X-tsjinner meitsje),418,gnome-session,po/fy.po
+Override standard autostart directories,422,Standert autostarttriemtafels oerwâldzje,423,gnome-session,po/fy.po
+Session to use,426,Te brûken sesje,427,gnome-session,po/fy.po
+Enable debugging code,430,Útbrekkoade ynskeakelje,431,gnome-session,po/fy.po
+Do not load user-specified applications,434,Net troch de brûker oantsjutte programma's lade,435,gnome-session,po/fy.po
+ - the GNOME session manager,438, - de Gnome sesjebehearder,439,gnome-session,po/fy.po
+Log out,442,Ôfmelde,443,gnome-session,po/fy.po
+Power off,446,Ôfslute,447,gnome-session,po/fy.po
+Ignoring any existing inhibitors,450,Alle besteande ferbieders negearjend,451,gnome-session,po/fy.po
+Don't prompt for user confirmation,454,De brûker gjin befêstiging freegje,455,gnome-session,po/fy.po
+Could not connect to the session manager,458,Koe net ferbine mei de sesjebehearder,459,gnome-session,po/fy.po
+Program called with conflicting options,462,Programma oanroppen mei stridige opsjes,463,gnome-session,po/fy.po
+Activate favorite application 1,33,Aktivearje favorite applikaasje 1,34,gnome-shell,po/fy.po
+Activate favorite application 2,37,Aktivearje favorite applikaasje 2,38,gnome-shell,po/fy.po
+Activate favorite application 3,41,Aktivearje favorite applikaasje 3,42,gnome-shell,po/fy.po
+Activate favorite application 4,45,Aktivearje favorite applikaasje 4,46,gnome-shell,po/fy.po
+Activate favorite application 5,49,Aktivearje favorite applikaasje 5,50,gnome-shell,po/fy.po
+Activate favorite application 6,53,Aktivearje favorite applikaasje 6,54,gnome-shell,po/fy.po
+Activate favorite application 7,57,Aktivearje favorite applikaasje 7,58,gnome-shell,po/fy.po
+Activate favorite application 8,61,Aktivearje favorite applikaasje 8,62,gnome-shell,po/fy.po
+Activate favorite application 9,65,Aktivearje favorite applikaasje 9,66,gnome-shell,po/fy.po
+System,69,Systeem,70,gnome-shell,po/fy.po
+Show the notification list,73,Lit de notifikaasje list sjen,74,gnome-shell,po/fy.po
+Focus the active notification,77,Fokus op de aktive notifikaasje,78,gnome-shell,po/fy.po
+Show the overview,81,Lit it oersjoch sjen,82,gnome-shell,po/fy.po
+Show all applications,85,Alle applikaasjes sjen litte,86,gnome-shell,po/fy.po
+Open the application menu,89,It applikaasje menu iepenje,90,gnome-shell,po/fy.po
+Window management and application launching,97,Finster behear en applikaasjes útfiere,98,gnome-shell,po/fy.po
+Enable internal tools useful for developers and testers from Alt-F2,101,Intern ark brûkber is foar ûntwikkelders en testers ynskeakelje mei Alt-F2,102,gnome-shell,po/fy.po
+UUIDs of extensions to enable,112,UUIDs fan it yn te skeakeljen taheaksel,113,gnome-shell,po/fy.po
+UUIDs of extensions to force disabling,124,UUIDs fan it forseart út te skeakeljen taheaksel,125,gnome-shell,po/fy.po
+Disable user extensions,137,Brûkersútwreidingen útskeakelje,138,gnome-shell,po/fy.po
+Enable introspection API,225,Yntrospeksje API ynskeakelje,226,gnome-shell,po/fy.po
+Switch to application 1,301,Wikselje nei applikaasje 1,302,gnome-shell,po/fy.po
+Switch to application 2,305,Wikselje nei applikaasje 2,306,gnome-shell,po/fy.po
+Switch to application 3,309,Wikselje nei applikaasje 3,310,gnome-shell,po/fy.po
+Switch to application 4,313,Wikselje nei applikaasje 4,314,gnome-shell,po/fy.po
+Switch to application 5,317,Wikselje nei applikaasje 5,318,gnome-shell,po/fy.po
+Switch to application 6,321,Wikselje nei applikaasje 6,322,gnome-shell,po/fy.po
+Switch to application 7,325,Wikselje nei applikaasje 7,326,gnome-shell,po/fy.po
+Switch to application 8,329,Wikselje nei applikaasje 8,330,gnome-shell,po/fy.po
+Switch to application 9,333,Wikselje nei applikaasje 9,334,gnome-shell,po/fy.po
+Limit switcher to current workspace.,338,Skeakelder ta de aktyve wurkromte limitearje,339,gnome-shell,po/fy.po
+"If true, only applications that have windows on the current workspace are shown in the switcher. Otherwise, all applications are included.",342,"As dit wier is, wurde allinich applikaasjes mei finsters op de aktive wurkromte sjen litten yn de skeakelder. Sa net, dan wurde alle applikaasjes sjen litten.",345,gnome-shell,po/fy.po
+The application icon mode.,351,De ikoan modus fan de applikaasje,352,gnome-shell,po/fy.po
+Locations,368,Lokaasjes,369,gnome-shell,po/fy.po
+The locations to show in world clocks,372,De lokaasje om wrâldklokken sjen te litten,373,gnome-shell,po/fy.po
+Automatic location,376,Automatyske lokaasje,377,gnome-shell,po/fy.po
+Whether to fetch the current location or not,380,Oft de aktuele lokaasje ophele wurde moat of net.,381,gnome-shell,po/fy.po
+Location,384,Lokaasje,385,gnome-shell,po/fy.po
+The location for which to show a forecast,388,De lokaasje wer in waarsfoarsizzing for sjen litte wurde moat,389,gnome-shell,po/fy.po
+Network Login,421,Netwurk Ynlog,422,gnome-shell,po/fy.po
+Something’s gone wrong,426,Der is wat ferkeard gien,427,gnome-shell,po/fy.po
+"We’re very sorry, but there’s been a problem: the settings for this extension can’t be displayed. We recommend that you report the issue to the extension authors.",430,"It spiit ús hiel bot, mar der hat harren in flater foar dien: de ynstellings foar dit taheaksel kinne net sjen litten wurde. We riede jo oan it probleem te rapportearjen by de skriuwers fan it taheaksel.",434,gnome-shell,po/fy.po
+Technical Details,440,Technyske Details,441,gnome-shell,po/fy.po
+Homepage,444,Thússide,445,gnome-shell,po/fy.po
+Visit extension homepage,448,Thússide fan taheaksel besykje,449,gnome-shell,po/fy.po
+Cancel,456,Ôfbrekke,457,gnome-shell,po/fy.po
+Password,465,Wachtwurd,466,gnome-shell,po/fy.po
+Choose Session,469,Sesje kieze,470,gnome-shell,po/fy.po
+Not listed?,473,Net yn de list?,474,gnome-shell,po/fy.po
+Username,488,Brûkersnamme,489,gnome-shell,po/fy.po
+Login Window,492,Ynlog Finster,493,gnome-shell,po/fy.po
+Power Off,514,Útskeakelje,515,gnome-shell,po/fy.po
+Restart,525,Opnij starte,526,gnome-shell,po/fy.po
+Log Out,547,Útlogge,548,gnome-shell,po/fy.po
+Command not found,593,Kommando net fûn,594,gnome-shell,po/fy.po
+Could not parse command:,599,Koe kommando net ferwurkje:,600,gnome-shell,po/fy.po
+Execution of “%s” failed:,604,Útfieren fan “%s” mislearre:,605,gnome-shell,po/fy.po
+Just now,608,No krekt,609,gnome-shell,po/fy.po
+%d minute ago,613,%d minút lyn,615,gnome-shell,po/fy.po
+%d minute ago,613,%d minúten lyn,616,gnome-shell,po/fy.po
+%d hour ago,620,%d oere lyn,622,gnome-shell,po/fy.po
+%d hour ago,620,%d oeren lyn,623,gnome-shell,po/fy.po
+Yesterday,626,Juster,627,gnome-shell,po/fy.po
+%d day ago,631,%d dei lyn,633,gnome-shell,po/fy.po
+%d day ago,631,%d dagen lien,634,gnome-shell,po/fy.po
+%d week ago,638,%d wike lyn,640,gnome-shell,po/fy.po
+%d week ago,638,%d wiken lien,641,gnome-shell,po/fy.po
+%d month ago,645,%d moanne lyn,647,gnome-shell,po/fy.po
+%d month ago,645,%d moannen lyn,648,gnome-shell,po/fy.po
+%d year ago,652,%d jier lyn,654,gnome-shell,po/fy.po
+%d year ago,652,%d jieren lyn,655,gnome-shell,po/fy.po
+"Yesterday, %H∶%M",666,"Juster, %H∶%M",667,gnome-shell,po/fy.po
+"Yesterday, %l∶%M %p",703,"Juster, %l∶%M %p",704,gnome-shell,po/fy.po
+Hotspot Login,731,Hotspot Ynlog,732,gnome-shell,po/fy.po
+Your connection to this hotspot login is not secure. Passwords or other information you enter on this page can be viewed by people nearby.,735,Jo ferbining mei dit hotspot is net feilig. Wachtwurden as oare ynformaasje dy jo op dizze side ynfiere kin troch minsken ticht by jo sjûn wurde.,738,gnome-shell,po/fy.po
+Deny Access,745,Tagong Ûntsizze,746,gnome-shell,po/fy.po
+Grant Access,749,Tagong Tastean,750,gnome-shell,po/fy.po
+Unnamed Folder,753,Namleaze Folder,754,gnome-shell,po/fy.po
+Open Windows,758,Iepen Finsters,759,gnome-shell,po/fy.po
+New Window,762,Nij Finster,763,gnome-shell,po/fy.po
+Launch using Integrated Graphics Card,766,Útfiere mei Yntegrearre Grafyske Kaart,767,gnome-shell,po/fy.po
+Launch using Discrete Graphics Card,770,Útfiere mei Losse Grafyske Kaart,771,gnome-shell,po/fy.po
+Remove from Favorites,774,Út Favoriten wei smite,775,gnome-shell,po/fy.po
+Add to Favorites,778,Oan Favoriten tafoegje,779,gnome-shell,po/fy.po
+Show Details,782,Details sjen litte,783,gnome-shell,po/fy.po
+%s has been added to your favorites.,787,%s is oan jo favoriten tafoegt.,788,gnome-shell,po/fy.po
+%s has been removed from your favorites.,792,%s is út jo favoriten wei helle.,793,gnome-shell,po/fy.po
+Select Audio Device,796,Audio Apparaat Selektearje,797,gnome-shell,po/fy.po
+Sound Settings,800,Ynstellingen foar lûd,801,gnome-shell,po/fy.po
+Headset,808,Koptelefoan,809,gnome-shell,po/fy.po
+Microphone,812,Mikrofoan,813,gnome-shell,po/fy.po
+Change Background…,816,Êftergrûn feroarje,817,gnome-shell,po/fy.po
+Display Settings,820,Skerm Ynstellingen,821,gnome-shell,po/fy.po
+Settings,824,Ynstellingen,825,gnome-shell,po/fy.po
+Previous month,903,Ferline moanne,904,gnome-shell,po/fy.po
+Next month,907,Oankommende moanne,908,gnome-shell,po/fy.po
+Week %V,917,Wike %V,918,gnome-shell,po/fy.po
+No Notifications,921,Gjin Notifikaasjes,922,gnome-shell,po/fy.po
+Do Not Disturb,925,Net Steure,926,gnome-shell,po/fy.po
+Clear,929,Wiskje,930,gnome-shell,po/fy.po
+“%s” is not responding.,935,“%s” reagearet net.,936,gnome-shell,po/fy.po
+You may choose to wait a short while for it to continue or force the application to quit entirely.,939,Jo kinne der foar kieze om in koart skotsje te wachtsjen tot de applikaasje wer reageart of de applikaasje forseart ôf te slúten.,942,gnome-shell,po/fy.po
+Force Quit,947,Ôfsluten forsearje,948,gnome-shell,po/fy.po
+Wait,951,Wachtsje,952,gnome-shell,po/fy.po
+External drive connected,955,Ekstern stasjon oankeppele,956,gnome-shell,po/fy.po
+External drive disconnected,959,Ekstern stasjon ôfkeppele,960,gnome-shell,po/fy.po
+Open with %s,972,Iepenje mei %s,973,gnome-shell,po/fy.po
+Connect,982,Ferbine,983,gnome-shell,po/fy.po
+Key,986,Kaai,987,gnome-shell,po/fy.po
+Identity,994,Identiteit,995,gnome-shell,po/fy.po
+Service,998,Tsjinst,999,gnome-shell,po/fy.po
+Authentication required,1003,Ferifikaasje nedich,1004,gnome-shell,po/fy.po
+Network name,1018,Netwurk namme,1019,gnome-shell,po/fy.po
+DSL authentication,1022,DSL ferifikaasje,1023,gnome-shell,po/fy.po
+PIN code required,1026,PIN koade nedich,1027,gnome-shell,po/fy.po
+A password is required to connect to “%s”.,1041,Der is in wachtwurd nedich om te ferbinen mei “%s”.,1042,gnome-shell,po/fy.po
+Network Manager,1045,Netwurk Behearder,1046,gnome-shell,po/fy.po
+VPN password,1049,VPN wachtwurd,1050,gnome-shell,po/fy.po
+Authentication Required,1053,Ferifikaasje Nedich,1054,gnome-shell,po/fy.po
+Authenticate,1061,Ferifiearje,1062,gnome-shell,po/fy.po
+"Sorry, that didn’t work. Please try again.",1069,"Sorry, dat wurke net. Probearje it noch ris.",1070,gnome-shell,po/fy.po
+%s is now known as %s,1076,%s stiet no bekend as %s,1077,gnome-shell,po/fy.po
+Windows,1080,Finsters,1081,gnome-shell,po/fy.po
+Show Applications,1084,Applikaasjes sjen litte,1085,gnome-shell,po/fy.po
+Today,1123,Hjoed,1124,gnome-shell,po/fy.po
+Tomorrow,1127,Moarn,1128,gnome-shell,po/fy.po
+All Day,1135,De Folsleine Dei,1136,gnome-shell,po/fy.po
+No Events,1139,Gjin Eveneminten,1140,gnome-shell,po/fy.po
+Add world clocks…,1143,Wrâld klokken tafoegje…,1144,gnome-shell,po/fy.po
+World Clocks,1147,Wrâld Klokken,1148,gnome-shell,po/fy.po
+Loading…,1151,Lade…,1152,gnome-shell,po/fy.po
+Go online for weather information,1155,Gean online foar ynformaasje oer it waar,1156,gnome-shell,po/fy.po
+Weather information is currently unavailable,1159,Ynformaasje oer it waar is no net beskikber,1160,gnome-shell,po/fy.po
+Weather,1163,Waar,1164,gnome-shell,po/fy.po
+Select weather location…,1167,Lokaasje foar it waar selektearje…,1168,gnome-shell,po/fy.po
+Log Out %s,1173,Log %s út,1174,gnome-shell,po/fy.po
+Log Out,1178,Útlogge,1179,gnome-shell,po/fy.po
+%s will be logged out automatically in %d second.,1183,%s wurd oer %d sekonde automatysk útlogd.,1185,gnome-shell,po/fy.po
+%s will be logged out automatically in %d second.,1183,%s wurd oer %d sekonden automatysk útlogd. ,1186,gnome-shell,po/fy.po
+You will be logged out automatically in %d second.,1190,Jo wurde oer %d sekonde automatysk útlogd. ,1192,gnome-shell,po/fy.po
+You will be logged out automatically in %d second.,1190,Jo wurde oer %d sekonden automatysk útlogd. ,1193,gnome-shell,po/fy.po
+Log Out,1197,Útlogge,1198,gnome-shell,po/fy.po
+Power Off,1202,Útskeakelje,1203,gnome-shell,po/fy.po
+Install Updates & Power Off,1207,Fernijingen Ynstallearre & Útskeakelje,1208,gnome-shell,po/fy.po
+The system will power off automatically in %d second.,1212,It systeem sil automatysk ôfslute oer %d sekonde.,1214,gnome-shell,po/fy.po
+The system will power off automatically in %d second.,1212,It systeem sil automatysk ôfslute oer %d sekonden.,1215,gnome-shell,po/fy.po
+Install pending software updates,1219,Fernijingen yn ôfwachting ynstallearje,1220,gnome-shell,po/fy.po
+Power Off,1224,Ôfslute,1225,gnome-shell,po/fy.po
+Restart,1229,Opnij Starte,1230,gnome-shell,po/fy.po
+Install Updates & Restart,1234,Fernijingen Ynstallearre & Opnij Starte,1235,gnome-shell,po/fy.po
+The system will restart automatically in %d second.,1239,It systeem sil opnij starte oer %d sekonde.,1241,gnome-shell,po/fy.po
+The system will restart automatically in %d second.,1239,It systeem sil opnij starte oer %d sekonden.,1242,gnome-shell,po/fy.po
+Restart,1246,Opnij Starte,1247,gnome-shell,po/fy.po
+Restart & Install Updates,1251,Opnij Starte & Fernijingen Ynsteallearre,1252,gnome-shell,po/fy.po
+The system will automatically restart and install updates in %d second.,1256,It systeem sil automatysk opnij starte en fernijingen ynstallearje oer %d sekonde.,1259,gnome-shell,po/fy.po
+The system will automatically restart and install updates in %d second.,1256,It systeem sil automatysk opnij starte en fernijingen ynstallearje oer %d sekonden.,1262,gnome-shell,po/fy.po
+Restart &amp; Install,1268,Opnij Starte &amp; Ynstallearre,1269,gnome-shell,po/fy.po
+Install &amp; Power Off,1273,Ynstallearre & Útskeakelje,1274,gnome-shell,po/fy.po
+Power off after updates are installed,1278,Útskeakelje nei dat de fernijingen ynstallearre binne,1279,gnome-shell,po/fy.po
+%s %s will be installed after restart. Upgrade installation can take a long time: ensure that you have backed up and that the computer is plugged in.,1291,%s %s sil ynstallearre wurde nei it opnij opstarten. In ynstallaasje opwurdearje kin lang duorje: wês der wis fan dat jo in backup hawwe en dat jo kompûter oan de netstroom stiet.,1294,gnome-shell,po/fy.po
+Some applications are busy or have unsaved work,1304,Guon applikaasjes binne dwaande of hawwe wiizigingen dy nog net opslein binne,1305,gnome-shell,po/fy.po
+Other users are logged in,1309,Oare brûkers binne ynlogd,1310,gnome-shell,po/fy.po
+Boot Options,1314,Opstart Opsjes,1315,gnome-shell,po/fy.po
+%s (remote),1320,%s (op ôfstân),1321,gnome-shell,po/fy.po
+Install,1330,Ynstallearje,1331,gnome-shell,po/fy.po
+Install Extension,1334,Ynstallearre Útwreidingen,1335,gnome-shell,po/fy.po
+Extension Updates Available,1343,Útwreidings Fernijingen Beskikber,1344,gnome-shell,po/fy.po
+Extension updates are ready to be installed.,1347,Útwreidings fernijingen binne klear om ynstallearre te wurden.,1348,gnome-shell,po/fy.po
+The application %s wants to inhibit shortcuts,1357,De applikaasje %s wol fluchtoetsen tsjinhâlde,1358,gnome-shell,po/fy.po
+Deny,1371,Net tastean,1372,gnome-shell,po/fy.po
+Allow,1375,Tastean,1376,gnome-shell,po/fy.po
+Slow Keys Turned On,1379,Drêge Toetsen Oan set,1380,gnome-shell,po/fy.po
+Slow Keys Turned Off,1383,Drêge Toetsen Út set,1384,gnome-shell,po/fy.po
+"You just held down the Shift key for 8 seconds. This is the shortcut for the Slow Keys feature, which affects the way your keyboard works.",1387,"Jo hawwe de shift toets foar 8 sekonden ynhâlden. Dit is de fluchtoets foar de funksje \""drêge toetsen\"", dy fan ynfloed is op hoe as jo toetseboerd wurket.",1390,gnome-shell,po/fy.po
+Sticky Keys Turned On,1396,Plakkeriche Toetsen Oan set,1397,gnome-shell,po/fy.po
+Sticky Keys Turned Off,1400,Plakkeriche Toetsen Út set,1401,gnome-shell,po/fy.po
+"You just pressed the Shift key 5 times in a row. This is the shortcut for the Sticky Keys feature, which affects the way your keyboard works.",1404,"Jo hawwe de shift toets 5 keer achter inoar yndrukt. Dit is de fluchtoets foar de funksje \""plakkeriche toetsen\"", dy fan ynfloed is op hoe as jo toetseboerd wurket.",1407,gnome-shell,po/fy.po
+Leave On,1420,Oan litte,1421,gnome-shell,po/fy.po
+Turn On,1425,Oan sette,1426,gnome-shell,po/fy.po
+Turn Off,1433,Út sette,1434,gnome-shell,po/fy.po
+Leave Off,1437,Út litte,1438,gnome-shell,po/fy.po
+Region & Language Settings,1441,Regio & Taal Ynstellingen,1442,gnome-shell,po/fy.po
+No extensions installed,1445,Gjin útwreidingen ynstallearre,1446,gnome-shell,po/fy.po
+Hide Errors,1455,Flaters ferbergje,1456,gnome-shell,po/fy.po
+Show Errors,1459,Flaters sjen litte,1460,gnome-shell,po/fy.po
+Enabled,1463,Ynskeakele,1464,gnome-shell,po/fy.po
+Disabled,1469,Útskeakele,1470,gnome-shell,po/fy.po
+Error,1474,Flater,1475,gnome-shell,po/fy.po
+Out of date,1478,Ferâldere,1479,gnome-shell,po/fy.po
+Downloading,1482,Delhelje,1483,gnome-shell,po/fy.po
+View Source,1486,Boarne besjen,1487,gnome-shell,po/fy.po
+Web Page,1490,Web Side,1491,gnome-shell,po/fy.po
+Logged in as a privileged user,1494,As befoarrjochte brûker ynlogd,1495,gnome-shell,po/fy.po
+System Information,1512,Systeem ynformaasje,1513,gnome-shell,po/fy.po
+Unknown artist,1516,Ûnbekende artyst,1517,gnome-shell,po/fy.po
+Unknown title,1520,Ûnbekende titel,1521,gnome-shell,po/fy.po
+Type to search,1528,Tikje om te sykjen,1529,gnome-shell,po/fy.po
+Applications,1532,Aplikaasjes,1533,gnome-shell,po/fy.po
+Undo,1536,Ûngedien meitsje,1537,gnome-shell,po/fy.po
+Overview,1542,Oersjoch,1543,gnome-shell,po/fy.po
+New shortcut…,1546,Nije fluchtoets…,1547,gnome-shell,po/fy.po
+Application defined,1550,Applikaasje definiearre,1551,gnome-shell,po/fy.po
+Switch monitor,1558,Fan skerm wikselje,1559,gnome-shell,po/fy.po
+Done,1566,Klear,1567,gnome-shell,po/fy.po
+Edit…,1570,Feroarje…,1571,gnome-shell,po/fy.po
+None,1574,Gjin,1575,gnome-shell,po/fy.po
+Press a button to configure,1578,Druk op in toets om yn te stellen,1579,gnome-shell,po/fy.po
+Press Esc to exit,1582,Druk op Esc om te sluten,1583,gnome-shell,po/fy.po
+Press any key to exit,1586,Druk op in toets om ôf te sluten,1587,gnome-shell,po/fy.po
+Quit,1590,Ôfslute,1591,gnome-shell,po/fy.po
+Activities,1596,Aktiviteiten,1597,gnome-shell,po/fy.po
+System,1601,Systeem,1602,gnome-shell,po/fy.po
+Top Bar,1605,Boppeste Balke,1606,gnome-shell,po/fy.po
+Run a Command,1609,In Kommando útfiere,1610,gnome-shell,po/fy.po
+Press ESC to close,1613,Druk op ESC om te sluten,1614,gnome-shell,po/fy.po
+Restart is not available on Wayland,1617,Kin net opnij starte ûnder Wayland,1618,gnome-shell,po/fy.po
+Restarting…,1621,Opnij oan it starten…,1622,gnome-shell,po/fy.po
+GNOME needs to lock the screen,1625,GNOME moat it skerm op slot sette,1626,gnome-shell,po/fy.po
+Unable to lock,1636,Kin net op slot sette,1637,gnome-shell,po/fy.po
+Screenshot taken,1644,Skermôfbylding makke,1645,gnome-shell,po/fy.po
+Searching…,1648,Oan it sykjen…,1649,gnome-shell,po/fy.po
+No results.,1652,Gjin resultaten.,1653,gnome-shell,po/fy.po
+%d more,1657,%d mear,1659,gnome-shell,po/fy.po
+%d more,1657,%d mear,1660,gnome-shell,po/fy.po
+Search,1663,Sykje,1664,gnome-shell,po/fy.po
+Copy,1667,Kopiearje,1668,gnome-shell,po/fy.po
+Paste,1671,Plakke,1672,gnome-shell,po/fy.po
+Show Text,1675,Tekst sjen litte,1676,gnome-shell,po/fy.po
+Hide Text,1679,Tekst Ferbergje,1680,gnome-shell,po/fy.po
+Caps lock is on.,1683,Caps lock stiet oan,1684,gnome-shell,po/fy.po
+Uses Keyfiles,1695,Brûkt Kaaibestannen,1696,gnome-shell,po/fy.po
+PIM Number,1706,PIM Nûmer,1707,gnome-shell,po/fy.po
+Remember Password,1710,Wachtwurd Ûnthâlde,1711,gnome-shell,po/fy.po
+Open %s,1720,Iepenje %s,1721,gnome-shell,po/fy.po
+The PIM must be a number or empty.,1724,"De PIM moat in nûmer wêze, of leech.",1725,gnome-shell,po/fy.po
+Unable to start %s,1730,Koe %s net starte,1731,gnome-shell,po/fy.po
+Couldn’t find the %s application,1736,Koe de %s applikaasje net fine,1737,gnome-shell,po/fy.po
+Accessibility,1740,Tagonklikheid,1741,gnome-shell,po/fy.po
+Zoom,1744,Grutter meitsje,1745,gnome-shell,po/fy.po
+Screen Reader,1748,Skerm lêzer,1749,gnome-shell,po/fy.po
+Screen Keyboard,1752,Skerm Toetseboerd,1753,gnome-shell,po/fy.po
+Sticky Keys,1760,Plakkeriche Toetsen,1761,gnome-shell,po/fy.po
+Slow Keys,1764,Drêge Toetsen,1765,gnome-shell,po/fy.po
+High Contrast,1776,Heech Kontrast,1777,gnome-shell,po/fy.po
+Large Text,1780,Grutte Tekst,1781,gnome-shell,po/fy.po
+Bluetooth Settings,1788,Bluetooth Ynstellingen,1789,gnome-shell,po/fy.po
+Bluetooth Off,1800,Bluetooth Út,1801,gnome-shell,po/fy.po
+Bluetooth On,1804,Bluetooth Oan,1805,gnome-shell,po/fy.po
+Brightness,1808,Helderheid,1809,gnome-shell,po/fy.po
+Single Click,1812,Inkelde Klik,1813,gnome-shell,po/fy.po
+Double Click,1816,Dûbelde Klik,1817,gnome-shell,po/fy.po
+Drag,1820,Slepe,1821,gnome-shell,po/fy.po
+Secondary Click,1824,Twadde Klik,1825,gnome-shell,po/fy.po
+Keyboard,1832,Toetseboerd,1833,gnome-shell,po/fy.po
+Show Keyboard Layout,1836,Toetseboerd Yndieling Besjen,1837,gnome-shell,po/fy.po
+Location Enabled,1840,Lokaasje Ynskeakele,1841,gnome-shell,po/fy.po
+Disable,1844,Útskeakelje,1845,gnome-shell,po/fy.po
+Privacy Settings,1848,Privacy Ynstellingen,1849,gnome-shell,po/fy.po
+Location In Use,1852,Lokaasje Yn Gebrûkt,1853,gnome-shell,po/fy.po
+Location Disabled,1856,Lokaasje Útskeakele,1857,gnome-shell,po/fy.po
+Enable,1860,Ynskeakelje,1861,gnome-shell,po/fy.po
+Allow location access,1864,Tagong ta lokaasje tastean,1865,gnome-shell,po/fy.po
+The app %s wants to access your location,1870,De applikaasje %s wol tagong ta jo lokaasje,1871,gnome-shell,po/fy.po
+Location access can be changed at any time from the privacy settings.,1874,Lokaasje tagong kin altyd feroare wurde yn de privacy ynstellingen.,1875,gnome-shell,po/fy.po
+<unknown>,1878,<ûnbekend>,1879,gnome-shell,po/fy.po
+%s Off,1884,%s Út,1885,gnome-shell,po/fy.po
+%s Connected,1890,%s Ferbûn,1891,gnome-shell,po/fy.po
+%s Unmanaged,1898,%s Unbehearre,1899,gnome-shell,po/fy.po
+%s Disconnecting,1904,%s Ferbining oan it ferbrekken,1905,gnome-shell,po/fy.po
+%s Connecting,1910,%s Oan it ferbinen,1911,gnome-shell,po/fy.po
+%s Requires Authentication,1916,%s Ferifikaasje Nedich,1917,gnome-shell,po/fy.po
+%s Unavailable,1930,%s Net beskikber,1931,gnome-shell,po/fy.po
+%s Connection Failed,1936,%s Ferbining Mislearre,1937,gnome-shell,po/fy.po
+Wired Settings,1940,Betriede Ynstellingen,1941,gnome-shell,po/fy.po
+%s Disabled,1957,%s Útskeakele,1958,gnome-shell,po/fy.po
+Connect to Internet,1961,Mei it ynternet ferbine,1962,gnome-shell,po/fy.po
+Airplane Mode is On,1965,Fleantúch Stân stiet Oan,1966,gnome-shell,po/fy.po
+Wi-Fi is disabled when airplane mode is on.,1969,Wi-Fi is útskeakele as fleantúch stân oan stiet.,1970,gnome-shell,po/fy.po
+Turn Off Airplane Mode,1973,Fleantúch Stân Út Sette,1974,gnome-shell,po/fy.po
+Wi-Fi is Off,1977,Wi-Fi stiet Út,1978,gnome-shell,po/fy.po
+Wi-Fi needs to be turned on in order to connect to a network.,1981,Wi-Fi moat ynskeakele wêze om mei in netwurk te ferbinen.,1982,gnome-shell,po/fy.po
+Turn On Wi-Fi,1985,Wi-Fi Ynskeakelje,1986,gnome-shell,po/fy.po
+Wi-Fi Networks,1989,Wi-Fi Netwurken,1990,gnome-shell,po/fy.po
+Select a network,1993,Netwurk selektearje,1994,gnome-shell,po/fy.po
+No Networks,1997,Gjin Netwurken,1998,gnome-shell,po/fy.po
+Use hardware switch to turn off,2001,Brûk de hardware knop om út te skeakeljen,2002,gnome-shell,po/fy.po
+Select Network,2005,Netwurk Selektearje,2006,gnome-shell,po/fy.po
+Wi-Fi Settings,2009,Wi-Fi Ynstellingen,2010,gnome-shell,po/fy.po
+%s Hotspot Active,2015,%s Hotspot Aktyf,2016,gnome-shell,po/fy.po
+%s Not Connected,2021,%s Net Ferbûn,2022,gnome-shell,po/fy.po
+connecting…,2025,oan it ferbinen…,2026,gnome-shell,po/fy.po
+authentication required,2030,ferifikaasje nedich,2031,gnome-shell,po/fy.po
+connection failed,2034,ferbining mislearre,2035,gnome-shell,po/fy.po
+VPN Settings,2038,VPN Ynstellingen,2039,gnome-shell,po/fy.po
+VPN Off,2046,VPN Út,2047,gnome-shell,po/fy.po
+Network Settings,2050,Netwurk Ynstellingen,2051,gnome-shell,po/fy.po
+%s Wired Connection,2055,%s Bekabelde Ferbining,2057,gnome-shell,po/fy.po
+%s Wired Connection,2055,%s Bekabelde Ferbiningen,2058,gnome-shell,po/fy.po
+%s Wi-Fi Connection,2062,%s Wi-Fi Ferbining,2064,gnome-shell,po/fy.po
+%s Wi-Fi Connection,2062,%s Wi-Fi Ferbiningen,2065,gnome-shell,po/fy.po
+Connection failed,2075,Ferbining mislearre,2076,gnome-shell,po/fy.po
+Activation of network connection failed,2079,Aktifaasje fan netwurk ferbining mislearre,2080,gnome-shell,po/fy.po
+Night Light Disabled,2083,Nachtlampe útskeakele,2084,gnome-shell,po/fy.po
+Night Light On,2087,Nachtlampe oan,2088,gnome-shell,po/fy.po
+Resume,2091,Troch gean,2092,gnome-shell,po/fy.po
+Disable Until Tomorrow,2095,Útskeakelje Oant Moarn,2096,gnome-shell,po/fy.po
+Power Settings,2099,Energy Ynstellingen,2100,gnome-shell,po/fy.po
+Fully Charged,2103,Folslein Opladen,2104,gnome-shell,po/fy.po
+Not Charging,2107,Net oan it Opladen,2108,gnome-shell,po/fy.po
+Estimating…,2113,Skatting oan it meitsjen…,2114,gnome-shell,po/fy.po
+%d∶%02d Remaining (%d %%),2119,%d∶%02d Oerbleaun (%d %%),2120,gnome-shell,po/fy.po
+%d∶%02d Until Full (%d %%),2125,%d∶%02d Oant Fol (%d %%),2126,gnome-shell,po/fy.po
+Screen is Being Shared,2135,Skerm wurd Dield,2136,gnome-shell,po/fy.po
+Turn off,2139,Út sette,2140,gnome-shell,po/fy.po
+Airplane Mode On,2146,Fleanmasine Modus Oan,2147,gnome-shell,po/fy.po
+Power Off / Log Out,2154,Útskeakelje / Útlogge,2155,gnome-shell,po/fy.po
+Restart…,2162,Opnij Starte…,2163,gnome-shell,po/fy.po
+Power Off…,2166,Útskeakelje…,2167,gnome-shell,po/fy.po
+Log Out,2170,Útlogge,2171,gnome-shell,po/fy.po
+Switch User…,2174,Fan brûker wikselje…,2175,gnome-shell,po/fy.po
+Unknown Thunderbolt device,2182,Ûnbekend Thunderbolt apperaat,2183,gnome-shell,po/fy.po
+New device has been detected while you were away. Please disconnect and reconnect the device to start using it.,2186,Der is in nij apparaat detektearre wylst jo fuort wienen. Keppelje dit apparaat ôf en wer oan om it te brûken.,2189,gnome-shell,po/fy.po
+Volume changed,2212,Stasjon feroare,2213,gnome-shell,po/fy.po
+Volume,2216,Stasjon,2217,gnome-shell,po/fy.po
+Join Displays,2230,Skermen Gearfoegje,2231,gnome-shell,po/fy.po
+External Only,2237,Allinnich Ekstern,2238,gnome-shell,po/fy.po
+Built-in Only,2244,Allinnich Ynboud,2245,gnome-shell,po/fy.po
+Click or press a key to unlock,2258,Klik of druk op in toets of fan't slot te heljen,2259,gnome-shell,po/fy.po
+Unlock Window,2262,Finster fan't slot helje,2263,gnome-shell,po/fy.po
+Log in as another user,2266,Ynlogge as in oare brûker,2267,gnome-shell,po/fy.po
+Welcome to GNOME %s,2271,Wolkom by GNOME %s,2272,gnome-shell,po/fy.po
+"If you want to learn your way around, check out the tour.",2275,"As jo graach witte wolle hoe oft dit ollegearre wurket, besykje dan de rûnlieding ris.",2276,gnome-shell,po/fy.po
+No Thanks,2281,Nee Tanke,2282,gnome-shell,po/fy.po
+Take Tour,2285,Nim de Rûnlieding,2286,gnome-shell,po/fy.po
+“%s” is ready,2290,“%s” is klear,2291,gnome-shell,po/fy.po
+Keep these display settings?,2295,Disse skerm ynstellingen bewarje?,2296,gnome-shell,po/fy.po
+Revert Settings,2302,Ynstellingen Weromsette,2303,gnome-shell,po/fy.po
+Keep Changes,2306,Feroaringen Bewarje,2307,gnome-shell,po/fy.po
+Minimize,2324,Minimalisearje,2325,gnome-shell,po/fy.po
+Unmaximize,2328,Net mear maximalisearje,2329,gnome-shell,po/fy.po
+Maximize,2332,Maksimalisearje,2333,gnome-shell,po/fy.po
+Move,2336,Ferpleatse,2337,gnome-shell,po/fy.po
+Resize,2340,Grutte feroarje,2341,gnome-shell,po/fy.po
+Move Titlebar Onscreen,2344,Titelbalke op it skerm pleatse,2345,gnome-shell,po/fy.po
+Always on Top,2348,Altyd Boppe oan,2349,gnome-shell,po/fy.po
+Always on Visible Workspace,2352,Altyd op de Sichtbere Wurkrome,2353,gnome-shell,po/fy.po
+Move to Workspace Left,2356,In Wurkromte nei Links ferplaetse,2357,gnome-shell,po/fy.po
+Move to Workspace Right,2360,In Wurkromte nei Rjochts ferplaetse,2361,gnome-shell,po/fy.po
+Move to Workspace Up,2364,In Wurkromte nei Omheech ferplaetse,2365,gnome-shell,po/fy.po
+Move to Workspace Down,2368,Nei Wurkromte nei Ûnderen ferplaetse,2369,gnome-shell,po/fy.po
+Move to Monitor Up,2372,In Skerm Omheech ferplaetse,2373,gnome-shell,po/fy.po
+Move to Monitor Down,2376,In Skerm nei Ûnderen ferplaetse,2377,gnome-shell,po/fy.po
+Move to Monitor Left,2380,In Skerm nei Links ferplaetse,2381,gnome-shell,po/fy.po
+Move to Monitor Right,2384,In Skerm nei Rjochts ferplaetse,2385,gnome-shell,po/fy.po
+Close,2388,Slute,2389,gnome-shell,po/fy.po
+Evolution Calendar,2392,Evolution Kalinder,2393,gnome-shell,po/fy.po
+Print version,2396,Ferzje útprinte,2397,gnome-shell,po/fy.po
+Mode used by GDM for login screen,2400,Modus dy brûkt wurd troch GDM foar it ynlogskerm,2401,gnome-shell,po/fy.po
+Unknown,2413,Ûnbekend,2414,gnome-shell,po/fy.po
+Failed to launch “%s”,2418,Koe “%s” net iepenje,2419,gnome-shell,po/fy.po
+Passwords do not match.,2422,Wachtwurden komme net oerien.,2423,gnome-shell,po/fy.po
+Password cannot be blank,2426,Wachtwurd mei net leech wêze,2427,gnome-shell,po/fy.po
+Extensions,2437,Útwreidingen,2438,gnome-shell,po/fy.po
+Manage your GNOME Extensions,2442,Jo GNOME Útwreidingen behearre,2443,gnome-shell,po/fy.po
+The GNOME Project,2446,It GNOME Projekt,2447,gnome-shell,po/fy.po
+Configure GNOME Shell Extensions,2456,GNOME shell Útwreidingen Konfigurearje,2457,gnome-shell,po/fy.po
+No Matches,2461,Gjin Oerienkomsten,2462,gnome-shell,po/fy.po
+Remove “%s”?,2466,Wolle jo “%s” fuortsmite?,2467,gnome-shell,po/fy.po
+Remove,2476,Fuortsmite,2477,gnome-shell,po/fy.po
+%d extension will be updated on next login.,2485,%d útwreiding sil mij de oankommende kear ynloggen fernijd wurde.,2487,gnome-shell,po/fy.po
+%d extension will be updated on next login.,2485,%d útwreidingen sille mij de oankommende kear ynloggen fernijd wurde.,2488,gnome-shell,po/fy.po
+The extension is incompatible with the current GNOME version,2492,De útwreiding is net kompatibel mei de lêste GNOME ferzje,2493,gnome-shell,po/fy.po
+The extension had an error,2496,De útwreiding hat in flater,2497,gnome-shell,po/fy.po
+Description,2502,Beskriuwing,2503,gnome-shell,po/fy.po
+Version,2507,Ferzje,2508,gnome-shell,po/fy.po
+Author,2511,Auteur,2512,gnome-shell,po/fy.po
+Website,2515,Webside,2516,gnome-shell,po/fy.po
+Remove…,2519,Fuortsmite…,2520,gnome-shell,po/fy.po
+About Extensions,2527,Oer Útwreidingen,2528,gnome-shell,po/fy.po
+"To find and add extensions, visit <a href=\""https://extensions.gnome.org\"">extensions.gnome.org</a>.",2531,"Om útwreidingen te finen en ta te foegjen, sjoch op <a href=\""https://extensions.gnome.org\"">extensions.gnome.org</a>.",2534,gnome-shell,po/fy.po
+Warning,2539,Warskôging,2540,gnome-shell,po/fy.po
+"Extensions can cause system issues, including performance problems. If you encounter problems with your system, it is recommended to disable all extensions.",2543,"Útwreidingen kinne foar systeemproblemen soargje, lykas ",2547,gnome-shell,po/fy.po
+Manually Installed,2550,Hânmjittich Ynstallearre,2551,gnome-shell,po/fy.po
+Built-In,2554,Ynboud,2555,gnome-shell,po/fy.po
+No Installed Extensions,2558,Gjin Ynstallearre Útwreidingen,2559,gnome-shell,po/fy.po
+Extension Updates Ready,2568,Útwreidings Fernijingen Beskikber,2569,gnome-shell,po/fy.po
+Log Out…,2572,Útlogge…,2573,gnome-shell,po/fy.po
+The new extension was successfully created in %s.\n,2578,De nije útwreiding is mei sukses oanmakke yn %s.\n,2579,gnome-shell,po/fy.po
+Name should be a very short (ideally descriptive) string.\nExamples are: %s,2583,Namme moat in hiel koart (it leafst beskriuwend) stikje tekst wêze.\nFoarbylden binne: %s,2586,gnome-shell,po/fy.po
+Name,2592,Namme,2593,gnome-shell,po/fy.po
+Description is a single-sentence explanation of what your extension does.\nExamples are: %s,2597,Beskriuwing is in inkelde rigel oan ferheldering fan wat de útwreiding docht.\nFoarbylden binne: %s,2600,gnome-shell,po/fy.po
+Choose one of the available templates:\n,2613,Kies út ien fan de beskikbere foarbylden:\n,2614,gnome-shell,po/fy.po
+Template,2617,Foarbyld,2618,gnome-shell,po/fy.po
+Enter extension information interactively,2649,Útwreidings ynformaasje interaktyf ynfiere,2650,gnome-shell,po/fy.po
+Create a new extension,2653,In nije útwreiding oanmeitsje,2654,gnome-shell,po/fy.po
+Unknown arguments,2658,Ûnbekende arguminten,2659,gnome-shell,po/fy.po
+Extension “%s” does not exist\n,2675,Útwreiding “%s” bestiet net\n,2676,gnome-shell,po/fy.po
+Disable an extension,2679,In útwreiding útskeakelje,2680,gnome-shell,po/fy.po
+No UUID given,2688,Gjin UUID opjûn,2689,gnome-shell,po/fy.po
+More than one UUID given,2697,Mear as ien UUID opjûn,2698,gnome-shell,po/fy.po
+Enable an extension,2701,In útwreiding ynskeakelje,2702,gnome-shell,po/fy.po
+Extension “%s” doesn't exist\n,2707,Útwreiding “%s” bestiet net\n,2708,gnome-shell,po/fy.po
+Show extensions info,2711,Útwreidings ynformaasje sjen litte,2712,gnome-shell,po/fy.po
+Overwrite an existing extension,2715,In besteande útwreiding oerskriuwe,2716,gnome-shell,po/fy.po
+Show user-installed extensions,2735,Troch de brûker ynstallearre útwreidingen sjen litte,2736,gnome-shell,po/fy.po
+Show system-installed extensions,2739,Troch it systeem ynstallearre útwreidingen sjen litte,2740,gnome-shell,po/fy.po
+Show enabled extensions,2743,Ynskeakele útwreidingen sjen litte,2744,gnome-shell,po/fy.po
+Show disabled extensions,2747,Únskeakele útwreidingen sjen litte,2748,gnome-shell,po/fy.po
+Show extensions with updates,2755,Útwreidingen mei fernijingen sjen litte,2756,gnome-shell,po/fy.po
+FILE,2767,BESTÂN,2768,gnome-shell,po/fy.po
+Extension “%s” doesn't have preferences\n,2821,Útwreiding “%s” hat gjin foarkarren\n,2822,gnome-shell,po/fy.po
+Opens extension preferences,2825,Iepent de útwreidings foarkarren,2826,gnome-shell,po/fy.po
+Original author,2862,Oarspronklike auteur,2863,gnome-shell,po/fy.po
+State,2866,Steat,2867,gnome-shell,po/fy.po
+Enable extension,2900,Útwreiding ynskeakelje,2901,gnome-shell,po/fy.po
+Disable extension,2904,Útwreiding útskeakelje,2905,gnome-shell,po/fy.po
+Uninstall extension,2912,Útwreiding fuortsmite,2913,gnome-shell,po/fy.po
+Open extension preferences,2925,Útwreidings foarkarren iepenje,2926,gnome-shell,po/fy.po
+Create extension,2929,Útwreiding oanmeitsje,2930,gnome-shell,po/fy.po
+An empty extension,2950,In lege útwreiding,2951,gnome-shell,po/fy.po
+System Sounds,2980,Systeem Lûd,2981,gnome-shell,po/fy.po
+Default Background,20,Standert eftergrûn,21,gnome-themes-extra,po/fy.po
+There is only one,28,Der is inkeld ien,29,gnome-themes-extra,po/fy.po
+High Contrast,32,Sterk kontrast,33,gnome-themes-extra,po/fy.po
+High contrast theme,36,Sterk-kontrasttema,37,gnome-themes-extra,po/fy.po
+High Contrast Inverse,40,Sterk omkeard kontrast,41,gnome-themes-extra,po/fy.po
+High contrast inverse theme,44,Sterk omkeard-kontrasttema,45,gnome-themes-extra,po/fy.po
+Low Contrast,48,Swak kontrast,49,gnome-themes-extra,po/fy.po
+Low contrast theme,52,Swak-kontrasttema,53,gnome-themes-extra,po/fy.po
+Weather,30,Waar,31,gnome-weather,po/fy.po
+Show weather conditions and forecast,35,Waaromstannicheden en waarfoarsizzingen sjen litte,36,gnome-weather,po/fy.po
+"A small application that allows you to monitor the current weather conditions for your city, or anywhere in the world.",39,"In lytse applikaasje dy't de hjoeddeistiche waarsomstannicheden byhâld foar jo stêd, of earne oars op'e wrâld.",42,gnome-weather,po/fy.po
+"It provides access to detailed forecasts, up to 7 days, with hourly details for the current and next day, using various internet services.",47,"It jout tagong ta in detaillearre waarfoarsizzing, oant 7 dagen foarút, mei in oerliks oersjoch far hjoerd en moarn, en makket gebrûk fan ferskate ynternet tsjinsten.",50,gnome-weather,po/fy.po
+"It also optionally integrates with the GNOME Shell, allowing you to see the current conditions of the most recently searched cities by just typing the name in the Activities Overview.",56,"Kin yntegrearre wurde yn GNOME Shell, wat de hjoeddeistiche waaromstannicheden fan de meast sochte stêden sichtber makket troch allinich mar harren namme yn it Activiteiten Oersjoch te typen.",60,gnome-weather,po/fy.po
+The GNOME Project,66,It GNOME Projekt,67,gnome-weather,po/fy.po
+Weather;Forecast;,71,Weather;Waar;Forecast;Waarfoarsizzing;,72,gnome-weather,po/fy.po
+Allows weather information to be displayed for your location.,75,Lit ynformaasje oer it waar sjen foar jo lokaasje.,76,gnome-weather,po/fy.po
+Configured cities to show weather for,79,Ynstelde stêden om it waar foar sjen te litten,80,gnome-weather,po/fy.po
+The locations shown in the world view of gnome-weather. Each value is a GVariant returned by gweather_location_serialize().,83,"De lokaasjes dy sjen litten wurde yn it wrâld oersjoch fan gnome-weather. Eltse wearde is in GVariant, dy't út gweather_location_serialize() komt.",86,gnome-weather,po/fy.po
+Automatic location,91,Automatyske lokaasje,92,gnome-weather,po/fy.po
+The automatic location is the value of automatic-location switch which decides whether to fetch current location or not.,95,De automatyske lokaasje is de wearde fan de automatyske-lokaasje knop dy't steld as de hjoeddeistiche lokaasje ophelle wurde moat as net.,98,gnome-weather,po/fy.po
+City view,103,Stêd oersjoch,104,gnome-weather,po/fy.po
+Loading…,107,Oan it Laden…,108,gnome-weather,po/fy.po
+Night,111,Nacht,112,gnome-weather,po/fy.po
+Morning,115,Moarn,116,gnome-weather,po/fy.po
+Afternoon,119,Neimiddei,120,gnome-weather,po/fy.po
+Evening,123,Jûn,124,gnome-weather,po/fy.po
+Automatic Location,127,Automatyske Lokaasje,128,gnome-weather,po/fy.po
+Locating…,131,Lokaasje oan it opheljen…,132,gnome-weather,po/fy.po
+Search for a city,135,Sykje om in stêd,136,gnome-weather,po/fy.po
+Viewed Recently,139,Resintlik besjûn,140,gnome-weather,po/fy.po
+_Temperature Unit,143,_Temperatoer Ienheid,144,gnome-weather,po/fy.po
+_About Weather,155,_Oer Waar,156,gnome-weather,po/fy.po
+Places,159,Plakken,160,gnome-weather,po/fy.po
+Current conditions,163,Hjoeddeistiche waarsomstannichheden,164,gnome-weather,po/fy.po
+Hourly,167,Oerliks,168,gnome-weather,po/fy.po
+Daily,171,Deistich,172,gnome-weather,po/fy.po
+Refresh,175,Ferfarskje,176,gnome-weather,po/fy.po
+Select Location,179,Lokaasje Selektearje,180,gnome-weather,po/fy.po
+Welcome to Weather!,183,Wolkom by Waar!,184,gnome-weather,po/fy.po
+"To get started, select a location.",187,Om te begjinne selektearje jo in lokaasje.,188,gnome-weather,po/fy.po
+Search for a city or country,191,Sykje om in stêd of lân,192,gnome-weather,po/fy.po
+Feels like %.0f°,196,Fielt lykas %.0f°,197,gnome-weather,po/fy.po
+Updated just now.,200,Krekt bywurke.,201,gnome-weather,po/fy.po
+Updated %d minute ago.,205,%d minút lyn bywurke,207,gnome-weather,po/fy.po
+Updated %d minute ago.,205,%d minuten lyn bywurke,208,gnome-weather,po/fy.po
+Updated %d hour ago.,212,%d oere lyn bywurke,214,gnome-weather,po/fy.po
+Updated %d hour ago.,212,%d oeren lyn bywurke,215,gnome-weather,po/fy.po
+Updated %d day ago.,219,%d dei lyn bywurke,221,gnome-weather,po/fy.po
+Updated %d day ago.,219,%d dagen lyn bywurke,222,gnome-weather,po/fy.po
+Updated %d week ago.,226,%d wike lyn bywurke,228,gnome-weather,po/fy.po
+Updated %d week ago.,226,%d wiken lyn bywurke,229,gnome-weather,po/fy.po
+Updated %d month ago.,233,%d moanne lyn bywurke,235,gnome-weather,po/fy.po
+Updated %d month ago.,233,%d moannen lyn bywurke,236,gnome-weather,po/fy.po
+Daily Forecast,239,Deistiche Waarfoarsizzing,240,gnome-weather,po/fy.po
+Forecast not available,243,Waarfoarsizzing net beskikber,244,gnome-weather,po/fy.po
+%b %e,248,%e %b,249,gnome-weather,po/fy.po
+Hourly Forecast,252,Oerlikse Waarfoarsizzing,253,gnome-weather,po/fy.po
+A weather application,265,In waar applikaasje,266,gnome-weather,po/fy.po
+World view,269,Wrâld oersjoch,270,gnome-weather,po/fy.po
+File is not a valid .desktop file,29,Triem is gjin deugdlike .desktop-triem,30,nautilus,po/fy.po
+Unrecognized desktop file Version '%s',34,Net weromkende fersje '%s' fan desktop-triem,35,nautilus,po/fy.po
+Starting %s,39,Uteinsette fan %s,40,nautilus,po/fy.po
+Application does not accept documents on command line,44,Applikaasje akseptearret gjin dokuminten op de kommandorigel,45,nautilus,po/fy.po
+Unrecognized launch option: %d,49,Net weromkende opstartopsje: %d,50,nautilus,po/fy.po
+Can't pass document URIs to a 'Type=Link' desktop entry,54,Kin gjin dokumint URIs oan in 'Type=Link' buroblêd ynfier trochjaan,55,nautilus,po/fy.po
+Not a launchable item,59,Gjin útein te setten item,60,nautilus,po/fy.po
+Disable connection to session manager,63,Ferbining mei sesjebehearder útskeakelje,64,nautilus,po/fy.po
+Specify file containing saved configuration,67,Triem mei bewarre konfiguraasje,68,nautilus,po/fy.po
+FILE,71,TRIEM,72,nautilus,po/fy.po
+Specify session management ID,75,Sesjebehearder-ID,76,nautilus,po/fy.po
+Session management options:,83,Opsjes foar sesjebehear:,84,nautilus,po/fy.po
+Show session management options,87,Opsjes foar sesjebehear sjen litte,88,nautilus,po/fy.po
+Apparition,91,Ferskining,92,nautilus,po/fy.po
+Azul,95,Azuerblau,96,nautilus,po/fy.po
+Black,99,Swart,100,nautilus,po/fy.po
+Blue Ridge,103,Blaue Richel,104,nautilus,po/fy.po
+Blue Rough,107,Blau Rûch,108,nautilus,po/fy.po
+Blue Type,111,Blaue Type,112,nautilus,po/fy.po
+Brushed Metal,115,boarstelje Metaal,116,nautilus,po/fy.po
+Bubble Gum,119,Kaugom,120,nautilus,po/fy.po
+Burlap,123,Jute,124,nautilus,po/fy.po
+C_olors,127,Kleuren,128,nautilus,po/fy.po
+Camouflage,131,Kamûflaazje,132,nautilus,po/fy.po
+Chalk,135,Kalk,136,nautilus,po/fy.po
+Charcoal,139,Houtskoal,140,nautilus,po/fy.po
+Concrete,143,Beton,144,nautilus,po/fy.po
+Cork,147,Koark,148,nautilus,po/fy.po
+Countertop,151,Oanrjocht,152,nautilus,po/fy.po
+Danube,155,Donau,156,nautilus,po/fy.po
+Dark Cork,159,Dûnker Koark,160,nautilus,po/fy.po
+Dark GNOME,163,Donker GNOME,164,nautilus,po/fy.po
+Deep Teal,167,Djip Grienblau,168,nautilus,po/fy.po
+Dots,171,Stippen,172,nautilus,po/fy.po
+Drag a color to an object to change it to that color,175,Sleep in kleur nei in objekt om hja dizze kleur te jaan,176,nautilus,po/fy.po
+Drag a pattern tile to an object to change it,179,Sleepje in patroan nei in objekt om it te feroarjen,180,nautilus,po/fy.po
+Drag an emblem to an object to add it to the object,183,Sleepje in embleem nei in objekt om it dêroan ta te foegjen,184,nautilus,po/fy.po
+Eclipse,187,Eklips,188,nautilus,po/fy.po
+Envy,191,Jaloerskens,192,nautilus,po/fy.po
+Erase,198,Útwisse,199,nautilus,po/fy.po
+Fibers,202,Rizels,203,nautilus,po/fy.po
+Fire Engine,206,Brânspuit,207,nautilus,po/fy.po
+Fleur De Lis,210,Fleur de Lis,211,nautilus,po/fy.po
+Floral,214,Blomje,215,nautilus,po/fy.po
+Fossil,218,Fossyl,219,nautilus,po/fy.po
+Granite,226,Granyt,227,nautilus,po/fy.po
+Green Weave,234,Grien Weefsel,235,nautilus,po/fy.po
+Ice,238,Iis,239,nautilus,po/fy.po
+Leaf,246,Blêd,247,nautilus,po/fy.po
+Lemon,250,Sitroen,251,nautilus,po/fy.po
+Manila Paper,258,Manilleensk Papier,259,nautilus,po/fy.po
+Moss Ridge,262,Mosk Richel,263,nautilus,po/fy.po
+Mud,266,Modder,267,nautilus,po/fy.po
+Numbers,270,Nûmers,271,nautilus,po/fy.po
+Ocean Strips,274,Seestripen,275,nautilus,po/fy.po
+Orange,282,Oranje,283,nautilus,po/fy.po
+Pale Blue,286,Bleek Blau,287,nautilus,po/fy.po
+Purple Marble,290,Pears Moarmer,291,nautilus,po/fy.po
+Ridged Paper,294,Richelt Papier,295,nautilus,po/fy.po
+Rough Paper,298,Rûch Papier,299,nautilus,po/fy.po
+Ruby,302,Robyn,303,nautilus,po/fy.po
+Sea Foam,306,Seeskom,307,nautilus,po/fy.po
+Shale,310,Laai,311,nautilus,po/fy.po
+Sky,318,Loft,319,nautilus,po/fy.po
+Sky Ridge,322,Loft Richel,323,nautilus,po/fy.po
+Snow Ridge,326,Snie Richel,327,nautilus,po/fy.po
+Stucco,330,Pleisterwurk,331,nautilus,po/fy.po
+Tangerine,334,Mandaryn,335,nautilus,po/fy.po
+Terracotta,338,Terrakotta,339,nautilus,po/fy.po
+Violet,342,Fiolet,343,nautilus,po/fy.po
+Wavy White,346,Baarjend Wyt,347,nautilus,po/fy.po
+White,350,Wyt,351,nautilus,po/fy.po
+White Ribs,354,Wyte Ribben,355,nautilus,po/fy.po
+_Emblems,358,_Emblemen,359,nautilus,po/fy.po
+_Patterns,362,_Patroanen,363,nautilus,po/fy.po
+Saved search,366,Bewarre sykterm,367,nautilus,po/fy.po
+Image/label border,370,Ôfbylding/label râne,371,nautilus,po/fy.po
+Alert Type,378,Warskôgingstype,379,nautilus,po/fy.po
+The type of alert,382,It type warskôging,383,nautilus,po/fy.po
+Alert Buttons,386,Warskôgingsknoppen,387,nautilus,po/fy.po
+Show more _details,394,Lit mear _details sjen,395,nautilus,po/fy.po
+Text,408,Tekst,409,nautilus,po/fy.po
+The text of the label.,412,De tekst fan it label.,413,nautilus,po/fy.po
+Justification,416,Útfole,417,nautilus,po/fy.po
+Line wrap,424,Rigeltrochrin,425,nautilus,po/fy.po
+Cursor Position,432,Rinnerposysje,433,nautilus,po/fy.po
+Selection Bound,440,Seleksjegrins,441,nautilus,po/fy.po
+Select All,448,Alles Selektearje,449,nautilus,po/fy.po
+Input Methods,452,Ynfiermetoade,453,nautilus,po/fy.po
+GConf error:\n  %s,457,GConf flater:\n  %s,460,nautilus,po/fy.po
+GConf error: %s,466,GConf flater: %s,467,nautilus,po/fy.po
+ (invalid Unicode),478, (mishypte Unicode),479,nautilus,po/fy.po
+Custom Background,530,Oanpaste Eftergrûn,531,nautilus,po/fy.po
+Date Format,538,Datumopmaak,539,nautilus,po/fy.po
+Default Background Color,542,Standert Eftergrûnkleur,543,nautilus,po/fy.po
+Default folder viewer,574,Standert mapwerjefter,575,nautilus,po/fy.po
+Default icon zoom level,578,Standert ikoan seamnivo,579,nautilus,po/fy.po
+Default list zoom level,590,Standert lystseamnivo,591,nautilus,po/fy.po
+Default sort order,594,Standert sortearfolchoarder,595,nautilus,po/fy.po
+Desktop computer icon name,610,Buroblêd kompûterikoannamme,611,nautilus,po/fy.po
+Desktop font,614,Buroblêdlettertype,615,nautilus,po/fy.po
+Desktop home icon name,618,Buroblêd thúsikoannamme,619,nautilus,po/fy.po
+Desktop trash icon name,622,Buroblêd jiskefetikoannamme,623,nautilus,po/fy.po
+Home icon visible on desktop,654,Thúsikoan sichtber on buroblêd,655,nautilus,po/fy.po
+"List of x-content/* types set to \""Do Nothing\""",802,"Lyst fan 'x-content/*'-types set nei \""Doch Niks\""",803,nautilus,po/fy.po
+"List of x-content/* types set to \""Open Folder\""",806,"Lyst fan 'x-content/*'-types set nei \""Map Iepenje\""",807,nautilus,po/fy.po
+Put labels beside icons,866,Pleats labels neist ikoanen,867,nautilus,po/fy.po
+No applications found,1085,Gjin applikaasjes fûn,1086,nautilus,po/fy.po
+Ask what to do,1089,Freegje wat te dwaan,1090,nautilus,po/fy.po
+Do Nothing,1093,Doch Niks,1094,nautilus,po/fy.po
+Open Folder,1098,Iepen Map,1099,nautilus,po/fy.po
+Open %s,1104,Iepen %s,1105,nautilus,po/fy.po
+Open with other Application...,1108,Mei oare Applikaasje Iepenje,1109,nautilus,po/fy.po
+_Eject,1194,Smyt út,1195,nautilus,po/fy.po
+_Unmount,1206,Meitsje Los,1207,nautilus,po/fy.po
+Select _All,1234,Selektearje _Alles,1235,nautilus,po/fy.po
+Move _Up,1243,Ferpleats Omheech,1244,nautilus,po/fy.po
+Move Dow_n,1247,Ferpleats Omleech,1248,nautilus,po/fy.po
+Use De_fault,1251,Brûk Standert,1252,nautilus,po/fy.po
+Name,1257,Namme,1258,nautilus,po/fy.po
+Size,1265,Grutte,1266,nautilus,po/fy.po
+The size of the file.,1269,De grutte fan it triem.,1270,nautilus,po/fy.po
+The type of the file.,1277,It type van it triem.,1278,nautilus,po/fy.po
+Date Modified,1282,Datum Oanpast,1283,nautilus,po/fy.po
+Owner,1298,Eigener,1299,nautilus,po/fy.po
+The owner of the file.,1302,De eigener fan it triem.,1303,nautilus,po/fy.po
+Group,1306,Groep,1307,nautilus,po/fy.po
+The group of the file.,1310,De groep fan it triem.,1311,nautilus,po/fy.po
+Permissions,1315,Tastimmingen,1316,nautilus,po/fy.po
+The permissions of the file.,1319,De tastimmingen fan it triem.,1320,nautilus,po/fy.po
+SELinux Context,1339,SELinux Kontekst,1340,nautilus,po/fy.po
+Location,1351,Lokaasje,1352,nautilus,po/fy.po
+Trashed On,1355,Fuortsmite Op,1356,nautilus,po/fy.po
+on the desktop,1379,op it buroblêd,1380,nautilus,po/fy.po
+_Move Here,1396,Hjir Ferpleatse,1397,nautilus,po/fy.po
+_Copy Here,1400,Hjir Kopiearje,1401,nautilus,po/fy.po
+_Link Here,1404,Hjir Linke,1405,nautilus,po/fy.po
+Set as _Background,1408,As Eftergrûn Sette,1409,nautilus,po/fy.po
+Cancel,1413,Ôfbrekke,1414,nautilus,po/fy.po
+An older,1463,In âlder,1464,nautilus,po/fy.po
+A newer,1467,In nijer,1468,nautilus,po/fy.po
+Another,1471,In oare,1472,nautilus,po/fy.po
+Size:,1517,Grutte:,1518,nautilus,po/fy.po
+Replace with,1532,Ferfange mei,1533,nautilus,po/fy.po
+Merge,1536,Foegje gear,1537,nautilus,po/fy.po
+_Skip,1551,Oer_slaan,1552,nautilus,po/fy.po
+Replace,1559,Ferfange,1560,nautilus,po/fy.po
+S_kip All,1567,Alles Oer_slaan,1568,nautilus,po/fy.po
+Delete _All,1575,_Alles Fuortsmite,1576,nautilus,po/fy.po
+_Replace,1579,Fe_rfange,1580,nautilus,po/fy.po
+%'d second,1600,%'d sekonde,1602,nautilus,po/fy.po
+%'d second,1600,%'d sekonden,1603,nautilus,po/fy.po
+%'d minute,1608,%'d minút,1610,nautilus,po/fy.po
+%'d minute,1608,%'d minúten,1611,nautilus,po/fy.po
+%'d hour,1615,%'d oere,1617,nautilus,po/fy.po
+%'d hour,1615,%'d oeren,1618,nautilus,po/fy.po
+Link to %s,1636,Nei %s Linke,1637,nautilus,po/fy.po
+ (copy),1678, (útskrift),1679,nautilus,po/fy.po
+ (another copy),1683, (oar útskrift),1684,nautilus,po/fy.po
+_Skip files,1852,Triemen oer_slaan,1853,nautilus,po/fy.po
+%S of %S,2070,%S fan %S,2071,nautilus,po/fy.po
+new file,2229,nij triem,2230,nautilus,po/fy.po
+Emptying Trash,2246,Jiskefet oan it Leegje,2247,nautilus,po/fy.po
+File not found,2295,Triem net fûn,2296,nautilus,po/fy.po
+today at 00:00 PM,2338,hjoed om 00:00,2339,nautilus,po/fy.po
+"today, 00:00 PM",2346,"hjoed, 00:00",2347,nautilus,po/fy.po
+today,2355,hjoed,2356,nautilus,po/fy.po
+"yesterday, 00:00 PM",2378,"juster, 00:00",2379,nautilus,po/fy.po
+yesterday,2387,juster,2388,nautilus,po/fy.po
+Oct 00 0000 at 00:00 PM,2420,Okt 00 0000 om 00:00,2421,nautilus,po/fy.po
+"Oct 00 0000, 00:00 PM",2428,"Okt 00 0000, 00:00",2429,nautilus,po/fy.po
+"00/00/00, 00:00 PM",2436,"00/00/00, 00:00",2437,nautilus,po/fy.po
+%m/%d/%y,2448,%d/%m/%y,2449,nautilus,po/fy.po
+%'u item,2479,%'u items,2482,nautilus,po/fy.po
+%'u folder,2486,%'u map,2488,nautilus,po/fy.po
+%'u folder,2486,%'u mappen,2489,nautilus,po/fy.po
+%'u file,2493,%'u triem,2495,nautilus,po/fy.po
+%'u file,2493,%'u triemen,2496,nautilus,po/fy.po
+%s (%s bytes),2505,%s (%s parten),2506,nautilus,po/fy.po
+? bytes,2516,? parten,2517,nautilus,po/fy.po
+unknown type,2520,unbekend type,2521,nautilus,po/fy.po
+unknown,2532,unbekend,2533,nautilus,po/fy.po
+program,2536,programma,2537,nautilus,po/fy.po
+link (broken),2544,link (ferbrutsen),2545,nautilus,po/fy.po
+_Always,2548,_Altyd,2549,nautilus,po/fy.po
+_Never,2556,_Nea,2557,nautilus,po/fy.po
+_Ask each time,2665,Eltse ke_ar freegje,2666,nautilus,po/fy.po
+By Name,2708,Op Namme,2709,nautilus,po/fy.po
+By Size,2713,Op Grutte,2714,nautilus,po/fy.po
+By Type,2718,Op Type,2719,nautilus,po/fy.po
+By Modification Date,2723,Op Oanpassingsdatum,2724,nautilus,po/fy.po
+By Emblems,2728,Op Emblemen,2729,nautilus,po/fy.po
+%s's Home,2777,%ss Thús,2778,nautilus,po/fy.po
+Computer,2782,Kompûter,2783,nautilus,po/fy.po
+Trash,2788,Jiskefet,2789,nautilus,po/fy.po
+"The Link \""%s\"" is Broken.",2805,"DeLink \""%s\"" is Brutsen.",2806,nautilus,po/fy.po
+Mo_ve to Trash,2830,Nei Jiskefet Ferpleatse,2831,nautilus,po/fy.po
+Run in _Terminal,2844,Útfiere in _Terminal,2845,nautilus,po/fy.po
+_Display,2848,Skerm,2849,nautilus,po/fy.po
+_Run,2853,Útfie_re,2854,nautilus,po/fy.po
+Default,2975,Standert,2976,nautilus,po/fy.po
+Icon,2979,Ikoan,2980,nautilus,po/fy.po
+%s document,2992,%s dokumint,2993,nautilus,po/fy.po
+Unknown,2997,Ûnbekend,2998,nautilus,po/fy.po
+Could not find '%s',3016,Koe '%s' net fine,3017,nautilus,po/fy.po
+Select an Application,3033,Selektearje an Applikaasje,3034,nautilus,po/fy.po
+Open With,3038,Iepenje Mei,3039,nautilus,po/fy.po
+_Browse...,3050,_Blêdzje,3051,nautilus,po/fy.po
+_Open,3060,Iepenje,3061,nautilus,po/fy.po
+Open %s with:,3074,Iepenje %s mei:,3075,nautilus,po/fy.po
+_Add,3108,T_afoegje,3109,nautilus,po/fy.po
+Add Application,3112,Applikaasje Taheakje,3113,nautilus,po/fy.po
+Preparing,3186,Tariede,3187,nautilus,po/fy.po
+Search,3193,Sykje,3194,nautilus,po/fy.po
+Edit,3203,Bewurkje,3204,nautilus,po/fy.po
+_Pattern:,3346,_Patroan:,3347,nautilus,po/fy.po
+Examples: ,3350,Foarbylden:,3351,nautilus,po/fy.po
+Search _name:,3358,Sykje _namme:,3359,nautilus,po/fy.po
+_Folder:,3363,Map:,3364,nautilus,po/fy.po
+"\""%s\"" selected",3373,"\""%s\"" selekteare",3374,nautilus,po/fy.po
+"%s, Free space: %s",3425,"%s, Frije romte: %s",3426,nautilus,po/fy.po
+Open With %s,3456,Iepenje Mei %s,3457,nautilus,po/fy.po
+Cop_y to,3744,Kopiear nei,3745,nautilus,po/fy.po
+D_uplicate,3782,D_uplisear,3783,nautilus,po/fy.po
+_Delete,3827,Wiske,3828,nautilus,po/fy.po
+_Restore,3839,Fe_rhelje,3840,nautilus,po/fy.po
+_Mount,3876,Keppel,3877,nautilus,po/fy.po
+_Start,3922,Begjin,3923,nautilus,po/fy.po
+_Stop,3941,Hâld op,3942,nautilus,po/fy.po
+Make a _Link,4416,Meitsje in _Link,4417,nautilus,po/fy.po
+_Download,4420,Ynhealje,4421,nautilus,po/fy.po
+Comment,4452,Taljochting,4453,nautilus,po/fy.po
+Description,4462,Beskriuwing,4463,nautilus,po/fy.po
+Command,4466,Kommando,4467,nautilus,po/fy.po
+by _Name,4562,op _Namme,4563,nautilus,po/fy.po
+by _Size,4571,op Grutte,4572,nautilus,po/fy.po
+by _Type,4580,op Soar_t,4581,nautilus,po/fy.po
+by Modification _Date,4589,op Oanpassings_datum,4590,nautilus,po/fy.po
+by _Emblems,4598,op _Emblemen,4599,nautilus,po/fy.po
+by T_rash Time,4607,op Jiskefettiid,4608,nautilus,po/fy.po
+By _Name,4696,Op _Namme,4697,nautilus,po/fy.po
+By _Size,4700,Op Grutte,4701,nautilus,po/fy.po
+By _Type,4704,Op Soar_t,4705,nautilus,po/fy.po
+By Modification _Date,4708,Op Oanpassings_datum,4709,nautilus,po/fy.po
+By _Emblems,4712,Op _Emblemen,4713,nautilus,po/fy.po
+By T_rash Time,4716,Op Jiskefettiid,4717,nautilus,po/fy.po
+_Icons,4730,Ikoan,4731,nautilus,po/fy.po
+_Compact,4747,Kompakt,4748,nautilus,po/fy.po
+(Empty),4764,(Leeg),4765,nautilus,po/fy.po
+Loading...,4770,Oan it Laden...,4771,nautilus,po/fy.po
+_List,4795,_Lyst,4796,nautilus,po/fy.po
+_Name:,4836,_Namme:,4838,nautilus,po/fy.po
+_Name:,4836,_Nammen:,4839,nautilus,po/fy.po
+Properties,4843,Eigenskippen,4844,nautilus,po/fy.po
+%s Properties,4848,%s Eigenskippen,4849,nautilus,po/fy.po
+nothing,4866,neat,4867,nautilus,po/fy.po
+unreadable,4870,unlêsber,4871,nautilus,po/fy.po
+Contents:,4891,Ynhâld:,4892,nautilus,po/fy.po
+used,4896,brûkt,4897,nautilus,po/fy.po
+free,4901,frij,4902,nautilus,po/fy.po
+Location:,4922,Lokaasje:,4923,nautilus,po/fy.po
+Emblems,4943,Emblemen,4944,nautilus,po/fy.po
+_Read,4947,Lêze,4948,nautilus,po/fy.po
+_Write,4951,Skriuwe,4952,nautilus,po/fy.po
+no ,4964,net,4965,nautilus,po/fy.po
+read,4972,lêze,4973,nautilus,po/fy.po
+create/delete,4976,meitsje/fuortsmite,4977,nautilus,po/fy.po
+write,4980,skriuwe,4981,nautilus,po/fy.po
+access,4984,tagong,4985,nautilus,po/fy.po
+Access:,4988,Tagong:,4989,nautilus,po/fy.po
+Folder access:,4992,Maptagong:,4993,nautilus,po/fy.po
+None,5006,Gjin,5007,nautilus,po/fy.po
+Read-only,5022,Allinich-lêze,5023,nautilus,po/fy.po
+_Owner:,5047,Eigener:,5048,nautilus,po/fy.po
+Owner:,5053,Eigener:,5054,nautilus,po/fy.po
+_Group:,5058,_Groep:,5059,nautilus,po/fy.po
+Group:,5064,Groep:,5065,nautilus,po/fy.po
+Others,5068,Oaren,5069,nautilus,po/fy.po
+Others:,5080,Oaren:,5081,nautilus,po/fy.po
+Last changed:,5104,Lest oanpast:,5105,nautilus,po/fy.po
+<b>_Bookmarks</b>,5217,<b>_Blêdwizers</b>,5218,nautilus,po/fy.po
+<b>_Location</b>,5221,<b>_Lokaasje</b>,5222,nautilus,po/fy.po
+<b>_Name</b>,5225,<b>_Namme</b>,5226,nautilus,po/fy.po
+Edit Bookmarks,5229,Bookmarks Bewurkje,5230,nautilus,po/fy.po
+Public FTP,5259,Iepenbiere FTP,5260,nautilus,po/fy.po
+FTP (with login),5263,FTP (mei oanmelde),5264,nautilus,po/fy.po
+_Location (URI):,5287,_Lokaasje (UR):,5288,nautilus,po/fy.po
+_Server:,5291,T_sjinner:,5292,nautilus,po/fy.po
+_Share:,5299,Diele:,5300,nautilus,po/fy.po
+_Port:,5303,_Poarte:,5304,nautilus,po/fy.po
+_User Name:,5307,Brûkersnamme:,5308,nautilus,po/fy.po
+Bookmark _name:,5315,Blêdwizernamme:,5316,nautilus,po/fy.po
+Add _bookmark,5327,_Blêdwizer taheakje,5328,nautilus,po/fy.po
+C_onnect,5331,Ferbine,5332,nautilus,po/fy.po
+Desktop,5338,Buroblêd,5339,nautilus,po/fy.po
+Add Emblems...,5369,Emblemen Taheakje...,5370,nautilus,po/fy.po
+Show Emblems,5409,Emblemen Sjen Litte,5410,nautilus,po/fy.po
+<b>Behavior</b>,5431,<b>Gedrach</b>,5432,nautilus,po/fy.po
+<b>Date</b>,5439,<b>Datum</b>,5440,nautilus,po/fy.po
+<b>Folders</b>,5451,<b>Mappen</b>,5452,nautilus,po/fy.po
+<b>Sound Files</b>,5483,<b>Lûdtriemen</b>,5484,nautilus,po/fy.po
+<b>Text Files</b>,5487,<b>Teksttriemen</b>,5488,nautilus,po/fy.po
+<b>Trash</b>,5491,<b>Jiskefet</b>,5492,nautilus,po/fy.po
+Acti_on:,5503,Aksje:,5504,nautilus,po/fy.po
+Always,5507,Altyd,5508,nautilus,po/fy.po
+Behavior,5519,Gedrach,5520,nautilus,po/fy.po
+CD _Audio:,5523,CD-_Audio:,5524,nautilus,po/fy.po
+Display,5551,Skerm,5552,nautilus,po/fy.po
+Never,5579,Nea,5580,nautilus,po/fy.po
+_Photos:,5655,Fotos:,5656,nautilus,po/fy.po
+History,5687,Skiednis,5688,nautilus,po/fy.po
+Show History,5691,Skiednis Sjen Litte,5692,nautilus,po/fy.po
+Software,5740,Programmatuer,5741,nautilus,po/fy.po
+Keywords,5744,Kaaiwurden,5745,nautilus,po/fy.po
+Creator,5748,Makker,5749,nautilus,po/fy.po
+Copyright,5752,Auteursrjocht,5753,nautilus,po/fy.po
+Rating,5756,Beoardieling,5757,nautilus,po/fy.po
+Image Type:,5760,Ôfbyldingstype,5761,nautilus,po/fy.po
+loading...,5782,oan it lade...,5783,nautilus,po/fy.po
+Image,5786,Ôfbylding,5787,nautilus,po/fy.po
+Information,5790,Ynformaasje,5791,nautilus,po/fy.po
+Show Information,5794,Ynformaasje Sjen Litte,5795,nautilus,po/fy.po
+Go To:,5811,Gean Nei:,5812,nautilus,po/fy.po
+Open Location,5822,Lokaasje Iepenje,5823,nautilus,po/fy.po
+_Location:,5826,_Lokaasje:,5827,nautilus,po/fy.po
+Quit Nautilus.,5858,Nautilus Slute.,5859,nautilus,po/fy.po
+_Go,5905,_Gean,5906,nautilus,po/fy.po
+_Bookmarks,5910,_Blêdwizers,5911,nautilus,po/fy.po
+_Tabs,5915,_Ljepper,5916,nautilus,po/fy.po
+New _Window,5920,Nij Finster,5921,nautilus,po/fy.po
+New _Tab,5929,Nije Ljepper,5930,nautilus,po/fy.po
+Open Folder W_indow,5938,Map in Finster Iepenje,5939,nautilus,po/fy.po
+Close _All Windows,5947,_Alle Finsters Slute,5948,nautilus,po/fy.po
+_Location...,5956,_Lokaasje...,5957,nautilus,po/fy.po
+Clea_r History,5966,Skiednis Leegje,5967,nautilus,po/fy.po
+_Add Bookmark,5994,Blêdwizer T_aheakje,5995,nautilus,po/fy.po
+_Edit Bookmarks...,6005,Blêdwizers B_ewurkje,6006,nautilus,po/fy.po
+_Previous Tab,6014,Foariche Ljepper,6015,nautilus,po/fy.po
+_Next Tab,6022,Folgje_nde Ljepper,6023,nautilus,po/fy.po
+_Main Toolbar,6058,Haadarkbalke,6059,nautilus,po/fy.po
+Location _Bar,6082,Lokaasje_balke,6083,nautilus,po/fy.po
+_Search for Files...,6108,Nei Triemen _Sykje...,6109,nautilus,po/fy.po
+_Back,6130,Werom,6131,nautilus,po/fy.po
+_Forward,6142,_Foarút,6143,nautilus,po/fy.po
+_Zoom,6154,Seamje,6155,nautilus,po/fy.po
+_View As,6158,Sjen Litte As,6159,nautilus,po/fy.po
+_Search,6162,_Sykje,6163,nautilus,po/fy.po
+_Close Tab,6166,Ljepper Slute,6167,nautilus,po/fy.po
+Close tab,6175,Ljepper slute,6176,nautilus,po/fy.po
+Notes,6180,Noaten,6181,nautilus,po/fy.po
+Show Notes,6184,Noaten Sjen Litte,6185,nautilus,po/fy.po
+Network,6197,Netwurk,6198,nautilus,po/fy.po
+Open the trash,6211,Jiskefet iepenje,6212,nautilus,po/fy.po
+Remove,6252,Fuortsmite,6253,nautilus,po/fy.po
+Places,6260,Plakken,6261,nautilus,po/fy.po
+Show Places,6264,Plakken Sjen Litte,6265,nautilus,po/fy.po
+Backgrounds and Emblems,6269,Eftergrûnen en Emblemen,6270,nautilus,po/fy.po
+_Remove...,6274,Fuo_rtsmite...,6275,nautilus,po/fy.po
+Add new...,6279,Nije taheakje...,6280,nautilus,po/fy.po
+Create a New Emblem,6305,In Nij Embleem Meitsje,6306,nautilus,po/fy.po
+_Keyword:,6310,_Kaaiwurden:,6311,nautilus,po/fy.po
+_Image:,6315,Ôfbyld_ing:,6316,nautilus,po/fy.po
+Create a New Color:,6319,In Nije Kleur Meitsje:,6320,nautilus,po/fy.po
+Color _name:,6324,Kleur_namme:,6325,nautilus,po/fy.po
+Color _value:,6328,Kleurwearde:,6329,nautilus,po/fy.po
+Select a Category:,6377,In Kategory Selektearje:,6378,nautilus,po/fy.po
+C_ancel Remove,6381,Fuortsmitte Ôfbrekke,6382,nautilus,po/fy.po
+_Add a New Pattern...,6385,In Nij Patroan T_aheakje,6386,nautilus,po/fy.po
+_Add a New Color...,6389,In Nije Kleur T_aheakje,6390,nautilus,po/fy.po
+_Add a New Emblem...,6393,In Nij Embleem T_aheakje,6394,nautilus,po/fy.po
+Patterns:,6409,Patroanen:,6410,nautilus,po/fy.po
+Colors:,6413,Kleuren:,6414,nautilus,po/fy.po
+Emblems:,6417,Emblemen:,6418,nautilus,po/fy.po
+_Remove a Pattern...,6421,In Patroan Fuo_rtsmite...,6422,nautilus,po/fy.po
+_Remove a Color...,6425,In Kleur Fuo_rtsmite...,6426,nautilus,po/fy.po
+_Remove an Emblem...,6429,In Embleem Fuo_rtsmite...,6430,nautilus,po/fy.po
+File Type,6433,Triemtype,6434,nautilus,po/fy.po
+Documents,6441,Dokuminten,6442,nautilus,po/fy.po
+Music,6445,Musyk,6446,nautilus,po/fy.po
+Video,6449,Fideo,6450,nautilus,po/fy.po
+Picture,6453,Ôfbylding,6454,nautilus,po/fy.po
+Spreadsheet,6461,Rekkenboerd,6462,nautilus,po/fy.po
+Presentation,6465,Presintaasje,6466,nautilus,po/fy.po
+Text File,6473,Teksttriem,6474,nautilus,po/fy.po
+Select type,6477,Type selektearje,6478,nautilus,po/fy.po
+Other Type...,6485,Oar Type...,6486,nautilus,po/fy.po
+Search Folder,6493,Map Sykje,6494,nautilus,po/fy.po
+Go,6505,Gean,6506,nautilus,po/fy.po
+_Search for:,6517,_Sykje nei:,6518,nautilus,po/fy.po
+Search:,6525,Sykje:,6526,nautilus,po/fy.po
+_Places,6541,_Plakken,6542,nautilus,po/fy.po
+Open _Location...,6546,_Lokaasje Iepenje...,6547,nautilus,po/fy.po
+Close P_arent Folders,6551,Haadtafels Slute,6552,nautilus,po/fy.po
+Close this folder's parents,6555,Dizze map syn haadtafels slute,6556,nautilus,po/fy.po
+Clos_e All Folders,6560,Alle Mappen Slute,6561,nautilus,po/fy.po
+The location is not a folder.,6608,De lokaasje is net in map.,6609,nautilus,po/fy.po
+"Could not find \""%s\"".",6613,"Koe \""%s\"" net fine.",6614,nautilus,po/fy.po
+Copyright © 1999-2009 The Nautilus authors,6679,Copyright © 1999-2009 De Nautilusskriuwers,6680,nautilus,po/fy.po
+Nautilus Web Site,6698,Nautilus Webside,6699,nautilus,po/fy.po
+_File,6703,Bestân,6704,nautilus,po/fy.po
+_Edit,6708,B_ewurkje,6709,nautilus,po/fy.po
+_View,6713,Werjefte,6714,nautilus,po/fy.po
+_Close,6724,Slute,6725,nautilus,po/fy.po
+Close this folder,6729,Dizze Map Slute,6730,nautilus,po/fy.po
+Prefere_nces,6741,Foarkarre_n,6742,nautilus,po/fy.po
+_Undo,6750,Ûngedien meitsje,6751,nautilus,po/fy.po
+Open _Parent,6759,Open Haad,6760,nautilus,po/fy.po
+Open the parent folder,6763,De haadtafel iepenje,6764,nautilus,po/fy.po
+_Contents,6785,Ynhâld,6786,nautilus,po/fy.po
+Display Nautilus help,6790,Nautilus help sjen litte,6791,nautilus,po/fy.po
+_About,6796,Oer,6797,nautilus,po/fy.po
+Zoom _In,6807,Seamje Yn,6808,nautilus,po/fy.po
+Zoom _Out,6820,Seamje Út,6821,nautilus,po/fy.po
+Normal Si_ze,6833,Normale Grutte,6834,nautilus,po/fy.po
+Connect to _Server...,6846,Ferbine mei T_sjinner...,6847,nautilus,po/fy.po
+_Computer,6857,Kompûter,6858,nautilus,po/fy.po
+_Network,6863,_Netwurk,6864,nautilus,po/fy.po
+T_emplates,6875,Sjabloan,6876,nautilus,po/fy.po
+_Trash,6886,Jiskefe_t,6887,nautilus,po/fy.po
+Show _Hidden Files,6897,Lit Fer_hoalen Triemen Sjen,6898,nautilus,po/fy.po
+_Up,6906,Omheech,6907,nautilus,po/fy.po
+_Home,6910,T_hús,6911,nautilus,po/fy.po
+Zoom In,6960,Zoome Yn,6961,nautilus,po/fy.po
+Zoom Out,6964,Zoome Út,6965,nautilus,po/fy.po
+Zoom to Default,6968,Zoome nei Standert,6969,nautilus,po/fy.po
+Zoom,6972,Zoome,6973,nautilus,po/fy.po

@@ -1,0 +1,97 @@
+System,23,Системӕ,24,gnome-shell,po/os.po
+Show the notification list,27,Хъусинӕгтӕ равдисын,28,gnome-shell,po/os.po
+Focus the active notification,31,Активон хъусинагмӕ ахизын,32,gnome-shell,po/os.po
+Show the overview,35,Афӕлгӕст равдисын,36,gnome-shell,po/os.po
+Show all applications,39,Ӕфтуантӕ иууылдӕр равдисын,40,gnome-shell,po/os.po
+Open the application menu,43,Ӕфтуанты меню бакӕнын,44,gnome-shell,po/os.po
+Window management and application launching,51,Рудзгуытӕй архайын ӕмӕ ӕфтуан иу кӕнын,52,gnome-shell,po/os.po
+Enable internal tools useful for developers and testers from Alt-F2,55,Аразджытӕн ӕмӕ тестгӕнджытӕн пайда мидӕггаг мигӕнӕнтӕ Alt-F2-йӕ баиу кӕнын,56,gnome-shell,po/os.po
+Allows access to internal debugging and monitoring tools using the Alt-F2 dialog.,60,Alt-F2 диалогы уылты мидӕггаг дебаггинг ӕмӕ мониторингы мигӕнӕнтӕм уадзы.,63,gnome-shell,po/os.po
+UUIDs of extensions to enable,67,Иу кӕнинаг уӕлӕмхасӕнты UUID-тӕ,68,gnome-shell,po/os.po
+GNOME Shell extensions have a UUID property; this key lists extensions which should be loaded. Any extension that wants to be loaded needs to be in this list. You can also manipulate this list with the EnableExtension and DisableExtension D-Bus methods on org.gnome.Shell.,71,"GNOME Shell-ы уӕлӕмхасӕнтӕн ис UUID-тӕ; ацы дӕгъӕл ранымайы ӕвгӕнинаг уӕлӕмхасӕнтӕ. Кӕд искӕцы уӕлӕмхасӕн ӕвгӕнинаг у, уӕд хъуамӕ уа ацы номхыгъды. Ацы номхыгъд ма дӕ бон у org.gnome.Shell-ы EnableExtension ӕмӕ DisableExtension D-Bus-ы методтӕй ивын.",76,gnome-shell,po/os.po
+UUIDs of extensions to force disabling,83,Тыххӕй хицӕнгӕнинаг уӕлӕмхасӕнты UUID-тӕ,84,gnome-shell,po/os.po
+"GNOME Shell extensions have a UUID property; this key lists extensions which should be disabled, even if loaded as part of the current mode. You can also manipulate this list with the EnableExtension and DisableExtension D-Bus methods on org.gnome.Shell. This key takes precedence over the “enabled-extensions” setting.",87,"GNOME Shell-ы уӕлӕмхасӕнтӕн ис UUID-тӕ; ацы дӕгъӕл ранымайы хицӕнгӕнинаг уӕлӕмхасӕнтӕ, кӕд ныры режиммӕ гӕсгӕ ӕвгӕд сты, уӕддӕр. Ацы номхыгъд ма дӕ бон у org.gnome.Shell-ы EnableExtension ӕмӕ DisableExtension D-Bus-ы методтӕй ивын. Ацы дӕгъӕл-ӕн “enabled-extensions”-ӕй фылдӕр тых ис.",93,gnome-shell,po/os.po
+Disable user extensions,100,Архайӕджы уӕлӕмхасӕнтӕ ахицӕн кӕнын,101,gnome-shell,po/os.po
+Switch to application 1,235,1-аг ӕфтуанмӕ ахизын,236,gnome-shell,po/os.po
+Locations,299,Бынӕттӕ,300,gnome-shell,po/os.po
+Location,315,Бынат,316,gnome-shell,po/os.po
+Something’s gone wrong,357,Цыдӕр раст нӕ ацыд,358,gnome-shell,po/os.po
+Just now,522,Ацы тӕккӕ,523,gnome-shell,po/os.po
+Yesterday,540,Знон,541,gnome-shell,po/os.po
+Frequent,673,Арӕх,674,gnome-shell,po/os.po
+All,677,Иууыл,678,gnome-shell,po/os.po
+Open Windows,682,Гом рудзгуытӕ,683,gnome-shell,po/os.po
+New Window,686,Ног рудзынг,687,gnome-shell,po/os.po
+Remove from Favorites,694,Сӕрмагондтӕй райсын,695,gnome-shell,po/os.po
+Add to Favorites,698,Сӕрмагондтӕм бахӕссын,699,gnome-shell,po/os.po
+Microphone,732,Микрофон,733,gnome-shell,po/os.po
+S,760,Х,761,gnome-shell,po/os.po
+M,766,К,767,gnome-shell,po/os.po
+T,772,Д,773,gnome-shell,po/os.po
+W,778,Ӕ,779,gnome-shell,po/os.po
+T,784,Ц,785,gnome-shell,po/os.po
+F,790,М,791,gnome-shell,po/os.po
+S,796,С,797,gnome-shell,po/os.po
+Previous month,823,Ай размӕ мӕй,824,gnome-shell,po/os.po
+Next month,827,Иннӕ мӕй,828,gnome-shell,po/os.po
+Administrator,999,Администратор,1000,gnome-shell,po/os.po
+Windows,1022,Рудзгуытӕ,1023,gnome-shell,po/os.po
+Weather,1073,Боныгъӕд,1074,gnome-shell,po/os.po
+Enabled,1349,Иу,1350,gnome-shell,po/os.po
+Disabled,1355,Хицӕн,1356,gnome-shell,po/os.po
+Error,1359,Рӕдыд,1360,gnome-shell,po/os.po
+Overview,1415,Афӕлгӕст,1416,gnome-shell,po/os.po
+Done,1447,Ӕххӕст,1448,gnome-shell,po/os.po
+Edit…,1451,Ивӕн...,1452,gnome-shell,po/os.po
+None,1455,Никӕцы,1456,gnome-shell,po/os.po
+Activities,1477,Архӕйдтытӕ,1478,gnome-shell,po/os.po
+System,1482,Системӕ,1483,gnome-shell,po/os.po
+Wi-Fi is Off,1842,Wi-Fi хицӕн у,1843,gnome-shell,po/os.po
+connecting…,1890,иу кӕны...,1891,gnome-shell,po/os.po
+Unknown Thunderbolt device,2042,Ӕнӕзонгӕ Thunderbolt гарз,2043,gnome-shell,po/os.po
+Mirror,2081,Кӕсӕн,2082,gnome-shell,po/os.po
+External Only,2095,Ӕрмӕст ӕттагон,2096,gnome-shell,po/os.po
+Swipe up to unlock,2112,Уӕлӕмӕ схӕц бакӕнынӕн,2113,gnome-shell,po/os.po
+Click or press a key to unlock,2116,Ныкъкъӕрц кӕн мыстӕй кӕнӕ ныххӕц ӕгънӕгыл бакӕнынӕн,2117,gnome-shell,po/os.po
+Applications,2128,Ӕфтуантӕ,2129,gnome-shell,po/os.po
+Search,2132,Агурын,2133,gnome-shell,po/os.po
+“%s” is ready,2137,“%s” цӕттӕ у,2138,gnome-shell,po/os.po
+Move,2183,Хӕссын,2184,gnome-shell,po/os.po
+Close,2235,Сӕхгӕнын,2236,gnome-shell,po/os.po
+Print version,2243,Мыхуырӕн,2244,gnome-shell,po/os.po
+Unknown,2260,Ӕнӕзонгӕ,2261,gnome-shell,po/os.po
+Extensions,2284,Уӕлӕмхасӕнтӕ,2285,gnome-shell,po/os.po
+Remove “%s”?,2308,Схафон “%s”?,2309,gnome-shell,po/os.po
+Version,2340,Фӕлтӕр,2341,gnome-shell,po/os.po
+Author,2344,Автор,2345,gnome-shell,po/os.po
+Website,2348,Вебсайт,2349,gnome-shell,po/os.po
+Remove…,2352,Схафӕн...,2353,gnome-shell,po/os.po
+Help,2356,Ӕххуыс,2357,gnome-shell,po/os.po
+About Extensions,2360,Уӕлӕмхасӕнты тыххӕй,2361,gnome-shell,po/os.po
+Warning,2370,Хъусдаринаг,2371,gnome-shell,po/os.po
+Log Out…,2399,Рахизӕн...,2400,gnome-shell,po/os.po
+Name,2417,Ном,2418,gnome-shell,po/os.po
+Template,2439,Хуызӕг,2440,gnome-shell,po/os.po
+NAME,2447,НОМ,2448,gnome-shell,po/os.po
+No UUID given,2510,UUID лӕвӕрд не рцыд,2511,gnome-shell,po/os.po
+FILE,2589,ФАЙЛ,2590,gnome-shell,po/os.po
+DIRECTORY,2606,ДИРЕКТОРИ,2607,gnome-shell,po/os.po
+DOMAIN,2614,ДОМЕН,2615,gnome-shell,po/os.po
+Path,2676,Фӕт,2677,gnome-shell,po/os.po
+Original author,2684,Фыццаг автор,2685,gnome-shell,po/os.po
+State,2688,Уаг,2689,gnome-shell,po/os.po
+Usage:,2697,Пайда кӕнын:,2698,gnome-shell,po/os.po
+COMMAND,2706,КОМАНДӔ,2707,gnome-shell,po/os.po
+[ARGS…],2710,[АРГУМЕНТТӔ…],2711,gnome-shell,po/os.po
+Commands:,2714,Командӕтӕ:,2715,gnome-shell,po/os.po
+Print help,2718,Ӕххуыс равдисын,2719,gnome-shell,po/os.po
+Show extension info,2743,Уӕлӕмхасӕны тыххӕй,2744,gnome-shell,po/os.po
+Use “%s” to get detailed help.\n,2764,Спайда кӕн “%s”-ӕй цӕмӕй лӕмбынӕг ӕххуыс райсай.\n,2765,gnome-shell,po/os.po
+Plain,2768,Хуымӕтӕг,2769,gnome-shell,po/os.po
+An empty extension,2772,Афтид уӕлӕмхасӕн,2773,gnome-shell,po/os.po
+Indicator,2776,Индикатор,2777,gnome-shell,po/os.po
+%u Output,2787,%u рафӕрсӕн,2789,gnome-shell,po/os.po
+%u Output,2787,%u рафӕрсӕны,2790,gnome-shell,po/os.po
+%u Input,2796,%u бафыссӕн,2798,gnome-shell,po/os.po
+%u Input,2796,%u бафыссӕны,2799,gnome-shell,po/os.po
+System Sounds,2802,Системӕйы унӕртӕ,2803,gnome-shell,po/os.po
