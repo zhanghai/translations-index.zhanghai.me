@@ -1,0 +1,1187 @@
+Epiphany automation,19,Epiphany automatisering,20,epiphany,po/li.po
+Browse and organize your bookmarks,23,Eur blaadwiezers bekieke en wirtsjafte,24,epiphany,po/li.po
+Web Bookmarks,28,Wèb blaadwiezers,29,epiphany,po/li.po
+Browse the web,122,Blajere op internet,123,epiphany,po/li.po
+Web Browser,128,Wèb Browser,129,epiphany,po/li.po
+Allow popups,139,Popups toesjtaon,140,epiphany,po/li.po
+Allow sites to open new windows using JavaScript (if JavaScript is enabled).,143,Wèbpagina's toesjtaon óm nuuj vinsters te äöpene mit javaskrip (wen javaskrip gebroek weurt).,145,epiphany,po/li.po
+Autowrap for find in page,162,Doorzeuke nao document-ènj,163,epiphany,po/li.po
+Cookie accept,172,Cookie akseptere,173,epiphany,po/li.po
+Default encoding,177,sjtanderdkodering,178,epiphany,po/li.po
+Default font type,219,Sjtanderd booksjtaaftiep,220,epiphany,po/li.po
+Enable Java,229,Java gebroeke,230,epiphany,po/li.po
+Enable Java.,234,Java gebroeke.,235,epiphany,po/li.po
+Enable JavaScript,240,Javaskrip gebroeke,241,epiphany,po/li.po
+Enable JavaScript.,246,Javaskrip gebroeke.,247,epiphany,po/li.po
+Filename to print to,250,'t besjtandj óm nao aaf te drökke,251,epiphany,po/li.po
+Filename to print to.,254,'t besjtandj óm nao aaf te drökke.,255,epiphany,po/li.po
+Home page,272,Sjtartpagina,273,epiphany,po/li.po
+Languages,284,Sjpräök,285,epiphany,po/li.po
+Match case for find in page,288,Huidbooksjtaafgeveulig zeuke in pagina,289,epiphany,po/li.po
+Match case for find in page.,292,Huidbooksjtaafgeveulig zeuke in pagina.,293,epiphany,po/li.po
+Middle click to open the web page pointed to by the currently selected text,296,Ein middelste moesklik op 't huidsjirm zal de wèbpagina die op 't klembord sjteit äöpene.,298,epiphany,po/li.po
+Middle clicking on the main view pane will open the web page pointed to by the currently selected text.,303,Ein middelste moesklik op 't huidsjirm zal de wèbpagina die op 't klembord sjteit äöpene.,306,epiphany,po/li.po
+Paper type,311,Papeertiep,312,epiphany,po/li.po
+"Preferred languages, two letter codes.",321,"Veurkeurssjpräök, twielètterige kodes.",322,epiphany,po/li.po
+Printer name,326,Printernaam,327,epiphany,po/li.po
+Printer name.,331,Printernaam.,332,epiphany,po/li.po
+Printing bottom margin,335,Aafdrökmarge ónger,336,epiphany,po/li.po
+Printing left margin,344,Aafdrökmarge links,345,epiphany,po/li.po
+Printing right margin,353,Aafdrökmarge rechs,354,epiphany,po/li.po
+Printing top margin,362,Aafdrökmarge baove,363,epiphany,po/li.po
+Show bookmarks bar by default,372,Sjtanderd de blaadwiezerwirkbalke tuine,373,epiphany,po/li.po
+Show bookmarks bar by default.,377,Sjtanderd de blaadwiezerwirkbalke tuine.,378,epiphany,po/li.po
+Show statusbar by default,382,Sjtanderd de sjtatusbalk tuine,383,epiphany,po/li.po
+Show statusbar by default.,387,Sjtanderd de sjtatusbalk tuine.,388,epiphany,po/li.po
+Show toolbars by default,402,Sjtanderd de wirkbalke tuine,403,epiphany,po/li.po
+Show toolbars by default.,407,Sjtanderd de wirkbalke tuine.,408,epiphany,po/li.po
+Size of disk cache,412,Sjiefbuffergruutde,413,epiphany,po/li.po
+Use own colors,501,Eige kleure gebroeke,502,epiphany,po/li.po
+Use own fonts,506,Eige booksjtaaftiep gebroeke,507,epiphany,po/li.po
+Use your own colors instead of the colors the page requests.,511,Eige kleure gebroeke i.p.v door dokkemènt aangegaeve kleure.,512,epiphany,po/li.po
+Use your own fonts instead of the fonts the page requests.,516,Gebroek eige booksjtaaftiep i.p.v door dokkemènt aangegaeve booksjtaaftiep.,517,epiphany,po/li.po
+Whether to print the date in the footer.,541,Of de datem moot waere aafgedrök in de vootteks.,542,epiphany,po/li.po
+Whether to print the page address in the header,545,Of 't adres van de pagina moot waere aafgedrök in de kopteks.,546,epiphany,po/li.po
+Whether to print the page numbers (x of total) in the footer.,560,Of de paginanómmering (x van totaal) moot waere aafgedrök in de vootteks.,561,epiphany,po/li.po
+Whether to print the page title in the header.,570,Of de paginatittel moot waere aafgedrök in de kopteks.,571,epiphany,po/li.po
+General,644,Algemein,645,epiphany,po/li.po
+C_ase sensitive,693,_Huidbooksjtaafgeveulig,694,epiphany,po/li.po
+Download Manager,705,Downloadwirtsjaf,706,epiphany,po/li.po
+Find,710,Zeuk,711,epiphany,po/li.po
+Passwords,716,Wachwäörd,717,epiphany,po/li.po
+Personal Data Manager,722,Opgesjlage infermasie,723,epiphany,po/li.po
+_Find:,738,_Zeuk:,739,epiphany,po/li.po
+_Next,743,_Naekste,744,epiphany,po/li.po
+_Pause,748,_Poeze,749,epiphany,po/li.po
+_Previous,753,_Veurige,754,epiphany,po/li.po
+_Wrap around,758,_Doorgaon nao dokkemènt-ènj,759,epiphany,po/li.po
+<b>Colors</b>,763,<b>Kleure</b>,764,epiphany,po/li.po
+<b>Fonts</b>,785,<b>Booksjtaaftiepe</b>,786,epiphany,po/li.po
+<b>Home page</b>,790,<b>Sjtartpagina</b>,791,epiphany,po/li.po
+<b>Web Content</b>,807,<b>Wèbinhaud</b>,808,epiphany,po/li.po
+Al_ways use the desktop theme colors,823,Ummer temakleure _gebroeke,824,epiphany,po/li.po
+Always use _these fonts,834,Ummer dees booksjtaaf_tiepe gebroeke,835,epiphany,po/li.po
+Enable Java_Script,861,Java_skrip gebroeke,862,epiphany,po/li.po
+Enable _Java,865,_Java gebroeke,866,epiphany,po/li.po
+Preferences,898,Prifferensies,899,epiphany,po/li.po
+Set to Current _Page,907,Insjtèlle op _huijige pagina,908,epiphany,po/li.po
+Set to _Blank Page,912,_Blanko pagina gebroeke,913,epiphany,po/li.po
+_Address:,923,_Adres:,924,epiphany,po/li.po
+_Always accept,927,_Ummer akseptere,928,epiphany,po/li.po
+_Never accept,960,_Noets akseptere,961,epiphany,po/li.po
+_Up,970,Ómh_oeg,971,epiphany,po/li.po
+<b>Footers</b>,979,<b>Vootteks</b>,980,epiphany,po/li.po
+<b>Headers</b>,984,<b>Kopteks</b>,985,epiphany,po/li.po
+<b>Orientation</b>,994,<b>Orjentasie</b>,995,epiphany,po/li.po
+<b>Page Range</b>,999,<b>Paginabereik</b>,1000,epiphany,po/li.po
+<b>Print To</b>,1004,<b>Printe nao</b>,1005,epiphany,po/li.po
+<b>Size</b>,1009,<b>Aafmaeting</b>,1010,epiphany,po/li.po
+Appearance,1019,Uterlik,1020,epiphany,po/li.po
+C_olor,1024,_Kleur,1025,epiphany,po/li.po
+Lan_dscape,1036,Lan_djsjap,1037,epiphany,po/li.po
+P_age title,1041,Pagina_tittel,1042,epiphany,po/li.po
+P_ortrait,1047,P_ortrèt,1048,epiphany,po/li.po
+Pa_ges,1059,Pa_gina's,1060,epiphany,po/li.po
+Page _numbers,1063,Paginanó_mmers,1064,epiphany,po/li.po
+Paper,1067,Papeer,1068,epiphany,po/li.po
+Print,1072,Aafdrökke,1073,epiphany,po/li.po
+_All pages,1085,_Alle Pagina's,1086,epiphany,po/li.po
+_Bottom:,1090,Ón_ger:,1091,epiphany,po/li.po
+_Date,1102,_Datem,1103,epiphany,po/li.po
+_File:,1109,_Besjtandj:,1110,epiphany,po/li.po
+_Grayscale,1113,G_rieswaerdes,1114,epiphany,po/li.po
+_Left:,1118,Lin_ks:,1119,epiphany,po/li.po
+_Right:,1134,_Rechs:,1135,epiphany,po/li.po
+_Selection,1139,_Seleksie,1140,epiphany,po/li.po
+_Top:,1144,Bao_ve:,1145,epiphany,po/li.po
+_to:,1148,_aan:,1149,epiphany,po/li.po
+fr_om:,1152,_van:,1153,epiphany,po/li.po
+_Resume,1173,_Doorgaon,1174,epiphany,po/li.po
+Unknown,1184,Ónbekènd,1185,epiphany,po/li.po
+Remaining,1223,Te gaon,1224,epiphany,po/li.po
+Off,1699,Eet,1700,epiphany,po/li.po
+Chinese,1705,Sinees,1706,epiphany,po/li.po
+Japanese,1729,Japans,1730,epiphany,po/li.po
+Korean,1735,Koreaans,1736,epiphany,po/li.po
+Russian,1740,Róssis,1741,epiphany,po/li.po
+Ukrainian,1751,Ukraïens,1752,epiphany,po/li.po
+All,1768,Alles,1769,epiphany,po/li.po
+Others,1774,Angere,1775,epiphany,po/li.po
+Local files,1779,Lokale besjtenj,1780,epiphany,po/li.po
+Untitled,1840,Naamloes,1841,epiphany,po/li.po
+GConf error:\n  %s,2191,GConf fout:\n  %s,2194,epiphany,po/li.po
+_Remove Toolbar,2200,_wirkbalk ewegdoon,2201,epiphany,po/li.po
+Separator,2204,Sjeijingsteike,2205,epiphany,po/li.po
+"Drag an item onto the toolbars above to add it, from the toolbars in the items table to remove it.",2208,Sjleip ein item nao de wirkbalke veur deze toe te veuge en van de wirkbalke nao de tabel veur deze eweg te doon.,2211,epiphany,po/li.po
+Failed to find %s,2230,Kèn %s neet vènje,2231,epiphany,po/li.po
+"%s exists, please move it out of the way.",2235,%s besjteit. Haol 't esuchbleef oet de waeg.,2236,epiphany,po/li.po
+Failed to create directory %s.,2240,Kèn de map %s neet aanmake.,2241,epiphany,po/li.po
+Could not display help: %s,2262,Kós hulp neet tuine: %s,2263,epiphany,po/li.po
+Arabic,2268,Arabis,2269,epiphany,po/li.po
+Baltic,2274,Baltis,2275,epiphany,po/li.po
+Central European,2280,Sentraal Europees,2281,epiphany,po/li.po
+Cyrillic,2286,Cyrillis,2287,epiphany,po/li.po
+Greek,2298,Greeks,2299,epiphany,po/li.po
+Hebrew,2304,Hebreefs,2305,epiphany,po/li.po
+Simplified Chinese,2309,Vereinvoudig Sinees,2310,epiphany,po/li.po
+Thai,2319,Thais,2320,epiphany,po/li.po
+Traditional Chinese,2324,Tradisjoneel Sinees,2325,epiphany,po/li.po
+Turkish,2336,Turks,2337,epiphany,po/li.po
+Western,2348,Westers,2349,epiphany,po/li.po
+Insecure,2357,Ónveilig,2358,epiphany,po/li.po
+History,2365,Historie,2366,epiphany,po/li.po
+Bookmarks,2371,Blaadwiezers,2372,epiphany,po/li.po
+Address Entry,2375,Adresingank,2376,epiphany,po/li.po
+%s Properties,2447,%s eigesjappe,2448,epiphany,po/li.po
+_Title:,2453,_Tittel:,2454,epiphany,po/li.po
+To_pics:,2458,_Óngerwerpe:,2459,epiphany,po/li.po
+_Show in bookmarks bar,2464,_Tuine in blaadwiezerwirkbalk,2465,epiphany,po/li.po
+_File,2473,_Besjtandj,2474,epiphany,po/li.po
+_Edit,2481,Be_wirke,2482,epiphany,po/li.po
+_View,2489,B_ild,2490,epiphany,po/li.po
+_Help,2495,_Hulp,2496,epiphany,po/li.po
+_New Topic,2501,_Nuuj óngerwerp,2502,epiphany,po/li.po
+Create a new topic,2506,Nuuj óngerwerp aanmake,2507,epiphany,po/li.po
+_Open in New Window,2514,In nuuj vinster _äöpene,2515,epiphany,po/li.po
+Open the selected bookmark in a new window,2518,Geselekteerde blaadwiezer äöpene in nuuj vinster,2519,epiphany,po/li.po
+Open in New _Tab,2525,In nuuj _tabblaad äöpene,2526,epiphany,po/li.po
+Open the selected bookmark in a new tab,2529,Geselekteerde blaadwiezer äöpene in nuuj tabblaad,2530,epiphany,po/li.po
+_Rename...,2534,_Herneume...,2535,epiphany,po/li.po
+Rename the selected bookmark or topic,2538,Geselekteerde blaadwiezer of óngerwerp herneume,2539,epiphany,po/li.po
+_Delete,2545,_Ewegdoon,2546,epiphany,po/li.po
+Delete the selected bookmark or topic,2549,Geselekteerde blaadwiezer of óngerwerp ewegdoon,2550,epiphany,po/li.po
+_Properties,2553,_Eigesjappe,2554,epiphany,po/li.po
+View or modify the properties of the selected bookmark,2557,Eigesjappe van de geselekteerde blaadwiezer bekieke of bewirke,2558,epiphany,po/li.po
+_Close,2577,Sjl_oete,2578,epiphany,po/li.po
+Close the bookmarks window,2583,Blaadwiezervinster sjloete,2584,epiphany,po/li.po
+Cu_t,2592,_Knippe,2593,epiphany,po/li.po
+Cut the selection,2598,Seleksie knippe,2599,epiphany,po/li.po
+_Copy,2607,Kopiëre,2608,epiphany,po/li.po
+Copy the selection,2613,Kopieer seleksie,2614,epiphany,po/li.po
+_Paste,2621,_Plakke,2622,epiphany,po/li.po
+Paste the clipboard,2626,Plakke vanaaf klembord,2627,epiphany,po/li.po
+Select _All,2631,_Alles selektere,2632,epiphany,po/li.po
+Select all bookmarks or text,2635,Alle blaadwiezers of teks selektere,2636,epiphany,po/li.po
+_Contents,2641,_Inhaud,2642,epiphany,po/li.po
+Display bookmarks help,2647,Hulp veur blaadwiezers tuine,2648,epiphany,po/li.po
+_About,2653,_Euver,2654,epiphany,po/li.po
+Display credits for the web browser creators,2658,Credits tuine veur de makers van de wèbbrowser,2659,epiphany,po/li.po
+_Show in Bookmarks Bar,2665,_Tuine in blaadwiezerwirkbalk,2666,epiphany,po/li.po
+Show the selected bookmark or topic in the bookmarks bar,2669,Geselekteerde blaadwiezer of óngerwerp tuine in de blaadwiezerwirkbalk,2670,epiphany,po/li.po
+_Title,2675,_Tittel,2676,epiphany,po/li.po
+Show only the title column,2679,Allein de tittelkelóm tuine,2680,epiphany,po/li.po
+T_itle and Address,2683,_Tittel en adres,2684,epiphany,po/li.po
+Show both the title and address columns,2687,Zoewaal tittel- es adreskelóm tuine,2688,epiphany,po/li.po
+Type a topic,2691,Geuf ein óngerwerp,2692,epiphany,po/li.po
+_Open in New Windows,2767,In nuuj vinsters äöpene,2768,epiphany,po/li.po
+Open in New _Tabs,2772,In nuuj _tabblajer äöpene,2773,epiphany,po/li.po
+_Copy Address,2776,Adres _kopiëre,2777,epiphany,po/li.po
+_Search:,2780,_Zeuke:,2781,epiphany,po/li.po
+Topics,2785,Óngerwerpe,2786,epiphany,po/li.po
+Title,2790,Tittel,2791,epiphany,po/li.po
+Address,2794,Adres,2795,epiphany,po/li.po
+Search the web,2803,'t wèb doorzeuke,2804,epiphany,po/li.po
+News,2816,Nuuts,2817,epiphany,po/li.po
+Shopping,2821,Winkele,2822,epiphany,po/li.po
+Sports,2825,Sjport,2826,epiphany,po/li.po
+Travel,2829,Reize,2830,epiphany,po/li.po
+Work,2833,Wirk,2834,epiphany,po/li.po
+Most Visited,2838,Meis bezeuk,2839,epiphany,po/li.po
+Not Categorized,2842,Neet ingedeild,2843,epiphany,po/li.po
+Duplicated Bookmark,2860,Döbbele blaadwiezers,2861,epiphany,po/li.po
+A bookmark titled %s already exists for this page.,2865,'t geuf al eine blaadwiezer mit tittel %s veur deze pagina.,2866,epiphany,po/li.po
+Empty,2870,Laeg,2871,epiphany,po/li.po
+Go,2901,Gank nao,2902,epiphany,po/li.po
+Open the selected history link in a new window,2905,Geselekteerde verwiezing oet de historie äöpene in nuuj vinster,2906,epiphany,po/li.po
+Open the selected history link in a new tab,2909,Geselekteerde verwiezing oet de historie äöpene in nuuj tabblaad,2910,epiphany,po/li.po
+Delete the selected history link,2913,Geselekteerde verwiezing oet de historie ewegdoon,2914,epiphany,po/li.po
+Boo_kmark Link...,2920,Bl_aadwiezer make van verwiezing...,2921,epiphany,po/li.po
+Bookmark the selected history link,2924,Geselekteerd item oet de historie opsjlaon es blaadwiezer,2925,epiphany,po/li.po
+Close the history window,2930,Historievinster sjloete,2931,epiphany,po/li.po
+Select all history links or text,2934,Alle verwiezinge oet de historie of teks selektere,2935,epiphany,po/li.po
+C_lear History,2942,Hist_orie laege,2943,epiphany,po/li.po
+Clear your browsing history,2946,Historie wösje,2947,epiphany,po/li.po
+Display history help,2952,Hulp veur 't tuine van historie,2953,epiphany,po/li.po
+_Address,2956,_Adres,2957,epiphany,po/li.po
+Show only the address column,2960,Allein de adreskelóm tuine,2961,epiphany,po/li.po
+Clear browsing history?,2979,Historie wösje?,2980,epiphany,po/li.po
+Clearing the browsing history will cause all history links to be permanently deleted.,2983,'t ewegdoon van de historie zal alle verwiezinge in de historie permenent ewegdoon.,2986,epiphany,po/li.po
+Load the given session file,3021,'t gegaeve sessiebesjtandj laje,3022,epiphany,po/li.po
+FILE,3025,BESJTANDJ,3026,epiphany,po/li.po
+Add a bookmark (don't open any window),3030,Veug blaadwiezer toe (zónger ein nuuj vinster te äöpene),3031,epiphany,po/li.po
+Launch the bookmarks editor,3047,Blaadwiezerwirtsjaf sjtarte,3048,epiphany,po/li.po
+Crash Recovery,3067,Vasloupe hersjtèlle,3068,epiphany,po/li.po
+_Don't Recover,3072,Neet hersjtèlle,3073,epiphany,po/li.po
+_Recover,3077,_Trökkaere,3078,epiphany,po/li.po
+Epiphany appears to have crashed or been killed the last time it was run.,3082,'t lik d'rop det Epiphany de veurige kier is vasgeloupe of 'vernetig'.,3084,epiphany,po/li.po
+You can recover the opened tabs and windows.,3087,Geer kènt de geäöpende tabblajer en vinsters hersjtèlle.,3088,epiphany,po/li.po
+Blank page,3111,Blanko pagina,3112,epiphany,po/li.po
+site,3116,pagina,3117,epiphany,po/li.po
+Redirecting to %s...,3122,Doorgesjik nao %s...,3123,epiphany,po/li.po
+Transferring data from %s...,3128,Data van %s weurt ingelaeze...,3129,epiphany,po/li.po
+Waiting for authorization from %s...,3134,Wach op toesjtemming van %s...,3135,epiphany,po/li.po
+Loading %s...,3140,%s weurt gelaje...,3141,epiphany,po/li.po
+_Go,3151,_Gank nao,3152,epiphany,po/li.po
+_Tabs,3162,_Tabblajer,3163,epiphany,po/li.po
+_New Window,3168,_Nuuj vinster,3169,epiphany,po/li.po
+New _Tab,3179,Nuuj tabblaad,3180,epiphany,po/li.po
+_Open...,3191,Äö_pene...,3192,epiphany,po/li.po
+Open a file,3196,Ei besjtandj äöpene,3197,epiphany,po/li.po
+Save _As...,3201,Opsjl_aon es...,3202,epiphany,po/li.po
+Save the current page,3206,Huijige pagina opsjlaon,3207,epiphany,po/li.po
+_Print...,3231,Aaf_drökke...,3232,epiphany,po/li.po
+Print the current page,3236,Huijige pagina aafdrökke,3237,epiphany,po/li.po
+S_end To...,3241,Sjikk_e nao...,3242,epiphany,po/li.po
+Send a link of the current page,3246,Verwiezing nao de huijige pagina sjikke,3247,epiphany,po/li.po
+Close this window,3252,Dit vinster sjloete,3253,epiphany,po/li.po
+Paste clipboard,3278,Plakke vanaaf klembord,3279,epiphany,po/li.po
+Select the entire page,3283,De ganse pagina selektere,3284,epiphany,po/li.po
+_Find...,3288,_Zeuk...,3289,epiphany,po/li.po
+Find Ne_xt,3297,Zeuk _naekste,3298,epiphany,po/li.po
+Find Pre_vious,3307,Zeuk Veu_rige,3308,epiphany,po/li.po
+P_ersonal Data,3318,P_ersoenlike infermasie,3319,epiphany,po/li.po
+View and remove cookies and passwords,3322,Cookies en wachwäörd bekieke en ewegdoon,3323,epiphany,po/li.po
+T_oolbars,3327,_Wirkbalke,3328,epiphany,po/li.po
+Customize toolbars,3331,Wirkbalke bewirke,3332,epiphany,po/li.po
+P_references,3336,P_rifferensies,3337,epiphany,po/li.po
+Configure the web browser,3342,De wèbbrowser insjtèlle,3343,epiphany,po/li.po
+_Stop,3348,_Sjtop,3349,epiphany,po/li.po
+Stop current data transfer,3353,Sjtop de huijige data-euverdrach,3354,epiphany,po/li.po
+_Reload,3359,He_rlaje,3360,epiphany,po/li.po
+Display the latest content of the current page,3364,De nuutste inhaud van de huijige pagina tuine,3365,epiphany,po/li.po
+Zoom _In,3369,_Inzoome,3370,epiphany,po/li.po
+Zoom _Out,3378,_Oetzoome,3379,epiphany,po/li.po
+_Normal Size,3387,_Normale gruutde,3388,epiphany,po/li.po
+_Page Source,3409,B_ron tuine,3410,epiphany,po/li.po
+View the source code of the page,3413,De bronkood van de pagina bekieke,3414,epiphany,po/li.po
+Add a bookmark for the current page,3427,Blaadwiezer toeveuge veur de huijige pagina,3428,epiphany,po/li.po
+_Back,3446,Veu_rige,3447,epiphany,po/li.po
+Go to the previous visited page,3450,Gank nao de veurige bezeukde pagina,3451,epiphany,po/li.po
+_Forward,3455,Nae_kste,3456,epiphany,po/li.po
+Go to the next visited page,3459,Gank nao de naekste bezeukde pagina,3460,epiphany,po/li.po
+Go up one level,3464,"Ein nivo \""ómhoeg\"" gaon",3465,epiphany,po/li.po
+_Home,3469,_Sjtart,3470,epiphany,po/li.po
+Go to the home page,3474,Gank nao de sjtartpagina,3475,epiphany,po/li.po
+_Location...,3479,_Lokasie...,3480,epiphany,po/li.po
+Go to a specified location,3484,Gank nao ein gezatte lokasie,3485,epiphany,po/li.po
+H_istory,3492,H_istorie,3493,epiphany,po/li.po
+_Previous Tab,3505,_Veurig tabblaad,3506,epiphany,po/li.po
+Activate previous tab,3509,Veurige tabblaad aktivere,3510,epiphany,po/li.po
+_Next Tab,3514,_Naekste tabblaad,3515,epiphany,po/li.po
+Activate next tab,3518,Naekste tabblaad aktivere,3519,epiphany,po/li.po
+Move Tab _Left,3522,Tabblaad nao _links verplaatse,3523,epiphany,po/li.po
+Move current tab to left,3527,Huijige tabblaad nao links verplaatse,3528,epiphany,po/li.po
+Move Tab _Right,3531,Tabblaad nao _rechs verplaatse,3532,epiphany,po/li.po
+Move current tab to right,3536,Huijige tabblaad nao rechs verplaatse,3537,epiphany,po/li.po
+_Detach Tab,3541,Tabblaad los_riete,3542,epiphany,po/li.po
+Detach current tab,3546,Huijige tabblaad losriete,3547,epiphany,po/li.po
+Display web browser help,3552,Hulp veur wèbbrowser tuine,3553,epiphany,po/li.po
+_Toolbar,3558,_Wirkbalk,3559,epiphany,po/li.po
+Show or hide toolbar,3564,Wirkbalk tuine/maskere,3565,epiphany,po/li.po
+_Bookmarks Bar,3569,_Blaadwiezerwirkbalk,3570,epiphany,po/li.po
+Show or hide bookmarks bar,3575,Blaadwiezerwirkbalk tuine/maskere,3576,epiphany,po/li.po
+St_atusbar,3580,Sjt_atusbalk,3581,epiphany,po/li.po
+Show or hide statusbar,3584,Sjtatusbalk tuine/maskere,3585,epiphany,po/li.po
+_Fullscreen,3589,_Volsjtendig sjirm,3590,epiphany,po/li.po
+Browse at full screen,3594,Surfe mit 't volsjtendige sjirm,3595,epiphany,po/li.po
+_Save Background As...,3606,Achtergróndj _opsjlaon es...,3607,epiphany,po/li.po
+_Open Frame,3620,Frame äö_pene,3621,epiphany,po/li.po
+_Open Link,3626,Verwiezing äö_pene,3627,epiphany,po/li.po
+Open Link in _New Window,3631,Verwiezing in _nuuj vinster äöpene,3632,epiphany,po/li.po
+Open Link in New _Tab,3636,Verwiezing äöpene in nuuj _tabblaad,3637,epiphany,po/li.po
+_Download Link,3643,Verwiezing _downloade,3644,epiphany,po/li.po
+_Bookmark Link...,3656,Bl_aadwiezer make van verwiezing...,3657,epiphany,po/li.po
+_Copy Link Address,3660,Verwiezing kopiëre,3661,epiphany,po/li.po
+_Save Image As...,3672,Aafbiljing _opsjlaon es...,3673,epiphany,po/li.po
+Open,3707,Äöpene,3708,epiphany,po/li.po
+Save As,3712,Opsjlaon es,3713,epiphany,po/li.po
+Bookmark,3717,Blaadwiezer,3718,epiphany,po/li.po
+Broken,3724,Gebraoke,3725,epiphany,po/li.po
+Medium,3728,Gemiddeld,3729,epiphany,po/li.po
+Low,3732,Lieg,3733,epiphany,po/li.po
+High,3737,Hoeg,3738,epiphany,po/li.po
+Security level: %s\n%s,3742,Beveiligingsnivo: %s\n%s,3745,epiphany,po/li.po
+Security level: %s,3751,Beveiligingsnivo: %s,3752,epiphany,po/li.po
+Domain,3756,Domein,3757,epiphany,po/li.po
+Name,3761,Naam,3762,epiphany,po/li.po
+User Name,3772,Gebroekersnaam,3773,epiphany,po/li.po
+Cookie Properties,3776,Cookie-eigesjappe,3777,epiphany,po/li.po
+Path:,3788,Paad:,3789,epiphany,po/li.po
+End of current session,3813,ènj van huijige sessie,3814,epiphany,po/li.po
+First,3837,Ierste,3838,epiphany,po/li.po
+Go to the first page,3842,Gank nao de ierste pagina,3843,epiphany,po/li.po
+Last,3849,Leste,3850,epiphany,po/li.po
+Go to the last page,3854,Gank nao de leste pagina,3855,epiphany,po/li.po
+Previous,3859,Veurige,3860,epiphany,po/li.po
+Go to the previous page,3863,Gank nao de veurige pagina,3864,epiphany,po/li.po
+Next,3868,Naekste,3869,epiphany,po/li.po
+Go to next page,3872,Gank nao de naekste pagina,3873,epiphany,po/li.po
+Close,3878,Sjloete,3879,epiphany,po/li.po
+Close print preview,3882,Aafdröksjtaal sjloete,3883,epiphany,po/li.po
+System language,3895,Systeemsjpraok,3896,epiphany,po/li.po
+Albanian,3904,Albanees,3905,epiphany,po/li.po
+Azerbaijani,3908,Azerbeidjaans,3909,epiphany,po/li.po
+Basque,3912,Baskis,3913,epiphany,po/li.po
+Breton,3919,Bretons,3920,epiphany,po/li.po
+Bulgarian,3923,Bulgaars,3924,epiphany,po/li.po
+Byelorussian,3928,Witróssis,3929,epiphany,po/li.po
+Catalan,3932,Catalaans,3933,epiphany,po/li.po
+Croatian,3937,Kroatis,3938,epiphany,po/li.po
+Czech,3941,Tsjechis,3942,epiphany,po/li.po
+Danish,3945,Deens,3946,epiphany,po/li.po
+Dutch,3949,Holles,3950,epiphany,po/li.po
+English,3953,Ingels,3954,epiphany,po/li.po
+Estonian,3964,Estis,3965,epiphany,po/li.po
+Faeroese,3971,Faroësj,3972,epiphany,po/li.po
+Finnish,3975,Fins,3976,epiphany,po/li.po
+French,3979,Frans,3980,epiphany,po/li.po
+Galician,3983,Galisiaans,3984,epiphany,po/li.po
+German,3988,Pruses,3989,epiphany,po/li.po
+Hungarian,3992,Hongaars,3993,epiphany,po/li.po
+Icelandic,3996,Ieslenjs,3997,epiphany,po/li.po
+Indonesian,4001,Indonesis,4002,epiphany,po/li.po
+Irish,4007,Iers,4008,epiphany,po/li.po
+Italian,4012,Itteljaans,4013,epiphany,po/li.po
+Latvian,4017,Lets,4018,epiphany,po/li.po
+Lithuanian,4021,Litouws,4022,epiphany,po/li.po
+Macedonian,4025,Massedonis,4026,epiphany,po/li.po
+Malay,4029,Maleis,4030,epiphany,po/li.po
+Norwegian/Nynorsk,4033,Naors/Nynorsk,4034,epiphany,po/li.po
+Norwegian,4044,Naors,4045,epiphany,po/li.po
+Polish,4048,Pools,4049,epiphany,po/li.po
+Portuguese,4053,Portugees,4054,epiphany,po/li.po
+Portuguese of Brazil,4057,Braziliaans Portugees,4058,epiphany,po/li.po
+Romanian,4062,Roemeens,4063,epiphany,po/li.po
+Scottish,4067,Sjots,4068,epiphany,po/li.po
+Serbian,4072,Servis,4073,epiphany,po/li.po
+Slovak,4076,Slowaaks,4077,epiphany,po/li.po
+Slovenian,4080,Sjloveens,4081,epiphany,po/li.po
+Spanish,4084,Sjpaans,4085,epiphany,po/li.po
+Swedish,4088,Zjweeds,4089,epiphany,po/li.po
+Vietnamese,4093,Viëtnamees,4094,epiphany,po/li.po
+Walloon,4103,Waals,4104,epiphany,po/li.po
+Custom [%s],4108,Aangepas [%s],4109,epiphany,po/li.po
+Home,4117,Sjtart,4118,epiphany,po/li.po
+Back,4132,Veurige,4133,epiphany,po/li.po
+Forward,4142,Naekste,4143,epiphany,po/li.po
+Up,4153,Ómhoeg,4154,epiphany,po/li.po
+Zoom,4166,Zoome,4167,epiphany,po/li.po
+Favicon,4174,Favpiktogram,4175,epiphany,po/li.po
+Check this out!,4182,Zuug hie!,4183,epiphany,po/li.po
+Toolbar Editor,4187,Wirkbalkwirtsjaf,4188,epiphany,po/li.po
+_Add a New Toolbar,4193,nuuj wirkbalk _toeveugen,4194,epiphany,po/li.po
+A GNOME browser based on Mozilla,4206,ein oetgebreije GNOME browser gefóndeerd op Mozilla,4207,epiphany,po/li.po
+System Monitor,19,Prosesbeheer,20,gnome-system-monitor,po/li.po
+View current processes and monitor system state,23,Tuin huijig proses en bekiek systeemtoesjtandj,24,gnome-system-monitor,po/li.po
+translator_credits,37,euverzat door Mathieu van Woerkom,38,gnome-system-monitor,po/li.po
+(C) 2001 Kevin Vandersloot,41,(C)  2001 Kevin Vandersloot,42,gnome-system-monitor,po/li.po
+Simple process viewer using libgtop,45,Einvoudig proseseuverzich via libgtop.,46,gnome-system-monitor,po/li.po
+X window system,49,X  window system,50,gnome-system-monitor,po/li.po
+Gnome-Session,57,Gnome sessie,58,gnome-system-monitor,po/li.po
+No processes are currently hidden.,61,'t geuf op 't memènt gein versjtaoke prosesse.,62,gnome-system-monitor,po/li.po
+Manage Hidden Processes,65,Beheer versjtaoke prosesse,66,gnome-system-monitor,po/li.po
+_Remove From List,74,_Doog eweg oet de lies,75,gnome-system-monitor,po/li.po
+These are the processes you have chosen to hide. You can reshow a process by removing it from this list.,82,Dao is gekaoze dees prosesse neet te tuine. Zie waere weer getuind wen zie oet deze lies waere eweggedaon.,85,gnome-system-monitor,po/li.po
+Process Info,90,Prosesinfermasie,91,gnome-system-monitor,po/li.po
+Command:,94,Opdrach:,95,gnome-system-monitor,po/li.po
+Status:,98,Sjtatus:,99,gnome-system-monitor,po/li.po
+Priority:,102,Prioriteit:,103,gnome-system-monitor,po/li.po
+Memory Usage,106,Ónthaudgebroek: ,107,gnome-system-monitor,po/li.po
+Total:,110,Totaal:,111,gnome-system-monitor,po/li.po
+RSS:,114,VGO: ,115,gnome-system-monitor,po/li.po
+Shared:,118,Gedeild: ,119,gnome-system-monitor,po/li.po
+Very high - nice %d,123,Gans hoeg ('nice'-waerd: %d),124,gnome-system-monitor,po/li.po
+High - nice %d,128,Hoeg ('nice'-waerd: %d),129,gnome-system-monitor,po/li.po
+Normal - nice %d,133,Normaal ('nice'-waerd: %d),134,gnome-system-monitor,po/li.po
+Low - nice %d,138,Lieg ('nice'-waerd: %d),139,gnome-system-monitor,po/li.po
+Very low - nice %d,143,Gans lieg ('nice'-waerd:  %d),144,gnome-system-monitor,po/li.po
+_Change Priority...,147,_Veranger prioriteit...,148,gnome-system-monitor,po/li.po
+Change the importance (nice value) of a process,151,Veranger de prioriteit ('nice'-waerd) van dit proses.,152,gnome-system-monitor,po/li.po
+_Hide Process,155,_Maskeer proses,156,gnome-system-monitor,po/li.po
+Hide a process,159,Maskeer dit proses.,160,gnome-system-monitor,po/li.po
+End _Process,163,_Beèndig proses,164,gnome-system-monitor,po/li.po
+Force a process to finish.,167,Dwing dit proses te èndige.,168,gnome-system-monitor,po/li.po
+_Kill Process,172,Vern_etig proses,173,gnome-system-monitor,po/li.po
+Force a process to finish now.,176,Dwing dit proses noe te èndige.,177,gnome-system-monitor,po/li.po
+_Hidden Processes,180,Versjtaoke _prosesse...,181,gnome-system-monitor,po/li.po
+View and edit your list of hidden processes,184,Pas de lies van versjtaoke prosesse aan.,185,gnome-system-monitor,po/li.po
+_Memory Maps,188,_Ónthaudverdeiling,189,gnome-system-monitor,po/li.po
+View the memory maps associated with a process,192,Tuin de ónthaudverdeiling van dit proses.,193,gnome-system-monitor,po/li.po
+Process _Dependencies,196,_Prosesaafhenkelikheite,197,gnome-system-monitor,po/li.po
+Display a tree showing process dependencies,200,Tuin prosesaafhenkelikheidsboum,201,gnome-system-monitor,po/li.po
+Display threads (subprocesses),208,threads tuine,209,gnome-system-monitor,po/li.po
+_End Process,212,_Beèndig proses,213,gnome-system-monitor,po/li.po
+Force a process to finish,216,Dwing ein proses te èndige,217,gnome-system-monitor,po/li.po
+Force a process to finish now,220,Dwing ein proses noe te èndige,221,gnome-system-monitor,po/li.po
+More _Info >>,224,Mie _infermasie >>,225,gnome-system-monitor,po/li.po
+<< Less _Info,228,<< Winniger _infermasie,229,gnome-system-monitor,po/li.po
+Sea_rch:,232,_Zeuk:,233,gnome-system-monitor,po/li.po
+All Processes,236,Alle prosesse,237,gnome-system-monitor,po/li.po
+My Processes,240,Mien prosesse,241,gnome-system-monitor,po/li.po
+Active Processes,244,Aktieve prosesse,245,gnome-system-monitor,po/li.po
+Vie_w:,248,_Tuin:,249,gnome-system-monitor,po/li.po
+More _Info,252,_Mie infermasie,253,gnome-system-monitor,po/li.po
+Name,256,Naam,257,gnome-system-monitor,po/li.po
+Directory,260,Map,261,gnome-system-monitor,po/li.po
+Type,264,Tiep,265,gnome-system-monitor,po/li.po
+Total,268,Totaal,269,gnome-system-monitor,po/li.po
+Used,272,Gebroek,273,gnome-system-monitor,po/li.po
+CPU History,276,Historie van CPU gebroek,277,gnome-system-monitor,po/li.po
+Memory and Swap History,285,Historie van Ónthaud en Swap gebroek,286,gnome-system-monitor,po/li.po
+Used memory:,289,Ónthaud in gebroek:,290,gnome-system-monitor,po/li.po
+of,293,van,294,gnome-system-monitor,po/li.po
+Used swap:,297,Swap in gebroek:,298,gnome-system-monitor,po/li.po
+Devices,301,Apperaten,302,gnome-system-monitor,po/li.po
+Process Listing,305,Proseslies,306,gnome-system-monitor,po/li.po
+Resource Monitor,309,Prosesbeheer,310,gnome-system-monitor,po/li.po
+Application Manager,313,Programbeheerder,314,gnome-system-monitor,po/li.po
+Running Applications,317,aktieve programme,318,gnome-system-monitor,po/li.po
+_Close Application,321,_Sjloet program,322,gnome-system-monitor,po/li.po
+Filename,325,Besjtandjnaam,326,gnome-system-monitor,po/li.po
+VM Start,329,VG aanvang,330,gnome-system-monitor,po/li.po
+VM End,333,VG-ènj,334,gnome-system-monitor,po/li.po
+VM Size,337,VG ómvank,338,gnome-system-monitor,po/li.po
+Flags,341,Vane,342,gnome-system-monitor,po/li.po
+Device,350,Apperaat,351,gnome-system-monitor,po/li.po
+Memory Maps,358,Ónthaudverdeiling...,359,gnome-system-monitor,po/li.po
+No such process.,367,Neet zoe ei proses.,368,gnome-system-monitor,po/li.po
+Process Name : %s \n\nYou do not have permission to change the priority of this process. You can enter the root password to gain the necessary permission.,372,proses: %s\n\nGeer höbt neet de rechte veur de prioriteit van dit proses te verangere. Geuf 't root-wachwaord veur de rechte te verkriege.,377,gnome-system-monitor,po/li.po
+Process Name : %s \n\nYou must be root to renice a process lower than 0. You can enter the root password to gain the necessary permission.,385,proses: %s\n\nGeer moot root zeen veur ei proses ein 'nice'-waerd ónger 0 te gaeve. Geuf 't root-wachwaord veur root te waere.,390,gnome-system-monitor,po/li.po
+Process Name : %s \n\nYou do not have permission to end this process. You can enter the root password to gain the necessary permission.,398,proses: %s\n\nGeer höbt neet de rechte veur dit proses te beèndigen. Geuf 't root-wachwaord veur de rechte te verkriege.,403,gnome-system-monitor,po/li.po
+An error occured while killing the process.,410,Dao góng get mis wie 't proses beèndigd woor.,411,gnome-system-monitor,po/li.po
+Change Priority,472,Veranger prioriteit,473,gnome-system-monitor,po/li.po
+Change _Priority,476,Veranger _prioriteit,477,gnome-system-monitor,po/li.po
+The priority of a process is given by its nice value. A lower nice value corresponds to a higher priority.,485,De prioriteit van ei proses weurt aangegaeve door ein 'nice'-waerd. ein liegere 'nice'-waerd kump euverein mit ein hoegere prioriteit.,488,gnome-system-monitor,po/li.po
+Icon,493,Piktogram,494,gnome-system-monitor,po/li.po
+Preferences,497,Prifferensies,498,gnome-system-monitor,po/li.po
+Behavior,501,Gedraag,502,gnome-system-monitor,po/li.po
+Show warning dialog when ending or _killing processes,514,_Waarsjoew bie 't beèndige of vernetigen van ei proses,515,gnome-system-monitor,po/li.po
+Show warning dialog when _hiding processes,518,Waarsjoew bie 't mas_kere van prosesse,519,gnome-system-monitor,po/li.po
+Process Fields,522,Proses veljer,523,gnome-system-monitor,po/li.po
+Graphs,526,Grafikke,527,gnome-system-monitor,po/li.po
+Kill Process,545,Vernetig proses,546,gnome-system-monitor,po/li.po
+End Process,549,Beèndig proses,550,gnome-system-monitor,po/li.po
+Root Password :,553,Root-wachwaord:,554,gnome-system-monitor,po/li.po
+Wrong Password.,557,Verkierd wachwaord!,558,gnome-system-monitor,po/li.po
+show simple dialog to end processes and logout,561,Tuin ein dialoog veur prosesse te sjloete en uch aaf te melje.,562,gnome-system-monitor,po/li.po
+Process Name,565,Prosesnaam,566,gnome-system-monitor,po/li.po
+Arguments,569,Argumente,570,gnome-system-monitor,po/li.po
+User,573,Eigenaer,574,gnome-system-monitor,po/li.po
+Status,577,Sjtatus,578,gnome-system-monitor,po/li.po
+Memory,581,Ónthaud,582,gnome-system-monitor,po/li.po
+Resident Memory,585,Vas ónthaud,586,gnome-system-monitor,po/li.po
+Shared Memory,589,Gedeild ónthaud,590,gnome-system-monitor,po/li.po
+RSS Memory,593,Gewisseld ónthaud,594,gnome-system-monitor,po/li.po
+% CPU,603,% CPU-gebroek,604,gnome-system-monitor,po/li.po
+Nice,607,'Nice'-waerd,608,gnome-system-monitor,po/li.po
+ID,611,PID,612,gnome-system-monitor,po/li.po
+Running,615,Aktief,616,gnome-system-monitor,po/li.po
+Stopped,619,Gesjtop,620,gnome-system-monitor,po/li.po
+Sleeping,623,Sjlaop,624,gnome-system-monitor,po/li.po
+%s could not be found.,632,Kós %s neet vènje.,633,gnome-system-monitor,po/li.po
+%.1f MB,649,%.1f  MB,650,gnome-system-monitor,po/li.po
+%.0f MB,654,%.0f  MB.,655,gnome-system-monitor,po/li.po
+%.1f GB,659,%.1f  GB.,660,gnome-system-monitor,po/li.po
+Applications,19,Toepassinge,20,nautilus,po/li.po
+Browse available software,23,Doorblajer besjikbare software,24,nautilus,po/li.po
+Apparition,27,Versjiening,28,nautilus,po/li.po
+Art,31,Grafis wirk,32,nautilus,po/li.po
+Black,39,Zjwart,40,nautilus,po/li.po
+Blue Ridge,43,Blauw liene,44,nautilus,po/li.po
+Blue Rough,47,Graof-blauw,48,nautilus,po/li.po
+Brushed Metal,56,Gehóbbeld metaal,57,nautilus,po/li.po
+Bubble Gum,60,Kujgum,61,nautilus,po/li.po
+Burlap,64,Jute,65,nautilus,po/li.po
+C_olors,68,_Kleure,69,nautilus,po/li.po
+Camera,72,Kamera,73,nautilus,po/li.po
+Camouflage,76,Kammeflaasj,77,nautilus,po/li.po
+Certified,80,Gesertifiseerd,81,nautilus,po/li.po
+Chalk,84,Kriet,85,nautilus,po/li.po
+Charcoal,88,Aomer,89,nautilus,po/li.po
+Concrete,92,Betóng,93,nautilus,po/li.po
+Cool,96,Koel,97,nautilus,po/li.po
+Cork,100,Sjtop,101,nautilus,po/li.po
+Danger,108,Gevaar,109,nautilus,po/li.po
+Danube,112,Donau,113,nautilus,po/li.po
+Dark Cork,116,Duusjtere sjtop,117,nautilus,po/li.po
+Dark GNOME,120,Duusjter GNOME,121,nautilus,po/li.po
+Deep Teal,124,Depe Teal,125,nautilus,po/li.po
+Distinguished,128,Verfiend,129,nautilus,po/li.po
+Documents,132,Dokkemènter,133,nautilus,po/li.po
+Dots,136,Tóppele,137,nautilus,po/li.po
+Draft,140,Klad,141,nautilus,po/li.po
+Drag a color to an object to change it to that color,144,Sjleip ein kleur nao ein objek veur 't van kleur te verangere,145,nautilus,po/li.po
+Drag a pattern tile to an object to change it,148,Sjleip eine dèssae nao ein objek veur 't te verangere,149,nautilus,po/li.po
+Drag an emblem to an object to add it to the object,152,Sjleip ein embleem nao ein objek veur 't d'rbie te doon,153,nautilus,po/li.po
+Eclipse,156,Verduusjtering,157,nautilus,po/li.po
+Envy,160,Nied,161,nautilus,po/li.po
+Erase,165,Ewegdoon,166,nautilus,po/li.po
+Favorite,169,Favvoriet,170,nautilus,po/li.po
+Fibers,173,Vezele,174,nautilus,po/li.po
+Fire Engine,177,Vuurmesjien,178,nautilus,po/li.po
+Floral,185,Blome,186,nautilus,po/li.po
+Fossil,189,Fossiel,190,nautilus,po/li.po
+Granite,197,Graneet,198,nautilus,po/li.po
+Green Weave,205,Greun Riewirk,206,nautilus,po/li.po
+Ice,209,Ies,210,nautilus,po/li.po
+Important,213,Wichtig,214,nautilus,po/li.po
+Leaf,221,Blaad,222,nautilus,po/li.po
+Lemon,225,Citroen,226,nautilus,po/li.po
+Mail,229,Elektronisse pos,230,nautilus,po/li.po
+Manila Paper,237,Manila-papeer,238,nautilus,po/li.po
+Moss Ridge,241,Mosrandj,242,nautilus,po/li.po
+Mud,245,Pratsj,246,nautilus,po/li.po
+New,253,Nuuj,254,nautilus,po/li.po
+Numbers,257,Siefers,258,nautilus,po/li.po
+OK,261,Okee,262,nautilus,po/li.po
+Ocean Strips,265,Osejaanstrandj,266,nautilus,po/li.po
+Oh No,269,O Nei,270,nautilus,po/li.po
+Orange,277,Oranje,278,nautilus,po/li.po
+Package,281,Pakket,282,nautilus,po/li.po
+Pale Blue,285,Bleikblauw,286,nautilus,po/li.po
+Personal,289,Persoenlik,290,nautilus,po/li.po
+Pictures,293,Aafbiljinge,294,nautilus,po/li.po
+Purple Marble,297,Pólper malber,298,nautilus,po/li.po
+Ridged Paper,301,Gerete papeer,302,nautilus,po/li.po
+Rough Paper,305,Roew papeer,306,nautilus,po/li.po
+Ruby,309,Robien,310,nautilus,po/li.po
+Sea Foam,313,Ziesjoem,314,nautilus,po/li.po
+Shale,317,Lótsj,318,nautilus,po/li.po
+Silver,321,Zilver,322,nautilus,po/li.po
+Sky,325,Hiemel,326,nautilus,po/li.po
+Sky Ridge,329,Hiemelrandj,330,nautilus,po/li.po
+Snow Ridge,333,Sjnierandj,334,nautilus,po/li.po
+Sound,337,Geluud,338,nautilus,po/li.po
+Special,341,Sjpesjaal,342,nautilus,po/li.po
+Tangerine,349,Mandarien,350,nautilus,po/li.po
+Violet,361,Flèt,362,nautilus,po/li.po
+Wavy White,365,Golvend Wit,366,nautilus,po/li.po
+Web,369,Wèb,370,nautilus,po/li.po
+White,373,Wit,374,nautilus,po/li.po
+White Ribs,377,Witte Rubbe,378,nautilus,po/li.po
+_Emblems,381,_Embleme,382,nautilus,po/li.po
+_Patterns,385,_Patroene,386,nautilus,po/li.po
+Favorite applications,389,Favvoriete programme,390,nautilus,po/li.po
+Favorites,393,Favvoriete,394,nautilus,po/li.po
+An Eggplant variation of the Crux theme.,397,Eine Eggplant varrejasie van 't Crux tema.,398,nautilus,po/li.po
+A Teal variation of the Crux theme.,405,Eine Teal varrejant van 't Crux tema.,406,nautilus,po/li.po
+This is the default theme for Nautilus.,417,Dit is 't sjtanderdtema veur Nautilus,418,nautilus,po/li.po
+A theme designed to fit well with the classic GNOME environment.,421,Ei tema gemaak veur good te passe bie de GNOME ómkreits.,422,nautilus,po/li.po
+Uses manila folders and gray-green backgrounds.,429,Gebroek manila mappe en griesgreune achtergrunj.,430,nautilus,po/li.po
+This theme uses photo-realistic folders.,437,Dit tema gebroek foto-realistisse mappe.,438,nautilus,po/li.po
+Name,445,Naam,446,nautilus,po/li.po
+Bring up a new window for every opened file,571,Nuuj vinster äöpene veur eder geäöpend besjtandj,572,nautilus,po/li.po
+Current Nautilus theme (deprecated),598,Huijig Nautilus-tema (verauwerd),599,nautilus,po/li.po
+Custom Background Set,603,Aangepasde achtergróndjset,604,nautilus,po/li.po
+Custom Side Pane Background Set,607,Aangepasde ziejpeniel-achtergróndjset,608,nautilus,po/li.po
+Default Background Color,617,Sjtanderd achtergróndjkleur,618,nautilus,po/li.po
+Default Background Filename,622,Sjtanderd achtergróndjbesjtandjnaam,623,nautilus,po/li.po
+Default Side Pane Background Color,627,Sjtanderd ziejpeniel-achtergróndjkleur,628,nautilus,po/li.po
+Default Side Pane Background Filename,632,Sjtanderd ziejpeniel-achtergróndjbesjtandjnaam,633,nautilus,po/li.po
+Default folder viewer,646,Sjtanderd mapweergaaf,647,nautilus,po/li.po
+Default sort order,670,Sjtanderd sorteerresem,671,nautilus,po/li.po
+Default zoom level used by the icon view.,674,Sjtanderd zoomfactor van piktogramweergaaf,675,nautilus,po/li.po
+Default zoom level used by the list view.,678,Sjtanderd zoomfaktor van liesweergaaf,679,nautilus,po/li.po
+Desktop font,687,Wirkblaad-booksjtaaftiep,688,nautilus,po/li.po
+Desktop home icon name,691,Naam van persoenlike map-piktogram op wirkblaad,692,nautilus,po/li.po
+Desktop trash icon name,695,Naam van papeerkörf-piktogram op wirkblaad,696,nautilus,po/li.po
+Enable 'special' flags in file preferences dialog,699,'Sjpesjale' vane insjakele in besjtandjprifferensies-dialoogvinster,700,nautilus,po/li.po
+Filename for the default side pane background. Only used if side_pane_background_set is true.,716,Besjtandjnaam veur sjtanderd ziejpeniel-achtergróndj. Allein gebroek wen side_pane_background_set waor is.,719,nautilus,po/li.po
+Home icon visible on desktop,738,Persoenlike map-piktogram zichbaar op wirkblaad,739,nautilus,po/li.po
+"If set to true, newly opened windows will have the location bar visible.",751,"Ingeval waor, höbbe nuuj geäöpende vinsters ein zichbare lokasiebalk.",753,nautilus,po/li.po
+"If set to true, newly opened windows will have the status bar visible.",761,"Ingeval waor, is bie nuuj geäöpende vinsters de sjtatusbalk zichbaar",762,nautilus,po/li.po
+"If set to true, newly opened windows will have toolbars visible.",765,"Ingeval waor, is bie nuuj geäöpende vinsters de getuugbalk zichbaar",766,nautilus,po/li.po
+"If set to true, then Nautilus will ask for confirmation when you attempt to put files in the trash.",787,"Ingeval waor, vraog Nautilus veur kónfermasie est geer probeert de besjtenj in de papeerkörf te sjmiete.",790,nautilus,po/li.po
+"If set to true, then Nautilus will have a feature allowing you to delete a file immediately and in-place, instead of moving it to the trash. This feature can be dangerous, so use caution.",809,"Ingeval waor, haet Nautilus de mäögelikheid eur toe te sjtaon det besjtenj sebiet eweggedaon waere, zónger zie iers in de papeerkörf te sjmiete. Dees toepassing kèn gevaerlik zeen, pas hiemit dus op.",813,nautilus,po/li.po
+"If set to true, then backup files such as those created by Emacs are displayed. Currently, only files ending in a tilde (~) are considered backup files.",835,"Ingeval waor, waere backup besjtenj wie gemaak door Emacs getuind. Noe waere allein dokkemènter op eine tilde (~) gezeen es backup besjtenj.",839,nautilus,po/li.po
+"If this is set to true, an icon linking to the trash will be put on the desktop.",868,"Ingeval waor, weurt ein piktogram mit ein koppeling nao de papeerkörf op 't beroblaad gezat.",871,nautilus,po/li.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\"".",885,"Ingeval waor, waere besjtenj in nuuj vinsters gesorteerd in ómgekierde resem. B.v., wen zie gesorteerd zeen van \""a\"" nao \""z\"", waere zie gesorteerd van \""z\"" nao \""a\"".",889,nautilus,po/li.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\""; if sorted by size, instead of being incrementally they will be sorted decrementally.",895,"Ingeval waor, waere besjtenj in nuuj vinsters gesorteerd in ómgekierde resem. B.v., wen zie gesorteerd zeen van \""a\"" nao \""z\"", waere zie gesorteerd van \""z\"" nao \""a\""; wen zie gesorteerd zeen nao gruutde, waere zie aafloupend in plaats van oploupend gesorteerd.",900,nautilus,po/li.po
+"If true, new windows will use manual layout by default.",918,"Ingeval waor, gebroeke nuuj vinsters sjtanderd handjmesige opmaak.",919,nautilus,po/li.po
+Images over this size (in bytes) won't be thumbnailed. The purpose of this setting is to avoid thumbnailing large images that may take a long time to load or use lots of memory.,922,Aafbiljinge groeter es dees gruutde (in bytes) waere neet verkleind getuind. D'n aafzich hievan is 't veurkómme van te lange laajtieje of 't gebroek van te väöl ónthaud veur 't laje van deze te groete aafbiljinge.,926,nautilus,po/li.po
+List of possible captions on icons,932,Lies van mäögelike biesjrifte bie piktogramme,933,nautilus,po/li.po
+Maximum image size for thumbnailing,941,Maksimum aafbiljingsgruutde veur verkleind tuine,942,nautilus,po/li.po
+Name of the Nautilus theme to use. This has been deprecated as of Nautilus 2.2. Please use the icon theme instead.,945,Naam van 't te gebroeke Nautilus-tema. Dit is verauwerd sins Nautilus 2.2. Gebroek esuchbleef 't piktogramtema in plaats daovan.,948,nautilus,po/li.po
+Nautilus handles drawing the desktop,953,Nautilus zörg veur 't teikene van 't wirkblaad,954,nautilus,po/li.po
+"Possible values are \""single\"" to launch files on a single click, or \""double\"" to launch them on a double click.",967,"Mäögelike waerdes zeen \""single\"" veur besjtenj mit ein inkele klik te sjtarte, of \""double\"" veur zie mit ein döbbelklik te stjarte.",970,nautilus,po/li.po
+Reverse sort order in new windows,979,Sorteerresem ómdrieje in nuuj vinsters,980,nautilus,po/li.po
+Show location bar in new windows,993,lokasiebalk tuine in nuuj vinsters,994,nautilus,po/li.po
+Show status bar in new windows,1007,Sjtatusbalk tuine in nuuj vinsters,1008,nautilus,po/li.po
+Show toolbar in new windows,1011,Wirkbalk tuine in nuuj vinsters,1012,nautilus,po/li.po
+Side pane view,1015,Ziejpeniel-weergaaf,1016,nautilus,po/li.po
+"Speed tradeoff for when to preview a sound file when mousing over a files icon. If set to \""always\"" then always plays the sound, even if the file is on a remote server. If set to \""local_only\"" then only plays previews on local filesystems. If set to \""never\"" then it never previews sound.",1019,"Wisselsjnelheid veur wienie ei geluud te sjpele wen de moes euver ein piktogram bewaeg. Ingeval \""ummer\"" weurt ummer 't geluud gesjpeeld, ouch wen 't op ein server-op-aafsjtandj is. Ingeval \""allein_lokaal\"" weurt 't allein gesjpeeld op 't lokale systeem. Ingeval \""noets\"" weurt noets ei geluud gesjpeeld.",1024,nautilus,po/li.po
+The font description used for the icons on the desktop.,1097,De booksjtaaftiepómsjrieving veur de piktogramme op 't wirkblaad.,1098,nautilus,po/li.po
+The side pane view to show in newly opened windows.,1110,De ziejpenielweergaaf veur in nuuj geäöpende vinsters te tuine.,1111,nautilus,po/li.po
+This name can be set if you want a custom name for the trash icon on the desktop.,1132,Deze naam kèn ingesjtèld waere est geer eine aangepasde naam wilt veur de verwiezing nao 't papeerkörf-piktogram op 't wirkblaad.,1135,nautilus,po/li.po
+Trash icon visible on desktop,1140,Papeerkörf-piktogram zichbaar op wirkblaad,1141,nautilus,po/li.po
+What to do with executable text files when activated,1159,Waat te doon mit oetveurbare teksbesjtenj bie aktivering,1160,nautilus,po/li.po
+"What to do with executable text files when they are activated (single or double clicked). Possible values are \""launch\"" to launch them as programs, \""ask\"" to ask what to do via a dialog, and \""display\"" to display them as text files.",1163,"Waat te doon mit oetveurbare teksbesjtenj bie aktivering (inkel- of döbbelklik). Mäögelike waerdes zeen \""sjtarte\"" veur ze es programme te sjtarte, \""vraoge\"" veur via ein dialoog te vraoge waat te doon, en \""tuine\"" veur ze es teksbesjtenj te tuine.",1168,nautilus,po/li.po
+When to show preview text in icons,1191,Wienie tekssjtaal in piktogramme te tuine,1192,nautilus,po/li.po
+When to show thumbnails of image files,1195,Wienie miniature van aafbiljingsbesjtenj te tuine,1196,nautilus,po/li.po
+Cut _Text,1240,_Teks knippe,1241,nautilus,po/li.po
+Cut the selected text to the clipboard,1245,De geselekteerde teks nao 't klembord knippe,1246,nautilus,po/li.po
+_Copy Text,1250,Teks k_opiëre,1251,nautilus,po/li.po
+Copy the selected text to the clipboard,1255,De geselekteerde teks nao 't klembord kopiëre,1256,nautilus,po/li.po
+_Paste Text,1260,Teks _plekke,1261,nautilus,po/li.po
+Paste the text stored on the clipboard,1265,De verwaarde teks vanaaf 't klembord plakke,1266,nautilus,po/li.po
+Select _All,1270,_Alles selektere,1271,nautilus,po/li.po
+Select all the text in a text field,1275,Alle items in dit vinster selektere,1276,nautilus,po/li.po
+Size,1308,Gruutde,1309,nautilus,po/li.po
+Type,1316,Tiep,1317,nautilus,po/li.po
+Date Modified,1325,Verangeringsdatem,1326,nautilus,po/li.po
+Permissions,1364,Rechte,1365,nautilus,po/li.po
+reset,1393,obbenuuts laje,1394,nautilus,po/li.po
+on the desktop,1399,op 't wirkblaad,1400,nautilus,po/li.po
+_Move here,1422,Hiehaer _verplaatse,1423,nautilus,po/li.po
+_Copy here,1426,Hiehaer _kopiëre,1427,nautilus,po/li.po
+_Link here,1430,Hiehaer _koppele,1431,nautilus,po/li.po
+Set as _Background,1434,Es _achtergróndj insjtèlle,1435,nautilus,po/li.po
+Cancel,1439,Annulere,1440,nautilus,po/li.po
+Set as background for _all folders,1443,Es achtergróndj insjtèlle veur _alle mappe,1444,nautilus,po/li.po
+Set as background for _this folder,1447,Es achtergróndj insj_tèlle veur deze map,1448,nautilus,po/li.po
+"Sorry, but you must specify a non-blank keyword for the new emblem.",1458,"Sorry, mer geer moot ein neet-laeg trefwaord veur 't nuuj embleem opgaeve.",1459,nautilus,po/li.po
+"Sorry, but emblem keywords can only contain letters, spaces and numbers.",1471,"Sorry, mer sjleutelwäörd veur embleme maoge allein booksjtaef, siefers en sjpasies höbbe.",1473,nautilus,po/li.po
+Couldn't install emblem,1493,Kèn 't embleem neet installere,1494,nautilus,po/li.po
+"Sorry, unable to save custom emblem.",1497,"Sorry, neet in sjtaot aangepas embleem op te sjlaon.",1498,nautilus,po/li.po
+"Sorry, unable to save custom emblem name.",1501,"Sorry, neet in sjtaot aangepasde embleemnaam op te sjlaon.",1502,nautilus,po/li.po
+%ld of %ld,1516,%ld van %ld,1517,nautilus,po/li.po
+From:,1521,Van:,1522,nautilus,po/li.po
+To:,1526,Nao:,1527,nautilus,po/li.po
+Error while moving.,1533,Faeler bie 't verplaatse.,1534,nautilus,po/li.po
+Error while deleting.,1547,Faeler bie 't ewegdoon.,1548,nautilus,po/li.po
+Error while copying.,1604,Faeler bie 't kopiëre.,1605,nautilus,po/li.po
+link to %s,1854,verwiezing nao %s,1855,nautilus,po/li.po
+another link to %s,1860,nog ein verwiezing nao %s,1861,nautilus,po/li.po
+%dst link to %s,1869,%de verwiezing nao %s,1870,nautilus,po/li.po
+%dnd link to %s,1875,%de verwiezing nao %s,1876,nautilus,po/li.po
+%drd link to %s,1881,%de verwiezing nao %s,1882,nautilus,po/li.po
+%dth link to %s,1887,%de verwiezing nao %s,1888,nautilus,po/li.po
+ (copy),1896, (kopie),1897,nautilus,po/li.po
+ (another copy),1901, (nog ein kopie),1902,nautilus,po/li.po
+th copy),1912,e kopie,1913,nautilus,po/li.po
+st copy),1917,e kopie),1918,nautilus,po/li.po
+nd copy),1922,e kopie),1923,nautilus,po/li.po
+rd copy),1927,e kopie,1928,nautilus,po/li.po
+%s (copy)%s,1933,%s (kopie)%s,1934,nautilus,po/li.po
+%s (another copy)%s,1939,%s (nog ein kopie)%s,1940,nautilus,po/li.po
+%s (%dth copy)%s,1951,%s (%de kopie)%s,1952,nautilus,po/li.po
+%s (%dst copy)%s,1957,%s (%dte kopie)%s,1958,nautilus,po/li.po
+%s (%dnd copy)%s,1963,%s (%de kopie)%s,1964,nautilus,po/li.po
+%s (%drd copy)%s,1969,%s (%de kopie)%s,1970,nautilus,po/li.po
+Unknown GnomeVFSXferProgressStatus %d,1987,Ónbekènde GnomeVFSXferProgressStatus %d,1988,nautilus,po/li.po
+Moving files to the Trash,1992,Besjtenj nao de papeerkörf aan 't verplaatse,1993,nautilus,po/li.po
+Moving,2004,verplaatsentaere,2005,nautilus,po/li.po
+Preparing to Move to Trash...,2008,Baezig mit veurbereide van verplaatse nao de papeerkörf...,2009,nautilus,po/li.po
+Moving files,2013,Besjtenj aan 't verplaatse,2014,nautilus,po/li.po
+Preparing To Move...,2023,Verplaatsing aan 't veurbereide...,2024,nautilus,po/li.po
+Finishing Move...,2027,Verplaatsing aan 't aafmake...,2028,nautilus,po/li.po
+Creating links to files,2032,Baezig mit aanmake van verwiezinge nao besjtenj,2033,nautilus,po/li.po
+Linking,2043,Verwiezinge aan 't make,2044,nautilus,po/li.po
+Preparing to Create Links...,2047,Baezig mit veurbereide van aanmake van verwiezinge...,2048,nautilus,po/li.po
+Finishing Creating Links...,2051,Baezig mit aafmake van aanmake van verwiezinge...,2052,nautilus,po/li.po
+Copying files,2056,kopiërentaere,2057,nautilus,po/li.po
+Copying,2067,Kopiërentaere,2068,nautilus,po/li.po
+Preparing To Copy...,2071,Baezig mit veurbereide van kopiëre...,2072,nautilus,po/li.po
+You cannot move this trash folder.,2089,Geer kènt gein map verplaatse nao zichzelf.,2090,nautilus,po/li.po
+You cannot copy this trash folder.,2093,Geer kènt deze papeerkörf-map neet kopiëre.,2094,nautilus,po/li.po
+Can't Change Trash Location,2101,Geer kènt de lokasie van de papeerkörf neet verangere,2102,nautilus,po/li.po
+Can't Copy Trash,2105,Geer kènt de papeerkörf neet kopiëre,2106,nautilus,po/li.po
+You cannot move a folder into itself.,2109,Geer kènt gein map verplaatse nao zichzelf.,2110,nautilus,po/li.po
+You cannot copy a folder into itself.,2113,Geer kènt gein map nao zichzelf kopiëre,2114,nautilus,po/li.po
+Can't Move Into Self,2122,Verplaatse nao zichzelf neet mäögelik,2123,nautilus,po/li.po
+Can't Copy Into Self,2126,Kèn neet kopiëre nao zichzelf ,2127,nautilus,po/li.po
+You cannot copy a file over itself.,2130,Geer kènt gein map euver zichzelf haer kopiëre,2131,nautilus,po/li.po
+Can't Copy Over Self,2138,Kèn neet kopiëre euver zichzelf haer,2139,nautilus,po/li.po
+"Error \""%s\"" creating new folder.",2161,"Faeler \""%s\"" bie aanmake nuuj map.",2162,nautilus,po/li.po
+untitled folder,2176,naamloeze map,2177,nautilus,po/li.po
+Deleting files,2201,Wösjentaere van besjtenj,2202,nautilus,po/li.po
+Files deleted:,2207,Gewösjde besjtenj:,2208,nautilus,po/li.po
+Deleting,2213,Wösjentaere,2214,nautilus,po/li.po
+Preparing to Delete files...,2217,Baezig mit veurbereide van ewegdoon van besjtenj...,2218,nautilus,po/li.po
+Emptying the Trash,2222,Laegentaere van papeerkörf,2223,nautilus,po/li.po
+Preparing to Empty the Trash...,2226,Baezig mit veurbereide van papeerkörf laege...,2227,nautilus,po/li.po
+_Empty Trash,2245,Papeerkörf _laege,2246,nautilus,po/li.po
+today at 00:00:00 PM,2300,huuj óm 00:00:00 PM,2301,nautilus,po/li.po
+today at %-I:%M:%S %p,2305,huuj óm %-I:%M %p,2306,nautilus,po/li.po
+today at 00:00 PM,2309,huuj óm %-I:%M %p,2310,nautilus,po/li.po
+today at %-I:%M %p,2313,huuj óm %-I:%M %p,2314,nautilus,po/li.po
+"today, 00:00 PM",2317,"huuj, 00:00 PM",2318,nautilus,po/li.po
+"today, %-I:%M %p",2321,huuj óm %-I:%M %p,2322,nautilus,po/li.po
+today,2326,huuj,2327,nautilus,po/li.po
+yesterday at 00:00:00 PM,2333,gister óm %-I:%M %p,2334,nautilus,po/li.po
+yesterday at %-I:%M:%S %p,2337,gister óm %-I:%M %p,2338,nautilus,po/li.po
+yesterday at 00:00 PM,2341,gister óm %-I:%M %p,2342,nautilus,po/li.po
+yesterday at %-I:%M %p,2345,gister óm %-I:%M %p,2346,nautilus,po/li.po
+"yesterday, 00:00 PM",2349,"gister, 00:00 PM",2350,nautilus,po/li.po
+"yesterday, %-I:%M %p",2353,gister óm %-I:%M %p,2354,nautilus,po/li.po
+yesterday,2358,gister,2359,nautilus,po/li.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2367,Goonsdig 00 September 00 0000 óm 00:00:00 PM,2368,nautilus,po/li.po
+"%A, %B %-d %Y at %-I:%M:%S %p",2371,"%A, %-d %B %Y óm %-I:%M:%S %p",2372,nautilus,po/li.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2375,Mao 00 Oct 0000 óm 00:00:00 PM,2376,nautilus,po/li.po
+"%a, %b %-d %Y at %-I:%M:%S %p",2379,%a %-d %b %Y óm %-I:%M:%S %p,2380,nautilus,po/li.po
+"Mon, Oct 00 0000 at 00:00 PM",2383,Mao 00 Oct 0000 óm 00:00 PM,2384,nautilus,po/li.po
+"%a, %b %-d %Y at %-I:%M %p",2387,%a %-d %b %Y at %-I:%M %,2388,nautilus,po/li.po
+Oct 00 0000 at 00:00 PM,2391,00 Okt 0000 óm 00:00 PM,2392,nautilus,po/li.po
+%b %-d %Y at %-I:%M %p,2395,%-d %b %Y óm %-I:%M %p,2396,nautilus,po/li.po
+"Oct 00 0000, 00:00 PM",2399,"00 Okt 0000, 00:00 PM",2400,nautilus,po/li.po
+"%b %-d %Y, %-I:%M %p",2403,"%-d %b %Y, %-I:%M %p",2404,nautilus,po/li.po
+"%m/%-d/%y, %-I:%M %p",2411,"%-d/%m/%y, %-I:%M %p",2412,nautilus,po/li.po
+%m/%d/%y,2419,%d/%m/%y,2420,nautilus,po/li.po
+unknown,2470,ónbekènd,2471,nautilus,po/li.po
+"Can't find description even for \""x-directory/normal\"". This probably means that your gnome-vfs.keys file is in the wrong place or isn't being found for some other reason.",2478,"Kèn zelfs gein ómsjrieving vènje veur \""x-directory/normal\"". Dit beteikent dènkelik det eur gnome-vfs.keys besjtandj op de verkierde plaats sjteit, of neet gevónje kós waere óm ein angere raej.",2482,nautilus,po/li.po
+link,2497,verwiezing,2498,nautilus,po/li.po
+link (broken),2501,verwiezing (doedloupend),2502,nautilus,po/li.po
+Trash,2507,Papeerkörf,2508,nautilus,po/li.po
+_Always,2511,_Ummer,2512,nautilus,po/li.po
+_Local File Only,2515,Allein _lokaal besjtandj,2516,nautilus,po/li.po
+_Never,2519,_Noets,2520,nautilus,po/li.po
+Activate items with a _single click,2598,Items mit _inkele klik aktivere,2599,nautilus,po/li.po
+Activate items with a _double click,2602,Items mit _döbbelklik aktivere,2603,nautilus,po/li.po
+Display _files when they are clicked,2611,Besjtenj _tuine bie aanklikke,2612,nautilus,po/li.po
+_Ask each time,2616,_Eder kier vraoge,2617,nautilus,po/li.po
+Search for files by file name only,2620,Besjtenj zeuke allein op besjtandjnaam,2621,nautilus,po/li.po
+Search for files by file name and file properties,2624,Besjtenj zeuke op besjtandjnaam en eigesjappe,2625,nautilus,po/li.po
+Icon View,2630,piktogrammeweergaaf,2631,nautilus,po/li.po
+List View,2636,Liesweergaaf,2637,nautilus,po/li.po
+Manually,2640,Handjmesig,2641,nautilus,po/li.po
+By Name,2645,Op naam,2646,nautilus,po/li.po
+By Size,2650,Op gruutde,2651,nautilus,po/li.po
+By Modification Date,2661,Op verangeringsdatem,2662,nautilus,po/li.po
+By Emblems,2666,Op embleem,2667,nautilus,po/li.po
+%s's Home,2715,%s's Heim,2716,nautilus,po/li.po
+editable text,2719,bewirkbare teks,2720,nautilus,po/li.po
+the editable label,2723,'t bewirkbare label,2724,nautilus,po/li.po
+additional text,2727,aanvöllende teks,2728,nautilus,po/li.po
+some more text,2731,get mie teks,2732,nautilus,po/li.po
+highlighted for selection,2735,gemarkeerd veur seleksie,2736,nautilus,po/li.po
+highlighted as keyboard focus,2744,gemarkeerd es tósjebordfokus,2745,nautilus,po/li.po
+highlighted for drop,2753,gemarkeerd veur loslaote,2754,nautilus,po/li.po
+The selection rectangle,2762,De seleksierechhook,2763,nautilus,po/li.po
+Frame Text,2766,Teks omkadere,2767,nautilus,po/li.po
+Draw a frame around unselected text,2770,Kader óm ongeselekteerde teks teikene,2771,nautilus,po/li.po
+Selection Box Color,2774,Kleur seleksieveldj,2775,nautilus,po/li.po
+Color of the selection box,2778,Kleur van 't selectieveldj,2779,nautilus,po/li.po
+Selection Box Alpha,2782,Alpha-waerd seleksieveldj,2783,nautilus,po/li.po
+Opacity of the selection box,2786,Doorsjienendheid van 't seleksieveldj,2787,nautilus,po/li.po
+Highlight Alpha,2790,Alpha-waerd markering,2791,nautilus,po/li.po
+Opacity of the highlight for selected icons,2794,Doorsjienendheid van de markering veur geselekteerde piktogramme,2795,nautilus,po/li.po
+Light Info Color,2798,Lichte infermasiekleur,2799,nautilus,po/li.po
+Color used for information text against a dark background,2802,Kleur veur infermasieteks taenge ein duusjtere achtergróndj,2803,nautilus,po/li.po
+Dark Info Color,2806,Duusjtere infermasiekleur,2807,nautilus,po/li.po
+Color used for information text against a light background,2810,Kleur veur infermasieteks taenge ein lichte achtergróndj,2811,nautilus,po/li.po
+Switch to Manual Layout?,2860,Ómsjakele nao handjmesige plaatsing?,2861,nautilus,po/li.po
+Switch,2864,Ómsjakele,2865,nautilus,po/li.po
+Can't Open Location,2898,Kèn lokasie neet äöpene,2899,nautilus,po/li.po
+Can't Display Location,3028,Kèn lokasie neet tuine,3029,nautilus,po/li.po
+Edit,3091,Bewirke,3092,nautilus,po/li.po
+Undo Edit,3095,Bewirke óngedaon make,3096,nautilus,po/li.po
+Undo the edit,3099,De bewirking óngedaon make,3100,nautilus,po/li.po
+Redo Edit,3103,Obbenuuts bewirke,3104,nautilus,po/li.po
+Redo the edit,3107,De bewirking obbenuuts doon,3108,nautilus,po/li.po
+Change how files are managed,3115,De wies van besjtandjwirtsjaf verangere,3116,nautilus,po/li.po
+File Management,3119,Besjtandjwirtsjaf,3120,nautilus,po/li.po
+Home Folder,3123,Heimmap,3124,nautilus,po/li.po
+View your home folder in the Nautilus file manager,3127,Eur heimmap tuine mit Nautilus besjtandjwirtsjaf,3128,nautilus,po/li.po
+Factory for Nautilus shell and file manager,3140,Febrik veur de Nautilus-schil en -besjtandjwirtsjaf,3141,nautilus,po/li.po
+Nautilus factory,3144,Nautilusfebrik,3145,nautilus,po/li.po
+Nautilus metafile factory,3148,Febrik veur Nautilus-metabesjtenj,3149,nautilus,po/li.po
+Nautilus shell,3152,Nautilus-sjèl,3153,nautilus,po/li.po
+Nautilus shell operations that can be done from subsequent command-line invocations,3156,Nautilus shell-opdrachte die kènne waere gedaon vanaaf de kommandoregel,3159,nautilus,po/li.po
+Produces metafile objects for accessing Nautilus metadata,3163,Maak metabesjtandjobjekte aan veur 't benaodere van Nautilus-metadata,3164,nautilus,po/li.po
+Background,3167,Achtergróndj,3168,nautilus,po/li.po
+Open a new GNOME terminal window,3183,Ein nuuj GNOME-terminalvinster äöpene,3184,nautilus,po/li.po
+Create a new launcher,3196,Nuuj starter aanmake,3197,nautilus,po/li.po
+Change Desktop _Background,3201,Wirk_blaadachtergróndj verangere,3202,nautilus,po/li.po
+Show a window that lets you set your desktop background's pattern or color,3206,Vinster tuine woemit kleur of petroen van eur wirkblaadachtergróndj verangere kèn waere,3208,nautilus,po/li.po
+Empty Trash,3214,Papeerkörf laege,3215,nautilus,po/li.po
+Delete all items in the Trash,3220,Alle items oet de papeerkörf wösje,3221,nautilus,po/li.po
+Desktop,3225,Wirkblaad,3226,nautilus,po/li.po
+"Are you sure you want to permanently delete \""%s\""?",3254,"Wit geer vas det geer \""%s\"" permenent wilt ewegdoon?",3255,nautilus,po/li.po
+Delete?,3273,Ewegdoon?,3274,nautilus,po/li.po
+"\""%s\"" selected",3288,"\""%s\"" geselekteerd",3289,nautilus,po/li.po
+"\""%s\"" selected (%s)",3315,"\""%s\"" geselekteerd (%s)",3316,nautilus,po/li.po
+Too Many Files,3366,Te väöl besjtenj,3367,nautilus,po/li.po
+Delete Immediately?,3397,Drek ewegdoon?,3398,nautilus,po/li.po
+Delete From Trash?,3424,Ewegdoon oet de papeerkörf?,3425,nautilus,po/li.po
+"Use \""%s\"" to open the selected item",3434,"Gebroek \""%s\"" veur 't geselekteerde item te äöpene",3435,nautilus,po/li.po
+Run or Display?,3450,Oetveure of tuine?,3451,nautilus,po/li.po
+Run in _Terminal,3454,Oetveure in _Terminalvinster,3455,nautilus,po/li.po
+_Display,3458,_Tuine,3459,nautilus,po/li.po
+_Run,3462,Oetveu_re,3463,nautilus,po/li.po
+"Run \""%s\"" on any selected items",3485,"Veur \""%s\"" oet op jeder geselekteerd item",3486,nautilus,po/li.po
+About Scripts,3512,Scripts info,3513,nautilus,po/li.po
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window",3516,"Alle oetveurbare besjtenj in dees map waere getuind in 't Scripts-menu. Door ein script te keze oet 't menu weurt 't script oetgeveurd.\n\nWienie dit weurt gedaon in ein lokale map, waere de geselekteerde besjtandjname doorgegaeve aan 't script. Wen dit weurt gedaon vanoet een neet-lokale map (b.v. ein map op ein www- of ftp-server), waere gein paramaeters doorgegaeve aan 't script.\n\nIn alle gevalle waere de naekste ómkreitssvarrejabele gezat door Nautilus, die gebroek kènne waere door de scripts:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: pajer van geselekteerde besjtenj, gesjeije door regelènjs (allein wen lokaal)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: URI's van de geselekteerde besjtenj, gesjeije door regelènjs\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI van de hujige lokasie\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: posisie en aafmaetinge van 't hujige vinster",3535,nautilus,po/li.po
+"\""%s\"" will be moved if you select the Paste Files command",3560,"\""%s\"" weurt verplaats est geer de opdrach 'Plak Besjtenj' geuft",3561,nautilus,po/li.po
+"\""%s\"" will be copied if you select the Paste Files command",3566,"\""%s\"" weurt gekopieerd est geer de opdrach 'Plak Besjtenj' geuft",3567,nautilus,po/li.po
+There is nothing on the clipboard to paste.,3597,Dao sjteit niks op 't klembord veur te plekke.,3598,nautilus,po/li.po
+Mount Error,3602,Aankoppelingsfaeler,3603,nautilus,po/li.po
+Unmount Error,3607,Aafkoppelingsfaeler,3608,nautilus,po/li.po
+_Connect,3622,_Verbènje,3623,nautilus,po/li.po
+Open Wit_h,3637,Äöpene _mit,3638,nautilus,po/li.po
+Choose a program with which to open the selected item,3642,Program keze veur de geselekteerde items mit te äöpene,3643,nautilus,po/li.po
+_Properties,3657,_Eigesjappe,3658,nautilus,po/li.po
+View or modify the properties of each selected item,3662,De eigesjappe per geselekteerd item bekieke of verangere,3663,nautilus,po/li.po
+Create a new empty folder inside this folder,3673,Nuuj laeg map aanmake in deze map,3674,nautilus,po/li.po
+_Open,3696,_Äöpene,3697,nautilus,po/li.po
+Open the selected item in this window,3701,Geselekteerd item in dit vinster äöpene,3702,nautilus,po/li.po
+Choose another application with which to open the selected item,3726,Anger program keze veur 't geselekteerde item mit te äöpene,3727,nautilus,po/li.po
+_Open Scripts Folder,3731,_Scriptsmap äöpene,3732,nautilus,po/li.po
+Show the folder containing the scripts that appear in this menu,3736,"De map mit scripts tuine, die in dit menu sjtaon",3737,nautilus,po/li.po
+Cu_t Files,3742,Besjtenj k_nippe,3743,nautilus,po/li.po
+Prepare the selected files to be moved with a Paste Files command,3747,Geselekteerde besjtenj vaerdigmake veur verplaats te waere mit de 'Besjtenj plekke'-opdrach,3748,nautilus,po/li.po
+_Copy Files,3755,Besjtenj _kopiëre,3756,nautilus,po/li.po
+Prepare the selected files to be copied with a Paste Files command,3760,Geselekteerde besjtenj vaerdigmake veur gekopjeerd te waere mit de 'Besjtenj plekke'-opdrach,3761,nautilus,po/li.po
+_Paste Files,3767,Besjtenj _plekke,3768,nautilus,po/li.po
+Move or copy files previously selected by a Cut Files or Copy Files command,3772,Besjtenj verplaatse of kopjere die ierder door ein 'Besjtenj knippe' of 'Besjtenj kopjere'-opdrach waore geselekteerd,3774,nautilus,po/li.po
+Select _All Files,3798,_Alle besjtenj selektere,3799,nautilus,po/li.po
+Select all items in this window,3803,Alle items in dit vinster selektere,3804,nautilus,po/li.po
+D_uplicate,3820,_Klone,3821,nautilus,po/li.po
+Duplicate each selected item,3825,Eder geselekteerde item klone,3826,nautilus,po/li.po
+Ma_ke Link,3831,Verwiezing ma_ke,3832,nautilus,po/li.po
+Create a symbolic link for each selected item,3836,Symbolisse verwiezing make veur eder geselekteerde item,3837,nautilus,po/li.po
+_Rename...,3841,He_rneume...,3842,nautilus,po/li.po
+Rename selected item,3846,Geselekteerde item herneume,3847,nautilus,po/li.po
+Mo_ve to Trash,3853,_Verplaatse nao papeerkörf,3854,nautilus,po/li.po
+Move each selected item to the Trash,3859,Verplaats alle geselekteerde items nao de papeerkörf,3860,nautilus,po/li.po
+_Delete,3865,Eweg_doon,3866,nautilus,po/li.po
+"Delete each selected item, without moving to the Trash",3870,"Alle geselekteerde items wösje, zónger ze in de papeerkörf te sjmiete.",3871,nautilus,po/li.po
+Reset View to _Defaults,3875,Weergaaf trökzètte nao _sjtanderd,3876,nautilus,po/li.po
+Reset sorting order and zoom level to match preferences for this view,3880,Sorteerresem en zoomnivo trökzètte nao prifferensies veur deze weergaaf,3881,nautilus,po/li.po
+_Unmount Volume,3910,Volume _ontkoppele,3911,nautilus,po/li.po
+Unmount the selected volume,3915,'t geselekteerde volume óntkoppelen.,3916,nautilus,po/li.po
+_Delete from Trash,3973,Ewegdoon oet de _papeerkörf,3974,nautilus,po/li.po
+Delete all selected items permanently,3977,Doog alle geselekteerde items permenent eweg,3978,nautilus,po/li.po
+Ma_ke Links,3981,Verwiezinge ma_ke,3982,nautilus,po/li.po
+Cu_t File,3985,Besjtandj k_nippe,3986,nautilus,po/li.po
+_Copy File,3989,Besjtandj _kopiëre,3990,nautilus,po/li.po
+Broken Link,4014,Doedloupende verwiezing,4015,nautilus,po/li.po
+Cancel Open?,4023,Äöpene sjtoppe?,4024,nautilus,po/li.po
+"You do not have the permissions necessary to view the contents of \""%s\"".",4099,"Geer höbt neet de benudigde rechte veur de inhaud van \""%s\"" te bekieke.",4101,nautilus,po/li.po
+"\""%s\"" couldn't be found. Perhaps it has recently been deleted.",4106,"\""%s\"" woor neet gevónje. Mesjiens is 't kort geleje eweggedaon.",4107,nautilus,po/li.po
+"Sorry, couldn't display all the contents of \""%s\"".",4111,"Sorry, 't tuine van de inhaud van \""%s\""is mislök.",4112,nautilus,po/li.po
+Error Displaying Folder,4120,Faeler bie 't tuine van ein map,4121,nautilus,po/li.po
+"The name \""%s\"" is already used in this folder. Please use a different name.",4125,"De naam \""%s\"" is al in gebroek in dees map. Keus esuchbleef ein anger naam.",4127,nautilus,po/li.po
+"There is no \""%s\"" in this folder. Perhaps it was just moved or deleted?",4132,"'t geuf gein \""%s\"" in dees map. Mesjiens is 't kort geleje verplaats of eweggedaon?",4134,nautilus,po/li.po
+"You do not have the permissions necessary to rename \""%s\"".",4140,"Geer höbt neet de benudigde rechte veur \""%s\"" te herneume.",4141,nautilus,po/li.po
+"The name \""%s\"" is not valid because it contains the character \""/\"". Please use a different name.",4145,"De naam \""%s\"" is óngeljig, wiel er de teikes \""/\"" gebroek. Keus esuchbleef ein anger naam.",4148,nautilus,po/li.po
+"The name \""%s\"" is not valid. Please use a different name.",4154,"De naam \""%s\"" is óngeljig. Keus esuchbleef ein anger naam.",4155,nautilus,po/li.po
+"Couldn't change the name of \""%s\"" because it is on a read-only disk",4159,"Kèn de naam van \""%s\"" neet verangere, den 't is ein allein-laeze sjief",4160,nautilus,po/li.po
+"Sorry, couldn't rename \""%s\"" to \""%s\"".",4165,"Sorry, kèn \""%s\"" neet herneume nao \""%s\"".",4166,nautilus,po/li.po
+Renaming Error,4174,Herneumfaeler,4175,nautilus,po/li.po
+"You do not have the permissions necessary to change the group of \""%s\"".",4179,"Geer höbt de benudigde rechte neet veur de gróp van \""%s\"" te verangere.",4181,nautilus,po/li.po
+"Couldn't change the group of \""%s\"" because it is on a read-only disk",4186,"Kèn de gróp van \""%s\"" neet verangere, den 't is ein allein-laeze sjief",4187,nautilus,po/li.po
+"Sorry, couldn't change the group of \""%s\"".",4192,"Sorry, kèn de gróp van \""%s\"" neet verangere.",4193,nautilus,po/li.po
+Error Setting Group,4201,Faeler bie insjtèlle van gróp,4202,nautilus,po/li.po
+"Couldn't change the owner of \""%s\"" because it is on a read-only disk",4206,"Kèn de eigenaer van \""%s\"" neet verangere, den 't is ein allein-laeze sjief",4207,nautilus,po/li.po
+"Sorry, couldn't change the owner of \""%s\"".",4212,"Sorry, kèn de eigenaer van \""%s\"" neet verangere.",4213,nautilus,po/li.po
+Error Setting Owner,4221,Faeler bie insjtèlle van eigenaer,4222,nautilus,po/li.po
+"Couldn't change the permissions of \""%s\"" because it is on a read-only disk",4226,"Kèn de rechte van \""%s\"" neet verangere, den 't is ein allein-laeze sjief",4228,nautilus,po/li.po
+"Sorry, couldn't change the permissions of \""%s\"".",4233,"Sorry, kèn de rechte van \""%s\"" neet verangere.",4234,nautilus,po/li.po
+Error Setting Permissions,4242,Faeler bie insjtèlle rechte,4243,nautilus,po/li.po
+"Renaming \""%s\"" to \""%s\"".",4247,"Herneume van \""%s\"" nao \""%s\"".",4248,nautilus,po/li.po
+Cancel Rename?,4251,Herneume sjtoppe?,4252,nautilus,po/li.po
+by _Name,4255,op _Naam,4256,nautilus,po/li.po
+Keep icons sorted by name in rows,4259,Piktogramme gesorteerd op naam in rieje,4260,nautilus,po/li.po
+by _Size,4263,op _Gruutde,4264,nautilus,po/li.po
+Keep icons sorted by size in rows,4267,Piktogramme gesorteerd op gruutde in rieje,4268,nautilus,po/li.po
+by Modification _Date,4281,op verangeringsdatem,4282,nautilus,po/li.po
+Keep icons sorted by modification date in rows,4285,Piktogramme gesorteerd op verangeringsdatem in rieje,4286,nautilus,po/li.po
+by _Emblems,4289,op _Embleme,4290,nautilus,po/li.po
+Keep icons sorted by emblems in rows,4293,Piktogramme gesorteerd op embleme in rieje,4294,nautilus,po/li.po
+Arran_ge Items,4297,Items _sortere,4298,nautilus,po/li.po
+Str_etch Icon,4303,Piktogram o_etrèkke,4304,nautilus,po/li.po
+Make the selected icon stretchable,4308,'t piktogram oetrèkbaar make,4309,nautilus,po/li.po
+Restore Icons' Original Si_zes,4313,_Oersjprunkelike piktogramaafmaetinge hersjtèlle,4314,nautilus,po/li.po
+Restore each selected icon to its original size,4318,Aafmaetinge van eder piktogram nao zien oersjprunkelike waerd hersjtèlle,4319,nautilus,po/li.po
+Clean _Up by Name,4324,O_psjoene op naam,4325,nautilus,po/li.po
+Compact _Layout,4337,Compakte _opmaak,4338,nautilus,po/li.po
+Toggle using a tighter layout scheme,4342,Aan/oetzètte van sjtrakkere opmaak,4343,nautilus,po/li.po
+Re_versed Order,4347,Ómgekierde _resem,4348,nautilus,po/li.po
+Display icons in the opposite order,4352,Piktogramme in ómgekierde resem tuine,4353,nautilus,po/li.po
+_Keep Aligned,4357,_Oetgevöld hauwe,4358,nautilus,po/li.po
+Keep icons lined up on a grid,4362,Piktogramme opsjtèlle op eine raster,4363,nautilus,po/li.po
+_Manually,4366,_Handjmesig,4367,nautilus,po/li.po
+Leave icons wherever they are dropped,4370,Piktogramme laote sjtaon woe ze denaergezat zeen,4371,nautilus,po/li.po
+By _Name,4374,Op _naam,4375,nautilus,po/li.po
+By _Size,4378,Op _gruutde,4379,nautilus,po/li.po
+By Modification _Date,4387,Op verangerings_datem,4388,nautilus,po/li.po
+By _Emblems,4391,Op _embleem,4392,nautilus,po/li.po
+Restore Icon's Original Si_ze,4395,_Oersjprunkelike piktogramaafmaetinge hersjtèlle,4396,nautilus,po/li.po
+"pointing at \""%s\""",4400,"wies nao \""%s\""",4401,nautilus,po/li.po
+Icons,4404,Piktogramme,4405,nautilus,po/li.po
+List,4436,Lies,4437,nautilus,po/li.po
+More Than One Image,4461,Mie es ein aafbiljing,4462,nautilus,po/li.po
+Local Images Only,4483,Allein lokale aafbiljinge,4484,nautilus,po/li.po
+Images Only,4496,Allein aafbiljinge,4497,nautilus,po/li.po
+%s Properties,4507,%s Eigesjappe,4508,nautilus,po/li.po
+Cancel Group Change?,4511,Verangering van gróp annulere?,4512,nautilus,po/li.po
+Cancel Owner Change?,4520,Verangering van eigenaer annulere?,4521,nautilus,po/li.po
+nothing,4529,niks,4530,nautilus,po/li.po
+unreadable,4533,neet laesbaar,4534,nautilus,po/li.po
+(some contents unreadable),4544,(sómmige inhaud neet laesbaar),4545,nautilus,po/li.po
+Contents:,4554,Inhaud:,4555,nautilus,po/li.po
+Basic,4558,Fóng,4559,nautilus,po/li.po
+_Name:,4567,_Naam:,4568,nautilus,po/li.po
+Size:,4593,Gruutde:,4594,nautilus,po/li.po
+Location:,4597,Lokasie:,4598,nautilus,po/li.po
+Free space:,4606,Vrieje ruumde:,4607,nautilus,po/li.po
+Link target:,4610,Verwiezingsdoel:,4611,nautilus,po/li.po
+Modified:,4619,Verangerd:,4620,nautilus,po/li.po
+Accessed:,4623,Gebroek:,4624,nautilus,po/li.po
+_Select Custom Icon...,4627,_Aangepas piktogram selekteren...,4628,nautilus,po/li.po
+_Remove Custom Icon,4631,Aangepas piktog_ram ewegdoon,4632,nautilus,po/li.po
+Emblems,4636,Embleme,4637,nautilus,po/li.po
+_Read,4640,_Laeze,4641,nautilus,po/li.po
+_Write,4644,_Sjrieve,4645,nautilus,po/li.po
+Set _user ID,4653,Gebroekers-ID insjtèlle,4654,nautilus,po/li.po
+Special flags:,4657,Sjpesjale vane:,4658,nautilus,po/li.po
+Set gro_up ID,4661,Gróps-ID insjtèlle,4662,nautilus,po/li.po
+_Sticky,4665,_Vas,4666,nautilus,po/li.po
+"You are not the owner, so you can't change these permissions.",4669,Geer zeet neet de eigenaer en kènt dus gein eigesjappe verangere.,4670,nautilus,po/li.po
+File owner:,4678,Besjtandjeigenaer:,4679,nautilus,po/li.po
+_File group:,4682,_Besjtandjgróp:,4683,nautilus,po/li.po
+File group:,4686,Besjtandjgróp:,4687,nautilus,po/li.po
+Owner:,4690,Eigenaer:,4691,nautilus,po/li.po
+Group:,4694,Gróp:,4695,nautilus,po/li.po
+Others:,4698,Angere:,4699,nautilus,po/li.po
+Text view:,4702,Teksweergaaf:,4703,nautilus,po/li.po
+Number view:,4706,Numerieke weergaaf:,4707,nautilus,po/li.po
+Last changed:,4710,Lès verangerd:,4711,nautilus,po/li.po
+"The permissions of \""%s\"" could not be determined.",4715,"De eigesjappe van \""%s\"" kènne neet waere bepaald.",4716,nautilus,po/li.po
+Cancel Showing Properties Window?,4742,Eigesjappevinster annulere?,4743,nautilus,po/li.po
+Select an icon,4751,Keus ein piktogram,4752,nautilus,po/li.po
+(Empty),4755,(Laeg),4756,nautilus,po/li.po
+Loading...,4759,Lajentaere...,4760,nautilus,po/li.po
+Tree,4807,Boum,4808,nautilus,po/li.po
+Couldn't Create Required Folder,4811,Kèn benudigde map neet aanmake,4812,nautilus,po/li.po
+Couldn't Create Required Folders,4830,Kèn benudigde mappe neet aanmake,4831,nautilus,po/li.po
+Link To Old Desktop,4852,Verwiezing nao aud wirkblaad,4853,nautilus,po/li.po
+"Nautilus can't be used now. Running the command \""bonobo-slay\"" from the console may fix the problem. If not, you can try rebooting the computer or installing Nautilus again.",4886,"Nautilus kèn noe neet gebroek waere. 't oetveure van de opdrach \""bonobo-slay\"" vanaaf de commandoregel zouw 't prebleem kènne solvere. Zoeneet, den kènt geer probere eur systeem te hersjtarte of Nautilus obbenuuts te installere.",4890,nautilus,po/li.po
+"Nautilus can't be used now. Running the command \""bonobo-slay\"" from the console may fix the problem. If not, you can try rebooting the computer or installing Nautilus again.\n\nBonobo couldn't locate the Nautilus_shell.server file. One cause of this seems to be an LD_LIBRARY_PATH that does not include the bonobo-activation library's directory. Another possible cause would be bad install with a missing Nautilus_Shell.server file.\n\nRunning \""bonobo-slay\"" will kill all Bonobo Activation and GConf processes, which may be needed by other applications.\n\nSometimes killing bonobo-activation-server and gconfd fixes the problem, but we don't know why.\n\nWe have also seen this error when a faulty version of bonobo-activation was installed.",4897,"Nautilus kèn noe neet gebroek waere. 't oetveure van de opdrach \""bonobo-slay\"" vanaaf de commandoregel zouw 't prebleem kènne solvere. zoeneet den kènt geer probere eur systeem obbenuuts te sjtarte, of Nautilus obbenuuts te installere.\n\nBonobo kós 't Nautilis_shell.server besjtandj neet vènje. Ein mäögelike oerzaak is det LD_LIBRARY_PATH 't paad nao de bonobo-activation bibbeleteek neet haet. Ein anger mäögelikheid zouw ein verkierde installasie kènne zeen, mit ein óntbraekend Nautilus_shell.server besjtandj.\n\n't oetveure van \""bonobo-slay\"" zal alle Bonobo Activation en GConf-prosesse beèndige, die mesjiens nudig zeen veur anger programme.\n\nSóms verhelp 't sjtoppe van de bonobo-activation-server en gconfd 't probleem, mer veer weite neet woeveur.\n\nDitzelfde prebleem kèn veurvalle wen ein defekte verzie van bonobo-activation geïnstalleerd is.",4915,nautilus,po/li.po
+"Nautilus can't be used now, due to an unexpected error.",4946,Nautilus kèn noe neet gebroek waere waeges ein ónbekènde faeler.,4947,nautilus,po/li.po
+"Nautilus can't be used now, due to an unexpected error from Bonobo when attempting to register the file manager view server.",4950,Nautilus kèn noe neet gebroek waere waeges ein ónverwachde faeler van Bonobo bie 't registrere van de weergaafdeens van de Besjtandjwirtsjafder.,4953,nautilus,po/li.po
+"Nautilus can't be used now, due to an unexpected error from Bonobo when attempting to locate the factory.Killing bonobo-activation-server and restarting Nautilus may help fix the problem.",4958,Nautilus kèn noe neet gebroek waere waeges ein ónverwachde faeler van Bonobo bie 't zeuke van de Febrik. 't sjtoppe van bonobo-activation-server en 't obbenuuts sjtarte van Nautilus los 't prebleem mesjiens op. ,4962,nautilus,po/li.po
+"Nautilus can't be used now, due to an unexpected error from Bonobo when attempting to locate the shell object. Killing bonobo-activation-server and restarting Nautilus may help fix the problem.",4968,Nautilus kèn noe neet gebroek waere waeges ein ónverwachde faeler van Bonobo bie 't zeuke nao 't shell objek. 't sjtoppe van bonobo-activation-server en 't obbenuuts sjtarte van Nautilus los mesjiens 't prebleem op.,4972,nautilus,po/li.po
+There was an error displaying help: \n%s,4981,'t goof eine faeler bie 't tuine van hulpteks:\n%s,4984,nautilus,po/li.po
+No bookmarks defined,4989,Gein blaadwiezers gedefinieerd,4990,nautilus,po/li.po
+<b>_Bookmarks</b>,4993,<b>_Blaadwiezers</b>,4994,nautilus,po/li.po
+<b>_Location</b>,4997,<b>_Lokasie</b>,4998,nautilus,po/li.po
+<b>_Name</b>,5001,<b>_Naam</b>,5002,nautilus,po/li.po
+Edit Bookmarks,5005,Blaadwiezers bewirke,5006,nautilus,po/li.po
+Rename Emblem,5159,Embleem herneume,5160,nautilus,po/li.po
+Enter a new name for the displayed emblem:,5163,Geuf ein nuuj naam veur 't weergegaeve embleem:,5164,nautilus,po/li.po
+Rename,5167,Herneume,5168,nautilus,po/li.po
+Add Emblems...,5171,Embleme toeveuge...,5172,nautilus,po/li.po
+Enter a descriptive name next to each emblem.  This name will be used in other places to identify the emblem.,5175,Geuf ein besjrievende naam bie eder embleem. Deze naam weurt op angere plaatse gebroek veur 't embleem te identifisere.,5178,nautilus,po/li.po
+Enter a descriptive name next to the emblem.  This name will be used in other places to identify the emblem.,5183,Geuf ein besjrievende naam bie 't embleem. Deze naam weurt op angere plaatse gebroek veur 't embleem te identifisere.,5186,nautilus,po/li.po
+The dragged text was not a valid file location.,5220,De gesjleipde teks waor gein geljige besjtandjlokasie.,5221,nautilus,po/li.po
+The file '%s' does not appear to be a valid image.,5231,'t besjtandj '%s' lik gein geljige aafbiljing te zeen.,5232,nautilus,po/li.po
+The dragged file does not appear to be a valid image.,5235,'t gesjleipde besjtandj lik gein geljige aafbiljing te zeen.,5236,nautilus,po/li.po
+"<span weight=\""bold\"">Default View</span>",5270,"<span weight=\""bold\"">Sjtanderdweergaaf</span>",5271,nautilus,po/li.po
+"<span weight=\""bold\"">Executable Text Files</span>",5274,"<span weight=\""bold\"">Oetveurbare teksbesjtenj</span>",5275,nautilus,po/li.po
+"<span weight=\""bold\"">Folders</span>",5278,"<span weight=\""bold\"">Mappe</span>",5279,nautilus,po/li.po
+"<span weight=\""bold\"">Icon Captions</span>",5282,"<span weight=\""bold\"">piktogramtittels</span>",5283,nautilus,po/li.po
+"<span weight=\""bold\"">Icon View Defaults</span>",5286,"<span weight=\""bold\"">Sjtanderdinsjtèllinge piktogramweergaaf</span>",5287,nautilus,po/li.po
+"<span weight=\""bold\"">List View Defaults</span>",5295,"<span weight=\""bold\"">Sjtanderdinsjtèllinge liesweergaaf</span>",5296,nautilus,po/li.po
+"<span weight=\""bold\"">Other Previewable Files</span>",5299,"<span weight=\""bold\"">Anger besjtenj mit miniature</span>",5300,nautilus,po/li.po
+"<span weight=\""bold\"">Sound Files</span>",5303,"<span weight=\""bold\"">Geluudsbesjtenj</span>",5304,nautilus,po/li.po
+"<span weight=\""bold\"">Text Files</span>",5307,"<span weight=\""bold\"">Teksbesjtenj</span>",5308,nautilus,po/li.po
+"<span weight=\""bold\"">Trash</span>",5311,"<span weight=\""bold\"">Papeerkörf</span>",5312,nautilus,po/li.po
+"<span weight=\""bold\"">Tree View Defaults</span>",5315,"<span weight=\""bold\"">Sjtanderdinsjtèllinge boumweergaaf</span>",5316,nautilus,po/li.po
+Always,5319,Ummer,5320,nautilus,po/li.po
+Ask before _emptying the Trash or deleting files,5328,Vraoge veur 't laege van de papeerekörf of 't wösje van besjtenj,5329,nautilus,po/li.po
+Behavior,5332,Gedraag,5333,nautilus,po/li.po
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,5336,Keus de resem woe-in infermasie ónger piktogram-name versjient. mie infermasie versjient zoegauw est geer wiejer inzoomp.,5339,nautilus,po/li.po
+Count _number of items:,5351,Deil ite_ms telle:,5352,nautilus,po/li.po
+Default _zoom level:,5355,Sjtanderd _zoomfaktor:,5356,nautilus,po/li.po
+File Management Preferences,5364,Besjtandjwirtsjaf-prifferensies,5365,nautilus,po/li.po
+I_nclude a Delete command that bypasses Trash,5368,Ein Ewegdoo_n-opdrach aanprizzentere die veurbiegeit aan de papeerkörf,5369,nautilus,po/li.po
+Local Files Only,5376,Allein lokale besjtenj,5377,nautilus,po/li.po
+Never,5385,Noets,5386,nautilus,po/li.po
+Preview,5389,Sjtaal,5390,nautilus,po/li.po
+Preview _sound files:,5393,Fragment van geluud_sbesjtenj sjpele:,5394,nautilus,po/li.po
+Show _only folders,5397,Allein mappe t_uine,5398,nautilus,po/li.po
+Show _thumbnails:,5401,Minia_tuuraafbiljinge tuine:,5402,nautilus,po/li.po
+Show hidden and _backup files,5405,Ver_borge- en reservekopiebesjtenj tuine,5406,nautilus,po/li.po
+Show te_xt in icons:,5409,Te_ks in piktogramme tuine:,5410,nautilus,po/li.po
+Sort _folders before files,5413,_Mappe veur besjtenj sortere,5414,nautilus,po/li.po
+View _new folders using:,5417,_Nuuj mappe tuine mit:,5418,nautilus,po/li.po
+Views,5421,Weergaaf,5422,nautilus,po/li.po
+_Arrange items:,5425,Items _ordene:,5426,nautilus,po/li.po
+_Default zoom level:,5429,_Sjtanderd zoomfaktor:,5430,nautilus,po/li.po
+_Double click to activate items,5433,_Döbbelklikke veur items te aktivere,5434,nautilus,po/li.po
+_Only for files smaller than:,5442,Allein v_eur besjtenj kleinder es:,5443,nautilus,po/li.po
+_Run executable text files when they are clicked,5446,Oetveu_rbare teksbesjtenj aktivere bie aanklikke,5447,nautilus,po/li.po
+_Single click to activate items,5450,Einmaolig klikke veur item_s te aktivere,5451,nautilus,po/li.po
+_Use compact layout,5458,Kompakte opmaak gebr_oeke,5459,nautilus,po/li.po
+_View executable text files when they are clicked,5462,Oet_veurbare teksbesjtenj tuine bie aanklikke,5463,nautilus,po/li.po
+date accessed,5466,lès geäöpend,5467,nautilus,po/li.po
+date modified,5470,verangeringsdatem,5471,nautilus,po/li.po
+group,5474,gróp,5475,nautilus,po/li.po
+none,5493,gein,5494,nautilus,po/li.po
+octal permissions,5497,octale rechte,5498,nautilus,po/li.po
+owner,5501,eigenaer,5502,nautilus,po/li.po
+permissions,5505,rechte,5506,nautilus,po/li.po
+size,5509,gruutde,5510,nautilus,po/li.po
+type,5513,tiep,5514,nautilus,po/li.po
+Existence of this file indicates that the Nautilus configuration druid\nhas been presented.\n\nYou can manually erase this file to present the druid again.\n,5517,De prezensie van dit besjtandj wies d'rop det de Nautilus-kóngfiggerasiedruïde al gedriejd is.\n\nGeer kènt dit besjtandj eventueel handjmesig wösje veur de druïde obbenuuts te laote versjiene.\n,5522,nautilus,po/li.po
+History,5530,Historie,5531,nautilus,po/li.po
+Failed to load image information,5601,Aafbiljingsinfermasie laje mislök,5602,nautilus,po/li.po
+loading...,5605,lajentaere...,5606,nautilus,po/li.po
+Image,5609,Aafbiljing,5610,nautilus,po/li.po
+Information,5613,Infermasie,5614,nautilus,po/li.po
+Use _Default Background,5619,_Sjtanderd achtergróndj trökzètte,5620,nautilus,po/li.po
+Open with %s,5638,Äöpene mit %s,5639,nautilus,po/li.po
+Empty _Trash,5655,_Papeerkörf laege,5656,nautilus,po/li.po
+_Write contents to CD,5660,In_haud nao cd sjrieve,5661,nautilus,po/li.po
+Go To:,5664,Gank nao:,5665,nautilus,po/li.po
+View in Multiple Windows?,5675,In mierdere vinsters tuine?,5676,nautilus,po/li.po
+Perform a quick set of self-check tests.,5689,Inkele sjnelle zelf-tests oetveure.,5690,nautilus,po/li.po
+Create the initial window with the given geometry.,5693,Innesjeel vinster mit de gagaeve aafmaetinge make.,5694,nautilus,po/li.po
+GEOMETRY,5697,GEOMETRIE,5698,nautilus,po/li.po
+Only create windows for explicitly specified URIs.,5701,Vinsters allein make veur explisiet gagaeve URI's.,5702,nautilus,po/li.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,5705,'t wirkblaad neet wirtsjafte (de prifferensies in 't prifferensievinster negere).,5708,nautilus,po/li.po
+Quit Nautilus.,5717,Nautilus aafsjloete,5718,nautilus,po/li.po
+Restart Nautilus.,5721,Nautilus obbenuuts sjtarte,5722,nautilus,po/li.po
+File Manager,5725,Besjtandjwirtsjaf,5726,nautilus,po/li.po
+nautilus: --check cannot be used with other options.\n,5742,nautilus: --check kèn neet gebroek waere mit angere opsies.\n,5743,nautilus,po/li.po
+nautilus: --geometry cannot be used with more than one URI.\n,5747,nautilus: --geometry kèn neet gebroek waere mit mie es ein URI.\n,5748,nautilus,po/li.po
+Are you sure you want to clear the list of locations you have visited?,5766,Weit geer zieker det geer de lies van lokasies die geer bezoch höbt wilt wösje?,5767,nautilus,po/li.po
+Clear History,5776,Historie wösje,5777,nautilus,po/li.po
+Bookmark for Nonexistent Location,5794,Blaadwiezer veur neet-besjtaonde lokasie,5795,nautilus,po/li.po
+Remove,5798,Ewegdoon,5799,nautilus,po/li.po
+_Go,5802,_Gank nao,5803,nautilus,po/li.po
+_Bookmarks,5807,_Blaadwiezers,5808,nautilus,po/li.po
+Open another Nautilus window for the displayed location,5818,Äöpe ein nuuj Nautilus-vinster veur de weergegaeve lokasie,5819,nautilus,po/li.po
+Close _All Windows,5822,_Alle vinsters sjloete,5823,nautilus,po/li.po
+_Location...,5832,_Lokasie...,5833,nautilus,po/li.po
+Clear contents of Go menu and Back/Forward lists,5848,De inhaud van 't 'Gank nao'-menu en de 'Veurige'/'Naekste'-lieste opsjoene,5849,nautilus,po/li.po
+_Add Bookmark,5853,Bl_aadwiezer toeveuge,5854,nautilus,po/li.po
+Add a bookmark for the current location to this menu,5858,Blaadwiezer op hujige lokasie toeveuge aan dit menu,5859,nautilus,po/li.po
+_Edit Bookmarks,5862,Blaadwi_ezers bewirke,5863,nautilus,po/li.po
+Display a window that allows editing the bookmarks in this menu,5867,Vinster tuine woemit geer de blaadwiezers in dit menu kènt bewirke,5868,nautilus,po/li.po
+_Side Pane,5872,_Ziejpeniel,5873,nautilus,po/li.po
+Change the visibility of this window's sidebar,5877,Zichbaarheid van de vinsterziejbalk verangere,5878,nautilus,po/li.po
+Location _Bar,5883,Lokasie_balk,5884,nautilus,po/li.po
+Change the visibility of this window's location bar,5888,Zichbaarheid van vinsterlokasiebalk verangere,5889,nautilus,po/li.po
+St_atusbar,5894,Sjt_atusbalk,5895,nautilus,po/li.po
+Change the visibility of this window's statusbar,5899,Zichbaarheid van de vinstersjtatusbalk verangere,5900,nautilus,po/li.po
+_Back,5903,_Trök,5904,nautilus,po/li.po
+Go to the previous visited location,5907,Nao de veurig bezochde lokasie gaon,5908,nautilus,po/li.po
+_Forward,5911,_Naekste,5912,nautilus,po/li.po
+Go to the next visited location,5915,Nao de naekst bezochde lokasie gaon,5916,nautilus,po/li.po
+View as %s,5920,%s-weergaaf,5921,nautilus,po/li.po
+Notes,5929,Opmirkinge,5930,nautilus,po/li.po
+Backgrounds and Emblems,5934,Achtergrunj en embleme,5935,nautilus,po/li.po
+_Remove...,5938,_Ewegdoon...,5939,nautilus,po/li.po
+_Add new...,5942,_Nuje biedoon...,5943,nautilus,po/li.po
+"Sorry, but pattern %s couldn't be deleted.",5947,Petroen %s kèn jaomergnóg neet waere eweggedaon.,5948,nautilus,po/li.po
+"Sorry, but emblem %s couldn't be deleted.",5961,Embleem %s kèn jaomergenóg neet waere eweggedaon.,5962,nautilus,po/li.po
+Create a New Emblem:,5974,Nuuj embleem make:,5975,nautilus,po/li.po
+_Keyword:,5979,_Trefwaord:,5980,nautilus,po/li.po
+_Image:,5984,_Aafbiljing:,5985,nautilus,po/li.po
+Select an image file for the new emblem:,5988,Keus ein aafbiljing veur 't nuuj embleem:,5989,nautilus,po/li.po
+Create a New Color:,5992,Nuuj kleur make:,5993,nautilus,po/li.po
+Color _name:,5997,Kleur_naam:,5998,nautilus,po/li.po
+Color _value:,6001,Kleur_waerd:,6002,nautilus,po/li.po
+"Sorry, but \""%s\"" is not a valid file name.",6006,"Sorry, mer \""%s\"" is gein geljige besjtandjnaam.",6007,nautilus,po/li.po
+"Sorry, but you did not supply a valid file name.",6010,"Sorry, mer geer höbt gein geljige besjtandjnaam opgegaeve.",6011,nautilus,po/li.po
+"Sorry, but you can't replace the reset image.",6023,"Sorry, mer geer kènt de trökzèt-aafbiljing neet vervange.",6024,nautilus,po/li.po
+Not an Image,6032,Gein aafbiljing,6033,nautilus,po/li.po
+"Sorry, but the pattern %s couldn't be installed.",6037,"Sorry, mer 't petroen %s kèn neet waere geïnstalleerd",6038,nautilus,po/li.po
+Select an image file to add as a pattern,6041,Selekteer ein aafbiljingsbesjtandj veur es petroen toe te veuge,6042,nautilus,po/li.po
+"Sorry, but you must specify a non-blank name for the new color.",6049,"Sorry, mer geer moot ein neet-laege naam veur de nuuj kleur opgaeve.",6050,nautilus,po/li.po
+Select a color to add,6058,Keus ein kleur veur toe te veuge,6059,nautilus,po/li.po
+Select a Category:,6072,Keus ein kattegerie:,6073,nautilus,po/li.po
+C_ancel Remove,6076,Ewegdoon _annelere,6077,nautilus,po/li.po
+_Add a New Pattern...,6080,Nuuj patroon _biedoon...,6081,nautilus,po/li.po
+_Add a New Color...,6084,Nuuj kleur _biedoon...,6085,nautilus,po/li.po
+_Add a New Emblem...,6088,Nuuj embleem _biedoon...,6089,nautilus,po/li.po
+Click on a pattern to remove it,6092,Klik op ein petroen veur 't eweg te doon.,6093,nautilus,po/li.po
+Click on a color to remove it,6096,Klik op ein kleur veur 't te ewegdoon.,6097,nautilus,po/li.po
+Click on an emblem to remove it,6100,Klik op ein embleem veur 't eweg te doon.,6101,nautilus,po/li.po
+Patterns:,6104,Petroene:,6105,nautilus,po/li.po
+Colors:,6108,Kleure:,6109,nautilus,po/li.po
+Emblems:,6112,Embleme:,6113,nautilus,po/li.po
+_Remove a Pattern...,6116,Ein petroen _ewegdoon...,6117,nautilus,po/li.po
+_Remove a Color...,6120,Ein kleur ewegdoon...,6121,nautilus,po/li.po
+_Remove an Emblem...,6124,Ein embleem ewegdoon...,6125,nautilus,po/li.po
+Close the side pane,6128,Ziejpeniel sjloete,6129,nautilus,po/li.po
+Show %s,6133,%s tuine,6134,nautilus,po/li.po
+throbber,6170,animasietol,6171,nautilus,po/li.po
+provides visual status,6174,geuf de visuele sjtatus,6175,nautilus,po/li.po
+View Failed,6178,Tuine is mislök,6179,nautilus,po/li.po
+The %s view encountered an error while starting up.,6195,'t Goof eien faeler bie 't stjarte van de %s-weergaaf.,6196,nautilus,po/li.po
+Content View,6204,Inhaudsweergaaf,6205,nautilus,po/li.po
+"Nautilus cannot display \""%s\"".",6249,"Nautilus kèn \""%s\"" neet tuine.",6250,nautilus,po/li.po
+Go to the location specified by this bookmark,6257,Gank nao de lokasie woenao deze blaadwiezer verwies,6258,nautilus,po/li.po
+Nautilus is a graphical shell for GNOME that makes it easy to manage your files and the rest of your system.,6284,Nautilus is ein grafisse sjèl veur GNOME die 't gemekkelik maak óm eure besjtenj en ouch de res van eur systeem te behere.,6287,nautilus,po/li.po
+_File,6301,_Besjtandj,6302,nautilus,po/li.po
+_Edit,6306,B_ewirke,6307,nautilus,po/li.po
+_View,6311,B_ild,6312,nautilus,po/li.po
+_Help,6316,_Hulp,6317,nautilus,po/li.po
+"Display patterns, colors, and emblems that can be used to customize appearance",6338,"Patroene, kleure en embleme veur aanpasse van weergaaf tuine",6341,nautilus,po/li.po
+Prefere_nces,6344,Priffere_nsies,6345,nautilus,po/li.po
+Edit Nautilus preferences,6348,Nautilusprifferensies bewirke,6349,nautilus,po/li.po
+_Undo,6352,Óngeda_on make,6353,nautilus,po/li.po
+Undo the last text change,6357,Lèste teksverangering óngedaon make,6358,nautilus,po/li.po
+_Stop,6373,_Sjtop,6374,nautilus,po/li.po
+_Reload,6378,_Verfrisje,6379,nautilus,po/li.po
+_Contents,6383,_Inhaud,6384,nautilus,po/li.po
+Display Nautilus help,6388,Nautilus-hulp tuine,6389,nautilus,po/li.po
+_About,6393,_Info,6394,nautilus,po/li.po
+Display credits for the creators of Nautilus,6398,Gegaeves van de Nautilus-bedinkers tuine,6399,nautilus,po/li.po
+Zoom _In,6403,_Inzoome,6404,nautilus,po/li.po
+Show the contents in more detail,6408,Inhaud mie gedetajeerd tuine,6409,nautilus,po/li.po
+Zoom _Out,6413,_Oetzoome,6414,nautilus,po/li.po
+Show the contents in less detail,6418,Inhaud winniger gedetajeerd tuine,6419,nautilus,po/li.po
+Normal Si_ze,6423,Normale _gruutde,6424,nautilus,po/li.po
+Show the contents at the normal size,6428,Inhaud op normale gruutde tuine,6429,nautilus,po/li.po
+_Home,6443,Persoenlike _map,6444,nautilus,po/li.po
+_Trash,6478,_Papeerkörf,6479,nautilus,po/li.po
+Go to the trash folder,6483,Nao de papeerkörf-map gaon,6484,nautilus,po/li.po
+_Up,6499,_Boeve,6500,nautilus,po/li.po
+"Display this location with \""%s\""",6504,"Tuin deze lokasie mit \""%s\""",6505,nautilus,po/li.po
+Application,6508,Toepassing,6509,nautilus,po/li.po
+The NautilusApplication associated with this window.,6512,De Nautilus Toepassing verbónje mit dit vinster,6513,nautilus,po/li.po
+Zoom In,6516,Inzoome,6517,nautilus,po/li.po
+Zoom Out,6520,Oetzoome,6521,nautilus,po/li.po
+Zoom,6533,Inzoome,6534,nautilus,po/li.po
+Set the zoom level of the current view,6537,Zoomfaktor van hujige weergaaf insjtèlle,6538,nautilus,po/li.po
+Network Servers,6541,Netwirkservers,6542,nautilus,po/li.po
+View your network servers in the Nautilus file manager,6545,Eure netwirkservers tuine mit Nautilus Besjtandjwirtsjaf,6546,nautilus,po/li.po
+Text,6549,Teks,6550,nautilus,po/li.po
+The text of the label.,6590,De teks op 't label,6591,nautilus,po/li.po
+Justification,6594,Oetliening,6595,nautilus,po/li.po
+The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that.,6598,De oetliening van de regele teks van 't label relatief tót einanger. Dit haet geine invlood op de oetliening van 't label in zien toegeweze ruumde. Zuug hieveur: GtkMisc::xalign,6602,nautilus,po/li.po
+Line wrap,6608,Regeltrökloup,6609,nautilus,po/li.po
+"If set, wrap lines if the text becomes too wide.",6612,Teks geit automatis wiejer op de naekste regel wen deze te lank weurt.,6613,nautilus,po/li.po
+Cursor Position,6616,Kursorposisie,6617,nautilus,po/li.po
+The current position of the insertion cursor in chars.,6620,De huijige posisie van de invoegkursor in booksjtaafteikes,6621,nautilus,po/li.po
+Selection Bound,6624,Seleksiesjeit,6625,nautilus,po/li.po
+The position of the opposite end of the selection from the cursor in chars.,6628,"De posisie van 't angere ènj van de seleksie van de kursor, in booksjtaafteikes ",6630,nautilus,po/li.po
+Select All,6635,Alles selektere,6636,nautilus,po/li.po
+Input Methods,6639,Inveurmetodes,6640,nautilus,po/li.po
+GConf error:\n  %s,6644,GConf faeler:\n  %s,6647,nautilus,po/li.po
+ (invalid Unicode),6768, (óngeljige Unicode),6769,nautilus,po/li.po
+Applications,19,Toepassinge,20,yelp,po/li.po
+Configuration Files,23,Kóngfiggerasiebesjtenj,24,yelp,po/li.po
+Games,35,Sjpelkes,36,yelp,po/li.po
+Hardware Devices,39,Hardware-apperetuur,40,yelp,po/li.po
+Kernel Routines,43,Kernelróttines,44,yelp,po/li.po
+Library Functions,47,Bibeleteekfónksies,48,yelp,po/li.po
+Overviews,71,Euverzichte,72,yelp,po/li.po
+System Administration,85,Systeemadminnestrasie,86,yelp,po/li.po
+System Calls,89,Systeemfónksies,90,yelp,po/li.po
+_Next,266,_Naekste,267,yelp,po/li.po
+_Previous,270,Veu_rige,271,yelp,po/li.po
+Yelp Factory,322,Yelp-Febrik,323,yelp,po/li.po
+Could not activate Yelp: '%s',395,Kós Yelp neet opsjtarte: '%s',396,yelp,po/li.po
+Could not open new window.,399,Kós gein nuuj vinster äöpene.,400,yelp,po/li.po
+Help,403,Hulp,404,yelp,po/li.po
+Help Contents,484,Hulp Inhaudsopgaaf,485,yelp,po/li.po
+Show previous page in history,556,De veurige pagina tuine,557,yelp,po/li.po
+Show next page in history,565,De naekste pagina tuine,566,yelp,po/li.po
+Help Browser,617,Hulp Browser,618,yelp,po/li.po
+Loading...,683,Baezig mit lajen...,684,yelp,po/li.po
+Get help with GNOME,721,Hulp bie GNOME,722,yelp,po/li.po

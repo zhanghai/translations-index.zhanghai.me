@@ -1,0 +1,2426 @@
+Image Viewer,23,Resim Namaýyşçysy,24,eog,po/tk.po
+View many different types of images,27,Kop aýry resim hillerni görkez,28,eog,po/tk.po
+<b>Image Zoom</b>,55,<b>Resim Ulaldylşy</b>,56,eog,po/tk.po
+<b>Transparent Parts</b>,67,<b>Durja Bölekler</b>,68,eog,po/tk.po
+Color for Transparent Areas,88,Durja meýdançalar üçin renk,89,eog,po/tk.po
+Eye of Gnome Preferences,97,Gnome Gäzlerniň Seçenekleri,98,eog,po/tk.po
+Image _View,106,Resim _Görnöşi,107,eog,po/tk.po
+seconds,157,sanyýa,158,eog,po/tk.po
+Open images in a new window,203,Resimi täze äpişgede aç,204,eog,po/tk.po
+Show/hide the window statusbar.,207,Äpişgäniň durum zolakyny görkez/ýygşyr,208,eog,po/tk.po
+Show/hide the window toolbar.,211,Äpişgäniň esbap zolakyny görkez/ýygşyr,212,eog,po/tk.po
+Transparency color,215,Durjalyk renki,216,eog,po/tk.po
+All Files,240,Ehli Faýllar,241,eog,po/tk.po
+All Images,244,Ehli Resimler,245,eog,po/tk.po
+%s x %s pixel,256,%s x %s piksel,257,eog,po/tk.po
+Load Image,260,Resimi Ýükle,261,eog,po/tk.po
+Save Image,264,Resimi Gaýd Et,265,eog,po/tk.po
+Open Folder,268,Haltany Aç,269,eog,po/tk.po
+Couldn't create temporary file for saving: %s,273,Wagtlaýyn faýl gaýd etmek üçin bejerlip bilmedi: %s,274,eog,po/tk.po
+empty file,281,puç faýl,282,eog,po/tk.po
+File exists,285,Faýl bar,286,eog,po/tk.po
+No image loaded.,289,Hiç resim ýüklenmedi,290,eog,po/tk.po
+Value,324,Mykdar,325,eog,po/tk.po
+Filename,329,Faýl Ady,330,eog,po/tk.po
+Width,333,Giňlik,334,eog,po/tk.po
+Height,337,Boý,338,eog,po/tk.po
+Filesize,341,Faýl Ululyky,342,eog,po/tk.po
+Eye of Gnome,442,Gnome Gözleri,443,eog,po/tk.po
+Could not display help for Eye of Gnome.\n%s,451,Gnome Gözleri üçin ýardamy görkez.\n%s,454,eog,po/tk.po
+%i x %i pixel  %s    %i%%,518,%i x %i piksel  %s    %i%%,519,eog,po/tk.po
+_File,522,_Faýl,523,eog,po/tk.po
+_View,530,_Görnöş,531,eog,po/tk.po
+_Help,534,_Ýardam,535,eog,po/tk.po
+_New,538,_Täze,539,eog,po/tk.po
+Open a new window,542,Bir täze äpişgäni aç,543,eog,po/tk.po
+_Open...,546,_Aç...,547,eog,po/tk.po
+Open a file,550,Bir faýly aç,551,eog,po/tk.po
+Open a directory,559,Bir haltany aç,560,eog,po/tk.po
+_Close,563,_Ýap,564,eog,po/tk.po
+Close window,567,Äpişgäni ýap,568,eog,po/tk.po
+Prefere_nces,571,_Seçenekler,572,eog,po/tk.po
+Preferences for Eye of Gnome,575,Gnome gözlerniň seçenekleri,576,eog,po/tk.po
+_Contents,579,_Mazmunlar,580,eog,po/tk.po
+_About,587,_Barada,588,eog,po/tk.po
+About this application,591,Bu program barada,592,eog,po/tk.po
+_Toolbar,595,_Esbap Zolaky,596,eog,po/tk.po
+_Statusbar,599,_Durum Zolaky,600,eog,po/tk.po
+_Save,603,_Gaýd Et,604,eog,po/tk.po
+_Undo,612,_Izine Al,613,eog,po/tk.po
+Flip _Horizontal,616,Keseleýyn Düňder,617,eog,po/tk.po
+Flip _Vertical,620,Dikleýin Düňnder,621,eog,po/tk.po
+_Zoom In,647,_Kiçelt,648,eog,po/tk.po
+Zoom _Out,651,_Ulalt,652,eog,po/tk.po
+_Normal Size,655,_Kadaly Ululyk,656,eog,po/tk.po
+Best _Fit,659,_Iň gowy sigiş,660,eog,po/tk.po
+Collection,678,Ýygym,679,eog,po/tk.po
+Could not open `%s',690,`%s' açilip bilmedi,691,eog,po/tk.po
+Epiphany automation,22,Epiphany otomasýony,23,epiphany,po/tk.po
+Browse and organize your bookmarks,26,Nişanlariňizi ahtariň we çäklendiriň,27,epiphany,po/tk.po
+Epiphany Web Bookmarks,30,Epiphany WEB Nyşanlary,31,epiphany,po/tk.po
+Web Bookmarks,34,Web nişanlary,35,epiphany,po/tk.po
+Disable Bookmark Editing,52,Nişanlary Editlmegini Söndür,53,epiphany,po/tk.po
+Disable History,56,Geçmişi Söndür,57,epiphany,po/tk.po
+Disable Toolbar Editing,68,Esbap Zolaky Editlemegini Söndür,69,epiphany,po/tk.po
+Disable the user's ability to edit their bookmarks.,78,Ullançylaryň oz nyşanlary editlek başaryşlaryny söndir.,79,epiphany,po/tk.po
+Disable the user's ability to edit toolbars.,82,Ullançylaryň esbap zolaklary editlek başaryşlaryny söndir.,83,epiphany,po/tk.po
+Disable the user's ability to type in a URL to epiphany.,86,Ullançylaryň epiphanyda URL ýazmak başaryşlaryny söndir.,87,epiphany,po/tk.po
+Hide menubar by default,100,Menübari öň bellençe ýigşir,101,epiphany,po/tk.po
+Hide the menubar by default.,104,Menübari öň bellençe ýigşir,105,epiphany,po/tk.po
+Browse the web,108,Webi Ahtar,109,epiphany,po/tk.po
+Epiphany Web Browser,112,Epiphany Web Ahtarçisi,113,epiphany,po/tk.po
+Web Browser,116,Web Ahtarçysy,117,epiphany,po/tk.po
+Address of the user's home page.,120,Ullançynyň öý sahypasy.,121,epiphany,po/tk.po
+Always show the tab bar,133,Hemişe täb zolakyny görkez,134,epiphany,po/tk.po
+Automatic downloads,137,Otomatik duşurmekler,138,epiphany,po/tk.po
+Cookie accept,149,Kökeleri kabul et,150,epiphany,po/tk.po
+Default encoding,153,Öň bellenen ködleme,154,epiphany,po/tk.po
+"Default encoding. Accepted values are: \""armscii-8\"", \""Big5\"", \""Big5-HKSCS\"", \""EUC-JP\"", \""EUC-KR\"", \""gb18030\"", \""GB2312\"", \""geostd8\"", \""HZ-GB-2312\"", \""IBM850\"", \""IBM852\"", \""IBM855\"", \""IBM857\"", \""IBM862\"", \""IBM864\"", \""IBM866\"", \""ISO-2022-CN\"", \""ISO-2022-JP\"", \""ISO-2022-KR\"", \""ISO-8859-1\"", \""ISO-8859-2\"", \""ISO-8859-3\"", \""ISO-8859-4\"", \""ISO-8859-5\"", \""ISO-8859-6\"", \""ISO-8859-7\"", \""ISO-8859-8\"", \""ISO-8859-8-I\"", \""ISO-8859-9\"", \""ISO-8859-10\"", \""ISO-8859-11\"", \""ISO-8859-13\"", \""ISO-8859-14\"", \""ISO-8859-15\"", \""ISO-8859-16\"", \""ISO-IR-111\"", \""KOI8-R\"", \""KOI8-U\"", \""Shift_JIS\"", \""TIS-620\"", \""UTF-7\"", \""UTF-8\"", \""VISCII\"", \""windows-874\"", \""windows-1250\"", \""windows-1251\"", \""windows-1252\"", \""windows-1253\"", \""windows-1254\"", \""windows-1255\"", \""windows-1256\"", \""windows-1257\"", \""windows-1258\"", \""x-euc-tw\"", \""x-gbk\"", \""x-johab\"", \""x-mac-arabic\"", \""x-mac-ce\"", \""x-mac-croatian\"", \""x-mac-cyrillic\"", \""x-mac-devanagari\"", \""x-mac-farsi\"", \""x-mac-greek\"", \""x-mac-gujarati\"", \""x-mac-gurmukhi\"", \""x-mac-hebrew\"", \""x-mac-icelandic\"", \""x-mac-roman\"", \""x-mac-romanian\"", \""x-mac-turkish\"", \""x-mac-ukrainian\"", \""x-user-defined\"", \""x-viet-tcvn5712\"", \""x-viet-vps\"" and \""x-windows-949\"".",157,"Öň bellenen ködlemeler. Kabul edilen mykdarlar: \""armscii-8\"", \""Big5\"", \""Big5-HKSCS\"", \""EUC-JP\"", \""EUC-KR\"", \""gb18030\"", \""GB2312\"", \""geostd8\"", \""HZ-GB-2312\"", \""IBM850\"", \""IBM852\"", \""IBM855\"", \""IBM857\"", \""IBM862\"", \""IBM864\"", \""IBM866\"", \""ISO-2022-CN\"", \""ISO-2022-JP\"", \""ISO-2022-KR\"", \""ISO-8859-1\"", \""ISO-8859-2\"", \""ISO-8859-3\"", \""ISO-8859-4\"", \""ISO-8859-5\"", \""ISO-8859-6\"", \""ISO-8859-7\"", \""ISO-8859-8\"", \""ISO-8859-8-I\"", \""ISO-8859-9\"", \""ISO-8859-10\"", \""ISO-8859-11\"", \""ISO-8859-13\"", \""ISO-8859-14\"", \""ISO-8859-15\"", \""ISO-8859-16\"", \""ISO-IR-111\"", \""KOI8-R\"", \""KOI8-U\"", \""Shift_JIS\"", \""TIS-620\"", \""UTF-7\"", \""UTF-8\"", \""VISCII\"", \""windows-874\"", \""windows-1250\"", \""windows-1251\"", \""windows-1252\"", \""windows-1253\"", \""windows-1254\"", \""windows-1255\"", \""windows-1256\"", \""windows-1257\"", \""windows-1258\"", \""x-euc-tw\"", \""x-gbk\"", \""x-johab\"", \""x-mac-arabic\"", \""x-mac-ce\"", \""x-mac-croatian\"", \""x-mac-cyrillic\"", \""x-mac-devanagari\"", \""x-mac-farsi\"", \""x-mac-greek\"", \""x-mac-gujarati\"", \""x-mac-gurmukhi\"", \""x-mac-hebrew\"", \""x-mac-icelandic\"", \""x-mac-roman\"", \""x-mac-romanian\"", \""x-mac-turkish\"", \""x-mac-ukrainian\"", \""x-user-defined\"", \""x-viet-tcvn5712\"", \""x-viet-vps\"" and \""x-windows-949\"".",175,epiphany,po/tk.po
+Default font type,195,Öň bellenen kalam hili,196,epiphany,po/tk.po
+"Default font type. Possible values are \""serif\"" and \""sans-serif\"".",199,"Öň bellenen kalam hili. Mümkin mykdarlar: \""serif\"" and \""sans-serif\"".",200,epiphany,po/tk.po
+Enable Java,204,Jawany Mümkin Et,205,epiphany,po/tk.po
+Enable Java.,208,Jawany Mümkin Et.,209,epiphany,po/tk.po
+Enable JavaScript,212,Jawaskripti Mümkin Et,213,epiphany,po/tk.po
+Enable JavaScript.,216,Jawaskripti Mümkin Et.,217,epiphany,po/tk.po
+Home page,238,Öý sahypasy,239,epiphany,po/tk.po
+Languages,246,Diller,247,epiphany,po/tk.po
+Match case for find in page,250,Sahypa içinde ahtarmak üçin kiçi/beýik harplary nezirle,251,epiphany,po/tk.po
+Match case for find in page.,254,Sahypa içinde ahtarmak üçin kiçi/beýik harplary nezirle.,255,epiphany,po/tk.po
+Paper type,269,Kagyzyň hili,270,epiphany,po/tk.po
+"Paper type. Supported values are \""A4\"", \""Letter\"", \""Legal\"" and \""Executive\"".",273,"Kagyzyň hili. Arkalanýan hiller \""A4\"", \""Letter\"", \""Legal\"" we \""?????\"".",276,epiphany,po/tk.po
+Printer name,284,Çapçy ady,285,epiphany,po/tk.po
+Printer name.,288,Çapçy ady.,289,epiphany,po/tk.po
+Printing bottom margin,292,Çaplanjak ast gabdaly,293,epiphany,po/tk.po
+Printing bottom margin (in mm).,296,Çaplanjak ast gabdaly (mm).,297,epiphany,po/tk.po
+Printing left margin,300,Çaplanjak söl gabdaly,301,epiphany,po/tk.po
+Printing left margin (in mm).,304,Çaplanjak söl gabdaly (mm).,305,epiphany,po/tk.po
+Printing right margin,308,Çaplanjak sag gabdaly,309,epiphany,po/tk.po
+Printing right margin (in mm).,312,Çaplanjak sag gabdaly (mm),313,epiphany,po/tk.po
+Printing top margin,316,Çaplanjak üst gabdaly,317,epiphany,po/tk.po
+Printing top margin (in mm).,320,Çaplanjak üst gabdaly (mm).,321,epiphany,po/tk.po
+Show bookmarks bar by default,324,Nişanlary öň bellenen edip görkez,325,epiphany,po/tk.po
+Show bookmarks bar by default.,328,Nişanlary öň bellenen edip görkez.,329,epiphany,po/tk.po
+Show statusbar by default,332,Durum zolaky öň bellenen edip görkez,333,epiphany,po/tk.po
+Show statusbar by default.,336,Durum zolaky öň bellenen edip görkez.,337,epiphany,po/tk.po
+Show toolbars by default,350,Esbap zolaky öň bellenen edip görkez,351,epiphany,po/tk.po
+Show toolbars by default.,354,Esbap zolaky öň bellenen edip görkez.,355,epiphany,po/tk.po
+The bookmark informations shown in the editor view,366,Editçi görnöşinde görkezilýän nyşanlar maglumaty,367,epiphany,po/tk.po
+"The bookmark informations shown in the editor view. Valid values in the list are \""address\"" and \""title\"".",370,"Editçi görnöşinde görkezilýän nyşanlar maglumaty. Mümkin mykdarlar: \""adres\"" we \""sözbaşy\"".",373,epiphany,po/tk.po
+The currently selected fonts language,378,Häzirçe saýlanan kalamlar dili,379,epiphany,po/tk.po
+"The currently selected fonts language. Valid values are \""ar\"" (arabic), \""x-baltic\"" (baltic languages), \""x-central-euro\"" (central european languages), \""x-cyrillic\"" (languages written with cyrillic alphabet), \""el\"" (greek), \""he\"" (hebrew), \""ja\"" (japanese), \""ko\"" (korean), \""zh-CN\"" (simplified chinese), \""th\"" (thai), \""zh-TW\"" (traditional chinese), \""tr\"" (turkish), \""x-unicode\"" (other languages), \""x-western\"" (languages written in latin script), \""x-tamil\"" (tamil) and \""x-devanagari\"" (devanagari).",382,"Häzirçe saýlanan kalamlar dili. Mumkin mykdarlarŇ \""ar\"" (arabça), \""x-baltic\"" (baltik dilleri), \""x-central-euro\"" (orta avrupa dilleri), \""x-cyrillic\"" (kiril elipbi bilen ýazylýan diller), \""el\"" (ýunança), \""he\"" (ýähüd dili), \""ja\"" (japonça), \""ko\"" (köreçe), \""zh-CN\"" (besitlendirlen çinçe), \""th\"" (taýça), \""zh-TW\"" (däpli çinçe), \""tr\"" (türkçe), \""x-unicode\"" (başga diller), \""x-western\"" (latin elipbi bilen ýazylýan diller), \""x-tamil\"" (tamil) we \""x-devanagari\"" (devanagari).",391,epiphany,po/tk.po
+The page informations shown in the history view,422,Geçmiş görnöşinde görkezilýän sahypa maglumaty,423,epiphany,po/tk.po
+"The page informations shown in the history view. Valid values in the list are \""address\"", \""title\"".",426,"Geçmiş görnöşinde görkezilýän sahypa maglumaty. Mümkin mykdarlar: \""adres\"" we \""sözbaşy\"".",429,epiphany,po/tk.po
+Use own colors,442,Oz renklerni ullan,443,epiphany,po/tk.po
+Use own fonts,446,Oz kalamlarny ullan,447,epiphany,po/tk.po
+Use your own colors instead of the colors the page requests.,450,Sahypa isleýän renki ýerine oz renklerňi ullan.,451,epiphany,po/tk.po
+Use your own fonts instead of the fonts the page requests.,454,Sahypa isleýän kalamlary ýerine oz kalamlaryňy ullan.,455,epiphany,po/tk.po
+"Where to accept cookies from. Possible values are \""anywhere\"", \""current site\"" and \""nowhere\"".",464,"Kökeler nirede kabul edilsin. Mümin mykdarlar \""her ýer\"", \""häzyrky meýdança\"" we \""hiç ýerde\""",467,epiphany,po/tk.po
+Whether to print the page address in the header,480,Sahypa adresi başlygda çaplanmasy,481,epiphany,po/tk.po
+Whether to print the page address in the header.,484,Sahypa adresi başlygda çaplanmasy.,485,epiphany,po/tk.po
+Whether to print the page title in the header,496,Sahypa sözbaşy başlygda çaplanmasy,497,epiphany,po/tk.po
+Whether to print the page title in the header.,500,Sahypa sözbaşy başlygda çaplanmasy.,501,epiphany,po/tk.po
+General,558,Umumy,559,epiphany,po/tk.po
+Organization:,571,Gurama,572,epiphany,po/tk.po
+Organizational Unit:,575,Gurama Birliki:,576,epiphany,po/tk.po
+<b>_Automatic</b>,596,<b>_Otomatik</b>,597,epiphany,po/tk.po
+<b>_Use a different encoding:</b>,600,<b>_Başga bir ködlemäni ullan:</b>,601,epiphany,po/tk.po
+C_ase sensitive,604,_Kiçi/beýik harpa eserdeň,605,epiphany,po/tk.po
+Cookies,608,Kökeler,609,epiphany,po/tk.po
+Find,616,Tap,617,epiphany,po/tk.po
+Personal Data Manager,624,Şahsy Maglumat Müdiri,625,epiphany,po/tk.po
+Text Encoding,628,Tekst Ködleme,629,epiphany,po/tk.po
+Use the encoding specified by the document,632,Senedde berilen ködlemeden ullan,633,epiphany,po/tk.po
+_Find:,636,_Tap:,637,epiphany,po/tk.po
+_Next,640,_Indiki,641,epiphany,po/tk.po
+_Previous,648,_Öňki,649,epiphany,po/tk.po
+<b>Colors</b>,656,<b>Renkler</b>,657,epiphany,po/tk.po
+<b>Cookies</b>,660,<b>Kökeler</b>,661,epiphany,po/tk.po
+<b>Encodings</b>,668,<b>Ködleme</b>,669,epiphany,po/tk.po
+<b>Fonts</b>,672,<b>Kalamlar</b>,673,epiphany,po/tk.po
+<b>Home page</b>,676,<b>Öý sahypasy</b>,677,epiphany,po/tk.po
+<b>Languages</b>,680,<b>Diller</b>,681,epiphany,po/tk.po
+<b>Temporary Files</b>,684,<b>Wagtlaýyn Faýllar</b>,685,epiphany,po/tk.po
+<b>Web Content</b>,688,<b>Web Mazmuny</b>,689,epiphany,po/tk.po
+Add Language,696,Dil ekle,697,epiphany,po/tk.po
+Al_ways use the desktop theme colors,700,_Hemişe desktap tem renklerinden ullan,701,epiphany,po/tk.po
+Always use _these fonts,708,Hemişe _bu kalamlary ullan,709,epiphany,po/tk.po
+Au_todetect:,712,_Otomatik aňla:,713,epiphany,po/tk.po
+Choose a l_anguage:,716,Dili saýla:,717,epiphany,po/tk.po
+Cl_ear,720,_Durla,721,epiphany,po/tk.po
+De_fault:,724,_Öň bellenen:,725,epiphany,po/tk.po
+Enable Java_Script,728,Jawa_skripti Mümkin Et,729,epiphany,po/tk.po
+Enable _Java,732,_Jawany Mümkin Et,733,epiphany,po/tk.po
+Fonts and Colors,736,Kalamlar we Renkler,737,epiphany,po/tk.po
+For l_anguage:,740,Bu _diller üçin:,741,epiphany,po/tk.po
+Language,744,Diller,745,epiphany,po/tk.po
+Only _from sites you visit,752,_Diňe siziň gören meýdançalaryňyzdan,753,epiphany,po/tk.po
+Preferences,756,Seçenekler,757,epiphany,po/tk.po
+Set to Current _Page,764,_Bu sahypany düz,765,epiphany,po/tk.po
+Set to _Blank Page,768,Bo_ş sahypa düz,769,epiphany,po/tk.po
+_Add...,772,_Ekle...,773,epiphany,po/tk.po
+_Address:,777,_Adres:,778,epiphany,po/tk.po
+_Always accept,781,_Hemişe kabul et,782,epiphany,po/tk.po
+_Disk space:,785,_Disk seleňi:,786,epiphany,po/tk.po
+_Down,789,_Ast,790,epiphany,po/tk.po
+_Never accept,805,_Hergiz kabul etme,806,epiphany,po/tk.po
+_Remove,809,_Çykar,810,epiphany,po/tk.po
+_Up,813,_Üst,814,epiphany,po/tk.po
+<b>Headers</b>,825,<b>Başlyg</b>,826,epiphany,po/tk.po
+<b>Margins (in mm)</b>,829,<b>Gabdallar (mm)</b>,830,epiphany,po/tk.po
+<b>Size</b>,845,<b>Ululyk</b>,846,epiphany,po/tk.po
+C_olor,857,_Renkli,858,epiphany,po/tk.po
+P_age title,873,Sahypa sözbaşy,874,epiphany,po/tk.po
+P_rinter:,881,Çapçy:,882,epiphany,po/tk.po
+Pa_ges,885,_Sahypalar,886,epiphany,po/tk.po
+Page _numbers,889,Sahypa S_anlary,890,epiphany,po/tk.po
+Paper,893,Kagyz,894,epiphany,po/tk.po
+Print,897,Çap,898,epiphany,po/tk.po
+Print Setup,901,Çap çaşyrymy,902,epiphany,po/tk.po
+_All pages,905,_Ehli sahypalar,906,epiphany,po/tk.po
+_Bottom:,909,_Ast:,910,epiphany,po/tk.po
+_Browse...,913,_Ahtar...,914,epiphany,po/tk.po
+_Date,917,_Taryh,918,epiphany,po/tk.po
+_File:,921,_Faýl:,922,epiphany,po/tk.po
+_Left:,929,_Çep:,930,epiphany,po/tk.po
+_Page address,937,_Sahypa adresi,938,epiphany,po/tk.po
+_Right:,941,_Sag,942,epiphany,po/tk.po
+_Selection,945,_Saýlaw,946,epiphany,po/tk.po
+_Top:,949,_Üst:,950,epiphany,po/tk.po
+Unknown,982,Natanyş,983,epiphany,po/tk.po
+About %d second left,987,%d sanýa kaldy,989,epiphany,po/tk.po
+About %d second left,987,%d sanýa kaldy,990,epiphany,po/tk.po
+About %d minute left,994,%d dakyka kaldi,996,epiphany,po/tk.po
+About %d minute left,994,%d dakyka kaldi,997,epiphany,po/tk.po
+File,1007,Faýl,1008,epiphany,po/tk.po
+Arabic (_IBM-864),1019,Arabça (_IBM-864),1020,epiphany,po/tk.po
+Arabic (ISO-_8859-6),1023,Arabça (ISO-_8859-6),1024,epiphany,po/tk.po
+Arabic (_MacArabic),1027,Arabça (_MacArabic),1028,epiphany,po/tk.po
+Arabic (_Windows-1256),1031,Arabça (_Windows-1256),1032,epiphany,po/tk.po
+Baltic (_ISO-8859-13),1035,Baltik (_ISO-8859-13),1036,epiphany,po/tk.po
+Baltic (I_SO-8859-4),1039,Baltik (I_SO-8859-4),1040,epiphany,po/tk.po
+Baltic (_Windows-1257),1043,Baltik (_Windows-1257),1044,epiphany,po/tk.po
+_Armenian (ARMSCII-8),1047,_Ermençe (ARMSCII-8),1048,epiphany,po/tk.po
+_Georgian (GEOSTD8),1051,_Gürjüçe (GEOSTD8),1052,epiphany,po/tk.po
+Central European (_IBM-852),1055,Orta Avrupa (_IBM-852),1056,epiphany,po/tk.po
+Central European (I_SO-8859-2),1059,Orta Avrupa (I_SO-8859-2),1060,epiphany,po/tk.po
+Central European (_MacCE),1063,Orta Avrupa (_MacCE),1064,epiphany,po/tk.po
+Central European (_Windows-1250),1067,Orta Avrupa (_Windows-1250),1068,epiphany,po/tk.po
+Chinese Simplified (_GB18030),1071,Besitlendirlen Çinçe (_GB18030),1072,epiphany,po/tk.po
+Chinese Simplified (G_B2312),1075,Besitlendirlen Çinçe (G_B2312),1076,epiphany,po/tk.po
+Chinese Simplified (GB_K),1079,Besitlendirlen Çinçe (GB_K),1080,epiphany,po/tk.po
+Chinese Simplified (_HZ),1083,Besitlendirlen Çinçe (_HZ),1084,epiphany,po/tk.po
+Chinese Simplified (_ISO-2022-CN),1087,Besitlendirlen Çinçe (_ISO-2022-CN),1088,epiphany,po/tk.po
+Chinese Traditional (Big_5),1091,Däpli Çinçe (Big_5),1092,epiphany,po/tk.po
+Chinese Traditional (Big5-HK_SCS),1095,Däpli Çinçe (Big5-HK_SCS),1096,epiphany,po/tk.po
+Chinese Traditional (_EUC-TW),1099,Däpli Çinçe (_EUC-TW),1100,epiphany,po/tk.po
+Cyrillic (_IBM-855),1103,Kiril (_IBM-855),1104,epiphany,po/tk.po
+Cyrillic (I_SO-8859-5),1107,Kiril (I_SO-8859-5),1108,epiphany,po/tk.po
+Cyrillic (IS_O-IR-111),1111,Kiril (IS_O-IR-111),1112,epiphany,po/tk.po
+Cyrillic (_KOI8-R),1115,Kiril (_KOI8-R),1116,epiphany,po/tk.po
+Cyrillic (_MacCyrillic),1119,Kiril (_MacCyrillic),1120,epiphany,po/tk.po
+Cyrillic (_Windows-1251),1123,Kiril (_Windows-1251),1124,epiphany,po/tk.po
+Cyrillic/_Russian (IBM-866),1127,Kiril/_Orsça (IBM-866),1128,epiphany,po/tk.po
+Greek (_ISO-8859-7),1131,Ýunança (_ISO-8859-7),1132,epiphany,po/tk.po
+Greek (_MacGreek),1135,Ýunança (_MacGreek),1136,epiphany,po/tk.po
+Greek (_Windows-1253),1139,Ýunança (_Windows-1253),1140,epiphany,po/tk.po
+Gujarati (_MacGujarati),1143,Gujaratça (_MacGujarati),1144,epiphany,po/tk.po
+Gurmukhi (Mac_Gurmukhi),1147,Gurmuhça (Mac_Gurmukhi),1148,epiphany,po/tk.po
+Hindi (Mac_Devanagari),1151,Hindistança (Mac_Devanagari),1152,epiphany,po/tk.po
+Hebrew (_IBM-862),1155,Ýähüdçe (_IBM-862),1156,epiphany,po/tk.po
+Hebrew (IS_O-8859-8-I),1159,Ýähüdçe (IS_O-8859-8-I),1160,epiphany,po/tk.po
+Hebrew (_MacHebrew),1163,Ýähüdçe (_MacHebrew),1164,epiphany,po/tk.po
+Hebrew (_Windows-1255),1167,Ýähüdçe (_Windows-1255),1168,epiphany,po/tk.po
+_Visual Hebrew (ISO-8859-8),1171,_Aýan Ýähüdçe (ISO-8859-8),1172,epiphany,po/tk.po
+Japanese (_EUC-JP),1175,Japonça (_EUC-JP),1176,epiphany,po/tk.po
+Japanese (_ISO-2022-JP),1179,Japonça (_ISO-2022-JP),1180,epiphany,po/tk.po
+Japanese (_Shift-JIS),1183,Japonça (_Shift-JIS),1184,epiphany,po/tk.po
+Korean (_EUC-KR),1187,Köreçe (_EUC-KR),1188,epiphany,po/tk.po
+Korean (_ISO-2022-KR),1191,Köreçe (_ISO-2022-KR),1192,epiphany,po/tk.po
+Korean (_JOHAB),1195,Köreçe (_JOHAB),1196,epiphany,po/tk.po
+Korean (_UHC),1199,Köreçe (_UHC),1200,epiphany,po/tk.po
+_Celtic (ISO-8859-14),1203,_Seltik (ISO-8859-14),1204,epiphany,po/tk.po
+_Icelandic (MacIcelandic),1207,_Isländçe (MacIcelandic),1208,epiphany,po/tk.po
+_Nordic (ISO-8859-10),1211,_Nordikçe (ISO-8859-10),1212,epiphany,po/tk.po
+_Persian (MacFarsi),1215,_Parsça (MacFarsi),1216,epiphany,po/tk.po
+Croatian (Mac_Croatian),1219,Korwatça (Mac_Croatian),1220,epiphany,po/tk.po
+_Romanian (MacRomanian),1223,_Römençe (MacRomanian),1224,epiphany,po/tk.po
+R_omanian (ISO-8859-16),1227,R_ömençe (ISO-8859-16),1228,epiphany,po/tk.po
+South _European (ISO-8859-3),1231,Gun Orta _Aürupa (ISO-8859-3),1232,epiphany,po/tk.po
+Thai (TIS-_620),1235,Taýça (TIS-_620),1236,epiphany,po/tk.po
+Thai (IS_O-8859-11),1239,Taýça (IS_O-8859-11),1240,epiphany,po/tk.po
+_Thai (Windows-874),1243,_Taýça (Windows-874),1244,epiphany,po/tk.po
+Turkish (_IBM-857),1247,Türkçe (_IBM-857),1248,epiphany,po/tk.po
+Turkish (I_SO-8859-9),1251,Türkçe (I_SO-8859-9),1252,epiphany,po/tk.po
+Turkish (_MacTurkish),1255,Türkçe (_MacTurkish),1256,epiphany,po/tk.po
+Turkish (_Windows-1254),1259,Türkçe (_Windows-1254),1260,epiphany,po/tk.po
+Unicode (UTF-_8),1263,Uniköd (UTF-_8),1264,epiphany,po/tk.po
+Cyrillic/Ukrainian (_KOI8-U),1267,Kriril/Ukrainian (_KOI8-U),1268,epiphany,po/tk.po
+Cyrillic/Ukrainian (Mac_Ukrainian),1271,Kriril/Ukraýnça (Mac_Ukrainian),1272,epiphany,po/tk.po
+Vietnamese (_TCVN),1275,Wýetnamça (_TCVN),1276,epiphany,po/tk.po
+Vietnamese (_VISCII),1279,Wýetnamça (_VISCII),1280,epiphany,po/tk.po
+Vietnamese (V_PS),1283,Wýetnamça (V_PS),1284,epiphany,po/tk.po
+Vietnamese (_Windows-1258),1287,Wýetnamça (_Windows-1258),1288,epiphany,po/tk.po
+Western (_IBM-850),1291,Gun Batarça (_IBM-850),1292,epiphany,po/tk.po
+Western (_ISO-8859-1),1295,Gun Batarça (_ISO-8859-1),1296,epiphany,po/tk.po
+Western (IS_O-8859-15),1299,Gun Batarça (IS_O-8859-15),1300,epiphany,po/tk.po
+Western (_MacRoman),1303,Gun Batarça (_MacRoman),1304,epiphany,po/tk.po
+Western (_Windows-1252),1307,Gun Batarça (_Windows-1252),1308,epiphany,po/tk.po
+English (_US-ASCII),1314,Ingilisçä (_US-ASCII),1315,epiphany,po/tk.po
+Unicode (UTF-_16 BE),1318,Uniköd (UTF-_16 BE),1319,epiphany,po/tk.po
+Unicode (UTF-1_6 LE),1322,Uniköd (UTF-1_6 LE),1323,epiphany,po/tk.po
+Unicode (UTF-_32 BE),1326,Uniköd (UTF-_32 BE),1327,epiphany,po/tk.po
+Unicode (UTF-3_2 LE),1330,Uniköd (UTF-3_2 LE),1331,epiphany,po/tk.po
+Off,1334,Söndirgili,1335,epiphany,po/tk.po
+Chinese,1338,Çinçe,1339,epiphany,po/tk.po
+Chinese Simplified,1342,Besitlendirlen Çinçe,1343,epiphany,po/tk.po
+Chinese Traditional,1346,Däpli Çinçe,1347,epiphany,po/tk.po
+East Asian,1350,Gun Dogar Asýa,1351,epiphany,po/tk.po
+Japanese,1354,Japonça,1355,epiphany,po/tk.po
+Korean,1358,Köreçe,1359,epiphany,po/tk.po
+Russian,1362,Orsça,1363,epiphany,po/tk.po
+Universal,1366,Bütin Dünýä,1367,epiphany,po/tk.po
+Ukrainian,1370,Ukraýnça,1371,epiphany,po/tk.po
+Unknown (%s),1378,Natanyş (%s),1379,epiphany,po/tk.po
+All,1382,Ehlisi,1383,epiphany,po/tk.po
+Others,1386,Başgalar,1387,epiphany,po/tk.po
+Local files,1390,Ýerli faýllar,1391,epiphany,po/tk.po
+Save,1395,Gaýd Et,1396,epiphany,po/tk.po
+_Save As...,1399,_Aýry Gaýd Et...,1400,epiphany,po/tk.po
+Open the file in another application?,1413,Faýl başga bit programde açylsynmy?,1414,epiphany,po/tk.po
+It's not possible to view this file type directly in the browser. You can open it with another application or save it.,1417,Bu faýl hilini ahtarçida görip bolmaýar. Siz ony başga bir program bilen açip bilersiňiz ýädä ony gaýd etip bilersiňiz.,1420,epiphany,po/tk.po
+It's not possible to view this file because there is no application installed that can open it. You can save it instead.,1429,Açmak üçin hiç bir program gurulmansaň bu faýly açmak mümkin däl. Öniň ýerine siz faýly gaýd etip bilersiňiz.,1432,epiphany,po/tk.po
+Untitled,1439,Adsyz,1440,epiphany,po/tk.po
+All files,1444,Ehli faýllar,1445,epiphany,po/tk.po
+Web pages,1448,Web sahypalar,1449,epiphany,po/tk.po
+Text files,1452,Metin faýllar,1453,epiphany,po/tk.po
+Images,1456,Resimler,1457,epiphany,po/tk.po
+XML files,1460,XML faýllar,1461,epiphany,po/tk.po
+XUL files,1464,XUL faýllar,1465,epiphany,po/tk.po
+_Accept,1490,_Kabul Et,1491,epiphany,po/tk.po
+You should only accept the security information if you trust %s and %s.,1503,Eger siz %s we %s-e inansaňiz diňe amanlyk maglumaty kabul etmeli bolarsiňiz.,1504,epiphany,po/tk.po
+Accept incorrect security information?,1508,Nädogry amanlik maglumaty gabul etilsinmi?,1509,epiphany,po/tk.po
+Connect to untrusted site?,1526,Ynamsyz meýdança baglansynmy?,1527,epiphany,po/tk.po
+_Don't show this message again for this site,1530,Bu meýdança üçin bu sargyty görkezme,1531,epiphany,po/tk.po
+Co_nnect,1534,_Baglan,1535,epiphany,po/tk.po
+_Web sites,1600,_Web meýdançalar,1601,epiphany,po/tk.po
+Unit:,1661,Brilik:,1662,epiphany,po/tk.po
+Next Update:,1665,Indiki Täzelenmek:,1666,epiphany,po/tk.po
+Files,1720,Faýllar,1721,epiphany,po/tk.po
+system-language,1755,tk,1756,epiphany,po/tk.po
+Print to,1759,Çap Ed,1760,epiphany,po/tk.po
+Postscript files,1763,Postskript faýllar,1764,epiphany,po/tk.po
+GConf error:\n  %s,1768,GConf hatasy:\n  %s,1771,epiphany,po/tk.po
+_Remove Toolbar,1776,_Esbap Zolaky Çykar,1777,epiphany,po/tk.po
+Separator,1780,_Seleňçi,1781,epiphany,po/tk.po
+"Drag an item onto the toolbars above to add it, from the toolbars in the items table to remove it.",1784,"Bir aýtemi goşmak üçin ony esbap zolaky üstine süýräň, ony çykarmak üçin esbap zolakdan aýtemler jedwele süýräň.",1787,epiphany,po/tk.po
+Failed to find %s,1802,%s-i tapmakda hata boldy,1803,epiphany,po/tk.po
+Failed to create directory %s.,1812,%s haltasyny bejermede hata boldy.,1813,epiphany,po/tk.po
+A file %s already exists.,1817,%s adly faýl öňden bar.,1818,epiphany,po/tk.po
+Could not display help: %s,1834,Ýardam görkezilip bilmedi: %s,1835,epiphany,po/tk.po
+Arabic,1838,Arabça,1839,epiphany,po/tk.po
+Baltic,1842,Baltik,1843,epiphany,po/tk.po
+Central European,1846,Orta Avrupa,1847,epiphany,po/tk.po
+Cyrillic,1850,Kiril,1851,epiphany,po/tk.po
+Devanagari,1854,Devanagarça,1855,epiphany,po/tk.po
+Greek,1858,Ýunança,1859,epiphany,po/tk.po
+Hebrew,1862,Ýähüd Dili,1863,epiphany,po/tk.po
+Simplified Chinese,1866,Besitlendirlen Çinçe,1867,epiphany,po/tk.po
+Tamil,1870,Tamilça,1871,epiphany,po/tk.po
+Thai,1874,Taýça,1875,epiphany,po/tk.po
+Traditional Chinese,1878,Däpli Çinçe,1879,epiphany,po/tk.po
+Traditional Chinese (Hong Kong),1882,Däpli Çinçe (Hong Kong),1883,epiphany,po/tk.po
+Turkish,1886,Türkçe,1887,epiphany,po/tk.po
+Unicode,1890,Uniköd,1891,epiphany,po/tk.po
+Western,1894,Gun Batarça,1895,epiphany,po/tk.po
+History,1910,Geçmiş,1911,epiphany,po/tk.po
+Bookmarks,1915,Nyşanlar,1916,epiphany,po/tk.po
+Address Entry,1919,Adres Girişi,1920,epiphany,po/tk.po
+Failed,1965,Hata Boldy,1966,epiphany,po/tk.po
+Select All,1977,_Ehlisini Saýla,1978,epiphany,po/tk.po
+Open in New _Tab,1993,Täze _täbde aç,1994,epiphany,po/tk.po
+Open in New _Window,1997,Täze _Äpişgede Aç,1998,epiphany,po/tk.po
+Move _Left,2002,_Çepe Göçir,2003,epiphany,po/tk.po
+Move Ri_ght,2007,_Saga Göçir,2008,epiphany,po/tk.po
+%s Properties,2012,%s Häsiýetleri,2013,epiphany,po/tk.po
+_Title:,2017,_Sözbaşy:,2018,epiphany,po/tk.po
+_Show in bookmarks bar,2026,Nyşan Zolakynda _Görkez,2027,epiphany,po/tk.po
+_File,2032,_Faýl,2033,epiphany,po/tk.po
+_View,2042,_Görnöş,2043,epiphany,po/tk.po
+_Help,2047,_Ýardam,2048,epiphany,po/tk.po
+_Open in New Window,2064,Täze Äpişgede _Aç,2065,epiphany,po/tk.po
+Open the selected bookmark in a new window,2068,Saýlanan nyşany täze äpişgede aç,2069,epiphany,po/tk.po
+Open the selected bookmark in a new tab,2072,Saýlanan nyşany täze äpişgede aç,2073,epiphany,po/tk.po
+_Rename...,2076,_Adyny Eweä Et...,2077,epiphany,po/tk.po
+_Delete,2084,_Poz,2085,epiphany,po/tk.po
+_Properties,2092,_Häsiýetler,2093,epiphany,po/tk.po
+View or modify the properties of the selected bookmark,2096,Saýlanan nyşanyň häsiýetlerni görkeä ýädä ewez et,2097,epiphany,po/tk.po
+_Import Bookmarks...,2100,Nyşanlary _Dahyl Et...,2101,epiphany,po/tk.po
+Import bookmarks from another browser or a bookmarks file,2104,Nyşanlary başga bir ahtarçyden ýädä bir nyşanlar faýlyndan dahyl et,2105,epiphany,po/tk.po
+_Close,2109,_Ýap,2110,epiphany,po/tk.po
+Close the bookmarks window,2113,Nyşanlar äpişgesini ýap,2114,epiphany,po/tk.po
+Cu_t,2119,_Kes,2120,epiphany,po/tk.po
+Cut the selection,2124,Saýlawy kes,2125,epiphany,po/tk.po
+_Copy,2130,_Nusgala,2131,epiphany,po/tk.po
+Copy the selection,2135,Saýlawy kes,2136,epiphany,po/tk.po
+_Paste,2140,_Ýabşyr,2141,epiphany,po/tk.po
+Select _All,2149,_Ehlisini Saýla,2150,epiphany,po/tk.po
+Select all bookmarks or text,2153,Ehli nyşanlary ýädä metini saýla,2154,epiphany,po/tk.po
+_Contents,2160,_Mazmunlar,2161,epiphany,po/tk.po
+Display bookmarks help,2164,Nyşanlar ýardamyny görkez,2165,epiphany,po/tk.po
+_About,2169,_Barada,2170,epiphany,po/tk.po
+_Show in Bookmarks Bar,2179,Nyşanlar äpişgesinde görkez,2180,epiphany,po/tk.po
+_Title,2188,Sözbaşy,2189,epiphany,po/tk.po
+Show only the title column,2192,Diňe sözbaşy sutuny görkez,2193,epiphany,po/tk.po
+T_itle and Address,2196,_Sözbaşy we Adres,2197,epiphany,po/tk.po
+Show both the title and address columns,2200,Sözbaşy we Adres sutunlary görkez,2201,epiphany,po/tk.po
+Import bookmarks from file,2209,Nyşanlary faýldan dahyl et,2210,epiphany,po/tk.po
+Firefox/Firebird/Mozilla bookmarks,2213,FireFox/Firebird/Mozilla nyşanlary,2214,epiphany,po/tk.po
+Galeon/Konqueror bookmarks,2217,Galeon/Konqueror nyşanlary,2218,epiphany,po/tk.po
+Epiphany bookmarks,2221,Epiphany nyşanlary,2222,epiphany,po/tk.po
+Import Bookmarks,2225,Nyşanlary dahyl et,2226,epiphany,po/tk.po
+I_mport,2229,_Dahyl Et,2230,epiphany,po/tk.po
+Import bookmarks from:,2233,Nyşanlary faýldan dahyl et:,2234,epiphany,po/tk.po
+_Open in New Windows,2257,Täze bir äpişgede _aç,2258,epiphany,po/tk.po
+Open in New _Tabs,2261,Täze bir _täbde aç,2262,epiphany,po/tk.po
+_Copy Address,2265,Adresi nusgala,2266,epiphany,po/tk.po
+_Search:,2269,_Ahtar:,2270,epiphany,po/tk.po
+Title,2278,Sözbaşy,2279,epiphany,po/tk.po
+Address,2282,Adresler,2283,epiphany,po/tk.po
+Search the web,2290,Webi Ahtar,2291,epiphany,po/tk.po
+http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8,2295,http://www.google.com/intl/tk/search?q=%s&ie=UTF-8&oe=UTF-8,2296,epiphany,po/tk.po
+Entertainment,2299,Hezillik,2300,epiphany,po/tk.po
+News,2303,Täzelikler,2304,epiphany,po/tk.po
+Shopping,2307,Bazar,2308,epiphany,po/tk.po
+Sports,2311,Sport,2312,epiphany,po/tk.po
+Travel,2315,Syýahat,2316,epiphany,po/tk.po
+Work,2319,Iş,2320,epiphany,po/tk.po
+Most Visited,2323,Iň Kop Görilen,2324,epiphany,po/tk.po
+Add Bookmark,2331,Nyşany Ekle,2332,epiphany,po/tk.po
+A bookmark titled %s already exists for this page.,2344,%s adly nyşan bu sahypa üçin öňden bar.,2345,epiphany,po/tk.po
+Empty,2349,Puç,2350,epiphany,po/tk.po
+_Open in Tabs,2353,_Täbde Aç,2354,epiphany,po/tk.po
+Encodings,2357,Ködlemeler,2358,epiphany,po/tk.po
+_Other...,2361,_Başga...,2362,epiphany,po/tk.po
+Other encodings,2365,Başga ködlemeler,2366,epiphany,po/tk.po
+_Automatic,2369,_Otomatik,2370,epiphany,po/tk.po
+Go,2373,Git,2374,epiphany,po/tk.po
+Open the selected history link in a new window,2377,Saýlanan geçmiş baglaýyşyny täze bir äpişgede aç,2378,epiphany,po/tk.po
+Open the selected history link in a new tab,2381,Saýlanan geçmiş baglaýyşyny täze bir täbde aç,2382,epiphany,po/tk.po
+Delete the selected history link,2385,Saýlanan geçmiş baglaýyşyny poz,2386,epiphany,po/tk.po
+Boo_kmark Link...,2389,_Nyşan baglaýyşy...,2390,epiphany,po/tk.po
+Bookmark the selected history link,2393,Saýlanan geçmiş baglaýyşyny nyşanla,2394,epiphany,po/tk.po
+Close the history window,2397,Geçmiş äpişgesini bagla,2398,epiphany,po/tk.po
+Select all history links or text,2401,Ehli baglaýyşler we metinleri saýla,2402,epiphany,po/tk.po
+C_lear History,2405,Geçmişi _Poz,2406,epiphany,po/tk.po
+Clear your browsing history,2409,Oz ahtaryş geçmişiňizi pozyň,2410,epiphany,po/tk.po
+Display history help,2413,Geçmiş ýardamyny görkez,2414,epiphany,po/tk.po
+_Address,2417,_Adres,2418,epiphany,po/tk.po
+Show only the address column,2421,Diňe adres sutuny görkez,2422,epiphany,po/tk.po
+Clear History,2425,Geçmişi Poz,2426,epiphany,po/tk.po
+C_lear,2429,_Poz,2430,epiphany,po/tk.po
+Clear browsing history?,2433,Ahtaryş geçmiş pozylsynmy?,2434,epiphany,po/tk.po
+Clearing the browsing history will cause all history links to be permanently deleted.,2437,Ahtaryş geçmişi pozmak ehli geçmiş baglaýyşlary imikli pozar,2440,epiphany,po/tk.po
+Today,2443,Bu Gun,2444,epiphany,po/tk.po
+Last %d day,2450,%d söňki gun,2452,epiphany,po/tk.po
+Last %d day,2450,%d söňki gun,2453,epiphany,po/tk.po
+Sites,2456,Meýdançalar,2457,epiphany,po/tk.po
+Open a new tab in an existing Epiphany window,2460,Epiphanynyň bir bar äpişgesinden bir täze täb aç,2461,epiphany,po/tk.po
+Load the given session file,2468,Berilen ötürşuk faýly aç,2469,epiphany,po/tk.po
+FILE,2472,FAÝL,2473,epiphany,po/tk.po
+Add a bookmark (don't open any window),2476,Nyşany ekle (hiç bir äpişgäni açma),2477,epiphany,po/tk.po
+Import bookmarks from the given file,2484,Berilen faýldan nyşanlary dahyl et,2485,epiphany,po/tk.po
+Blank page,2540,Boş sahypa,2541,epiphany,po/tk.po
+site,2544,meýdança,2545,epiphany,po/tk.po
+Loading %s...,2564,%s ýüklenýär...,2565,epiphany,po/tk.po
+_Bookmarks,2568,_Nyşanlar,2569,epiphany,po/tk.po
+_Go,2572,_Git,2573,epiphany,po/tk.po
+T_ools,2576,_Esbaplar,2577,epiphany,po/tk.po
+_Tabs,2580,_Täbler,2581,epiphany,po/tk.po
+_New Window,2585,_Täze Äpişge,2586,epiphany,po/tk.po
+Open a new window,2589,Täze bir äpişgäni aç,2590,epiphany,po/tk.po
+New _Tab,2593,Täze _täb,2594,epiphany,po/tk.po
+Open a new tab,2597,Täze bir täbi aç,2598,epiphany,po/tk.po
+_Open...,2601,_Aç...,2602,epiphany,po/tk.po
+Open a file,2605,Bir faýly aç,2606,epiphany,po/tk.po
+Save _As...,2609,_Aýry Gatd Et...,2610,epiphany,po/tk.po
+Save the current page,2613,Häzirki sahypany gaýd et,2614,epiphany,po/tk.po
+Print Set_up...,2617,_Çap Çaşyrymy...,2618,epiphany,po/tk.po
+Setup the page settings for printing,2621,Sahypa düzümlerini çap üçin çaşyr,2622,epiphany,po/tk.po
+Print Pre_view,2625,Çapyň Ön _Namaýyşy,2626,epiphany,po/tk.po
+Print preview,2629,Çapyň Ön _Namaýyşy,2630,epiphany,po/tk.po
+_Print...,2633,_Çap...,2634,epiphany,po/tk.po
+Print the current page,2637,Häzirki sahypany çap et,2638,epiphany,po/tk.po
+S_end To...,2641,_Iber...,2642,epiphany,po/tk.po
+Send a link of the current page,2645,Häzriki sahypanyň bir baglaýyşyny iber,2646,epiphany,po/tk.po
+Close this window,2649,Bu äpişgäni ýap,2650,epiphany,po/tk.po
+_Undo,2654,_Izine Al,2655,epiphany,po/tk.po
+Undo the last action,2658,Ahyrky emeli izine al,2659,epiphany,po/tk.po
+Re_do,2662,_Ýene Et,2663,epiphany,po/tk.po
+Redo the last undone action,2666,Ahyrky eneli ýene et,2667,epiphany,po/tk.po
+Select the entire page,2674,Sahypanyň baryny saýla,2675,epiphany,po/tk.po
+_Find...,2678,_Tap...,2679,epiphany,po/tk.po
+Find Ne_xt,2686,_Indikini Tap,2687,epiphany,po/tk.po
+Find Pre_vious,2694,_Öňkini Tap,2695,epiphany,po/tk.po
+P_ersonal Data,2702,_Şahsy Maglumat,2703,epiphany,po/tk.po
+T_oolbars,2710,_Esbap Zolaklar,2711,epiphany,po/tk.po
+Customize toolbars,2714,Esbap Zolaklary _Şahsy Et,2715,epiphany,po/tk.po
+P_references,2718,_Seçenekler,2719,epiphany,po/tk.po
+Configure the web browser,2722,Web ahtarçyny tanzim et,2723,epiphany,po/tk.po
+_Stop,2727,_Dur,2728,epiphany,po/tk.po
+_Reload,2735,_Ýene Ýükle,2736,epiphany,po/tk.po
+Display the latest content of the current page,2739,Häzirki sahypanyň iň söňki mazmunyny görkez,2740,epiphany,po/tk.po
+Zoom _In,2743,_Ulalt,2744,epiphany,po/tk.po
+Increase the text size,2747,Metin ululykyny köpelt,2748,epiphany,po/tk.po
+Zoom _Out,2751,_Kiçelt,2752,epiphany,po/tk.po
+Decrease the text size,2755,Metin ululykyny azalt,2756,epiphany,po/tk.po
+_Normal Size,2759,_Kadaly Ululyk,2760,epiphany,po/tk.po
+Use the normal text size,2763,Kadaly metin ululykyny ullan,2764,epiphany,po/tk.po
+Text _Encoding,2767,Metin _Ködleme,2768,epiphany,po/tk.po
+Change the text encoding,2771,Metin ködlemesini ewez et,2772,epiphany,po/tk.po
+_Page Source,2775,_Sahypa Çeşmesi,2776,epiphany,po/tk.po
+View the source code of the page,2779,Sahypanyň çeşme ködini görkez,2780,epiphany,po/tk.po
+_Add Bookmark...,2784,Bir Nyşan _Ekle...,2785,epiphany,po/tk.po
+Add a bookmark for the current page,2788,Häzirki sahypa üçin bir nyşan ekle,2789,epiphany,po/tk.po
+_Edit Bookmarks,2792,Nyşanlary _Editle,2793,epiphany,po/tk.po
+Open the bookmarks window,2796,Nyşanlar äpişgesini aç,2797,epiphany,po/tk.po
+_Back,2801,_Iz,2802,epiphany,po/tk.po
+Go to the previous visited page,2805,Öňki görilen sahypa git,2806,epiphany,po/tk.po
+_Forward,2809,_Ew,2810,epiphany,po/tk.po
+Go to the next visited page,2813,Indiki görilen sahypa git,2814,epiphany,po/tk.po
+Go up one level,2817,Bir dereje üste git,2818,epiphany,po/tk.po
+_Home,2821,_Öý,2822,epiphany,po/tk.po
+Go to the home page,2825,Öý sahypa git,2826,epiphany,po/tk.po
+_Location...,2829,_Ýer,2830,epiphany,po/tk.po
+Go to a specified location,2833,Bellenen ýere git,2834,epiphany,po/tk.po
+H_istory,2837,_Geçmiş,2838,epiphany,po/tk.po
+Open the history window,2841,Geçmiş äpişgeni aç,2842,epiphany,po/tk.po
+_Previous Tab,2846,_Öňki täb,2847,epiphany,po/tk.po
+Activate previous tab,2850,Öňki täbi janlaşdyr,2851,epiphany,po/tk.po
+_Next Tab,2854,_Indiki täb,2855,epiphany,po/tk.po
+Activate next tab,2858,Indiki täbi janlaşdyr,2859,epiphany,po/tk.po
+Move Tab _Left,2862,Täbi _Çepe Göçir,2863,epiphany,po/tk.po
+Move current tab to left,2866,Häzirki täbi çepe göçir,2867,epiphany,po/tk.po
+Move Tab _Right,2870,Täbi _Saga Göçir,2871,epiphany,po/tk.po
+Move current tab to right,2874,Häzirki täbi saga göçir,2875,epiphany,po/tk.po
+Display web browser help,2886,Web ahtarçynyň ýardamyny görkez,2887,epiphany,po/tk.po
+_Toolbar,2900,_Esbap Zolaky,2901,epiphany,po/tk.po
+Show or hide toolbar,2904,Esbap zolaky görkez ýädä ýygşyr,2905,epiphany,po/tk.po
+_Bookmarks Bar,2908,_Nyşanlar Zolaky,2909,epiphany,po/tk.po
+Show or hide bookmarks bar,2912,Nyşanlar zolaky görkez ýädä ýygşyr,2913,epiphany,po/tk.po
+St_atusbar,2916,_Durum Zolaky,2917,epiphany,po/tk.po
+Show or hide statusbar,2920,Durum zolaky görkez ýädä ýygşyr,2921,epiphany,po/tk.po
+_Save Background As...,2945,_Arkaplany Aýry Gaýd Et...,2946,epiphany,po/tk.po
+Add Boo_kmark...,2949,Bir _Nyşan Ekle...,2950,epiphany,po/tk.po
+_Open Link,2959,Baglaýyşy _Aç,2960,epiphany,po/tk.po
+Open Link in _New Window,2963,Baglaýyşy _Täze Äpişgede Aç,2964,epiphany,po/tk.po
+Open Link in New _Tab,2967,Baglaýyşy Täze _Täbde Aç,2968,epiphany,po/tk.po
+_Save Link As...,2975,Baglaýyşy _Aýry Gaýd Et...,2976,epiphany,po/tk.po
+_Bookmark Link...,2979,_Baglaýyşy Nyşanla...,2980,epiphany,po/tk.po
+_Copy Link Address,2983,Baglaýyş Adresini _Nusgala,2984,epiphany,po/tk.po
+Open _Image,2988,_Resimi _Aç,2989,epiphany,po/tk.po
+_Save Image As...,2992,Resimi _Aýry Gaýd Et...,2993,epiphany,po/tk.po
+_Use Image As Background,2996,Resimi Arkaplan Üçin Ullan,2997,epiphany,po/tk.po
+Copy I_mage Address,3000,_Resim Adresini Nusgala,3001,epiphany,po/tk.po
+Close _Document,3008,Senedi _Ýap,3009,epiphany,po/tk.po
+"If you close the document anyway, you will lose that information.",3016,"Eger siz senedi ýapsaňyz, maglumatlary ýitiresrsiňiz",3017,epiphany,po/tk.po
+Open,3020,Aç,3021,epiphany,po/tk.po
+Save As,3024,Aýry Gaýd Et,3025,epiphany,po/tk.po
+Bookmark,3028,Nyşan,3029,epiphany,po/tk.po
+Broken,3032,Dewik,3033,epiphany,po/tk.po
+Medium,3036,Orta,3037,epiphany,po/tk.po
+Low,3040,Az,3041,epiphany,po/tk.po
+High,3044,Beýik,3045,epiphany,po/tk.po
+Security level: %s\n%s,3049,Emnyýet derejesi: %s\n%s,3052,epiphany,po/tk.po
+Security level: %s,3058,Emnyýet derejesi: %s,3059,epiphany,po/tk.po
+Name,3073,Ad,3074,epiphany,po/tk.po
+Host,3077,Hojaýyn,3078,epiphany,po/tk.po
+User Name,3081,Ullançy Ady,3082,epiphany,po/tk.po
+Cookie Properties,3085,Köke häsiýetleri,3086,epiphany,po/tk.po
+Content:,3089,Mazmun:,3090,epiphany,po/tk.po
+Path:,3093,Ýöl:,3094,epiphany,po/tk.po
+Send for:,3097,_Iber:,3098,epiphany,po/tk.po
+End of current session,3113,Häzirki ötürçsükiň söňi,3114,epiphany,po/tk.po
+Save Link As,3121,Baglaýyşy Aýry Gaýd Et,3122,epiphany,po/tk.po
+Save Image As,3125,Resimi Aýry Gaýd Et,3126,epiphany,po/tk.po
+Save Background As,3129,Arkaplany Aýry Gaýd Et,3130,epiphany,po/tk.po
+First,3133,Ilkinji,3134,epiphany,po/tk.po
+Go to the first page,3137,Ilkinji sahypa git,3138,epiphany,po/tk.po
+Last,3141,_Soňky,3142,epiphany,po/tk.po
+Go to the last page,3145,Söňki sahypa git,3146,epiphany,po/tk.po
+Previous,3149,Öňki,3150,epiphany,po/tk.po
+Go to the previous page,3153,Öňki sahypa git,3154,epiphany,po/tk.po
+Next,3157,Indiki,3158,epiphany,po/tk.po
+Go to next page,3161,Indiki sahypa git,3162,epiphany,po/tk.po
+Close,3165,Ýap,3166,epiphany,po/tk.po
+Close print preview,3169,Çapyň ön namaýyşyny ýap,3170,epiphany,po/tk.po
+System language,3180,Sistem dilleri,3181,epiphany,po/tk.po
+Afrikaans,3184,Gün orta afryka dili,3185,epiphany,po/tk.po
+Albanian,3188,Albanyça,3189,epiphany,po/tk.po
+Azerbaijani,3192,Azarbaýjan,3193,epiphany,po/tk.po
+Basque,3196,Baskça,3197,epiphany,po/tk.po
+Breton,3200,Bretonça,3201,epiphany,po/tk.po
+Bulgarian,3204,Bülgarça,3205,epiphany,po/tk.po
+Byelorussian,3208,Belarusça,3209,epiphany,po/tk.po
+Catalan,3212,Katalança,3213,epiphany,po/tk.po
+Croatian,3216,Korwatça,3217,epiphany,po/tk.po
+Czech,3220,Çekçe,3221,epiphany,po/tk.po
+Danish,3224,Danmarkça,3225,epiphany,po/tk.po
+Dutch,3228,Höländçe,3229,epiphany,po/tk.po
+English,3232,Ingilisçä,3233,epiphany,po/tk.po
+Estonian,3240,Estonça,3241,epiphany,po/tk.po
+Faeroese,3244,Faroese dili,3245,epiphany,po/tk.po
+Finnish,3248,Finçe,3249,epiphany,po/tk.po
+French,3252,Fransizçe,3253,epiphany,po/tk.po
+Galician,3256,Galysya almançasy,3257,epiphany,po/tk.po
+German,3260,Almança,3261,epiphany,po/tk.po
+Hungarian,3264,Makarça,3265,epiphany,po/tk.po
+Icelandic,3268,Isländçe,3269,epiphany,po/tk.po
+Italian,3280,Italýança,3281,epiphany,po/tk.po
+Norwegian/Nynorsk,3300,Nörveççe/Nynorsk,3301,epiphany,po/tk.po
+Norwegian/Bokmal,3304,Nörveççe/Bokmal,3305,epiphany,po/tk.po
+Norwegian,3308,Nörveççe,3309,epiphany,po/tk.po
+Polish,3312,Polonýaça,3313,epiphany,po/tk.po
+Portuguese,3316,Portugalça,3317,epiphany,po/tk.po
+Portuguese of Brazil,3320,Braziliýa portugalçasi,3321,epiphany,po/tk.po
+Serbian,3332,Serbçe,3333,epiphany,po/tk.po
+Spanish,3344,Ispanýolça,3345,epiphany,po/tk.po
+Swedish,3348,Iswetçe,3349,epiphany,po/tk.po
+Vietnamese,3352,Wýetnamça,3353,epiphany,po/tk.po
+Custom [%s],3361,Şahsy [%s],3362,epiphany,po/tk.po
+Home,3369,Öy,3370,epiphany,po/tk.po
+Desktop,3373,Desktap,3374,epiphany,po/tk.po
+Select a directory,3377,Bir haltany saýla,3378,epiphany,po/tk.po
+Back,3381,Iz,3382,epiphany,po/tk.po
+Go back,3385,Ize git,3386,epiphany,po/tk.po
+Forward,3389,Ew,3390,epiphany,po/tk.po
+Go forward,3393,Ewe git,3394,epiphany,po/tk.po
+Up,3397,Üst,3398,epiphany,po/tk.po
+Go up,3401,Üste git,3402,epiphany,po/tk.po
+Zoom,3409,Ulaldyş,3410,epiphany,po/tk.po
+Adjust the text size,3413,Metin ululykyny tenzim et,3414,epiphany,po/tk.po
+Go to the address entered in the address entry,3421,Adres girişinde girdirilen adrese git,3422,epiphany,po/tk.po
+Toolbar Editor,3429,Esbap Zolakynyň Editçisi,3430,epiphany,po/tk.po
+_Add a New Toolbar,3433,Täze bir Esbap Zolaky _Goş,3434,epiphany,po/tk.po
+A GNOME browser based on Mozilla,3442,Mozilla-ga bagly GNOME ahtarçysy,3443,epiphany,po/tk.po
+Create Archive...,23,Arşiw Bejer...,24,file-roller,po/tk.po
+Extract Here,28,Bu Ýerde Aç,29,file-roller,po/tk.po
+A_vailable application:,51,_Bar program:,52,file-roller,po/tk.po
+C_reate,55,_Bejer,56,file-roller,po/tk.po
+Create Archive,59,Arşiw Bejer,60,file-roller,po/tk.po
+Delete,63,Poz,64,file-roller,po/tk.po
+Load Options,67,Ýüklemek Opşenler,68,file-roller,po/tk.po
+Location,71,Ýer,72,file-roller,po/tk.po
+Location:,76,Ýer:,77,file-roller,po/tk.po
+Open Files,80,Faýllary Aç,81,file-roller,po/tk.po
+R_ecent applications:,88,_Öňki programler:,89,file-roller,po/tk.po
+_All files,92,_Ehli faýllar,93,file-roller,po/tk.po
+_Application:,96,_Program:,97,file-roller,po/tk.po
+_Archive:,100,_Arşiw:,101,file-roller,po/tk.po
+_Files:,104,_Faýllar:,105,file-roller,po/tk.po
+_Selected files,112,_Saýlanan faýllar,113,file-roller,po/tk.po
+example: *.txt; *.doc,116,mysal: *.txt; *.doc,117,file-roller,po/tk.po
+Destination folder,120,Maksad Halta,121,file-roller,po/tk.po
+Extract,124,Aç,125,file-roller,po/tk.po
+Archive Manager,135,Arşiw Mudyry,136,file-roller,po/tk.po
+Create and modify an archive,139,Bir arşiwi bejerip üýtget,140,file-roller,po/tk.po
+Automatic,162,Otomatik,163,file-roller,po/tk.po
+Tar uncompressed (.tar),191,Sykylmadyk Tar (.tar),192,file-roller,po/tk.po
+Tar compressed with bzip (.tar.bz),195,Bzip bilen sykylan Tar (.tar.bz),196,file-roller,po/tk.po
+Tar compressed with bzip2 (.tar.bz2),199,Bzip2 bilen sykylan Tar (.tar.bz2),200,file-roller,po/tk.po
+Tar compressed with gzip (.tar.gz),203,Gzip bilen sykylan Tar (.tar.gz),204,file-roller,po/tk.po
+Tar compressed with lzop (.tar.lzo),207,Lzop bilen sykylan Tar (.tar.lzo),208,file-roller,po/tk.po
+Tar compressed with compress (.tar.Z),211,Uniks kompresi bilen sykylan Tar (.tar.Z),212,file-roller,po/tk.po
+Could not create the archive,235,Arşiwi bejerip bolmady,236,file-roller,po/tk.po
+You have to specify an archive name.,240,Siz bir arşiw adyny belli etmeli,241,file-roller,po/tk.po
+You don't have permission to create an archive in this folder,244,Siz bu haltada arşiw bejermek üçin ejazaňyz ýok,245,file-roller,po/tk.po
+Archive type not supported.,249,Arşiw hili gollanmaýa.,250,file-roller,po/tk.po
+The archive already exists.  Do you want to overwrite it?,253,Arşiw öňden bar. Üstine ýazjakmy?,254,file-roller,po/tk.po
+Overwrite,257,Üstine Ýaz,258,file-roller,po/tk.po
+Could not delete the old archive.,261,Gadymky arşiwi pozyp bolmady.,262,file-roller,po/tk.po
+New,265,Täze,266,file-roller,po/tk.po
+All archives,269,Ehli arşiwler,270,file-roller,po/tk.po
+All files,273,Ehli faýllar,274,file-roller,po/tk.po
+Archive type:,277,Arşiw hili:,278,file-roller,po/tk.po
+Open,281,Aç,282,file-roller,po/tk.po
+Could not save the archive,285,Arşiwi gaaýd edip bolmady,286,file-roller,po/tk.po
+Save,289,Gaýd Et,290,file-roller,po/tk.po
+Could not display help,297,Ýardamy görkezip bolmady,298,file-roller,po/tk.po
+File Roller,306,Faýll Roler,307,file-roller,po/tk.po
+An archive manager for GNOME.,310,GNOME üçin bir arşiw müdiri,311,file-roller,po/tk.po
+"You don't have the right permissions to read files from folder \""%s\""",316,"Siz \""%s\"" haltadan faýllary okamak üçin ejazaňyz ýok",317,file-roller,po/tk.po
+Could not add the files to the archive,322,Faýllary arşiwe ekläp bolmady,323,file-roller,po/tk.po
+Add Files,326,Faýýlarey Ekle,327,file-roller,po/tk.po
+_Add only if newer,330,Diňe täze faýllary _ekle,331,file-roller,po/tk.po
+Add a Folder,334,Bir halta ekle,335,file-roller,po/tk.po
+example: *.o; *.bak,346,mysal: *.o; *.bak,347,file-roller,po/tk.po
+_Load Options,358,_Ýüklemek Opşenler,359,file-roller,po/tk.po
+Sa_ve Options,362,_Gaýd Etmek Opşenler,363,file-roller,po/tk.po
+Save Options,366,Gaýd Etmek Opşenler,367,file-roller,po/tk.po
+Options Name:,370,Opşenler Ady:,371,file-roller,po/tk.po
+"The name \""%s\"" is not valid because it cannot contain the characters: %s\n\n%s",375,"\""%s\"" ad maýyp. Onyň içinde bu karkterler bolmaly däl: %s\n\n%s",379,file-roller,po/tk.po
+Please use a different name.,386,Başga bir ad ullanyň,387,file-roller,po/tk.po
+Create _Folder,405,_Halta Bejer,406,file-roller,po/tk.po
+Could not create the destination folder: %s.,410,Maksad haltany bejermek bolmady: %s.,411,file-roller,po/tk.po
+Archive not created,414,Arşiw bejerilmedi,415,file-roller,po/tk.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",434,"Siz bu \""%s\"" haltada arşiwlary açmak üçin ejazaňyz ýok",436,file-roller,po/tk.po
+Files,439,Faýllar,440,file-roller,po/tk.po
+Actions,447,Emller,448,file-roller,po/tk.po
+R_e-create folders,451,Haltalary _ýene bejer,452,file-roller,po/tk.po
+Over_write existing files,455,Öň bar faýllaryň üstine ýaz,456,file-roller,po/tk.po
+Do not e_xtract older files,459,Gadym faýllar _açma,460,file-roller,po/tk.po
+_Open destination folder after extraction,463,Arşiw açylan soňra maksad haltany _aç,464,file-roller,po/tk.po
+Path:,467,Mesir:,468,file-roller,po/tk.po
+Name:,471,Ad:,472,file-roller,po/tk.po
+%s Properties,476,%s hasyýatlar,477,file-roller,po/tk.po
+Modified on:,480,Üýtgedi:,481,file-roller,po/tk.po
+Archive size:,488,Arşiw ululyky:,489,file-roller,po/tk.po
+Content size:,492,Muzmun ululyky:,493,file-roller,po/tk.po
+Compression ratio:,496,Sykmak Derjesi:,497,file-roller,po/tk.po
+Number of files:,500,Faýllaryň sany:,501,file-roller,po/tk.po
+Unknown type,504,Natanyş hil,505,file-roller,po/tk.po
+The file does not exist.,512,Faşl ýok.,513,file-roller,po/tk.po
+Adding file: ,516,Faýl eklenýä: ,517,file-roller,po/tk.po
+Removing file: ,520,Faýl çykarylýa: ,521,file-roller,po/tk.po
+Deleting files from archive,524,Faýllar arşiwdan pozylýa,525,file-roller,po/tk.po
+Extracting file: ,528,Faýl açylýä: ,529,file-roller,po/tk.po
+Recompressing archive,532,Faýl ýene sykylýa,533,file-roller,po/tk.po
+Decompressing archive,536,Faýl sykylykdan çykýa,537,file-roller,po/tk.po
+_Add,540,_Ekle,541,file-roller,po/tk.po
+_Extract,544,_Aç,545,file-roller,po/tk.po
+_View,548,_Görkez,549,file-roller,po/tk.po
+Add files to the specified archive and quit the program,557,Faýllary berilen arşiwe ekle we programden çyk,558,file-roller,po/tk.po
+ARCHIVE,561,ARŞIW,562,file-roller,po/tk.po
+Add files asking the name of the archive and quit the program,565,Arşiw adyny sorap faýllary oňa ekle we programden çyk,566,file-roller,po/tk.po
+Extract archives to the specified folder and quit the program,569,Berilen halta içine arşiwleri aç we programden çyk,570,file-roller,po/tk.po
+FOLDER,573,HALTA,574,file-roller,po/tk.po
+Extract archives asking the destination folder and quit the program,577,Maksad haltanyň adyny sorap arşiwleri oňa aç we programden çyk,578,file-roller,po/tk.po
+Default folder to use for the '--add' and '--extract' commands,588,'--add' we '--extract' dessurlar üçin öň bellenen halta,589,file-roller,po/tk.po
+Create destination folder without asking confirmation,592,Maksad haltany soragsyz bejer,593,file-roller,po/tk.po
+_Archive,596,_Arşiw,597,file-roller,po/tk.po
+_Arrange Files,608,_Faýllary Tertible,609,file-roller,po/tk.po
+Open R_ecent,612,_Öňkini Aç,613,file-roller,po/tk.po
+Information about the program,616,Program barda maglumat,617,file-roller,po/tk.po
+_Add Files...,620,Faýllary _Ekle...,621,file-roller,po/tk.po
+Add files to the archive,624,Faýllary arşiwe ekle,625,file-roller,po/tk.po
+Add,628,Ekle,629,file-roller,po/tk.po
+Add a _Folder...,632,Bir _Haltany Ekle...,633,file-roller,po/tk.po
+Add a folder to the archive,636,Bir haltany arşiwe ekle,637,file-roller,po/tk.po
+Close the current archive,640,Häzirki arşiwi bagla,641,file-roller,po/tk.po
+Copy the selection,648,Saýlawy nusgala,649,file-roller,po/tk.po
+Cut the selection,652,Saýlawy kes,653,file-roller,po/tk.po
+Delete the selection from the archive,656,Saýlawy arşiwde n poz,657,file-roller,po/tk.po
+Dese_lect All,660,Ehlisini _Saýlawdan Çykar,661,file-roller,po/tk.po
+Deselect all files,664,Ehli faýllar saýlawdan çykar,665,file-roller,po/tk.po
+_Extract...,668,_Aç...,669,file-roller,po/tk.po
+Extract files from the archive,672,Faýllary arşiwden aç,673,file-roller,po/tk.po
+Create a new archive,684,Täze arşiw bejer,685,file-roller,po/tk.po
+Open archive,688,Arşiwi aç,689,file-roller,po/tk.po
+Open Fi_les...,692,Faýllar _Aç...,693,file-roller,po/tk.po
+Open selected files with an application,696,Saýlanan faýllary bir program bilen aç,697,file-roller,po/tk.po
+Show archive properties,712,Arşiw hasyzatlarny görkez,713,file-roller,po/tk.po
+Quit the application,716,Programden çyk,717,file-roller,po/tk.po
+Reload current archive,720,Häzirki arşiwi ýene ýükle,721,file-roller,po/tk.po
+_Rename...,724,_Adyny Eweý ed...,725,file-roller,po/tk.po
+Rename the selection,728,Saylawyň adyny ewez ed,729,file-roller,po/tk.po
+Save the current archive with a different name,732,Häzirki arşiwi başga ad bilen gaýd ed,733,file-roller,po/tk.po
+Select _All,736,_Ehlisini Saýla,737,file-roller,po/tk.po
+Select all files,740,Ehli faýllary saýla,741,file-roller,po/tk.po
+Test whether the archive contains errors,752,Arşiwiň ne üçin hatasy bolmagyny barla,753,file-roller,po/tk.po
+_View File,756,_Faýllar Görkez,757,file-roller,po/tk.po
+View the selected file,760,Saýlanan faýllary gorkez,761,file-roller,po/tk.po
+_Toolbar,764,_Esbap zolaky,765,file-roller,po/tk.po
+View the main toolbar,768,Esli esbap zolaky görkez,769,file-roller,po/tk.po
+_Reversed Order,780,_Tersine,781,file-roller,po/tk.po
+Reverse the list order,784,Listi tersine tertible,785,file-roller,po/tk.po
+View All _Files,788,Ehli _Faýllary Görkez,789,file-roller,po/tk.po
+by _Name,796,_Ada görä,797,file-roller,po/tk.po
+Sort file list by name,800,Faýllary ada görä tertible,801,file-roller,po/tk.po
+by _Size,804,_Ululyka görä,805,file-roller,po/tk.po
+Sort file list by file size,808,Faýllary ululyka görä tertible,809,file-roller,po/tk.po
+by T_ype,812,_Hile görä,813,file-roller,po/tk.po
+Sort file list by type,816,Faýllar hile görä tertible,817,file-roller,po/tk.po
+by _Date modified,820,_Taryha görä,821,file-roller,po/tk.po
+Sort file list by modification time,824,Faýllary taryha görä tertible,825,file-roller,po/tk.po
+by _Location,828,_Ýere görä,829,file-roller,po/tk.po
+Sort file list by location,832,Faýllary ýerlerne görä tertible,833,file-roller,po/tk.po
+Folder,836,Halta,837,file-roller,po/tk.po
+[read only],840,[diňe okamak mümkin],841,file-roller,po/tk.po
+%d file (%s),845,%d faýl (%s),847,file-roller,po/tk.po
+%d file (%s),845,%d sany faýl (%s),848,file-roller,po/tk.po
+%d file selected (%s),852,%d saýlanan faýl (%s),854,file-roller,po/tk.po
+%d file selected (%s),852,%d sany saýlanan faýl (%s),855,file-roller,po/tk.po
+Reading archive,858,Arşiw okalýa,859,file-roller,po/tk.po
+Adding files to archive,862,Faýllar arşiwa eklenýä,863,file-roller,po/tk.po
+Testing archive,870,Arşiw barlanýä,871,file-roller,po/tk.po
+wait please...,878,bir az dur...,879,file-roller,po/tk.po
+"Could not display the folder \""%s\""",883,"\""%s\"" halta görkezilip bolmady",884,file-roller,po/tk.po
+An error occurred while loading the archive.,907,Arşiwi ýüklemekde hata boldy,908,file-roller,po/tk.po
+An error occurred while deleting files from the archive.,911,Faýllary arşiwden pozmakda hata boldy,912,file-roller,po/tk.po
+An error occurred while adding files to the archive.,915,Faýllary arşiwe eklemekde hata boldy,916,file-roller,po/tk.po
+An error occurred while testing archive.,919,Arşiw barlanyp durka hata boldy.,920,file-roller,po/tk.po
+Command not found.,923,Dessur tapylmady.,924,file-roller,po/tk.po
+Test Result,931,Netijäni Barla,932,file-roller,po/tk.po
+You don't have the right permissions.,935,Siziň gereklei ejazaňyz ýok.,936,file-roller,po/tk.po
+You can't add an archive to itself.,939,Siz bir arşiwi özine eklmek başarmaýarsyňyz.,940,file-roller,po/tk.po
+Do you want to add this file to the current archive or open it as a new archive?,943,Siz bu faýly häzirki arşiwe eklejek mi ýä ony täze bir arşiw edip açjak mi?,946,file-roller,po/tk.po
+Do you want to create a new archive with these files?,950,Bu faýllar bilen täze bir arşiw bejerjekmi?,951,file-roller,po/tk.po
+Create _Archive,954,_Arşiw Bejer,955,file-roller,po/tk.po
+Size,958,Ululyk,959,file-roller,po/tk.po
+Type,962,Hil,963,file-roller,po/tk.po
+Date Modified,966,Üýtgediki Poz,967,file-roller,po/tk.po
+Name,970,Ad,971,file-roller,po/tk.po
+Open '%s',975,'%s'-i Aç,976,file-roller,po/tk.po
+Go to the previous visited location,979,Öňki görilen ýere git,980,file-roller,po/tk.po
+Go to the next visited location,983,Indiki görilen ýere git,984,file-roller,po/tk.po
+Go up one level,987,Bit derje üste git,988,file-roller,po/tk.po
+Go to the home location,991,Öýe git,992,file-roller,po/tk.po
+"Could not open \""%s\""",1001,"\""%s\"" açmak bolmady",1002,file-roller,po/tk.po
+"Could not save the archive \""%s\""",1006,"\""%s\"" arşiwi gaýd edip bolmady",1007,file-roller,po/tk.po
+The new name is equal to the old one.,1014,Täze ad gadymky ad bilen meňzeş.,1015,file-roller,po/tk.po
+Rename,1034,Adyny Ewez Ed,1035,file-roller,po/tk.po
+New folder name,1038,Taze halta ady,1039,file-roller,po/tk.po
+New file name,1042,Taze faýl ady,1043,file-roller,po/tk.po
+_Rename,1046,_Adyny Ewez Ed,1047,file-roller,po/tk.po
+Could not rename the folder,1050,Haltanyň adyny ewez etmek bolmady,1051,file-roller,po/tk.po
+Could not rename the file,1054,Faýlyň adyny ewez etmek bolmady,1055,file-roller,po/tk.po
+Paste Selection,1058,Saýlawy Ýabşyr,1059,file-roller,po/tk.po
+_Paste,1062,_Ýabşyr,1063,file-roller,po/tk.po
+Add files to an archive,1066,Faýllary bir arşiwa ekle,1067,file-roller,po/tk.po
+Extract archive,1070,Arşiwi aç,1071,file-roller,po/tk.po
+Gedit View,23,Gedit Görnöşi,24,gedit,po/tk.po
+Gedit View.,27,Gedit Görnöşi.,28,gedit,po/tk.po
+Gedit viewer factory,31,Gedit namaýyşçysy karhanasy,32,gedit,po/tk.po
+Source,36,Çeşme,37,gedit,po/tk.po
+gedit application,40,gedit programi,41,gedit,po/tk.po
+gedit automation factory,44,gedit otomasýon karhanasy,45,gedit,po/tk.po
+Edit text files,48,Metin faýllary editle,49,gedit,po/tk.po
+Text Editor,52,Metin Editçi,53,gedit,po/tk.po
+"A custom font that will be used for the editing area. This will only take effect if the \""Use Default Font\"" option is turned off.",56,"Edit meýdançasynda ullanynljak şahsy kalam. Bu eger \""Use Default Font\"" söndürilen bölsa eser goyar.",59,gedit,po/tk.po
+Auto Detected Encodings,69,Otomatik Aňlanan Ködlemeler,70,gedit,po/tk.po
+Auto Save,73,Otomatik Gaýd Et,74,gedit,po/tk.po
+Auto Save Interval,77,Otomatik Gaýd Etmeniň Aralygy,78,gedit,po/tk.po
+Auto indent,81,Otomatik gaýşart,82,gedit,po/tk.po
+Background Color,85,Arkaplan Renki,86,gedit,po/tk.po
+"Background color for selected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",89,"Edit meýdançasynda saýlanan metin renki. Bu eger \""Use Default Colors\"" söndürilen bölsa eser goyar.",92,gedit,po/tk.po
+"Background color for unselected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",97,"Edit meýdançasynda saýlanmadik metin renki. Bu eger \""Use Default Colors\"" söndürilen bölsa eser goyar.",100,gedit,po/tk.po
+Body Font for Printing,109,Çap üçin Beden Kalamy,110,gedit,po/tk.po
+Create Backup Copies,113,Zapas Nusgasyny Bejer,114,gedit,po/tk.po
+Display Line Numbers,117,Hat Sanlaryny Görköz,118,gedit,po/tk.po
+Display Right Margin,121,Sag Gabdaly Görköz,122,gedit,po/tk.po
+Editor Font,125,Editçi Kalamy,126,gedit,po/tk.po
+Enable Syntax Highlighting,129,Sintaks Ýagtylamagny Mümkin Et,130,gedit,po/tk.po
+Encodings shown in menu,133,Menüde görközilen ködlemeler,134,gedit,po/tk.po
+"Foreground color for selected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",143,"Edit meýdançasynda saýlanan metiniň öňplan renki. Bu eger \""Use Default Colors\"" söndürilen bölsa eser goyar.",146,gedit,po/tk.po
+"Foreground color for the unselected text in the editing area. This will only take effect if the \""Use Default Colors\"" option is turned off.",151,"Edit meýdançasynda saýlanmadyk metiniň öňplan renki. Bu eger \""Use Default Colors\"" söndürilen bölsa eser goyar.",154,gedit,po/tk.po
+Header Font for Printing,159,Çap üçin Başlyg Kalamy,160,gedit,po/tk.po
+"If this value is 0, then no line numbers will be inserted when printing a document. Otherwise, gedit will print line numbers every such number of lines.",171,"Eger bu mykdar 0 bolsa, çapda hat sanlary çaplanmar. Ýogsa gedit her hat üçin hat sany çaplar.",175,gedit,po/tk.po
+Insert spaces,180,Seleň Girdir,181,gedit,po/tk.po
+Line Number Font for Printing,184,Çap üçin Hat Sanynyň Kalamy,185,gedit,po/tk.po
+Line Wrapping Mode,188,Hat Dolomak Modi,189,gedit,po/tk.po
+List of encodings shown in Character Coding menu in open/save file selector. Only recognized encodings are used.,198,Aç/gaýd et  saýlawçysynda görkezilen Karakter Ködlemeler. Diňe tanişkodlemeler ullanylar.,201,gedit,po/tk.po
+Maximum Recent Files,210,Ýakynda Ullanylan iň kop Faýllar,211,gedit,po/tk.po
+"Number of minutes after which gedit will automatically save modified files. This will only take effect if the \""Auto Save\"" option is turned on.",248,"Gedit faýllary üýtgemekinden näçe minut soň otomatik gaýd etsin. Bu eger \""Auto Save\"" işeldilen bölsa eser goyar.",251,gedit,po/tk.po
+Print Header,256,Başlygy Çapla,257,gedit,po/tk.po
+Print Line Numbers,260,Hat Sanlarny Çapla,261,gedit,po/tk.po
+Print Syntax Highlighting,264,Sintaks Ýagtylygny Çapla,265,gedit,po/tk.po
+Printing Line Wrapping Mode,268,Hat Dolamak Modini Çaplamak,269,gedit,po/tk.po
+Right Margin Position,272,Sag Gabdal Jaýy,273,gedit,po/tk.po
+Selected Text Color,304,Saýlanan Metiniň Renki,305,gedit,po/tk.po
+Selection Color,308,Saýlaw Renki,309,gedit,po/tk.po
+"Sorted list of encodings used by gedit for auto-detecting the encoding of a file. \""CURRENT\"" is the current locale encoding. Only recognized encodings are used.",312,"Gedit bir faýlyň kodlemesini otomatik aňlamak üçin ullanýan tertiblenen ködleme listi. \""CURRENT\"" häzirki ýerleşdirim kodlemedir. Diňe taniş ködlemeler ullanylar.",316,gedit,po/tk.po
+"Specifies how to wrap long lines for printing. Use \""GTK_WRAP_NONE\"" for no wrapping, \""GTK_WRAP_WORD\"" for wrapping at word boundaries, and \""GTK_WRAP_CHAR\"" for wrapping at individual character boundaries. Note that the values are case-sensitive, so make sure they appear exactly as mentioned here.",322,"Çap üçin uzin hat lariň nähilli dolanşi. dolanmasyzlyk üçin \""GTK_WRAP_NONE\""'den, sözleriň söňinda dolamak üçin \""GTK_WRAP_WORD\""'den, we bellei harplariň söňinda dolamak üçin \""GTK_WRAP_CHAR\""'den ullanyň. Mykdarlar kiçi/beýik harpa eserdeň, onsoň harplary edil bu ýerde agzalan ýaly görünşine ytmynan tapiň.",328,gedit,po/tk.po
+"Specifies how to wrap long lines in the editing area. Use \""GTK_WRAP_NONE\"" for no wrapping, \""GTK_WRAP_WORD\"" for wrapping at word boundaries, and \""GTK_WRAP_CHAR\"" for wrapping at individual character boundaries. Note that the values are case-sensitive, so make sure they appear exactly as mentioned here.",336,"Edit meýdançasynda uzin hat lariň nähilli dolanşi. dolanmasyzlyk üçin \""GTK_WRAP_NONE\""'den, sözleriň söňinda dolamak üçin \""GTK_WRAP_WORD\""'den, we bellei harplariň söňinda dolamak üçin \""GTK_WRAP_CHAR\""'den ullanyň. Mykdarlar kiçi/beýik harpa eserdeň, onsoň harplary edil bu ýerde agzalan ýaly görünşine ytmynan tapiň.",342,gedit,po/tk.po
+Specifies the font to use for a document's body when printing documents.,350,Sened çaplananda oniň beden üçin ullanyljak kalamy takyklaýar.,352,gedit,po/tk.po
+"Specifies the font to use for line numbers when printing. This will only take effect if the \""Print Line Numbers\"" option is non-zero.",362,"Çapda hat sanlaary üçin kalamy takyklaýar. Bu eger \""Print Line Numbers\"" seçgisi 0 bölsa eser goyar.",365,gedit,po/tk.po
+"Specifies the font to use for page headers when printing a document. This will only take effect if the \""Print Header\"" option is turned on.",380,"Sened çaplananda oniň sahypalarniň başlygy üçin ullanyljak kalamy takyklaýar.Bu eger \""Print Header\"" işledilen bölsa eser goyar.",383,gedit,po/tk.po
+"Specifies the maximum number of recently opened files that will be displayed in the \""Recent Files\"" submenu.",398,"\""Ýakynda Ullanylan Faýllar\"" submenüsinda ýakynda ullanylan faýllariň iň kop görköziljek sanyny takyklaýar.",401,gedit,po/tk.po
+Specifies the number of spaces that should be displayed instead of Tab characters.,406,Täb karakterleriň ýerine görközilmeli seleňleri takyklaýar.,409,gedit,po/tk.po
+Specifies the position of the right margin.,412,Sag gabdaliň jaýyny takyklaýar.,413,gedit,po/tk.po
+Status Bar is Visible,416,Durum Zolaky Görkezilsin,417,gedit,po/tk.po
+"Style for the toolbar buttons. Possible values are \""GEDIT_TOOLBAR_SYSTEM\"" to use the system's default style, \""GEDIT_TOOLBAR_ICONS\"" to display icons only, \""GEDIT_TOOLBAR_ICONS_AND_TEXT\"" to display both icons and text, and \""GEDIT_TOOLBAR_ICONS_BOTH_HORIZ\"" to display prioritized text beside icons. Note that the values are case-sensitive, so make sure they appear exactly as mentioned here.",420,"Esbap zolak batunlarnyň biçimi. Mümkin mykdarlar: \""GEDIT_TOOLBAR_SYSTEM\"" sistemiň ön bellenen biçiminden ullanmak üçin, \""GEDIT_TOOLBAR_ICONS\"" diňe tymsallary görkezmek üçin, \""GEDIT_TOOLBAR_ICONS_AND_TEXT\"" hem tymsal we hem metini görkezmek üçin, we \""GEDIT_TOOLBAR_ICONS_BOTH_HORIZ\"" möhüm tymsallariň ýanynda metini görkezmek üçin. Mykdarlar kiçi/beýik harpa eserdeň, onsoň harplary edil bu ýerde agzalan ýaly görünşine ytmynan tapiň.",427,gedit,po/tk.po
+Tab Size,436,Täb Ululyky,437,gedit,po/tk.po
+Text Color,440,Metin Renki,441,gedit,po/tk.po
+Toolbar Buttons Style,444,Esbap zolak Batunlarnyň Biçimi,445,gedit,po/tk.po
+Toolbar is Visible,448,Esbap zolaky Görkezilsin,449,gedit,po/tk.po
+Use Default Colors,457,Ön bellenen Renklerden Ullan,458,gedit,po/tk.po
+Use Default Font,461,Ön bellenen Kalamdan Ullan,462,gedit,po/tk.po
+"Whether gedit should automatically save modified files after a time interval. You can set the time interval with the \""Auto Save Interval\"" option.",465,"Geditiň üýgetedik faýllary bir zamandan soň otomatik gaýd edişi. Siz zaman aralygyny \""Otomatik Gaýd etmegiň Aralygy\"" seçgisi bilen düzip bilersiňiz.",469,gedit,po/tk.po
+"Whether gedit should create backup copies for the files it saves. You can set the backup file extension with the \""Backup Copy Extension\"" option.",474,"Geditiň gaýd eden faýllary üçin zapas bejerşi. Siz zapas faýllarynyň ??? \""Zapas Nusga ???\"" seçgisi bilen düzip bilersiňiz.",477,gedit,po/tk.po
+Whether gedit should display line numbers in the editing area.,482,Geditiň hat sanlaryny edit meýdançasynda görkezşi.,483,gedit,po/tk.po
+Whether gedit should display the right margin in the editing area.,486,Geditiň sag gabdaly edit meýdançasynda görkezşi.,487,gedit,po/tk.po
+Whether gedit should enable auto indentation.,490,Geditiň otomatik gaýşartmaky mümkin edşi.,491,gedit,po/tk.po
+Whether gedit should enable syntax highlighting.,494,Geditiň sintaksy ýagtylamaky mümkin edşi.,495,gedit,po/tk.po
+Whether gedit should include a document header when printing documents.,508,Geditiň çapda sened başlygyny girişdirişi.,509,gedit,po/tk.po
+Whether gedit should insert spaces instead of tabs.,512,Geditiň täb karakterlerniň ýerine seleň girdirşi.,513,gedit,po/tk.po
+Whether gedit should print syntax highlighting when printing documents.,516,Geditiň sened aplananda syntaks ýagtylygny çaplaşi.,517,gedit,po/tk.po
+Whether the status bar at the bottom of editing windows should be visible.,520,Durum zolaky etitlenýän äpişge siniň astynda görkezilşi.,522,gedit,po/tk.po
+Whether the toolbar should be visible in editing windows.,525,Esbap zolaky etitlenýän äpişge sinde görkezilşi.,526,gedit,po/tk.po
+"Whether to use the system's default colors for the editing area. If this option is turned off, then the colors of the editing area will be those specified in the \""Background Color\"", \""Text Color\"", \""Selected Text Color\"", and \""Selection Color\"" options.",529,"Edit meýdançasynda sistemiň ön bellenen renklerini ullanylşy. Eger bu seçgi söndürilen bolsa, onsoň edit meýdançasyniň renkleri \""Arkaplan Renki\"", \""Metin Renki\"", \""Saýlanan Metiniň Renki\"", we \""Saýlaw Renki\"" seçgileri bolar.",534,gedit,po/tk.po
+"Whether to use the system's default font for editing text instead of a font specific to gedit. If this option is turned off, then the font named in the \""Editor Font\"" option will be used instead of the system font.",541,"Editlenýan metin üçin sistemiň ön bellenen kalamlarny geditiň has kalamlarniň ýeryne ullanylşy. Eger bu seçgi söndürilen bolsa, onsoň sistem kalamlarnyň ýeryne \""Editçi Kalamy\"" seçgisinde adlanan kalamdan ullan.",545,gedit,po/tk.po
+Activate %s,565,%s'i janlaşdyr,566,gedit,po/tk.po
+Question,574,Sorog,575,gedit,po/tk.po
+"If you don't save, changes from the last %ld second will be permanently lost.",579,"Eger siz gaýd edilmedik bolsoňiz, soňky %ld sanýadaky işleriňiz ymykly ýiter.",584,gedit,po/tk.po
+"If you don't save, changes from the last %ld second will be permanently lost.",579,"Eger siz gaýd edilmedik bolsoňiz, soňky %ld sanýadaky işleriňiz ymykly ýiter.",586,gedit,po/tk.po
+"If you don't save, changes from the last minute will be permanently lost.",590,"Eger siz gaýd edilmedik bolsoňiz, soňky minutdaky işleriňiz ymykly ýiter.",592,gedit,po/tk.po
+"If you don't save, changes from the last minute and %ld second will be permanently lost.",597,"Eger siz gaýd edilmedik bolsoňiz, soňky minut we %ld sanýadaky işleriňiz ymykly ýiter.",603,gedit,po/tk.po
+"If you don't save, changes from the last minute and %ld second will be permanently lost.",597,"Eger siz gaýd edilmedik bolsoňiz, soňky minut we %ld sanýadaky işleriňiz ymykly ýiter.",606,gedit,po/tk.po
+"If you don't save, changes from the last %ld minute will be permanently lost.",612,"Eger siz gaýd edilmedik bolsoňiz, soňky %ld minutdaky işleriňiz ymykly ýiter.",617,gedit,po/tk.po
+"If you don't save, changes from the last %ld minute will be permanently lost.",612,"Eger siz gaýd edilmedik bolsoňiz, soňky %ld minutdaky işleriňiz ymykly ýiter.",619,gedit,po/tk.po
+"If you don't save, changes from the last hour and %d minute will be permanently lost.",636,"Eger siz gaýd edilmedik bolsoňiz, soňky sagat we %d minutdaky işleriňiz ymykly ýiter.",642,gedit,po/tk.po
+"If you don't save, changes from the last hour and %d minute will be permanently lost.",636,"Eger siz gaýd edilmedik bolsoňiz, soňky sagat we %d minutdaky işleriňiz ymykly ýiter.",645,gedit,po/tk.po
+"Save the changes to document \""%s\"" before closing?",651,"Baglamakdan öňinçä üýtgewler \""%s\"" senedinde gaýd edilsin mi?",652,gedit,po/tk.po
+There is %d document with unsaved changes. Save changes before closing?,656,%d sani sened üýtgewler gaýd edigsiz. Baglamakdan öňinçä üýtgewler gaýd edilsin mi?,659,gedit,po/tk.po
+There is %d document with unsaved changes. Save changes before closing?,656,%d sani sened üýtgewler gaýd edigsiz. Baglamakdan öňinçä üýtgewler gaýd edilsin mi?,662,gedit,po/tk.po
+S_elect the documents you want to save:,667,_Gaýd edjek senedleriňizi saýlaň:,668,gedit,po/tk.po
+"If you don't save, all your changes will be permanently lost.",672,"Eger siz gaýd edilmedik bolsoňiz, ehli işleriňiz ymykly ýiter.",673,gedit,po/tk.po
+Go to Line,676,Hat'a Git,677,gedit,po/tk.po
+_Go to Line,680,_Hat'a Git,681,gedit,po/tk.po
+"The text \""%s\"" was not found.",686,"\""%s\"" metini tapilmady.",687,gedit,po/tk.po
+Replace,691,Ewez Et,692,gedit,po/tk.po
+Replace _All,695,_Ehlisini Ewez Et,696,gedit,po/tk.po
+_Replace,700,E_wez Et,701,gedit,po/tk.po
+Find,704,Tap,705,gedit,po/tk.po
+Found and replaced %d occurrence.,709,%d sani netije tapildi we ewez edildi.,711,gedit,po/tk.po
+Found and replaced %d occurrence.,709,%d sani netijeler tapildi we ewez edildi.,712,gedit,po/tk.po
+Open Location,715,_Ýery Aç,716,gedit,po/tk.po
+There was an error displaying help: %s,720,Ýardimiň görkezilişinde hata böldi: %s,721,gedit,po/tk.po
+_Description,725,_Wasp,726,gedit,po/tk.po
+_Encoding,730,_Ködlama,731,gedit,po/tk.po
+A_vailable encodings:,734,_Nagt Ködlemeler:,735,gedit,po/tk.po
+Character codings,738,Karkater ködlemeleri,739,gedit,po/tk.po
+E_ncodings shown in menu:,742,Menüda görkezlen ködlemeler:,743,gedit,po/tk.po
+Plugin,746,Baglanç,747,gedit,po/tk.po
+Enabled,750,Mümkin edigili,751,gedit,po/tk.po
+Set program location...,755,Program ýerini belli et...,756,gedit,po/tk.po
+"The %s plugin uses an external program, called <tt>%s</tt>, to perform its task.\n\nPlease, specify the location of the <tt>%s</tt> program.",760,%s baglançy çykyş etmek üçin <tt>%s</tt> adly daşarydaky programden ullanýa.\n\nLütfen <tt>%s</tt> programiň ýerini takyklaň.,765,gedit,po/tk.po
+The selected file is not executable.,772,Saýlanan faýl işeňger dal.,773,gedit,po/tk.po
+Push this button to select the font to be used by the editor,776,Editçi ullanjak kalamyny saýlamak üçin bu batuny itekläň,777,gedit,po/tk.po
+Push this button to configure text color,780,Metin renkini tenzim etmek üçin bu batuny itekläň,781,gedit,po/tk.po
+Push this button to configure background color,784,Arkaplan renkini tenzim etmek üçin bu batuny itekläň,785,gedit,po/tk.po
+Elements,800,Elementler,801,gedit,po/tk.po
+<b>Elements</b>,825,<b>Elementler</b>,826,gedit,po/tk.po
+<b>File Saving</b>,829,<b>Faýly Gaýd Etmek</b>,830,gedit,po/tk.po
+<b>Font</b>,833,<b>Kalam</b>,834,gedit,po/tk.po
+<b>Line Numbers</b>,838,<b>Hat Sanlary</b>,839,gedit,po/tk.po
+<b>Right Margin</b>,842,<b>Sag Gabdaly</b>,843,gedit,po/tk.po
+<b>Text Wrapping</b>,852,<b>Metini Dolamak</b>,853,gedit,po/tk.po
+"<span weight=\""bold\"">Colors</span>",856,"<span weight=\""bold\"">Renkler</span>",857,gedit,po/tk.po
+Bold,861,Batyr,862,gedit,po/tk.po
+Create a _backup copy of files before saving,865,Gaýd etmekden öňinçä _zapas nusgasyny bejer,866,gedit,po/tk.po
+Do not _split words over two lines,875,Sözleri iki hatiň arasynda çatlama,876,gedit,po/tk.po
+Editor,879,Editçi,880,gedit,po/tk.po
+Editor _font: ,883,Editçi _kalamy,884,gedit,po/tk.po
+Enable text _wrapping,888,Metin _dolamaky mümkin et,889,gedit,po/tk.po
+Font & Colors,892,Kalam & Renkler,893,gedit,po/tk.po
+Highlight _mode:,900,Ýagtylamak _modi:,901,gedit,po/tk.po
+Insert _spaces instead of tabs,909,Täbler ýerine seleňleri girdir,910,gedit,po/tk.po
+Italic,913,Gişik,914,gedit,po/tk.po
+Normal _text color:,917,Kadaly _metiniişik renki:,918,gedit,po/tk.po
+Pick a color,921,Bir renk ýygna,922,gedit,po/tk.po
+Pick the background color,925,Arkaplan renki ýygna,926,gedit,po/tk.po
+Pick the editor font,929,Editçi kalamyny ýygna,930,gedit,po/tk.po
+Pick the normal text color,933,Kadaly metiniň renkini ýygna,934,gedit,po/tk.po
+Pick the selected text color,937,Saýlanan metinň ýygna,938,gedit,po/tk.po
+Pick the selection color,941,Saýlaw renkini ýygna,942,gedit,po/tk.po
+Plugins,945,Baglançlar,946,gedit,po/tk.po
+Preferences,949,Seçenekler,950,gedit,po/tk.po
+Se_lection color:,953,Saý_law renki:,954,gedit,po/tk.po
+Selecte_d text color:,957,Saýlana_n metiniň renki:,958,gedit,po/tk.po
+Strikethrough,961,Karalanmış,962,gedit,po/tk.po
+Syntax Highlighting,965,Sintaksy Ýagtylak,966,gedit,po/tk.po
+U_se default theme colors,969,_Ön bellenen tem renklerinden ullan,970,gedit,po/tk.po
+Underline,973,Asty Çizik,974,gedit,po/tk.po
+View,977,Görnöş,978,gedit,po/tk.po
+_Autosave files every,981,_Faýllary otomatik gaýd etmek araligy:,982,gedit,po/tk.po
+_Background color:,985,_Arkaplan renki:,986,gedit,po/tk.po
+_Background:,989,_Arkaplan:,990,gedit,po/tk.po
+_Display line numbers,993,_Hat sanlary görkez,994,gedit,po/tk.po
+_Enable syntax highlighting,1002,Sintaks ýagtylamagny mümkin et,1003,gedit,po/tk.po
+_Foreground:,1006,_Öňplan,1007,gedit,po/tk.po
+_Reset to Default ,1010,_Ön bellenene sifirle,1011,gedit,po/tk.po
+_Right margin at column:,1014,_Sag gabdaly bu sütüne elt:,1015,gedit,po/tk.po
+_Use default theme font,1023,_Ön bellenen tem kalamyny ullan,1024,gedit,po/tk.po
+_minutes,1027,_minutlar,1028,gedit,po/tk.po
+Goto Line,1031,Hat'a Git,1032,gedit,po/tk.po
+_Line number:,1035,_Hat sany:,1036,gedit,po/tk.po
+Fonts,1039,Kalamlar,1040,gedit,po/tk.po
+General,1043,Umumy,1044,gedit,po/tk.po
+He_aders and footers:,1047,_Başlyg we astlyklar,1048,gedit,po/tk.po
+Page Setup,1051,Sahypany Çaşyr,1052,gedit,po/tk.po
+Print _line numbers,1055,_Hat sanlaryny çapla,1056,gedit,po/tk.po
+Print s_yntax highlighting,1059,_Syntaks ýagtygny çapla,1060,gedit,po/tk.po
+_Body:,1063,_Beden:,1064,gedit,po/tk.po
+_Line numbers:,1067,_Hat sanlary:,1068,gedit,po/tk.po
+_Number every,1071,_San aralygy,1072,gedit,po/tk.po
+_Print page headers,1075,Sahypa başlygny çapla,1076,gedit,po/tk.po
+_Restore Default Fonts,1079,_Ön bellenen kalamlary gaytar,1080,gedit,po/tk.po
+lines,1083,hatlar,1084,gedit,po/tk.po
+C_onfigure Plugin,1087,_Baglançy tenzim et,1088,gedit,po/tk.po
+_About Plugin,1091,B_aglanç Barada,1092,gedit,po/tk.po
+button1,1095,batun1,1096,gedit,po/tk.po
+Browse for program location...,1103,Programiň ýerini ahtar...,1104,gedit,po/tk.po
+_Location to search for:,1107,_Ahtarmak ýeri:,1108,gedit,po/tk.po
+label,1111,etiket,1112,gedit,po/tk.po
+Find Next,1121,Indikini Tap,1122,gedit,po/tk.po
+Match _entire word only,1125,_Diňe söziň ehlini nezirle,1126,gedit,po/tk.po
+Replace All,1129,Ehlini Ewez Et,1130,gedit,po/tk.po
+Replace _with: ,1133,_Bular bilen ewez et:,1134,gedit,po/tk.po
+Search _backwards,1137,_Tersine gözle,1138,gedit,po/tk.po
+_Match case,1141,_Kiçi/beýik ligni nezirle,1142,gedit,po/tk.po
+_Search for: ,1145,_Gözle:,1146,gedit,po/tk.po
+_Wrap around,1149,_Dola,1150,gedit,po/tk.po
+Ch_aracter coding:,1153,_Karakter ködleme:,1154,gedit,po/tk.po
+Enter the _location (URI) of the file you would like to open:,1157,açjak faýlyňiziň ýeryny (URI) ýaziň:,1158,gedit,po/tk.po
+Open from URI,1161,URI'dan aç,1162,gedit,po/tk.po
+gedit is a small and lightweight text editor for the GNOME Desktop,1165,gedit GNOME desktapinden üçin bir kiçijek we ýeňil metin etitçisi dir,1166,gedit,po/tk.po
+Invalid UTF-8 data,1195,Maýyp UTF-8 maglumaty,1196,gedit,po/tk.po
+Could not read symbolic link information for %s,1200,%s üçin simbolik baglaýyşy tapymady,1201,gedit,po/tk.po
+The file has too many symbolic links.,1204,Faýlyň köp simbolik baglaýyşlary bar.,1205,gedit,po/tk.po
+gedit cannot handle %s: locations in write mode.,1209,gedit elläb başarmýa %s: ýerler ýazma modinde.,1210,gedit,po/tk.po
+gedit cannot handle this kind of location in write mode.,1213,gedit bu hilli ýeri ýazma modinde elläb başarmýa.,1214,gedit,po/tk.po
+Invalid filename.,1217,Maýyp faýl ady,1218,gedit,po/tk.po
+There is not enough disk space to save the file.\nPlease free some disk space and try again.,1221,Faýly gaýd etmek üçin diskde ýeterlik ýer tapylmady.\nLütfen diskiň bireme ýerini boşadiň we ýene synaniň.,1224,gedit,po/tk.po
+The disk where you are trying to save the file has a limitation on file sizes.  Please try saving a smaller file or saving it to a disk that does not have this limitation.,1229,Siziň faýly gaýd etjek diskiňiz faýl ululykna mehdutçiliki bar. Lütfen a kiçiräk faýly gaýd etmek üçin yada bu mehdutçiliki ýok bir diske gaýd etmek üçin synaniň.,1233,gedit,po/tk.po
+Could not create a backup file.,1239,Zapas faýly bejerip bilmedi.,1240,gedit,po/tk.po
+Auto Detected,1243,Otomatik Aňlandy,1244,gedit,po/tk.po
+Current Locale (%s),1249,Häzirki ýerleşdirim (%s),1250,gedit,po/tk.po
+Add or _Remove...,1253,Goş ýada _Çykar...,1254,gedit,po/tk.po
+Unicode,1259,Uniköd,1260,gedit,po/tk.po
+Western,1264,Gun Batar,1265,gedit,po/tk.po
+Central European,1269,Orta Avrupa,1270,gedit,po/tk.po
+South European,1273,Gun Orta Avrupa,1274,gedit,po/tk.po
+Baltic,1278,Baltik,1279,gedit,po/tk.po
+Cyrillic,1284,Kiril,1285,gedit,po/tk.po
+Arabic,1289,Arabça,1290,gedit,po/tk.po
+Greek,1294,Ýunança,1295,gedit,po/tk.po
+Hebrew Visual,1298,Aaýan ýähüd dili,1299,gedit,po/tk.po
+Hebrew,1303,Ýähüd dili,1304,gedit,po/tk.po
+Turkish,1308,Türkçe,1309,gedit,po/tk.po
+Nordic,1312,Nordik dili,1313,gedit,po/tk.po
+Celtic,1316,Seltik dili,1317,gedit,po/tk.po
+Romanian,1320,Römençe,1321,gedit,po/tk.po
+Armenian,1324,Ermençe,1325,gedit,po/tk.po
+Chinese Traditional,1329,Däpli Çinçe,1330,gedit,po/tk.po
+Cyrillic/Russian,1333,Kiril/Orsça,1334,gedit,po/tk.po
+Japanese,1339,Japonça,1340,gedit,po/tk.po
+Korean,1344,Köreçe,1345,gedit,po/tk.po
+Chinese Simplified,1349,Besitlendirlen Çinçe,1350,gedit,po/tk.po
+Georgian,1353,Gürjüçe,1354,gedit,po/tk.po
+Cyrillic/Ukrainian,1357,Kiril/Ukraýn dili,1358,gedit,po/tk.po
+Vietnamese,1362,Výetnamça,1363,gedit,po/tk.po
+Thai,1366,Taýça,1367,gedit,po/tk.po
+Unknown,1370,Nataniş,1371,gedit,po/tk.po
+"A file named \""%s\"" already exists.\n",1375,"\""%s\"" adlanan faýl hemişe mewjüd.\n",1376,gedit,po/tk.po
+Do you want to replace it with the one you are saving?,1379,Siz ony gaýd edip duraniňiz bilen ewez edjegmi?,1380,gedit,po/tk.po
+"The file \""%s\"" is read-only.\n",1384,"\""%s\"" faýly diňe-okamalýan.\n",1385,gedit,po/tk.po
+Do you want to try to replace it with the one you are saving?,1388,Siz ony gaýd edip duraniňiz bilen ewez edmeg synanjakmi?,1389,gedit,po/tk.po
+All Files,1392,Ehli Faýllar,1393,gedit,po/tk.po
+All Text Files,1396,Ehli Metin Faýllar,1397,gedit,po/tk.po
+Select a file to open,1405,Açmak üçin bir faýly saýla,1406,gedit,po/tk.po
+Select files to open,1409,Açmak üçin bir faýllary saýla,1410,gedit,po/tk.po
+Select a filename to save,1413,Gaýd etmek üçin bir ad saýla,1414,gedit,po/tk.po
+Open File...,1417,Faýly Aç...,1418,gedit,po/tk.po
+"Saving document \""%s\""...",1422,"\""%s\"" senedi gaýd etmek...",1423,gedit,po/tk.po
+"The document \""%s\"" has not been saved.",1427,"\""%s\"" senedi gaýd etilenak.",1428,gedit,po/tk.po
+"The document \""%s\"" has been saved.",1432,"\""%s\"" senedi gaýd etildi.",1433,gedit,po/tk.po
+Save as...,1436,Aýry gaýd et...,1437,gedit,po/tk.po
+"Revert unsaved changes to document \""%s\""?",1441,"Gaýd edilmedik üýtgewleri \""%s\"" senedine ewirilsin mi?",1442,gedit,po/tk.po
+Changes made to the document in the last %ld second will be permanently lost.,1447,Soňki %ld sanýada senediň üýtgewleri ymykly ýiter.,1452,gedit,po/tk.po
+Changes made to the document in the last %ld second will be permanently lost.,1447,Soňki %ld sanýada senediň üýtgewleri ymykly ýiter.,1453,gedit,po/tk.po
+Changes made to the document in the last minute will be permanently lost.,1456,Soňki minutda senediň üýtgewleri ymykly ýiter.,1458,gedit,po/tk.po
+Changes made to the document in the last minute and %ld second will be permanently lost.,1463,Soňki minut we %ld sanýada senediň üýtgewleri ymykly ýiter.,1469,gedit,po/tk.po
+Changes made to the document in the last minute and %ld second will be permanently lost.,1463,Soňki minut we %ld sanýada senediň üýtgewleri ymykly ýiter.,1470,gedit,po/tk.po
+Changes made to the document in the last %ld minute will be permanently lost.,1474,Soňki %ld minutda senediň üýtgewleri ymykly ýiter.,1479,gedit,po/tk.po
+Changes made to the document in the last %ld minute will be permanently lost.,1474,Soňki %ld minutda senediň üýtgewleri ymykly ýiter.,1480,gedit,po/tk.po
+Changes made to the document in the last hour and %d minute will be permanently lost.,1492,Soňki sagat we %d minutda senediň üýtgewleri ymykly ýiter.,1498,gedit,po/tk.po
+Changes made to the document in the last hour and %d minute will be permanently lost.,1492,Soňki sagat we %d minutda senediň üýtgewleri ymykly ýiter.,1499,gedit,po/tk.po
+_Revert,1502,_Ewir,1503,gedit,po/tk.po
+"Error reverting the document \""%s\"".",1507,"\""%s\"" senedi ewirmede hata tapyldy.",1508,gedit,po/tk.po
+"The document \""%s\"" has not been reverted.",1512,"\""%s\"" senedi heniz ewirilinak.",1513,gedit,po/tk.po
+"The document \""%s\"" has been reverted.",1517,"\""%s\"" senedi heniz ewiridi.",1518,gedit,po/tk.po
+"Reverting the document \""%s\""...",1522,"\""%s\"" senediň ewirilmeki...",1523,gedit,po/tk.po
+Could not read data from stdin.,1526,Maglumaty stdin'den okamak mümkin dal.,1527,gedit,po/tk.po
+Reverting file:,1530,Bu faýl ewirilýişde:,1531,gedit,po/tk.po
+Loading file:,1534,Bu faýl ýüklenişde:,1535,gedit,po/tk.po
+"Error loading file \""%s\""",1539,"\""%s\"" faýlyň ýüklenşinde hata tapyldy",1540,gedit,po/tk.po
+"Loaded file \""%s\""",1544,"\""%s\"" faýly ýüklendi",1545,gedit,po/tk.po
+Loaded %d file,1549,"\""%d\"" faýly ýüklendi",1551,gedit,po/tk.po
+Loaded %d file,1549,"\""%d\"" faýllar ýüklendiler",1552,gedit,po/tk.po
+"Loading file \""%s\""...",1561,"\""%s\"" faýly ýüklenilýär...",1562,gedit,po/tk.po
+Loading %d file...,1566,"\""%d\"" faýly ýüklenilýär...",1568,gedit,po/tk.po
+Loading %d file...,1566,"\""%d\"" faýllar ýüklenilýärler...",1569,gedit,po/tk.po
+"Could not open the file \""%s\""",1595,"\""%s\"" faýly açylyp başarmady.",1596,gedit,po/tk.po
+It is not possible to revert an Untitled document.,1811,Adsyz senedi ewirmek mümkin däl.,1812,gedit,po/tk.po
+RO,1877,SO,1878,gedit,po/tk.po
+_Move to New Window,1882,_Täze Äpişge Göçir,1883,gedit,po/tk.po
+Unicode (UTF-8),1886,Uniköd (UTF-8),1887,gedit,po/tk.po
+Name:,1890,Ad:,1891,gedit,po/tk.po
+MIME Type:,1894,MIME Hili:,1895,gedit,po/tk.po
+Encoding:,1898,Ködleme:,1899,gedit,po/tk.po
+Open '%s',1904,'%s' adresini aç,1905,gedit,po/tk.po
+Open a recently used file,1908,Oň ullanaylan bir faýly aç,1909,gedit,po/tk.po
+Normal,1917,Kadaly,1918,gedit,po/tk.po
+Use Normal highlight mode,1921,kadaly ýagtylama modi ullan,1922,gedit,po/tk.po
+Use %s highlight mode,1926,%s ýagtylama modi ullan,1927,gedit,po/tk.po
+Close the output window,1930,Çikgi äpişgeni bagla,1931,gedit,po/tk.po
+Copy selected lines,1934,Saýlanan hatlary nusgala,1935,gedit,po/tk.po
+Clear the output window,1938,Çikgi äpişgeni durla,1939,gedit,po/tk.po
+Output Lines,1942,Çikgi Hatlar,1943,gedit,po/tk.po
+Cannot initialize preferences manager.,1946,Seçenekler müdiri başlanip başarmady.,1947,gedit,po/tk.po
+Expected `%s' got `%s' for key %s,1951,"%3$s üçün `%1$s' hantama bolylýardy, `%2$s' alyndy",1952,gedit,po/tk.po
+Print,1955,Çap,1956,gedit,po/tk.po
+Lines,1959,Hatlar,1960,gedit,po/tk.po
+Preparing pages...,1963,Sahypalar taýyarlnýar...,1964,gedit,po/tk.po
+Rendering page %d of %d...,1968,Sahypalar äberilýar %d / %d...,1969,gedit,po/tk.po
+Printing page %d of %d...,1973,Sahypalar çaplanýar %d / %d...,1974,gedit,po/tk.po
+Print preview,1977,Çapiň ön namaýyş,1978,gedit,po/tk.po
+File: %s,1982,Faýl: %s,1983,gedit,po/tk.po
+Page %N of %Q,1986,Sahypa %N / %Q,1987,gedit,po/tk.po
+About this application,1990,Bu program barada,1991,gedit,po/tk.po
+Change the visibility of the output window in the current window,1994,Çikgi äpişgäniň aýanlykyny häzirki äpişgede üýtget,1995,gedit,po/tk.po
+Change the visibility of the statusbar in the current window,1998,Durum zolakynyň aýanlykyny häzirki äpişgede üýtget,1999,gedit,po/tk.po
+Change the visibility of the toolbar in the current window,2002,Esbap zolakynyň aýanlykyny häzirki äpişgede üýtget,2003,gedit,po/tk.po
+Close,2006,Bagla,2007,gedit,po/tk.po
+Close all open files,2010,Ehli açyk faýllary bagla,2011,gedit,po/tk.po
+Close the current file,2014,Häzirki faýly bagla,2015,gedit,po/tk.po
+Configure the application,2018,Programy tenzim et,2019,gedit,po/tk.po
+Copy,2022,Nusgala,2023,gedit,po/tk.po
+Copy the selection,2026,Saýlawy nusgala,2027,gedit,po/tk.po
+Create a new document,2030,Täze bir sened bejer,2031,gedit,po/tk.po
+Cu_t,2034,_Kes,2035,gedit,po/tk.po
+Cut,2038,Kes,2039,gedit,po/tk.po
+Cut the selection,2042,Saýlawy kes,2043,gedit,po/tk.po
+Delete,2046,Poz,2047,gedit,po/tk.po
+Delete the selected text,2050,Saýlnan metini poz,2051,gedit,po/tk.po
+Find Ne_xt,2054,_Indikini Tap,2055,gedit,po/tk.po
+Find Pre_vious,2058,_Öňkini Tap,2059,gedit,po/tk.po
+Find Previous,2062,Öňkini Tap,2063,gedit,po/tk.po
+Go to _Line...,2066,Hat'a Git...,2067,gedit,po/tk.po
+Go to a specific line,2070,Aýratyn bir hat'a git,2071,gedit,po/tk.po
+Main toolbar,2074,Esli esbap zolaky,2075,gedit,po/tk.po
+Move the current document to a new window,2078,Häzirki senedi täze bir äpişgä göçir,2079,gedit,po/tk.po
+New,2082,Täze,2083,gedit,po/tk.po
+Open,2086,Aç,2087,gedit,po/tk.po
+Open Location...,2090,Ýery Aç...,2091,gedit,po/tk.po
+Open _Location...,2094,_Ýery Aç...,2095,gedit,po/tk.po
+Open a file,2098,Bir faýly aç,2099,gedit,po/tk.po
+Open a file from a specified location,2102,Berilen ýerden bir faýly aç,2103,gedit,po/tk.po
+Open the gedit manual,2106,geditiň kitapçasini aç,2107,gedit,po/tk.po
+Page Set_up,2110,_Sahypany Çaşyr,2111,gedit,po/tk.po
+Paste,2114,Ýabşir,2115,gedit,po/tk.po
+Pr_eferences,2122,_Seçenekler,2123,gedit,po/tk.po
+Print Previe_w...,2126,_Çapiň Ön Namaýyş...,2127,gedit,po/tk.po
+Print Preview,2130,Çapiň Ön Namaýyş,2131,gedit,po/tk.po
+Print the current file,2134,Häzirki senedi çap et,2135,gedit,po/tk.po
+Quit,2138,Çik,2139,gedit,po/tk.po
+Quit the program,2142,Programden çik,2143,gedit,po/tk.po
+Redo,2146,Ýene Et,2147,gedit,po/tk.po
+Redo the undone action,2150,Edilmedik emeli ýene ey,2151,gedit,po/tk.po
+Revert,2154,Ewir,2155,gedit,po/tk.po
+Revert to a saved version of the file,2158,Faýlyň gaýd edilen nusgasyna ewir,2159,gedit,po/tk.po
+Save,2162,Gaýd ed,2163,gedit,po/tk.po
+Save As,2166,Aaýry Gaýd Et,2167,gedit,po/tk.po
+Save _As...,2170,_Aaýry Gaýd Et,2171,gedit,po/tk.po
+Save all open files,2174,Ehli açyk faýllary gaýd et,2175,gedit,po/tk.po
+Save the current file,2178,Häzirki faýly gaýd et,2179,gedit,po/tk.po
+Save the current file with a different name,2182,Häzirki faýly başga ad bilen gaýd et,2183,gedit,po/tk.po
+Search backwards for the same text,2186,Meňzeş metin üçin izleýin agtar,2187,gedit,po/tk.po
+Search for and replace text,2190,Bir metin üçin agtar we ony ewez et,2191,gedit,po/tk.po
+Search for text,2194,Metin üçin agtar,2195,gedit,po/tk.po
+Search forwards for the same text,2198,Meňzeş metin üçin önleýin agtar,2199,gedit,po/tk.po
+Select All,2202,Ehlini Saýla,2203,gedit,po/tk.po
+Select _All,2206,_Ehlini Saýla,2207,gedit,po/tk.po
+Select the entire document,2210,Senediň ehlini saýla,2211,gedit,po/tk.po
+Set toolbar button style according to desktop Menu and Toolbar Preferences,2214,Esbap zolakiň batunlarniň biçimini desktapiň Menü we Esbap zolakiniň seçenekleri ýaly düz,2216,gedit,po/tk.po
+Setup the page settings,2221,Sahypa düzümlerni çaşyr,2222,gedit,po/tk.po
+Show only icons in the toolbar,2225,Esbap zolakda bir tymsallary görkez,2226,gedit,po/tk.po
+Show text below every icon in the toolbar,2229,Esbap zolakda her tymsalyň astynda metini görkez,2230,gedit,po/tk.po
+Show text only beside important icons in the toolbar,2233,Esbap zolakda her tymsalyň astynda metini görkez,2234,gedit,po/tk.po
+T_ext for Important Icons,2237,_Möhüm tymsallar üçin metini görkez,2238,gedit,po/tk.po
+Undo,2241,Izine Al,2242,gedit,po/tk.po
+Undo the last action,2245,Soňky emeli izine al,2246,gedit,po/tk.po
+_About,2249,_Barada,2250,gedit,po/tk.po
+_Close,2253,_Bagla,2254,gedit,po/tk.po
+_Close All,2257,_Ehlini Bagla,2258,gedit,po/tk.po
+_Contents,2261,_Mazmunlar,2262,gedit,po/tk.po
+_Copy,2265,_Nusgala,2266,gedit,po/tk.po
+_Customize Toolbar,2269,_Esbap Zolaky Şahsy Et,2270,gedit,po/tk.po
+_Delete,2273,_Poz,2274,gedit,po/tk.po
+_Desktop Default,2277,_Desktapiň ön bellenenleri,2278,gedit,po/tk.po
+_Documents,2281,_Senedler,2282,gedit,po/tk.po
+_Edit,2285,_Editle,2286,gedit,po/tk.po
+_File,2289,_Faýl,2290,gedit,po/tk.po
+_Find...,2293,_Tap...,2294,gedit,po/tk.po
+_Help,2297,_Ýardam,2298,gedit,po/tk.po
+_Highlight Mode,2301,_Ýagtylamak modi,2302,gedit,po/tk.po
+_Icons Only,2305,_Diňe Tymsallar,2306,gedit,po/tk.po
+_New,2309,_Täze,2310,gedit,po/tk.po
+_Open...,2313,_Aç...,2314,gedit,po/tk.po
+_Output Window,2317,_Çikgi Äpişge,2318,gedit,po/tk.po
+_Paste,2321,_Ýabşir,2322,gedit,po/tk.po
+_Print...,2325,_Çap...,2326,gedit,po/tk.po
+_Quit,2329,_Çik,2330,gedit,po/tk.po
+_Redo,2333,_Ýene Et,2334,gedit,po/tk.po
+_Replace...,2337,_Ewez Et...,2338,gedit,po/tk.po
+_Save,2341,_Gayd Et,2342,gedit,po/tk.po
+_Save All,2345,_Ehlini Gayd Et,2346,gedit,po/tk.po
+_Search,2349,_Agtar,2350,gedit,po/tk.po
+_Statusbar,2353,_Durum Zolaky,2354,gedit,po/tk.po
+_Text for All Icons,2357,_Ehli Tymsallar üçin metini görkez,2358,gedit,po/tk.po
+_Toolbar,2361,_Esbap Zolaky,2362,gedit,po/tk.po
+_Tools,2365,_Esbaplar,2366,gedit,po/tk.po
+_Undo,2369,_Izine Al,2370,gedit,po/tk.po
+_View,2373,_Görnöş,2374,gedit,po/tk.po
+"  Ln %d, Col %d",2390,"  Set %1$d, süt %2$d",2391,gedit,po/tk.po
+  OVR,2394,  ÝUZ,2395,gedit,po/tk.po
+  INS,2398,  GIR,2399,gedit,po/tk.po
+Quit an existing instance of gedit,2408,Geditiň bir bar durumyndan çik,2409,gedit,po/tk.po
+Create a new toplevel window in an existing instance of gedit,2412,Öň bar bir geditiň durumynda ýene bir iň üste durar äpişge bejer.,2413,gedit,po/tk.po
+Create a new document in an existing instance of gedit,2416,Öň bar bir geditiň durumynda bir täze sened bejer.,2417,gedit,po/tk.po
+C_hange Case,2435,Kiçi/beýikligni ewez et,2436,gedit,po/tk.po
+All _Upper Case,2439,Ehlisi _Beýik Harp,2440,gedit,po/tk.po
+All _Lower Case,2443,Ehlisi _Kiçi Harp,2444,gedit,po/tk.po
+_Invert Case,2447,Harplaryň Kiçi/beýikligni _Çalyşdyr,2448,gedit,po/tk.po
+_Title Case,2451,_Sözbaşynyň Kiçi/beýikligni,2452,gedit,po/tk.po
+Change Case,2474,Kiçi/beýikligni ewez et,2475,gedit,po/tk.po
+_Document Statistics,2483,_Sened Statistikleri,2484,gedit,po/tk.po
+Get statistic info on current document,2487,Häzirki sened barada statistik maglumatlary al,2488,gedit,po/tk.po
+Document Statistics,2492,Sened Statistikleri,2493,gedit,po/tk.po
+_Update,2496,_Täzele,2497,gedit,po/tk.po
+"Analyzes the current document and reports the number of words, lines, characters and non-space characters in it.",2500,"Häzirki senedi analyz edip oniň sözlerni, hatlarny, karakterlerni we seleňsiz karakterlerni aňlap netijesini görkez.",2503,gedit,po/tk.po
+"<span weight=\""bold\"">File Name</span>",2512,"<span weight=\""bold\"">Faýl Adi</span>",2513,gedit,po/tk.po
+Bytes,2516,Baýtlar,2517,gedit,po/tk.po
+Characters (no spaces),2520,Karakterler (seleňsiz),2521,gedit,po/tk.po
+Characters (with spaces),2524,Karakteler (seleň bilen),2525,gedit,po/tk.po
+Update,2528,Täzele,2529,gedit,po/tk.po
+Words,2532,Sözler,2533,gedit,po/tk.po
+gedit: Document Info plugin,2536,gedit: Sened Bilgi baglançy,2537,gedit,po/tk.po
+_Indent,2540,_Gaýşart,2541,gedit,po/tk.po
+Indent selected lines,2544,Saýlanan hatlary gaýşart,2545,gedit,po/tk.po
+U_nindent,2548,G_aýşartma,2549,gedit,po/tk.po
+Unindent selected lines,2552,Saýlanan hatlary gaýşartma,2553,gedit,po/tk.po
+Indent lines,2556,Hatlary gaýşart,2557,gedit,po/tk.po
+Indents or un-indents selected lines.,2560,Saýlanan hatlary gaýşartýa yada gaýşartmaýa,2561,gedit,po/tk.po
+Insert User Na_me,2564,_Ullançy Adyny Girdir,2565,gedit,po/tk.po
+Insert the user name at the cursor position,2568,Ullançy adyny kerser duran ýereine girdir,2569,gedit,po/tk.po
+Inserts the user name at the cursor position.,2572,Ullançy adyny kerser duran ýereine girdiýar,2573,gedit,po/tk.po
+User name,2576,Ullançy Ady,2577,gedit,po/tk.po
+_Run Command...,2620,_Buýruky Bitir,2621,gedit,po/tk.po
+Run a command,2624,Bir buýruky bitir,2625,gedit,po/tk.po
+Stopped,2629,Duruzygyly,2630,gedit,po/tk.po
+Run Command,2633,Buýruky Bitir,2634,gedit,po/tk.po
+_Run,2637,B_itir,2638,gedit,po/tk.po
+Done,2641,Bitdi,2642,gedit,po/tk.po
+Failed,2645,Hata Tapdy,2646,gedit,po/tk.po
+"The shell command entry is empty.\n\nPlease, insert a valid shell command.",2649,Gabyk buýruky puç.\n\nLütfen gabyk buýrukyny girdiriň.,2653,gedit,po/tk.po
+"Error parsing the shell command.\n\nPlease, insert a valid shell command.",2659,Gabyk buýruky  aýryştyrylmakynda hata boldy.\n\nLütfen gabyk buýrukyny girdiriň.,2663,gedit,po/tk.po
+Executing command,2669,Buýruk işe salynýar,2670,gedit,po/tk.po
+An error occurred while running the selected command.,2673,Saýlanan buýruky bitirmekde bir hata döredi.,2674,gedit,po/tk.po
+"Executes an external program and, if required, displays its output in the output window.",2677,Daşarydaky bir programi işe salýar we oniň çikgisini çikgi äpişge içine gysymlaýa,2680,gedit,po/tk.po
+Shell command,2685,Gabyk Buýruky,2686,gedit,po/tk.po
+Co_mmand:,2689,_Buýruk,2690,gedit,po/tk.po
+Select the working directory...,2693,Iş haltasyny saýla...,2694,gedit,po/tk.po
+_Show results in Output Window,2697,_Netijeleri Çikgi Äpişgesinde görkez,2698,gedit,po/tk.po
+_Working directory:,2701,_Iş haltasy:,2702,gedit,po/tk.po
+gedit: Shell Output plugin,2705,gedit: Gabyk Çikgi baglançy,2706,gedit,po/tk.po
+S_ort...,2709,_Tertible...,2710,gedit,po/tk.po
+Sort the current document or selection.,2713,Häzirki senedi ýada saýlawy tertible.,2714,gedit,po/tk.po
+Sort,2718,Tertible,2719,gedit,po/tk.po
+Sorts a document or selected text.,2722,Senedi ýada saýlawy tertibleyär.,2723,gedit,po/tk.po
+R_emove duplicates,2726,_Gaýtalananlar çykar,2727,gedit,po/tk.po
+S_tart at column:,2730,_Bu sütünden başla:,2731,gedit,po/tk.po
+You cannot undo a sort operation,2734,Siz tertiblemek emeli izine alib başarmýansiňiz.,2735,gedit,po/tk.po
+_Ignore case,2738,_Kiçi/beýik harplary red et,2739,gedit,po/tk.po
+_Reverse order,2742,_Ters tertibine,2743,gedit,po/tk.po
+_Sort,2746,_Tertible,2747,gedit,po/tk.po
+(no suggested words),2751,(maslahat edilen soz yök),2752,gedit,po/tk.po
+_More...,2755,_Kop...,2756,gedit,po/tk.po
+_Ignore All,2760,_Ehlisini red et,2761,gedit,po/tk.po
+_Add,2765,_Ekle,2766,gedit,po/tk.po
+_Spelling Suggestions...,2769,_Ymla maslahatlary...,2770,gedit,po/tk.po
+Check Spelling,2773,_Ymlany barla,2774,gedit,po/tk.po
+Suggestions,2777,Maslahatlar,2778,gedit,po/tk.po
+(correct spelling),2781,(ymlany dogryla),2782,gedit,po/tk.po
+Completed spell checking,2785,Ymlany barlamgyny soňlady,2786,gedit,po/tk.po
+Breton,2815,Britonça,2816,gedit,po/tk.po
+Catalan,2819,Katalança,2820,gedit,po/tk.po
+Czech,2823,Çekçe,2824,gedit,po/tk.po
+Danish,2831,Danmarkça,2832,gedit,po/tk.po
+German (Germany),2840,Almança (Almanýa),2841,gedit,po/tk.po
+German (Swiss),2844,Almança (Isveçre),2845,gedit,po/tk.po
+English (American),2848,Ingilisçä (Amerika),2849,gedit,po/tk.po
+English (British),2852,Ingilisçä (Britiş),2853,gedit,po/tk.po
+English (Canadian),2856,Ingilisçä (Kanada),2857,gedit,po/tk.po
+Spanish,2864,Ispanýolça,2865,gedit,po/tk.po
+Faroese,2883,Faroese Dili,2884,gedit,po/tk.po
+French (France),2887,Fransizçe (Fransiýa),2888,gedit,po/tk.po
+French (Swiss),2891,Fransizçe (Isveçre),2892,gedit,po/tk.po
+Italian,2943,Italýança,2944,gedit,po/tk.po
+Dutch,2999,Höländçe,3000,gedit,po/tk.po
+Norwegian,3008,Nörveççe,3009,gedit,po/tk.po
+Polish,3016,Polonýaça,3017,gedit,po/tk.po
+Portuguese (Portugal),3020,Portugalça (Portugaliýa),3021,gedit,po/tk.po
+Portuguese (Brazilian),3024,Portugalça (Braziliýa),3025,gedit,po/tk.po
+Russian,3032,Orsça,3033,gedit,po/tk.po
+Swedish,3053,Iswetçe,3054,gedit,po/tk.po
+Ukrainian,3078,Ukraýnça,3079,gedit,po/tk.po
+Default,3098,Ön Bellenen,3099,gedit,po/tk.po
+Could not find the required widgets inside %s.,3103,%s içinde gerek widget tapilmady.,3104,gedit,po/tk.po
+Languages,3107,Diller,3108,gedit,po/tk.po
+Select the _language of the current document.,3111,Häzirki seneiň dilini saýlaň.,3112,gedit,po/tk.po
+Set language,3115,Dili belli ediň,3116,gedit,po/tk.po
+<b>Language</b>,3119,<b>Diller</b>,3120,gedit,po/tk.po
+<b>word</b>,3123,<b>Söz</b>,3124,gedit,po/tk.po
+Add w_ord,3127,Sözi ekle,3128,gedit,po/tk.po
+Cha_nge,3131,_Ewez et,3132,gedit,po/tk.po
+Change A_ll,3135,_Ehlisini Ewez et,3136,gedit,po/tk.po
+Change _to:,3139,E_wez et:,3140,gedit,po/tk.po
+Check _Word,3143,_Sözi Barla,3144,gedit,po/tk.po
+Check spelling,3147,Ymlany Barla,3148,gedit,po/tk.po
+Ignore _All,3151,Ehlisini Red et,3152,gedit,po/tk.po
+Language:,3155,Dil:,3156,gedit,po/tk.po
+User dictionary:,3163,Ullançy sözliki:,3164,gedit,po/tk.po
+_Ignore,3167,_Red et,3168,gedit,po/tk.po
+_Suggestions:,3171,_Maslahatlar:,3172,gedit,po/tk.po
+_Check Spelling,3175,_Ymlany Barla,3176,gedit,po/tk.po
+Check the current document for incorrect spelling,3179,Häzirki sendi nädogry ymla üçin barla,3180,gedit,po/tk.po
+_Autocheck Spelling,3183,_Ymlany otmatik barlamak,3184,gedit,po/tk.po
+Automatically spell-check the current document,3187,Häzirki sendiň ymlasyny otomatik barla,3188,gedit,po/tk.po
+Set _Language,3191,_Dili Belli et,3192,gedit,po/tk.po
+Set the language of the current document,3195,Häzirki sendiň dilini belli et,3196,gedit,po/tk.po
+The document is empty.,3199,Bu sened puç,3200,gedit,po/tk.po
+Checks the spelling of the current document.,3213,Häzirki sendiň ymlasyny barlaýa.,3214,gedit,po/tk.po
+Spell checker,3217,Ymlany Barlaýan,3218,gedit,po/tk.po
+Title,4274,Sözbaşy,4275,gedit,po/tk.po
+Tag list plugin,4699,Tägler list baglançy,4700,gedit,po/tk.po
+Select the group of tags you want to use,4703,Tägleriň arasyndan isleýan toparyňzy saýlaň,4704,gedit,po/tk.po
+Available Tag Lists,4707,Nagt täg listleri,4708,gedit,po/tk.po
+Tags,4712,Tägler,4713,gedit,po/tk.po
+Double-click on a tag to insert it in the current document,4716,Tägi senediň içine girdirmek üçin üstine iki-tiklaň,4717,gedit,po/tk.po
+Tag _List,4720,_Tägler Listi,4721,gedit,po/tk.po
+Show the tag list window,4727,Tägler Listiniň äpişgesini görkez,4728,gedit,po/tk.po
+Provides a method to easily insert into a document commonly used tags/strings without having to type them.,4731,Tiz tiz işledilýan tägleri/düzmekleri senede aňsatjag girdirmek üçin bir tär üpjün edýär.,4734,gedit,po/tk.po
+Tag list,4739,Tägler Listi,4740,gedit,po/tk.po
+In_sert Date and Time...,4743,_Taryh we Zamany girdir...,4744,gedit,po/tk.po
+Insert current date and time at the cursor position,4747,Häzirki taryh we zamany kerser duran ýereine girdir,4748,gedit,po/tk.po
+Available formats,4751,Nagt kadalr,4752,gedit,po/tk.po
+Configure insert date/time plugin...,4755,Taryh/zamany gidir baglançi tenzim et...,4756,gedit,po/tk.po
+Insert Date/Time,4759,Taryh/zamany gidir,4760,gedit,po/tk.po
+Inserts current date and time at the cursor position.,4763,Häzirki taryh we zamany kerser duran ýereine girdir.,4764,gedit,po/tk.po
+"<span weight=\""bold\""> When inserting date/time...</span>",4771,"<span weight=\""bold\""> Taryh/zaman girdirilip durka...</span>",4772,gedit,po/tk.po
+Configure date/time plugin,4775,Taryh/zaman baglançi tenzim et,4776,gedit,po/tk.po
+Insert Date and Time,4779,Taryh we Zamany Girdir,4780,gedit,po/tk.po
+Use the _selected format,4783,_Saýlanan kadadan ullan,4784,gedit,po/tk.po
+_Insert,4787,_Girdir,4788,gedit,po/tk.po
+_Prompt for a format,4791,_Bir kada üçin soroş,4792,gedit,po/tk.po
+_Use custom format,4795,_Şahsy kadadan ullan,4796,gedit,po/tk.po
+_Bin,22,_Iki,23,gnome-calculator,po/tk.po
+_Oct,26,_Seg,27,gnome-calculator,po/tk.po
+_Dec,30,_On,31,gnome-calculator,po/tk.po
+He_x,34,On_alty,35,gnome-calculator,po/tk.po
+Set numeric base to binary (base 2),39,Sanamak paýasyny iki iki et,40,gnome-calculator,po/tk.po
+Set numeric base to octal (base 8),43,Sanamak paýasyny sekiz sekiz et,44,gnome-calculator,po/tk.po
+Set numeric base to decimal (base 10),47,Sanamak paýasyny on on et,48,gnome-calculator,po/tk.po
+Set numeric base to hexadecimal (base 16),51,Sanamak paýasyny onalty onalty et,52,gnome-calculator,po/tk.po
+E_ng,56,_Inj,57,gnome-calculator,po/tk.po
+_Sci,64,_Ilmi,65,gnome-calculator,po/tk.po
+De_grees,115,_Dereje,116,gnome-calculator,po/tk.po
+Gr_adians,119,_Gradyýan,120,gnome-calculator,po/tk.po
+_Radians,123,_Radyýan,124,gnome-calculator,po/tk.po
+Numeric 7,144,Eded 7,145,gnome-calculator,po/tk.po
+Numeric 8,152,Eded 8,153,gnome-calculator,po/tk.po
+Numeric 9,160,Eded 9,161,gnome-calculator,po/tk.po
+Divide,168,Paýla,169,gnome-calculator,po/tk.po
+Left bracket,180,Sol bräketi,181,gnome-calculator,po/tk.po
+Remove rightmost character from displayed value,188,Iň sag karakteri görkezilen mykdardan çykar,189,gnome-calculator,po/tk.po
+Clear displayed value,200,Görkezilen mykadry poz,201,gnome-calculator,po/tk.po
+Clear entry,204,Girişi poz,205,gnome-calculator,po/tk.po
+Clr,208,Poz,209,gnome-calculator,po/tk.po
+Clear,216,Poz,217,gnome-calculator,po/tk.po
+Numeric 4,224,Eded 4,225,gnome-calculator,po/tk.po
+Numeric 5,232,Eded 5,233,gnome-calculator,po/tk.po
+Numeric 6,240,Eded 6,241,gnome-calculator,po/tk.po
+Multiply,248,Zerb,249,gnome-calculator,po/tk.po
+Right bracket,260,Sol bräketi,261,gnome-calculator,po/tk.po
+Numeric 1,307,Eded 1,308,gnome-calculator,po/tk.po
+Numeric 2,315,Eded 2,316,gnome-calculator,po/tk.po
+Numeric 3,323,Eded 3,324,gnome-calculator,po/tk.po
+Subtract,331,Kem,332,gnome-calculator,po/tk.po
+Percentage,339,Persent,340,gnome-calculator,po/tk.po
+Numeric 0,380,Eded 0,381,gnome-calculator,po/tk.po
+Numeric point,388,Eded nokat,389,gnome-calculator,po/tk.po
+Calculate result,396,Netijeni hysabla,397,gnome-calculator,po/tk.po
+Add,404,Jem,405,gnome-calculator,po/tk.po
+Shift displayed value 1-15 places to the left,530,Görkezilen mykdary 1 tä 15 öý sola süýşir,531,gnome-calculator,po/tk.po
+Shift left,534,Sola süýşir,535,gnome-calculator,po/tk.po
+Shift displayed value 1-15 places to the right,542,Görkezilen mykdary 1 tä 15 öý saga süýşir,543,gnome-calculator,po/tk.po
+Shift right,546,Saga süýşir,547,gnome-calculator,po/tk.po
+Acc,584,Ak,585,gnome-calculator,po/tk.po
+Accuracy,593,Dyggat,594,gnome-calculator,po/tk.po
+Con,597,Kon,598,gnome-calculator,po/tk.po
+Fun,606,Fan,607,gnome-calculator,po/tk.po
+Exp,614,Eksp,615,gnome-calculator,po/tk.po
+Cos,735,Kos,736,gnome-calculator,po/tk.po
+Or,802,Ýä,803,gnome-calculator,po/tk.po
+And,815,We,816,gnome-calculator,po/tk.po
+Not,828,Däl,829,gnome-calculator,po/tk.po
+Xor,840,Eksor,841,gnome-calculator,po/tk.po
+Xnor,853,Eksnor,854,gnome-calculator,po/tk.po
+square root of 2,870,2niň ikinji köki,871,gnome-calculator,po/tk.po
+Error,911,Hata,912,gnome-calculator,po/tk.po
+calculator,970,Çot,971,gnome-calculator,po/tk.po
+"%s: base should be 2, 8, 10 or 16\n",975,"%s paýa 2,8, 10 ýä 16 bolmaly\n",976,gnome-calculator,po/tk.po
+%s: invalid display mode [%s]\n,980,%s: maýyp ekran mod [%s]\n,981,gnome-calculator,po/tk.po
+%s: invalid mode [%s]\n,985,%s: maýyp mod [%s]\n,986,gnome-calculator,po/tk.po
+Usage: %s: [-D] [-E] [-a accuracy] ,1007,Ullanyş: %s: [-D] [-E] [-a dakyklyk],1008,gnome-calculator,po/tk.po
+Quit the calculator,1041,Çotdan Çyk,1042,gnome-calculator,po/tk.po
+Copy selection,1045,Saýlawy nusgala,1046,gnome-calculator,po/tk.po
+Paste selection,1049,Saýlawy ýabşyr,1050,gnome-calculator,po/tk.po
+_Insert ASCII Value...,1053,ASKI Mykdary _Girdir...,1054,gnome-calculator,po/tk.po
+Insert ASCII value,1057,ASKI Mykdary Girdir,1058,gnome-calculator,po/tk.po
+Show help contents,1061,Ýardam Mazmunlary Görkez,1062,gnome-calculator,po/tk.po
+1 place,1074,1 rakam,1075,gnome-calculator,po/tk.po
+2 places,1083,2 rakam,1084,gnome-calculator,po/tk.po
+3 places,1092,3 rakam,1093,gnome-calculator,po/tk.po
+4 places,1101,4 rakam,1102,gnome-calculator,po/tk.po
+5 places,1110,5 rakam,1111,gnome-calculator,po/tk.po
+6 places,1119,6 rakam,1120,gnome-calculator,po/tk.po
+7 places,1128,7 rakam,1129,gnome-calculator,po/tk.po
+8 places,1137,8 rakam,1138,gnome-calculator,po/tk.po
+9 places,1146,9 rakam,1147,gnome-calculator,po/tk.po
+10 places,1151,10 rakam,1152,gnome-calculator,po/tk.po
+11 places,1156,11 rakam,1157,gnome-calculator,po/tk.po
+12 places,1161,12 rakam,1162,gnome-calculator,po/tk.po
+13 places,1166,13 rakam,1167,gnome-calculator,po/tk.po
+14 places,1171,14 rakam,1172,gnome-calculator,po/tk.po
+15 places,1176,15 rakam,1177,gnome-calculator,po/tk.po
+0 significant places,1217,0 wajyp rakam,1218,gnome-calculator,po/tk.po
+1 significant place,1226,1 wajyp rakam,1227,gnome-calculator,po/tk.po
+2 significant places,1235,2 wajyp rakam,1236,gnome-calculator,po/tk.po
+3 significant places,1244,3 wajyp rakam,1245,gnome-calculator,po/tk.po
+4 significant places,1253,4 wajyp rakam,1254,gnome-calculator,po/tk.po
+5 significant places,1262,5 wajyp rakam,1263,gnome-calculator,po/tk.po
+6 significant places,1271,6 wajyp rakam,1272,gnome-calculator,po/tk.po
+7 significant places,1280,7 wajyp rakam,1281,gnome-calculator,po/tk.po
+8 significant places,1289,8 wajyp rakam,1290,gnome-calculator,po/tk.po
+9 significant places,1298,9 wajyp rakam,1299,gnome-calculator,po/tk.po
+Calculator with financial and scientific modes.,1339,Maliýe we Ilmi modly Çot,1340,gnome-calculator,po/tk.po
+Insert ASCII Value,1343,ASKI Mykdary Girdir,1344,gnome-calculator,po/tk.po
+Ch_aracter:,1347,_Karakter,1348,gnome-calculator,po/tk.po
+_Insert,1351,_Girdir,1352,gnome-calculator,po/tk.po
+Value,1379,Mykdar,1380,gnome-calculator,po/tk.po
+Description,1383,Wasp,1384,gnome-calculator,po/tk.po
+Calculator,1416,Çot,1417,gnome-calculator,po/tk.po
+H_yp,1425,_Hip,1426,gnome-calculator,po/tk.po
+Edit Constants...,1433,Sabytlary Editle...,1434,gnome-calculator,po/tk.po
+Save sessions,53,Oturuşyky gaýd et,54,gnome-session,po/tk.po
+_Order:,69,_Tertib:,70,gnome-session,po/tk.po
+Order,86,Tertib,87,gnome-session,po/tk.po
+Starting,110,Başlanýa,111,gnome-session,po/tk.po
+Saving,126,Gaýd edilýä,127,gnome-session,po/tk.po
+Unknown,134,Natanyş,135,gnome-session,po/tk.po
+Restart,150,Ýene Başla,151,gnome-session,po/tk.po
+Trash,158,Zibil,159,gnome-session,po/tk.po
+Settings,166,Tenzimler,167,gnome-session,po/tk.po
+Action,221,Emel,222,gnome-session,po/tk.po
+_Log out,225,_Çyk,226,gnome-session,po/tk.po
+Sh_ut down,229,_Söndir,230,gnome-session,po/tk.po
+_Restart the computer,233,_Kampýuteri ýene başla,234,gnome-session,po/tk.po
+Add a new session,327,Täze bir oturşuk ekle,328,gnome-session,po/tk.po
+Edit session name,331,Oturşuk adyny editle,332,gnome-session,po/tk.po
+Sessions,346,Oturşuklar,347,gnome-session,po/tk.po
+_Sessions:,362,_Oturşuklar:,363,gnome-session,po/tk.po
+Session Name,366,Oturşuk Ady,367,gnome-session,po/tk.po
+Current Session,374,Häzirki Oturşuk,375,gnome-session,po/tk.po
+Sawfish Window Manager,414,Sawfish Äpişge Müdiri,415,gnome-session,po/tk.po
+Metacity Window Manager,418,Metacity Äpişge Müdiri,419,gnome-session,po/tk.po
+Window Manager,422,Äpişge Müdiri,423,gnome-session,po/tk.po
+The Panel,426,Panel,427,gnome-session,po/tk.po
+Close Window,81,Äpişgäni Bagla,82,mutter,po/tk.po
+Window Menu,85,Äpişge Menüsi,86,mutter,po/tk.po
+Minimize Window,89,Äpişgäni Kiçelt,90,mutter,po/tk.po
+Maximize Window,93,Äpişgäni Ulalt,94,mutter,po/tk.po
+Unmaximize Window,97,Äpişgäniň Ulylykny Gaýtar,98,mutter,po/tk.po
+Mi_nimize,172,_Kiçelt,173,mutter,po/tk.po
+Ma_ximize,176,_Ulalt,177,mutter,po/tk.po
+Unma_ximize,180,_Gaýtar,181,mutter,po/tk.po
+Roll _Up,184,_Ýygna,185,mutter,po/tk.po
+_Unroll,188,_Aç,189,mutter,po/tk.po
+On _Top,192,Iň Göň_de,193,mutter,po/tk.po
+_Move,196,Göç_ir,197,mutter,po/tk.po
+_Close,205,_Bagla,206,mutter,po/tk.po
+Shift,257,Şift,258,mutter,po/tk.po
+Ctrl,266,Kontrol,267,mutter,po/tk.po
+Close window,429,Äpişgäni Bagla,430,mutter,po/tk.po
+Maximize window,507,Äpişgäni Ulalt,508,mutter,po/tk.po
+Minimize window,519,Äpişgäni Kiçelt,520,mutter,po/tk.po
+Move window,559,Äpişgäni Göçir,560,mutter,po/tk.po
+Unmaximize window,1469,Äpişgeleriň ululygny gaýtar,1470,mutter,po/tk.po
+/_Windows,2174,/_Äpişgeler,2175,mutter,po/tk.po
+top,2368,üst,2369,mutter,po/tk.po
+bottom,2372,ast,2373,mutter,po/tk.po
+left,2376,sol,2377,mutter,po/tk.po
+right,2380,sag,2381,mutter,po/tk.po
+Applications,23,Programler,24,nautilus,po/tk.po
+Browse available software,27,Nagt programlary ahtar,28,nautilus,po/tk.po
+Apparition,31,Menzer,32,nautilus,po/tk.po
+Art,35,Sungat,36,nautilus,po/tk.po
+Black,43,Gara,44,nautilus,po/tk.po
+Blue Ridge,47,Hat Hat Gök,48,nautilus,po/tk.po
+Blue Rough,51,Zibir Gök,52,nautilus,po/tk.po
+Blue Type,55,Tör Tör Gök,56,nautilus,po/tk.po
+Brushed Metal,59,Firçelenen Metal,60,nautilus,po/tk.po
+Bubble Gum,63,Sakyç,64,nautilus,po/tk.po
+Burlap,67,Palas,68,nautilus,po/tk.po
+C_olors,71,_Renkler,72,nautilus,po/tk.po
+Camera,75,Fotograf,76,nautilus,po/tk.po
+Camouflage,79,Gizgenç,80,nautilus,po/tk.po
+Certified,83,Tasdykly,84,nautilus,po/tk.po
+Chalk,87,Hek,88,nautilus,po/tk.po
+Charcoal,91,Kömür,92,nautilus,po/tk.po
+Concrete,95,Beton,96,nautilus,po/tk.po
+Cool,99,Salkyn,100,nautilus,po/tk.po
+Cork,103,Dyky,104,nautilus,po/tk.po
+Countertop,107,Pyştahta,108,nautilus,po/tk.po
+Danger,111,Hatar,112,nautilus,po/tk.po
+Danube,115,Danub,116,nautilus,po/tk.po
+Dark Cork,119,Garanky Dyky,120,nautilus,po/tk.po
+Dark GNOME,123,Garanky GNOME,124,nautilus,po/tk.po
+Distinguished,131,Aýry,132,nautilus,po/tk.po
+Documents,135,Senedler,136,nautilus,po/tk.po
+Dots,139,Nokatlar,140,nautilus,po/tk.po
+Draft,143,Çyzgy,144,nautilus,po/tk.po
+Drag a color to an object to change it to that color,147,Bir objektiň renkini ewez etmek üçin bir renki onyň üstine süýräň,148,nautilus,po/tk.po
+Drag a pattern tile to an object to change it,151,Bir objektiň bejergisini ewez etmek üçin bir bejergini onyň üstine süýräň,152,nautilus,po/tk.po
+Drag an emblem to an object to add it to the object,156,Bir objektiň alamatyny ewez etmek üçin bir alamaty onyň üstine süýräň,157,nautilus,po/tk.po
+Eclipse,160,Gün Tutulmak,161,nautilus,po/tk.po
+Envy,164,Bahyllyk,165,nautilus,po/tk.po
+Erase,169,Boz,170,nautilus,po/tk.po
+Favorite,173,Söýgüli,174,nautilus,po/tk.po
+Fibers,177,Süýümler,178,nautilus,po/tk.po
+Fire Engine,181,Matur,182,nautilus,po/tk.po
+Floral,189,Güllik,190,nautilus,po/tk.po
+Fossil,193,Fösil,194,nautilus,po/tk.po
+GNOME,197,Fösil,198,nautilus,po/tk.po
+Granite,201,Granyt,202,nautilus,po/tk.po
+Grapefruit,205,Içi Gyzyl,206,nautilus,po/tk.po
+Green Weave,209,Ýaşyl dokum,210,nautilus,po/tk.po
+Ice,213,Buz,214,nautilus,po/tk.po
+Important,217,Möhüm,218,nautilus,po/tk.po
+Indigo,221,Nil,222,nautilus,po/tk.po
+Leaf,225,Ýaprak,226,nautilus,po/tk.po
+Lemon,229,Limon,230,nautilus,po/tk.po
+Mail,233,Poçtu,234,nautilus,po/tk.po
+Manila Paper,241,Agaç Kagyzy,242,nautilus,po/tk.po
+Moss Ridge,245,Zibir Haza,246,nautilus,po/tk.po
+Mud,249,Palçyk,250,nautilus,po/tk.po
+Multimedia,253,Moltymedýa,254,nautilus,po/tk.po
+New,257,Täze,258,nautilus,po/tk.po
+Numbers,261,Sanlar,262,nautilus,po/tk.po
+OK,265,Bolýar,266,nautilus,po/tk.po
+Ocean Strips,269,Deňiz Çylgymy,270,nautilus,po/tk.po
+Oh No,273,Äý Waý,274,nautilus,po/tk.po
+Onyx,277,Agyg,278,nautilus,po/tk.po
+Orange,281,Pyrtykal,282,nautilus,po/tk.po
+Package,285,Bugça,286,nautilus,po/tk.po
+Personal,293,Şahsy,294,nautilus,po/tk.po
+Pictures,297,Suratlar,298,nautilus,po/tk.po
+Ridged Paper,305,Ulkemly Kagyz,306,nautilus,po/tk.po
+Rough Paper,309,Gara Kagyz,310,nautilus,po/tk.po
+Ruby,313,Ýýagut,314,nautilus,po/tk.po
+Sea Foam,317,Deňiz Köpüky,318,nautilus,po/tk.po
+Silver,325,Kümüş,326,nautilus,po/tk.po
+Sky,329,Göň,330,nautilus,po/tk.po
+Sky Ridge,333,Göň Ulkemy,334,nautilus,po/tk.po
+Snow Ridge,337,Gar Ulkemy,338,nautilus,po/tk.po
+Sound,341,Ses,342,nautilus,po/tk.po
+Special,345,Ýöryte,346,nautilus,po/tk.po
+Urgent,361,Gyssagly,362,nautilus,po/tk.po
+Violet,365,Badamjan,366,nautilus,po/tk.po
+White,377,Ag,378,nautilus,po/tk.po
+White Ribs,381,Ag Gapyrga,382,nautilus,po/tk.po
+_Emblems,385,_Alamatlar,386,nautilus,po/tk.po
+_Patterns,389,_Bejergiler,390,nautilus,po/tk.po
+Favorite applications,393,Söýgüli programler,394,nautilus,po/tk.po
+Favorites,397,Söýgüliler,398,nautilus,po/tk.po
+An Eggplant variation of the Crux theme.,401,Crux temiň bir Eggplant inhirafi,402,nautilus,po/tk.po
+A Teal variation of the Crux theme.,409,Crux temiň bir teal inhirafi,410,nautilus,po/tk.po
+This is the default theme for Nautilus.,421,Bu nautilus üçin oň bellenen tem.,422,nautilus,po/tk.po
+A theme designed to fit well with the classic GNOME environment.,425,Bu tem klasik GNOME töwereki bilen gowy jaýlaşmak üçin terhlenen tem dir.,426,nautilus,po/tk.po
+Uses manila folders and gray-green backgrounds.,434,Bu tem manilla haltalardan we mele-ýaşyl arkaplan ullanýa,435,nautilus,po/tk.po
+This theme uses photo-realistic folders.,442,Bu tem foto-realistik halatalardan ullanýa,443,nautilus,po/tk.po
+Name,450,Ad,451,nautilus,po/tk.po
+Name of the column,454,Sütüniň ady,455,nautilus,po/tk.po
+Attribute,458,Sipet,459,nautilus,po/tk.po
+The attribute name to display,462,Görkeziljek sipet ady,463,nautilus,po/tk.po
+Label,468,Etiket,469,nautilus,po/tk.po
+Label to display in the column,472,Sütünda görkeziljek etiket,473,nautilus,po/tk.po
+Description,477,Wasp,478,nautilus,po/tk.po
+A user-visible description of the column,481,Wasp,482,nautilus,po/tk.po
+The x-alignment of the column,489,Sütüniň x-ýerlşiki,490,nautilus,po/tk.po
+Name of the item,493,Aýtemiň ady,494,nautilus,po/tk.po
+Label to display to the user,497,Ullançýa görkeziljek etiket,498,nautilus,po/tk.po
+Tip,501,Maslahat,502,nautilus,po/tk.po
+Tooltip for the menu item,505,Menü aýtemi üçin maslahat,506,nautilus,po/tk.po
+Icon,509,Tymsal,510,nautilus,po/tk.po
+Name of the icon to display in the menu item,513,Menü aýteminde görkeziljek tymsalyň ady,514,nautilus,po/tk.po
+Sensitive,517,Hessas,518,nautilus,po/tk.po
+Whether the menu item is sensitive,521,Menü aýteminiň hessas olmaky,522,nautilus,po/tk.po
+Priority,525,Biriňilik,526,nautilus,po/tk.po
+Show priority text in toolbars,529,Biriňilik metini  esbap zolakda görkezilsin,530,nautilus,po/tk.po
+Name of the page,533,Sahypaniň ady,534,nautilus,po/tk.po
+Label widget to display in the notebook tab,537,Depterçe tãbinde görkeziljek etiket widgeti,538,nautilus,po/tk.po
+Page,541,sahypa,542,nautilus,po/tk.po
+Widget for the property page,545,Häsiýet sahypasynyň widgeti,546,nautilus,po/tk.po
+"A list of captions below an icon in the icon view and the desktop. The actual number of captions shown depends on the zoom level. Possible values are: \""size\"", \""type\"", \""date_modified\"", \""date_changed\"", \""date_accessed\"", \""owner\"", \""group\"", \""permissions\"", \""octal_permissions\"" and \""mime_type\"".",549,"Tymsal görnöşi we desktapda bir tymsalyň astyndaky ýazylar.  Görkezilen ýazylar sany ulaldyş derejesine bagly dir. Mümkin mykdarlar: \""size\"", \""type\"", \""date_modified\"", \""date_changed\"", \""date_accessed\"", \""owner\"", \""group\"", \""permissions\"", \""octal_permissions\"" and \""mime_type\"".",555,nautilus,po/tk.po
+Bring up a new window for every opened file,562,Her bir açik faýl üçin bir ãpişge ýokarla,563,nautilus,po/tk.po
+Computer icon visible on desktop,566,Kompýuter tymsaly desktapda görkezilsin,567,nautilus,po/tk.po
+Current Nautilus theme (deprecated),582,Hãzirki nautilus temi (ullanylmýar),583,nautilus,po/tk.po
+Custom Background Set,586,Şahsy Arkaplan,587,nautilus,po/tk.po
+Custom Side Pane Background Set,590,Şahsy Böwür Jam Arkaplani,591,nautilus,po/tk.po
+Default Background Color,599,Ön Bellenen Arkaplan Renki,600,nautilus,po/tk.po
+Default Background Filename,603,Ön Bellenen Arkaplan Faýl ady,604,nautilus,po/tk.po
+Default Side Pane Background Color,607,Ön Bellenen Böwür Jam Arkaplan Renki,608,nautilus,po/tk.po
+Default Side Pane Background Filename,611,Ön Bellenen Böwür Jam Arkaplan Faýl ady,612,nautilus,po/tk.po
+Default column order in the list view,615,List görnöşde ön bellenen sütün tertibi,616,nautilus,po/tk.po
+Default column order in the list view.,619,List görnöşde ön bellenen sütün tertibi,620,nautilus,po/tk.po
+Default folder viewer,623,Ön Bellenen halta namaýyşçysy,624,nautilus,po/tk.po
+Default icon zoom level,627,Ön bellenen tymsal ulaldyş derejesi,628,nautilus,po/tk.po
+Default list of columns visible in the list view,631,List görnöşinde ön bellenen görkezilýãn sütünler listi,632,nautilus,po/tk.po
+Default list of columns visible in the list view.,635,List görnöşinde ön bellenen görkezilýãn sütünler listi,636,nautilus,po/tk.po
+Default list zoom level,639,Ön bellenen list ulaldyş derejesi,640,nautilus,po/tk.po
+Default sort order,643,Ön bellenen tertiblemek tertibi,644,nautilus,po/tk.po
+Default zoom level used by the icon view.,647,Tymsal görnöşinde ön bellenen ulaldyş derejesi,648,nautilus,po/tk.po
+Default zoom level used by the list view.,651,List görnöşinde ön bellenen ulaldyş derejesi,652,nautilus,po/tk.po
+Desktop font,660,Desktap kalamy,661,nautilus,po/tk.po
+Desktop home icon name,664,Desktap üstinde ýerleşen öý tymsalynyň ady,665,nautilus,po/tk.po
+Desktop trash icon name,668,Desktap üstinde ýerleşen zibil tymsalynyň ady,669,nautilus,po/tk.po
+Enable 'special' flags in file preferences dialog,672,Faýl seçenekler dýalogynda 'ýöryte' baýdaklarny etginleşdir,673,nautilus,po/tk.po
+"Enables the classic Nautilus behavior, where all windows are browsers",676,Ehli äpişgeler ahtaçy bolsalar klasik nautilus boluşyny etginleşdir,677,nautilus,po/tk.po
+Filename for the default folder background. Only used if background_set is true.,680,Ön bellenen halta arkaplaniň faýl ady. Eger kground_set true bolsa ullanylýar.,683,nautilus,po/tk.po
+Filename for the default side pane background. Only used if side_pane_background_set is true.,688,Ön bellenen böwür jam arkaplaniň faýl ady. eger side_pane_background_set true bolsa ullanlýar,691,nautilus,po/tk.po
+Folders over this size will be truncated to around this size. The purpose of this is to avoid unintentionally blowing the heap and killing Nautilus on massive folders. A negative value denotes no limit. The limit is approximate due to the reading of folders chunk-wise.,696,Bu ululykdan ullakan ãpişgeler bu ululyka yakyn edilip kesiler. Ondan yzlanylýan maksat bu ki ullakan haltalarda nautilusi öldürip topbakiň beter ulalamakynyň ewine geçilsin. Menfy myjdar hiçbir hed goýmaýar. ???????????????????????????????,701,nautilus,po/tk.po
+Home icon visible on desktop,708,Öý tymsaly desktapda görkezilsin,709,nautilus,po/tk.po
+"If set to true, Nautilus will only show folders in the tree side pane. Otherwise it will show both folders and files.",712,"Eger true bolsa, Nautilus böwür jamda diňe halatalary görkezer. Ýogsa hem faýllary  we hem haltalary görkezer.",715,nautilus,po/tk.po
+"If set to true, newly opened windows will have the location bar visible.",720,"Eger true bolsa, tãze açylan ãpişgeleriň ýer zolaky görkezilsin.",722,nautilus,po/tk.po
+"If set to true, newly opened windows will have the side pane visible.",725,"Eger true bolsa, tãze açylan ãpişgeleriň böwür jamy görkezilsin.",726,nautilus,po/tk.po
+"If set to true, newly opened windows will have the status bar visible.",729,"Eger true bolsa, tãze açylan ãpişgeleriň durum zolaky görkezilsin.",730,nautilus,po/tk.po
+"If set to true, newly opened windows will have toolbars visible.",733,"Eger true bolsa, tãze açylan ãpişgeleriň esbap zolaky görkezilsin.",734,nautilus,po/tk.po
+"If set to true, then Nautilus lets you edit some of the more esoteric options of a file in the file preferences dialog.",737,"Eger true bolsa, Nautilus size bir faýlyň kop esoterik seçgilerni faýl seçenekler dýalogynda editlemek üçin ejeza berýar.",740,nautilus,po/tk.po
+"If set to true, then Nautilus shows folders prior to showing files in the icon and list views.",745,"Eger true bolsa, Nautilus tymsal we list görnöşde haltalery faýllardan öňinçä görkezýãr",748,nautilus,po/tk.po
+"If set to true, then Nautilus will ask for confirmation when you attempt to put files in the trash.",753,"Eger true bolsa, siz faýllary zibilde goýjak bolsaňiz Nautilus bir tasdyk sizden alar.",756,nautilus,po/tk.po
+"If set to true, then Nautilus will bring up a new Nautilus window by default whenever an item is opened.",761,"Eger true bolsa, Bir aýtem açylsa ön bellenme bilen Nautilus tãze bir Nautilus ãpişgesini ýokarlar.",764,nautilus,po/tk.po
+"If set to true, then Nautilus will draw the icons on the desktop.",769,"Eger true bolsa, Nautilus tymsallary dekstapda çekip başarar.",770,nautilus,po/tk.po
+"If set to true, then Nautilus will have a feature allowing you to delete a file immediately and in-place, instead of moving it to the trash. This feature can be dangerous, so use caution.",773,"Eger true bolsa, Nautilus size bir faýly zibile göçirmãni ony duran ýerinde pozmak ymkanyny berer. Bu ymkan hatarly. Öndan ãtýaç bilen ullanyň.",777,nautilus,po/tk.po
+"If set to true, then Nautilus will use the user's home folder as the desktop. If it is false, then it will use ~/Desktop as the desktop.",782,"Eger true bolsa, Nautilus ullançy öýi haltasyndan desktap üçin ullanar. Eger false bolsa, ol ~/Desktop haltasyndan ullanar.",785,nautilus,po/tk.po
+"If set to true, then all Nautilus windows will be browser windows. This is how Nautilus used to behave before version 2.6, and some people prefer this behavior.",790,"Eger true bolsa, ehli Nautilus äpişgeleri ahtarçy äpişgeleri bolar. Bu Nautilusiň 2.6 den oň boluşidi, we bireme halk bu boluşi halaýa.",794,nautilus,po/tk.po
+"If set to true, then backup files such as those created by Emacs are displayed. Currently, only files ending in a tilde (~) are considered backup files.",799,"Eger true bolsa, Emacsiň nusga faýllary ýaly zapas faýllar görkeziler. häzirçe, diňe telpek (~) bilen gutarýan faýllar zapas faýl saýylýar.",803,nautilus,po/tk.po
+"If set to true, then hidden files are shown in the file manager. Hidden files are either dotfiles or are listed in the folder's .hidden file.",808,"Eger true bolsa, faýl müdirinde gizlin faýllar görkeziler. Gizlin faýllar nokatly faýllar ýa haltalariň .hidden faýllary dir.",811,nautilus,po/tk.po
+"If this is set to true, an icon linking to the computer location will be put on the desktop.",816,"Eger bu true bolsa, kompýuter ýeryne bir baglaýyş tymsal desktapda goýular.",819,nautilus,po/tk.po
+"If this is set to true, an icon linking to the home folder will be put on the desktop.",823,"Eger bu true bolsa, öý halatasyna bir baglaýyş tymsal desktapda goýular.",826,nautilus,po/tk.po
+"If this is set to true, an icon linking to the trash will be put on the desktop.",830,"Eger bu true bolsa, öý zibile bir baglaýyş tymsal desktapda goýular.",833,nautilus,po/tk.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\"".",843,"Eger true bolsa, täze äpişgeler içinde faýllar tersine tertiblener. meselen, eger ad hesibine tertiblenen bolsalar, \""a\"" dan \""z\"" ýerine \""z\"" dan \""a\"" eçenli tertiblenerler.",847,nautilus,po/tk.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\""; if sorted by size, instead of being incrementally they will be sorted decrementally.",853,"Eger true bolsa, täze äpişgeler içinde faýllar tersine tertiblener. meselen, eger ad hesibine tertiblenen bolsalar, \""a\"" dan \""z\"" ýerine \""z\"" dan \""a\"" eçenli tertiblenerler. eger ululyk hesibine tertiblenel bölsa ulalamak ýerine kiçilik hesibine tertiblenerler.",858,nautilus,po/tk.po
+List of possible captions on icons,885,Tymsallarýazyň mümkin ýazylar listi,886,nautilus,po/tk.po
+Maximum handled files in a folder,889,Bir halta içinde iň kop ellenen faýllar,890,nautilus,po/tk.po
+Nautilus handles drawing the desktop,903,Nautilus desktapi çekmekini elleýär.,904,nautilus,po/tk.po
+Nautilus uses the users home folder as the desktop,907,Nautilus ullançylaryň öý haltasyndan desktapa ullanýar.,908,nautilus,po/tk.po
+Only show folders in the tree sidebar,911,Bag böwür zolakynda diňe haltalary görkez,912,nautilus,po/tk.po
+Reverse sort order in new windows,925,Täze äpişgelerde tersine tertiblkemek,926,nautilus,po/tk.po
+Show folders first in windows,934,Äpişgelerde haltalry ilkinjde görkez,935,nautilus,po/tk.po
+Show location bar in new windows,938,Ýer zolakyny täze äpişgelerde görkez,939,nautilus,po/tk.po
+Show side pane in new windows,947,Böwür zolakyny täze äpişgelerde görkez,948,nautilus,po/tk.po
+Show status bar in new windows,951,Durum zolakyny täze äpişgelerde görkez,952,nautilus,po/tk.po
+Show toolbar in new windows,955,Esbap zolakyny täze äpişgelerde görkez,956,nautilus,po/tk.po
+Side pane view,959,Böwür jamynyň görnöşi,960,nautilus,po/tk.po
+"The default sort-order for items in the icon view. Possible values are \""name\"", \""size\"", \""type\"", \""modification_date\"", and \""emblems\"".",997,"Täze äpişgelerde tymsal görnöşinde ön bellenen tertiblemek hesibi. Mümkin mykdarlar \""ad\"", \""ululyk\"", \""hil\"", \""üýtgemek_tarihi\"", we \""alamatlar\"".",1000,nautilus,po/tk.po
+"The default sort-order for the items in the list view. Possible values are \""name\"", \""size\"", \""type\"", and \""modification_date\"".",1005,"Täze äpişgelerde list görnöşinde ön bellenen tertiblemek hesibi. Mümkin mykdarlar \""ad\"", \""ululyk\"", \""hil\"", \""üýtgemek_tarihi\"", we \""alamatlar\"".",1008,nautilus,po/tk.po
+The default width of the side pane in new windows.,1013,Täze äpişgelerde böwür jamiň ön bellenen giňliki,1014,nautilus,po/tk.po
+The side pane view to show in newly opened windows.,1030,Täze açylan äpişgelerde görkezmek üçin böwür jamiň görnöşi,1031,nautilus,po/tk.po
+This name can be set if you want a custom name for the home icon on the desktop.,1043,Siz desktapda öý tymsaly üçin şahsy bir ad goýjak bolsaňiz bu ad düzümlenip biler.,1046,nautilus,po/tk.po
+This name can be set if you want a custom name for the trash icon on the desktop.,1051,Siz desktapda zibil tymsaly üçin şahsy bir ad goýjak bolsaňiz bu ad düzümlenip biler.,1054,nautilus,po/tk.po
+Trash icon visible on desktop,1059,Zibil tymsaly desktapda görkezilsin,1060,nautilus,po/tk.po
+What to do with executable text files when activated,1075,Işeňger faýllar janlaşdyrylanda olar bilen näme edilmeli,1076,nautilus,po/tk.po
+"What to do with executable text files when they are activated (single or double clicked). Possible values are \""launch\"" to launch them as programs, \""ask\"" to ask what to do via a dialog, and \""display\"" to display them as text files.",1079,Işeňger faýllar janlaşdyrylanda olar bilen näme edilmeli (birje ya iki tiklenende). ??????????????????????????????????????????????????????????,1084,nautilus,po/tk.po
+"When a folder is visited this viewer is used unless you have selected another view for that particular folder. Possible values are \""list_view\"" and \""icon_view\"".",1089,Bir halta görilende bu has halta üçin başga bir namaýyşçy saýlanan bolmasa bu namaýyşçy ullanar.,1093,nautilus,po/tk.po
+When to show number of items in a folder,1098,Haltaniň içinde aýtemleriň görközilşi,1099,nautilus,po/tk.po
+When to show preview text in icons,1102,Haltaniň içinde metinlön namaýyş ön namaýyş görközilşi,1103,nautilus,po/tk.po
+Whether a custom default folder background has been set.,1110,Şahsy ön bellenen haltaniň arkaplani düzümlenşi,1111,nautilus,po/tk.po
+Whether a custom default side pane background has been set.,1114,Şahsy ön bellenen böwür jamiň arkaplani düzümlenşi,1115,nautilus,po/tk.po
+Whether to ask for confirmation when moving files to trash,1118,Faýllari zibile göçirmek üçin sorag edilşi,1119,nautilus,po/tk.po
+Whether to enable immediate deletion,1122,Faýllary zöwwe pozmaki mümkin etmesi,1123,nautilus,po/tk.po
+Whether to show backup files,1130,Zapas faýllaryň görkezilişi,1131,nautilus,po/tk.po
+Whether to show hidden files,1134,Gizlin faýllaryň görkezilişi,1135,nautilus,po/tk.po
+Width of the side pane,1138,Böwür jamiň giňliki,1139,nautilus,po/tk.po
+Cut _Text,1143,Metini _Kes,1144,nautilus,po/tk.po
+_Copy Text,1153,_Metini Nusgala,1154,nautilus,po/tk.po
+_Paste Text,1163,Metini _Ýabşir,1164,nautilus,po/tk.po
+Select _All,1173,_Ehlini Saýla,1174,nautilus,po/tk.po
+Move _Up,1182,_Ýokara göçir,1183,nautilus,po/tk.po
+Move _Down,1186,_Aşak göçir,1187,nautilus,po/tk.po
+_Show,1190,_Görkez,1191,nautilus,po/tk.po
+_Hide,1194,G_izle,1195,nautilus,po/tk.po
+_Use Default,1198,Ön belleneni ullan,1199,nautilus,po/tk.po
+The name and icon of the file.,1202,Faýlyň ady we tymsaly,1203,nautilus,po/tk.po
+Size,1206,Ululyk,1207,nautilus,po/tk.po
+The size of the file.,1210,Faýlyň Ululyky,1211,nautilus,po/tk.po
+Type,1214,Hil,1215,nautilus,po/tk.po
+The type of the file.,1218,Faýlyň hili,1219,nautilus,po/tk.po
+Date Modified,1222,Üýtgemek Taryhy,1223,nautilus,po/tk.po
+The date the file was modified.,1226,Faýlyň üýtgemek taryhy,1227,nautilus,po/tk.po
+Date Accessed,1230,El Ýetirmek Tarihi,1231,nautilus,po/tk.po
+The date the file was accessed.,1234,Faýla el ýetirmek tarihi,1235,nautilus,po/tk.po
+Owner,1238,Eýe,1239,nautilus,po/tk.po
+The owner of the file.,1242,Faýlyň eýesi,1243,nautilus,po/tk.po
+Group,1246,Topar,1247,nautilus,po/tk.po
+The group of the file.,1250,Faýlyň topary,1251,nautilus,po/tk.po
+Permissions,1255,Ejaza,1256,nautilus,po/tk.po
+The permissions of the file.,1259,Faýlyň ejazalary,1260,nautilus,po/tk.po
+Octal Permissions,1263,Sekizlik ejazalar,1264,nautilus,po/tk.po
+"The permissions of the file, in octal notation.",1267,"Faýlyň ejazalary, sekizlik ýazymda.",1268,nautilus,po/tk.po
+MIME Type,1271,MIME hili,1272,nautilus,po/tk.po
+The mime type of the file.,1275,Faýlyň MIME hili,1276,nautilus,po/tk.po
+reset,1279,sifirle,1280,nautilus,po/tk.po
+on the desktop,1285,Desktap üstinde,1286,nautilus,po/tk.po
+You cannot delete a volume icon.,1289,Siz hejmiň tymsalyny pozyb başarmyýarsyňyz.,1290,nautilus,po/tk.po
+"If you want to eject the volume, please use Eject in the right-click menu of the volume.",1293,"Hejmi çykartmak bolsoňiz, lütfen hejmiň sag-tik menüsinden Çykart  dan ullanin.",1296,nautilus,po/tk.po
+Can't Delete Volume,1301,Hejm pozylyb başarmady,1302,nautilus,po/tk.po
+_Move here,1305,_Bu ýere göçir,1306,nautilus,po/tk.po
+_Copy here,1309,_Bu ýere nusgala,1310,nautilus,po/tk.po
+_Link here,1313,Bu ýere _baglaýyş bejer,1314,nautilus,po/tk.po
+Set as _Background,1317,_Arkaplan olarak düz,1318,nautilus,po/tk.po
+Cancel,1322,Ybtal,1323,nautilus,po/tk.po
+Set as background for _all folders,1326,_Ehli haltalar üçin arkaplan olarak düz,1327,nautilus,po/tk.po
+Set as background for _this folder,1330,_Bu halta üçin arkaplan olarak düz,1331,nautilus,po/tk.po
+The emblem cannot be installed.,1337,Bu alamat gurulyb bilmedi,1338,nautilus,po/tk.po
+"Sorry, but you must specify a non-blank keyword for the new emblem.",1341,"Bagyşlaň, siz täze alamat üçin bir boşdal açar keleme takyklamaly.",1342,nautilus,po/tk.po
+Couldn't Install Emblem,1348,Alamat gurulyb başarmady,1349,nautilus,po/tk.po
+"Sorry, but emblem keywords can only contain letters, spaces and numbers.",1352,"Bagyşlaň, alamat açar kelemesi diňe harp, seleň we sanlary ekläp başarýar. ",1354,nautilus,po/tk.po
+"Sorry, but there is already an emblem named \""%s\"".",1363,"Bagyşlaň, bu ýerde \""%s\"" adly alamat öňden bar.",1364,nautilus,po/tk.po
+Please choose a different emblem name.,1367,Lütfen alamat üçin başa bir ad saýlaň.,1368,nautilus,po/tk.po
+Couldn't install emblem,1371,Alamat gurulyb başarmady,1372,nautilus,po/tk.po
+"Sorry, unable to save custom emblem.",1375,"Bagyşlaň, şahsy alamat gaýd etilip başaramdy.",1376,nautilus,po/tk.po
+"Sorry, unable to save custom emblem name.",1379,"Bagyşlaň, şahsy alamat ady gaýd etilip başaramdy.",1380,nautilus,po/tk.po
+%ld of %ld,1394,%ld / %ld,1395,nautilus,po/tk.po
+From:,1399,Çeşme:,1400,nautilus,po/tk.po
+To:,1404,Magsad:,1405,nautilus,po/tk.po
+Error while moving.,1411,Göçirişde hata boldy.,1412,nautilus,po/tk.po
+"\""%s\"" cannot be moved because it is on a read-only disk.",1416,"\""%s\"" diňe-okalýan diskde bolansaň göçirilib bilmedi.",1417,nautilus,po/tk.po
+Error while deleting.,1421,Pozmakda hata boldy.,1422,nautilus,po/tk.po
+"\""%s\"" cannot be deleted because you do not have permissions to modify its parent folder.",1426,"Siz ene haltany üýtgetmegne ejazaňiz bolmansaň \""%s\"" pozilib bilmedi.",1429,nautilus,po/tk.po
+"\""%s\"" cannot be deleted because it is on a read-only disk.",1433,"\""%s\"" diňe-okalýan diskde bolansaň pozylyb bilmedi.",1434,nautilus,po/tk.po
+"\""%s\"" cannot be moved because you do not have permissions to change it or its parent folder.",1438,"Siz ene haltany üýtgetmegne ejazaňiz bolmansaň \""%s\"" göçirilib bilmedi.",1441,nautilus,po/tk.po
+"Cannot move \""%s\"" because it or its parent folder are contained in the destination.",1446,"\""%s\"" ýädä öniň ene haltasi maksad haltasinda bolansaň göçilip bilmedi.",1449,nautilus,po/tk.po
+"Cannot move \""%s\"" to the trash because you do not have permissions to change it or its parent folder.",1454,"Siz ene haltany üýtgetmegne ejazaňiz bolmansaň \""%s\"" zibile göçirilib bilmedi.",1457,nautilus,po/tk.po
+Error while copying.,1462,Nusgalamakda hata boldy.,1463,nautilus,po/tk.po
+"\""%s\"" cannot be copied because you do not have permissions to read it.",1467,"Siz ene haltany üýtgetmegne ejazaňiz bolmansaň \""%s\"" nusgalanyp bilmedi",1468,nautilus,po/tk.po
+"Error while copying to \""%s\"".",1475,"\""%s\"" magsadyna nusgalamakda hata boldy.",1476,nautilus,po/tk.po
+There is not enough space on the destination.,1481,Magsadda ýeterlik seleň tapylmady.,1482,nautilus,po/tk.po
+"Error while moving to \""%s\"".",1486,"\""%s\"" magsadyna göçirmekde hata boldy.",1487,nautilus,po/tk.po
+"Error while creating link in \""%s\"".",1491,"\""%s\"" içinde baglaýyş bejermede hata boldy.",1492,nautilus,po/tk.po
+You do not have permissions to write to this folder.,1497,Siz bu halta ýazmana ejazaňiz ýök.,1498,nautilus,po/tk.po
+The destination disk is read-only.,1503,Magsad diski diňe-okalýan disk.,1504,nautilus,po/tk.po
+"Error while moving items to \""%s\"".",1509,"\""%s\"" magsadyna aýtemleri göçirmekde hata boldy.",1510,nautilus,po/tk.po
+"Error while creating links in \""%s\"".",1515,"\""%s\"" içinde baglaýyşlary bejermede hata boldy.",1516,nautilus,po/tk.po
+"Error \""%s\"" while copying \""%s\"".",1520,"\""%s\"" hatasy \""%s\"" nusgalanyp durka tapyldy.",1521,nautilus,po/tk.po
+Would you like to continue?,1531,Dowam edilsinmi?,1532,nautilus,po/tk.po
+"Error \""%s\"" while moving \""%s\"".",1536,"\""%s\"" hatasy \""%s\"" göçirlip durka tapyldy.",1537,nautilus,po/tk.po
+"Error \""%s\"" while creating a link to \""%s\"".",1541,"\""%s\"" hatasy \""%s\"" üçin baglaýyş bejerlip durka tapyldy.",1542,nautilus,po/tk.po
+"Error \""%s\"" while deleting \""%s\"".",1546,"\""%s\"" hatasy \""%s\"" pozilip durka tapyldy.",1547,nautilus,po/tk.po
+"Error \""%s\"" while copying.",1551,"Nusgalamakda \""%s\"" hatasy tapyldy.",1552,nautilus,po/tk.po
+"Error \""%s\"" while moving.",1556,"Göçirmekde \""%s\"" hatasy tapyldy.",1557,nautilus,po/tk.po
+"Error \""%s\"" while linking.",1561,"Baglaýyş bejermekde \""%s\"" hatasy tapyldy.",1562,nautilus,po/tk.po
+"Error \""%s\"" while deleting.",1566,"Pozmokda \""%s\"" hatasy tapyldy.",1567,nautilus,po/tk.po
+Error While Copying,1570,Nusgalamakda hata tapyldy.,1571,nautilus,po/tk.po
+Error While Moving,1574,Göçirmekde hata tapyldy.,1575,nautilus,po/tk.po
+Error While Linking,1578,Baglaýyş bejermekde hata tapyldy.,1579,nautilus,po/tk.po
+Error While Deleting,1582,Pozmokda hata tapyldy.,1583,nautilus,po/tk.po
+_Skip,1589,_Geç,1590,nautilus,po/tk.po
+_Retry,1593,_Ýenede,1594,nautilus,po/tk.po
+"Could not move \""%s\"" to the new location.",1598,"\""%s\"" täze ýere göçirilmeki bolmaýar.",1599,nautilus,po/tk.po
+"The name is already used for a special item that cannot be removed or replaced.  If you still want to move the item, rename it and try again.",1602,Bu ad bir ýöryte aýtem üçin ullanylsaň pozilip ýä ewez edilip başarmaýar. Eger henizde aýtemi göçirjek bolsaňiz öniň adyny ewez etip ýene bir synanyň.,1605,nautilus,po/tk.po
+"Could not copy \""%s\"" to the new location.",1611,"\""%s\"" täze ýere nusgalamagy bolmaýar.",1612,nautilus,po/tk.po
+"The name is already used for a special item that cannot be removed or replaced.  If you still want to copy the item, rename it and try again.",1615,Bu ad bir ýöryte aýtem üçin ullanylsaň pozilip ýä ewez edilip başarmaýar. Eger henizde aýtemi nusgaslajak bolsaňiz öniň adyny ewez etip ýene bir synanyň.,1618,nautilus,po/tk.po
+Unable to Replace File,1624,Faýl ewez etilip bolmayar.,1625,nautilus,po/tk.po
+"The file \""%s\"" already exists.  Would you like to replace it?",1634,"\""%s\"" oňden bar. Oni ewez etjek mi?",1635,nautilus,po/tk.po
+"If you replace an existing file, its contents will be overwritten.",1646,"Eger siz bir bar faýly ewez etseňiz, öniň mazmunlarnyň üstine ýazyljak.",1647,nautilus,po/tk.po
+Conflict While Copying,1652,Nusgalamagda dawa boldy.,1653,nautilus,po/tk.po
+_Replace,1657,_Ewez et,1658,nautilus,po/tk.po
+Replace _All,1661,E_hlini Ewez Et,1662,nautilus,po/tk.po
+link to %s,1673,%s üçin baglaýyş,1674,nautilus,po/tk.po
+another link to %s,1679,%s üçin ýene bir baglaýyş,1680,nautilus,po/tk.po
+%dst link to %s,1688,%2$s üçin %1$d baglaýyşy,1689,nautilus,po/tk.po
+%dnd link to %s,1694,%2$s üçin %1$d baglaýyşy,1695,nautilus,po/tk.po
+%drd link to %s,1700,%2$s üçin %1$d baglaýyşy,1701,nautilus,po/tk.po
+%dth link to %s,1706,%2$s üçin %1$d baglaýyşy,1707,nautilus,po/tk.po
+ (copy),1715, (nusgala),1716,nautilus,po/tk.po
+ (another copy),1720, (ýene bir nusga),1721,nautilus,po/tk.po
+th copy),1731, inji nusgasy),1732,nautilus,po/tk.po
+st copy),1736, inji nusgasy),1737,nautilus,po/tk.po
+nd copy),1741, inji nusgasy),1742,nautilus,po/tk.po
+rd copy),1746, inji nusgasy),1747,nautilus,po/tk.po
+%s (copy)%s,1752,%s (nusga)%s,1753,nautilus,po/tk.po
+%s (another copy)%s,1758,%s (ýene bir nusga)%s,1759,nautilus,po/tk.po
+%s (%dth copy)%s,1770,%s (%d inji copy)%s,1771,nautilus,po/tk.po
+%s (%dst copy)%s,1776,%s (%d inji copy)%s,1777,nautilus,po/tk.po
+%s (%dnd copy)%s,1782,%s (%d inji copy)%s,1783,nautilus,po/tk.po
+%s (%drd copy)%s,1788,%s (%d inji copy)%s,1789,nautilus,po/tk.po
+Unknown GnomeVFSXferProgressStatus %d,1806,Natanyş GnomeVFSXferProgressStatus %d,1807,nautilus,po/tk.po
+Moving files to the Trash,1811,Faýllar zibile göçirilýar,1812,nautilus,po/tk.po
+Moving,1823,Göçiriliş,1824,nautilus,po/tk.po
+Preparing to Move to Trash...,1827,Zibile göçirmek üçin taýýarlanylýar...,1828,nautilus,po/tk.po
+Moving files,1832,Faýllariň göçirilişi,1833,nautilus,po/tk.po
+Preparing To Move...,1842,Göçirmek Üçin Taýýarlanylýar...,1843,nautilus,po/tk.po
+Finishing Move...,1846,Göçirmek Tamalanýar...,1847,nautilus,po/tk.po
+Creating links to files,1851,Faýllara baglaýyş bejerilýar,1852,nautilus,po/tk.po
+Linking,1862,Baglaýyş bejerilşi,1863,nautilus,po/tk.po
+Preparing to Create Links...,1866,Baglaýyş Bejeriliş Üçin Taýýarlanylýar...,1867,nautilus,po/tk.po
+Finishing Creating Links...,1870,Baglaýyş Bejeriliş Tamalanýar...,1871,nautilus,po/tk.po
+Copying files,1875,Faýllar Nusgalanýar,1876,nautilus,po/tk.po
+Copying,1886,Nusgalanmak,1887,nautilus,po/tk.po
+Preparing To Copy...,1890,Nusgalamak Üçin Taýýarlanylýar...,1891,nautilus,po/tk.po
+You cannot copy items into the trash.,1894,Siz aýtemleri zibile nusgalap başarmaýarsiňiz.,1895,nautilus,po/tk.po
+You cannot create links inside the trash.,1898,Siz zibil içinde baglaýyş bejerip başarmaýarsiňiz.,1899,nautilus,po/tk.po
+Files and folders can only be moved into the trash.,1902,Faýllar we haltalar zibile diňe göçirilip bilýärler.,1903,nautilus,po/tk.po
+You cannot move this trash folder.,1906,Siz bu zibil haltany göçirip başarmaýarsiňiz.,1907,nautilus,po/tk.po
+You cannot copy this trash folder.,1910,Siz bu zibil haltany nusgalap başarmaýarsiňiz.,1911,nautilus,po/tk.po
+A trash folder is used for storing items moved to the trash.,1914,Zibil haltasy zibile göçirilen aýtemleri tertiplemek üçin ullanylýar.,1915,nautilus,po/tk.po
+Can't Change Trash Location,1918,Zibil Ýerini Üýtgedip Bolmaýar.,1919,nautilus,po/tk.po
+Can't Copy Trash,1922,Zibili Nusgalap Bolmaýar.,1923,nautilus,po/tk.po
+You cannot move a folder into itself.,1926,Siz bir haltany oz içine göçirip başaramaýarsňiz.,1927,nautilus,po/tk.po
+You cannot copy a folder into itself.,1930,Siz bir haltany oz içine nusgalap başaramaýarsňiz.,1931,nautilus,po/tk.po
+The destination folder is inside the source folder.,1934,Magsad haltasy çeşme haltasynyň içinde.,1935,nautilus,po/tk.po
+Can't Move Into Self,1938,Oz Içine Göçirilip Başaramaýar.,1939,nautilus,po/tk.po
+Can't Copy Into Self,1942,Oz Içine Nusgalanyp Başaramaýar.,1943,nautilus,po/tk.po
+You cannot copy a file over itself.,1946,Siz bir faýly oz üstine nusgalap başaramaýarsňiz.,1947,nautilus,po/tk.po
+The destination and source are the same file.,1950,Magsad we çeşme ikisi hem bir faýl.,1951,nautilus,po/tk.po
+Can't Copy Over Self,1954,Oz Üstine Nusgalanyp Başaramaýar,1955,nautilus,po/tk.po
+You do not have permissions to write to the destination.,1959,Siz magsada ýazmak üçin ejezaňiz ýök.,1960,nautilus,po/tk.po
+There is no space on the destination.,1964,Magsadda seleň tapylmady.,1965,nautilus,po/tk.po
+"Error \""%s\"" creating new folder.",1969,"Täze halta bejermekde \""%s\"" hatasy tapyldy.",1970,nautilus,po/tk.po
+Error creating new folder.,1973,Täze halta bejermekde hata tapyldy.,1974,nautilus,po/tk.po
+Error Creating New Folder,1977,Täze Halta Bejermekde Hata Tapyldy.,1978,nautilus,po/tk.po
+untitled folder,1982,adsyz halta,1983,nautilus,po/tk.po
+"Error \""%s\"" creating new document.",1987,"Täze sened bejermekde \""%s\"" hatasy tapyldy.",1988,nautilus,po/tk.po
+Error creating new document.,1991,Täze sened bejermekde hata tapyldy.,1992,nautilus,po/tk.po
+Error Creating New Document,1995,Täze Sened Bejermekde Hata Tapyldy.,1996,nautilus,po/tk.po
+new file,1999,täze faýl,2000,nautilus,po/tk.po
+Deleting files,2004,Faýllar pozylýar,2005,nautilus,po/tk.po
+Files deleted:,2010,Pozylan faýllar:,2011,nautilus,po/tk.po
+Deleting,2016,Pozylyş,2017,nautilus,po/tk.po
+Preparing to Delete files...,2020,Faýllary Pozmak Üçin Taýýarlanylýar...,2021,nautilus,po/tk.po
+Emptying the Trash,2025,Zibil Boşolýar,2026,nautilus,po/tk.po
+Preparing to Empty the Trash...,2029,Zibili Boşotmak Üçin Taýýarlanylýar...,2030,nautilus,po/tk.po
+_Empty Trash,2048,Zibili _Boşot,2049,nautilus,po/tk.po
+Computer,2054,_Kampýuter,2055,nautilus,po/tk.po
+Network,2058,Şebeke,2059,nautilus,po/tk.po
+Fonts,2062,Kalamlar,2063,nautilus,po/tk.po
+Themes,2066,Temler,2067,nautilus,po/tk.po
+Windows Network,2075,Windows şebekesi,2076,nautilus,po/tk.po
+today at 00:00:00 PM,2099,bugün 00:00:00 PM da,2100,nautilus,po/tk.po
+today at %-I:%M:%S %p,2104,bugün %-I:%M %S %p da,2105,nautilus,po/tk.po
+today at 00:00 PM,2108,bugün 00:00 PM da,2109,nautilus,po/tk.po
+today at %-I:%M %p,2112,bugün %-I:%M %p da,2113,nautilus,po/tk.po
+"today, 00:00 PM",2116,"bugün, 00:00 PM da",2117,nautilus,po/tk.po
+"today, %-I:%M %p",2120,bugün %-I:%M %p da,2121,nautilus,po/tk.po
+today,2125,bugün,2126,nautilus,po/tk.po
+yesterday at 00:00:00 PM,2132,düýn 00:00:00 PM da,2133,nautilus,po/tk.po
+yesterday at %-I:%M:%S %p,2136,düýn %-H:%M :%S %p da,2137,nautilus,po/tk.po
+yesterday at 00:00 PM,2140,düýn 00:00 PM da,2141,nautilus,po/tk.po
+yesterday at %-I:%M %p,2144,düýn %-H:%M %p da,2145,nautilus,po/tk.po
+"yesterday, 00:00 PM",2148,"düýn, 00:00 PM da",2149,nautilus,po/tk.po
+"yesterday, %-I:%M %p",2152,düýn %-I:%M %p da,2153,nautilus,po/tk.po
+yesterday,2157,düýn,2158,nautilus,po/tk.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2166,"Çarşenbe, Sentýabr 00 0000 00:00:00 PM da",2167,nautilus,po/tk.po
+"%A, %B %-d %Y at %-I:%M:%S %p",2170,"%A, %B %-d %Y  %-I:%M:%S %p da",2171,nautilus,po/tk.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2174,"Dü., Okt 00 0000 00:00:00 PM da",2175,nautilus,po/tk.po
+"%a, %b %-d %Y at %-I:%M:%S %p",2178,"%a, %b %-d %Y %-I:%M:%S %p da",2179,nautilus,po/tk.po
+"Mon, Oct 00 0000 at 00:00 PM",2182,"Dü, Okt 00 0000 00:00 PM da",2183,nautilus,po/tk.po
+"%a, %b %-d %Y at %-I:%M %p",2186,"%a, %b %-d %Y %-I:%M %p da",2187,nautilus,po/tk.po
+Oct 00 0000 at 00:00 PM,2190,Okt 00 0000 00:00 da,2191,nautilus,po/tk.po
+%b %-d %Y at %-I:%M %p,2194,%b %-d %Y %-I:%M %p da,2195,nautilus,po/tk.po
+"Oct 00 0000, 00:00 PM",2198,"Okt 00 0000, 00:00 PM da",2199,nautilus,po/tk.po
+"%b %-d %Y, %-I:%M %p",2202,"%b %-d %Y, %-I:%M %p da",2203,nautilus,po/tk.po
+"00/00/00, 00:00 PM",2206,"00/00/00, 00:00 PM da",2207,nautilus,po/tk.po
+"%m/%-d/%y, %-I:%M %p",2210,"%m/%-d/%y, %-I:%M %p da",2211,nautilus,po/tk.po
+%u item,2224,%u aýtem,2226,nautilus,po/tk.po
+%u item,2224,%u aýtem,2227,nautilus,po/tk.po
+%u folder,2231,%u halta,2233,nautilus,po/tk.po
+%u folder,2231,%u halta,2234,nautilus,po/tk.po
+%u file,2238,%u faýl,2240,nautilus,po/tk.po
+%u file,2238,%u faýl,2241,nautilus,po/tk.po
+? items,2246,? aýtem,2247,nautilus,po/tk.po
+? bytes,2251,? baýt,2252,nautilus,po/tk.po
+unknown type,2255,natanyş hil,2256,nautilus,po/tk.po
+unknown MIME type,2259,natanyş MIME hil,2260,nautilus,po/tk.po
+unknown,2267,natanyş,2268,nautilus,po/tk.po
+"No description found for mime type \""%s\"" (file is \""%s\""), please tell the gnome-vfs mailing list.",2283,"\""%s\"" (\""%s\"" faýly) mime hil üçin wasp tapylmady, lütfen gnome-vfs poçtu-list'e habar beriň.",2286,nautilus,po/tk.po
+link,2291,baglaýyş,2292,nautilus,po/tk.po
+link (broken),2295,baglaýyş (döwük),2296,nautilus,po/tk.po
+Trash,2301,Zibil,2302,nautilus,po/tk.po
+_Always,2305,_Hemişe,2306,nautilus,po/tk.po
+_Local File Only,2309,_Diňe ýerli faýllar,2310,nautilus,po/tk.po
+_Never,2313,_Hergiz,2314,nautilus,po/tk.po
+Activate items with a _single click,2392,Aýtemleri _birje-tik bilen janlaşdyr,2393,nautilus,po/tk.po
+Activate items with a _double click,2396,Aýtemleri _iki-tik bilen janlaşdyr,2397,nautilus,po/tk.po
+E_xecute files when they are clicked,2400,Faýllary birje-tik lenede işe sal,2401,nautilus,po/tk.po
+Display _files when they are clicked,2404,Faýllary birje-tik lenede görkez,2405,nautilus,po/tk.po
+_Ask each time,2409,_Her gezek sora,2410,nautilus,po/tk.po
+Search for files by file name only,2413,Faýllary diňe adlary bilen ahtar,2414,nautilus,po/tk.po
+Search for files by file name and file properties,2417,Faýllary adlary we häsiýetlery bilen ahtar,2418,nautilus,po/tk.po
+Icon View,2423,Tymsal Görnöşi,2424,nautilus,po/tk.po
+List View,2429,List Görnöşi,2430,nautilus,po/tk.po
+By Name,2438,Ada Görä,2439,nautilus,po/tk.po
+By Size,2443,Ululyka Görä,2444,nautilus,po/tk.po
+By Type,2448,Hile Görä,2449,nautilus,po/tk.po
+By Modification Date,2453,Üýgetmek Tariha Görä,2454,nautilus,po/tk.po
+By Emblems,2458,Alamatlara Görä,2459,nautilus,po/tk.po
+%s's Home,2507,%sniň Öýy,2508,nautilus,po/tk.po
+editable text,2511,editlenip biljek metin,2512,nautilus,po/tk.po
+the editable label,2515,editlenip biljek etiket,2516,nautilus,po/tk.po
+additional text,2519,goşulga metin,2520,nautilus,po/tk.po
+some more text,2523,bireme kop metin,2524,nautilus,po/tk.po
+highlighted for selection,2527,saýlaw üçin ýagtylandy,2528,nautilus,po/tk.po
+whether we are highlighted for a selection,2531,saýlaw üçin ýagtylanmagy,2532,nautilus,po/tk.po
+highlighted for drop,2543,zyňmak üçin ýagtylandy,2544,nautilus,po/tk.po
+whether we are highlighted for a D&D drop,2547,S&Z üçin ýagtylanmagy,2548,nautilus,po/tk.po
+The selection rectangle,2551,Saýlaw dört-burçlisi,2552,nautilus,po/tk.po
+Frame Text,2555,Gap Metini,2556,nautilus,po/tk.po
+Draw a frame around unselected text,2559,Saýlanmadyk metiniň daşyna bir gap çek,2560,nautilus,po/tk.po
+Selection Box Color,2563,Saýlaw gapyrjak renki,2564,nautilus,po/tk.po
+Color of the selection box,2567,Saýlaw gapyrjak renki,2568,nautilus,po/tk.po
+Selection Box Alpha,2571,Saýlaw gapyrjak alfasy,2572,nautilus,po/tk.po
+Opacity of the selection box,2575,Saýlaw gapyrjak durlyky,2576,nautilus,po/tk.po
+Highlight Alpha,2579,Ýagtylanmak alfasy,2580,nautilus,po/tk.po
+Opacity of the highlight for selected icons,2583,Saýlanan tymsallariň ýagtylanmak durlyky,2584,nautilus,po/tk.po
+Light Info Color,2587,Ýagty Bilgi Renki,2588,nautilus,po/tk.po
+Color used for information text against a dark background,2591,Garaňky arkaplana garşy bilgi metin üçin ullanan renk,2592,nautilus,po/tk.po
+Dark Info Color,2595,Garaňky Bilgi Renki,2596,nautilus,po/tk.po
+Color used for information text against a light background,2599,Ýagty arkaplana garşy bilgi metin üçin ullanan renk,2600,nautilus,po/tk.po
+This folder uses automatic layout.,2612,Bu halta otomatik düzümden ullanýar,2613,nautilus,po/tk.po
+Switch,2638,Geç,2639,nautilus,po/tk.po
+"\""%s\"" is not a valid location.",2750,"\""%s\"" dogry bir ýer däl.",2751,nautilus,po/tk.po
+Please check the spelling and try again.,2759,Lütfen ymlany barlaniň we ýenede bir synanyň.,2760,nautilus,po/tk.po
+Can't Display Location,2771,Ýeri görkzip başarmadym,2772,nautilus,po/tk.po
+Undo Edit,2822,Editi Izine Al,2823,nautilus,po/tk.po
+Undo the edit,2826,Editi izine al,2827,nautilus,po/tk.po
+Redo Edit,2830,Editi Tekrar Et,2831,nautilus,po/tk.po
+Redo the edit,2834,Editi tekrar et,2835,nautilus,po/tk.po
+File Management,2846,Faýl Müdirlemegi,2847,nautilus,po/tk.po
+Home Folder,2850,Öý Haltasy,2851,nautilus,po/tk.po
+View your home folder in the Nautilus file manager,2854,Oa öý haltaňizi nautilusiň faýl müdirinde göriň,2855,nautilus,po/tk.po
+Browse the filesystem with the file manager,2858,Faýlsistemi faýl müdiri bilen ahtar,2859,nautilus,po/tk.po
+Factory for Nautilus shell and file manager,2867,Nautilusiň gabyk we faýl müdiri aýl müdiri üçin karhana,2868,nautilus,po/tk.po
+Nautilus factory,2871,Nautilus karhanasy,2872,nautilus,po/tk.po
+Nautilus shell,2879,Nautilus gabyky,2880,nautilus,po/tk.po
+Background,2893,Arkaplan,2894,nautilus,po/tk.po
+Open T_erminal,2903,_Terminali Aç,2904,nautilus,po/tk.po
+Open a new GNOME terminal window,2908,Bir täze GNOME terminal äpişgesini aç,2909,nautilus,po/tk.po
+Create L_auncher,2914,_Başladyçy Bejer,2915,nautilus,po/tk.po
+Create a new launcher,2920,Bir täze başladyçy bejer,2921,nautilus,po/tk.po
+Change Desktop _Background,2925,Desktap Arkaplany Üýtget,2926,nautilus,po/tk.po
+Show a window that lets you set your desktop background's pattern or color,2930,Size desktap arkaplanyň bejergi we renkini düzmege ejaza berýan äpişgeni görkez.,2932,nautilus,po/tk.po
+Empty Trash,2938,Zibili Boşot,2939,nautilus,po/tk.po
+Delete all items in the Trash,2944,Ehli Zibil aýtemlerni poz,2945,nautilus,po/tk.po
+Desktop,2949,Desktoap,2950,nautilus,po/tk.po
+Open %d Window?,2959,%d äpişge açilsinmi?,2961,nautilus,po/tk.po
+Open %d Window?,2959,%d äpişgeler açilsinmi?,2962,nautilus,po/tk.po
+Are you sure you want to open all files?,2965,Siz ehli faýllar açylmagyna hatyrjem mi?,2966,nautilus,po/tk.po
+This will open %d separate window.,2970,Bu %d aýratyn äpişge açar,2972,nautilus,po/tk.po
+This will open %d separate window.,2970,Bu %d aýratyn äpişgeler açar,2973,nautilus,po/tk.po
+"Are you sure you want to permanently delete \""%s\""?",2977,"Siz \""%s\"" faýly hamişelikçe pozmakyna hatyrjem mi?",2978,nautilus,po/tk.po
+Are you sure you want to permanently delete the %d selected item?,2982,"Siz saýlanan \""%d\"" aýtemi hamişelikçe pozmakyna hatyrjem mi?",2985,nautilus,po/tk.po
+Are you sure you want to permanently delete the %d selected item?,2982,"Siz saýlanan \""%d\"" aýtemi hamişelikçe pozmakyna hatyrjem mi?",2986,nautilus,po/tk.po
+"If you delete an item, it is permanently lost.",2989,Eger siz bir aýtemi pozsaňyz hamişelikçe ýyter.,2990,nautilus,po/tk.po
+Delete?,2993,Pozilsin mi?,2994,nautilus,po/tk.po
+Select Pattern,2997,Saýlanan Bejergi,2998,nautilus,po/tk.po
+_Pattern:,3001,_Bejergi,3002,nautilus,po/tk.po
+"\""%s\"" selected",3006,"\""%s\"" saýlanydi",3007,nautilus,po/tk.po
+%d folder selected,3011,%d halta saýlanydi,3013,nautilus,po/tk.po
+%d folder selected,3011,%d halta saýlanydi,3014,nautilus,po/tk.po
+ (containing %d item),3018, (%d aýtemi eklenýä),3020,nautilus,po/tk.po
+ (containing %d item),3018, (%d aýtemleri eklenýä),3021,nautilus,po/tk.po
+"\""%s\"" selected (%s)",3033,"\""%s\"" saýlandy (%s)",3034,nautilus,po/tk.po
+%d item selected (%s),3038,%d aýtem saýlandy (%s),3040,nautilus,po/tk.po
+%d item selected (%s),3038,%d aýtemleri saýlandy (%s),3041,nautilus,po/tk.po
+%d other item selected (%s),3046,%d başga aýtem saýlandy (%s),3048,nautilus,po/tk.po
+%d other item selected (%s),3046,%d başga aýtemler saýlandy (%s),3049,nautilus,po/tk.po
+"%s, Free space: %s",3053,%s Azat seleň: %s,3054,nautilus,po/tk.po
+"The folder \""%s\"" contains more files than Nautilus can handle.",3074,"\""%s\"" haltasy Nautilusiň elläp başarjakyndan kop faýllar ekleýär.",3075,nautilus,po/tk.po
+Some files will not be displayed.,3078,Bireme faýllar görkezilmer,3079,nautilus,po/tk.po
+Too Many Files,3082,Beter Kop Faýllar,3083,nautilus,po/tk.po
+"Cannot move file to trash, do you want to delete immediately?",3086,"Faýl zibile göçirilip başarmady, ol zöwwe pozylsyn mi?",3087,nautilus,po/tk.po
+"The file \""%s\"" cannot be moved to the trash.",3091,"\""%s\"" faýly zibile göçirilip başarmady",3092,nautilus,po/tk.po
+"Cannot move items to trash, do you want to delete them immediately?",3095,"Aýtemler zibile göçirilip başarmady, olar zöwwe pozylsyn mi?",3096,nautilus,po/tk.po
+"Cannot move some items to trash, do you want to delete these immediately?",3099,"Bireme aýtemler zibile göçirilip başarmady, olar zöwwe pozylsyn mi?",3101,nautilus,po/tk.po
+Delete Immediately?,3104,Zöwwe Pozylsyn mi?,3105,nautilus,po/tk.po
+"Are you sure you want to permanently delete \""%s\"" from the trash?",3109,"Siz \""%s\"" faýly zibilden zöwwe pozylmakyna hatyrjem mi?",3110,nautilus,po/tk.po
+Are you sure you want to permanently delete the %d selected item from the trash?,3114,"Siz \""%d\"" saýlanan aýtemi zibilden zöwwe pozylmakyna hatyrjem mi?",3120,nautilus,po/tk.po
+Are you sure you want to permanently delete the %d selected item from the trash?,3114,"Siz \""%d\"" saýlanan aýtemleri zibilden zöwwe pozylmakyna hatyrjem mi?",3121,nautilus,po/tk.po
+"If you delete an item, it will be permanently lost.",3125,"Eger siz bir aýtemi pozsaňyz, ol zöwwe pozylar.",3126,nautilus,po/tk.po
+Delete From Trash?,3129,Zibilden Pozilsin mi?,3130,nautilus,po/tk.po
+"Use \""%s\"" to open the selected item",3139,"Saýlanan aýtemi açmak üçin \""%s\""den ullan",3140,nautilus,po/tk.po
+"Do you want to run \""%s\"", or display its contents?",3144,"\""%s\"" bitsinmi ýädä öniň mazmuny görkezilsinmi?",3145,nautilus,po/tk.po
+"\""%s\"" is an executable text file.",3149,"\""%s\"" işe salynjak bir faýl.",3150,nautilus,po/tk.po
+Run or Display?,3153,Bitsinmi ýädä Görkezilsinmi,3154,nautilus,po/tk.po
+Run in _Terminal,3157,_Terminal içinde Bitir,3158,nautilus,po/tk.po
+_Display,3161,_Görkez,3162,nautilus,po/tk.po
+_Run,3165,_Bitir,3166,nautilus,po/tk.po
+Cannot open %s,3170,%s açilip bilmedi,3171,nautilus,po/tk.po
+"The filename \""%s\"" indicates that this file is of type \""%s\"". The contents of the file indicate that the file is of type \""%s\"". If you open this file, the file might present a security risk to your system.\n\nDo not open the file unless you created the file yourself, or received the file from a trusted source. To open the file, rename the file to the correct extension for \""%s\"", then open the file normally. Alternatively, use the Open With menu to choose a specific application for the file. ",3175,"\""%s\"" faýl ady faýlyň %s hilden digni görkezýär. Faýlyň mazmuny öniň %s hilden digni görkezýär. Eger siz bu faýly açsaňyz, ol siziň sistemiňize howpsyzlyk risk berib biler.\n\nFaýly öziňiz bejermedik bolsaňiz we ýädä öni bir ynamly çeşmeden almadyk bolsaňiz açmaň. Faýly açmak üçin, öniň adyny %s üçin dogry guruka ewez, şeýlelikde öni kadalyja açyn. Siz Aýry Aç menüsi bilen aýratyn bir programi bu faýl üçin ullanyň.",3184,nautilus,po/tk.po
+"Run \""%s\"" on any selected items",3196,"\""%s\""-i her saýlanan aýtem üstine bitir",3197,nautilus,po/tk.po
+All executable files in this folder will appear in the Scripts menu.,3205,Bu haltaniň içinde ehli işe salynyp biljek faýllat Skriptler menüsinde görüner.,3206,nautilus,po/tk.po
+Choosing a script from the menu will run that script with any selected items as input.,3211,Menüden bir skripti saýlamak skripti ehli saýlanan aýtemleri giriş edip bitirer.,3214,nautilus,po/tk.po
+About Scripts,3219,Skriptler Barada,3220,nautilus,po/tk.po
+"\""%s\"" will be moved if you select the Paste Files command",3247,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%s\"" göçiriler",3248,nautilus,po/tk.po
+"\""%s\"" will be copied if you select the Paste Files command",3253,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%s\"" nusgalanar",3254,nautilus,po/tk.po
+The %d selected item will be moved if you select the Paste Files command,3258,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%d\"" saýlanan aýtem göçiriler",3262,nautilus,po/tk.po
+The %d selected item will be moved if you select the Paste Files command,3258,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%d\"" saýlanan aýtemler göçiriler",3264,nautilus,po/tk.po
+The %d selected item will be copied if you select the Paste Files command,3270,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%d\"" saýlanan aýtemler nusgalanar",3274,nautilus,po/tk.po
+The %d selected item will be copied if you select the Paste Files command,3270,"Eger siz Faýllary Ýapyşdyr buýruky saýlasaňyz \""%d\"" saýlanan aýtemler nusgalanar",3277,nautilus,po/tk.po
+Mount Error,3288,Baglama Hatasy,3289,nautilus,po/tk.po
+Unmount Error,3293,Aýyrma Hatasy,3294,nautilus,po/tk.po
+Eject Error,3298,Çykartma Hatasy,3299,nautilus,po/tk.po
+Link _name:,3312,Baglaýyş _ady:,3313,nautilus,po/tk.po
+Create _Document,3316,_Sened Bejer,3317,nautilus,po/tk.po
+Open Wit_h,3321,_Aýry Aç,3322,nautilus,po/tk.po
+_Scripts,3330,_Skriptler,3331,nautilus,po/tk.po
+_Properties,3341,_Häsiýetler,3342,nautilus,po/tk.po
+View or modify the properties of each selected item,3346,Her saýlanan aýtem häsiýetlerny görkez ýäda üýtget,3347,nautilus,po/tk.po
+Create _Folder,3351,_Halta Bejer,3352,nautilus,po/tk.po
+Create a new empty folder inside this folder,3356,Bu halta içinde bir täze boş halta bejer,3357,nautilus,po/tk.po
+_Empty File,3366,_Boş Faýl,3367,nautilus,po/tk.po
+Create a new empty file inside this folder,3371,Bu halta içinde bir täze boş faýl bejer,3372,nautilus,po/tk.po
+_Open,3377,_Aç,3378,nautilus,po/tk.po
+Open the selected item in this window,3382,Saýlanan aýtemi bu äpişgede aç,3383,nautilus,po/tk.po
+_Open Scripts Folder,3410,Skriptler Haltasini _Aç,3411,nautilus,po/tk.po
+Show the folder containing the scripts that appear in this menu,3415,Bu menü-de görkezilýän skriptleri ekleýän haltany görkez,3416,nautilus,po/tk.po
+Cu_t Files,3421,Faýly _Kes,3422,nautilus,po/tk.po
+Prepare the selected files to be moved with a Paste Files command,3426,Saýlanan faýllary Faýllary Ýabşir buýruky bilen göçirmek üçin taýyarla,3427,nautilus,po/tk.po
+_Copy Files,3432,Faýly _Nusgala,3433,nautilus,po/tk.po
+Prepare the selected files to be copied with a Paste Files command,3437,Saýlanan faýllary Faýllary Ýabşir buýruky bilen nusgalanmak üçin taýyarla,3438,nautilus,po/tk.po
+_Paste Files,3443,Faýllary _Ýapyşdyr,3444,nautilus,po/tk.po
+Move or copy files previously selected by a Cut Files or Copy Files command,3448,Öňki Faýllary Kes we Faýllary Nusgala buýrukler bilen saýlanan faýllary göçir ýädä nusgala,3450,nautilus,po/tk.po
+_Paste Files Into Folder,3458,Faýllary Halta Içine Ýabşyr,3459,nautilus,po/tk.po
+Move or copy files previously selected by a Cut Files or Copy Files command into the selected folder,3463,Öňki Faýllary Kes we Faýllary Nusgala buýrukler bilen saýlanan faýllary saýlanan halta içine göçir ýädä nusgala,3466,nautilus,po/tk.po
+Select _All Files,3472,_Ehli Faýllar Saýla,3473,nautilus,po/tk.po
+Select all items in this window,3477,Bu äpişgeniň içinde ehli aýtemleri saýla,3478,nautilus,po/tk.po
+Select _Pattern,3482,Bejergini Saýla,3483,nautilus,po/tk.po
+Select items in this window matching a given pattern,3487,Bu äpişgeniň içinde aýtemleri berilen bejergi bilen nezirläb saýla,3488,nautilus,po/tk.po
+D_uplicate,3492,_Ikile,3493,nautilus,po/tk.po
+Duplicate each selected item,3497,Her bir saýlanan aýtemi ikile,3498,nautilus,po/tk.po
+Ma_ke Link,3503,Baglaýyşy _Bejer,3504,nautilus,po/tk.po
+Create a symbolic link for each selected item,3508,Her saýlanan aýtem üçin bir simbolik-baglaýyş bejer,3509,nautilus,po/tk.po
+_Rename...,3513,Ýenbeden Ad Dak...,3514,nautilus,po/tk.po
+Rename selected item,3518,Saýlanan aýtemleriň adyny üýtget,3519,nautilus,po/tk.po
+Mo_ve to Trash,3525,Zibile Göçir,3526,nautilus,po/tk.po
+Move each selected item to the Trash,3531,Ehli saýlanan aýtemleri Zibile göçir,3532,nautilus,po/tk.po
+_Delete,3537,_Poz,3538,nautilus,po/tk.po
+"Delete each selected item, without moving to the Trash",3542,Her bir saýlanan aýtemi Zibile göçirmäni poz,3543,nautilus,po/tk.po
+Reset View to _Defaults,3547,Görnöşi _Ön Bellenene Sifirle,3548,nautilus,po/tk.po
+Reset sorting order and zoom level to match preferences for this view,3552,Tertiblemek tertibini we ulaldyş derejesini bu görnöş bilen nezirlemek üçin sifirle,3553,nautilus,po/tk.po
+_Mount Volume,3570,_Hejmi Bagla,3571,nautilus,po/tk.po
+Mount the selected volume,3575,Saýlanan hejmi bagla,3576,nautilus,po/tk.po
+_Unmount Volume,3581,Hejmi Aýyr,3582,nautilus,po/tk.po
+Unmount the selected volume,3586,Saýlanan hejmi baglamadan aýyr,3587,nautilus,po/tk.po
+Open in New Window,3628,Täze Äpişgede Aç,3630,nautilus,po/tk.po
+Open in New Window,3628,Täze %d Äpişgelerde Aç,3631,nautilus,po/tk.po
+_Delete from Trash,3644,Zibil içinden Poz,3645,nautilus,po/tk.po
+Delete all selected items permanently,3648,Ehli saýlanan aýtemleri hamişelikçe poz,3649,nautilus,po/tk.po
+Ma_ke Links,3652,Baglaýyşlary _Bejer,3653,nautilus,po/tk.po
+Cu_t File,3656,Faýllary _Kes,3657,nautilus,po/tk.po
+_Copy File,3660,Faýllary _Nusgala,3661,nautilus,po/tk.po
+"The link is broken, do you want to move it to the Trash?",3664,"Baglaýyş döwük çikdi, öni zibile göçirmeli mi?",3665,nautilus,po/tk.po
+"This link can't be used, because it has no target.",3668,Baglaýyş maksady bolmansaň ullanyb başarmaşar.,3669,nautilus,po/tk.po
+"This link can't be used, because its target \""%s\"" doesn't exist.",3673,Baglaýyş %s maksady bolmansaň ullanyb başarmaşar.,3674,nautilus,po/tk.po
+Broken Link,3677,Döwük Baglaýyş,3678,nautilus,po/tk.po
+"Opening \""%s\"".",3682,"\""%s\"" açilşi.",3683,nautilus,po/tk.po
+Cancel Open?,3686,Açylma Ybtal Edilsin mi?,3687,nautilus,po/tk.po
+Drag and drop is not supported.,3712,Süýremek we zyňmak arkalanmaýar.,3713,nautilus,po/tk.po
+Drag and drop is only supported on local file systems.,3716,Süýremek we zyňmak diňe ýeli faýl-sistemlerde arkalanýar.,3717,nautilus,po/tk.po
+Drag and Drop Error,3722,Süýremek we Zyňmak Hatasy,3723,nautilus,po/tk.po
+An invalid drag type was used.,3727,Maýyp süýremek hili ullanylypdir.,3728,nautilus,po/tk.po
+"You do not have the permissions necessary to view the contents of \""%s\"".",3756,"Siz \""%s\"" mazmunyny görmek üçin gerek ejazaňiz ýok.",3758,nautilus,po/tk.po
+"\""%s\"" couldn't be found. Perhaps it has recently been deleted.",3762,"\""%s\"" tapylmady. Ol pozylan bolmaly.",3763,nautilus,po/tk.po
+"Sorry, couldn't display all the contents of \""%s\"".",3767,"Bagyşlaň, \""%s\"" ehli mazmuny görkezilip başarmady.",3768,nautilus,po/tk.po
+The folder contents could not be displayed.,3771,Halta mazmuny görkezilip başarmady.,3772,nautilus,po/tk.po
+Error Displaying Folder,3775,Haltany görkezmekde hata boldy.,3776,nautilus,po/tk.po
+"The name \""%s\"" is already used in this folder. Please use a different name.",3780,"\""%s\"" ady bu haltada ullanylyp dir. Başgfa bir ady ullanyň.",3782,nautilus,po/tk.po
+"There is no \""%s\"" in this folder. Perhaps it was just moved or deleted?",3786,"Bu haltada \""%s\"" tapylmady. Ol göçirlipdir yädä pozylypdyr.",3788,nautilus,po/tk.po
+"You do not have the permissions necessary to rename \""%s\"".",3792,"Siz \""%s\"" adyny üýtgetmek üçin gerek ejazaňiz ýok.",3793,nautilus,po/tk.po
+"The name \""%s\"" is not valid because it contains the character \""/\"". Please use a different name.",3797,"\""%s\"" bir dogry ad däl. öniň içinde \""/\"" karakteri bar. Lütfen başga bir ady ullanyň.",3800,nautilus,po/tk.po
+"The name \""%s\"" is not valid. Please use a different name.",3806,"\""%s\"" bir dogry ad däl. Lütfen başga bir ady ullanyň.",3807,nautilus,po/tk.po
+"Couldn't change the name of \""%s\"" because it is on a read-only disk",3811,"\""%s\"" ady üýtgetib başarylmady. Ol diňe-okalýan bir diskiň üstinde dir.",3812,nautilus,po/tk.po
+"Sorry, couldn't rename \""%s\"" to \""%s\"".",3817,"Bagyşlaň, \""%s\"" ady \""%s\"" ada üýtgetib başarylmady.",3818,nautilus,po/tk.po
+The item could not be renamed.,3821,Aýtemiň ady üýtgetib başarylyýar.,3822,nautilus,po/tk.po
+Renaming Error,3825,Ad Üýtgetmegiň Hatasi,3826,nautilus,po/tk.po
+"You do not have the permissions necessary to change the group of \""%s\"".",3830,"Siz \""%s\"" toparyny üýtgetmek üçin gerek ejazaňiz ýok.",3832,nautilus,po/tk.po
+"Couldn't change the group of \""%s\"" because it is on a read-only disk",3836,"\""%s\"" toparyny üýtgetib başarylmady. Ol diňe-okalýan bir diskiň üstinde dir.",3837,nautilus,po/tk.po
+"Sorry, couldn't change the group of \""%s\"".",3842,"Bagişlaň, \""%s\"" toparyny üýtgetib başarylmady.",3843,nautilus,po/tk.po
+The group could not be changed.,3846,Topar üýtgetib başarylmady.,3847,nautilus,po/tk.po
+Error Setting Group,3850,Topary düzmede hata boldy.,3851,nautilus,po/tk.po
+"Couldn't change the owner of \""%s\"" because it is on a read-only disk",3855,"\""%s\"" eýesi üýtgetib başarylmady. Ol diňe-okalýan bir diskiň üstinde dir.",3856,nautilus,po/tk.po
+"Sorry, couldn't change the owner of \""%s\"".",3861,"Bagişlaň, \""%s\"" eýesi üýtgetib başarylmady.",3862,nautilus,po/tk.po
+The owner could not be changed.,3865,Eýe üýtgetib başarylmady.,3866,nautilus,po/tk.po
+Error Setting Owner,3869,Eýeni düzmede hata boldy.,3870,nautilus,po/tk.po
+"Couldn't change the permissions of \""%s\"" because it is on a read-only disk",3874,"\""%s\"" ejazalarny üýtgetib başarylmady. Ol diňe-okalýan bir diskiň üstinde dir.",3876,nautilus,po/tk.po
+"Sorry, couldn't change the permissions of \""%s\"".",3882,"Bagişlaň, \""%s\"" ejazalarny üýtgetib başarylmady.",3883,nautilus,po/tk.po
+The permissions could not be changed.,3886,Ejazalar üýtgetib başarylmady.,3887,nautilus,po/tk.po
+Error Setting Permissions,3890,Ejazalary düzmede hata boldy.,3891,nautilus,po/tk.po
+Cancel Rename?,3899,"\""%s\"" ady \""%s\"" ada üýtgetilýär.",3900,nautilus,po/tk.po
+by _Name,3903,_Ada görä,3904,nautilus,po/tk.po
+Keep icons sorted by name in rows,3907,Tymsallar ada görä tertible,3908,nautilus,po/tk.po
+by _Size,3911,_Ululyk görä,3912,nautilus,po/tk.po
+Keep icons sorted by size in rows,3915,Tymsallary ululyka görä tertible,3916,nautilus,po/tk.po
+by _Type,3919,_Hile görä,3920,nautilus,po/tk.po
+Keep icons sorted by type in rows,3923,Tymsallary hile görä tertible,3924,nautilus,po/tk.po
+by Modification _Date,3927,Üýgetmek taryhyna görä,3928,nautilus,po/tk.po
+Keep icons sorted by modification date in rows,3931,Tymsallary üýgetmek taryhyna görä tertible,3932,nautilus,po/tk.po
+by _Emblems,3935,_Alamatlara görä,3936,nautilus,po/tk.po
+Keep icons sorted by emblems in rows,3939,Tymsallary alamatlara görä tetible,3940,nautilus,po/tk.po
+Arran_ge Items,3943,Aýtemleri _Düze,3944,nautilus,po/tk.po
+Str_etch Icon,3949,Tymsallary _Süýnder,3950,nautilus,po/tk.po
+Make the selected icon stretchable,3954,Saýlanan tymsaly süýnerleik ed,3955,nautilus,po/tk.po
+Restore Icons' Original Si_zes,3959,Tymsallaryň Esli _Ululyklaryny Gaytar.,3960,nautilus,po/tk.po
+Restore each selected icon to its original size,3964,Her saýlanan tymsaly esli ululykna gaytar,3965,nautilus,po/tk.po
+Clean _Up by Name,3969,Ada Görä _Temizle,3970,nautilus,po/tk.po
+Compact _Layout,3982,Sikik _Düzümi,3983,nautilus,po/tk.po
+Display icons in the opposite order,3997,Tymsallary ters tetibi bilen görkez,3998,nautilus,po/tk.po
+Keep icons lined up on a grid,4007,Tymsallary tor üstinde düz,4008,nautilus,po/tk.po
+Leave icons wherever they are dropped,4015,Tymsallar nirede zyňylan bolsa dursun,4016,nautilus,po/tk.po
+By _Name,4019,_Ada Görä,4020,nautilus,po/tk.po
+By _Size,4023,_Ululyka Görä,4024,nautilus,po/tk.po
+By _Type,4027,_Hile Görä,4028,nautilus,po/tk.po
+By Modification _Date,4031,Üýtgemek _Tariha Görä,4032,nautilus,po/tk.po
+By _Emblems,4035,_Alamatlara Görä,4036,nautilus,po/tk.po
+Restore Icon's Original Si_ze,4039,Tymsalyň Esli _Ululykny Gaytar.,4040,nautilus,po/tk.po
+"pointing at \""%s\""",4044,"\""%s\"" jaýyna yşara edilýär.",4045,nautilus,po/tk.po
+Icons,4048,Tymsallar,4049,nautilus,po/tk.po
+%s Visible Columns,4058,%s aýan sütünler.,4059,nautilus,po/tk.po
+Choose the order of information to appear in this folder.,4062,Bu halta görinjek bilgileriň düzgünini saýlaň.,4063,nautilus,po/tk.po
+Visible _Columns...,4067,Aýan Sütünler...,4068,nautilus,po/tk.po
+Select the columns visible in this folder,4072,Bu haltada aýan sütünleri saýla,4073,nautilus,po/tk.po
+You can't assign more than one custom icon at a time!,4085,Siz birden köp tymsaly bir zamanda yapyp başarmaýarsiňiz.,4086,nautilus,po/tk.po
+Please drag just one image to set a custom icon.,4090,Bir şahsy tymsaly düzmek üçin lütfen diňe birje tymsaly süýräň.,4091,nautilus,po/tk.po
+More Than One Image,4095,Birden Köp Resim,4096,nautilus,po/tk.po
+The file that you dropped is not local.,4100,Siziň zyňan faýlyňyz ýerli faýl däl.,4101,nautilus,po/tk.po
+You can only use local images as custom icons.,4106,Siz diňe ýerli resimleri icon ýaly ullanyp başarýarsiňiz.,4107,nautilus,po/tk.po
+Local Images Only,4111,Diňe Ýerli Resimler,4112,nautilus,po/tk.po
+The file that you dropped is not an image.,4116,Siziň zyňan faýlyňyz resim faýl däl.,4117,nautilus,po/tk.po
+Images Only,4121,Diňe Resimler,4122,nautilus,po/tk.po
+Properties,4126,Häsiýetler,4127,nautilus,po/tk.po
+%s Properties,4131,%s Häsiýetleri,4132,nautilus,po/tk.po
+Cancel Group Change?,4135,Topar Üýtgemekni Ybtal Et.,4136,nautilus,po/tk.po
+Changing group.,4139,Topar Üýtgelýär.,4140,nautilus,po/tk.po
+Cancel Owner Change?,4143,Eýe Üýtgemekni Ybtal Et.,4144,nautilus,po/tk.po
+Changing owner.,4147,Eýe Üýtgelýär.,4148,nautilus,po/tk.po
+nothing,4151,hiç,4152,nautilus,po/tk.po
+unreadable,4155,okalyp başarmaýar,4156,nautilus,po/tk.po
+(some contents unreadable),4166,(bireme mazmunlar okalyp başarmaýar),4167,nautilus,po/tk.po
+Contents:,4176,Mazmunlar:,4177,nautilus,po/tk.po
+Basic,4180,Asasy,4181,nautilus,po/tk.po
+_Names:,4184,_Adlar:,4185,nautilus,po/tk.po
+_Name:,4188,_Ad:,4189,nautilus,po/tk.po
+Type:,4192,Hil:,4193,nautilus,po/tk.po
+Size:,4213,Ululyk:,4214,nautilus,po/tk.po
+Location:,4217,Ýer:,4218,nautilus,po/tk.po
+Volume:,4221,Hejm:,4222,nautilus,po/tk.po
+Free space:,4225,Azat Seleň:,4226,nautilus,po/tk.po
+Link target:,4229,Baglaýyş magsad:,4230,nautilus,po/tk.po
+MIME type:,4233,MIME hili:,4234,nautilus,po/tk.po
+Modified:,4237,Üýtgedi:,4238,nautilus,po/tk.po
+Accessed:,4241,Elýetgiş:,4242,nautilus,po/tk.po
+_Select Custom Icon...,4245,Şahsy Tymsallary _Saýla...,4246,nautilus,po/tk.po
+_Remove Custom Icon,4249,_Şahsy Tymsallary _Çykar...,4250,nautilus,po/tk.po
+Emblems,4254,Alamatlar,4255,nautilus,po/tk.po
+_Read,4258,_Oka,4259,nautilus,po/tk.po
+_Write,4262,_Ýaz,4263,nautilus,po/tk.po
+E_xecute,4266,_Işe sal,4267,nautilus,po/tk.po
+Set _user ID,4270,_Ullançy ID-sini düz,4271,nautilus,po/tk.po
+Special flags:,4274,Ýöryte baýdaklar:,4275,nautilus,po/tk.po
+Set gro_up ID,4278,_Topar ID-sini düz,4279,nautilus,po/tk.po
+"You are not the owner, so you can't change these permissions.",4286,​Siz eýe bolmansaňiz ejazalary üýtgetip başarmaýarsiňiz.,4287,nautilus,po/tk.po
+File _owner:,4290,Faýl _eýesi:,4291,nautilus,po/tk.po
+File owner:,4294,Faýl eýesi:,4295,nautilus,po/tk.po
+_File group:,4298,Faýl _topary:,4299,nautilus,po/tk.po
+File group:,4302,Faýl topary:,4303,nautilus,po/tk.po
+Owner:,4306,Eýe:,4307,nautilus,po/tk.po
+Group:,4310,Topar:,4311,nautilus,po/tk.po
+Others:,4314,Başgalar:,4315,nautilus,po/tk.po
+Text view:,4318,Metin görnöşi:,4319,nautilus,po/tk.po
+Number view:,4322,San görnöşi:,4323,nautilus,po/tk.po
+Last changed:,4326,Iň soňky üýtgemek:,4327,nautilus,po/tk.po
+"The permissions of \""%s\"" could not be determined.",4331,"\""%s\"" ejazalary seljerilip bilmedi.",4332,nautilus,po/tk.po
+The permissions of the selected file could not be determined.,4335,Saýlanan faýliň ejazalary seljerilip bilmedi.,4336,nautilus,po/tk.po
+There was an error displaying help.,4339,Ýardamy görkezmede hata boldy.,4340,nautilus,po/tk.po
+Couldn't Show Help,4343,Ýardam Görkezilip Bilmedi.,4344,nautilus,po/tk.po
+Cancel Showing Properties Window?,4352,Häsiýetlar Äpişgäni Görkezmegi Ybtal Edilmelimi?,4353,nautilus,po/tk.po
+Creating Properties window.,4356,Häsiýetlar Äpişgesi Bejerilýäar.,4357,nautilus,po/tk.po
+Select an icon,4360,Bir tymsaly saýla,4361,nautilus,po/tk.po
+(Empty),4364,(Puç),4365,nautilus,po/tk.po
+Loading...,4368,Ýüklenýär...,4369,nautilus,po/tk.po
+E_ject,4372,_Çykart,4373,nautilus,po/tk.po
+Open,4376,Aç,4377,nautilus,po/tk.po
+Create Folder,4381,Halta Bejer,4382,nautilus,po/tk.po
+Cut Folder,4385,Haltany Kes,4386,nautilus,po/tk.po
+Copy Folder,4389,Haltany Nusgala,4390,nautilus,po/tk.po
+Paste Files into Folder,4393,Faýllar halta ýabşyr,4394,nautilus,po/tk.po
+Move to Trash,4397,Zibile Göçyr,4398,nautilus,po/tk.po
+Filesystem,4401,Faýl-Sistemler,4402,nautilus,po/tk.po
+Network Neighbourhood,4405,Şebeke Töwereki,4406,nautilus,po/tk.po
+Tree,4409,Bag,4410,nautilus,po/tk.po
+"Nautilus could not create the required folder \""%s\"".",4418,"Nautilus gerek \""%s\"" haltany bejerip başarmady.",4419,nautilus,po/tk.po
+"Before running Nautilus, please create the following folder, or set permissions such that Nautilus can create it.",4422,Nautilusi bitirmekden öňinçä  bu haltany bejeriň ýädä Nautilus ony üýgetmek üçin ejezalari düziň.,4425,nautilus,po/tk.po
+Couldn't Create Required Folders,4430,Gerek haltany bejerip başarmady.,4431,nautilus,po/tk.po
+Nautilus could not create the following required folders: %s.,4435,Nutilus bu gerek haltalary bejerip bilmedi: %s,4436,nautilus,po/tk.po
+"Before running Nautilus, please create these folders, or set permissions such that Nautilus can create them.",4439,Nautilusi bitirmekden öňinçä  bu haltalary bejeriň ýädä Nautilus olary üýgetmek üçin ejezalari düziň.,4442,nautilus,po/tk.po
+Link To Old Desktop,4447,Köne Desktap Üçin Baglaýyş,4448,nautilus,po/tk.po
+"A link called \""Link To Old Desktop\"" has been created on the desktop.",4451,"\""Öňki Desktap Üçin Baglaýyş\"" adly baglaýyş desktapda bejeriljek.",4452,nautilus,po/tk.po
+There was an error displaying help: \n%s,4541,Ýardamy görkezmede hata böldi: \n%s,4544,nautilus,po/tk.po
+No bookmarks defined,4549,Nişanlar bellenmäpdir,4550,nautilus,po/tk.po
+<b>_Bookmarks</b>,4553,<b>_Nişanlar</b>,4554,nautilus,po/tk.po
+<b>_Location</b>,4557,<b>_Ýer</b>,4558,nautilus,po/tk.po
+<b>_Name</b>,4561,<b>_Ad</b>,4562,nautilus,po/tk.po
+Edit Bookmarks,4565,Nişanlary Editle,4566,nautilus,po/tk.po
+Can't Connect to Server,4575,Gullukçiýa Baglanyp Başarmday,4576,nautilus,po/tk.po
+You must enter a name for the server.,4579,Siz gullukçi adyny bermeli.,4580,nautilus,po/tk.po
+Please enter a name and try again.,4583,Lütfen bir ad berib ýenede bir synanyň.,4584,nautilus,po/tk.po
+Connect to Server,4631,Gullukçiýa Baglan,4632,nautilus,po/tk.po
+C_onnect,4674,_Baglan,4675,nautilus,po/tk.po
+Couldn't remove emblem with name '%s'.,4679,'%s' adly alamaty çykarmak mümkin däl.,4680,nautilus,po/tk.po
+"This is probably because the emblem is a permanent one, and not one you added yourself.",4683,Alamtiň hemişelik bolmagy ahmal we mümkin ki siz ony eklemedik böldiňiz.,4686,nautilus,po/tk.po
+Couldn't Remove Emblem,4690,Alamaty çykarmak mümkin däl,4691,nautilus,po/tk.po
+Couldn't rename emblem with name '%s'.,4695,'%s' adly alamatyň adyny ewez etmek mümkin däl.,4696,nautilus,po/tk.po
+"This is probably because the emblem is a permanent one, and not one that you added yourself.",4699,Alamtiň hemişelik bolmagy ahmal we mümkin ki siz ony eklemedik böldiňiz.,4702,nautilus,po/tk.po
+Couldn't Rename Emblem,4706,Alamaty adyny ewez etmek mümkin däl,4707,nautilus,po/tk.po
+Rename Emblem,4710,Alamaty Adyny Ewez et,4711,nautilus,po/tk.po
+Enter a new name for the displayed emblem:,4714,Görkezilen alamat üçin täze bir ad ber.,4715,nautilus,po/tk.po
+Rename,4718,Adyuny Ewez et,4719,nautilus,po/tk.po
+Add Emblems...,4722,Alamatlary Ekle...,4723,nautilus,po/tk.po
+Enter a descriptive name next to each emblem.  This name will be used in other places to identify the emblem.,4726,Her bir alamat üçin wasply bir ad ber.  Bu ad başga ýerlerde alamaty tanimak üçin ullanyb biler.,4729,nautilus,po/tk.po
+Enter a descriptive name next to the emblem.  This name will be used in other places to identify the emblem.,4734,Alamat üçin wasply bir ad ber.  Bu ad başga ýerlerde alamaty tanimak üçin ullanyb biler.,4737,nautilus,po/tk.po
+Some of the files could not be added as emblems.,4742,Bireme faýllar alamat bolyp eklenib başarmady.,4743,nautilus,po/tk.po
+The emblems do not appear to be valid images.,4746,Alamatlar dogry resim bolyp görünmýiärler.,4747,nautilus,po/tk.po
+Couldn't Add Emblems,4750,Alamatlary eklenib başarmadylar.,4751,nautilus,po/tk.po
+None of the files could be added as emblems.,4754,Hiç bir faýl alamat bolyp eklenib başarmady.,4755,nautilus,po/tk.po
+The emblem cannot be added.,4759,Alamat eklenib başarmady.,4760,nautilus,po/tk.po
+The dragged text was not a valid file location.,4763,Süýrenen metin dogry bir faýl ýery däl.,4764,nautilus,po/tk.po
+Couldn't Add Emblem,4768,Alamat eklenib başarmady.,4769,nautilus,po/tk.po
+The file '%s' does not appear to be a valid image.,4773,'%s' faýly dogry bir resim bolyp görünmýiär.,4774,nautilus,po/tk.po
+The dragged file does not appear to be a valid image.,4777,Süýrenen faý dogry bir resim bolyp görünmýiär.,4778,nautilus,po/tk.po
+None,4781,Hiç,4782,nautilus,po/tk.po
+"<span weight=\""bold\"">Default View</span>",4811,"<span weight=\""bold\"">Ön Bellenen Görnişi</span>",4812,nautilus,po/tk.po
+"<span weight=\""bold\"">Executable Text Files</span>",4815,"<span weight=\""bold\"">Işe Salnip Biljek Metin Faýllar</span>",4816,nautilus,po/tk.po
+"<span weight=\""bold\"">Folders</span>",4819,"<span weight=\""bold\"">Haltalar</span>",4820,nautilus,po/tk.po
+"<span weight=\""bold\"">Icon Captions</span>",4823,"<span weight=\""bold\"">Tymsal Ýazy</span>",4824,nautilus,po/tk.po
+"<span weight=\""bold\"">Icon View Defaults</span>",4827,"<span weight=\""bold\"">Tymsaliň Ön Bellenen Görnişi</span>",4828,nautilus,po/tk.po
+"<span weight=\""bold\"">List Columns</span>",4831,"<span weight=\""bold\"">Listiň  Sütünleri</span>",4832,nautilus,po/tk.po
+"<span weight=\""bold\"">List View Defaults</span>",4835,"<span weight=\""bold\"">List Görnişiniň  Ön Bellenenleri</span>",4836,nautilus,po/tk.po
+"<span weight=\""bold\"">Other Previewable Files</span>",4839,"<span weight=\""bold\"">Başga Ön Namaýyşlanyp Biljek Faýllar</span>",4840,nautilus,po/tk.po
+"<span weight=\""bold\"">Sound Files</span>",4843,"<span weight=\""bold\"">Ses Faýllar</span>",4844,nautilus,po/tk.po
+"<span weight=\""bold\"">Text Files</span>",4847,"<span weight=\""bold\"">Metin Faýllar</span>",4848,nautilus,po/tk.po
+"<span weight=\""bold\"">Trash</span>",4851,"<span weight=\""bold\"">Zibil</span>",4852,nautilus,po/tk.po
+"<span weight=\""bold\"">Tree View Defaults</span>",4855,"<span weight=\""bold\"">Bag Görnişiniň  Ön Bellenenleri</span>",4856,nautilus,po/tk.po
+Always,4859,Hemişe,4860,nautilus,po/tk.po
+Behavior,4872,Boluş,4873,nautilus,po/tk.po
+Choose the order of information to appear in the list view.,4882,List görnöşinde görkeziljek bilgileriň tertibini görkez.,4883,nautilus,po/tk.po
+Count _number of items:,4886,Aýtemleri _sana:,4887,nautilus,po/tk.po
+Default _zoom level:,4890,Ön bellenen ulaldyş derejesi:,4891,nautilus,po/tk.po
+File Management Preferences,4899,Faýl Müdirlemeg Seçenekleri,4900,nautilus,po/tk.po
+I_nclude a Delete command that bypasses Trash,4903,Zibili sowmak üçin bir Poz buýruky ekle,4904,nautilus,po/tk.po
+List Columns,4907,List Sütünleri,4908,nautilus,po/tk.po
+Local Files Only,4911,Diňe Ýerli Faýllr,4912,nautilus,po/tk.po
+MIME type,4915,MIME hili,4916,nautilus,po/tk.po
+Never,4919,Hergiz,4920,nautilus,po/tk.po
+Preview,4923,Ön Namaýyş,4924,nautilus,po/tk.po
+Preview _sound files:,4927,_Ses faýllaryň ön namaýyşy:,4928,nautilus,po/tk.po
+Show _only folders,4931,Diňe haltalary görkez,4932,nautilus,po/tk.po
+Show hidden and _backup files,4939,Gizlin we _zapas faýllary görkez,4940,nautilus,po/tk.po
+Show te_xt in icons:,4943,Tymsallarda _metini görkez,4944,nautilus,po/tk.po
+Sort _folders before files,4947,_Haltalary faýllardan öňinçä tertible,4948,nautilus,po/tk.po
+View _new folders using:,4951,_Täze haltalary bunu ullanyb görkez,4952,nautilus,po/tk.po
+Views,4955,Görnöşler,4956,nautilus,po/tk.po
+_Arrange items:,4959,Aýtemleri _Düzümle,4960,nautilus,po/tk.po
+_Default zoom level:,4963,Ön bellenen ulaldyş derejesi:,4964,nautilus,po/tk.po
+_Double click to activate items,4967,Aýtemleri janlaşdyrmak üçin _iki-tikle,4968,nautilus,po/tk.po
+_Only for files smaller than:,4976,_Diňe bu ululykdan kiçijek faýllar üçin:,4977,nautilus,po/tk.po
+_Run executable text files when they are clicked,4980,Işeňger metin faýllary tiklenende _bitir.,4981,nautilus,po/tk.po
+_Single click to activate items,4984,Aýtemleri janlaşdyrmak üçin _bir-tikle,4985,nautilus,po/tk.po
+_Text beside icons,4988,_Metin tymsallariň ýanynda,4989,nautilus,po/tk.po
+_Use compact layout,4992,Sikik düzümden _ullan,4993,nautilus,po/tk.po
+_View executable text files when they are clicked,4996,Işeňger metin faýllary tiklenende _görkez.,4997,nautilus,po/tk.po
+date accessed,5000,el ýetirmek taryhy,5001,nautilus,po/tk.po
+date modified,5004,üýtgemek taryhy,5005,nautilus,po/tk.po
+group,5008,topar,5009,nautilus,po/tk.po
+none,5027,hiç,5028,nautilus,po/tk.po
+octal permissions,5031,sekizlik ejazalar,5032,nautilus,po/tk.po
+owner,5035,eýe,5036,nautilus,po/tk.po
+permissions,5039,ejazalar,5040,nautilus,po/tk.po
+size,5043,ululyk,5044,nautilus,po/tk.po
+type,5047,hil,5048,nautilus,po/tk.po
+Existence of this file indicates that the Nautilus configuration druid\nhas been presented.\n\nYou can manually erase this file to present the druid again.\n,5051,Bu faýlyň barlygy Nautilusiň tenzimlemek jadygöý işe salynşyny\ngörkezýär.\n\nsSiz jadygöýy ýenede işe salmak üçin bu faýly pozyb bilersiňiz.\n,5056,nautilus,po/tk.po
+History,5063,Geçmiş,5064,nautilus,po/tk.po
+Camera Brand,5067,Fotograf Tagmasy,5068,nautilus,po/tk.po
+Camera Model,5071,Fotograf Modeli,5072,nautilus,po/tk.po
+Date Taken,5075,Çekilen Taryhy,5076,nautilus,po/tk.po
+Exposure Time,5079,Paş Zamany,5080,nautilus,po/tk.po
+Exposure Program,5083,Paş Programi,5084,nautilus,po/tk.po
+Aperture Value,5087,Deşik mykdary,5088,nautilus,po/tk.po
+Metering Mode,5091,Ölçmek Modi,5092,nautilus,po/tk.po
+Flash Fired,5095,Ýyldyram ýyldyrady,5096,nautilus,po/tk.po
+Focal Length,5099,Orta Uzynlyky,5100,nautilus,po/tk.po
+Shutter Speed,5103,Gabsa Tizliki,5104,nautilus,po/tk.po
+ISO Speed Rating,5107,ISO Tizlik Desselemeki,5108,nautilus,po/tk.po
+Software,5111,Program,5112,nautilus,po/tk.po
+Failed to load image information,5126,Resim bilgilerni ýüklemede hata boldy,5127,nautilus,po/tk.po
+loading...,5130,Ýüklemek...,5131,nautilus,po/tk.po
+Image,5134,Resim,5135,nautilus,po/tk.po
+Information,5138,_Bilgiler,5139,nautilus,po/tk.po
+Use _Default Background,5143,_Ön Bellenen Arkaplany Ullan,5144,nautilus,po/tk.po
+You can't assign more than one custom icon at a time.,5147,Siz birden köp tymsaly bir zamanda yapyp başarmaýarsiňiz.,5148,nautilus,po/tk.po
+You can only use images as custom icons.,5151,Siz diňe ýerli resimleri icon ýaly ullanyp başarýarsiňiz.,5152,nautilus,po/tk.po
+Open with %s,5156,%s bilen aç,5157,nautilus,po/tk.po
+Unable to launch the cd burner application.,5160,cd ýazujy programy başlab bolmady.,5161,nautilus,po/tk.po
+Can't Launch CD Burner,5164,CD Ýazujy Başlanyp Bilmedi,5165,nautilus,po/tk.po
+Empty _Trash,5169,_Zibili Boşald,5170,nautilus,po/tk.po
+_Write contents to CD,5174,_Mazmunlary CD içine ýaz,5175,nautilus,po/tk.po
+Go To:,5178,Git:,5179,nautilus,po/tk.po
+Do you want to view %d location?,5183,%d ýeri açjakmiňiz?,5185,nautilus,po/tk.po
+Do you want to view %d location?,5183,%d ýerleri açjakmiňiz?,5186,nautilus,po/tk.po
+View in Multiple Windows?,5189,Näçe Äpişgeniň Içinde Görkezilsinmi?,5190,nautilus,po/tk.po
+Open Location,5193,Ýery Aç,5194,nautilus,po/tk.po
+_Location:,5197,_Ýer,5198,nautilus,po/tk.po
+Create the initial window with the given geometry.,5205,Başlanç äpişgeni berilen şekil bilen bejer.,5206,nautilus,po/tk.po
+GEOMETRY,5209,ŞEKIL,5210,nautilus,po/tk.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,5217,Desktapi müdirleme (seçenekler dýalogyndaky düzülenen seçenekleri red et).,5220,nautilus,po/tk.po
+open a browser window.,5224,bir ahtarçy äpişgesini aş.,5225,nautilus,po/tk.po
+Quit Nautilus.,5228,Nautilusden Çik.,5229,nautilus,po/tk.po
+Restart Nautilus.,5232,Nautilusi Ýene Başla.,5233,nautilus,po/tk.po
+File Manager,5236,Faýl Müdiri,5237,nautilus,po/tk.po
+nautilus: --check cannot be used with other options.\n,5253,nautilus: --check başga seçgiler bilen ullanylyp başarmavar.\n,5254,nautilus,po/tk.po
+nautilus: --geometry cannot be used with more than one URI.\n,5258,nautilus: --geometry birden kop URI-lar bilen ullanylyp başarmavar.\n,5259,nautilus,po/tk.po
+Are you sure you want to forget history?,5265,Geçmiş unutylsynmy?,5266,nautilus,po/tk.po
+"If you do, you will be doomed to repeat it.",5269,"Eger bunu edseňiz, olary gaýtalamaly bolarsiňiz.",5270,nautilus,po/tk.po
+Are you sure you want to clear the list of locations you have visited?,5273,Gören ýerleriňiziň listi pozilsinmi?,5274,nautilus,po/tk.po
+"If you clear the list of locations, they will be permanently deleted.",5277,"Eger siz gören ýerleriňiziň listinu pozsaňyz, olar hamişelikçe pozylar.",5278,nautilus,po/tk.po
+Clear History,5282,Geçmişi Poz,5283,nautilus,po/tk.po
+Do you want to remove any bookmarks with the non-existing location from your list?,5286,Ýersiz nişanlar siziň listiňizden çykarylsynmy?,5289,nautilus,po/tk.po
+"The location \""%s\"" does not exist.",5293,"\""%s\"" ýery yok.",5294,nautilus,po/tk.po
+Bookmark for Nonexistent Location,5297,Ýersiz Nişan,5298,nautilus,po/tk.po
+Remove,5301,Çykar,5302,nautilus,po/tk.po
+_Go,5305,_Git,5306,nautilus,po/tk.po
+_Bookmarks,5310,_Nişanlar,5311,nautilus,po/tk.po
+Close _All Windows,5326,_Ehli Äpişgeleri Bagla,5327,nautilus,po/tk.po
+_Location...,5335,_Ýer...,5336,nautilus,po/tk.po
+Clear contents of Go menu and Back/Forward lists,5351,Git menüsiniň we Iz/Ew listlerniň mazmunlaryny poz,5352,nautilus,po/tk.po
+_Add Bookmark,5355,Nişan _Goş,5356,nautilus,po/tk.po
+Add a bookmark for the current location to this menu,5360,Häzirki ýer üçin bu menüde bir nişan goş,5361,nautilus,po/tk.po
+_Edit Bookmarks,5364,Nişanlary _Editle,5365,nautilus,po/tk.po
+Display a window that allows editing the bookmarks in this menu,5369,Bu menü içindäki nişanlary editlemek üçin bir äpişge görkezýär,5370,nautilus,po/tk.po
+_Side Pane,5374,_Böwür Jam,5375,nautilus,po/tk.po
+Change the visibility of this window's sidebar,5379,Bu äpişgäniň böwür zolakynyň aýanlygny üýtget,5380,nautilus,po/tk.po
+Location _Bar,5385,Ýer _Zolaky,5386,nautilus,po/tk.po
+Change the visibility of this window's location bar,5390,Bu äpişgäniň ýer zolakynyň aýanlygny üýtget,5391,nautilus,po/tk.po
+St_atusbar,5396,_Durum Zolaky,5397,nautilus,po/tk.po
+Change the visibility of this window's statusbar,5401,Bu äpişgäniň durum zolakynyň aýanlygny üýtget,5402,nautilus,po/tk.po
+_Back,5405,_Iz,5406,nautilus,po/tk.po
+Go to the previous visited location,5409,Öňki görilen ýere git,5410,nautilus,po/tk.po
+_Forward,5413,_Ew,5414,nautilus,po/tk.po
+Go to the next visited location,5417,Indiki görilen ýere git,5418,nautilus,po/tk.po
+View as %s,5422,%s ýaly görkez,5423,nautilus,po/tk.po
+Notes,5431,Notlar,5432,nautilus,po/tk.po
+Backgrounds and Emblems,5436,Arkaplanlar we Alamatlar,5437,nautilus,po/tk.po
+_Remove...,5440,_Çykar...,5441,nautilus,po/tk.po
+_Add new...,5444,Täze _göş,5445,nautilus,po/tk.po
+"Sorry, but pattern %s couldn't be deleted.",5449,"Bagyşlaň, %s bejergisi pozilip bilmedi.",5450,nautilus,po/tk.po
+Check that you have permission to delete the pattern.,5453,Bejergini pozmana ejazaňiz barligni synanyň.,5454,nautilus,po/tk.po
+Couldn't Delete Pattern,5457,Bejergi pozilip bilmedi,5458,nautilus,po/tk.po
+"Sorry, but emblem %s couldn't be deleted.",5462,"Bagyşlaň, %s alamaty pozilip bilmedi.",5463,nautilus,po/tk.po
+Check that you have permission to delete the emblem.,5466,Alamaty pozmana ejazaňiz barligni synanyň.,5467,nautilus,po/tk.po
+Couldn't Delete Emblem,5470,Alamat pozilip bilmedi,5471,nautilus,po/tk.po
+Create a New Emblem:,5474,Bir Täze Alamat Bejer:,5475,nautilus,po/tk.po
+_Keyword:,5479,_Açar keleme,5480,nautilus,po/tk.po
+_Image:,5484,_Resim:,5485,nautilus,po/tk.po
+Select an image file for the new emblem:,5488,Täze alamat üçin bir resim saýla:,5489,nautilus,po/tk.po
+Create a New Color:,5492,Bir Täze Renk Bejer:,5493,nautilus,po/tk.po
+Color _name:,5497,Renk _ady:,5498,nautilus,po/tk.po
+Color _value:,5501,Renk _mykdary:,5502,nautilus,po/tk.po
+"Sorry, but \""%s\"" is not a valid file name.",5506,"Bagyşlaň, \""%s\"" dogry bir faýl ady däl.",5507,nautilus,po/tk.po
+"Sorry, but you did not supply a valid file name.",5510,"Bagyşlaň, siz dogry bir faýl ady üpjünetmapsiňiz.",5511,nautilus,po/tk.po
+Please try again.,5514,Ýene bir synanyň.,5515,nautilus,po/tk.po
+Couldn't Install Pattern,5518,Bejergi Gurulip Başarmady,5519,nautilus,po/tk.po
+"Sorry, but you can't replace the reset image.",5522,"Bagyşlaň, siz sifirleme resimi ewez etip başarmaýarsiňiz.",5523,nautilus,po/tk.po
+Reset is a special image that cannot be deleted.,5526,Sifirleme pozilip bilmejek bir has resim dir.,5527,nautilus,po/tk.po
+Not an Image,5531,Bir Resim Däl,5532,nautilus,po/tk.po
+"Sorry, but the pattern %s couldn't be installed.",5536,"Bagyşlaň, %s bejergi gurulip başarmady.",5537,nautilus,po/tk.po
+Select an image file to add as a pattern,5540,Bejergi ýaly goşylmak üçin bir resim faýly saýla,5541,nautilus,po/tk.po
+The color cannot be installed.,5544,Renk gurulip başarmady.,5545,nautilus,po/tk.po
+"Sorry, but you must specify a non-blank name for the new color.",5548,"Bagyşlaň, siz täze renk üçin bir boşdäl ad bermeli.",5549,nautilus,po/tk.po
+Couldn't Install Color,5552,Renk Gurup Başarmadym.,5553,nautilus,po/tk.po
+Select a color to add,5556,Goşmak üçin bir renki saýla,5557,nautilus,po/tk.po
+"Sorry, but \""%s\"" is not a usable image file.",5561,"Bagyşlaň, %s ullanylyp biljek bir resim faýl däl.",5562,nautilus,po/tk.po
+The file is not an image.,5565,Bu faýl bir resim däl.,5566,nautilus,po/tk.po
+Select a Category:,5569,Bir Sinfi Saýla:,5570,nautilus,po/tk.po
+C_ancel Remove,5573,_Çykarmaky Ybtal Et,5574,nautilus,po/tk.po
+_Add a New Pattern...,5577,Bir Täze Bejergini _Goş...,5578,nautilus,po/tk.po
+_Add a New Color...,5581,Bir Täze Renki _Goş...,5582,nautilus,po/tk.po
+_Add a New Emblem...,5585,Bir Täze Alamaty _Goş...,5586,nautilus,po/tk.po
+Click on a pattern to remove it,5589,Çykarmak üçin bejergi üstine tikle,5590,nautilus,po/tk.po
+Click on a color to remove it,5593,Çykarmak üçin renk üstine tikle,5594,nautilus,po/tk.po
+Click on an emblem to remove it,5597,Çykarmak üçin alamat üstine tikle,5598,nautilus,po/tk.po
+Patterns:,5601,Bejergiler:,5602,nautilus,po/tk.po
+Colors:,5605,Renkler:,5606,nautilus,po/tk.po
+Emblems:,5609,Alamatlar:,5610,nautilus,po/tk.po
+_Remove a Pattern...,5613,Bir Bejergini _Çykar...,5614,nautilus,po/tk.po
+_Remove a Color...,5617,Bir Renki _Çykar...,5618,nautilus,po/tk.po
+_Remove an Emblem...,5621,Bir Alamaty _Çykar...,5622,nautilus,po/tk.po
+Close the side pane,5625,Böwür jamy ýap,5626,nautilus,po/tk.po
+Show %s,5630,%s görkez,5631,nautilus,po/tk.po
+_Places,5634,_Ýerler,5635,nautilus,po/tk.po
+Open _Location...,5639,_Ýeri Aç...,5640,nautilus,po/tk.po
+Close P_arent Folders,5643,_Ene haltalary Ýap,5644,nautilus,po/tk.po
+Close this folder's parents,5648,Bu haltanyň ene haltasyny ýap,5649,nautilus,po/tk.po
+throbber,5663,tyrkyllaýçy,5664,nautilus,po/tk.po
+provides visual status,5667,aýan durumy üpjün etýär,5668,nautilus,po/tk.po
+"Nautilus cannot display \""%s\"".",5732,"Nautilus \""%s\""-i görkezip başarmaýar.",5733,nautilus,po/tk.po
+Please select another viewer and try again.,5736,Lütfen başga bir namaýyşçyny saýlap synanyň.,5737,nautilus,po/tk.po
+Go to the location specified by this bookmark,5740,Bu nişan bilen bellenen ýere git,5741,nautilus,po/tk.po
+_File,5782,_Faýl,5783,nautilus,po/tk.po
+_View,5792,_Görnöş,5793,nautilus,po/tk.po
+_Help,5797,_Ýardam,5798,nautilus,po/tk.po
+_Close,5803,_Ýap,5804,nautilus,po/tk.po
+Close this folder,5808,Bu haltany ýap,5809,nautilus,po/tk.po
+_Backgrounds and Emblems...,5812,_Arkaplanlar we Alamatlar,5813,nautilus,po/tk.po
+"Display patterns, colors, and emblems that can be used to customize appearance",5816,"Keşpi haslamak üçin ullanyliyp biljek bejergiler, renkler, we alamatlari görkez.",5819,nautilus,po/tk.po
+Prefere_nces,5824,_Seçenekler,5825,nautilus,po/tk.po
+Edit Nautilus preferences,5828,Nautilus seçeneklerni editle,5829,nautilus,po/tk.po
+_Undo,5832,_Izine Al,5833,nautilus,po/tk.po
+Undo the last text change,5837,Iň soňky matin üýtgemegny izine al,5838,nautilus,po/tk.po
+Open _Parent,5841,_Eneni Aç,5842,nautilus,po/tk.po
+Open the parent folder,5846,Ene haltany aç,5847,nautilus,po/tk.po
+_Stop,5851,_Dur,5852,nautilus,po/tk.po
+_Reload,5856,_Ýene Ýükle,5857,nautilus,po/tk.po
+_Contents,5861,_Mazmunlar,5862,nautilus,po/tk.po
+Display Nautilus help,5866,Nautilus ýardamyny görkez,5867,nautilus,po/tk.po
+_About,5871,_Barada,5872,nautilus,po/tk.po
+Display credits for the creators of Nautilus,5876,Nautilus döredijileriň kreditlerni görkez,5877,nautilus,po/tk.po
+Zoom _In,5881,_Ulalt,5882,nautilus,po/tk.po
+Show the contents in more detail,5886,Mazmuny kadaly kop bilgiler bilen görkez,5887,nautilus,po/tk.po
+Zoom _Out,5891,_Kiçeld,5892,nautilus,po/tk.po
+Show the contents in less detail,5896,Mazmuny kadaly az bilgiler bilen görkez,5897,nautilus,po/tk.po
+Normal Si_ze,5901,Kadaly _Ululyk,5902,nautilus,po/tk.po
+Show the contents at the normal size,5906,Mazmuny kadaly ululykda görkez,5907,nautilus,po/tk.po
+Connect to _Server...,5911,_Gullukçiýa Baglan...,5912,nautilus,po/tk.po
+_Home,5921,_Öý,5922,nautilus,po/tk.po
+_Computer,5932,_Kampýuter,5933,nautilus,po/tk.po
+_Trash,5955,_Zibil,5956,nautilus,po/tk.po
+Go to the trash folder,5960,Zibil haltasyna git,5961,nautilus,po/tk.po
+_Up,5976,_Ýokary,5977,nautilus,po/tk.po
+"Display this location with \""%s\""",5981,"Bu ýery \""%s\"" bilen görkez",5982,nautilus,po/tk.po
+Application,5985,Program,5986,nautilus,po/tk.po
+Zoom In,5993,Ulalt,5994,nautilus,po/tk.po
+Zoom Out,5997,Kiçeld,5998,nautilus,po/tk.po
+Zoom,6010,Ulaldyş,6011,nautilus,po/tk.po
+Set the zoom level of the current view,6014,Häzirki görnöşiň ulaldyş derejesini düz,6015,nautilus,po/tk.po
+Network Servers,6018,Şebeke Gullukçiler,6019,nautilus,po/tk.po
+View your network servers in the Nautilus file manager,6022,Şebeke gullukçilerni Nautilus faýl müdirinde görkez,6023,nautilus,po/tk.po

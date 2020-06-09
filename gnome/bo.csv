@@ -1,0 +1,1062 @@
+Saved search,23,ཉར་ཡོད་པའི་འཚོལ་བཤེར,24,nautilus,po/bo.po
+Autorun Prompt,27,རང་འགུལ་གྱིས་འཁོར་སྐྱོད་ལ་གསལ་འདེབས་,28,nautilus,po/bo.po
+X,41,འཕྲེད,42,nautilus,po/bo.po
+Y,45,གྱེན,46,nautilus,po/bo.po
+Text,49,ཡི་གེ,50,nautilus,po/bo.po
+The text of the label.,53,ཤོག་བྱང་གི་ཡི་གེ,54,nautilus,po/bo.po
+Justification,57,བཟོ་བཅོས།,58,nautilus,po/bo.po
+The alignment of the lines in the text of the label relative to each other. This does NOT affect the alignment of the label within its allocation. See GtkMisc::xalign for that.,61,ཤོག་བྱང་ཐོག་གི་ཡི་གེ་དང་ཁ་རྟགས་ནི་ཕན་ཚུན་མཚུངས་པའི་གྲལ་སྒྲིག་ཡོད།འདིས་ཁ་རྟགས་གནས་ཡུལ་ཐོག་གི་གྲལ་སྒྲིག་སྟངས་ལ་ཡག་ཉེས་མེད། དཔེར་ན  GtkMisc::xalign,65,nautilus,po/bo.po
+Line wrap,70,ཡིག་ཕྲེང་ཁ་བགོ,71,nautilus,po/bo.po
+"If set, wrap lines if the text becomes too wide.",74,སྒྲིག་འཛུགས་བྱས་ན་ཡི་གེ་ཞེང་ཚད་ཆེ་དྲག་པའི་སྐབས་ཡིག་ཕྲེང་ཁ་བགོ,75,nautilus,po/bo.po
+Cursor Position,78,འོད་རྟགས་གནས་ཡུལ,79,nautilus,po/bo.po
+The current position of the insertion cursor in chars.,82,ཡིག་འབྲུ་ནང་ཁ་སྣོན་འོད་རྟགས་ཀྱི་གནས་ཡུལ,83,nautilus,po/bo.po
+Selection Bound,86,གདམ་སའི་ཆ་ཚད,87,nautilus,po/bo.po
+The position of the opposite end of the selection from the cursor in chars.,90,ཡིག་འབྲུའི་ནང་གི་འོད་རྟགས་ནང་ལས་ལྡོག་ཕྱོགས་མཐའ་མའི་གནས་ས།,92,nautilus,po/bo.po
+Select All,95,ཡོངས་རྫོགས་གདམ,96,nautilus,po/bo.po
+Input Methods,99,ནང་འཇུག་ལམ་ལུགས,100,nautilus,po/bo.po
+Show more _details,103,གསལ་བཤད་མང་ཙམ་སྟོན(_d),104,nautilus,po/bo.po
+You can stop this operation by clicking cancel.,107,ཁྱོད་ཀྱིས་རྩིས་མེད་གཏོང་གནོན་རྡེབ་བྱས་ནས་འགུལ་སྐྱོད་འདི་བཀག་དགོས,108,nautilus,po/bo.po
+ (invalid Unicode),111, (རྩིས་མེད་ཀྱི་སྤྱི་སྤྱོད་ཨང་རྟགས),112,nautilus,po/bo.po
+Cut the selected text to the clipboard,127,བདམས་ཟིན་པའི་ཡིག་གེ་བཅད་ནས་དྲས་པང་ཐོག་ཏུ་བཞག་པ,128,nautilus,po/bo.po
+Copy the selected text to the clipboard,134,བདམས་ཟིན་པའི་ཡིག་གེ་དྲས་པང་ཐོག་ཏུ་འདྲ་བཤུ་བྱེད་པ,135,nautilus,po/bo.po
+Paste the text stored on the clipboard,141,དྲས་པང་ཐོག་ཏུ་ཉར་ཡོད་པའི་ཡིག་གེ་སྦྱར་བ,142,nautilus,po/bo.po
+Select _All,147,ཡོངས་འདེམས(_A),148,nautilus,po/bo.po
+Select all the text in a text field,152,མ་དེབ་ཁུལ་གྱི་མ་དེབ་ཡོངས་འདེམས་པ,153,nautilus,po/bo.po
+Move _Up,156,ཐོག་ཏུ་སྤོར་བ(_U),157,nautilus,po/bo.po
+Move Dow_n,160,འོག་ཏུ་སྤོར་བ(_N),161,nautilus,po/bo.po
+Use De_fault,164,སྔོན་སྒྲིག་བེད་སྤྱོད(_F),165,nautilus,po/bo.po
+Name,169,མིང,170,nautilus,po/bo.po
+The name and icon of the file.,173,ཡིག་ཆའི་མིང་དང་མཚོན་རྟགས,174,nautilus,po/bo.po
+Size,177,ཆེ་ཆུང,178,nautilus,po/bo.po
+The size of the file.,181,ཡིག་ཆའི་ཆེ་ཆུང,182,nautilus,po/bo.po
+Type,185,རིགས,186,nautilus,po/bo.po
+The type of the file.,189,ཡིག་ཆའི་རིགས,190,nautilus,po/bo.po
+Date Modified,194,བཟོ་བཅོས་ཟླ་ཚེས,195,nautilus,po/bo.po
+The date the file was modified.,198,ཡིག་ཆ་བཟོ་བཅོས་ཟླ་ཚེས,199,nautilus,po/bo.po
+Date Accessed,202,འདྲི་ཞིབ་ཟླ་ཚེས,203,nautilus,po/bo.po
+The date the file was accessed.,206,ཡིག་ཆར་འདྲི་ཞིབ་བྱས་པའི་ཟལ་ཚེས,207,nautilus,po/bo.po
+Owner,210,་བདག་པོ་,211,nautilus,po/bo.po
+The owner of the file.,214,ཡིག་ཆའི་་བདག་པོ,215,nautilus,po/bo.po
+Group,218,ཚོ་ཁག,219,nautilus,po/bo.po
+The group of the file.,222,ཡིག་ཆའི་ཚོ་ཁག,223,nautilus,po/bo.po
+Permissions,227,ཆོག་འཆན,228,nautilus,po/bo.po
+The permissions of the file.,231,ཡིག་ཆའི་ཆོག་འཆན,232,nautilus,po/bo.po
+Octal Permissions,235,བརྒྱད་འགྲུལ་ལུགས་ཀྱི་ཆོག་འཆན,236,nautilus,po/bo.po
+"The permissions of the file, in octal notation.",239,ཡིག་ཆའི་ཆོག་འཆན། བརྒྱད་འགྲུལ་ལུགས་ཀྱིས་མངོན་འཆར་བྱེད་པ,240,nautilus,po/bo.po
+MIME Type,243,MIMEརིགས,244,nautilus,po/bo.po
+The mime type of the file.,247,ཡིག་ཆའི་ MIME རིགས,248,nautilus,po/bo.po
+SELinux Context,251,SELinux ཁོར་ཡུག,252,nautilus,po/bo.po
+The SELinux security context of the file.,255,ཡིག་ཆའི SELinuxབདེ་འཇགས་ཁོར་ཡུག,256,nautilus,po/bo.po
+Location,261,གནས་ཡུལ,262,nautilus,po/bo.po
+Trashed On,270,སྙིགས་སྣོད་ནང་སྤར་བའི་དུས,271,nautilus,po/bo.po
+Date when file was moved to the Trash,274,ཡིག་ཆ་སྙིགས་སྣོད་ནང་སྤར་བའི་ཟླ་ཚེས་,275,nautilus,po/bo.po
+Original Location,278,ཐོག་མའི་གནས་ཡུལ,279,nautilus,po/bo.po
+Original location of file before moved to the Trash,282,སྙིགས་སྣོད་ནང་མ་སྤོས་གོང་གི་ཐོག་མའི་གནས་ཡུལ,283,nautilus,po/bo.po
+on the desktop,287,མདུན་ངོས་ཐོག,288,nautilus,po/bo.po
+"You cannot move the volume \""%s\"" to the trash.",292,"\""%s\""གི་ཚད་གད་སྙིགས་ནང་དུ་སྤོར་མི་ཐུབ་པ",293,nautilus,po/bo.po
+"If you want to eject the volume, please use \""Eject\"" in the popup menu of the volume.",296,"ཁྱོད་ཀྱིས་འཇུག་སྣོད་དེ་ཕྱིར་འདོན་དགོས་ན་འཇུག་སྣོད་ཀྱི་འཕགས་རིས་འདེམས་ཐོ་ཐོག་ནས་\""ཕྱིར་འདོན\""བེད་སྤྱོད་རོགས",299,nautilus,po/bo.po
+"If you want to unmount the volume, please use \""Unmount Volume\"" in the popup menu of the volume.",303,"ཁྱོད་ཀྱིས་འཇུག་སྣོད་དེ་བཀར་མ་དགོས་ན་འཇུག་སྣོད་ཀྱི་འཕགས་རིས་འདེམས་ཐོ་ཐོག་ནས་\""བཀར་བ་ཕྱིར་བཤོལ\""བེད་སྤྱོད་རོགས",306,nautilus,po/bo.po
+_Move Here,311,འདིར་སྤོར་བ(_M),312,nautilus,po/bo.po
+_Copy Here,315,འདིར་འདྲ་བཤུ་བྱེད་པ(_C),316,nautilus,po/bo.po
+_Link Here,319,འདིར་སྦྲེལ་མཐུད་བྱེད་པ(_L),320,nautilus,po/bo.po
+Set as _Background,323,རྒྱབ་ལྗོངས་ལ་སྒྲིག་འགོད་བྱེད་པ(_B),324,nautilus,po/bo.po
+Cancel,327,རྩིས་མེད་གཏོང,328,nautilus,po/bo.po
+This file cannot be mounted,332,ཡིག་ཆ་འདི་བཀར་མི་ཐུབ་པ,333,nautilus,po/bo.po
+This file cannot be unmounted,336,ཡིག་ཆ་འདི་སྒྲིག་འཇུག་བཤིག་འདོར་བྱེད་མི་ཐུབ་པ,337,nautilus,po/bo.po
+This file cannot be ejected,340,ཡིག་ཆ་འདི་ཕྱིར་འདོན་བྱེད་མི་ཐུབ་པ,341,nautilus,po/bo.po
+This file cannot be started,345,ཡིག་ཆ་འཛུགས་འདི་འགོ་འཛུགས་བྱེད་མི་ཐུབ་པ,346,nautilus,po/bo.po
+This file cannot be stopped,350,ཡིག་ཆ་འདི་མཚམས་བཞག་མི་ཐུབ,351,nautilus,po/bo.po
+Slashes are not allowed in filenames,355,ཡིག་ཆའི་མིང་ནང་དུ་ཡོ་ཤད་མི་རུང་བ,356,nautilus,po/bo.po
+File not found,360,ཡིག་ཆ་འདི་རྙེད་མ་ཐུབ,361,nautilus,po/bo.po
+Toplevel files cannot be renamed,365,རིམ་པ་གོང་མའི་ཡིག་ཆར་མིང་བསྐྱར་འདོགས་བྱེད་མི་ཐུབ་པ,366,nautilus,po/bo.po
+Unable to rename desktop icon,370,མདུན་ངོས་མཚོན་རིས་ཀྱི་མིང་བརྗེ་མི་ཐུབ་པ,371,nautilus,po/bo.po
+Unable to rename desktop file,375,མདུན་ངོས་ཡིག་ཆ་མིང་གསར་འདོག་མི་ཐུབ,376,nautilus,po/bo.po
+today at 00:00:00 PM,394,དེ་རིང 00:00:00ཕྱི་དྲོ,395,nautilus,po/bo.po
+today at %-I:%M:%S %p,399,དེ་རིང %-I:%M:%S %p,400,nautilus,po/bo.po
+today at 00:00 PM,403,དེ་རིང 00:00ཕྱི་དྲོ,404,nautilus,po/bo.po
+today at %-I:%M %p,407,དེ་རིང %-I:%M %p,408,nautilus,po/bo.po
+"today, 00:00 PM",411,དེ་རིང 00:00ཕྱི་དྲོ,412,nautilus,po/bo.po
+"today, %-I:%M %p",415,དེ་རིང %-I:%M %p,416,nautilus,po/bo.po
+today,420,དེ་རིང,421,nautilus,po/bo.po
+yesterday at 00:00:00 PM,427,ཁ་སང 00:00:00 ཕྱི་དྲོ,428,nautilus,po/bo.po
+yesterday at %-I:%M:%S %p,431,ཁ་སང %-I:%M:%S %p,432,nautilus,po/bo.po
+yesterday at 00:00 PM,435,ཁ་སང 00:00 ཕྱི་དྲོ,436,nautilus,po/bo.po
+yesterday at %-I:%M %p,439,ཁ་སང %-I:%M %p,440,nautilus,po/bo.po
+"yesterday, 00:00 PM",443,ཁ་སང 00:00,444,nautilus,po/bo.po
+"yesterday, %-I:%M %p",447,ཁ་སང %-I:%M %p,448,nautilus,po/bo.po
+yesterday,452,ཁ་སང,453,nautilus,po/bo.po
+"Wednesday, September 00 0000 at 00:00:00 PM",461,0000ལོའི་ཟླ༩ཚེས་00 གཟའ་ལྷག་པ 00:00:00ཕྱི་དྲོ,462,nautilus,po/bo.po
+"%A, %B %-d %Y at %-I:%M:%S %p",465,%-d %Yལོའི་ཟླ%B ཚེས%A %-I:%M:%S %p,466,nautilus,po/bo.po
+"Mon, Oct 00 0000 at 00:00:00 PM",469,0000ལོའི་ཟླ༡༠་བའི་ཚེས་00 གཟའ་ཟླ་བ 00:00:00ཕྱི་དྲོ,470,nautilus,po/bo.po
+"%a, %b %-d %Y at %-I:%M:%S %p",473,%-d %Yལོའི་ཟླ %b ཚེས %a %-I:%M:%S %p,474,nautilus,po/bo.po
+"Mon, Oct 00 0000 at 00:00 PM",477,0000ལོའི་ཟླ༡༠བའི་ཚེས་00 གཟའ་ཟླ་བ，00:00,478,nautilus,po/bo.po
+"%a, %b %-d %Y at %-I:%M %p",481,%Yལོའི%-mཟླ%-dཚེས%a，%-H:%M,482,nautilus,po/bo.po
+Oct 00 0000 at 00:00 PM,485,0000ལོའིཟླ༡༠ཚེས00 གི 00:00:00 ཕྱི་དྲོ,486,nautilus,po/bo.po
+%b %-d %Y at %-I:%M %p,489,%-d ལོའི་ཟླ %b %-I:%M %p,490,nautilus,po/bo.po
+"Oct 00 0000, 00:00 PM",493,0000ལོའི་ཟླ༡༠་བའི་ཚེས00 00:00ཕྱི་དྲོ,494,nautilus,po/bo.po
+"%b %-d %Y, %-I:%M %p",497,%-d %Yལོའི་ཟླ%b %-I:%M %p,498,nautilus,po/bo.po
+"00/00/00, 00:00 PM",501,00/00/00 00:00 ཕྱི་དྲོ,502,nautilus,po/bo.po
+"%m/%-d/%y, %-I:%M %p",505,%y/%m/%-d/ %-I:%M %p,506,nautilus,po/bo.po
+00/00/00,509,00-00-00,510,nautilus,po/bo.po
+%m/%d/%y,513,%Y/%m/%d,514,nautilus,po/bo.po
+Not allowed to set permissions,518,ཆོག་འཆན་སྒྲིག་འགོད་མི་ཆོག་པ,519,nautilus,po/bo.po
+Not allowed to set owner,523,བདག་པོ་སྒྲིག་འགོད་མི་ཆོག་པ,524,nautilus,po/bo.po
+Specified owner '%s' doesn't exist,528,དམིགས་འཛུགས་ཀྱི་བདག་པོ་%s་གནས་མི་འདུག,529,nautilus,po/bo.po
+Not allowed to set group,533,ཚོ་ཁག་སྒྲིག་འགོད་མི་ཆོག་པ,534,nautilus,po/bo.po
+Specified group '%s' doesn't exist,538,དམིགས་འཛུགས་ཀྱི་ཚོ་ཁག%sགནས་མི་འདུག,539,nautilus,po/bo.po
+%'u item,543,དོན་ཚན་%'u,545,nautilus,po/bo.po
+%'u folder,549,ཡིག་སྣོད་%'u,551,nautilus,po/bo.po
+%'u file,555,ཡིག་ཆ་%'u,557,nautilus,po/bo.po
+? items,562,དོན་ཚན་ཀློག་རུང་བ་མེད,563,nautilus,po/bo.po
+? bytes,567,ཀློག་རུང་བའི་ཚིག་གྲངས་མེད,568,nautilus,po/bo.po
+unknown type,571,མི་ཤེས་པའི་རིགས,572,nautilus,po/bo.po
+unknown MIME type,575,མི་ཤེས་པའི MIME རིགས,576,nautilus,po/bo.po
+unknown,583,མི་ཤེས་པ,584,nautilus,po/bo.po
+program,587,བྱ་རིམ,588,nautilus,po/bo.po
+link,591,སྦྲེལ་མཐུད,592,nautilus,po/bo.po
+Link to %s,603,%sལ་སྦྲེལ་མཐུད་བྱེད་པ,604,nautilus,po/bo.po
+link (broken),607,སྦྲེལ་མཐུད(ཆད་པ),608,nautilus,po/bo.po
+"Merge folder \""%s\""?",612,"ཡིག་སྣོད་\""%s\""མཉམ་དུ་བསྲེ་དགོས་སམ",613,nautilus,po/bo.po
+Merging will ask for confirmation before replacing any files in the folder that conflict with the files being copied.,616,མཉམ་དུ་བསྲེ་སྐབས་ཡིག་ཆ་ཚབ་ཏུ་བཅུག་འགྲོ་བར་ངོས་འཛིན་བྱེད་དགོས,619,nautilus,po/bo.po
+"An older folder with the same name already exists in \""%s\"".",623,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་སྣོད་རྙིང་པ་ཞིག་འདུག",624,nautilus,po/bo.po
+"A newer folder with the same name already exists in \""%s\"".",628,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་སྣོད་གསར་པ་ཞིག་འདུག",629,nautilus,po/bo.po
+"Another folder with the same name already exists in \""%s\"".",633,"\""%s\""ནང་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་སྣོད་ཞིག་གནས་འདུག",634,nautilus,po/bo.po
+Replacing it will remove all files in the folder.,637,ཚབ་ཏུ་བཅུག་ན་ཡིག་སྣོད་ནང་གི་ཡིག་ཆ་ཡོངས་རྫོགས་བསུབ་འགྲོ་ངེས,638,nautilus,po/bo.po
+"Replace folder \""%s\""?",642,"ཡིག་སྣོད\""%s\""ཚབ་ཏུ་བཅུག་དགོས་སམ",643,nautilus,po/bo.po
+"A folder with the same name already exists in \""%s\"".",647,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་སྣོད་ཞིག་འདུག",648,nautilus,po/bo.po
+"Replace file \""%s\""?",652,"ཡིག་ཆ\""%s\""ལ་ཚབ་བཅུག་དགོས་སམ",653,nautilus,po/bo.po
+Replacing it will overwrite its content.,656,ཚབ་བཅུག་ན་ནང་དོན་བསུབ་འབྲི་བྱེད་དོ,657,nautilus,po/bo.po
+"An older file with the same name already exists in \""%s\"".",661,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་ཆ་རྙིང་པ་ཞིག་གནས་ཡོད་པ",662,nautilus,po/bo.po
+"A newer file with the same name already exists in \""%s\"".",666,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་ཆ་གསར་པ་ཞིག་གནས་ཡོད་པ",667,nautilus,po/bo.po
+"Another file with the same name already exists in \""%s\"".",671,"\""%s\""ནང་དུ་མིང་གཅིག་མཚུངས་ཡིན་པའི་ཡིག་ཆ་གཞན་ཞིག་གནས་ཡོད་པ",672,nautilus,po/bo.po
+Original file,675,ཐོག་མའི་ཡིག་ཆ,676,nautilus,po/bo.po
+Size:,681,ཆེ་ཆུང：,682,nautilus,po/bo.po
+Type:,687,རིགས：,688,nautilus,po/bo.po
+Last modified:,692,ཐེངས་རྗེས་མའི་བཟོ་བཅོས་དུས：,693,nautilus,po/bo.po
+Replace with,696,ཚབ་བཅུག་བྱེད,697,nautilus,po/bo.po
+Merge,700,བསྲེ་བ,701,nautilus,po/bo.po
+_Select a new name for the destination,705,འདི་ལ་མིང་གསར་པ་ཞིག་གདམ་པ(_S),706,nautilus,po/bo.po
+Reset,710,བསྐྱར་འཛུགས་,711,nautilus,po/bo.po
+Apply this action to all files,715,བྱ་འགུལ་འདི་ཡིག་ཆ་ཡོངས་རྫོགས་ལ་སྤྱོད་པ,716,nautilus,po/bo.po
+_Skip,720,མཆོངས་འགྲོ་བ(_S),721,nautilus,po/bo.po
+Re_name,724,མིང་བསྐྱར་འདོགས(_N),725,nautilus,po/bo.po
+Replace,728,ཚབ་བཅུག,729,nautilus,po/bo.po
+File conflict,732,ཡིག་ཆའི་འགལ་ཟླ,733,nautilus,po/bo.po
+S_kip All,736,ཚང་མ་མཆོངས་འགྲོ་བ(_K),737,nautilus,po/bo.po
+_Retry,740,སྐྱར་དུ་ཚོད་ལྟ(_R),741,nautilus,po/bo.po
+Delete _All,744,ཡོངས་རྫོངས་བསུབ་པ(_A),745,nautilus,po/bo.po
+_Replace,748,ཚབས་བཅུག(_R),749,nautilus,po/bo.po
+Replace _All,752,ཡོངས་རྫོགས་ལ་ཚབས་བཅུག(_A),753,nautilus,po/bo.po
+_Merge,756,བསྲེ་བ(_M),757,nautilus,po/bo.po
+Merge _All,760,ཡོངས་རྫོགས་སྲེ་བ(_A),761,nautilus,po/bo.po
+Copy _Anyway,764,གང་ལྟར་འདྲ་བཤུ(_A),765,nautilus,po/bo.po
+%'d second,769,སྐར་ཆ་%'d,771,nautilus,po/bo.po
+%'d minute,776,སྐར་མ %'d,778,nautilus,po/bo.po
+%'d hour,782,ཆུ་ཚོད་%'d,784,nautilus,po/bo.po
+approximately %'d hour,788,ཕལ་ཆེར་ཆུ་ཚོད%'d,790,nautilus,po/bo.po
+Another link to %s,795,%sཡི་སྦྲེལ་མཐུད་གཞན་པ,796,nautilus,po/bo.po
+%'dst link to %s,804,%2$s ཡི་སྦྲེལ་མཐུད%1$'d་པོ,805,nautilus,po/bo.po
+%'dnd link to %s,810,%2$s ཡི་སྦྲེལ་མཐུད%1$'d་པ,811,nautilus,po/bo.po
+%'drd link to %s,816,%2$s ཡི་སྦྲེལ་མཐུད%1$'d་པ,817,nautilus,po/bo.po
+%'dth link to %s,822,%2$s ཡི་སྦྲེལ་མཐུད%1$'d་བ,823,nautilus,po/bo.po
+ (copy),831, (འདྲ་བཤུ),832,nautilus,po/bo.po
+ (another copy),836, (འདྲ་བཤུ་གཞན་ཞིག),837,nautilus,po/bo.po
+th copy),847,་པ),848,nautilus,po/bo.po
+st copy),852,དང་པོ),853,nautilus,po/bo.po
+nd copy),857,པ),858,nautilus,po/bo.po
+rd copy),862,་པ,863,nautilus,po/bo.po
+%s (copy)%s,868,%s (འདྲ་བཤུ)%s,869,nautilus,po/bo.po
+%s (another copy)%s,874,%s (འདྲ་བཤུ་གཞན་ཞིག)%s,875,nautilus,po/bo.po
+%s (%'dth copy)%s,886,%s (%'d་པ)%s,887,nautilus,po/bo.po
+%s (%'dst copy)%s,896,%s (%'d་པ)%s,897,nautilus,po/bo.po
+%s (%'dnd copy)%s,902,%s (%'d་པ)%s,903,nautilus,po/bo.po
+%s (%'drd copy)%s,908,%s (%'d་པ)%s,909,nautilus,po/bo.po
+ (%'d,919, (འདྲ་བཤུ་ཐེངས་%'d,920,nautilus,po/bo.po
+"Are you sure you want to permanently delete \""%B\"" from the trash?",923,"\""%B\""ནམ་ཡང་གད་སྙིགས་ནས་བསུབ་པར་གཏན་ཁེལ་ཡིན་ནམ",924,nautilus,po/bo.po
+Are you sure you want to permanently delete the %'d selected item from the trash?,928,བདམས་ཟིན་པའི་དོན་ཚན་%'d་འདི་གད་སྙིགས་ནས་ནམ་ཡང་བསུབ་པར་གཏན་ཁེལ་ཡིན་ནམ,934,nautilus,po/bo.po
+"If you delete an item, it will be permanently lost.",938,ཁྱོད་ཀྱིས་དོན་ཚན་ཞིག་བསུབ་ན་ནང་ཡང་མེད་པ་འགྱུར་སྲིད,939,nautilus,po/bo.po
+Empty all items from Trash?,942,གད་སྙིགས་ནང་གི་དོན་ཚན་ཡོངས་རྫོགས་གཙང་དག་བཟོ་བར་གཏན་ཁེལ་ཡིན་ནམ,943,nautilus,po/bo.po
+All items in the Trash will be permanently deleted.,946,གལ་སྲིད་གད་སྙིགས་གཙང་དག་བཟོས་ན་དེའི་ནང་གི་དོན་ཚན་ཡོངས་རྫོགས་ནམ་ཡང་མེད་པ་འགྱུར་སྲིད།,947,nautilus,po/bo.po
+Empty _Trash,953,སྙིགས་སྣོད་གཙང་དག་བཟོ་བ(_T),954,nautilus,po/bo.po
+"Are you sure you want to permanently delete \""%B\""?",957,"ཁྱོད་ཀྱིས་\""%B\""བསུབ་པར་གཏན་ཁེལ་ཡིན་ནམ",958,nautilus,po/bo.po
+Are you sure you want to permanently delete the %'d selected item?,962,བདམས་ཟིན་པའི་དོན་ཚན་%'d གཏན་དུ་སུབ་འདོར་བྱེད་དམ,965,nautilus,po/bo.po
+%'d file left to delete,969,ད་དུང་ཡིག་ཆ་%'dབསུབ་དགོས་པ་འདུག,971,nautilus,po/bo.po
+Deleting files,974,ཡིག་ཆ་བསུབ་བཞིན་པ,975,nautilus,po/bo.po
+%T left,981,%T ལྷགས་ཡོད,983,nautilus,po/bo.po
+Error while deleting.,990,བསུབ་དུས་ནོར་འཁྲུལ་བྱུང་བ,991,nautilus,po/bo.po
+"Files in the folder \""%B\"" cannot be deleted because you do not have permissions to see them.",994,"ཡིག་སྣོད་\""%B\""ནང་གི་ཡིག་ཆ་བསུབ་མི་ཐུབ་པ་རྒྱུ་མཚན་ནི་ཁྱོད་ལ་ཆོག་མཆན་མེད་པ",997,nautilus,po/bo.po
+"There was an error getting information about the files in the folder \""%B\"".",1002,"ཡིག་སྣོད་\""%B\""་ནང་གི་ཡིག་ཆའི་གནས་ཚུལ་འདོན་པར་ནོར་འཁྲུལ་བྱུང་བ",1004,nautilus,po/bo.po
+_Skip files,1008,ཡིག་ཆ་ནས་མཆོངས་བ(_S),1009,nautilus,po/bo.po
+"The folder \""%B\"" cannot be deleted because you do not have permissions to read it.",1012,"ཡིག་སྣོད་\""%B\""བསུབ་མི་ཐུབ་པ། རྒྱུ་མཚན་ནི་ཁྱོད་ཀྱིས་དེ་ཀློག་འཇུག་བྱེད་པའི་ཆོག་མཆན་མི་འདུག",1015,nautilus,po/bo.po
+"There was an error reading the folder \""%B\"".",1020,"ཡིག་སྣོད་\""%B\""་ཀློག་འཇུག་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག",1021,nautilus,po/bo.po
+Could not remove the folder %B.,1024,ཡིག་སྣོད་%B་འདོར་མི་ཐུབ་པ,1025,nautilus,po/bo.po
+There was an error deleting %B.,1028,%Bབསུབ་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག,1029,nautilus,po/bo.po
+Moving files to trash,1032,ཡིག་ཆ་སྙིགས་སྣོད་དུ་སྤོར་བཞིན་པ,1033,nautilus,po/bo.po
+%'d file left to trash,1037,ད་དུང་ཡིག་ཆ་%'d་སྙིགས་སྣོད་དུ་སྤོར་དགོས་འདུག,1039,nautilus,po/bo.po
+"Cannot move file to trash, do you want to delete immediately?",1042,ཡིག་ཆ་སྙིགས་སྣོད་དུ་སྤོ་འགུལ་བྱེད་མི་ཐུབ་པ ཁྱོད་ཀྱིས་དུས་གཏན་དུ་བསུབ་དགོས་སམ,1043,nautilus,po/bo.po
+"The file \""%B\"" cannot be moved to the trash.",1046,"ཡིག་ཆ་\""%B\""སྙིགས་སྣོད་དུ་སྤོར་མི་ཐུབ་པ",1047,nautilus,po/bo.po
+Trashing Files,1050,ཡིག་ཆ་སྙིགས་སྣོད་དུ་འདོར་བཞིན་པ,1051,nautilus,po/bo.po
+Deleting Files,1054,ཡིག་ཆ་བསུབ་བཞིན་པ,1055,nautilus,po/bo.po
+Unable to eject %V,1058,%V་ཕྱིར་འདོན་བྱེད་མི་ཐུབ་པ,1059,nautilus,po/bo.po
+Unable to unmount %V,1062,%V་སྒྲིག་འཛུགས་བཤིག་འདོར་བྱེད་མི་ཐུབ་པ,1063,nautilus,po/bo.po
+Do you want to empty the trash before you unmount?,1066,སྒྲིག་འཛུགས་མ་བཤིག་གོང་སྙིགས་སྣོད་གཙང་དག་བཟོ་དགོས་སམ,1067,nautilus,po/bo.po
+In order to regain the free space on this volume the trash must be emptied. All trashed items on the volume will be permanently lost.,1070,འཇུག་སྣོད་འདིའི་ནང་གི་བར་སྟོང་བཟོ་དགོས་ན་སྙིགས་སྣོད་ངེས་པར་དུ་སྟོང་བར་བཟོ་དགོས། དེ་འདྲ་བྱས་ན་སྙིགས་སྣོད་ནང་སྤོས་པའི་དོན་ཚན་རྣམས་དུས་བརྟན་དུ་བསུབ་རྒྱུ་ཡིན,1073,nautilus,po/bo.po
+Do _not Empty Trash,1078,སྙིགས་སྣོད་གཙང་བཟོ་མ་བྱེད་(_N),1079,nautilus,po/bo.po
+Unable to mount %s,1083,%s་བཀར་མི་ཐུབ་པ,1084,nautilus,po/bo.po
+Preparing to copy %'d file (%S),1088,ཡིག་ཆ་ %'d འདྲ་བཤུ་བྱེད་པར་གྲ་སྒྲིག་བཞིན་པ(%S),1090,nautilus,po/bo.po
+Preparing to move %'d file (%S),1094,ཡིག་ཆ་ %'d འདི་སྤོར་བར་གྲ་སྒྲིག་བཞིན་པ(%S),1096,nautilus,po/bo.po
+Preparing to delete %'d file (%S),1100,ཡིག་ཆ་%'dབསུབ་པར་གྲ་སྒྲིག་བཞིན་པ(%S),1102,nautilus,po/bo.po
+Preparing to trash %'d file,1106,ཡིག་ཆ་ %'d་སྙིགས་སྣོད་དུ་སྤོར་བར་གྲ་སྒྲིག་བཞིན་པ,1108,nautilus,po/bo.po
+Error while copying.,1114,འདྲ་བཤུ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1115,nautilus,po/bo.po
+Error while moving.,1120,སྤོར་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག,1121,nautilus,po/bo.po
+Error while moving files to trash.,1124,ཡིག་ཆ་སྙིགས་སྣོད་དུ་སྤོར་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག,1125,nautilus,po/bo.po
+"Files in the folder \""%B\"" cannot be handled because you do not have permissions to see them.",1128,"\""%B\""ནང་གི་ཡིག་ཆ་ལ་བཟོ་བཅོས་བྱེད་ཐུབ་མི་འདུག རྒྱུ་མཚན་ནི་ཁྱོད་ཀྱིས་དེར་ལྟ་ཀློག་བྱེད་པའི་ཆོག་འཆན་མི་འདུག",1131,nautilus,po/bo.po
+"The folder \""%B\"" cannot be handled because you do not have permissions to read it.",1135,"ཡིག་སྣོད\""%B\""ལ་བཟོ་བཅོས་བྱེད་མི་ཐུབ། རྒྱུ་མཚན་ནི་ཁྱོད་ཀྱིས་དེར་ལྟ་ཀློག་བྱེད་པའི་ཆོག་འཆན་མི་འདུག",1138,nautilus,po/bo.po
+"The file \""%B\"" cannot be handled because you do not have permissions to read it.",1141,"ཡིག་ཆ\""%B\""་བཟོ་བཅོས་བྱེད་ཐུབ་མི་འདུག རྒྱུ་མཚན་ནི་ཁྱོད་ཀྱིས་དེ་ལྟ་ཀློག་བྱེད་པའི་ཆོག་འཆན་མི་འདུག",1144,nautilus,po/bo.po
+"There was an error getting information about \""%B\"".",1147,"\""%B\""སྐོར་གྱི་གནས་ཚུལ་ལེན་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག",1148,nautilus,po/bo.po
+"Error while copying to \""%B\"".",1154,"\""%B\""འདྲ་བཤུ་བྱེད་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག",1155,nautilus,po/bo.po
+You do not have permissions to access the destination folder.,1158,ཁྱོད་ཀྱིས་དམིགས་ཡུལ་ཡིག་ཆལ་འདྲི་ཞིབ་བྱེད་པའི་ཆོག་འཆན་མི་འདུག,1159,nautilus,po/bo.po
+There was an error getting information about the destination.,1162,དམིགས་ཡུལ་སྐོར་ཆ་འཕྲིན་ལེན་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1163,nautilus,po/bo.po
+The destination is not a folder.,1166,དམིགས་ཡུལ་ནི་ཡིག་སྣོད་ཞིག་མིན་པ,1167,nautilus,po/bo.po
+There is not enough space on the destination. Try to remove files to make space.,1170,གནས་ཡུལ་དུ་འདང་ངེས་ཀྱི་ས་སྟོང་མི་འདུག ཁྱོད་ཀྱིས་ཡིག་ཆ་ཁ་ཤས་བསུབ་དགོས,1173,nautilus,po/bo.po
+The destination is read-only.,1181,དམིགས་ཡུལ་ནི་ཀློག་འཇུག་ཁོ་ན་ཡིན་པ,1182,nautilus,po/bo.po
+"Moving \""%B\"" to \""%B\""",1185,"\""%B\""འདི་\""%B\""ལ་སྤོར་བཞིན་པ",1186,nautilus,po/bo.po
+"Copying \""%B\"" to \""%B\""",1189,"\""%B\""འདི་\""%B\""ལ་འདྲ་བཤུ་བཞིན་པ",1190,nautilus,po/bo.po
+"Duplicating \""%B\""",1193,"\""%B\""འདྲ་བཤུ་བཞིན་པ",1194,nautilus,po/bo.po
+%S of %S,1229,%2$S ནང་ནས %1$S,1230,nautilus,po/bo.po
+%S of %S — %T left (%S/sec),1238,%2$S ནང་ནས་ %1$S - %T ལྷག་ཡོད (%3$S/སྐར་ཆ),1240,nautilus,po/bo.po
+"The folder \""%B\"" cannot be copied because you do not have permissions to create it in the destination.",1243,"\""%B\""འདྲ་བཤུ་བྱེད་མི་ཐུབ་པ རྒྱུ་མཚན་ནི་ཁྱོད་ལ་གནས་ཡུལ་ཐོག་ཏུ་གསར་བཟོ་བྱེད་པའི་ཆོག་འཆན་མེད",1246,nautilus,po/bo.po
+"There was an error creating the folder \""%B\"".",1249,"ཡིག་སྣོད་\""%B\""་གསར་འཛུགས་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག",1250,nautilus,po/bo.po
+"Files in the folder \""%B\"" cannot be copied because you do not have permissions to see them.",1253,"\""%B\""ནང་གི་ཡིག་ཆ་འདྲ་བཤུ་བྱེད་མི་ཐུབ་པ རྒྱུ་མཚན་ཁྱོད་ཀྱིས་དེ་ཀློག་འཇུག་བྱེད་པའི་ཆོག་འཆན་མི་འདུག",1256,nautilus,po/bo.po
+"The folder \""%B\"" cannot be copied because you do not have permissions to read it.",1260,"ཡིག་སྣོད་\""%B\""འདྲ་བཤུ་བྱེད་མི་ཐུབ་ རྒྱུ་མཚན་ཁྱོད་ཀྱིས་དེ་ལྟ་ཀློག་བྱེད་པའི་ཆོག་འཆན་མི་འདུག",1263,nautilus,po/bo.po
+"Error while moving \""%B\"".",1268,"\""%B\""་སྤོར་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག",1269,nautilus,po/bo.po
+Could not remove the source folder.,1272,ཐོག་མའི་ཡིག་སྣོད་བསུབ་མི་ཐུབ་པ,1273,nautilus,po/bo.po
+"Error while copying \""%B\"".",1279,"\""%B\""འདྲ་བཤུ་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག",1280,nautilus,po/bo.po
+Could not remove files from the already existing folder %F.,1284,གནས་ཡོད་པའི་ཡིག་སྣོད་%F་ནས་ཡིག་ཆ་བསུབ་མ་ཐུབ་པ,1285,nautilus,po/bo.po
+Could not remove the already existing file %F.,1289,གནས་ཡོད་པའི་ %F་ཡིག་ཆ་བསུབ་མི་ཐུབ་པ,1290,nautilus,po/bo.po
+You cannot move a folder into itself.,1295,ཡིག་སྣོད་རང་ཐོག་ཏུ་ཡིག་སྣོད་སྤོར་མི་རུང་བ,1296,nautilus,po/bo.po
+You cannot copy a folder into itself.,1300,ཡིག་སྣོད་རང་ཐོག་ཏུ་ཡིག་སྣོད་འདྲ་བཤུ་མི་རུང་བ,1301,nautilus,po/bo.po
+The destination folder is inside the source folder.,1305,གནས་ཡུལ་ཡིག་ཆ་དེ་ཐོག་མའི་ཡིག་ཆའི་སྟེང་གནས་ཡོད་པ,1306,nautilus,po/bo.po
+You cannot move a file over itself.,1310,ཡིག་ཆའི་རང་ལུས་ཀྱི་ཐོག་སྤོར་མི་ཐུབ་པ,1311,nautilus,po/bo.po
+You cannot copy a file over itself.,1314,ཡིག་ཆའི་རང་ལུས་ཀྱི་ཐོག་འདྲ་བཤུ་མི་ཐུབ་པ,1315,nautilus,po/bo.po
+The source file would be overwritten by the destination.,1318,ཐོག་མའི་ཡིག་ཆ་དེ་དམིགས་ཡུལ་གྱིས་བསུབ་བྲིས་བྱེད་འགྲོ་ངེས,1319,nautilus,po/bo.po
+Could not remove the already existing file with the same name in %F.,1323,%F ནང་ཡོད་པའི་མིང་གཅིག་མཚུངས་ཀྱི་ཡིག་ཆ་འདོར་མི་ཐུབ,1324,nautilus,po/bo.po
+There was an error copying the file into %F.,1328,%Fལ་ཡིག་ཆ་འདྲ་བཤུ་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1329,nautilus,po/bo.po
+Copying Files,1333,ཡིག་ཆ་འདྲ་བཤུ་བྱེད་བཞིན་པ,1334,nautilus,po/bo.po
+"Preparing to Move to \""%B\""",1337,"\""%B\""་ནང་དུ་སྤོར་བར་གྲ་སྒྲིག་བཞིན་པ",1338,nautilus,po/bo.po
+Preparing to move %'d file,1342,%'dཡིག་ཆ་སྤོར་བ་གྲ་སྒྲིག་བཞིན་པ,1344,nautilus,po/bo.po
+There was an error moving the file into %F.,1348,ཡིག་ཆ་འདི་%F་ནང་དུ་སྤོར་བར་ནོར་འཁྲུལ་བྱུང་བ,1349,nautilus,po/bo.po
+Moving Files,1352,ཡིག་ཆ་སྤོའགུལ,1353,nautilus,po/bo.po
+"Creating links in \""%B\""",1356,%B་ནང་དུ་སྦྲེལ་མཐུད་གསར་བཟོ་བཞིན་པ,1357,nautilus,po/bo.po
+Making link to %'d file,1361,%'dཡིག་ཆ་ལ་སྦྲེལ་མཐུད་བཟོ་བཞིན་པ,1363,nautilus,po/bo.po
+Error while creating link to %B.,1366,%B་ལ་སྦྲེལ་མཐུད་བཟོ་བཞིན་པའི་སྐབས་ནོར་འཁྲུལ་,1367,nautilus,po/bo.po
+Symbolic links only supported for local files,1370,མཚོན་རྟགས་སྦྲེལ་མཐུད་ནི་རང་ཁུལ་ཡིག་ཆ་ལ་མ་གཏོགས་རྒྱབ་སྐྱོར་མེད་པ,1371,nautilus,po/bo.po
+The target doesn't support symbolic links.,1374,དམིགས་ཡུལ་འདིས་མཚོན་རྟགས་སྦྲེལ་མཐུད་ལ་རྒྱབ་སྐྱོར་མེད་པ,1375,nautilus,po/bo.po
+There was an error creating the symlink in %F.,1379,%F ནང་མཚོན་རྟགས་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1380,nautilus,po/bo.po
+Setting permissions,1383,དབང་ཚད་སྒྲིག་འགོད,1384,nautilus,po/bo.po
+Error while creating directory %B.,1405,%Bའཇུག་ཐོ་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1406,nautilus,po/bo.po
+Error while creating file %B.,1409,%Bཡིག་ཆ་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1410,nautilus,po/bo.po
+There was an error creating the directory in %F.,1414,%Fནང་འཇུག་ཐོ་གསར་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1415,nautilus,po/bo.po
+Emptying Trash,1418,སྙིགས་སྣོད་གཙང་དག་བཞིན་པ,1419,nautilus,po/bo.po
+Unable to mark launcher trusted (executable),1425,འགོ་སློང་བ་ཡིད་རྟོན་རུང་བ་རྟགས་འགོད་མི་ཐུབ་པ(executable),1426,nautilus,po/bo.po
+"Could not determine original location of \""%s\"" ",1802,“%s”ཡི་ཐོག་མའི་གནས་ཡུལ་གཏན་ཁེལ་མི་ཐུབ་པ ,1803,nautilus,po/bo.po
+The item cannot be restored from trash,1806,སྙིགས་སྣོད་ལས་ནང་ཚན་འདི་བསྐྱར་གསོ་མི་ཐུབ་པ,1807,nautilus,po/bo.po
+The selection rectangle,1810,འདེམས་སྒྲུག་གྲུ་བཞི,1811,nautilus,po/bo.po
+Could not add application,1819,ཉེར་སྤྱོད་ཁ་སྣོན་བྱེད་མི་ཐུབ་པ,1820,nautilus,po/bo.po
+%s document,1845,ཡིག་གེ་%s,1846,nautilus,po/bo.po
+"Select an application to open %s and other files of type \""%s\""",1855,ཉེར་སྤྱོད་བྱ་རིམ་ཞིག་བདམས་ནས་ %s དང་%sརིགས་ཡིན་པའི་ཡིག་ཆ་གཞན་ཡང་ཁ་ཕྱེ་བ,1856,nautilus,po/bo.po
+"Sorry, but you cannot execute commands from a remote site.",1869,དགོངས་དག རྒྱང་འབྲེལ་དྲ་ཚིགས་ཐོག་བཀའ་བརྡ་ལག་སྟར་བྱེད་མི་ཐུབ,1870,nautilus,po/bo.po
+This is disabled due to security considerations.,1873,བདེ་འཇགས་ཀྱི་ཆེད་དུ་རྩོལ་ནུས་འདི་ནུས་མེད་བཟོ་ཚར,1874,nautilus,po/bo.po
+There was an error launching the application.,1878,ཉེར་སྤྱོད་འགོ་འཛུགས་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག,1879,nautilus,po/bo.po
+This drop target only supports local files.,1883,འདྲུད་ནས་འཇོག་སའི་དམིགས་ཡུལ་འདིས་རང་ཁུལ་ཡིག་ཆ་ཁོ་ན་ལ་རྒྱབ་སྐྱོར་ཡོད་པ,1884,nautilus,po/bo.po
+To open non-local files copy them to a local folder and then drop them again.,1887,རང་ཁུལ་ཡིག་ཆ་མིན་པ་ཁ་ཕྱེ་དགོས་ན དེ་ཚོ་རང་ཁུལ་ཡིག་སྣོད་ལ་འདྲ་བཤུ་བྱེད་དགོས,1889,nautilus,po/bo.po
+To open non-local files copy them to a local folder and then drop them again. The local files you dropped have already been opened.,1892,རང་ཁུལ་ནས་མིན་པའི་ཡིག་ཆ་ཁ་འབྱེད་དགོས་ན་རང་ཁུལ་གྱི་ཡིག་སྣོད་ཐོག་ཏུ་འཁྱེར་ནས་འདྲ་བཤུ་བྱེད་དགོས། ཁྱེར་ཡོངས་བའི་ཡིག་ཆ་ཁ་འབྱེད་ཚར་བ,1895,nautilus,po/bo.po
+Details: ,1900,ཞིབ་ཕྲ： ,1901,nautilus,po/bo.po
+Preparing,1905,གྲ་སྒྲིག་བཞིན་པ,1906,nautilus,po/bo.po
+Search,1913,འཚོལ་བཤེར,1914,nautilus,po/bo.po
+"Search for \""%s\""",1918,"\""%s\""་འཚོལ་བཤེར་བྱེད",1919,nautilus,po/bo.po
+Edit,1923,བསྒྱུར་བཅོས,1924,nautilus,po/bo.po
+Undo Edit,1927,བསྒྱུར་བཅོས་ཕྱིར་འཐེན,1928,nautilus,po/bo.po
+Undo the edit,1931,བསྒྱུར་བཅོས་ཕྱིར་འཐེན,1932,nautilus,po/bo.po
+Redo Edit,1935,བསྒྱུར་བཅོས་སླར་བཟོ,1936,nautilus,po/bo.po
+Redo the edit,1939,བསྒྱུར་བཅོས་དེ་སླར་བཟོ,1940,nautilus,po/bo.po
+All columns have same width,1998,གྱེན་ཕྲེང་གི་ཞེང་ཚད་གཅིག་པ་ཡིན་པ,1999,nautilus,po/bo.po
+"Always use the location entry, instead of the pathbar",2002,རྟག་པར་གནས་ཡུལ་གྱི་འཇུག་རིམ་སྟོན་པ་ལས་གནས་ཁོངས་ཀྱི་ཤོག་བྱང་མི་སྟོན,2003,nautilus,po/bo.po
+Computer icon visible on desktop,2022,མདུན་ངོས་ཐོག་ཏུ་རྩིས་འཁོར་གྱི་མཚོན་རྟགས་མངོན་པ,2023,nautilus,po/bo.po
+Date Format,2026,ཟླ་ཚེས་ལུགས,2027,nautilus,po/bo.po
+Default Thumbnail Icon Size,2030,སྔོན་སྒྲིག་བསྡུས་བརྗོད་རྟགས་ཀྱི་ཆེ་ཆུང,2031,nautilus,po/bo.po
+Default column order in the list view,2034,ཐོ་འགོད་ཀློག་ཚུལ་ཐོག་སྔོན་སྒྲིག་གྱེན་ཕྲེང་གི་གོ་རིམ,2035,nautilus,po/bo.po
+Default column order in the list view.,2038,ཐོ་འགོད་ཀློག་ཚུལ་ཐོག་སྔོན་སྒྲིག་གྱེན་ཕྲེང་གི་གོ་རིམ,2039,nautilus,po/bo.po
+Default compact view zoom level,2042,སྔོན་སྒྲིག་བསྡུས་ནས་ཀློག་ཚུལ་རྒྱ་བསྐྱེད་ཚད,2043,nautilus,po/bo.po
+Default folder viewer,2046,སྔོན་སྒྲིག་ཡིག་སྣོད་ཀློག་བྱེད,2047,nautilus,po/bo.po
+Default icon zoom level,2050,སྔོན་སྒྲིག་མཚོན་རྟགས་རྒྱ་བསྐྱེད་ཚད,2051,nautilus,po/bo.po
+Default list of columns visible in the list view,2054,ཐོ་འགོད་ཀློག་ཚུལ་ནང་མངོན་ཡོད་པའི་གྱེན་ཕྲེང་སྔོན་སྒྲིག་,2055,nautilus,po/bo.po
+Default list of columns visible in the list view.,2058,ཐོ་འགོད་ཀློག་ཚུལ་ནང་མངོན་ཡོད་པའི་གྱེན་ཕྲེང་སྔོན་སྒྲིག,2059,nautilus,po/bo.po
+Default list zoom level,2062,སྔོན་སྒྲིག་ཐོ་འགོད་རྒྱ་བསྐྱེད་ཚད,2063,nautilus,po/bo.po
+Default sort order,2066,སྔོན་སྒྲིག་དབྱེ་བྱེད་ཀྱི་གོ་རིམ།,2067,nautilus,po/bo.po
+Default zoom level used by the compact view.,2070,བསྡུས་རུག་ཀློག་ཚུལ་གྱི་སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད,2071,nautilus,po/bo.po
+Default zoom level used by the icon view.,2074,བསྡུས་རུག་ཀློག་ཚུལ་གྱི་སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད,2075,nautilus,po/bo.po
+Default zoom level used by the list view.,2078,ཐོ་འགོད་ཀློག་ཚུལ་གྱི་སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད,2079,nautilus,po/bo.po
+Desktop computer icon name,2082,མདུན་ངོས་ཐོག་རྩིས་འཁོར་མཚོན་རྟགས་ཀྱི་མིང་,2083,nautilus,po/bo.po
+Desktop font,2086,མདུན་ངོས་ཡིག་གཟུགས།,2087,nautilus,po/bo.po
+Desktop home icon name,2090,མདུན་ངོས་ཐོག་མདུན་ཤོག་མཚོན་རྟགས་ཀྱི་མིང་,2091,nautilus,po/bo.po
+Desktop trash icon name,2094,མདུན་ངོས་ཐོག་གད་སྙིགས་མཚོན་རྟགས་མིང་།,2095,nautilus,po/bo.po
+"Enables the classic Nautilus behavior, where all windows are browsers",2098,སྒེའུ་ཁུང་ཡོངས་རྫོགས་ལྟ་བཤེར་ཅན་ཡིན་པའི་སྲོལ་རྒྱུན་Nautilus་ལམ་ལུགས་ནུས་ཡོད་སྒྱུར,2099,nautilus,po/bo.po
+"For users with mice that have \""Forward\"" and \""Back\"" buttons, this key will determine if any action is taken inside of Nautilus when either is pressed.",2106,ཙི་གུ་ལ་འདུན་སྐྱོད་དང་རྒྱབ་ལོག་མཐེབ་ཡོད་པའི་སྤྱོད་མཁན་,2110,nautilus,po/bo.po
+Home icon visible on desktop,2133,མདུན་ཤོག་མཚོན་རྟགས་མདུན་ངོས་ཐོག་མངོན,2134,nautilus,po/bo.po
+"If set to true, Nautilus will only show folders in the tree side pane. Otherwise it will show both folders and files.",2148,trueའམ་བདེན་ཚེ་ཟུར་པང་ཐོག་ཏུ་ཡིག་སྣོད་ལས་ཡིག་ཆ་མི་ཤར་བ། དེ་མིན་ཚེ་ཡིག་སྣོད་དང་ཡིག་ཆ་གཉིས་པོ་ཤར་བ,2151,nautilus,po/bo.po
+"If set to true, newly opened windows will have the location bar visible.",2155,trueའམ་བདེན་པར་སྒྲིག་ཚེ་སྒེ་ཁུང་གསར་པ་ལ་གནས་ཡུལ་རིམ་པ་རྣམས་མཐོང་ནུས,2157,nautilus,po/bo.po
+"If set to true, newly opened windows will have the side pane visible.",2160,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་སྒེ་ཁུང་གསར་པ་ལ་ཟུར་པང་མངོན་འོང,2161,nautilus,po/bo.po
+"If set to true, newly opened windows will have the status bar visible.",2164,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་སྒེ་ཁུང་གསར་པ་ལ་རྣམ་པ་དོན་ས་མངོན་འོང་།,2165,nautilus,po/bo.po
+"If set to true, newly opened windows will have toolbars visible.",2168,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་སྒེ་ཁུང་གསར་པ་ནང་སྤྱོད་ཆས་པང་ལེབ་མངོན,2169,nautilus,po/bo.po
+"If set to true, then Nautilus browser windows will always use a textual input entry for the location toolbar, instead of the pathbar.",2172,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་Nautilus་ལྟ་ཀློག་པས་ཡི་གེའི་གནས་ཡུལ་རྒྱུད་ཁོངས་སྟོན་པ་དང་ཤོག་བྱང་ཐོག་གནས་ཡུལ་སྟོན་ཚུལ་མཚམས་བཅད,2175,nautilus,po/bo.po
+"If set to true, then Nautilus lets you edit and display file permissions in a more unix-like way, accessing some more esoteric options.",2180,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་ཡིག་ཆ་ཁ་ཕྱེ་བ་དང་ཞུ་དག་བྱེད་པ་ལ་ཆོག་མཆན་སྤྲོད་དགོས,2183,nautilus,po/bo.po
+"If set to true, then Nautilus shows folders prior to showing files in the icon and list views.",2186,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་Nautilus་ལྟ་ཀློག་པས་ཡིག་སྣོད་རྣམས་ཡིག་ཆའི་སྔོན་དུ་ཤར་ཡོང,2189,nautilus,po/bo.po
+"If set to true, then Nautilus will ask for confirmation when you attempt to delete files, or empty the Trash.",2192,གལ་སྲིད་trueའམ་བདེན་པར་སྒྲིག་ཚེ་ཡིག་ཆ་བསུབ་དུས་ངོས་འཛིན་ཡི་གེ་འཆར་ཡོང,2195,nautilus,po/bo.po
+"If set to true, then Nautilus will use the user's home folder as the desktop. If it is false, then it will use ~/Desktop as the desktop.",2215,འདི་བདེན་པ་འཛུགས་ན་Nautilusཡིས་མདུན་ངོས་ཡིག་སྣོད་མདུན་ངོས་ཀྱི་ཚབས་བཙུགས། དེ་མིན་ན་use ~/Desktop་མདུན་ངོས་ཚབས་ལ་བཞག,2218,nautilus,po/bo.po
+List of possible captions on icons,2328,འབྱུང་སྲིད་པའི་མཚོན་རྟགས་ཀྱི་ཤོག་བྱང,2329,nautilus,po/bo.po
+Maximum image size for thumbnailing,2332,བསྡུས་བརྗོད་རི་མོར་སྤྱོད་པའི་པར་རིས་ཆེ་ཤོས,2333,nautilus,po/bo.po
+Nautilus uses the users home folder as the desktop,2344,Nautilus ཡིས་སྤྱོད་མཁན་གྱི་གཙོ་ངོས་ཡིག་སྣོད་མདུན་ངོས་བཞིན་བེད་སྤྱོད་པ,2345,nautilus,po/bo.po
+Network Servers icon visible on the desktop,2348,མདུན་ངོས་ཐོག་ཏུ་དྲ་ཞབས་ཞུ་བའི་མཚོན་རྟགས་མངོན་པ,2349,nautilus,po/bo.po
+Network servers icon name,2352,དྲ་ཞབས་ཞུ་བའི་མཚོན་རྟགས་ཀྱི་མིང་།,2353,nautilus,po/bo.po
+Only show folders in the tree side pane,2356,ཟུར་པང་ཐོག་ཏུ་ཡིག་སྣོད་ཁོ་ན་འཆར་བ,2357,nautilus,po/bo.po
+"Possible values are \""single\"" to launch files on a single click, or \""double\"" to launch them on a double click.",2360,"ཐོབ་གྲངས་གཉིས་སྟེ ཅིག་\""single\""ཅིག་བརྡེབ་ཀྱིས་ཡིག་ཆ་སྒོ་ཕྱེ་བ་དང་ཡང་ན་\""double\""གཉིས་རྡེབ་ཀྱིས་སྒོ་ཕྱེ།",2363,nautilus,po/bo.po
+Put labels beside icons,2368,མཚོན་རྟགས་ཀྱི་ཟུར་ལ་ཤོག་བྱང་སྦྱར་པ,2369,nautilus,po/bo.po
+Reverse sort order in new windows,2372,སྒེའུ་ཁུང་གསར་པའི་ནང་དབྱེ་སེལ་གོ་རིམ་ལོག་པ,2373,nautilus,po/bo.po
+Show advanced permissions in the file property dialog,2376,ཡིག་ཆའི་རྒྱུ་དངོས་ཐོག་ཏུ་མཐོ་རིམ་ཆོག་མཆན་མངོན་འཆར་བྱེད་པ,2377,nautilus,po/bo.po
+Show folders first in windows,2380,ཡིག་སྣོད་རྣམས་སྒེའུ་ཁུང་གི་གོང་ལ་ཤར་བ,2381,nautilus,po/bo.po
+Show location bar in new windows,2384,སྒེའུ་ཁུང་གསར་པའི་ནང་འཇུག་སྣོད་ཀྱི་རྒྱུད་རིམ་མངོན,2385,nautilus,po/bo.po
+Show mounted volumes on the desktop,2388,འཛུད་ཡོད་པའི་ཆེ་ཆུང་མདུན་ངོས་ཐོག་ཤར་བ,2389,nautilus,po/bo.po
+Show side pane in new windows,2392,སྒེའུ་ཁུང་གསར་པའི་ནང་ཟུར་པང་ཤར་བ,2393,nautilus,po/bo.po
+Show status bar in new windows,2396,སྒེའུ་ཁུང་གསར་པའི་ནང་གནས་སྟངས་ཤར་བ,2397,nautilus,po/bo.po
+Show the package installer for unknown mime types,2400,རྒྱུས་མེད་པའི་mime རིགས་ལ་ཐུམ་བུ་སྒྲིག་འཇུག་ཆས་སྟོན་པ,2401,nautilus,po/bo.po
+Show toolbar in new windows,2404,སྒེའུ་ཁུང་གསར་པའི་ནང་སྤྱོད་ཆས་འཇུག་ས་ཤར་བ,2405,nautilus,po/bo.po
+Side pane view,2408,ཟུར་པང་ལྟ་ཀློག,2409,nautilus,po/bo.po
+Text Ellipsis Limit,2455,ཡིག་འབྲུ་བསྡུ་ཐབས་ཚོད་འཛིན,2456,nautilus,po/bo.po
+The default size of an icon for a thumbnail in the icon view.,2459,མཚོན་རྟགས་ལྟ་ཀློག་ནང་མཐེ་བོང་མཚོན་རྟགས་ཀྱི་སྔོན་སྒྲིག་ཞེང་ཚད,2460,nautilus,po/bo.po
+The default width of the side pane in new windows.,2472,སྒེའུ་ཁུང་གསར་པའི་ནང་ཟུར་པང་གི་སྔོན་སྒྲིག་རྒྱ་ཚད།,2473,nautilus,po/bo.po
+"The format of file dates. Possible values are \""locale\"", \""iso\"", and \""informal\"".",2481,"ཡིག་ཆའི་ཟླ་ཚེས་ཀྱི་དབྱེ་རིགས ཐོབ་གྲངས་འདྲ་མིན \""locale\""དང་ \""iso\""། \""དངོས་གཞི་མིན་པ\""",2484,nautilus,po/bo.po
+The side pane view to show in newly opened windows.,2492,སྒེའུ་ཁུང་གསར་པའི་ནང་ཤར་བའི་ཟུར་པང་གི་ཀློག་སྟངས,2493,nautilus,po/bo.po
+Trash icon visible on desktop,2528,མདུན་ངོས་ཐོག་ཏུ་སྙིགས་སྣོད་མཚོན་རྟགས་མངོན,2529,nautilus,po/bo.po
+Type of click used to launch/open files,2532,ཡིག་ཆ་ཁ་ཕྱེ་བར་སྤྱོད་པའི་འཐེབ་རྡེབ་སྟངས,2533,nautilus,po/bo.po
+Use extra mouse button events in Nautilus' browser window,2536,Nautilus་ལྟ་ཀློག་བར་སྤྱོད་པའི་ཙི་གུ་མཐེབ་རྩོལ་ནུས་གཞན,2537,nautilus,po/bo.po
+When to show number of items in a folder,2567,ཡིག་སྣོད་ཀྱི་ནང་ཚན་གྲངས་ག་དུས་འཆར་བ,2568,nautilus,po/bo.po
+When to show preview text in icons,2571,མཚོན་རྟགས་ནང་དུ་སྔོན་ལྟ་ཡི་གེ་ག་དུས་འཆར་དགོས་པ,2572,nautilus,po/bo.po
+When to show thumbnails of image files,2575,བརྙན་རིས་ཀྱི་བསྡུས་རིས་ག་དུས་འཆར་བ,2576,nautilus,po/bo.po
+Where to position newly open tabs in browser windows.,2579,གསར་དུ་ཁ་ཕྱེས་པའི་ཤོག་བྱང་གི་གནས་ཡུལ,2580,nautilus,po/bo.po
+Whether the navigation window should be maximized by default.,2583,སྔོན་སྒྲིག་ལ་ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ཆེ་ཤོས་འཛུགས་དགོས་མིན,2584,nautilus,po/bo.po
+Whether the navigation window should be maximized.,2587,ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ཆེ་ཤོས་ལ་འཛུགས་དགོས་མིན,2588,nautilus,po/bo.po
+"Whether to ask for confirmation when deleting files, or emptying Trash",2591,ཡིག་ཆ་བསུབ་པ་དང་སྙིགས་སྣོད་གཙང་བཟོ་སྐབས་ངོས་འཛིན་འདྲི་དགོས་མིན,2592,nautilus,po/bo.po
+Whether to enable immediate deletion,2595,འཕྲལ་དུ་བསུབ་པར་ནུས་ཡོད་བཟོ་དགོས་མིན,2596,nautilus,po/bo.po
+Whether to show hidden files,2599,ཡིབ་ཡོད་པའི་ཡིག་ཆ་འཆར་དགོས་མིན,2600,nautilus,po/bo.po
+Width of the side pane,2611,ཟུར་པང་གི་ཞེང་ཚད,2612,nautilus,po/bo.po
+"Nautilus could not create the required folder \""%s\"".",2631,"Nautilus་ལ་དགོས་པའི་ཡིག་སྣོད་\""%s\""གསར་འཛུགས་བྱེད་མི་ཐུབ་པ",2632,nautilus,po/bo.po
+"Before running Nautilus, please create the following folder, or set permissions such that Nautilus can create it.",2635,Nautilus བཀོལ་སྤྱོད་མ་བྱས་གོང་གཤམ་གྱི་ཡིག་སྣོད་དེ་གསར་འཛུགས་བྱོས། ཡང་ན་འདིའི་ཆོག་མཆན་སྒྲིག་འཛུགས་བྱས་ནས་Nautilusཡིས་གསར་འཛུགས་ཐུབ་པར་བཟོ་དགོས,2638,nautilus,po/bo.po
+Nautilus could not create the following required folders: %s.,2644,གཤམ་གྱི་དགོས་པའི་ཡིག་སྣོད་དེ་Nautilus་ཡིས་གསར་འཛུགས་མ་ཐུབ་པ། %s,2645,nautilus,po/bo.po
+"Before running Nautilus, please create these folders, or set permissions such that Nautilus can create them.",2648,Nautilus བཀོལ་སྤྱོད་མ་བྱས་གོང་ཡིག་སྣོད་འདི་དག་གསར་འཛུགས་བྱོས། ཡང་ན་འདིའི་ཆོག་མཆན་སྒྲིག་འཛུགས་བྱས་ནས་Nautilusཡིས་གསར་འཛུགས་ཐུབ་པར་བཟོ་དགོས,2651,nautilus,po/bo.po
+Perform a quick set of self-check tests.,2677,མགྱོག་མྱུར་ངང་རང་ཉིད་བརྟག་དཔྱད་ཚད་ལེན་བྱེད་པ,2678,nautilus,po/bo.po
+Show the version of the program.,2681,བྱ་རིམ་པར་གཞི་མངོན་འཆར,2682,nautilus,po/bo.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,2697,མདུན་ངོས་དོ་དམ་མི་བྱེད་པ(རང་མོས་སྒྲིག་འགོད་གླེང་སྒྲོམ་ནང་གི་སྒྲིག་འགོད་སྣང་མེད་བསྐྱུར་བ),2700,nautilus,po/bo.po
+Quit Nautilus.,2703,Nautilusམཚམས་བཞག,2704,nautilus,po/bo.po
+\n\nBrowse the file system with the file manager,2711,\n\nཡིག་ཆའི་དོ་དམ་ཆས་ཡིག་ཆའི་མ་ལག་ལྟ་བཤེར་བྱེད་པ,2715,nautilus,po/bo.po
+Error starting autorun program: %s,2723,རབ་འགུལ་འཁོར་སྤྱོད་ཀྱི་བྱ་རིམ་འགོ་འཛུགས་སྐབས་ནོར་འཁྲུལ：%s,2724,nautilus,po/bo.po
+Cannot find the autorun program,2728,རང་འགུལ་འཁོར་སྤྱོད་བྱ་རིམ་རྙེད་མི་ཐུབ,2729,nautilus,po/bo.po
+<big><b>Error autorunning software</b></big>,2732,<big><b>མཉེན་ཆས་རང་འགུལ་འཁོར་སྤྱོད་སྐབས་ནོ་འཁྲུལ</b></big>,2733,nautilus,po/bo.po
+<big><b>This medium contains software intended to be automatically started. Would you like to run it?</b></big>,2736,<big><b>འཇུག་ཟམ་འདི་ལ་རང་འགུལ་གྱིས་འགོ་འཛུགས་ཡོང་བའི་མཉེན་ཆས་འདུག་པས་ཁྱོད་ཀྱིས་དེ་འཁོར་སྐྱོད་བྱེད་དགོས་སམ</b></big>,2739,nautilus,po/bo.po
+"The software will run directly from the medium \""%s\"". You should never run software that you don't trust.\n\nIf in doubt, press Cancel.",2745,"འཇུག་ཟམ་\""%s\""་ནས་མཉེན་ཆས་ཐད་ཀར་འཁོར་སྐྱོད་བྱེད་ཡོང་། གལ་སྲིད་ཡིད་རྟོན་མེད་པའི་མཉེན་ཆས་ཡིན་ན་འཁོར་སྤྱོད་མ་བྱེད་རོགས\nཁྱོད་ཀྱིས་མ་ཤེས་ན་ཕྱིར་བཤོལ་ལ་མནན་རོགས",2750,nautilus,po/bo.po
+_Run,2756,འཁོར་སྐྱོད(_R),2757,nautilus,po/bo.po
+There was an error displaying help: \n%s,2763,རོགས་འདེགས་མངོན་འཆར་བྱེད་སྐབས་ནོར་འཁྲུལ་བྱུང་འདུག：\n%s,2766,nautilus,po/bo.po
+No bookmarks defined,2771,ཡིག་རྟགས་དམིགས་འཛུགས་བྱས་མེད་པ,2772,nautilus,po/bo.po
+<b>_Bookmarks</b>,2775,<b>ཡིག་རྟགས(_B)</b>,2776,nautilus,po/bo.po
+<b>_Location</b>,2779,<b>གནས་ཡུལ(_L)</b>,2780,nautilus,po/bo.po
+<b>_Name</b>,2783,<b>མིང(_N)</b>,2784,nautilus,po/bo.po
+Edit Bookmarks,2787,ཡིག་རྟགས་བསྒྱུར་བཅོས,2788,nautilus,po/bo.po
+Public FTP,2795,སྤྱི་སྤྱོདFTP,2796,nautilus,po/bo.po
+FTP (with login),2799,FTP (ཐོ་འགོད་ཅན),2800,nautilus,po/bo.po
+Windows share,2803,Windowsམཉམ་སྤྱོད,2804,nautilus,po/bo.po
+Secure WebDAV (HTTPS),2811,བདེ་འཇགསWebDAV (HTTPS),2812,nautilus,po/bo.po
+There was an error displaying help.,2850,རོགས་འདེགས་སྟོན་སྐབས་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག,2851,nautilus,po/bo.po
+C_onnect,2855,སྦྲེལ་མཐུད(_O),2856,nautilus,po/bo.po
+Connect to Server,2860,ཞབས་ཞུ་བ་དང་སྦྲེལ་མཐུད་བྱེད་པ,2861,nautilus,po/bo.po
+_Server:,2870,ཞབས་ཞུ་བ(_S)：,2871,nautilus,po/bo.po
+_Port:,2875,མཐུད་སྣེ(_P)：,2876,nautilus,po/bo.po
+_Type:,2880,རིགས(_T)：,2881,nautilus,po/bo.po
+_Folder:,2891,ཡིག་སྣོད(_F)：,2892,nautilus,po/bo.po
+\n\nAdd connect to server mount,2934,\n\nཞབས་ཞུ་བ་བཀར་བ་ལ་སྦྲེལ་མཐུད་ཁ་སྣོན,2938,nautilus,po/bo.po
+E_mpty Trash,2947,སྙིགས་སྣོད་གཙང་དག་བཟོ་བ(_M),2948,nautilus,po/bo.po
+Change Desktop _Background,2952,མདུན་ངོས་རྒྱབ་ལྗོངས་བསྒྱུར་བཟོ(_B),2953,nautilus,po/bo.po
+Show a window that lets you set your desktop background's pattern or color,2957,མདུན་ངོས་རྒྱབ་ལྗོངས་ཀྱི་གཟུགས་རིས་དང་ཁ་དོག་སྒྲིག་འགོད་ལ་སྤྱོད་པའི་སྒེའུ་ཁུང་སྟོན་པ,2959,nautilus,po/bo.po
+Empty Trash,2963,སྙིགས་སྣོད་གཙང་བཟོ,2964,nautilus,po/bo.po
+Delete all items in the Trash,2969,སྙིགས་སྣོད་ནང་གི་རྣམ་གྲངས་ཡོངས་བསུབ་པ,2970,nautilus,po/bo.po
+The desktop view encountered an error.,2973,མདུན་ངོས་ཀྱི་ཀློག་སྟངས་ལ་ནོར་འཁྲུལ་ཞིག་འཕྲད་འདུག,2974,nautilus,po/bo.po
+The desktop view encountered an error while starting up.,2977,མདུན་ངོས་ཀློག་སྟངས་འགོ་འཛུགས་སྐབས་ནོར་འཁྲུལ་,2978,nautilus,po/bo.po
+Comment,2982,མཆན་འགྲེལ,2983,nautilus,po/bo.po
+Description,2992,འགྲེལ་བཤད,2993,nautilus,po/bo.po
+Command,2996,བཀའ་བརྡ,2997,nautilus,po/bo.po
+Desktop,3002,མདུན་ངོས,3003,nautilus,po/bo.po
+"You do not have the permissions necessary to view the contents of \""%s\"".",3007,"\""%s\""ཡི་ནང་དོན་ལྟ་ནུས་པའི་ཆོག་འཆན་མི་འདུག",3009,nautilus,po/bo.po
+"\""%s\"" could not be found. Perhaps it has recently been deleted.",3013,"\""%s\""འདི་རྙེད་མི་འདུག ཕལ་ཆེར་ཉེ་ཆར་རིང་བསུབ་ཚར་བ་འདྲ",3014,nautilus,po/bo.po
+"Sorry, could not display all the contents of \""%s\"": %s",3018,"དགོང་དག \""%s\""ཡི་ནང་དོན་ཡོངས་མངོན་འཆར་ཐུབ་མི་འདུག：%s",3019,nautilus,po/bo.po
+The folder contents could not be displayed.,3022,ཡིག་སྣོད་ཀྱི་ནང་དོན་མངོན་འཆར་བྱེད་ཐུབ་ཀྱི་མི་འདུག,3023,nautilus,po/bo.po
+"You do not have the permissions necessary to change the group of \""%s\"".",3027,"\""%s\""ཚོ་ཁག་གི་བཟོ་བཅོས་བྱེད་པར་དགོས་པའི་ཆོག་འཆན་མི་འདུག",3029,nautilus,po/bo.po
+"Sorry, could not change the group of \""%s\"": %s",3034,"དགོངས་དག \""%s\""ཡི་ཚོ་ཁག་བཟོ་བཅོས་བྱེད་ཐུབ་མི་འདུག %s",3035,nautilus,po/bo.po
+The group could not be changed.,3038,ཚོ་ཁག་འདི་ལ་བཟོ་བཅོས་བྱེད་མི་ཐུབ་པ,3039,nautilus,po/bo.po
+"Sorry, could not change the owner of \""%s\"": %s",3043,"དགོངས་དག \""%s\""ཡི་བདག་པོ་བསྒྱུར་བཟོ་བྱེད་མི་ཐུབ་པ：%s",3044,nautilus,po/bo.po
+The owner could not be changed.,3047,བདག་པོ་བསྒྱུར་བཟོ་བྱེད་མི་ཐུབ་པ,3048,nautilus,po/bo.po
+"Sorry, could not change the permissions of \""%s\"": %s",3052,"དགོངས་དག \""%s\""ཡི་ཆོག་འཆན་བསྒྱུར་བཟོ་བྱེད་་མི་ཐུབ་པ：%s",3053,nautilus,po/bo.po
+The permissions could not be changed.,3056,ཆོག་འཆན་བསྒྱུར་བཟོ་བྱེད་མི་ཐུབ,3057,nautilus,po/bo.po
+"The name \""%s\"" is already used in this folder. Please use a different name.",3061,"ཡིག་སྣོད་འདིའི་ནང་མིང\""%s\""འདི་བེད་སྤྱོད་བྱས་ཟིན མིང་གཞན་ཞིག་བེད་སྤྱོད་རོགས",3063,nautilus,po/bo.po
+"There is no \""%s\"" in this folder. Perhaps it was just moved or deleted?",3067,"\""%s\""འདི་ཡིག་སྣོད་ནང་དུ་མི་འདུག དེ་སྤོར་ཚར་བའམ་བསུབ་ཙར་འདུག",3069,nautilus,po/bo.po
+"You do not have the permissions necessary to rename \""%s\"".",3073,"\""%s\""མིང་བསྐྱར་འདོགས་བྱེད་པར་དགོས་པའི་ཆོག་འཆན་མི་འདུག",3074,nautilus,po/bo.po
+"The name \""%s\"" is not valid because it contains the character \""/\"". Please use a different name.",3078,"མིང་\""%s\""ཕན་མེད་རེད་འདུག རྒྱུ་མཚན་ནི་དེ་ལ་མཚོན་རྟགས་ \""/\"" འདུག མིང་གཞན་ཞིག་བེད་སྤྱོད་རོགས",3081,nautilus,po/bo.po
+"The name \""%s\"" is not valid. Please use a different name.",3086,"མིང\""%s\""ཕན་འབྲས་མེད་པ་རེད་འདུག མིང་གཞན་ཞིག་བེད་སྤྱོད་རོགས",3087,nautilus,po/bo.po
+"Sorry, could not rename \""%s\"" to \""%s\"": %s",3097,"དགོངས་དག \""%s\""ལ་\""%s\""མིང་འདོག་མི་ཐུབ་པ：%s",3098,nautilus,po/bo.po
+The item could not be renamed.,3101,རྣམ་གྲངས་ལ་མིང་བསྐྱར་འདོག་མི་་ཐུབ་པ,3102,nautilus,po/bo.po
+"Renaming \""%s\"" to \""%s\"".",3106,"\""%s\""ལ་\""%s\""མིང་སྐྱར་འདོག་བྱེད་བཞིན་པ",3107,nautilus,po/bo.po
+None,3116,མེད་པ,3117,nautilus,po/bo.po
+1 GB,3120,ཐེར་འབུམ 1,3121,nautilus,po/bo.po
+1 MB,3124,ས་ཡ 1,3125,nautilus,po/bo.po
+10 MB,3128,ས་ཡ 10,3129,nautilus,po/bo.po
+100 KB,3132,ཚིག 100,3133,nautilus,po/bo.po
+100 MB,3136,ས་ཡ 100,3137,nautilus,po/bo.po
+2 GB,3150,ཐེར་འབུམ 2,3151,nautilus,po/bo.po
+3 MB,3159,ས་ཡ 3,3160,nautilus,po/bo.po
+4 GB,3168,ཐེར་འབུམ 4,3169,nautilus,po/bo.po
+5 MB,3177,ས་ཡ 5,3178,nautilus,po/bo.po
+500 KB,3186,ཚིག 500,3187,nautilus,po/bo.po
+<b>Behavior</b>,3195,<b>འགྲོ་སྟངས</b>,3196,nautilus,po/bo.po
+<b>Compact View Defaults</b>,3199,<b>མདོར་བསྡུས་ལྟ་སྟངས་སྔོན་སྒྲིག</b>,3200,nautilus,po/bo.po
+<b>Date</b>,3203,<b>ཟླ་ཚེས</b>,3204,nautilus,po/bo.po
+<b>Default View</b>,3207,<b>སྔོན་སྒྲིག་ལྟ་སྟངས</b>,3208,nautilus,po/bo.po
+<b>Executable Text Files</b>,3211,<b>ལག་སྟར་བྱེད་རུང་བའི་ཡི་གེ་ཡིག་ཆ</b>,3212,nautilus,po/bo.po
+<b>Folders</b>,3215,<b>ཡིག་སྣོད</b>,3216,nautilus,po/bo.po
+<b>Icon Captions</b>,3219,<b>མཚོན་རྟགས་ཡི་གེ</b>,3220,nautilus,po/bo.po
+<b>Icon View Defaults</b>,3223,<b>མཚོན་རྟགས་ལྟ་སྟངས་སྔོན་སྒྲིག</b>,3224,nautilus,po/bo.po
+<b>List Columns</b>,3227,<b>ཐོ་འགོད་རྣམ་གྲངས</b>,3228,nautilus,po/bo.po
+<b>List View Defaults</b>,3231,<b>ཐོ་འགོད་ལྟ་སྟངས་སྔོན་སྒྲིག</b>,3232,nautilus,po/bo.po
+<b>Other Previewable Files</b>,3235,<b>སྔོན་ལྟ་རུང་བའི་ཡིག་ཆ་གཞན</b>,3236,nautilus,po/bo.po
+<b>Text Files</b>,3239,<b>ཡི་གེ་ཡིག་ཆ</b>,3240,nautilus,po/bo.po
+<b>Trash</b>,3243,<b>སྙིགས་སྣོད</b>,3244,nautilus,po/bo.po
+<b>Tree View Defaults</b>,3247,<b>སྡོང་བོའི་དབྱིབས་ལྟ་སྟངས་སྔོན་སྒྲིག</b>,3248,nautilus,po/bo.po
+A_ll columns have the same width,3251,རྣམ་གྲངས་ཡོངས་ཀྱི་ཞེང་ཚད་གཅིག་མཚུངས་ཡིན་པ(_L),3252,nautilus,po/bo.po
+Always,3255,རྟག་པར,3256,nautilus,po/bo.po
+Ask before _emptying the Trash or deleting files,3259,སྙིགས་སྣོད་གཙང་དག་བཟོ་བ་འམ་ཡིག་ཆ་བསུབ་སྐབས་འདྲི་ཞིབ་བྱེད(_E),3260,nautilus,po/bo.po
+Behavior,3263,འགྲོ་སྟངས,3264,nautilus,po/bo.po
+By Modification Date,3272,བཟོ་བཅོས་དུས་ཚོད་ལ་བསྟུན་,3273,nautilus,po/bo.po
+By Name,3276,མིང་ལ་བསྟུན,3277,nautilus,po/bo.po
+By Size,3280,ཆེ་ཆུང་ལ་བསྟུན,3281,nautilus,po/bo.po
+By Type,3289,རིགས་ལ་བསྟུན་,3290,nautilus,po/bo.po
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,3293,མཚོན་རིས་གཤམ་དུ་ཤར་བའི་འགྲེལ་བཤད་ཀྱི་གོ་རིམ་གདམ་པ། གམ་དུ་ཉེ་བར་བཅར་བ་དང་འགྲེལ་བཤད་མང་ཙམ་ཤར་ཡོང,3296,nautilus,po/bo.po
+Choose the order of information to appear in the list view.,3301,ཐོ་འགོད་ཀློག་སྟངས་ནང་ཤར་བའི་གསལ་འགྲེལ་གྱི་གོ་རིམ་གདམ་པ,3302,nautilus,po/bo.po
+Compact View,3308,མདོར་བསྡུས་ལྟ་ཀློག,3309,nautilus,po/bo.po
+Count _number of items:,3312,རྣམ་གྲངས་གི་གྲངས་ཚད་བརྩི་བ(_N)：,3313,nautilus,po/bo.po
+D_efault zoom level:,3316,སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད(_E)：,3317,nautilus,po/bo.po
+Default _zoom level:,3320,སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད(_Z)：,3321,nautilus,po/bo.po
+Display,3324,མངོན་འཆར,3325,nautilus,po/bo.po
+File Management Preferences,3328,ཡིག་ཆ་དོ་དམ་རང་མོས་སྒྲིག་འགོད,3329,nautilus,po/bo.po
+I_nclude a Delete command that bypasses Trash,3332,སྙིགས་སྣོད་ལ་བརྒྱུད་མི་དགོས་པའི་བསུབ་ཀྱི་བཀའ་བརྡ་ཞིག་བཅུག་པ_n,3333,nautilus,po/bo.po
+Icon View,3339,མཚོན་རིས་ལྟ་ཀློག,3340,nautilus,po/bo.po
+List Columns,3343,ཐོ་འགོད་རྣམ་གྲངས,3344,nautilus,po/bo.po
+List View,3350,ཐོ་འགོད་ལྟ་ཀློག,3351,nautilus,po/bo.po
+Local Files Only,3354,རང་ཁུལ་ཡིག་ཆ་ཁོ་ན,3355,nautilus,po/bo.po
+Never,3358,ནམ་ཡང་མིན,3359,nautilus,po/bo.po
+Open each _folder in its own window,3362,ཡིག་སྣོད་སོ་སོར་སྒེའུ་ཁུང་རེ་རེའི་ནང་ཁ་ཕྱེ(_f),3363,nautilus,po/bo.po
+Preview,3366,སྔོན་ལྟ,3367,nautilus,po/bo.po
+Show _only folders,3370,ཡིག་སྣོད་ཁོ་ན་མངོན་པ(_O),3371,nautilus,po/bo.po
+Show _thumbnails:,3374,གནད་བསྡུས་རི་མོ་མངོན་འཆར(_T)：,3375,nautilus,po/bo.po
+Show hidden and _backup files,3378,ཡིབ་ཡོད་པ་དང་རྒྱབ་སྐྱོར་ཡིག་ཆ་མངོན་པ(_B),3379,nautilus,po/bo.po
+Show te_xt in icons:,3382,མཚོན་རིས་ནང་ཡི་གེ་མངོན་འཆར(_X)：,3383,nautilus,po/bo.po
+Sort _folders before files,3386,ཡིག་སྣོད་ཡིག་ཆའི་སྔོན་ལ་བཞག་པ(_F),3387,nautilus,po/bo.po
+View _new folders using:,3390,འདིར་སྤྱོད་བཞིན་པའི་ཡིག་སྣོད་གསར་བ་ཀློག་པ(_N)：,3391,nautilus,po/bo.po
+Views,3394,ཀློག་སྟངས,3395,nautilus,po/bo.po
+_Arrange items:,3398,དོན་ཚན་སྒྲིག་བཀོད(_A)：,3399,nautilus,po/bo.po
+_Ask each time,3402,ཐེངས་རེར་བཞིན་འདྲི་བ(_A),3403,nautilus,po/bo.po
+_Default zoom level:,3406,སྔོན་སྒྲིག་རྒྱ་བསྐྱེད་ཚད(_D)：,3407,nautilus,po/bo.po
+_Double click to open items,3410,རྣམ་གྲངས་ལ་གཉིས་རྡེབ་བྱས་ནས་ཁ་ཕྱེ(_D),3411,nautilus,po/bo.po
+_Format:,3414,དབྱེ་རིགས(_F)：,3415,nautilus,po/bo.po
+_Only for files smaller than:,3418,འདི་ལས་ཆུང་བའི་ཡིག་ཆ་ཁོ་ན(_O)：,3419,nautilus,po/bo.po
+_Run executable text files when they are opened,3422,ལག་སྟར་རུང་བའི་ཡིག་ཆ་ཁ་འབྱེད་པ་དང་འཁོར་སྐྱོད་བྱེད་པ(_R),3423,nautilus,po/bo.po
+_Single click to open items,3426,གཅིག་རྡེབ་ཀྱིས་རྣམ་གྲངས་ཁ་འབྱེད་པ(_S),3427,nautilus,po/bo.po
+_Text beside icons,3430,མཚོན་རིས་འགྲམ་དུ་ཡི་གེ(_T),3431,nautilus,po/bo.po
+_View executable text files when they are opened,3434,འཁོར་སྐྱོད་རུང་བའི་ཡིག་གེ་ཡིག་ཆ་ཁ་འབྱེད་པ་དང་ལྟ་ཀློག་བྱེད་པ_V,3435,nautilus,po/bo.po
+by _Name,3438,མིང་ལ་བསྟུན(_N),3439,nautilus,po/bo.po
+Keep icons sorted by name in rows,3442,འཕྲེད་གྲལ་ནང་དུ་མཚོན་རྟགས་རྣམས་མིང་ལ་བསྟུན་ནས་དབྱེ་བ,3443,nautilus,po/bo.po
+by _Size,3446,ཆེ་ཆུང་ལ་བསྟུན(_S),3447,nautilus,po/bo.po
+Keep icons sorted by size in rows,3450,ཆེ་ཆུང་ལ་བསྟུན་ནས་བསྟར་ཕྲེང་ནང་མཚོན་རྟགས་ཉར་འཇོག,3451,nautilus,po/bo.po
+by _Type,3454,རིགས་དང་བསྟུན་པ(_T),3455,nautilus,po/bo.po
+Keep icons sorted by type in rows,3458,བཟོ་རིགས་ལ་བསྟུན་ནས་བསྟར་ཕྲེང་ནང་མཚོན་རྟགས་ཉར་འཇོག,3459,nautilus,po/bo.po
+by Modification _Date,3462,བཟོ་བཅོས་དུས་ཚོད་ལ་བསྟུན(_D),3463,nautilus,po/bo.po
+Keep icons sorted by modification date in rows,3466,བཟོ་བཅོས་ལ་བསྟུན་ནས་བསྟར་ཕྲེང་ནང་མཚོན་རྟགས་ཉར་འཇོག,3467,nautilus,po/bo.po
+by T_rash Time,3470,སྙིགས་སྣོད་དུ་འདོར་བའི་དུས་ལ་བསྟུན(_R),3471,nautilus,po/bo.po
+Keep icons sorted by trash time in rows,3474,འཕྲེད་གྲལ་དུ་སྙིགས་སྣོད་ནང་འདོར་བའི་དུས་ལ་བསྟུན་ནས་དབྱེ་བ,3475,nautilus,po/bo.po
+_Organize Desktop by Name,3478,མདུན་ངོས་མིང་ལ་བསྟུན་ནས་བཀོད་སྒྲིག་བྱེད་པ(_O),3479,nautilus,po/bo.po
+Arran_ge Items,3483,དོན་ཚན་བཀོད་སྒྲིག(_G),3484,nautilus,po/bo.po
+Resize Icon...,3489,མཚོན་རྟགས་ཆེ་ཆུང་བཟོ་བ་་་,3490,nautilus,po/bo.po
+Make the selected icon resizable,3494,གདམ་ཟིན་པའི་མཚོན་རྟགས་ཆེ་ཆུང་བསྒྱུར་རུང་བར་བཟོ་བ,3495,nautilus,po/bo.po
+Restore Icons' Original Si_zes,3500,སྔོན་སྒྲིག་མཚོན་རྟགས་ཀྱི་ཞེང་ཚད་བསྐྱར་གསོ་བྱེད(_Z),3501,nautilus,po/bo.po
+Restore each selected icon to its original size,3505,མཚོན་རྟགས་སོ་སོར་སྔོན་སྒྲིག་ཞེང་ཚད་ལ་བསྐྱར་གསོ་བྱེད,3506,nautilus,po/bo.po
+_Organize by Name,3511,མིང་ལ་བསྟུན་ནས་བཀོད་སྒྲིག་བྱེད་པ(_O),3512,nautilus,po/bo.po
+Reposition icons to better fit in the window and avoid overlapping,3516,སྒེའུ་ཁུང་ནང་ཕན་ཚུན་བཀབ་རེས་མི་འགྲོའི་ཆེད་དུ་མཚོན་རྟགས་ཀྱི་གནས་འོས་མཚམས་སྦྱར་བ,3517,nautilus,po/bo.po
+Re_versed Order,3522,ལྡོག་པའི་གོ་རིམ(_V),3523,nautilus,po/bo.po
+Display icons in the opposite order,3527,ལྡོག་རིམ་གྱིས་མཚོན་རིས་མངོན་པ,3528,nautilus,po/bo.po
+_Keep Aligned,3533,གོ་རིམ་ལྟར་སྒྲིག(_K),3534,nautilus,po/bo.po
+Keep icons lined up on a grid,3538,མཚོན་རིས་དྲ་མིག་ལ་སྒྲིག་པ,3539,nautilus,po/bo.po
+_Manually,3542,ལག་བཟོས(_M),3543,nautilus,po/bo.po
+Leave icons wherever they are dropped,3546,མཚོན་རིས་འཁྱེར་ནས་བཞག་སའི་གནས་དེ་ལ་བསྐྱུར་བ,3547,nautilus,po/bo.po
+By _Name,3550,མིང་དང་བསྟུན་པ(_N),3551,nautilus,po/bo.po
+By _Size,3554,ཆེ་ཆུང་དང་བསྟུན་པ(_S),3555,nautilus,po/bo.po
+By _Type,3558,རིགས་དང་བསྟུན་པ(_T),3559,nautilus,po/bo.po
+By Modification _Date,3562,བཟོ་བཅོས་དུས་ཚོད་དང་བསྟུན་པ(_D),3563,nautilus,po/bo.po
+By T_rash Time,3566,སྙིགས་སྣོད་དུ་འདོར་བའི་དུས་ལ་བསྟུན(_R),3567,nautilus,po/bo.po
+Restore Icon's Original Si_ze,3570,སྔོན་སྒྲིག་གི་མཚོན་རིས་ཆེ་ཆུང་སླར་གསོ(_Z),3571,nautilus,po/bo.po
+_Icons,3575,མཚོན་རིས(_I),3576,nautilus,po/bo.po
+The icon view encountered an error.,3579,མཚོན་རིས་སྟོན་པར་་ནོར་འཁྲུལ་ཞིག་དང་འཕྲད་པ,3580,nautilus,po/bo.po
+The icon view encountered an error while starting up.,3583,འགོ་འཛུགས་སྐབས་མཚོན་རིས་ནོར་འཁྲུལ་ཞིག་དང་ཕྲད་འདུག,3584,nautilus,po/bo.po
+Display this location with the icon view.,3587,མཚོན་རིས་བེད་སྤྱོད་ནས་གནས་ཡུལ་དེ་མངོན་འཆར་བྱེད་པ,3588,nautilus,po/bo.po
+_Compact,3592,མདོར་བསྡུས(_C),3593,nautilus,po/bo.po
+The compact view encountered an error.,3596,མདོར་བསྡུས་ཀློག་སྟངས་ནོར་འཁྲུལ་ཞིག་ཕྲད་འདུག,3597,nautilus,po/bo.po
+The compact view encountered an error while starting up.,3600,མདོར་བསྡུས་ཀློག་སྟངས་འགོ་འཛུགས་སྐབས་ནོར་འཁྲུལ་ཞིག་དང་ཕྲད་འདུག,3601,nautilus,po/bo.po
+Display this location with the compact view.,3604,མདོར་བསྡུས་ཀློག་སྟངས་བེད་སྤྱད་ནས་གནས་ཡུལ་མངོན་འཆར་བྱེད་པ,3605,nautilus,po/bo.po
+Camera Brand,3608,པར་ཆས་ཟོག་རྟགས,3609,nautilus,po/bo.po
+Camera Model,3612,པར་ཆས་མ་དབྱིབས,3613,nautilus,po/bo.po
+Date Taken,3617,པར་རྒྱག་ཟླ་ཚེས,3618,nautilus,po/bo.po
+Date Digitized,3621,གྲངས་བསྒྱུར་ཟླ་ཚེས,3622,nautilus,po/bo.po
+Exposure Time,3625,འོད་སྡུད་དུས་ཚོད,3626,nautilus,po/bo.po
+Aperture Value,3629,འོད་སྒོ་ཐོབ་གྲངས,3630,nautilus,po/bo.po
+ISO Speed Rating,3633,ISO མྱུར་ཚད་རིམ་པ,3634,nautilus,po/bo.po
+Flash Fired,3637,འཁྱུག་འོད་ཡོད་མིན,3638,nautilus,po/bo.po
+Metering Mode,3641,ཚད་འཇལ་རྣམ་པ,3642,nautilus,po/bo.po
+Exposure Program,3645,འོད་སྡུད་བྱ་རིམ,3646,nautilus,po/bo.po
+Focal Length,3649,འོད་འདུས་ཐག,3650,nautilus,po/bo.po
+Software,3653,མཉེན་ཆས,3654,nautilus,po/bo.po
+Keywords,3657,གཙོ་ཚིག,3658,nautilus,po/bo.po
+Creator,3661,གསར་འཛུགས་མཁན,3662,nautilus,po/bo.po
+Copyright,3665,པར་དབང,3666,nautilus,po/bo.po
+Rating,3669,རིམ་པ,3670,nautilus,po/bo.po
+Image Type:,3673,བརྙན་རིས་རིགས：,3674,nautilus,po/bo.po
+<b>Width:</b> %d pixel,3678,<b>ཞེང་ཚད：</b> ཚོན་གྲངས་ %d,3680,nautilus,po/bo.po
+<b>Height:</b> %d pixel,3684,<b>མཐོ་ཚད：</b>ཚོན་གྲངས %d,3686,nautilus,po/bo.po
+Failed to load image information,3689,བརྙན་རིས་སྐོར་ཀློག་འཇུག་མ་ཐུབ,3690,nautilus,po/bo.po
+loading...,3693,ཀློག་འཇུག་བཞིན་པ་་་,3694,nautilus,po/bo.po
+Image,3697,བརྙན་རིས,3698,nautilus,po/bo.po
+(Empty),3701,(སྟོང་བ),3702,nautilus,po/bo.po
+Loading...,3707,ཀློག་འཇུག་བཞིན་པ་་་,3708,nautilus,po/bo.po
+%s Visible Columns,3712,%s མཐོང་ནུས་རྣམ་གྲངས,3713,nautilus,po/bo.po
+Choose the order of information to appear in this folder:,3716,ཡིག་སྣོད་ཀྱི་ནང་དུ་མངོན་འཆར་བྱེད་པའི་ཆ་འཕྲིན་གྱི་གོ་རིམ་གདམ་པ：,3717,nautilus,po/bo.po
+Visible _Columns...,3722,མཐོང་ནུས་ཀྱི་རྣམ་པ(_C)་་་,3723,nautilus,po/bo.po
+Select the columns visible in this folder,3727,ཡིག་སྣོད་འདིའི་ནང་གི་མཐོང་ནུས་རྣམ་གྲངས་འདེམས་པ,3728,nautilus,po/bo.po
+_List,3732,ཐོ་འགོད(_L),3733,nautilus,po/bo.po
+The list view encountered an error.,3736,ཐོ་འགོད་ཀློག་སྟངས་ནོར་འཁྲུལ་ཞིག་དང་འཕྲད་འདུག,3737,nautilus,po/bo.po
+The list view encountered an error while starting up.,3740,ཐོ་འགོད་ཀློག་སྟངས་འགོ་འཛུགས་སྐབས་ནོར་འཁྲུལ་ཞིག་ཕྲད་འདུག,3741,nautilus,po/bo.po
+Display this location with the list view.,3744,ཐོ་འགོད་ཀློག་སྟངས་བེད་སྤྱད་ནས་གནས་ཡུལ་འདི་མངོན་པ,3745,nautilus,po/bo.po
+Location:,3748,གནས་ཡུལ：,3749,nautilus,po/bo.po
+Go To:,3752,སྐྱོད་ཡུལ：,3753,nautilus,po/bo.po
+Do you want to view %d location?,3757,ཁྱོད་ཀྱིས་་གནས་ཡུལ་%dལ་ལྟ་འདོད་དམ,3759,nautilus,po/bo.po
+This will open %d separate window.,3763,འདིས་སྒེའུ་ཁུང་%d་ཁ་ཕྱེ་ངེས,3765,nautilus,po/bo.po
+"The Link \""%s\"" is Broken.",3769,སྦྲེལ་མཐུད་%s འཕྲོ་བརླག་ཐེབས་འདུག,3770,nautilus,po/bo.po
+"The Link \""%s\"" is Broken. Move it to Trash?",3774,སྦྲེལ་མཐུད་%s་འཕྲོ་བརླག་ཐེབས་འདུག དེ་སྙིགས་སྣོད་དུ་སྤོར་དགོས་སམ,3775,nautilus,po/bo.po
+"This link cannot be used, because it has no target.",3778,སྦྲེལ་མཐུད་སྤྱོད་མི་ཐུབ་པ རྒྱུ་མཚན་ནི་དེ་ལ་དམིགས་ཡུལ་མི་འདུག,3779,nautilus,po/bo.po
+"This link cannot be used, because its target \""%s\"" doesn't exist.",3783,སྦྲེལ་མཐུད་འདི་སྤྱོད་ཐུབ་མི་འདུག རྒྱུ་མཚན་ནི་དེའི་དམིགས་ཡུལ་%sམི་འདུག,3784,nautilus,po/bo.po
+Mo_ve to Trash,3791,སྙིགས་སྣོད་དུ་སྤོར་བ(_V),3792,nautilus,po/bo.po
+"Do you want to run \""%s\"", or display its contents?",3796,"ཁྱོད་ཀྱིས་\""%s\""འཁོར་སྐྱོད་བྱེད་འདོད་དམ ཡང་ན་དེའི་ནང་དོན་མངོན་འཆར་བྱེད་པ",3797,nautilus,po/bo.po
+"\""%s\"" is an executable text file.",3801,"\""%s\""ལག་སྟར་བྱེད་རུང་བའི་ཡིག་གེ་ཡིག་ཆ་ཡིན་པ",3802,nautilus,po/bo.po
+Run in _Terminal,3805,མཐའ་སྣེའི་ནང་འཁོར་སྐྱོད་བྱེད་པ(_T),3806,nautilus,po/bo.po
+_Display,3809,མངོན་འཆར(_D),3810,nautilus,po/bo.po
+Are you sure you want to open all files?,3814,ཁྱོད་ཀྱིས་ཡིག་ཆ་ཡོངས་རྫོགས་སྒོ་འབྱེད་བྱེད་པར་གཏན་ཁེལ་ཡིན་ནམ,3815,nautilus,po/bo.po
+This will open %d separate tab.,3819,འདིས་ཤོག་བྱང་%d་ཁ་ཕྱེ་ངེས,3821,nautilus,po/bo.po
+"Could not display \""%s\"".",3831,"\""%s\""མངོན་འཆར་བྱེད་མི་ཐུབ་པ",3832,nautilus,po/bo.po
+The file is of an unknown type,3835,ཡིག་ཆ་འདི་མི་ཤེས་པའི་རིགས་རེད,3836,nautilus,po/bo.po
+There is no application installed for %s files,3840,%s ཡིག་ཆ་ལ་ཉེར་སྤྱོད་སྒྲིག་འཇུག་བྱས་མི་འདུག,3841,nautilus,po/bo.po
+_Select Application,3844,ཉེར་སྤྱོད་འདེམས་པ(_S),3845,nautilus,po/bo.po
+There was an internal error trying to search for applications:,3848,ཉེར་སྤྱོད་འཚོལ་བཤེར་སྐབས་ནང་ལོག་ནོར་འཁྲུལ་ཞིག་བྱུང་འདུག,3849,nautilus,po/bo.po
+Unable to search for application,3852,ཉེར་སྤྱོད་འཚོལ་མི་ཐུབ་པ,3853,nautilus,po/bo.po
+There is no application installed for %s files.\nDo you want to search for an application to open this file?,3857,ཡིག་ཆ་%s་ལ་ཉེར་སྤྱོད་གཅིག་ཀྱང་སྒྲིག་འཇུག་བྱས་མེད་པ\nཁྱོད་ཀྱིས་ཉེར་སྤྱོད་ཅིག་འཚོལ་ནས་ཡིག་ཆ་འདི་ཁ་ཕྱེ་དགོས་སམ,3860,nautilus,po/bo.po
+Untrusted application launcher,3865,ཡིད་རྟོན་རུང་བའི་ཉེར་སྤྱོད་འགོ་སློང་ཆས,3866,nautilus,po/bo.po
+"The application launcher \""%s\"" has not been marked as trusted. If you do not know the source of this file, launching it may be unsafe.",3870,"ཉེར་སྤྱོད་འགོ་འཛུགས་ཆས་\""%s\""ནི་ཡིད་རྟོན་རུང་བར་བཀོད་མེད་པས་ཁྱོད་ཀྱིས་ཡིག་ཆ་འདིའི་ཁུངས་ལ་རྒྱུས་མེད་ན་འདི་འགོ་སློང་ན་ཉེན་ཁ་ཡོད་ཤས་ཆེ",3873,nautilus,po/bo.po
+_Launch Anyway,3878,གང་ལྟར་འགོ་སློང་བ(_L),3879,nautilus,po/bo.po
+Mark as _Trusted,3882,ཡིད་རྟོན་རུང་བར་རྟགས་འགོད་པ(_T),3883,nautilus,po/bo.po
+Unable to mount location,3893,གནས་ཡུལ་བཀར་མི་ཐུབ་པ,3894,nautilus,po/bo.po
+Unable to start location,3897,གནས་ཡུལ་འགོ་འཛུགས་བྱེད་མི་ཐུབ་པ,3898,nautilus,po/bo.po
+"Opening \""%s\"".",3902,"\""%s\""ཁ་ཕྱེ་བཞིན་པ",3903,nautilus,po/bo.po
+Opening %d item.,3907,དོན་ཚན་%d ཁ་ཕྱེ་བཞིན་པ,3909,nautilus,po/bo.po
+Close tab,3912,ཤོག་བྱང་སྒོ་རྒྱག་པ,3913,nautilus,po/bo.po
+Mount and open %s,3927,%s་བཀར་ནས་ཁ་ཕྱེ་བ,3928,nautilus,po/bo.po
+Computer,3931,རྩིས་འཁོར,3932,nautilus,po/bo.po
+Open your personal folder,3936,རང་སྒེར་གྱི་ཡིག་ཆ་ཁ་ཕྱེ་བ,3937,nautilus,po/bo.po
+Open the contents of your desktop in a folder,3940,ཡིག་སྣོད་ཞིག་གི་ནང་ཁྱོད་ཀྱི་མདུན་ངོས་ཀྱི་ནང་དོན་ཁ་ཕྱེ་བ,3941,nautilus,po/bo.po
+File System,3944,ཡིག་ཆའི་མ་ལག,3945,nautilus,po/bo.po
+Open the contents of the File System,3948,ཡིག་ཆ་མ་ལག་གི་ནང་དོན་ཁ་ཕྱེ་བ,3949,nautilus,po/bo.po
+Trash,3952,སྙིགས་སྣོད,3953,nautilus,po/bo.po
+Open the trash,3956,སྙིགས་སྣོད་ཁ་ཕྱེ་བ,3957,nautilus,po/bo.po
+Network,3960,དྲ་བ,3961,nautilus,po/bo.po
+Browse the contents of the network,3969,དྲ་བའི་ནང་དོན་ལ་ལྟ་བཤེར་,3970,nautilus,po/bo.po
+_Start,3981,འགོ་འཛུགས(_S)：,3982,nautilus,po/bo.po
+_Stop,3991,མཚམས་འཇོག་པ(_S),3992,nautilus,po/bo.po
+_Power On,3996,གློག་སྒོ་ཕྱེ་བ(_P),3997,nautilus,po/bo.po
+_Safely Remove Drive,4001,སྒུལ་ཆས་བདེ་འཇགས་ངང་འདོར་བ(_S),4002,nautilus,po/bo.po
+_Connect Drive,4005,སྒུལ་གཏོང་དང་སྦྲེལ་མཐུད(_C),4006,nautilus,po/bo.po
+_Disconnect Drive,4009,སྒུལ་གཏོང་དང་སྦྲེལ་མཐུད་ཆད་པ(_D),4010,nautilus,po/bo.po
+_Start Multi-disk Device,4013,གསོག་སྡེར་མང་བོའི་སྒྲིག་ཆས་འགོ་འཛུགས(_S),4014,nautilus,po/bo.po
+_Stop Multi-disk Device,4017,གསོག་སྡེར་མང་བོའི་སྒྲིག་ཆས་མཚམས་འཇོག་པ(_S),4018,nautilus,po/bo.po
+_Unlock Drive,4023,སྒུལ་ཆས་ཟྭ་ཕྱེ་བ(_U),4024,nautilus,po/bo.po
+_Lock Drive,4028,སྒུལ་ཆས་ཟྭ་རྒྱག་པ(_L),4029,nautilus,po/bo.po
+Unable to start %s,4033,%s་འགོ་འཛུགས་མི་ཐུབ་པ,4034,nautilus,po/bo.po
+Unable to eject %s,4039,%s་ཕྱིར་འདོན་མི་ཐུབ་པ,4040,nautilus,po/bo.po
+Unable to poll %s for media changes,4044,སྒྲ་བརྙན་བཟོ་བཅོས་བྱེད་པར་%sའདྲི་ཞིབ་བྱེད་མི་ཐུབ་པ,4045,nautilus,po/bo.po
+Unable to stop %s,4049,%s་མཚམས་འཇོག་མི་ཐུབ་པ,4050,nautilus,po/bo.po
+_Open,4056,ཁ་ཕྱེ(_O),4057,nautilus,po/bo.po
+Open in New _Tab,4065,ཤོག་བྱང་གསར་བའི་ནང་ཁ་ཕྱེ་བ(_T),4066,nautilus,po/bo.po
+Open in New _Window,4071,སྒེའུ་ཁུང་གསར་བའི་ནང་ཁ་ཕྱེ་བ(_W),4072,nautilus,po/bo.po
+_Add Bookmark,4076,ཡིག་རྟགས་ཁ་སྣོན(_A),4077,nautilus,po/bo.po
+Remove,4080,འདོར་བ,4081,nautilus,po/bo.po
+Rename...,4084,མིང་བསྐྱར་འདོགས་་་,4085,nautilus,po/bo.po
+_Mount,4091,བཀར་བ(_M),4092,nautilus,po/bo.po
+_Unmount,4100,བཀར་བ་དེ་ཕྱི་བཤོལ(_U),4101,nautilus,po/bo.po
+_Eject,4109,ཕྱིར་འདོན།(_E),4110,nautilus,po/bo.po
+_Detect Media,4116,འཇུག་སྣོད་བཙལ་བ(_D),4117,nautilus,po/bo.po
+_Properties,4123,ངོ་བོ(_P),4124,nautilus,po/bo.po
+File Operations,4130,ཡིག་ཆ་བཀོལ་སྤྱོད,4131,nautilus,po/bo.po
+%'d file operation active,4141,ཡིག་ཆ་བཀོལ་སྤྱོད་%'dཡོད་པ,4143,nautilus,po/bo.po
+You cannot assign more than one custom icon at a time!,4150,རང་བཟོས་མཚོན་རིས་མང་བོ་ཐེངས་གཅིག་ལ་གམིགས་འཛུགས་བྱེད་མི་ཐུབ་པ,4151,nautilus,po/bo.po
+Please drag just one image to set a custom icon.,4154,བརྙན་རིས་གཅིག་ཁྱེར་ནས་རང་བཟོས་མཚོན་རིས་ཤིག་སྒྲིག་འགོད་བྱེད་པ,4155,nautilus,po/bo.po
+The file that you dropped is not local.,4158,ཁྱོད་ཀྱིས་ཁྱེར་ནས་འཇོག་པའི་ཡིག་ཆ་དེ་རང་ཁུལ་གྱི་ཡིག་ཆ་མ་རེད,4159,nautilus,po/bo.po
+You can only use local images as custom icons.,4163,རང་བཟོས་མཚོན་རིས་འགོད་པ་ལ་རང་ཁུལ་གྱི་བརྙན་རིས་ཁོ་ན་བེད་སྤྱོད་དགོས,4164,nautilus,po/bo.po
+The file that you dropped is not an image.,4167,འདྲུད་ནས་འཇོག་པའི་ཡིག་ཆ་དེ་བརྙན་རིས་ཞིག་མ་རེད,4168,nautilus,po/bo.po
+_Name:,4171,མིང་(_N)：,4173,nautilus,po/bo.po
+Properties,4177,ངོ་བོ,4178,nautilus,po/bo.po
+%s Properties,4182,%s ངོ་བོ,4183,nautilus,po/bo.po
+Cancel Group Change?,4192,ཚོ་ཁག་བསྒྱུར་བཟོ་ཕྱིར་འཐེན་དགོས་སམ,4193,nautilus,po/bo.po
+Cancel Owner Change?,4196,སྤྱོད་མཁན་བསྒྱུར་བཟོ་ཕྱིར་འཐེན་དགོས་སམ,4197,nautilus,po/bo.po
+nothing,4200,མེད,4201,nautilus,po/bo.po
+unreadable,4204,ཀློག་མི་ཐུབ་པ,4205,nautilus,po/bo.po
+"%'d item, with size %s",4209,དོན་ཚན%'d། ཁྱོན་བསྡོམས། %s,4211,nautilus,po/bo.po
+(some contents unreadable),4214,(ནང་དོན་ཁ་ཤས་ཀློག་མི་ཐུབ་པ),4215,nautilus,po/bo.po
+Contents:,4224,ནང་དོན：,4225,nautilus,po/bo.po
+used,4229,སྤྱད་ཟིན,4230,nautilus,po/bo.po
+free,4234,རིན་མེད,4235,nautilus,po/bo.po
+Total capacity:,4238,སྤྱིའི་ཤོང་ཚད,4239,nautilus,po/bo.po
+Filesystem type:,4242,ཡིག་ཆ་མ་ལག་གི་དབྱེ་རིགས：,4243,nautilus,po/bo.po
+Basic,4246,རྨང་གཞི,4247,nautilus,po/bo.po
+Link target:,4250,སྦྲེལ་མཐུད་ཡུལ：,4251,nautilus,po/bo.po
+Volume:,4254,ཆེ་ཆུང：,4255,nautilus,po/bo.po
+Accessed:,4258,འདྲི་ཞིབ་དུས་ཚོད：,4259,nautilus,po/bo.po
+Modified:,4262,བཟོ་བཅོས་དུས་ཚོད：,4263,nautilus,po/bo.po
+Free space:,4266,བར་སྟོང：,4267,nautilus,po/bo.po
+_Read,4270,ཀློག་འཇུག(_R),4271,nautilus,po/bo.po
+_Write,4274,འབྲི་འཇུག(_W),4275,nautilus,po/bo.po
+E_xecute,4278,ལག་ལེན་བྱེད(_X),4279,nautilus,po/bo.po
+no ,4287,མེད ,4288,nautilus,po/bo.po
+list,4291,ཐོ་འགོད,4292,nautilus,po/bo.po
+read,4295,ཀློག་པ,4296,nautilus,po/bo.po
+create/delete,4299,གསར་འཛུགས/བསུབ་པ,4300,nautilus,po/bo.po
+write,4303,འབྲི་འཇུག,4304,nautilus,po/bo.po
+access,4307,འདྲི་ཞིབ,4308,nautilus,po/bo.po
+Access:,4311,འདྲི་ཞིབ：,4312,nautilus,po/bo.po
+Folder access:,4315,ཡིག་སྣོད་འདྲི་ཞིབ：,4316,nautilus,po/bo.po
+File access:,4319,ཡིག་ཆ་འདྲི་ཞིབ：,4320,nautilus,po/bo.po
+List files only,4323,ཡིག་ཆ་ཁོ་ན་ཐོ་འགོད་བྱེད་པ,4324,nautilus,po/bo.po
+Access files,4327,ཡིག་ཆ་འདྲི་ཞིབ,4328,nautilus,po/bo.po
+Create and delete files,4331,ཡིག་ཆ་གསར་འཛུགས་དང་བསུབ་པ,4332,nautilus,po/bo.po
+Read-only,4335,ཀློག་འཇུག་ཁོ་ན,4336,nautilus,po/bo.po
+Read and write,4339,འབྲི་ཀློག,4340,nautilus,po/bo.po
+Special flags:,4343,ཁྱད་པར་མཚོན་རྟགས：,4344,nautilus,po/bo.po
+Set _user ID,4347,སྤྱོད་མཁན་ID སྒྲིག་འགོད(_U),4348,nautilus,po/bo.po
+Set gro_up ID,4351,ཚོ་ཁག་IDསྒྲིག་འགོད(_U),4352,nautilus,po/bo.po
+_Sticky,4355,སྦྱར་བ(_S),4356,nautilus,po/bo.po
+_Owner:,4360,་བདག་པོ་(_O)：,4361,nautilus,po/bo.po
+Owner:,4366,་བདག་པོ་：,4367,nautilus,po/bo.po
+_Group:,4371,ཚོ་ཁག(_G)：,4372,nautilus,po/bo.po
+Group:,4377,ཚོ་ཁག：,4378,nautilus,po/bo.po
+Others,4381,གཞན,4382,nautilus,po/bo.po
+Execute:,4385,ལག་སྟར：,4386,nautilus,po/bo.po
+Allow _executing file as program,4389,ཡིག་ཆ་བྱ་རིམ་བཞིན་ལག་སྟར་བཅུག་པ(_E),4390,nautilus,po/bo.po
+Others:,4393,གཞན：,4394,nautilus,po/bo.po
+Folder Permissions:,4397,ཡིག་སྣོད་ཆོག་འཆན：,4398,nautilus,po/bo.po
+File Permissions:,4401,ཡིག་ཆའི་ཆོག་འཆན：,4402,nautilus,po/bo.po
+Text view:,4405,ཡི་གེའི་ཀློག་སྟངས：,4406,nautilus,po/bo.po
+"You are not the owner, so you cannot change these permissions.",4409,ཁྱོད་བདག་པོ་མ་རེད དེའི་རྐྱེན་པས་ཆོག་འཆན་འདི་དག་བཟོ་བཅོས་བྱེད་མི་ཐུབ,4410,nautilus,po/bo.po
+SELinux context:,4413,SELinux ཁོར་ཡུག：,4414,nautilus,po/bo.po
+Last changed:,4417,ཐེངས་རྗེས་མའི་བཟོ་བཅོས：,4418,nautilus,po/bo.po
+Apply Permissions to Enclosed Files,4421,སྦྱར་ཡོད་པའི་ཡིག་ཆ་ལའང་ཆོག་འཆན་གཅིག་མཚུངས་ཡིན་པ,4422,nautilus,po/bo.po
+"The permissions of \""%s\"" could not be determined.",4426,"\""%s\""ཡི་ཆོག་འཆན་གཏན་ཁེལ་བྱེད་མི་ཐུབ་པ",4427,nautilus,po/bo.po
+The permissions of the selected file could not be determined.,4430,བདམས་ཟིན་པའི་ཡིག་ཆའི་ཆོག་འཆན་གཏན་ཁེལ་བྱེད་མི་ཐུབ་པ,4431,nautilus,po/bo.po
+Open With,4434,ཁ་ཕྱེ་བྱེད,4435,nautilus,po/bo.po
+Creating Properties window.,4438,ངོ་བོའི་སྒེའུ་ཁུང་གསར་འཛུགས་བཞིན་པ,4439,nautilus,po/bo.po
+Select Custom Icon,4442,རང་བཟོས་མཚོན་རིས་འདེམས་པ,4443,nautilus,po/bo.po
+File Type,4446,ཡིག་ཆའི་རིགས,4447,nautilus,po/bo.po
+Select folder to search in,4450,འཚོལ་བཤེར་བྱེད་སའི་ཡིག་སྣོད་འདེམས་པ,4451,nautilus,po/bo.po
+Documents,4454,ཡིག་གེ,4455,nautilus,po/bo.po
+Music,4458,རོལ་དབྱངས,4459,nautilus,po/bo.po
+Video,4462,བརྙན་གཟུགས,4463,nautilus,po/bo.po
+Picture,4466,པར,4467,nautilus,po/bo.po
+Illustration,4470,འགྲེལ་བཤད,4471,nautilus,po/bo.po
+Spreadsheet,4474,རེའུ་མིག་ཡིག་ཚགས,4475,nautilus,po/bo.po
+Presentation,4478,འཁྲབ་སྟོན་ཡིག་ཚགས,4479,nautilus,po/bo.po
+Pdf / Postscript,4482,PDF/Postscript,4483,nautilus,po/bo.po
+Text File,4486,ཡི་གེ་ཡིག་ཆ,4487,nautilus,po/bo.po
+Select type,4490,དབྱེ་རིགས་འདེམས་པ,4491,nautilus,po/bo.po
+Any,4494,གང་ཡང,4495,nautilus,po/bo.po
+Other Type...,4498,རིགས་གཞན་་་,4499,nautilus,po/bo.po
+Remove this criterion from the search,4502,འཚོལ་བཤེར་ནང་ནས་ཚད་གཞི་འདི་འདོར་བ,4503,nautilus,po/bo.po
+Search Folder,4506,ཡིག་སྣོད་འཚོལ་བཤེར,4507,nautilus,po/bo.po
+Edit the saved search,4510,ཉར་ཡོད་པའི་འཚོལ་བཤེར་བསྒྱུར་བཅོས,4511,nautilus,po/bo.po
+Add a new criterion to this search,4514,འཚོལ་བཤེར་འདི་ལ་ཚད་གཞི་གསར་བ་ཞིག་ཁ་སྣོན་བྱེད་པ,4515,nautilus,po/bo.po
+Go,4518,སྐྱོད་པ,4519,nautilus,po/bo.po
+Reload,4522,སྐྱར་འཇུག,4523,nautilus,po/bo.po
+Perform or update the search,4526,འཚོལ་བཤེར་སྟོན་པ་དང་གསར་སྒྱུར,4527,nautilus,po/bo.po
+_Search for:,4530,འཚོལ་བྱ(_S)：,4531,nautilus,po/bo.po
+Search results,4534,འཚོལ་བཤེར་འབྲས་བུ,4535,nautilus,po/bo.po
+Search:,4538,འཚོལ་བཤེར：,4539,nautilus,po/bo.po
+Restore Selected Items,4542,བདམས་ཟིན་པའི་དོན་ཚན་བསྐྱར་གསོ,4543,nautilus,po/bo.po
+Restore selected items to their original position,4546,བདམས་ཟིན་པའི་དོན་ཚན་དེ་ཚོའི་ཐོག་མའི་གནས་ཡུལ་ལ་བསྐྱར་གསོ,4547,nautilus,po/bo.po
+"\""%s\"" will be moved if you select the Paste command",4551,"གལ་སྲིད་ཁྱོད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ཚེ \""%s\""སྤོར་འགྲོ་བ",4552,nautilus,po/bo.po
+"\""%s\"" will be copied if you select the Paste command",4556,"གལ་སྲིད་ཁྱོད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ཚེ \""%s\""དེ་འདྲ་བཤུ་བྱེད་པ",4557,nautilus,po/bo.po
+There is nothing on the clipboard to paste.,4560,དྲས་པང་ནང་སྦྱར་རུང་བའི་དངོས་པོ་མི་འདུག,4561,nautilus,po/bo.po
+_Paste Into Folder,4577,ཡིག་སྣོད་ནང་སྦྱར་བ(_P),4578,nautilus,po/bo.po
+_Delete,4584,བསུབ་པ(_D),4585,nautilus,po/bo.po
+Network Neighbourhood,4588,ཁྱིམ་མཚེས་དྲ་བ,4589,nautilus,po/bo.po
+This will open %'d separate tab.,4593,འདིས་ཤོག་བྱང་%'d་ཁ་ཕྱེའོ,4595,nautilus,po/bo.po
+This will open %'d separate window.,4599,འདིས་སྒེའུ་ཁུང་%'dཁ་ཕྱེ་བའོ,4601,nautilus,po/bo.po
+Select Items Matching,4604,མཐུན་སྒྲིག་རྣམ་གྲངས་འདེམས་པ,4605,nautilus,po/bo.po
+_Pattern:,4608,གཟུགས་རིས(_P)：,4609,nautilus,po/bo.po
+Examples: ,4612,དཔེ་བརྗོད： ,4613,nautilus,po/bo.po
+Save Search as,4616,འཚོར་བཤེར་ཉར་སྟངས,4617,nautilus,po/bo.po
+Search _name:,4620,མིང་འཚོལ་བཤེར(_N)：,4621,nautilus,po/bo.po
+Select Folder to Save Search In,4624,འཚོལ་བཤེར་ཉར་སའི་ཡིག་སྣོད་འདེམས་པ,4625,nautilus,po/bo.po
+Content View,4628,ནང་དོན་ཀློག་སྟངས,4629,nautilus,po/bo.po
+View of the current folder,4632,མིག་སྔའི་ཡིག་ཆའི་ཀློག་སྟངས,4633,nautilus,po/bo.po
+"\""%s\"" selected",4637,"\""%s\""བདམས་ཟིན་པ",4638,nautilus,po/bo.po
+%'d folder selected,4642,ཡིག་སྣོད %'d བདམས་ཟིན་པ,4644,nautilus,po/bo.po
+ (containing %'d item),4648, (རྣམ་གྲངས་%'d་ཡོད་པ),4650,nautilus,po/bo.po
+ (containing a total of %'d item),4655, (སྤྱི་སྡོམ %'d ཡོད་པ),4657,nautilus,po/bo.po
+%'d item selected,4661,རྣམ་གྲངས་%'dབདམས་ཟིན་པ,4663,nautilus,po/bo.po
+%'d other item selected,4668,རྣམ་གྲངས་གཞན་པ་%'d་བདམས་ཟིན་པ,4670,nautilus,po/bo.po
+Free space: %s,4684,བར་སྟོང：%s,4685,nautilus,po/bo.po
+"%s, Free space: %s",4689,%s ། བར་སྟོང：%s,4690,nautilus,po/bo.po
+"%s, %s",4699,%s，%s,4700,nautilus,po/bo.po
+"%s%s, %s",4716,%s%s，%s,4717,nautilus,po/bo.po
+"%s%s, %s, %s",4729,%s%s，%s，%s,4730,nautilus,po/bo.po
+Open With %s,4734,ཁ་ཕྱེ་བྱེད་%s,4735,nautilus,po/bo.po
+"Use \""%s\"" to open the selected item",4739,"\""%s\""སྤྱད་ནས་བདམས་ཟིན་པའི་རྣམ་གྲངས་ཁ་ཕྱེ་བ",4741,nautilus,po/bo.po
+"Run \""%s\"" on any selected items",4745,"བདམས་ཟིན་པའི་རྣམ་གྲངས་གང་རུང་གི་ཐོག་ནས་\""%s\""འཁོར་སྐྱོད་བྱེད་པ",4746,nautilus,po/bo.po
+All executable files in this folder will appear in the Scripts menu.,4754,ཡིག་སྣོད་ནང་འཁོར་སྐྱོད་རུང་བའི་ཡིག་ཆ་རྣམས་སྒྲིག་ཡིག་གི་འདེམས་ངོས་ཐོག་ཏུ་མངོན་པ,4755,nautilus,po/bo.po
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_FILE_PATHS: newline-delimited paths for selected files in the inactive pane of a split-view window (only if local)\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_URIS: newline-delimited URIs for selected files in the inactive pane of a split-view window\n\nNAUTILUS_SCRIPT_NEXT_PANE_CURRENT_URI: URI for current location in the inactive pane of a split-view window",4766,"ཡིག་སྣོད་འདིའི་ནང་གི་འཁོར་སྐྱོད་རུང་བའི་ཡིག་ཆ་དག་སྒྲིག་ཡིག་འདེམས་ངོས་སུ་ཤར་ཡོང་། འདེམས་ངོས་ནས་སྒྲིག་ཡིག་ཞིག་བདམས་ན་དེའི་ནང་སྙིང་ལག་ལེན་བྱེད་སྲིད\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_FILE_PATHS: newline-delimited paths for selected files in the inactive pane of a split-view window (only if local)\n\nNAUTILUS_SCRIPT_NEXT_PANE_SELECTED_URIS: newline-delimited URIs for selected files in the inactive pane of a split-view window\n\nNAUTILUS_SCRIPT_NEXT_PANE_CURRENT_URI: URI for current location in the inactive pane of a split-view window",4794,nautilus,po/bo.po
+The %'d selected item will be moved if you select the Paste command,4825,གལ་སྲིད་ཁྱོད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ཚེ་བདམས་ཟིན་པའི་རྣམ་གྲངས་%'dསྤོར་འགྲོ་བ,4828,nautilus,po/bo.po
+The %'d selected item will be copied if you select the Paste command,4832,གལ་སྲིད་ཁྱོད་ཀྱིས་སྦྱར་བའི་བཀའ་བརྡ་བདམས་ཚེ་བདམས་ཟིན་པའི་རྣམ་གྲངས%'dའདྲ་བཤུ་བྱེད་པ,4835,nautilus,po/bo.po
+Unable to unmount location,4838,གནས་ཡུལ་སྒྲིག་འཇུག་བཤིག་མི་ཐུབ,4839,nautilus,po/bo.po
+Unable to eject location,4842,གནས་ཡུལ་ཕྱིར་འདོན་མི་ཐུབ,4843,nautilus,po/bo.po
+Unable to stop drive,4846,སྒུལ་ཆས་མཚམས་འཇོག་མི་ཐུབ་པ,4847,nautilus,po/bo.po
+Connect to Server %s,4851,ཞབས་ཞུ་བ་%s་དང་སྦྲེལ་བ,4852,nautilus,po/bo.po
+_Connect,4856,སྦྲེལ་མཐུད(_C),4857,nautilus,po/bo.po
+Link _name:,4860,མིང་དང་སྦྲེལ་མཐུད(_N)：,4861,nautilus,po/bo.po
+Open Wit_h,4871,ཁ་ཕྱེ་བྱེད་(_H),4872,nautilus,po/bo.po
+Choose a program with which to open the selected item,4875,བདམས་ཟིན་པའི་དོན་ཚན་ཁ་འབྱེད་བྱེད་བྱ་རིམ་ཞིག་འདེམས་པ,4876,nautilus,po/bo.po
+View or modify the properties of each selected item,4880,བདམས་ཟིན་པའི་རེ་རེའི་རྣམ་གྲངས་ཀྱི་ངོ་བོར་ལྟ་ཀློག་གམ་བཟོ་བཅོས,4881,nautilus,po/bo.po
+Create a new empty folder inside this folder,4885,ཡིག་སྣོད་འདིའི་ནང་དུ་ཡིག་སྣོད་སྟོང་བ་ཞིག་གསར་བཟོ,4886,nautilus,po/bo.po
+No templates installed,4890,དཔེ་དབྱིབས་སྒྲིག་འཇུག་བྱས་མི་འདུག,4891,nautilus,po/bo.po
+Open the selected item in this window,4909,སྒེའུ་ཁུང་འདིའི་ནང་བདམས་ཟིན་པའི་རྣམ་གྲངས་ཁ་ཕྱེ་བ,4910,nautilus,po/bo.po
+Open in Navigation Window,4918,ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ནང་ཁ་ཕྱེ་བ,4919,nautilus,po/bo.po
+Open each selected item in a navigation window,4923,ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ནང་བདམས་ཟིན་པའི་རྣམ་གྲངས་རེ་རེར་བཞིན་ཁ་ཕྱེ་བ,4924,nautilus,po/bo.po
+Open each selected item in a new tab,4928,ཤོག་བྱང་གསར་བའི་བདམས་ཟིན་པའི་རྣམ་གྲངས་རེ་རེ་ཁ་ཕྱེ་བ,4929,nautilus,po/bo.po
+Other _Application...,4934,བྱ་རིམ་གཞན་པ(_A)་་་,4935,nautilus,po/bo.po
+Choose another application with which to open the selected item,4939,ཉེར་སྤྱོད་གཞན་ཞིག་བདམས་ནས་བདམས་ཟིན་པའི་ཀྱི་རྣམ་གྲངས་ཁ་ཕྱེ་བ,4940,nautilus,po/bo.po
+Open With Other _Application...,4945,ཉེར་སྤྱོད་གཞན་པ་ཞིག་གིས་ཁ་ཕྱེ(_A)་་་,4946,nautilus,po/bo.po
+_Open Scripts Folder,4951,སྒྲིག་ཡིག་ཡིག་སྣོད་ཁ་ཕྱེ་བ(_O),4952,nautilus,po/bo.po
+Show the folder containing the scripts that appear in this menu,4956,འདེམས་ངོས་འདིའི་ནང་ཤར་བའི་སྒྲིག་ཡིག་གནས་སའི་ཡིག་སྣོད་སྟོན་པ,4957,nautilus,po/bo.po
+Prepare the selected files to be moved with a Paste command,4963,བདམས་ཟིན་པའི་ཡིག་ཆ་རྣམས་སྦྱར་བའི་བཀའ་བརྡ་ཡིས་གནས་སྤོར་འགྲོ་བ་གྲ་སྒྲིག་བྱོས,4964,nautilus,po/bo.po
+Prepare the selected files to be copied with a Paste command,4970,བདམས་ཟིན་པའི་ཡིག་ཆ་རྣམས་སྦྱར་བའི་བཀའ་བརྡ་ཡིས་འདྲ་བཤུ་བྱེད་པར་གྲ་སྒྲིག་བྱོས,4971,nautilus,po/bo.po
+Move or copy files previously selected by a Cut or Copy command,4977,གཅོད་པ་དང་འདྲ་བཤུ་བཀའ་བརྡ་སྤྱད་ནས་འདིའི་སྔོན་བདམས་ཟིན་པའི་ཡིག་ཆ་རྣམས་སྤོར་བ་དང་འདྲ་བཤུ་བྱེད་པ,4978,nautilus,po/bo.po
+Move or copy files previously selected by a Cut or Copy command into the selected folder,4983,གཅོད་པ་དང་འདྲ་བཤུ་བཀའ་བརྡ་སྤྱད་ནས་འདིའི་སྔོན་བདམས་ཟིན་པའི་ཡིག་ཆ་རྣམས་བདམས་ཟིན་པའི་ཡིག་སྣོད་ནང་སྤོར་བ་དང་འདྲ་བཤུ་བྱེད་པ,4986,nautilus,po/bo.po
+Cop_y to,4992,འདྲ་བཤུ་བྱེད་སའི་གནས(_O),4993,nautilus,po/bo.po
+M_ove to,4997,སྤོར་སའི་གནས(_O),4998,nautilus,po/bo.po
+Select all items in this window,5002,སྒེའུ་ཁུང་ནང་ཡོད་པའི་རྣམ་གྲངས་ཡོངས་འདེམས་པ,5003,nautilus,po/bo.po
+Select I_tems Matching...,5008,ཆ་མཚུངས་པའི་རྣམ་གྲངས་འདེམས་པ(_T)་་་,5009,nautilus,po/bo.po
+Select items in this window matching a given pattern,5013,སྒེའུ་ཁུང་འདིའི་ནང་གི་རྣམ་གྲངས་འདེམས་པའི་མ་དཔེ་གཏན་ཁེལ་བྱེད་པ,5014,nautilus,po/bo.po
+_Invert Selection,5019,འདེམས་པ་དེ་ལྡོག་པ(_I),5020,nautilus,po/bo.po
+Select all and only the items that are not currently selected,5024,མིག་སྔར་བདམས་ཟིན་པའི་སུ་མེད་པའི་རྣམ་གྲངས་ཡོངས་འདེམས་པ,5025,nautilus,po/bo.po
+D_uplicate,5030,འདྲ་བཤུ(_U),5031,nautilus,po/bo.po
+Duplicate each selected item,5035,བདམས་ཟིན་པ་རེ་རེར་བཞིན་འདྲ་བཤུ་,5036,nautilus,po/bo.po
+Ma_ke Link,5041,སྦྲེལ་མཐུད་གསར་འཛུགས(_K),5043,nautilus,po/bo.po
+Create a symbolic link for each selected item,5047,བདམས་ཟིན་པའི་དོན་ཚན་སོ་སོ་ལ་ཆ་མཚོན་པའི་སྦྲེལ་མཐུད་གསར་འཛུགས་བྱེད,5048,nautilus,po/bo.po
+_Rename...,5053,མིང་བསྐྱར་འདོགས(_R)་་་,5054,nautilus,po/bo.po
+Rename selected item,5058,བདམས་ཟིན་པའི་ཀྱི་རྣམ་གྲངས་མིང་སྐྱར་འདོག,5059,nautilus,po/bo.po
+Move each selected item to the Trash,5063,བདམས་ཟིན་པའི་རྣམ་གྲངས་ཡོངས་སྙིགས་སྣོད་དུ་སྤོར་བ,5064,nautilus,po/bo.po
+"Delete each selected item, without moving to the Trash",5068,སྙིགས་སྣོད་ནང་དུ་བ་སྤོས་པ་ཐད་ཀར་བསུབ་པ,5069,nautilus,po/bo.po
+_Restore,5074,སླར་གསོ(_R),5075,nautilus,po/bo.po
+_Undo,5081,ཕྱིར་འཐེན(_U),5082,nautilus,po/bo.po
+Reset View to _Defaults,5111,ཀློག་སྟངས་དེ་སྔོན་སྒྲིག་བསྐྱར་འཛུགས་བྱེད(_D),5112,nautilus,po/bo.po
+Reset sorting order and zoom level to match preferences for this view,5116,དབྱེ་སྟངས་གོ་རིམ་དང་རྒྱང་བསྐྱེད་ཚད་ཀློག་སྟངསའདིའི་རང་མོས་སྒྲིག་འགོད་དང་མཐུན་པར་བསྐྱར་བཟོ་བྱེད་པ,5117,nautilus,po/bo.po
+Connect To This Server,5122,ཞབས་ཞུ་བ་འདི་དང་སྦྲེལ་མཐུད་བྱེད་པ,5123,nautilus,po/bo.po
+Make a permanent connection to this server,5127,ནམ་ཡང་ཞབས་ཞུ་འདི་འདི་དང་སྦྲེལ་མཐུད་བྱེད་པ,5128,nautilus,po/bo.po
+Mount the selected volume,5132,བདམས་ཟིན་པའི་འཇུག་སྣོད་བཀར་བ,5133,nautilus,po/bo.po
+Unmount the selected volume,5137,བདམས་ཟིན་པའི་འཇུག་སྣོད་སྒྲིག་འཇུག་འདོར་བ,5138,nautilus,po/bo.po
+Eject the selected volume,5142,བདམས་ཟིན་པའི་འཇུག་སྣོད་ཕྱིར་སྤྲོད་པ,5143,nautilus,po/bo.po
+Start the selected volume,5147,བདམས་ཟིན་པའི་འཇུག་སྣོད་འགོ་འཛུགས་པ,5148,nautilus,po/bo.po
+Stop the selected volume,5152,བདམས་ཟིན་པའི་འཇུག་སྣོད་མཚམས་འཇོག་པ,5153,nautilus,po/bo.po
+Detect media in the selected drive,5158,དམིགས་འཇུགས་ཀྱི་སྒུལ་ཆས་ནང་གི་སྒྲ་བརྙན་བཙལ་བ,5159,nautilus,po/bo.po
+Mount the volume associated with the open folder,5163,ཁ་ཕྱེས་ཡོད་པའི་ཡིག་སྣོད་ཡོངས་དང་འབྲེལ་བའི་འཇུག་སྣོད་བཀར་བ,5164,nautilus,po/bo.po
+Unmount the volume associated with the open folder,5168,ཁ་ཕྱེས་ཡོད་པའི་ཡིག་སྣོད་ཡོངས་དང་འབྲེལ་བའི་འཇུག་སྣོད་སྒྲིག་འཇུག་བཤིག་པ,5169,nautilus,po/bo.po
+Eject the volume associated with the open folder,5173,ཁ་ཕྱེས་ཡོད་པའི་ཡིག་སྣོད་ཡོངས་དང་འབྲེལ་བའི་འཇུག་སྣོད་ཕྱིར་འདོན,5174,nautilus,po/bo.po
+Start the volume associated with the open folder,5178,ཁ་ཕྱེས་ཡོད་པའི་ཡིག་སྣོད་ཡོངས་དང་འབྲེལ་བའི་འཇུག་སྣོད་འགོ་འཛུགས་པ,5179,nautilus,po/bo.po
+Stop the volume associated with the open folder,5183,ཁ་ཕྱེས་ཡོད་པའི་ཡིག་སྣོད་ཡོངས་དང་འབྲེལ་བའི་འཇུག་སྣོད་མཚམས་འཇོག་པ,5184,nautilus,po/bo.po
+Open File and Close window,5189,ཡིག་ཆ་སྒོ་ཕྱེ་ཞོར་སྒེའུ་ཁུང་སྒོ་རྒྱག་པ,5190,nautilus,po/bo.po
+Sa_ve Search,5195,འཚོལ་བཤེར་ཉར་ཚགས(_V),5196,nautilus,po/bo.po
+Save the edited search,5200,བསྒྱུར་བཅོས་ཟིན་པའི་འཚོལ་བཤེར་ཡོངས་ཉར་ཚགས་བྱེད་པ,5201,nautilus,po/bo.po
+Sa_ve Search As...,5206,འཚོལ་བཤེར་ཉར་ཚགས་སྟངས(_V)་་་,5207,nautilus,po/bo.po
+Save the current search as a file,5211,མིག་སྔར་ཡོད་པའི་འཚོལ་བཤེར་ཡིག་ཆ་བཞིན་ཉར་བ,5212,nautilus,po/bo.po
+Open this folder in a navigation window,5216,ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ནང་གི་ཡིག་སྣོད་ཁ་ཕྱེ་བ,5217,nautilus,po/bo.po
+Open this folder in a new tab,5221,ཤོག་བྱང་གསར་བའི་ནང་དུ་ཡིག་སྣོད་འདི་ཁ་ཕྱེ་བ,5222,nautilus,po/bo.po
+Prepare this folder to be moved with a Paste command,5228,སྦྱར་བའི་བཀའ་བརྡ་སྤྱད་ནས་ཡིག་སྣོད་འདི་སྤོར་བར་གྲ་སྒྲིག་བྱེད་པ,5229,nautilus,po/bo.po
+Prepare this folder to be copied with a Paste command,5235,སྦྱར་བའི་བཀའ་བརྡ་སྤྱད་ནས་ཡིག་སྣོད་འདི་འདྲ་བཤུ་བྱེད་པར་གྲ་སྒྲིག་བྱེད་པ,5236,nautilus,po/bo.po
+Move this folder to the Trash,5249,ཡིག་སྣོད་འདི་སྙིགས་སྣོད་དུ་སྤོར་བ,5250,nautilus,po/bo.po
+"Delete this folder, without moving to the Trash",5254,ཡིག་སྣོད་འདི་སྙིགས་སྣོད་དུ་མ་སྤོར་བ་ཐད་ཀར་བསུབ་པ,5255,nautilus,po/bo.po
+Mount the volume associated with this folder,5259,ཡིག་སྣོད་འདི་དང་འབྲེལ་བའི་འཇུག་སྣོད་བཀར་བ,5260,nautilus,po/bo.po
+Unmount the volume associated with this folder,5264,ཡིག་སྣོད་འདི་དང་འབྲེལ་བའི་འཇུག་སྣོད་སྒྲིག་འཇུག་བཤིག་པ,5265,nautilus,po/bo.po
+Eject the volume associated with this folder,5269,ཡིག་སྣོད་འདི་དང་འབྲེལ་བའི་འཇུག་སྣོད་ཕྱིར་འདོན,5270,nautilus,po/bo.po
+Start the volume associated with this folder,5274,ཡིག་སྣོད་འདི་དང་འབྲེལ་བའི་འཇུག་སྣོད་འགོ་འཛུགས་,5275,nautilus,po/bo.po
+Stop the volume associated with this folder,5279,ཡིག་སྣོད་འདི་དང་འབྲེལ་བའི་འཇུག་སྣོད་མཚམས་འཇོག་པ,5280,nautilus,po/bo.po
+View or modify the properties of this folder,5284,ཡིག་སྣོད་འདིའི་ངོ་བོ་ལྟ་ཀློག་བྱེད་པའམ་བཟོ་བཅོས་བྱེད་པ,5285,nautilus,po/bo.po
+_Other pane,5289,པང་ལེབ་གཞན(_O),5290,nautilus,po/bo.po
+Copy the current selection to the other pane in the window,5293,བདམས་ཟིན་པའི་ནང་དོན་ཡོངས་སྒེའུ་ཁུང་གི་པང་ལེབ་གཞན་གྱི་ནང་འདྲ་བཤུ་བྱེད་པ,5294,nautilus,po/bo.po
+Move the current selection to the other pane in the window,5297,བདམས་ཟིན་པའི་ནང་དོན་ཡོངས་སྒེའུ་ཁུང་གི་པང་ལེབ་གཞན་གྱི་ནང་སྤོར་བ,5298,nautilus,po/bo.po
+_Home,5305,གཙོ་ངོས(_H),5306,nautilus,po/bo.po
+Copy the current selection to the home folder,5309,མིག་སྔར་བདམས་པའི་རྣམ་གྲངས་གཙོ་ངོས་ཡིག་སྣོད་ནང་འདྲ་བཤུ་བྱེད་པ,5310,nautilus,po/bo.po
+Move the current selection to the home folder,5313,མིག་སྔར་བདམས་པའི་རྣམ་གྲངས་གཙོ་ངོས་ཡིག་སྣོད་ནང་སྤོར་བ,5314,nautilus,po/bo.po
+_Desktop,5318,མདུན་ངོས(_D),5319,nautilus,po/bo.po
+Copy the current selection to the desktop,5322,མིག་སྔར་བདམས་པའི་རྣམ་གྲངས་མདུན་ངོས་ཐོག་འདྲ་བཤུ་བྱེད་པ,5323,nautilus,po/bo.po
+Move the current selection to the desktop,5326,མིག་སྔར་བདམས་པའི་རྣམ་གྲངས་མདུན་ངོས་ཐོག་སྤོར་བ,5327,nautilus,po/bo.po
+Run or manage scripts from %s,5332,%s ནས་སྒྲིག་ཡིག་འཁོར་སྐྱོད་དམ་དོ་དམ,5333,nautilus,po/bo.po
+_Scripts,5337,སྒྲིག་ཡིག(_S),5338,nautilus,po/bo.po
+"Move the open folder out of the trash to \""%s\""",5342,ཁ་ཕྱེས་བའི་ཡིག་སྣོད་དེ་སྙིགས་སྣོད་ཕྱི་ཡི་“%sལ་སྤོར་བ,5343,nautilus,po/bo.po
+"Move the selected folder out of the trash to \""%s\""",5347,"བདམས་ཟིན་པའི་རིགས་སྙིགས་སྣོད་ནས་\""%s\""ལ་སྤོར་བ",5349,nautilus,po/bo.po
+Move the selected folder out of the trash,5353,བདམས་ཟིན་པའི་ཡིག་ཆ་སྙིགས་སྣོད་དུ་སྤོར་བ,5355,nautilus,po/bo.po
+"Move the selected file out of the trash to \""%s\""",5359,"བདམས་ཟིན་པའི་རིགས་སྙིགས་སྣོད་ནས་\""%s\""ལ་སྤོར་བ",5361,nautilus,po/bo.po
+Move the selected file out of the trash,5365,བདམས་ཟིན་པའི་ཡིག་ཆ་སྙིགས་སྣོད་ལས་སྤོར་བ,5367,nautilus,po/bo.po
+"Move the selected item out of the trash to \""%s\""",5371,"བདམས་ཟིན་པའི་དོན་ཚན་སྙིགས་སྣོད་ནས་\""%s\""སྤོར་བ",5373,nautilus,po/bo.po
+Move the selected item out of the trash,5377,བདམས་ཟིན་པའི་རྣམ་གྲངས་སྙིགས་སྣོད་ནས་སྤོར་བ,5379,nautilus,po/bo.po
+Start the selected drive,5383,བདམས་ཟིན་པའི་སྒུལ་ཆས་འགོ་འཛུགས་པ,5384,nautilus,po/bo.po
+Connect to the selected drive,5387,བདམས་ཟིན་པའི་སྒུལ་ཆས་དང་སྦྲེལ་མཐུད,5388,nautilus,po/bo.po
+_Start Multi-disk Drive,5392,སྣ་མང་གསོག་སྡེར་སྒུལ་ཆས་འགོ་འཛུགས་པ(_S),5393,nautilus,po/bo.po
+Start the selected multi-disk drive,5396,བདམས་ཟིན་པའི་ཀྱི་སྣ་མང་གསོག་སྡེར་སྒུལ་ཆས་འགོ་འཛུགས་པ,5397,nautilus,po/bo.po
+U_nlock Drive,5400,སྒུལ་ཆས་ཟྭ་ཕྱེ་བ(_N),5401,nautilus,po/bo.po
+Unlock the selected drive,5404,བདམས་ཟིན་པའི་སྒུལ་ཆས་ཟྭ་ཕྱེ་བ,5405,nautilus,po/bo.po
+Stop the selected drive,5408,བདམས་ཟིན་པའི་སྒུལ་ཆས་མཚམས་བཞག་པ,5409,nautilus,po/bo.po
+Safely remove the selected drive,5412,བདམས་ཟིན་པའི་སྒུལ་ཆས་བདེ་འཇགས་ངང་འདོར་བ་,5413,nautilus,po/bo.po
+_Disconnect,5417,སྦྲེལ་མཐུད་ཆད་པ(_D),5418,nautilus,po/bo.po
+Disconnect the selected drive,5421,བདམས་ཟིན་པའི་སྒུལ་ཆས་སྦྲེལ་མཐུད་གཅོད་པ,5422,nautilus,po/bo.po
+_Stop Multi-disk Drive,5426,སྣ་མང་གསོག་སྡེར་སྒུལ་གཏོང་མཚམས་འཇོག་པ(_S),5427,nautilus,po/bo.po
+Stop the selected multi-disk drive,5430,བདམས་ཟིན་པའི་སྣ་མང་གསོག་སྡེར་སྒུལ་གཏོང་མཚམས་བཞག་པ,5431,nautilus,po/bo.po
+Lock the selected drive,5434,བདམས་ཟིན་པའི་སྒུལ་ཆས་ཟྭ་རྒྱག་པ,5435,nautilus,po/bo.po
+Start the drive associated with the open folder,5438,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་འགོ་འཛུགས,5439,nautilus,po/bo.po
+Connect to the drive associated with the open folder,5442,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་དང་སྦྲེལ་བ,5443,nautilus,po/bo.po
+Start the multi-disk drive associated with the open folder,5446,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྣ་མང་གསོག་སྡེར་སྒུལ་ཆས་འགོ་འཛུགས་པ,5447,nautilus,po/bo.po
+Unlock the drive associated with the open folder,5450,ཁ་ཕྱེས་བའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་ཟྭ་ཕྱེ་བ,5451,nautilus,po/bo.po
+_Stop the drive associated with the open folder,5454,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་མཚམས་འཇོག་པ(_S),5455,nautilus,po/bo.po
+Safely remove the drive associated with the open folder,5458,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་བདེ་འཇགས་ངང་འདོར་བ,5459,nautilus,po/bo.po
+Disconnect the drive associated with the open folder,5462,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་ཀྱི་སྦྲེལ་མཐུད་མཚམས་གཅོད་པ,5463,nautilus,po/bo.po
+Stop the multi-disk drive associated with the open folder,5466,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྣ་མང་གསོག་སྡེར་སྒུལ་ཆས་མཚམས་འཇོག་པ,5467,nautilus,po/bo.po
+Lock the drive associated with the open folder,5470,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་དང་འབྲེལ་བའི་སྒུལ་ཆས་ཟྭ་རྒྱག་པ,5471,nautilus,po/bo.po
+_Delete Permanently,5474,ནམ་ཡང་བསུབ་པ(_D),5475,nautilus,po/bo.po
+Delete the open folder permanently,5478,ཁ་ཕྱེས་བའི་ཡིག་སྣོད་ནམ་ཡང་བསུབ་པ,5479,nautilus,po/bo.po
+Move the open folder to the Trash,5482,ཁ་ཕྱེས་པའི་ཡིག་སྣོད་སྙིགས་སྣོད་དུ་སྤོར་བ,5483,nautilus,po/bo.po
+_Open With %s,5487,%sཡིས་ཁ་འབྱེད་པ(_O),5488,nautilus,po/bo.po
+Open in %'d New _Window,5492,སྒེའུ་ཁུང་གསར་བ%'d་ཡི་ནང་ཁ་ཕྱེ་བ(_W),5494,nautilus,po/bo.po
+Open in %'d New _Tab,5498,ཤོག་བྱང་གསར་བ་%'d་ཡི་ནང་ཁ་ཕྱེ་བ(_T),5500,nautilus,po/bo.po
+Delete all selected items permanently,5503,བདམས་ཟིན་པའི་རྣམ་གྲངས་ཡོངས་བསུབ་པ,5504,nautilus,po/bo.po
+View or modify the properties of the open folder,5507,ཁ་ཕྱེས་པའི་ཡིག་ཆའི་ངོ་བོ་ལ་ལྟ་ཀློག་དང་བཟོ་བཅོས་བྱེད་པ,5508,nautilus,po/bo.po
+Drag and drop is not supported.,5512,འདྲུད་ནས་སྦྱར་བའི་རྩོལ་ནུས་ལ་རྒྱབ་སྐྱོར་མི་འདུག,5513,nautilus,po/bo.po
+Drag and drop is only supported on local file systems.,5516,འདྲུད་ནས་སྦྱར་བའི་རྩོལ་ནུས་དེ་རང་ཁུལ་ཡིག་ཆའི་མ་ལག་ཁོ་ན་ལས་རྒྱབ་སྐྱོར་མེད་པ,5517,nautilus,po/bo.po
+An invalid drag type was used.,5520,ཕན་འབྲས་མེད་པའི་ཁྱེར་སྟངས་ཞིག་བེད་སྤྱད་ཡོད་པ,5521,nautilus,po/bo.po
+dropped text.txt,5525,ཁྱེར་ནས་བཞག་ཡོད་པའི་ཡིག་གེ.txtརིགས,5526,nautilus,po/bo.po
+dropped data,5532,ཁྱེར་ནས་བཞག་པའི་ཆ་འཕྲིན,5533,nautilus,po/bo.po
+Do you want to remove any bookmarks with the non-existing location from your list?,5536,ཁྱོད་ཀྱི་ཐོ་འགོད་ནས་གནས་ཡུལ་མེད་པའི་ཡིག་རྟགས་གང་ཡང་འདོར་དགོས་སམ,5539,nautilus,po/bo.po
+"The location \""%s\"" does not exist.",5543,"\""%s\""གནས་ཡུལ་གནས་མི་འདུག",5544,nautilus,po/bo.po
+Bookmark for Nonexistent Location,5547,གནས་ཡུལ་མེད་པའི་ཡིག་རྟགས,5548,nautilus,po/bo.po
+Go to the location specified by this bookmark,5551,དམིགས་འཛུགས་ཅན་ཡིག་རྟགས་ཀྱི་གནས་ཡུལ་ལ་སྐྱོད་པ,5552,nautilus,po/bo.po
+%s - File Browser,5556,%s - ཡིག་ཆ་ལྟ་བཤེར་ཆས,5557,nautilus,po/bo.po
+Nautilus has no installed viewer capable of displaying the folder.,5570,Nautilus ལ་ཡིག་སྣོད་འདི་སྟོན་ནུས་པའི་ཡིག་ཆའི་ལྟ་ཀློག་ཆས་སྒྲིག་འཇུག་བྱས་མི་འདུག,5571,nautilus,po/bo.po
+The location is not a folder.,5574,གནས་ཡུལ་འདི་ཡིག་སྣོད་ཞིག་མིན་པ,5575,nautilus,po/bo.po
+"Could not find \""%s\"".",5579,"\""%s\""རྙེད་མི་ཐུབ་པ",5580,nautilus,po/bo.po
+Please check the spelling and try again.,5583,དག་ཆ་བརྟག་དཔྱད་བྱས་རྗེས་སྐྱར་དུ་ཚོད་ལྟ་བྱེད,5584,nautilus,po/bo.po
+"Nautilus cannot handle \""%s\"" locations.",5588,"Nautilusགནས་ཡུལ་\""%s\""དོ་དམ་བྱེད་མི་ཐུབ་པ",5589,nautilus,po/bo.po
+Nautilus cannot handle this kind of location.,5592,Nautilus རིགས་འདིའི་གནས་ཡུལ་ལ་དོ་དམ་མི་ཐུབ་པ,5593,nautilus,po/bo.po
+Unable to mount the location.,5596,གནས་ཡུལ་བཀར་མི་ཐུབ་པ,5597,nautilus,po/bo.po
+Access was denied.,5600,འདྲི་ཞིབ་མཚམས་བཞག་པ,5601,nautilus,po/bo.po
+"Could not display \""%s\"", because the host could not be found.",5610,"\""%s\""མངོན་འཆར་བྱེད་མི་ཐུབ་པ རྒྱུ་མཚན་ནི་དྲ་རྩ་འཛུགས་བ་རྙེད་་མི་འདུག",5611,nautilus,po/bo.po
+Check that the spelling is correct and that your proxy settings are correct.,5614,ཡིག་གེའི་དག་ཆ་དང་ཁྱོད་ཀྱི་ཚབ་བྱེད་ཀྱི་སྒྲིག་འགོད་འགྲིག་ཡོད་མེད་ཞིབ་དག་བྱེད་དགོས,5616,nautilus,po/bo.po
+Error: %s\nPlease select another viewer and try again.,5620,ནོར་འཁྲུལ་བྱུང་འདུག：%s\nཁྱོད་ཀྱིས་ལྟ་ཀློག་ཆས་གཞན་པ་ཞིག་བདམས་ནས་ སྐྱར་དུ་ཚོད་ལྟ་བྱེད་པ,5623,nautilus,po/bo.po
+"Nautilus lets you organize files and folders, both on your computer and online.",5670,Nautilusཡིས་ཁྱོད་ཀྱི་རྩིས་འཁོར་དང་དྲ་བ་ཐོག་ཡོད་པའི་ཡིག་ཆ་དང་ཡིག་སྣོད་དོ་དམ་བྱེད་པ,5673,nautilus,po/bo.po
+Nautilus Web Site,5686,Nautilus དྲ་གནས,5687,nautilus,po/bo.po
+_File,5691,ཡིག་ཆ(_F),5692,nautilus,po/bo.po
+_Edit,5696,བསྒྱུར་བཅོས(_E),5697,nautilus,po/bo.po
+_View,5701,ལྟ་ཀློག(_V),5702,nautilus,po/bo.po
+_Help,5706,རོགས་འདེགས(_H),5707,nautilus,po/bo.po
+_Close,5712,སྒོ་རྒྱག(_C),5713,nautilus,po/bo.po
+Close this folder,5717,ཡིག་སྣོད་འདི་སྒོ་རྒྱག་པ,5718,nautilus,po/bo.po
+Prefere_nces,5721,རང་མོས་སྒྲིག་འགོད(_N),5722,nautilus,po/bo.po
+Edit Nautilus preferences,5725,Nautilusརང་མོས་སྒྲིག་འགོད་བསྒྱུར་བཅོས,5726,nautilus,po/bo.po
+Undo the last text change,5729,ཐེངས་རྗེས་མ་ཡི་གེའི་བཟོ་བཅོས་ཕྱིར་འཐེན,5730,nautilus,po/bo.po
+Open _Parent,5734,གཟུགས་རིས་ཁ་ཕྱེ་བ(_P),5735,nautilus,po/bo.po
+Open the parent folder,5738,རིམ་པ་གོང་མའི་ཡིག་སྣོད་ཁ་ཕྱེ་བ,5739,nautilus,po/bo.po
+Stop loading the current location,5743,མིག་སྔར་ཀློག་འཇུག་བཞིན་པའི་གནས་ཡུལ་མཚམས་འཇོག་པ,5744,nautilus,po/bo.po
+_Reload,5749,སྐྱར་འཇུག(_R),5750,nautilus,po/bo.po
+Reload the current location,5754,མིག་སྔའི་གནས་ཡུལ་སྐྱར་འཇུག,5755,nautilus,po/bo.po
+Display Nautilus help,5765,Nautilus རོགས་འདེགས་མངོན་འཆར,5766,nautilus,po/bo.po
+_About,5821,སྐོར(_A),5822,nautilus,po/bo.po
+Display credits for the creators of Nautilus,5826,Nautilus ཡི་ལག་རྗེས་མཁན་མངོན་འཆར་བྱེད་པ,5827,nautilus,po/bo.po
+Zoom _In,5832,འགྲམ་དུ་བཅར(_I),5833,nautilus,po/bo.po
+Increase the view size,5837,ཀློག་སྟངས་གི་ཞེང་ཚད་ཆེ་རུ་གཏོང,5838,nautilus,po/bo.po
+Zoom _Out,5843,རྒྱང་བསྐྱེད་པ(_O),5844,nautilus,po/bo.po
+Decrease the view size,5848,ཀློག་སྟངས་གི་ཞེང་ཚད་ཆུང་དུ་གཏོང,5849,nautilus,po/bo.po
+Normal Si_ze,5854,སྤྱིར་བཏང་ཆེ་ཆུང(_Z),5855,nautilus,po/bo.po
+Use the normal view size,5859,སྤྱིར་བཏང་གི་ལྟ་ཀློག་ཞེང་ཚད་བེད་སྤྱོད་པ,5860,nautilus,po/bo.po
+Connect to _Server...,5865,ཞབས་ཞུ་བ་ལ་སྦྲེལ་བ(_S)་་་,5866,nautilus,po/bo.po
+Connect to a remote computer or shared disk,5870,རྒྱང་འབྲེལ་རྩིས་འཁོར་རམ་མཉམ་སྤྱོད་གསོག་སྡེར་ལ་སྦྲེལ་བ,5871,nautilus,po/bo.po
+_Computer,5876,རྩིས་འཁོར(_C),5877,nautilus,po/bo.po
+Browse all local and remote disks and folders accessible from this computer,5881,རྩིས་འཁོར་འདིས་སྤྱོད་རུང་བའི་རང་ཁུལ་དང་རྒྱང་འབྲེལ་ཡོད་པའི་འཇུག་སྣོད་དང་ཡིག་སྣོད་ལ་ལྟ་བཤེར,5883,nautilus,po/bo.po
+_Network,5888,དྲ་བ(_N),5889,nautilus,po/bo.po
+Browse bookmarked and local network locations,5893,ཡིག་རྟགས་བཀོད་ཡོད་པ་དང་རང་ཁུལ་གནས་ཡུལ་ལྟ་བཤེར་བྱེད་པ,5894,nautilus,po/bo.po
+T_emplates,5899,དཔེ་དབྱིབས(_E),5900,nautilus,po/bo.po
+Open your personal templates folder,5904,ཁྱོད་ཀྱི་སྒེར་གྱི་དཔེ་དབྱིབས་ཡིག་སྣོད་ཁ་ཕྱེ་བ,5905,nautilus,po/bo.po
+_Trash,5910,སྙིགས་སྣོད(_T),5911,nautilus,po/bo.po
+Open your personal trash folder,5915,རང་སྒེར་གྱི་སྙིགས་སྣོད་ཁ་ཕྱེ་བ,5916,nautilus,po/bo.po
+_Go,5920,སྐྱོད་པ(_G),5921,nautilus,po/bo.po
+_Bookmarks,5925,ཡིག་རྟགས(_B),5926,nautilus,po/bo.po
+_Tabs,5930,ཤོག་བྱང(_T),5931,nautilus,po/bo.po
+New _Window,5935,སྒེའུ་ཁུང་གསར་བ(_W),5936,nautilus,po/bo.po
+Open another Nautilus window for the displayed location,5939,འཆར་ཡོད་པའི་གནས་ཡུལ་ལ་Nautilus་སྒེའུ་ཁུང་གཞན་ཞིག་ཁ་ཕྱེ་བ,5940,nautilus,po/bo.po
+New _Tab,5944,ཤོག་བྱང་གསར་བ(_T),5945,nautilus,po/bo.po
+Open another tab for the displayed location,5948,འཆར་ཡོད་པའི་གནས་ཡུལ་ལ་ཤོག་བྱང་གཞན་ཞིག་ཁ་ཕྱེ་བ,5949,nautilus,po/bo.po
+Close _All Windows,5953,སྒེའུ་ཁུང་ཡོངས་སྒོ་རྒྱག་པ(_A),5954,nautilus,po/bo.po
+Close all Navigation windows,5957,ཁ་ཕྱེས་བའི་ཕྱོགས་སྟོན་སྒེའུ་ཁུང་ཡོངས་སྒོ་རྒྱག་པ,5958,nautilus,po/bo.po
+_Back,5962,ཕྱིར་ལོག(_B),5963,nautilus,po/bo.po
+Go to the previous visited location,5966,འདྲི་ཞིབ་བྱས་ཟིན་པའི་གནས་ཡུལ་ཞིག་ཏུ་སྐྱོད་པ,5967,nautilus,po/bo.po
+_Forward,5971,མདུན་སྐྱོད(_F),5972,nautilus,po/bo.po
+Go to the next visited location,5975,འོག་གི་འདྲི་ཞིབ་བྱས་ཟིན་པའི་གནས་ཡུལ་དུ་སྐྱོད་པ,5976,nautilus,po/bo.po
+_Location...,5980,གནས་ཡུལ(_L)་་་,5981,nautilus,po/bo.po
+Specify a location to open,5984,ཁ་ཕྱེ་དགོས་པའི་གནས་ཡུལ་དམིགས་འཛུགས་བྱེད་པ,5985,nautilus,po/bo.po
+S_witch to Other Pane,5989,པང་ལེབ་གཞན་དང་བརྗེ་རེས་བྱེད་པ(_W),5990,nautilus,po/bo.po
+Move focus to the other pane in a split view window,5993,སྒེའུ་ཁུང་ནང་གནད་འདུས་པང་ལེབ་གཞན་གྱི་ནང་དུ་སྤོར་བ,5994,nautilus,po/bo.po
+Sa_me Location as Other Pane,5998,པང་ལེབ་གཞན་དང་གནས་ཡུལ་མཚུངས་པ_m,5999,nautilus,po/bo.po
+Go to the same location as in the extra pane,6002,རྒྱ་བསྐྱེད་པང་ལེབ་ནང་དུ་ཡོད་པའི་གནས་ཡུལ་གཅིག་པ་ཐོག་སྐྱོད་པ,6003,nautilus,po/bo.po
+Add a bookmark for the current location to this menu,6006,འདེམས་ཐོ་འདིའི་ནང་དུ་མིག་སྔའི་གནས་ཡུལ་གྱི་ཡིག་རྟགས་ཤིག་སྣོན་པ,6007,nautilus,po/bo.po
+_Edit Bookmarks...,6011,ཡིག་རྟགས་བསྒྱུར་བཟོ(_E)་་་,6012,nautilus,po/bo.po
+Display a window that allows editing the bookmarks in this menu,6015,འདེམས་ཐོ་འདིའི་ནང་ཡིག་རྟགས་བསྒྱུར་བཅོས་བྱེད་པའི་སྒེའུ་ཁུང་མངོན་འཆར་བྱེད་པ,6016,nautilus,po/bo.po
+_Previous Tab,6019,གོང་གི་ཤོག་བྱང(_P),6020,nautilus,po/bo.po
+Activate previous tab,6023,གོང་གི་ཤོག་བྱང་སྒུལ་སློང་བྱེད་པ,6024,nautilus,po/bo.po
+_Next Tab,6027,འོག་གི་ཤོག་བྱང(_N),6028,nautilus,po/bo.po
+Activate next tab,6031,འོག་གི་ཤོག་བྱང་སྒུལ་སློང་བྱེད་པ,6032,nautilus,po/bo.po
+Move Tab _Left,6035,ཤོག་བྱང་གཡོན་ཕྱོགས་སུ་སྤོར་བ(_L),6036,nautilus,po/bo.po
+Move current tab to left,6039,མིག་སྔའི་ཤོག་བྱང་གཡོན་ཕྱོགས་སུ་སྤོར་བ,6040,nautilus,po/bo.po
+Move Tab _Right,6043,ཤོག་བྱང་གཡས་ཕྱོགས་སུ་སྤོར་བ(_R),6044,nautilus,po/bo.po
+Move current tab to right,6047,མིག་སྔའི་ཤོག་བྱང་གཡས་ཕྱོགས་སུ་སྤོར་བ,6048,nautilus,po/bo.po
+Show _Hidden Files,6057,ཡིབ་བཞིན་པའི་ཡིག་ཆ་མངོན་འཆར(_H),6058,nautilus,po/bo.po
+Toggle the display of hidden files in the current window,6062,ད་ལྟའི་སྒེའུ་ཁུང་ནང་ཡིབ་བཞིན་པའི་ཡིག་ཆ་སྟོན་མི་སྟོན,6063,nautilus,po/bo.po
+_Main Toolbar,6068,རྩ་བའི་ལག་ཆ་འཇུག་ས(_M),6069,nautilus,po/bo.po
+Change the visibility of this window's main toolbar,6073,སྒེའུ་ཁུང་འདིའི་རྩ་བའི་ལག་ཆ་འཇུག་ས་ལྟ་རུང་ངོ་ངོ་བཟོ་བ,6074,nautilus,po/bo.po
+Change the visibility of this window's side pane,6086,སྒེའུ་ཁུང་འདིའི་ཟུར་པང་གི་ལྟ་རུང་ངོ་བོ་བསྒྱུར་བཟོ,6087,nautilus,po/bo.po
+St_atusbar,6093,གནས་སྟངས་འཆར་ས(_A),6094,nautilus,po/bo.po
+Change the visibility of this window's statusbar,6098,སྒེའུ་ཁུང་གནས་སྟངས་འཆར་སའི་ལྟ་རུང་ངོ་བོ་བསྒྱུར་བཟོ,6099,nautilus,po/bo.po
+_Search for Files...,6105,ཡིག་ཆ་འཚོལ་བཤེར(_S)་་་,6106,nautilus,po/bo.po
+Search documents and folders by name,6110,མིང་དང་བསྟུན་ནས་ཡིག་ཚགས་དང་ཡིག་ཆའི་རིགས་འཚོལ་བཤེར,6111,nautilus,po/bo.po
+E_xtra Pane,6117,པང་ལེབ་གཞན_x,6118,nautilus,po/bo.po
+Open an extra folder view side-by-side,6122,ཡིད་སྣོད་གཞན་ཞིག་གཞོགས་སུ་ཁ་ཕྱེ་ནས་ལྟ་བ,6123,nautilus,po/bo.po
+Places,6126,གནས་ཡུལ,6127,nautilus,po/bo.po
+Tree,6134,སྡོང་བོའི་དབྱིབས,6135,nautilus,po/bo.po
+Back history,6142,ཕྱིར་ལོག་ཟིན་ཐོ,6143,nautilus,po/bo.po
+Forward history,6146,མདུན་སྐྱོད་ཟིན་ཐོ,6147,nautilus,po/bo.po
+_Up,6150,སྟེང་ཕྱོགས(_U),6151,nautilus,po/bo.po
+_Close Tab,6159,ཤོག་བྱང་སྒོ་རྒྱག་པ(_C),6160,nautilus,po/bo.po
+These files are on an Audio CD.,6163,ཡིག་ཆ་འདི་དག་སྒྲ་དབྱངས་ CD སྟེང་གནས་འདུག,6164,nautilus,po/bo.po
+These files are on an Audio DVD.,6167,ཡིག་ཆ་འདི་དག་སྒྲ་སྐད DVDསྟེང་འདུག,6168,nautilus,po/bo.po
+These files are on a Video DVD.,6171,ཡིག་ཆ་འདི་དགDVD བརྙན་སྡེར་སྟེང་འདུག,6172,nautilus,po/bo.po
+These files are on a Video CD.,6175,ཡིག་ཆ་འདི་ VCD བརྙན་སྡེར་སྟེང་འདུག,6176,nautilus,po/bo.po
+These files are on a Super Video CD.,6179,ཡིག་ཆ་འདི་དག་རིམ་བརྒལ་ VCD བརྙན་སྡེར་སྟེང་འདུག,6180,nautilus,po/bo.po
+These files are on a Photo CD.,6183,ཡིག་འདི་དག་་ CDཔར་རིས་ སྟེང་འདུག,6184,nautilus,po/bo.po
+These files are on a Picture CD.,6187,ཡིག་ཆ་འདི་དག CDཔར་རིས་སྟེང་འདུག,6188,nautilus,po/bo.po
+The media contains digital photos.,6191,སྒྲ་བརྙན་ནང་དུ་གྲངས་སྤྱོད་པར་ཆས་ཚུད་འདུག,6192,nautilus,po/bo.po
+These files are on a digital audio player.,6195,ཡིག་ཆ་འདི་དག་གྲངས་སྤྱོད་རོལ་དབྱངས་གཏོང་ཆས་ཀྱི་ནང་དུ་འདུག,6196,nautilus,po/bo.po
+The media contains software.,6199,སྒྲ་བརྙན་ནང་དུ་མཉེན་ཆས་ཡོད་པ,6200,nautilus,po/bo.po
+"The media has been detected as \""%s\"".",6205,"སྒྲ་བརྙན་འདི་\""%s\""བཞིན་རྙེད་བྱུང་བ",6206,nautilus,po/bo.po
+Open %s,6210,%s ཁ་ཕྱེ་,6211,nautilus,po/bo.po
+_Authorize,23,ཐོབ་ཐང་སྟེར_A,24,simple-scan,po/bo.po
+_Username for resource:,28,གཏེར་མཛོད་སྤྱོད་མཁན་གྱི་མིང་_U:,29,simple-scan,po/bo.po
+_Password:,33,གསང་གྲངས_P:,34,simple-scan,po/bo.po
+Front and Back,38,རྒྱབ་ཕྱོགས་དང་མདུན་ཕྱོགས,39,simple-scan,po/bo.po
+Front,43,མདུན་ཕྱོགས,44,simple-scan,po/bo.po
+Back,48,རྒྱབ་ཕྱོགས,49,simple-scan,po/bo.po
+Simple Scan,54,པར་བཤུ་དཀྱུས་མ,55,simple-scan,po/bo.po
+_Document,59,ཡི་གེ_D,60,simple-scan,po/bo.po
+Sc_an,64,པར་བཤུ_a,65,simple-scan,po/bo.po
+Single _Page,70,ཤོག་བུ་རྐང་ཅིག _P,71,simple-scan,po/bo.po
+All Pages From _Feeder,76,སྤྲོད་མཁན་ནས་བྱུང་བའི་ཤོག་ལེབ་ཡོངས་རྫོགས _F,77,simple-scan,po/bo.po
+_Stop Scan,87,པར་ལེན་མཚམས་བཞག_S,88,simple-scan,po/bo.po
+Text,91,ཡི་གེ,92,simple-scan,po/bo.po
+Photo,95,པར,96,simple-scan,po/bo.po
+_Email,106,གློག་འཕྲིན_E,107,simple-scan,po/bo.po
+_Page,111,ཤོག་ལེབ_P,112,simple-scan,po/bo.po
+Rotate _Left,116,གཡོན་སྐོར _L,117,simple-scan,po/bo.po
+Rotate _Right,121,གཡས་སྐོར་ _R,122,simple-scan,po/bo.po
+_Crop,126,གཅོད_C,127,simple-scan,po/bo.po
+_None,131,ཅི་མེད་པ_N,132,simple-scan,po/bo.po
+_Letter,151,འཕྲིན་ཡིག_L,152,simple-scan,po/bo.po
+Le_gal,156,ཁྲིམས་མཐུན_g,157,simple-scan,po/bo.po
+_Custom,166,སྲོལ་རྒྱུན_C,167,simple-scan,po/bo.po
+_Rotate Crop,171,དྲས་གཅོད་སྐོར་བ_R,172,simple-scan,po/bo.po
+Move Left,176,གཡོན་ལ་སྤོར,177,simple-scan,po/bo.po
+Move Right,181,གཡས་ལ་སྤོར,182,simple-scan,po/bo.po
+_Help,186,རོགས་རམ_H,187,simple-scan,po/bo.po
+_Contents,191,ནང་གསེས_C,192,simple-scan,po/bo.po
+Start a new document,196,ཡིག་གེ་གསར་འཛུགས,197,simple-scan,po/bo.po
+New,200,གསར་པ,201,simple-scan,po/bo.po
+Scan a single page from the scanner,205,པར་བཤུ་ཆས་ནས་བྱུང་བའི་ཤོག་བུ་རྐང་ཅིག་དེ་པར་བཤུ,206,simple-scan,po/bo.po
+Scan,210,པར་བཤུ,211,simple-scan,po/bo.po
+Save document to a file,215,ཡི་གེ་ཡིག་ཆའི་ནང་གསོག་ཉར,216,simple-scan,po/bo.po
+Save,219,གསོག་ཉར,220,simple-scan,po/bo.po
+Stop the current scan,224,པར་བཤུ་བྱེད་བཞིན་པ་དེ་མཚམས་བཞག,225,simple-scan,po/bo.po
+Stop,228,མཚམས་བཞག,229,simple-scan,po/bo.po
+Rotate the page to the left (counter-clockwise),233,ཤོག་ལེབ་གཡོན་སྐོར་རྒྱག་པ,234,simple-scan,po/bo.po
+Rotate Left,238,གཡོན་སྐོར,239,simple-scan,po/bo.po
+Rotate the page to the right (clockwise),243,ཤོག་ལེབ་གཡས་སྐོར་རྒྱག་པ,244,simple-scan,po/bo.po
+Rotate Right,248,གཡས་སྐོར,249,simple-scan,po/bo.po
+Crop the selected page,252,བདམས་ཟིན་པའི་ཤོག་ལེབ་གཅད་བཟོ,253,simple-scan,po/bo.po
+Crop,256,གཅད,257,simple-scan,po/bo.po
+Preferences,261,རང་མོས་སྒྲིག་བཟོ,262,simple-scan,po/bo.po
+Scan S_ource:,266,པར་བཤུ་གཏེར་མཛོད_o:,267,simple-scan,po/bo.po
+_Text Resolution:,271,ཡི་གེའི་སྤུས་ཚད_T,272,simple-scan,po/bo.po
+_Photo Resolution:,276,པར་གྱི་སྤྭུས་ཚད,277,simple-scan,po/bo.po
+Scan Side:,281,ཟུར་པར་བཤུ,282,simple-scan,po/bo.po
+Page Size:,286,ཤོག་ལེབ་ཞེང་ཚད,287,simple-scan,po/bo.po
+Brightness:,291,དཀར་ཚད:,292,simple-scan,po/bo.po
+Quality:,301,སྤུས་ཚད:,302,simple-scan,po/bo.po
+Scan Documents,314,ཡིག་གེ་པར་བཤུ,315,simple-scan,po/bo.po
+No scanners available.  Please connect a scanner.,340,པར་བཤུ་ཆས་བསྒྲིགས་མི་འདུག པར་བཤུ་ཆས་ཞིག་སྒྲིགས་རོགས,341,simple-scan,po/bo.po
+Unable to connect to scanner,345,པར་བཤུ་ཆས་དང་སྦྲེལ་མ་ཐུབ,346,simple-scan,po/bo.po
+Unable to start scan,350,པར་བཤུ་འགོ་འཛུགས་མ་ཐུབ,351,simple-scan,po/bo.po
+Error communicating with scanner,355,པར་བཤུ་ཆས་དང་འབྲེལ་གཏུགས་མ་ཐུབ་པའི་ནོར་འཁྲུལ,356,simple-scan,po/bo.po
+Failed to scan,374,པར་བཤུ་བྱེད་མ་ཐུབ་པ,375,simple-scan,po/bo.po
+Username and password required to access '%s',395,'%s'མཁོ་སྤྱོད་བྱེད་པར་སྤྱོད་མཁན་མིང་དང་གསང་གྲངས་དགོས་པ,396,simple-scan,po/bo.po
+No scanners detected,400,པར་བཤུ་ཆས་རྙེད་མ་བྱུང་,401,simple-scan,po/bo.po
+Please check your scanner is connected and powered on,405,ཁྱོད་ཀྱི་པར་བཤུ་ཆས་སྦྲེལ་ཡོད་པ་དང་གློག་བཏང་ཡོད་པར་དག་བཤེར་བྱེད་རོགས,406,simple-scan,po/bo.po
+Save As...,420,ཉར་སྟངས་་་,421,simple-scan,po/bo.po
+Scanned Document.pdf,433,པར་བཤུས་ཡིག་ཆ.pdf,434,simple-scan,po/bo.po
+Image Files,438,གཟུགས་བརྙན་ཡིག་ཆ,439,simple-scan,po/bo.po
+All Files,443,ཡིག་ཆ་ཡོངས་རྫོགས,444,simple-scan,po/bo.po
+PDF (multi-page document),448,PDF(ཤོག་ལེབ་མང་པོའི་ཡིག་ཆ),449,simple-scan,po/bo.po
+JPEG (compressed),453,JPEG (བསྡུ་འཇུག),454,simple-scan,po/bo.po
+PNG (lossless),458,PNG (བོར་བརླག་མ་ཤོར་བ),459,simple-scan,po/bo.po
+Failed to save file,479,ཡིག་ཆ་གསོག་འཇོག་བྱེད་མ་ཐུབ,480,simple-scan,po/bo.po
+"If you don't save, changes will be permanently lost.",484,ཁྱོད་ཀྱིས་གསོག་འཇོག་མ་བྱས་ན་བཟོ་བཅོས་རྣམས་ནམ་ཡང་བརླགས་འགྲོ་ངེས,485,simple-scan,po/bo.po
+Save current document?,489,དང་ཐོག་གི་ཡིག་ཆ་ཉར་ཚགས,490,simple-scan,po/bo.po
+Discard Changes,494,བཟོ་བཅོས་རྣམས་འདོར་བ,495,simple-scan,po/bo.po
+Unable to open image preview application,504,སྔོན་ལྟ་ཉེར་སྤྱོད་ཁ་ཕྱེ་མ་ཐུབ་པ,505,simple-scan,po/bo.po
+Unable to open help file,529,རོགས་འདེགས་ཡིག་ཆ་ཁ་ཕྱེ་མ་ཐུབ,530,simple-scan,po/bo.po
+About Simple Scan,563,པར་བཤུ་བ་དཀྱུས་མའི་སྐོར,564,simple-scan,po/bo.po
+Simple document scanning tool,568,ཡིག་ཆ་པར་བཤུ་ཆས་དཀྱུས་མ,569,simple-scan,po/bo.po
+Save document before quitting?,580,ཕྱིར་འཐེན་མ་བྱས་གོང་གསོག་འཇོག་བྱེད་པ,581,simple-scan,po/bo.po
+Quit without Saving,585,གསོག་འཇོག་མ་བྱས་པར་ཕྱིར་འཐེན,586,simple-scan,po/bo.po
+%d dpi (default),669,%d dpi (སྔོན་འཛུགས),670,simple-scan,po/bo.po
+%d dpi (draft),675,%d dpi (ཟིན་བྲིས),676,simple-scan,po/bo.po
+%d dpi (high resolution),681,%d dpi (སྤུས་ཚད་མཐོན་པོ),682,simple-scan,po/bo.po
+Change _Scanner,720,པར་བཤུ་ཆས་བརྗེ་བ_S,721,simple-scan,po/bo.po
+Automatic,730,ར་ང་འགུལ་ངང,731,simple-scan,po/bo.po

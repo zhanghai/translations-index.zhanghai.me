@@ -1,0 +1,1493 @@
+Browse and organize your bookmarks,18,Chọgharịa ma hazie búùkmáàks gị,19,epiphany,po/ig.po
+Epiphany Web Bookmarks,22,Búùkmáàks Epiphany Wéèbụ̀,23,epiphany,po/ig.po
+Web Bookmarks,26,Búùkmáàkịs Wéèbụ̀,27,epiphany,po/ig.po
+Browse the web,30,Chọgharịa na wéèbụ̀,31,epiphany,po/ig.po
+Epiphany Web Browser,34,Omenchọgharị wéèbụ̀ Epiphany,35,epiphany,po/ig.po
+Web Browser,39,Omenchọgharị Wéèbụ̀,40,epiphany,po/ig.po
+"A list of protocols to be considered safe in addition to the default, when disable_unsafe_protocols is enabled.",43,"Ndesịta nke protokọ́ọ̀lụ̀ nke a ga-anabata dịka na-enweghị nsogbu na mgbakwunye na difọ́ọ̀ltụ̀, mgbe e kwèèrè dizebụl_ọnséèfù_protokọ́ọ̀lụ̀. ",46,epiphany,po/ig.po
+Additional safe protocols,51,Séèfù protokọ́ọ̀lụ̀ ndị agbakwunyere agbakwunye,52,epiphany,po/ig.po
+Disable JavaScript chrome control,55,Nlekọta króòmù ndesịta asụsụ program akwụsịrị ọrụ,56,epiphany,po/ig.po
+Disable JavaScript's control over window chrome.,59,Nlekọta ndesịta asụsụ program akwụsịrị ọrụ na windo króòmù.,60,epiphany,po/ig.po
+"Disable all historical information by disabling back and forward navigation, not allowing the history dialog and hiding the most used bookmarks list.",63,"Kwụsị ozi agụgụala niile site n'ịkwụsị nchọgharị nke azụ na ihu, na-ekweghị dayalọ́ọ̀gụ̀ agụgụala nakwa izo ndesịta búùkmáàks nke a kara jiri rụọ ọrụ.",66,epiphany,po/ig.po
+Disable arbitrary URLs,71,URL abitrarị akwụsịrị ọrụ,72,epiphany,po/ig.po
+Disable bookmark editing,75,Ndezi búùkmáàkị akwụsịrị akwụsị,76,epiphany,po/ig.po
+Disable history,79,Agụgụala akwụsịrị ọrụ,80,epiphany,po/ig.po
+Disable the user's ability to add or edit bookmarks.,83,Kwụsị ọrụ ike ojieme ka itinye mọọbụ dezie búùkmáàks.,84,epiphany,po/ig.po
+Disable the user's ability to edit toolbars.,87,Kwụsị ọrụ ike ojieme ka idezie tulbáàs.,88,epiphany,po/ig.po
+Disable the user's ability to type in a URL to Epiphany.,91,Kwụsị ọrụ ike ojieme ka ịpịnye na URL to Epiphany.,92,epiphany,po/ig.po
+Disable toolbar editing,95,Kwụsị ọrụ ndezi tulbáà,96,epiphany,po/ig.po
+Disable unsafe protocols,99,Kwụsị ọrụ ọnséèfprotokọ́ọ̀lụ̀,100,epiphany,po/ig.po
+Disables loading of content from unsafe protocols. Safe protocols are http and https.,103,Nkwụsị ọrụ n'ịbubata ndịna site ọ̀nséèf protokọ́ọ̀lụ̰̀. Séèf protokọ́ọ̀lụ̀ bụ http na https.,106,epiphany,po/ig.po
+Hide menubar by default,116,Zòó menubáà site na difọ́ọ̀ltụ̀,117,epiphany,po/ig.po
+Lock in fullscreen mode,125,Kpọchie na móòdù njupụtainyogo,126,epiphany,po/ig.po
+Locks Epiphany in fullscreen mode.,129,Na-akpọchi Epiphany na móòdù njupụtainyogo. ,130,epiphany,po/ig.po
+Active extensions,137,Mgbatịkwu ndị n'arụ ọrụ,138,epiphany,po/ig.po
+Address of the user's home page.,141,Ngosi ebe nke ihu inyogo nke ojieme.,142,epiphany,po/ig.po
+Allow popups,145,Hapụ pọpọps,146,epiphany,po/ig.po
+Allow sites to open new windows using JavaScript (if JavaScript is enabled).,149,Hapụ saịts ka ọ mepee windo ndị a n'iji ndesịta asụsụ program (ma ọ bụrụ na a hapụrụ ndesịta asụsụ program).,151,epiphany,po/ig.po
+Always show the tab bar,156,Ná-ègosi tab báà mgbe ọbụla,157,epiphany,po/ig.po
+Automatic downloads,160,Mbubata nkeonwe,161,epiphany,po/ig.po
+Browse with caret,168,Jiri Káréètị̀ chọgharịa,169,epiphany,po/ig.po
+Cookie accept,172,Nnabata Kuki,173,epiphany,po/ig.po
+Default encoding,176,Ndenye kóòdù difọ́ọ̀ltụ̀,177,epiphany,po/ig.po
+"Default encoding. Accepted values are: \""armscii-8\"", \""Big5\"", \""Big5-HKSCS\"", \""EUC-JP\"", \""EUC-KR\"", \""gb18030\"", \""GB2312\"", \""geostd8\"", \""HZ-GB-2312\"", \""IBM850\"", \""IBM852\"", \""IBM855\"", \""IBM857\"", \""IBM862\"", \""IBM864\"", \""IBM866\"", \""ISO-2022-CN\"", \""ISO-2022-JP\"", \""ISO-2022-KR\"", \""ISO-8859-1\"", \""ISO-8859-2\"", \""ISO-8859-3\"", \""ISO-8859-4\"", \""ISO-8859-5\"", \""ISO-8859-6\"", \""ISO-8859-7\"", \""ISO-8859-8\"", \""ISO-8859-8-I\"", \""ISO-8859-9\"", \""ISO-8859-10\"", \""ISO-8859-11\"", \""ISO-8859-13\"", \""ISO-8859-14\"", \""ISO-8859-15\"", \""ISO-8859-16\"", \""ISO-IR-111\"", \""KOI8-R\"", \""KOI8-U\"", \""Shift_JIS\"", \""TIS-620\"", \""UTF-7\"", \""UTF-8\"", \""VISCII\"", \""windows-874\"", \""windows-1250\"", \""windows-1251\"", \""windows-1252\"", \""windows-1253\"", \""windows-1254\"", \""windows-1255\"", \""windows-1256\"", \""windows-1257\"", \""windows-1258\"", \""x-euc-tw\"", \""x-gbk\"", \""x-johab\"", \""x-mac-arabic\"", \""x-mac-ce\"", \""x-mac-croatian\"", \""x-mac-cyrillic\"", \""x-mac-devanagari\"", \""x-mac-farsi\"", \""x-mac-greek\"", \""x-mac-gujarati\"", \""x-mac-gurmukhi\"", \""x-mac-hebrew\"", \""x-mac-icelandic\"", \""x-mac-roman\"", \""x-mac-romanian\"", \""x-mac-turkish\"", \""x-mac-ukrainian\"", \""x-user-defined\"", \""x-viet-tcvn5712\"", \""x-viet-vps\"" and \""x-windows-949\"".",180,"Ndenye kóòdú difọ́ọ̀ltụ̀. Valius ndị anabatara bụ: \""armscii-8\"", \""Big5\"", \""Big5-HKSCS\"", \""EUC-JP\"", \""EUC-KR\"", \""gb18030\"", \""GB2312\"", \""geostd8\"", \""HZ-GB-2312\"", \""IBM850\"", \""IBM852\"", \""IBM855\"", \""IBM857\"", \""IBM862\"", \""IBM864\"", \""IBM866\"", \""ISO-2022-CN\"", \""ISO-2022-JP\"", \""ISO-2022-KR\"", \""ISO-8859-1\"", \""ISO-8859-2\"", \""ISO-8859-3\"", \""ISO-8859-4\"", \""ISO-8859-5\"", \""ISO-8859-6\"", \""ISO-8859-7\"", \""ISO-8859-8\"", \""ISO-8859-8-I\"", \""ISO-8859-9\"", \""ISO-8859-10\"", \""ISO-8859-11\"", \""ISO-8859-13\"", \""ISO-8859-14\"", \""ISO-8859-15\"", \""ISO-8859-16\"", \""ISO-IR-111\"", \""KOI8-R\"", \""KOI8-U\"", \""Shift_JIS\"", \""TIS-620\"", \""UTF-7\"", \""UTF-8\"", \""VISCII\"", \""windows-874\"", \""windows-1250\"", \""windows-1251\"", \""windows-1252\"", \""windows-1253\"", \""windows-1254\"", \""windows-1255\"", \""windows-1256\"", \""windows-1257\"", \""windows-1258\"", \""x-euc-tw\"", \""x-gbk\"", \""x-johab\"", \""x-mac-arabic\"", \""x-mac-ce\"", \""x-mac-croatian\"", \""x-mac-cyrillic\"", \""x-mac-devanagari\"", \""x-mac-farsi\"", \""x-mac-greek\"", \""x-mac-gujarati\"", \""x-mac-gurmukhi\"", \""x-mac-hebrew\"", \""x-mac-icelandic\"", \""x-mac-roman\"", \""x-mac-romanian\"", \""x-mac-turkish\"", \""x-mac-ukrainian\"", \""x-user-defined\"", \""x-viet-tcvn5712\"", \""x-viet-vps\"" and \""x-windows-949\"".",198,epiphany,po/ig.po
+Default font type,218,Ụdị ihumkpụrụedemede difọ́ọ̀ltụ̀,219,epiphany,po/ig.po
+"Default font type. Possible values are \""serif\"" and \""sans-serif\"".",222,"Ụdị ihumkpụrụedemede difọ́ọ̀ltụ̀. Pọsịbụl valius bụ \""serif\"" na \""sans-serif\"".",223,epiphany,po/ig.po
+Enable Java,227,Hapụ Java,228,epiphany,po/ig.po
+Enable JavaScript,231,Hapụ ndesịta asụsụ program,232,epiphany,po/ig.po
+History pages time range,249,Nhazi oge ihuakwụkwọ agụgụala,250,epiphany,po/ig.po
+Home page,253,Ụlọ ihu inyogo,254,epiphany,po/ig.po
+Languages,282,Asụsụ dị ichiiche,283,epiphany,po/ig.po
+Lists the active extensions.,286,Desịta mgbatịkwu ọrụ ọrụ.,287,epiphany,po/ig.po
+Middle click to open the web page pointed to by the currently selected text,290,Pịa n'etiti ka imepee ngwaọrụ www apọintịrị na site na ngwe a họrọla ọfụụ,292,epiphany,po/ig.po
+Middle clicking on the main view pane will open the web page pointed to by the currently selected text.,296,Pịa n'etiti péènù ngosi nkeisi ga-emepe ngwaọrụ www nke apọịntịrị na site na ngwe a họrọla ọfụụ.,299,epiphany,po/ig.po
+"Preferred languages, two letter codes.",309,"Asụsụ ndị akarachọọ, mkpụrụokwu abụọ.",310,epiphany,po/ig.po
+Show bookmarks bar by default,318,Gosi búùkmáàks báà site na difọ́ọ̀ltụ̀,319,epiphany,po/ig.po
+Show statusbar by default,322,Gosi statusbáà site na difọ́ọ̀ltụ̀,323,epiphany,po/ig.po
+"Show the history pages visited \""ever\"", \""last_two_days\"", \""last_three_days\"", \""today\"".",326,"Gosi ihuakwụkwọ agụgụala abanyegorola \""ever\"", \""last_two_days\"", \""last_three_days\"", \""today\"".",329,epiphany,po/ig.po
+Show the tab bar also when there is only one tab open.,334,Gosi tab báà n'otu aka ahụ mgbe enwere otu táàbụ́ mepere emepe.,335,epiphany,po/ig.po
+Show toolbars by default,338,Gosi tulbáà site na difọ́ọ̀ltụ̀,339,epiphany,po/ig.po
+Size of disk cache,342,Ụhara nke diski ébéńchékwáózīọ́sị́sọ́,343,epiphany,po/ig.po
+"Size of disk cache, in MB.",346,"Ụhara nke diski ébéńchékwáózīọ́sị́sọ́, na MB.",347,epiphany,po/ig.po
+The bookmark information shown in the editor view,350,Ozi búùkmáàkì egosiri na ngosi omendezi,351,epiphany,po/ig.po
+"The bookmark information shown in the editor view. Valid values in the list are \""address\"" and \""title\"".",354,"Ozi búùkmáàkì egosiri na ngosi omendezi.Valius nwere isi na ndesịta bụ \""address\"" na \""title\"".",357,epiphany,po/ig.po
+The currently selected fonts language,362,Asụsụ ihumkpụrụedemede a họrọla ọfụụ,363,epiphany,po/ig.po
+"The currently selected fonts language. Valid values are \""ar\"" (arabic), \""x-baltic\"" (baltic languages), \""x-central-euro\"" (central european languages), \""x-cyrillic\"" (languages written with cyrillic alphabet), \""el\"" (greek), \""he\"" (hebrew), \""ja\"" (japanese), \""ko\"" (korean), \""zh-CN\"" (simplified chinese), \""th\"" (thai), \""zh-TW\"" (traditional chinese), \""tr\"" (turkish), \""x-unicode\"" (other languages), \""x-western\"" (languages written in latin script), \""x-tamil\"" (tamil) and \""x-devanagari\"" (devanagari).",366,"Asụsụ ihumkpụrụedemede a họrọla ọfụụ. Valius ndị nwereisi bụ. Values are \""ar\"" (arabic), \""x-baltic\"" (baltic languages), \""x-central-euro\"" (central european languages), \""x-cyrillic\"" (languages written with cyrillic alphabet), \""el\"" (greek), \""he\"" (hebrew), \""ja\"" (japanese), \""ko\"" (korean), \""zh-CN\"" (simplified chinese), \""th\"" (thai), \""zh-TW\"" (traditional chinese), \""tr\"" (turkish), \""x-unicode\"" (other languages), \""x-western\"" (languages written in latin script), \""x-tamil\"" (tamil) and \""x-devanagari\"" (devanagari).",375,epiphany,po/ig.po
+The downloads folder,386,Nsomebefaịlụ nke mbubata ndị ahụ,387,epiphany,po/ig.po
+The encoding autodetector. Empty string means autodetect is off,390,Na-edenye kóòdù ditektọnkeonwe. Ahịrị ghe oghe pụtara na ditektọnkeonwe apụọla,391,epiphany,po/ig.po
+"The encoding autodetector. Valid entries are \""\"" (autodetectors off), \""cjk_parallel_state_machine\"" (autodetect east asian encodings), \""ja_parallel_state_machine\"" (autodetect japanese encodings), \""ko_parallel_state_machine\"" (autodetect korean encodings), \""ruprob\"" (autodetect russian encodings), \""ukprob\"" (autodetect ukrainian encodings), \""zh_parallel_state_machine\"" (autodetect chinese encodings), \""zhcn_parallel_state_machine\"" (autodetect simplified chinese encodings), \""zhtw_parallel_state_machine\"" (autodetect traditional chinese encodings) and \""universal_charset_detector\"" (autodetect most encodings).",396,"Na-edenye kóòdù ditektọnkeonwe. Mbanye nwereisi bụ  \""\"" (autodetectors off), \""cjk_parallel_state_machine\"" (autodetect east asian encodings), \""ja_parallel_state_machine\"" (autodetect japanese encodings), \""ko_parallel_state_machine\"" (autodetect korean encodings), \""ruprob\"" (autodetect russian encodings), \""ukprob\"" (autodetect ukrainian encodings), \""zh_parallel_state_machine\"" (autodetect chinese encodings), \""zhcn_parallel_state_machine\"" (autodetect simplified chinese encodings), \""zhtw_parallel_state_machine\"" (autodetect traditional chinese encodings) and \""universal_charset_detector\"" (autodetect most encodings).",406,epiphany,po/ig.po
+The page information shown in the history view,418,Ozi ihuakwụkwọ egosiri na ngosi agụgụala,419,epiphany,po/ig.po
+Toolbar style,437,Ọdịdị tulbáà,438,epiphany,po/ig.po
+"Toolbar style. Allowed values are \""\"" (use GNOME default style), \""both\"" (text and icons), \""both-horiz\"" (text besides icons), \""icons\"", and \""text\"".",441,"Ọdịdị tulbáà. Valius ndị ekwere bụ \""\"" (use GNOME default style), \""both\"" (text and icons), \""both-horiz\"" (text besides icons), \""icons\"", and \""text\"".",445,epiphany,po/ig.po
+Use own colors,451,Jiri ụcha nke gị,452,epiphany,po/ig.po
+Use own fonts,455,Jiri ihumkpụrụedemede nke gị,456,epiphany,po/ig.po
+Use your own colors instead of the colors the page requests.,459,Jiri ụcha nke gị kama iji ụcha nke ihuakwụkwọ chọrọ.,460,epiphany,po/ig.po
+Use your own fonts instead of the fonts the page requests.,463,Jiri ihumkpụrụedemede nke gị kama iji ihumkpụrụedemede nke ihuakwụkwọ chọrọ.,464,epiphany,po/ig.po
+When files cannot be opened by the browser they are automatically downloaded to the download folder and opened with the appropriate application.,473,Mgbe omenchọgharị nà-émēpéghị́nwú faịlụ ndị ahụ ha ga eji aka ha bubata onwe ha na nsomebefaịlụ mbubata ma mepee n'usoroiheomume kwesịrịnụ̄. ,476,epiphany,po/ig.po
+"Where to accept cookies from. Possible values are \""anywhere\"", \""current site\"" and \""nowhere\"".",481,"Ebe a ga esi nabata kukiis. Pọsịbụl valius bụ  \""anywhere\"", \""current site\"" and \""nowhere\"".",484,epiphany,po/ig.po
+Whether to print the date in the footer,499,Ma a ga-ebipụta ụbọchị na ngwe okpuru ihuakwụkwọ,500,epiphany,po/ig.po
+Whether to print the page address in the header,503,Ma a ga-ebipụta ngosi ebe ihuakwụkwọ na ngwe elu ihuakwụkwọ,504,epiphany,po/ig.po
+Whether to print the page numbers (x of total) in the footer,507,Ma a ga-ebipụta ọnụọgụgụ ihuakwụkwọ ndị ahụ (x nke mgbakọ) na ngwe elu ihuakwụkwọ,508,epiphany,po/ig.po
+Whether to print the page title in the header,513,Ma a ga-ebipụta isiokwu ihuakwụkwọ na ngwe elu ihuakwụkwọ,514,epiphany,po/ig.po
+<b>Fingerprints</b>,525,<b>Mkpịsịaka</b>,526,epiphany,po/ig.po
+<b>Issued By</b>,529,<b>Nke enyere site na</b>,530,epiphany,po/ig.po
+<b>Issued To</b>,533,<b>Nke enyere na</b>,534,epiphany,po/ig.po
+<b>Validity</b>,537,<b>Nkeanabatara</b>,538,epiphany,po/ig.po
+Certificate _Fields,541,Fildu _Asambodo,542,epiphany,po/ig.po
+Certificate _Hierarchy,545,Haịraki _Asambodo,546,epiphany,po/ig.po
+Common Name:,549,Aha ama ama:,550,epiphany,po/ig.po
+Details,553,Ozi,554,epiphany,po/ig.po
+Expires On:,557,Oge efeela na:,558,epiphany,po/ig.po
+Field _Value,561,Valiu _Fildu,562,epiphany,po/ig.po
+General,566,Zurugbezurugbe,567,epiphany,po/ig.po
+Issued On:,570,Enyere na:,571,epiphany,po/ig.po
+MD5 Fingerprint:,574,Mkpịsịaka MD5:,575,epiphany,po/ig.po
+Organization:,578,Nhazi:,579,epiphany,po/ig.po
+Organizational Unit:,582,Nkeji nhazi:,583,epiphany,po/ig.po
+SHA1 Fingerprint:,586,Mkpịsịaka SHA1:,587,epiphany,po/ig.po
+Serial Number:,590,Ọnụọgụgụ eji ahụba ihe ama:,591,epiphany,po/ig.po
+<b>_Automatic</b>,594,<b>_Nkeonwe</b>,595,epiphany,po/ig.po
+<b>_Use a different encoding:</b>,598,<b>_Jiri ndenye kóòdù dị iche:</b>,599,epiphany,po/ig.po
+Cookies,606,Kukíìs,607,epiphany,po/ig.po
+Downloads,611,Mbudata ndị ahụ,612,epiphany,po/ig.po
+Passwords,615,Okwumbanye,616,epiphany,po/ig.po
+Text Encoding,624,Ndenye kóòdù ngwe,625,epiphany,po/ig.po
+Use the encoding specified by the document,628,Jiri ndenye kóòdù ahụ ezipụtarala site n'aka dọkumenti,629,epiphany,po/ig.po
+_Password:,654,_Okwumbanye:,655,epiphany,po/ig.po
+<b>Cookies</b>,663,<b>Kukiis</b>,664,epiphany,po/ig.po
+<b>Downloads</b>,667,<b>Mbudata ndị ahụ</b>,668,epiphany,po/ig.po
+<b>Encodings</b>,671,<b>Ndenye kóòdù dị ichiiche</b>,672,epiphany,po/ig.po
+<b>Home page</b>,675,<b>Saịtị omenchọgharị ịntaneetị n'ebu ụzọ abanye mgbe emepere ya</b>,676,epiphany,po/ig.po
+<b>Languages</b>,679,<b>Asụsụ dị ichiiche</b>,680,epiphany,po/ig.po
+<b>Temporary Files</b>,688,<b>Kọmputa faịlụ ebenchekwaozi nwaobere</b>,689,epiphany,po/ig.po
+<b>Web Content</b>,692,<b>Ndịna nke ahụrụ anya nke a na-enweta na websaịtị</b>,693,epiphany,po/ig.po
+A_utomatically download and open files,706,O ji aka ya budata ma mepee faịlụ ndị ahụ,707,epiphany,po/ig.po
+Add Language,710,Tinye Asụsụ,711,epiphany,po/ig.po
+Allow popup _windows,714,Hapụ pọpọp _windos,715,epiphany,po/ig.po
+Au_todetect:,718,Di_tektịnkeonwe:,719,epiphany,po/ig.po
+Choose a l_anguage:,722,Họrọ otu a_sụsụ:,723,epiphany,po/ig.po
+Cl_ear,732,We_pụ,733,epiphany,po/ig.po
+De_fault:,736,Di_fọ́ọ̀ltụ̀:,737,epiphany,po/ig.po
+Enable Java_Script,740,Na-ekwe asụsụ_ihendesịta program,741,epiphany,po/ig.po
+Enable _Java,744,Na-ekwe _Java,745,epiphany,po/ig.po
+Language,752,Asụsụ,753,epiphany,po/ig.po
+Only _from sites you visit,768,Sọsọ _site na saịtị ndị ịbanyegorola,769,epiphany,po/ig.po
+Preferences,772,Nkarachọ,773,epiphany,po/ig.po
+Privacy,776,Nkennọọrọ onwe,777,epiphany,po/ig.po
+Set to Current _Page,780,Hazie n'ihuakwụkwọ nke _ọfụụ,781,epiphany,po/ig.po
+Set to _Blank Page,784,Hazie _n'ihuakwụkwọ ghe oghe,785,epiphany,po/ig.po
+_Address:,796,_Ngosi ebe:,797,epiphany,po/ig.po
+_Always accept,800,_Na-anabata mgbe ọbụla,801,epiphany,po/ig.po
+_Disk space:,804,_Ohere diski:,805,epiphany,po/ig.po
+_Download folder:,808,_Budata nsomebefaịlụ:,809,epiphany,po/ig.po
+_Minimum size:,816,_Ụhara nke obere:,817,epiphany,po/ig.po
+_Never accept,820,_Anabataghị ya,821,epiphany,po/ig.po
+<b>Footers</b>,834,<b>Ngwe ndị egosiri n'okpuru nke ihuakwụkwọ</b>,835,epiphany,po/ig.po
+<b>Headers</b>,843,<b>Ngwe ndị egosiri n'elu ihuakwụkwọ</b>,844,epiphany,po/ig.po
+P_age title,856,I_siokwu ihuakwụkwọ,857,epiphany,po/ig.po
+Page _numbers,860,Ọnụọgụgụ _ihuakwụkwọ,861,epiphany,po/ig.po
+_Date,874,_Ụbọchị,875,epiphany,po/ig.po
+_Page address,882,_Ngosi ebe ihuakwụkwọ,883,epiphany,po/ig.po
+_Pause,902,_Kwụsịtụ,903,epiphany,po/ig.po
+_Resume,906,_Bido,907,epiphany,po/ig.po
+%s\n%s of %s,922,%s\n%s nke %s,925,epiphany,po/ig.po
+Unknown,933,Amaghị,934,epiphany,po/ig.po
+%d download,938,%d Bubata,940,epiphany,po/ig.po
+%d download,938,%d Bubata,941,epiphany,po/ig.po
+download status|Unknown,956,Amaghị,957,epiphany,po/ig.po
+download status|Failed,962,Dara ada,963,epiphany,po/ig.po
+File,966,Faịlụ,967,epiphany,po/ig.po
+Remaining,974,Nke fọrọnụ̄,975,epiphany,po/ig.po
+Blank page,981,Ihuakwụkwọ ghe oghe,982,epiphany,po/ig.po
+Epiphany can't be used now. Mozilla initialization failed.,1011,Agaghị ejinwu Epiphany arụnwu ọrụ ugbua. Mbido Mozilla dara ada.,1012,epiphany,po/ig.po
+autodetectors|Off,1337,Ọpụọla,1338,epiphany,po/ig.po
+automatically detect ... character encodings|Chinese,1343,Chinese,1344,epiphany,po/ig.po
+automatically detect ... character encodings|Simplified Chinese,1349,Simplified Chinese,1350,epiphany,po/ig.po
+automatically detect ... character encodings|Traditional Chinese,1355,Traditional Chinese,1356,epiphany,po/ig.po
+automatically detect ... character encodings|East Asian,1361,East Asian,1362,epiphany,po/ig.po
+automatically detect ... character encodings|Japanese,1367,Japanese,1368,epiphany,po/ig.po
+automatically detect ... character encodings|Korean,1373,Korean,1374,epiphany,po/ig.po
+automatically detect ... character encodings|Russian,1379,Russian,1380,epiphany,po/ig.po
+automatically detect ... character encodings|Universal,1385,Universal,1386,epiphany,po/ig.po
+automatically detect ... character encodings|Ukrainian,1391,Ukrainian,1392,epiphany,po/ig.po
+Unknown (%s),1399,Amaghị (%s),1400,epiphany,po/ig.po
+All,1403,Ha niile,1404,epiphany,po/ig.po
+Others,1407,Ndị ọzọ,1408,epiphany,po/ig.po
+Local files,1411,Faịlụ ndị nkeụlọ,1412,epiphany,po/ig.po
+GConf error:\n  %s,1416,Ndehie GConf:\n  %s,1419,epiphany,po/ig.po
+_Remove from Toolbar,1446,_Wepụ na tulbáà,1447,epiphany,po/ig.po
+Separator,1465,Omenkewa,1466,epiphany,po/ig.po
+All supported types,1469,Ụdị dị ichiiche ákwàdòrò ákwàdó,1470,epiphany,po/ig.po
+Web pages,1473,Ngwaọrụ www,1474,epiphany,po/ig.po
+Images,1477,Inyogo dị ichiiche,1478,epiphany,po/ig.po
+All files,1481,Faịlụ niile,1482,epiphany,po/ig.po
+Could not display help: %s,1533,Agaghị egosinwu enyemaka: %s,1534,epiphany,po/ig.po
+select fonts for|Arabic,1539,Arabic,1540,epiphany,po/ig.po
+select fonts for|Baltic,1545,Baltic,1546,epiphany,po/ig.po
+select fonts for|Central European,1551,Central European,1552,epiphany,po/ig.po
+select fonts for|Cyrillic,1557,Cyrillic,1558,epiphany,po/ig.po
+select fonts for|Devanagari,1563,Devanagari,1564,epiphany,po/ig.po
+select fonts for|Greek,1569,Greek,1570,epiphany,po/ig.po
+select fonts for|Hebrew,1575,Hebrew,1576,epiphany,po/ig.po
+select fonts for|Japanese,1581,Japanese,1582,epiphany,po/ig.po
+select fonts for|Korean,1587,Korean,1588,epiphany,po/ig.po
+select fonts for|Simplified Chinese,1593,Simplified Chinese,1594,epiphany,po/ig.po
+select fonts for|Tamil,1599,Tamil,1600,epiphany,po/ig.po
+select fonts for|Thai,1605,Thai,1606,epiphany,po/ig.po
+select fonts for|Traditional Chinese,1611,Traditional Chinese,1612,epiphany,po/ig.po
+select fonts for|Traditional Chinese (Hong Kong),1617,Traditional Chinese (Hong Kong),1618,epiphany,po/ig.po
+select fonts for|Turkish,1623,Turkish,1624,epiphany,po/ig.po
+select fonts for|Western,1692,Western,1693,epiphany,po/ig.po
+Con_firm password:,1718,Kwe_pụta okwumbanye:,1719,epiphany,po/ig.po
+Password quality:,1722,Kwọliti okwumbanye:,1723,epiphany,po/ig.po
+Popup Windows,1739,Pọpọp Windos,1740,epiphany,po/ig.po
+History,1743,Agụgụala,1744,epiphany,po/ig.po
+Bookmark,1749,Búùkmáàkị̀,1750,epiphany,po/ig.po
+Bookmarks,1755,Búùkmáàks,1756,epiphany,po/ig.po
+Address Entry,1759,Ebe ntinye ngosi ebe,1760,epiphany,po/ig.po
+_Download,1763,_Budata,1764,epiphany,po/ig.po
+Drag and drop this icon to create a link to this page,1839,Dọọ ma tọgbọ aịkọn a ka o kewapụta ụzọ njikọ n'ihuakwụkwọ a,1840,epiphany,po/ig.po
+_Title:,1881,_Isiokwu:,1882,epiphany,po/ig.po
+Search the web,1903,Chọgharịa na wéèbụ̀,1904,epiphany,po/ig.po
+http://www.google.com/search?q=%s&ie=UTF-8&oe=UTF-8,1908,http://www.google.co.uk/search?q=%s&ie=UTF-8&oe=UTF-8,1909,epiphany,po/ig.po
+Entertainment,1912,Ọbian̄ụrị,1913,epiphany,po/ig.po
+News,1916,Ozi,1917,epiphany,po/ig.po
+Shopping,1920,Ịzụ ahịa,1921,epiphany,po/ig.po
+Sports,1924,Egwuregwu,1925,epiphany,po/ig.po
+Travel,1928,Njem,1929,epiphany,po/ig.po
+Work,1932,Ọrụ,1933,epiphany,po/ig.po
+_Don't Update,1948,_Etinyekwala ọzị ọfụụ,1949,epiphany,po/ig.po
+_Update,1952,_Mee ka ọ dị ọfụụ,1953,epiphany,po/ig.po
+Update Bookmark?,1956,Tinye ozi ọfụụ na Búùkmáàkị̀?,1957,epiphany,po/ig.po
+bookmarks|All,1964,Ha niile,1965,epiphany,po/ig.po
+bookmarks|Most Visited,1972,Nke á kà banye,1973,epiphany,po/ig.po
+bookmarks|Not Categorized,1981,Ahazighi ya,1982,epiphany,po/ig.po
+Untitled,1996,Na-enweghị isiokwu,1997,epiphany,po/ig.po
+_File,2015,_Faịlụ,2016,epiphany,po/ig.po
+_Edit,2020,_Dezie,2021,epiphany,po/ig.po
+_View,2025,_Gosi,2026,epiphany,po/ig.po
+_Help,2030,_Nyeaka,2031,epiphany,po/ig.po
+_New Topic,2035,_Isiokwu ọfụụ,2036,epiphany,po/ig.po
+Create a new topic,2039,Kewapụta isiokwu ọfụụ,2040,epiphany,po/ig.po
+Open in New _Window,2048,Mepee na Windo _ọfụụ,2050,epiphany,po/ig.po
+Open in New _Window,2048,Mepee na Windo _ọfụụ,2051,epiphany,po/ig.po
+Open the selected bookmark in a new window,2054,Mepee búùkmáàkị̀ nke ahụ a họọrọ na windo ọfụụ,2055,epiphany,po/ig.po
+Open in New _Tab,2062,Mepee na Táàbụ̀ _ọfụụ,2064,epiphany,po/ig.po
+Open in New _Tab,2062,Mepee na Táàbụ̀ _ọfụụ,2065,epiphany,po/ig.po
+Open the selected bookmark in a new tab,2068,Mepee búùkmáàkị̀ nke ahụ a họọrọ na táàbụ̀ ọfụụ,2069,epiphany,po/ig.po
+Rename the selected bookmark or topic,2077,Bagharịa aha búùkmáàkị̀ mọọbụ isiokwu nke ahụ a họọrọ,2078,epiphany,po/ig.po
+_Properties,2083,_Ngwaọrụ,2084,epiphany,po/ig.po
+View or modify the properties of the selected bookmark,2087,Gosi mọọbụ megharịa ngwaọrụ nke búùkmáàkị̀ nke a họọrọ,2088,epiphany,po/ig.po
+Import bookmarks from another browser or a bookmarks file,2096,Bubata Búùkmáàks site n'omenchọgharị ọzọ mọọbụ faịlụ búùkmáàks,2097,epiphany,po/ig.po
+Export bookmarks to a file,2105,Bupụ búùkmáàks̀ na faịlụ,2106,epiphany,po/ig.po
+_Close,2110,_Mechie,2111,epiphany,po/ig.po
+Close the bookmarks window,2114,Mechie windo búùkmáàks,2115,epiphany,po/ig.po
+Cu_t,2120,Wep_ụ,2121,epiphany,po/ig.po
+Cut the selection,2125,Wepụ ihenhọrọ ahụ,2126,epiphany,po/ig.po
+_Copy,2132,_Debata,2133,epiphany,po/ig.po
+Copy the selection,2137,Debata ihenhọrọ ahụ,2138,epiphany,po/ig.po
+_Paste,2142,_Mapanye,2143,epiphany,po/ig.po
+Paste the clipboard,2147,Mapanye òchékwáōzím̀gbèńtà,2148,epiphany,po/ig.po
+_Delete,2152,_Hichaa,2153,epiphany,po/ig.po
+Delete the selected bookmark or topic,2156,Hichaa búùkmáàkị̀ mọọbụ isiokwu ahụ a họọrọ,2157,epiphany,po/ig.po
+Select _All,2161,Họrọ ha _niile,2162,epiphany,po/ig.po
+Select all bookmarks or text,2165,Họrọ búùkmáàks niile mọọbụ ngwe,2166,epiphany,po/ig.po
+_Contents,2172,_Ndịna,2173,epiphany,po/ig.po
+Display bookmarks help,2176,Gosipụta Nnyemaka búùkmáàks,2177,epiphany,po/ig.po
+_About,2181,_Maka,2182,epiphany,po/ig.po
+Display credits for the web browser creators,2186,Gosipụta kredíìtì maka ndị nkewapụta omenchọgharị wéèbụ̀,2187,epiphany,po/ig.po
+_Title,2202,_Isiokwu,2203,epiphany,po/ig.po
+Show only the title column,2206,Gosi sọsọ mpagharaogologo isiokwu,2207,epiphany,po/ig.po
+T_itle and Address,2210,I_siokwu na Ngosi ebe,2211,epiphany,po/ig.po
+Show both the title and address columns,2214,Gosi ma isiokwu ma mpagharaogologo ngosi ebe,2215,epiphany,po/ig.po
+Type a topic,2218,Pịpụta isiokwu,2219,epiphany,po/ig.po
+Delete this topic?,2227,Hichaa isiokwu a?,2228,epiphany,po/ig.po
+"Deleting this topic will cause all its bookmarks to become uncategorized, unless they also belong to other topics. The bookmarks will not be deleted.",2231,"Nhicha isiokwu a ga-eme ka búùkmáàks ya niile dị agharata, bèélụ́ sọ̀ na ha a nọkwa n'isiokwu ndị ọzọ. Agaghị ehicha búùkmáàks ndị ahụ.",2234,epiphany,po/ig.po
+_Delete Topic,2239,_Hichaa Isiokwu,2240,epiphany,po/ig.po
+Import failed,2268,Mbubata dara ada,2269,epiphany,po/ig.po
+Import Failed,2272,Mbubata dara ada,2273,epiphany,po/ig.po
+Firefox/Mozilla bookmarks,2290,Búùkmáàks Firefox/Mozilla,2291,epiphany,po/ig.po
+Galeon/Konqueror bookmarks,2294,Búùkmáàks Galeon/Konqueror,2295,epiphany,po/ig.po
+Epiphany bookmarks,2298,Búùkmáàks Epiphany,2299,epiphany,po/ig.po
+Export Bookmarks,2302,Bupụ Búùkmáàks,2303,epiphany,po/ig.po
+Import Bookmarks,2312,Bubata Búùkmáàks,2313,epiphany,po/ig.po
+I_mport,2316,B_ubata,2317,epiphany,po/ig.po
+Import bookmarks from:,2320,Bubata búùkmáàks site na:,2321,epiphany,po/ig.po
+_Copy Address,2325,_Debata Ngosi ebe,2326,epiphany,po/ig.po
+_Search:,2330,_Chọgharịa:,2331,epiphany,po/ig.po
+Topics,2334,Isiokwu,2335,epiphany,po/ig.po
+Title,2339,Isiokwu,2340,epiphany,po/ig.po
+Address,2344,Ngosi ebe,2345,epiphany,po/ig.po
+Encodings,2389,Ndenye kóòdù,2390,epiphany,po/ig.po
+Other encodings,2398,Ndenye kóòdù ndị ọzọ,2399,epiphany,po/ig.po
+_Automatic,2402,_Ọrụ nkeonwe,2403,epiphany,po/ig.po
+Leave Fullscreen,2453,Hapụ njupụta inyogo,2454,epiphany,po/ig.po
+Go,2457,Gàá,2458,epiphany,po/ig.po
+Open the selected history link in a new window,2461,Mepee nhọrọ nke agụgụala ụzọ njikọ na windo ọfụụ,2462,epiphany,po/ig.po
+Open the selected history link in a new tab,2465,Mepee nhọrọ nke agụgụala ụzọ njikọ na táàbụ̀ ọfụụ,2466,epiphany,po/ig.po
+Bookmark the selected history link,2474,Búùkmáàkị̀á nhọrọ nke agụgụala ụzọ njikọ,2475,epiphany,po/ig.po
+Close the history window,2478,Mechie windo agụgụala,2479,epiphany,po/ig.po
+Delete the selected history link,2482,Hichaa nhọrọ nke agụgụala ụzọ njikọ,2483,epiphany,po/ig.po
+Select all history links or text,2486,Họrọ ụzọ njikọ agụgụala niile mọọbụ ngwe,2487,epiphany,po/ig.po
+Clear _History,2490,Wepụ _Agụgụala,2491,epiphany,po/ig.po
+Clear your browsing history,2494,Wepụ nchọgharị agụgụala gị,2495,epiphany,po/ig.po
+Display history help,2498,Gosipụta nnyemaka agụgụala,2499,epiphany,po/ig.po
+_Address,2507,_Ngosi ebe,2508,epiphany,po/ig.po
+Clear browsing history?,2525,Wepụ nchọgharị agụgụala?,2526,epiphany,po/ig.po
+Clearing the browsing history will cause all history links to be permanently deleted.,2529,Nwepụ nchọgharị agụgụala ga-eme ka ụzọ njikọ agụgụala hicha kpam kpam.,2532,epiphany,po/ig.po
+Clear History,2535,Wepụ Agụgụala,2536,epiphany,po/ig.po
+Today,2544,Táà,2545,epiphany,po/ig.po
+Last %d day,2551,Ụbọchị %d ikpeazụ,2553,epiphany,po/ig.po
+Last %d day,2551,Ụbọchị %d ikpeazụ,2554,epiphany,po/ig.po
+Sites,2557,Saịtị dị ichiiche,2558,epiphany,po/ig.po
+Launch the bookmarks editor,2581,Bubata odezi búùkmáàks,2582,epiphany,po/ig.po
+Import bookmarks from the given file,2585,Bubata búùkmáàks site na faịlụ enyere,2586,epiphany,po/ig.po
+FILE,2589,FAỊLỤ,2590,epiphany,po/ig.po
+Load the given session file,2593,Debata faịlụ seshiọn enyere,2594,epiphany,po/ig.po
+Close tab,2639,Mechie táàbụ̀,2640,epiphany,po/ig.po
+Recover previous browser windows and tabs?,2670,Nweta táàbs na windo omenchọgharị ochie?,2671,epiphany,po/ig.po
+Epiphany appears to have exited unexpectedly the last time it was run. You can recover the opened windows and tabs.,2674,Epiphany na-egosi dịka ọpụọla na-amaghị ama n'oge ikpeazu arụrụ ọrụ na ya. Inwere ike inweta windo ndị ahụ mepere emepe nakwa táàbs.,2677,epiphany,po/ig.po
+_Don't Recover,2682,_Enwetakwaláà,2683,epiphany,po/ig.po
+_Recover,2686,_Nweta,2687,epiphany,po/ig.po
+Crash Recovery,2690,Nnweta nkwụsị ọrụ ozugbo,2691,epiphany,po/ig.po
+Sidebar extension required,2694,Achọrọ mgbatịkwu saịdbáà,2695,epiphany,po/ig.po
+Sidebar Extension Required,2698,Achọrọ Mgbatịkwu Saịdbáà,2699,epiphany,po/ig.po
+The link you clicked needs the sidebar extension to be installed.,2702,Ụzọ njikọ ahụ ịpịrị chọrọ ka ewunye mgbatịkwu saịdbáà.,2703,epiphany,po/ig.po
+Switch to this tab,2717,Banye na táàbụ́ a,2718,epiphany,po/ig.po
+_Back,2721,_Azụ,2722,epiphany,po/ig.po
+Go to the previous visited page,2725,Gaa n'ihuakwụkwọ nke ochie abanyegorola,2726,epiphany,po/ig.po
+Back history,2732,Azụ agụgụala,2733,epiphany,po/ig.po
+_Forward,2736,_Ihu,2737,epiphany,po/ig.po
+Go to the next visited page,2740,Gaa n'ihuakwụkwọ nke ọzọ abanyegorola,2741,epiphany,po/ig.po
+Forward history,2747,Ihu agụgụala,2748,epiphany,po/ig.po
+_Up,2751,_Elu,2752,epiphany,po/ig.po
+Go up one level,2755,Gàá n'elu otu ógō,2756,epiphany,po/ig.po
+List of upper levels,2762,Ndesịta nke ógó elu,2763,epiphany,po/ig.po
+Zoom,2773,Zum,2774,epiphany,po/ig.po
+Adjust the text size,2777,Webilata ụhara ngwe ahụ,2778,epiphany,po/ig.po
+Go to the address entered in the address entry,2781,Gàá ná ngosi ebe ahụ etinyere na mbanye ngosi ebe,2782,epiphany,po/ig.po
+_Home,2785,_Ụlọ,2786,epiphany,po/ig.po
+Go to the home page,2789,Gaa n'ihu inyogo,2790,epiphany,po/ig.po
+New _Tab,2793,Táàbụ̀ _ọfụụ,2794,epiphany,po/ig.po
+Open a new tab,2797,Mepee táàbụ̀ ọfụụ,2798,epiphany,po/ig.po
+_New Window,2801,_Windo ọfụụ,2802,epiphany,po/ig.po
+Open a new window,2805,Mepee windo ọfụụ,2806,epiphany,po/ig.po
+toolbar style|Default,2811,Difọ́ọ̀ltụ̀,2812,epiphany,po/ig.po
+Toolbar Editor,2835,Odezi Tulbáà,2836,epiphany,po/ig.po
+Toolbar _button labels:,2840,Ntipanyegasị bọtịn _Tulbáà:,2841,epiphany,po/ig.po
+_Add a New Toolbar,2844,_Tinye Tulbáà ọfụụ,2845,epiphany,po/ig.po
+_Bookmarks,2848,_Búùkmáàks,2849,epiphany,po/ig.po
+_Go,2852,_Gàá,2853,epiphany,po/ig.po
+T_ools,2856,N_gwaọrụ,2857,epiphany,po/ig.po
+_Tabs,2860,_Táàbs,2861,epiphany,po/ig.po
+Open a file,2875,Mepee faịlụ,2876,epiphany,po/ig.po
+Save the current page,2884,Chekwaa ihuakwụkwọ nke ọfụụ,2885,epiphany,po/ig.po
+Setup the page settings for printing,2893,Rụnye nhazi ihuakwụkwọ ahụ maka mbipụta,2894,epiphany,po/ig.po
+Print Pre_view,2897,Bipụta ebe n_gosi ihe,2898,epiphany,po/ig.po
+Print preview,2901,Bipụta ebe ngosi ihe,2902,epiphany,po/ig.po
+Print the current page,2910,Bipụta ihuakwụkwọ nke ọfụụ,2911,epiphany,po/ig.po
+Send a link of the current page,2918,Ziga ụzọ njikọ nke ihuakwụkwọ ọfụụ,2919,epiphany,po/ig.po
+Close this tab,2922,Mechie táàbụ a,2923,epiphany,po/ig.po
+_Undo,2927,_Wepụtagharịa,2928,epiphany,po/ig.po
+Undo the last action,2931,Wepụtagharịa mmem ikpeazụ,2932,epiphany,po/ig.po
+Re_do,2935,Me_gharịa,2936,epiphany,po/ig.po
+Redo the last undone action,2939,Megharịa mmem ikpeazụ ewepụtagharịrị,2940,epiphany,po/ig.po
+Paste clipboard,2943,Mapanye òchékwáōzím̀gbèńtà,2944,epiphany,po/ig.po
+Select the entire page,2952,Họrọ ihuakwukwọ niile ahụ,2953,epiphany,po/ig.po
+Find a word or phrase in the page,2961,Chọ̀ọ́ mkpụrụokwu mọọbụ nkebiokwu n'ihuakwụkwọ ahụ,2962,epiphany,po/ig.po
+Find Ne_xt,2965,Chọ̀ọ́ nke ọz_ọ,2966,epiphany,po/ig.po
+Find next occurrence of the word or phrase,2969,Chọ̀ọ́ nke ọzọ pụtaranụ̄ nke mkpụrụokwu mọọbụ nkebiokwu,2970,epiphany,po/ig.po
+Find Pre_vious,2973,Chọ̀ọ́ nke o_chie,2974,epiphany,po/ig.po
+Find previous occurrence of the word or phrase,2977,Chọ̀ọ́ mpụta nke ochie nke mkpụrụokwu mọọbụ nkebiokwu,2978,epiphany,po/ig.po
+P_ersonal Data,2981,D_ata nkeonwe,2982,epiphany,po/ig.po
+View and remove cookies and passwords,2985,Gosi ma wepụ kukììs na okwumbanye,2986,epiphany,po/ig.po
+P_references,2999,N_karachọ,3000,epiphany,po/ig.po
+Configure the web browser,3003,Hazipụta omenchọgharị wéèbụ̀,3004,epiphany,po/ig.po
+Customize toolbars,3013,Tulbáàzị̀ emeredịkachọrọ,3014,epiphany,po/ig.po
+_Stop,3017,_Kwụsị,3018,epiphany,po/ig.po
+Stop current data transfer,3021,Kwụsị mbufe data ọfụụ,3022,epiphany,po/ig.po
+_Reload,3025,_Debatagharịa,3026,epiphany,po/ig.po
+Display the latest content of the current page,3029,Gosipụta ndịna nke ọfụụ nke ihuakwụkwọ ọfụụ,3030,epiphany,po/ig.po
+Increase the text size,3037,Bawanye ụhara ngwe ahụ,3038,epiphany,po/ig.po
+Decrease the text size,3045,Webilata ụhara ngwe ahụ,3046,epiphany,po/ig.po
+_Normal Size,3049,_Ụhara kwesịrịnụ̄,3050,epiphany,po/ig.po
+Use the normal text size,3053,Jiri ụhara ngwe kwesịrịnụ̄,3054,epiphany,po/ig.po
+Text _Encoding,3057,Ndenye _kóòdù ngwe,3058,epiphany,po/ig.po
+Change the text encoding,3061,Gbanwe ndenye kóòdù ngwe ahụ,3062,epiphany,po/ig.po
+_Page Source,3065,_Ebensinweta ihuakwụkwọ,3066,epiphany,po/ig.po
+View the source code of the page,3069,Gosi okwunzobe ebensinweta nke ihuakwụkwọ,3070,epiphany,po/ig.po
+Add a bookmark for the current page,3089,Tinye búùkmáàkị̀ maka ihuakwụkwọ ọfụụ,3090,epiphany,po/ig.po
+_Edit Bookmarks,3093,_Dezie Búùkmáàks,3094,epiphany,po/ig.po
+Open the bookmarks window,3097,Mepee windo búùkmáàks,3098,epiphany,po/ig.po
+Go to a specified location,3107,Gaa n'ebe ezipụtarala,3108,epiphany,po/ig.po
+Open the history window,3117,Mepee windo agụgụala ahụ,3118,epiphany,po/ig.po
+_Previous Tab,3122,_Táàbụ̀ ochie,3123,epiphany,po/ig.po
+Activate previous tab,3126,Mèé ka táàbụ̀ ochie rụwa ọrụ,3127,epiphany,po/ig.po
+_Next Tab,3130,_Táàbụ̀ ọzọ,3131,epiphany,po/ig.po
+Activate next tab,3134,Mèé ka táàbụ̀ nke ọzọ rụwa ọrụ,3135,epiphany,po/ig.po
+Move Tab _Left,3138,Kpụga na táàbụ̀ _akaekpe,3139,epiphany,po/ig.po
+Move current tab to left,3142,Kpụga táàbụ̀ ọfụụ n'akaekpe,3143,epiphany,po/ig.po
+Move Tab _Right,3146,Kpụga táàbụ̀ _n'akanri,3147,epiphany,po/ig.po
+Move current tab to right,3150,Kpụga táàbụ̀ ọfụụ n'akanri,3151,epiphany,po/ig.po
+_Detach Tab,3154,_Kepụta táàbụ̀,3155,epiphany,po/ig.po
+Detach current tab,3158,Kepụta táàbụ̀ ọfụụ,3159,epiphany,po/ig.po
+Display web browser help,3162,Gosipụta nnyemaka omenchọgharị wéèbụ̀,3163,epiphany,po/ig.po
+_Work Offline,3167,_Ọrụ pụrụ n'eririikukumgbasaozi,3168,epiphany,po/ig.po
+Show or hide toolbar,3182,Gosi mọọbụ zòó tulbáà,3183,epiphany,po/ig.po
+St_atusbar,3186,st_atusbáà,3187,epiphany,po/ig.po
+Show or hide statusbar,3190,Gosi mọọbụ zòó statusbáà,3191,epiphany,po/ig.po
+_Fullscreen,3194,_Njupụta inyogo,3195,epiphany,po/ig.po
+Browse at full screen,3198,Chọgharịa na njupụta inyogo,3199,epiphany,po/ig.po
+Popup _Windows,3202,Pọpọp _Windos,3203,epiphany,po/ig.po
+Show or hide unrequested popup windows from this site,3206,Gosi mọọbụ zòó windos ndị a na-achọghị site na saịtị a,3207,epiphany,po/ig.po
+Selection Caret,3210,Nhọrọ Káréètị̀,3211,epiphany,po/ig.po
+Show only this frame in this window,3226,Gosi sọsọ fréèmù a na windo a,3227,epiphany,po/ig.po
+_Open Link,3231,_Mepee ụzọ njikọ,3232,epiphany,po/ig.po
+Open link in this window,3235,Mepee ụzọ njikọ na windo a,3236,epiphany,po/ig.po
+Open Link in New _Window,3239,Mepee ụzọ njikọ na _windo ọfụụ a,3240,epiphany,po/ig.po
+Open link in a new window,3243,Mepee ụzọ njikọ na windo ọfụụ,3244,epiphany,po/ig.po
+Open Link in New _Tab,3247,Mepee ụzọ njikọ na _táàbụ̀ ọfụụ,3248,epiphany,po/ig.po
+Open link in a new tab,3251,Mepee ụzọ njikọ na _táàbụ̀ ọfụụ,3252,epiphany,po/ig.po
+_Download Link,3255,_Bubata ụzọ njikọ,3256,epiphany,po/ig.po
+Save link with a different name,3264,Jiri aha ọzọ chekwaa ụzọ njikọ,3265,epiphany,po/ig.po
+_Copy Link Address,3273,_Debata ngosi ebe ụzọ njikọ,3274,epiphany,po/ig.po
+_Copy Email Address,3284,_Debata ngosi ebe imeelụ,3285,epiphany,po/ig.po
+Open _Image,3289,Mepee _inyogo,3290,epiphany,po/ig.po
+_Use Image As Background,3298,_Jiri inyogo dịka Okpuru,3299,epiphany,po/ig.po
+Copy I_mage Address,3302,Debata ngosi ebe i_nyogo,3303,epiphany,po/ig.po
+There are unsubmitted changes to form elements,3314,Enwere mgbanwe a na-enyeghị na fọm elementị,3315,epiphany,po/ig.po
+"If you close the document anyway, you will lose that information.",3318,"Ọ bụrụ na imechie dọkumenti ebe ọbụla, ozi ahụ ga-efunahụ gị.",3319,epiphany,po/ig.po
+Close _Document,3322,Mechie _Dọkumentị,3323,epiphany,po/ig.po
+Open,3326,Mepee,3327,epiphany,po/ig.po
+Save As,3330,Chekwaa dịka,3331,epiphany,po/ig.po
+Print,3334,Bipụta,3335,epiphany,po/ig.po
+Find,3338,Chọ̀ọ́,3339,epiphany,po/ig.po
+Insecure,3352,Echekwaghị,3353,epiphany,po/ig.po
+Broken,3356,Mmebi,3357,epiphany,po/ig.po
+Low,3360,Dị ala,3361,epiphany,po/ig.po
+High,3364,Elu,3365,epiphany,po/ig.po
+Security level: %s,3369,Ógó nchekwa: %s,3370,epiphany,po/ig.po
+%d hidden popup window,3374,%d Pọpọp windo zoro ezo,3376,epiphany,po/ig.po
+%d hidden popup window,3374,%d Pọpọp windo ndị zoro ezo,3377,epiphany,po/ig.po
+Cookie Properties,3465,Ngwaọrụ Kukiis,3466,epiphany,po/ig.po
+Content:,3469,Ndịna:,3470,epiphany,po/ig.po
+Path:,3473,Ọdịdị faịlụ:,3474,epiphany,po/ig.po
+Send for:,3477,Ziga maka:,3478,epiphany,po/ig.po
+Encrypted connections only,3481,Nsụnye enkriptéèdì sọsọ,3482,epiphany,po/ig.po
+Any type of connection,3485,Ụdị nsụnye nke ọbụla,3486,epiphany,po/ig.po
+Expires:,3489,Oge efeela:,3490,epiphany,po/ig.po
+End of current session,3493,Ngwụcha seshiọn ọfụụ,3494,epiphany,po/ig.po
+Domain,3497,Doméènù,3498,epiphany,po/ig.po
+Name,3501,Aha,3502,epiphany,po/ig.po
+Host,3505,Obuteikukuozi,3506,epiphany,po/ig.po
+User Name,3509,Aha Ojieme,3510,epiphany,po/ig.po
+Download Link,3518,Bubata ụzọ njikọ,3519,epiphany,po/ig.po
+Save Link As,3522,Chekwaa ụzọ njikọ dịka,3523,epiphany,po/ig.po
+Save Image As,3526,Chekwaa inyogo dịka...,3527,epiphany,po/ig.po
+First,3530,Nke mbụ,3531,epiphany,po/ig.po
+Go to the first page,3534,Gàá n'ihuakwụkwọ nke mbụ,3535,epiphany,po/ig.po
+Last,3538,Nke ikpeazụ,3539,epiphany,po/ig.po
+Go to the last page,3542,Gaa n'ihuakwụkwọ nke ikpeazụ,3543,epiphany,po/ig.po
+Previous,3546,Nke ochie,3547,epiphany,po/ig.po
+Go to the previous page,3550,Gaa n'ihuakwụkwọ nke ochie,3551,epiphany,po/ig.po
+Next,3554,Ọzọ,3555,epiphany,po/ig.po
+Go to next page,3558,Gaa n'ihuakwụkwọ nke ọzọ,3559,epiphany,po/ig.po
+Close,3562,Machie,3563,epiphany,po/ig.po
+Close print preview,3566,Mechie mbipụta ebe ngosi ihe,3567,epiphany,po/ig.po
+language|%s (%s),3579,%s (%s),3580,epiphany,po/ig.po
+language|User defined (%s),3589,Akọwara ojieme(%s),3590,epiphany,po/ig.po
+System language (%s),3594,Asụsụ Sistem (%s),3596,epiphany,po/ig.po
+System language (%s),3594,Asụsụ Sistem dịgasị ichiiche (%s),3597,epiphany,po/ig.po
+Multimedia menu,17,Mọltimidia menu,18,gnome-menus,po/ig.po
+Sound & Video,21,Ụda na Vidio,22,gnome-menus,po/ig.po
+Programming,25,Programịn,26,gnome-menus,po/ig.po
+Tools for software development,29,Ngwaọrụ maka ntolite Sọftwịa,30,gnome-menus,po/ig.po
+Education,33,Ọmụmụ,34,gnome-menus,po/ig.po
+Games,37,Egwuregwu,38,gnome-menus,po/ig.po
+Games and amusements,41,Egwuregwu na obiụtọ,42,gnome-menus,po/ig.po
+Graphics,45,Nsepụtainyogo,46,gnome-menus,po/ig.po
+Graphics applications,49,Usoro iheomume nsepụtainyogo,50,gnome-menus,po/ig.po
+Internet,77,Ịntaneetị,78,gnome-menus,po/ig.po
+Programs for Internet access such as web and email,81,Program maka ikikembanye ịntaneetị dịka web na Imeelụ,82,gnome-menus,po/ig.po
+Office,85,Ụlọọrụ,86,gnome-menus,po/ig.po
+Office Applications,89,Usoro iheomume ụlọọrụ,90,gnome-menus,po/ig.po
+Administration,102,Nhazi ,103,gnome-menus,po/ig.po
+Personal preferences,111,Nkarachọ nkeonwe,112,gnome-menus,po/ig.po
+Preferences,115,Nkarachọ,116,gnome-menus,po/ig.po
+System Tools,129,Ngwaọrụ sistem,130,gnome-menus,po/ig.po
+System configuration and monitoring,133,Nhazi na ilereanya nke sistem,134,gnome-menus,po/ig.po
+Accessories,146,Nnyemaka ngwaọrụ,147,gnome-menus,po/ig.po
+Desktop accessories,150,Nnyemaka ngwaọrụ Desktọọpụ,151,gnome-menus,po/ig.po
+Applications,154,Usoro ihe omume,155,gnome-menus,po/ig.po
+Personal preferences and administration settings,158,Nkarachọ nkeonwe na ọdịdị Nhazi ,159,gnome-menus,po/ig.po
+Applications that did not fit in other categories,162,Usoro iheomume na-abanyeghị n'ọ́nụ́ ndị ọzọ,163,gnome-menus,po/ig.po
+Other,166,Ọzọ,167,gnome-menus,po/ig.po
+Menu Editor,170,Odezi menu,171,gnome-menus,po/ig.po
+Edit Menus,174,Dezie menu,175,gnome-menus,po/ig.po
+_Applications:,178,_Usoro iheomume:,179,gnome-menus,po/ig.po
+_Defaults,182,_Difọọltụ,183,gnome-menus,po/ig.po
+_Menus:,186,_Menus,187,gnome-menus,po/ig.po
+Name,191,Aha,192,gnome-menus,po/ig.po
+Show,195,Gosi,196,gnome-menus,po/ig.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,199,Achọtaghịnwu ihenlereanya keụlọ: Ekpokọtaghị ya na /dgz/okwumbanye na nke na-abaghị uru maka ụlọ $HOME,202,gnome-menus,po/ig.po
+Menu file,207,Faịlụ menu,208,gnome-menus,po/ig.po
+MENU_FILE,211,MENU_FAỊLỤ,212,gnome-menus,po/ig.po
+Monitor for menu changes,215,Inyogo maka mgbanwe menu,216,gnome-menus,po/ig.po
+Include <Exclude>d entries,219,Gbakwunye <Exclude>mbanye ahụ,220,gnome-menus,po/ig.po
+Invalid desktop file ID,228,Desktọọpụ Faịlụ ID na-enweghị isi,229,gnome-menus,po/ig.po
+[Invalid Filename],232,[Ahịrịnkọwa faịlụ na-enweghị isi],233,gnome-menus,po/ig.po
+ <excluded>,236,<excluded>,237,gnome-menus,po/ig.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",241,"\n\n\n====ọtụtụ gbanwere, bubatagharịa ====\n\n\n",248,gnome-menus,po/ig.po
+Menu tree is empty,257,Osisi Menu ghe oghe,258,gnome-menus,po/ig.po
+- test GNOME's implementation of the Desktop Menu Specification,261,- Nnwale GNOME Nwepụta nke Desktọọpụ nzipụta menu,262,gnome-menus,po/ig.po
+Add Startup Program,22,Tinye mbido program,23,gnome-session,po/ig.po
+Edit Startup Program,26,Dezie mbido program,27,gnome-session,po/ig.po
+The startup command cannot be empty,39,Mbido iwu ahụ agaghị eghenwu oghe,40,gnome-session,po/ig.po
+"If enabled, gnome-session will prompt the user before ending a session.",104,"Ọ bụrụ na a hapụrụ ya, gnome-session ga-agwa ojieme mgbe ọ ga-anabata ozi tupuu a na-akwụsị oge mmem.",105,gnome-session,po/ig.po
+"If enabled, gnome-session will save the session automatically. Otherwise, the logout dialog will have an option to save the session.",110,"Ọ bụrụ na a hụpụrụ ya, gnome menu ga-echekwa oge mmem ahụ na nkeonwe ya, dayalọọgụ mpụta ahụ ga-enwe nhọrọ ịchekwa oge mmem ahụ.",113,gnome-session,po/ig.po
+Logout prompt,132,Ọ̀gwá mgbe ọ̀pụ̀pụ́,133,gnome-session,po/ig.po
+Preferred Image to use for login splash screen,141,Inyogo nke a kara chọọ a ga-eji maka mbanye inyogo ngosi ndubanye ,142,gnome-session,po/ig.po
+Save sessions,149,Chekwaa oge mmem,150,gnome-session,po/ig.po
+Show the splash screen,157,Gosi inyogo ngosi ndubanye,158,gnome-session,po/ig.po
+Show the splash screen when the session starts up,161,Gosi inyogo ngosi ndubanye mgbe oge mmem na-ebido,162,gnome-session,po/ig.po
+This is a relative path value based off the $datadir/pixmaps/ directory. Sub-directories and image names are valid values. Changing this value will effect the next session login.,188,Nke a bụ nyiri ụzọ valiu kwụpụrụ n'ihenlereanya nke $datadir/pixmaps/. Ihenlereanya-keobere na aha inyogo bụ valiu nkeisi. Ịgbanwe valui a ga-emetụta mbata oge mmem n'esonụ̄.,192,gnome-session,po/ig.po
+Window Manager,209,Onyenlekọta Windo ,210,gnome-session,po/ig.po
+Configure your sessions,224,Hazie ogemmem gị,225,gnome-session,po/ig.po
+Sessions,228,Ogemmem,229,gnome-session,po/ig.po
+Additional startup _programs:,232,Mgbakwunye mbido _programs:,233,gnome-session,po/ig.po
+Startup Programs,255,Mbido Programs,256,gnome-session,po/ig.po
+Unknown,350,Amaghị,351,gnome-session,po/ig.po
+Kill session,542,Gbuo oge mmem,543,gnome-session,po/ig.po
+Could not connect to the session manager,555,Enweghị ike isụnye n'onyenlekọta oge mmem,556,gnome-session,po/ig.po
+"Could not parse \""%s\"" as an integer",34,"Enweghị ike ịtọsasị \""%s\"" dịka ịntiga",35,mutter,po/ig.po
+"Did not understand trailing characters \""%s\"" in string \""%s\""",41,"Aghọtaghị ǹsòchọ̀ mkpụrụokwu \""%s\"" n'ahịrịokwu \""%s\""",42,mutter,po/ig.po
+"Failed to parse message \""%s\"" from dialog process\n",46,"Ọdịda n'ịtọsasị ozi \""%s\""site n'usoro dayalọ́ọ̀gụ̀\n",47,mutter,po/ig.po
+Error reading from dialog display process: %s\n,51,Nwepụta ndehie site n'usoro ngosi dayalọ́ògụ̀: %s\n,52,mutter,po/ig.po
+Error launching metacity-dialog to ask about killing an application: %s\n,56,Mbubata ndehie nke metacity-dayalọ́ọ̀gụ̀ ka a jụọ maka mmebi usoroiheomume: %s\n,58,mutter,po/ig.po
+Failed to get hostname: %s\n,63,Ọdịda nweta aha nnyere kọmputa: %s\n,64,mutter,po/ig.po
+Failed to open X Window System display '%s'\n,73,Ọdịda n'imepe X Windo sistem ngosi '%s'\n,74,mutter,po/ig.po
+Lost connection to the display '%s';\nmost likely the X server was shut down or you killed/destroyed\nthe window manager.\n,78,Anataghị mbanye ikuku ka egosi '%s';\nnke kacha nke a gbanyụrụ X server mọọbụ i mebie/mebisia\nonyenlekọta windo.\n,82,mutter,po/ig.po
+Fatal IO error %d (%s) on display '%s'.\n,89,Ndehie IO nwere ike ibute nsogbu %d (%s) na ngosi '%s'.\n,90,mutter,po/ig.po
+Some other program is already using the key %s with modifiers %x as a binding\n,94,Ụfọdụ program ndị ọzọ ejiwela kíì %s ya na omemmegharị %x dịka baịndịn\n,97,mutter,po/ig.po
+No command %d has been defined.\n,115,Onweghị ntiiwu %d akọwarala.\n,116,mutter,po/ig.po
+No terminal command has been defined.\n,120,Onweghị ntiiwu ngwaọrụ mbubata na mbupụ ozi akọwarala.\n,121,mutter,po/ig.po
+Failed to scan themes directory: %s\n,176,Ọdịda nke ị skáànụ̀ isiokwu ihenlereanya: %s\n,177,mutter,po/ig.po
+Failed to restart: %s\n,189,Ọdịda n'ibidogharị: %s\n,190,mutter,po/ig.po
+GConf key '%s' is set to an invalid value\n,205,Kíì GConf '%s' ka ekpokọtara n'uru na-enweghị isi\n,206,mutter,po/ig.po
+"GConf key \""%s\"" is set to an invalid type\n",217,"Kíì GCon \""%s\"" ka ekpokọtara n'ụdị enweghị isi\n",218,mutter,po/ig.po
+Workarounds for broken applications disabled. Some applications may not behave properly.\n,221,Rụgharịa maka usoroiheomume mebirila emebi. Ụfọdụ usoroiheomume nwere ike ha agaghị akpa ezi agwa.\n,224,mutter,po/ig.po
+"Could not parse font description \""%s\"" from GConf key %s\n",230,"Agaghị enwenwu ike itọsasị nkọwa ihumkpụrụedemede \""%s\"" site na kíì GCon %s\n",231,mutter,po/ig.po
+"\""%s\"" found in configuration database is not a valid value for mouse button modifier\n",237,"\""%s\"" Enwetara na kọnfịgọreshiọn databéèzì abụghị uru nwere isi maka omemmegharị bọtịn máụ̀sụ̀\n",240,mutter,po/ig.po
+Error setting number of workspaces to %d: %s\n,246,Ndehie na-ahazi ọnụọgụgụ nke wọ́kspéèsì na %d: %s\n,247,mutter,po/ig.po
+Workspace %d,251,Wọ́kspéèsì %d,252,mutter,po/ig.po
+"\""%s\"" found in configuration database is not a valid value for keybinding \""%s\""\n",256,"\""%s\"" enwetara na kọnfịgọreshiọn databéèzì abụghi uru nwere isi maka kíìbaịndịn \""%s\""\n",259,mutter,po/ig.po
+"Error setting name for workspace %d to \""%s\"": %s\n",265,"Ndehie na-ahazi aha maka wọ́kspéèsì %d na\""%s\"": %s\n",266,mutter,po/ig.po
+Screen %d on display '%s' is invalid\n,275,Inyogo %d ná ngosi '%s' enweghị isi\n,276,mutter,po/ig.po
+"Screen %d on display \""%s\"" already has a window manager; try using the --replace option to replace the current window manager.\n",280,"Inyogo %d ná ngosi \""%s\"" ènwéláàrị́ị̀ onyenlekọta windo; nwàá iji ngwaọrụ ihenhọrọ nke --nnọchi ka ọ nọchie onyenlekọta windo nọ nụ̄.\n",283,mutter,po/ig.po
+"Could not acquire window manager selection on screen %d display \""%s\""\n",289,"Agaghị enwenwu ike ịnata nhọrọ onyenlekọta windo na %d ngosi inyogo \""%s\""\n",291,mutter,po/ig.po
+"Screen %d on display \""%s\"" already has a window manager\n",296,"Ngosi %d inyogo \""%s\"" ènwéláàrị́ị̀ onyenlekọta windo\n",297,mutter,po/ig.po
+"Could not release screen %d on display \""%s\""\n",301,"Agaghị ahapụnwu ngosi inyogo %d \""%s\""\n",302,mutter,po/ig.po
+Could not create directory '%s': %s\n,345,Agaghị ekewapụtanwu ihenlereanya '%s': %s\n,346,mutter,po/ig.po
+Could not open session file '%s' for writing: %s\n,350,Agaghị emepenwu oge mmem faịlụ '%s' maka ichekwaozi: %s\n,351,mutter,po/ig.po
+Error writing session file '%s': %s\n,355,Ndehie nchekwaozi oge mmem faịlụ '%s': %s\n,356,mutter,po/ig.po
+Error closing session file '%s': %s\n,360,Ndehie mmechi oge mmem faịlụ '%s': %s\n,361,mutter,po/ig.po
+Failed to read saved session file %s: %s\n,366,Ọdịda n'iwepụtaozi nchekwa oge mmem faịlụ %s: %s\n,367,mutter,po/ig.po
+Failed to parse saved session file: %s\n,371,Ọdịda na ntọsasị nchekwa oge mmem faịlụ: %s\n,372,mutter,po/ig.po
+<metacity_session> attribute seen but we already have the session ID,376,<metacity_session> A hụrụ átrībúùtù mana enwego ID oge mmem,377,mutter,po/ig.po
+nested <window> tag,388,néstéèdì <window> táàgị̀,389,mutter,po/ig.po
+Unknown element %s,393,Elementị a na-amaghị %s,394,mutter,po/ig.po
+Error launching metacity-dialog to warn about apps that don't support session management: %s\n,398,Ndehie na-ebubata metacity-dialog ka ọ dọọ aka na ntị maka apps nke na-anaghị akwado nlekọta oge mmem: %s\n,401,mutter,po/ig.po
+Failed to open debug log: %s\n,407,Ọdịda n'imepe ebe nsogbu sistem; %s\n,408,mutter,po/ig.po
+Failed to fdopen() log file %s: %s\n,412,Ọdịda fdopen() n'ị́lọ̄ọ̀gụ̀ faịlụ %s: %s\n,413,mutter,po/ig.po
+Opened log file %s\n,417,Lọọgụ faịlụ emepere emepe %s\n,418,mutter,po/ig.po
+Metacity was compiled without support for verbose mode\n,422,Atụgharịrị metacity na-enweghị nkwado maka vèbóòsù móòdù\n,423,mutter,po/ig.po
+Window manager: ,426,Onyenlekọta windo:,427,mutter,po/ig.po
+Bug in window manager: ,430,Nsogbu dị̄ n'onyenlekọta windo:,431,mutter,po/ig.po
+Window manager warning: ,434,Onyenlekọta windo na-ama ọkwa:,435,mutter,po/ig.po
+Window manager error: ,438,Ndehie onyenlekọta windo:,439,mutter,po/ig.po
+"Window %s sets SM_CLIENT_ID on itself, instead of on the WM_CLIENT_LEADER window as specified in the ICCCM.\n",451,"Windo %s haziri SM_KLAYANTỊ_ID n'onwe ya, kama nke WM_KLAYANTỊ_LEADER windo dịka ezipụtara ya na ICCCM.\n",454,mutter,po/ig.po
+"Window %s sets an MWM hint indicating it isn't resizable, but sets min size %d x %d and max size %d x %d; this doesn't make much sense.\n",467,"Windo %s haziri hịntị MWM na-egosi ya ọ dịghị mmegharị ụhara, ma hazie nwebilata ụhara %d x %d nakwa nbawanye ụhara %d x %d; nke a ewepụtaghị ezi echiche.\n",470,mutter,po/ig.po
+"Window 0x%lx has property %s\nthat was expected to have type %s format %d\nand actually has type %s format %d n_items %d.\nThis is most likely an application bug, not a window manager bug.\nThe window has title=\""%s\"" class=\""%s\"" name=\""%s\""\n",492,"Windo 0x%lx nwere ngwaọrụ %s\nnke echere na ọ ga-enwe ụdị %s ọdịdị %d\nma kpọmkwem nwee ụdị %s ọdịdị %d n_items %d.\nNke a bụ nsogbu usoroiheomume nke kacha nke, ọbụghị nsogbu onyenlekọta windo.\nWindo ahụ nwere isiokwu=\""%s\"" kláàsị̀=\""%s\"" aha=\""%s\""\n",498,mutter,po/ig.po
+Property %s on window 0x%lx contained invalid UTF-8\n,508,Ngwaọrụ %s na windo 0x%lx nwere UTF-8 na-enweghị isi\n,509,mutter,po/ig.po
+Property %s on window 0x%lx contained invalid UTF-8 for item %d in the list\n,513,Ngwaọrụ %s na windo 0x%lx nwere UTF-8 na-enweghị isi maka ihenhọrọ %d n'ime ihendesịta\n,515,mutter,po/ig.po
+Switch to workspace 1,520,Banye na wọ́kspéèsì 1,521,mutter,po/ig.po
+Switch to workspace 2,524,Banye na wọ́kspéèsì 2,525,mutter,po/ig.po
+Switch to workspace 3,528,Banye na wọ́kspéèsì 3,529,mutter,po/ig.po
+Switch to workspace 4,532,Banye na wọ́kspéèsì 4,533,mutter,po/ig.po
+Switch to workspace 5,536,Banye na wọ́kspéèsì 5,537,mutter,po/ig.po
+Switch to workspace 6,540,Banye wọ́kspéèsì 6,541,mutter,po/ig.po
+Switch to workspace 7,544,Banye na wọ́kspéèsì 7,545,mutter,po/ig.po
+Switch to workspace 8,548,Banye na wọ́kspéèsì 8,549,mutter,po/ig.po
+Switch to workspace 9,552,Banye na wọ́kspéèsì 9,553,mutter,po/ig.po
+Switch to workspace 10,556,Banye na wọ́kspéèsì 10,557,mutter,po/ig.po
+Switch to workspace 11,560,Banye na wọ́kspéèsì 11,561,mutter,po/ig.po
+Switch to workspace 12,564,Swichie na wọkspeesi 12,565,mutter,po/ig.po
+Move between windows immediately,628,Kpụgharịa n'etiti windo ozugbo,629,mutter,po/ig.po
+Move between panels and the desktop immediately,637,Kpụgharịa n'etiti pánēèlụ̀ na desktọ́ọ̀pụ̀ ozugbo,638,mutter,po/ig.po
+Move backward between panels and the desktop immediately,641,Kpụghachi azụ n'etiti pánēèlụ̀ na desktọ́ọ̀pụ̀ ozugbo,642,mutter,po/ig.po
+Take a screenshot,660,Skrììnshọ́ọ̀tụ̀ọ́,661,mutter,po/ig.po
+Take a screenshot of a window,664,Skrììnshọ́ọ̀tụ̀ọ́ na windo,665,mutter,po/ig.po
+Run a terminal,668,Bido ngwaọrụ mbupụ na mbubata ozi,669,mutter,po/ig.po
+Toggle fullscreen mode,677,Pịa na móòdù fúlskríìn,678,mutter,po/ig.po
+Toggle maximization state,681,Pịa n'ọnọdụ mbawanye,682,mutter,po/ig.po
+Maximize window,690,Bawanye windo,691,mutter,po/ig.po
+Toggle shaded state,699,Pịa n'ọnọdụ shéèdì,700,mutter,po/ig.po
+Minimize window,703,Webilata windo,704,mutter,po/ig.po
+Close window,707,Mechie windo,708,mutter,po/ig.po
+Move window,711,Kpụgharịa windo,712,mutter,po/ig.po
+Resize window,715,Megharịa ụhara windo,716,mutter,po/ig.po
+Move window to workspace 1,724,Kpụga windo na 1wọ́kspēèsì,725,mutter,po/ig.po
+Move window to workspace 2,728,Kpụga windo na 2 wọ́kspēèsì,729,mutter,po/ig.po
+Move window to workspace 3,732,Kpụga windo na 3 wọ́kspēèsì,733,mutter,po/ig.po
+Move window to workspace 4,736,Kpụga windo na 4 wọ́kspēèsì,737,mutter,po/ig.po
+Move window to workspace 5,740,Kpụga windo na 5 wọ́kspēèsì,741,mutter,po/ig.po
+Move window to workspace 6,744,Kpụga windo na 6 wọ́kspēèsì,745,mutter,po/ig.po
+Move window to workspace 7,748,Kpụga windo na 7wọ́kspēèsì,749,mutter,po/ig.po
+Move window to workspace 8,752,Kpụga windo na 8 wọ́kspēèsì,753,mutter,po/ig.po
+Move window to workspace 9,756,Kpụga windo na 9 wọ́kspēèsì,757,mutter,po/ig.po
+Move window to workspace 10,760,Kpụga windo na 10 wọ́kspēèsì,761,mutter,po/ig.po
+Move window to workspace 11,764,Kpụga windo na 11 wọ́kspēèsì,765,mutter,po/ig.po
+Move window to workspace 12,768,Kpụga windo na 12 wọ́kspēèsì,769,mutter,po/ig.po
+Move window one workspace to the left,772,Kpụga windo n'otu wọ́kspēèsì n'akaekpe,773,mutter,po/ig.po
+Move window one workspace to the right,776,Kpụga windo n'otu wọ́kspēèsì n'akanri,777,mutter,po/ig.po
+Move window one workspace up,780,Kpụga windo n'otu wọ́kspēèsì n'elu,781,mutter,po/ig.po
+Move window one workspace down,784,Kpụga windo n'otu wọ́kspēèsì ala,785,mutter,po/ig.po
+Raise window above other windows,793,Welite n'elu windo ndị ọzọ,794,mutter,po/ig.po
+Lower window below other windows,797,Budata windo n'okpuru windo ndị ọzọ,798,mutter,po/ig.po
+Maximize window vertically,801,Bawanye windo n'ụdị vatikal,802,mutter,po/ig.po
+Maximize window horizontally,805,Bawanye windo n'ụdị horizontal,806,mutter,po/ig.po
+(Not implemented) Navigation works in terms of applications not windows,848,(Ewepụtaghị ya) Ngagharị n'arụ ọrụ dịka usoroiheomume ọ bụghị Windo,849,mutter,po/ig.po
+Action on title bar double-click,868,Mmem na taịtụl báà pịa-mpịkwasa,869,mutter,po/ig.po
+Arrangement of buttons on the titlebar,882,Nhazi nke bọtịn ndị ahụ na taịtụlbaa,883,mutter,po/ig.po
+Automatically raises the focused window,904,Ji aka ya welite windo ebe fōkọ́ọ̀sụ̀rụ̀,905,mutter,po/ig.po
+"Clicking a window while holding down this modifier key will move the window (left click), resize the window (middle click), or show the window menu (right click). Modifier is expressed as \""&lt;Alt&gt;\"" or \""&lt;Super&gt;\"" for example.",908,"Ịpị windo mgbe ijigidere kíì omemmegharị a ga-akpụgha windo (pịa n'akaekpe), megharịa ụhara windo (pịa n'etiti), mọọbụ gosi windo menu (pịa n'akanri). A kọwara omemmegharị dịka \""&lt;Alt&gt;\"" mọọbụ \""&lt;Super&gt;\"" ọmụmatụ.",913,mutter,po/ig.po
+Commands to run in response to keybindings,919,Ntiiwu iji bido na nzighachi na kíìbaịndịn ndị ahụ,920,mutter,po/ig.po
+Current theme,931,Isiokwu ọfụụ,932,mutter,po/ig.po
+Delay in milliseconds for the auto raise option,935,Ogbugbu oge na milisekọndụ ndị ahụ maka ihenhọrọ nwelite nkeonwe,936,mutter,po/ig.po
+Determines whether applications or the system can generate audible 'beeps'; may be used in conjunction with 'visual bell' to allow silent 'beeps'.,943,ga-ekwu ma usoroiheomume mọọbụ sistem ahụ ga-ewepụta nnukwu 'ụda'; nwere ike jiri na njikọ nke ya na 'mgbịrịgba nlechapụta' ka ekwe 'ọ̀wụ̀' bata.,946,mutter,po/ig.po
+Disable misfeatures that are required by old or broken applications,951,Enweghị iheọrụ mabiri emebi nke achọrọ site na nke ochie mọọbụ nkwụsị usoroiheomume ndị ahụ,952,mutter,po/ig.po
+Enable Visual Bell,957,Na-ekwe mgbịrịgba nlechapụta,958,mutter,po/ig.po
+"If true, ignore the titlebar_font option, and use the standard application font for window titles.",973,"Ọ bụrụ na ọ bụ eziokwu, leghara nhọrọ tittlebar_font anya, ma jiri ihumkpụrụedemede usoroiheomume anabatara maka isiokwu windo ndị ahụ.",976,mutter,po/ig.po
+"If true, trade off usability for less resource usage",1018,"Ọ bụrụ na ọ bụ eziokwu, tréèdìá ọ́ọ̀fụ̀ njieme maka mbelata nsirinweta njieme",1019,mutter,po/ig.po
+Modifier to use for modified window click actions,1023,Omemmegharị ga-eji maka mmem ọ̀pị̀pị́ windo mmegharị,1024,mutter,po/ig.po
+Name of workspace,1027,Aha wọ́kspēèsì,1028,mutter,po/ig.po
+Number of workspaces,1031,Ọnụọgụgụ wọ́kspēèsì,1032,mutter,po/ig.po
+Run a defined command,1046,Bido ntiiwu a kọwara akọwa,1047,mutter,po/ig.po
+System Bell is Audible,1080,Bell sistem n'ada ụda,1081,mutter,po/ig.po
+"Tells Metacity how to implement the visual indication that the system bell or another application 'bell' indicator has been rung. Currently there are two valid values, \""fullscreen\"", which causes a fullscreen white-black flash, and \""frame_flash\"" which causes the titlebar of the application which sent the bell signal to flash. If the application which sent the bell is unknown (as is usually the case for the default \""system beep\""), the currently focused window's titlebar is flashed.",1084,"Na-agwa Metacity etu ọ ga-esi mepụta ngosi nlechapụta na sistem mgbịrịgba mọọbụ usoroiheomume ọzọ 'mgbịrịgba' akụọla ngwaọrụ ngosi. Ugbua e nwere valiu nwereisi abụọ, \""fullscreen\"", nke n'ebutere njupụtainyogo waịt-blak flashị, na \""frame_flash\"" nke n'ebutere taịtụlbáà nke usoroiheomume nke zigara signáàlụ̀ mgbịrịgba ahụ na flashị. Ọ bụrụ na-amaghị usoroiheomume nke zigara mgbịrịgba ahụ (Ka ọ dị bu kéèsì maka dìfọ́ọ̀ltụ̀ \""system beep\""), A fláàshị̀rị̀ windo fókọ́ọ̀sụ̀ taịtụlbáà nọ mgbe ahụ.",1092,mutter,po/ig.po
+The /apps/metacity/global_keybindings/run_command_N keys define keybindings that correspond to these commands. Pressing the keybinding for run_command_N will execute command_N.,1102, /apps/metacity/global_keybindings/run_command_N Kii ahụ nke na-akọwa kiibaịndịn ndị ahụ nke na-adaba ntiiwu ndị a. Ịpị kiibaịndịn maka run_command_N ga-emepụta command_N.,1106,mutter,po/ig.po
+The /apps/metacity/global_keybindings/run_command_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1112,/apps/metacity/global_keybindings/run_command_screenshot Kii ahụ na-akọwa kiibaịdịn nke n'ebute ntiiwu ezipụtara site na nhazi à á ga-atụtegharị.,1115,mutter,po/ig.po
+The /apps/metacity/global_keybindings/run_command_window_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1120,/apps/metacity/global_keybindings/run_command_window_screenshot Kii na-akọwa kiibaịndịn nke n'ebute ntiiwu ezipụtara site na nhazi à á ga-atụtegharị.,1124,mutter,po/ig.po
+"The keybinding that runs the correspondingly-numbered command in /apps/metacity/keybinding_commands The format looks like \""&lt;Control&gt;a\"" or \""&lt;Shift&gt;&lt;Alt&gt;F1\"". The parser is fairly liberal and allows lower or upper case, and also abbreviations such as \""&lt;Ctl&gt;\"" and \""&lt;Ctrl&gt;\"". If you set the option to the special string \""disabled\"", then there will be no keybinding for this action.",1129,"Kiibaịndịn ahụ nke na-ebido ntiiiwu ọnụọgụgụ na-adaba adaba na  /apps/metacity/keybinding_commands Ọdịdị ahụ dị̀kà \""&lt;Control&gt;a\"" mọọbụ\""&lt;Shift&gt;&lt;Alt&gt;F1\"".Ọtọsa ngwe dị̀ líbrààlụ̀ ma hapụ kéèsì nke ala mọọbụ nke elu, ya na inwe mkpọbiri aha dịka \""&lt;Ctl&gt;\"" na \""&lt;Ctrl&gt;\"" Ọ bụrụ n'ihazie ihenhọrọ niile ahụ n'ahịrịokwu pụrụ iche \""disabled\"", mgbe ahụ agaghị enwe kiibaịndịn maka mmem a.",1136,mutter,po/ig.po
+The name of a workspace.,1145,Aha wọ́kspéèsì.,1146,mutter,po/ig.po
+The screenshot command,1149,Skrììnshọ́ọ̀tụ̀ọ́ ntiiwu,1150,mutter,po/ig.po
+"The theme determines the appearance of window borders, titlebar, and so forth.",1153,"Isiokwu ahụ na-ezipụta ngosipụta agbata windo, taịtụlbáà, na ndị ọzọ.",1156,mutter,po/ig.po
+The time delay before raising a window if auto_raise is set to true. The delay is given in thousandths of a second.,1159,Oge egburu tupuu nwelite windo ọ bụrụ na auto_raise na ahaziri ya ka ọ bụrụ eziokwu. A ga-enye ogbugbu oge ahụ na tawụzan nke otu sekọndụ.,1162,mutter,po/ig.po
+"The window focus mode indicates how windows are activated. It has three possible values; \""click\"" means windows must be clicked in order to focus them, \""sloppy\"" means windows are focused when the mouse enters the window, and \""mouse\"" means windows are focused when the mouse enters the window and unfocused when the mouse leaves the window.",1167,"Windo fókọ́ọ̀sụ̀ móòdù na-egosi etu windo arụ ọrụ. Onwere uru atọ dị omume; \""click\"" pụtara na a ga-apịnye windo ndị ahụ ka é fókọ́ọ̀sụ̀ọ́ na ha, \""sloppy\"" pụtara na é fōkọ́ọ̀sụ̀rụ̀ na windo ndị ahụ mgbe máụ̀sụ̀ banyere na windo, nakwa \""mouse\"" pụtara na é fōkọ́ọ̀sụ̀rụ̀ windo mgbe máụ̀sụ̀ banyere na windo ahụ ma ọ̀nfókọ́ọ̀sụ̀ọ́ mgbe máụ̀sụ̀ ahụ hapụrụ windo ahụ.",1173,mutter,po/ig.po
+The window screenshot command,1181,Windo ahụ skrììnshọ́ọ̀tụ̀rụ̀ ntiiwu,1182,mutter,po/ig.po
+Use standard system font in window titles,1240,Jiri sistem ihumkpụrụedemede nke bụ ákpụ̀ n'isiokwu windo ndị ahụ,1241,mutter,po/ig.po
+Visual Bell Type,1244,Ụdị mgbịrịgba ihenlereanya,1245,mutter,po/ig.po
+Window focus mode,1252,Móòdù fókọ́ọ̀sụ̀ windo,1253,mutter,po/ig.po
+Window title font,1256,Ihumkpụrụedemede isiokwu windo,1257,mutter,po/ig.po
+Usage: %s\n,1261,Njieme: %s\n,1262,mutter,po/ig.po
+Close Window,1265,Mechie Windo,1266,mutter,po/ig.po
+Window Menu,1269,Windo menu,1270,mutter,po/ig.po
+Minimize Window,1273,Webilata Windo,1274,mutter,po/ig.po
+Maximize Window,1277,Bawanye Windo,1278,mutter,po/ig.po
+Mi_nimize,1315,We_bilata,1316,mutter,po/ig.po
+Ma_ximize,1320,Ba_wanye,1321,mutter,po/ig.po
+Unma_ximize,1325,Webil_ataụhara,1326,mutter,po/ig.po
+Roll _Up,1330,Mkpụli_elu,1331,mutter,po/ig.po
+_Unroll,1335,_Sáwàpụ̀tá,1336,mutter,po/ig.po
+_Move,1340,_Kpụghaa,1341,mutter,po/ig.po
+_Resize,1345,_Mmegharị ụhara,1346,mutter,po/ig.po
+_Always on Visible Workspace,1361,_Na-anọkarị na wọ́kspéèsì a hụrụ anya,1362,mutter,po/ig.po
+_Only on This Workspace,1366,_Sọsọ na wọ́kspéèsì a,1367,mutter,po/ig.po
+Move to Workspace _Left,1371,Kpụga na wọ́kspéèsì _akaekpe,1372,mutter,po/ig.po
+Move to Workspace R_ight,1376,Kpụga na wọ́kspéèsì a_kanri,1377,mutter,po/ig.po
+Move to Workspace _Up,1381,Kpụga na wọ́kspéèsì _elu,1382,mutter,po/ig.po
+Move to Workspace _Down,1386,Kpụga na wọ́kspéèsì _ala,1387,mutter,po/ig.po
+_Close,1392,_Mechie,1393,mutter,po/ig.po
+Workspace 1_0,1402,Wọ́kspéèsì 1_0,1403,mutter,po/ig.po
+Workspace %s%d,1407,Wọ́kspéèsì %s%d,1408,mutter,po/ig.po
+Move to Another _Workspace,1411,Kpụga na _wọ́kspéèsì ọzọ,1412,mutter,po/ig.po
+Shift,1420,Kpụkeje,1421,mutter,po/ig.po
+Super,1456,Ike,1457,mutter,po/ig.po
+Hyper,1465,Haịpa,1466,mutter,po/ig.po
+Mod2,1474,Mọd2,1475,mutter,po/ig.po
+Mod3,1483,Mọd3,1484,mutter,po/ig.po
+Mod4,1492,Mọd4,1493,mutter,po/ig.po
+Mod5,1501,Mọd5,1502,mutter,po/ig.po
+_Force Quit,1520,_Kwụsị n'ike,1521,mutter,po/ig.po
+Title,1524,Isiokwu,1525,mutter,po/ig.po
+Class,1528,Kláàsị̀,1529,mutter,po/ig.po
+"These windows do not support \""save current setup\"" and will have to be restarted manually next time you log in.",1532,"Windo ndị a anaghị akwado \""save current setup\"" ma a ga-ebidogharịa ya n'aka mgbe ọzọ ị banyere.",1535,mutter,po/ig.po
+"There was an error running \""%s\"":\n%s.",1541,"Enwere ndehie na mbido a \""%s\"":\n%s.",1544,mutter,po/ig.po
+top,1557,Elu,1558,mutter,po/ig.po
+bottom,1561,Okpuru,1562,mutter,po/ig.po
+left,1565,Akaekpe,1566,mutter,po/ig.po
+right,1569,Akanri,1570,mutter,po/ig.po
+"frame geometry does not specify \""%s\"" dimension",1574,"Jiometịrị fréèmù ezipụtaghị \""%s\"" mpaghara",1575,mutter,po/ig.po
+"frame geometry does not specify dimension \""%s\"" for border \""%s\""",1579,"Jiometịrị fréèmù ezipụtaghị mpaghara \""%s\"" maka agbata \""%s\""",1580,mutter,po/ig.po
+Button aspect ratio %g is not reasonable,1584,Bọtịn aspektị reshio %g abụghị nke echere n'echiche,1585,mutter,po/ig.po
+Frame geometry does not specify size of buttons,1589,Jiometịrị fréèmù ezipụtaghị ụhara nke bọtịn,1590,mutter,po/ig.po
+Gradients should have at least two colors,1594,Mmakọ ụcha kwesịrị inwe ọbụnaghị ụcha abụọ,1595,mutter,po/ig.po
+"GTK color specification must have the state in brackets, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1599,"GTK nzipụta ụcha ga-enwe ọnọdụ n'ụdị akara mmechi, ọmụmaatụ. gtk:fg[NORMAL] ebe NỌ́MÁÀLỤ̀ bụ ọnọdụ; agaghị enwenwu ike ịtọsasi \""%s\""",1602,mutter,po/ig.po
+"GTK color specification must have a close bracket after the state, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1608,"GTK nzipụta ụcha ga-enwe akara mmechi ma agachaa ọnọdụ, ọmụmaatụ. gtk:fg[NORMAL] ebe NỌ́MÁÀLỤ̀ bụ ọnọdụ; agaghị enwenwu ike ịtọsasi \""%s\""",1611,mutter,po/ig.po
+"Did not understand state \""%s\"" in color specification",1617,"Aghọtaghị ọnọdụ \""%s\"" na nzipụta ụcha",1618,mutter,po/ig.po
+"Did not understand color component \""%s\"" in color specification",1622,"Aghọtaghị ọnọdụ mpaghara ụcha \""%s\"" na nzipụta ụcha",1623,mutter,po/ig.po
+"Blend format is \""blend/bg_color/fg_color/alpha\"", \""%s\"" does not fit the format",1627,"Mmezie ọdịdị bụ \""blend/bg_color/fg_color/alpha\"", \""%s\"" ọdabaghị n'ọdịdị ",1630,mutter,po/ig.po
+"Could not parse alpha value \""%s\"" in blended color",1635,"Agaghị atọsasị uru alpha \""%s\"" n'ụcha amakọrọ ọfụma",1636,mutter,po/ig.po
+"Alpha value \""%s\"" in blended color is not between 0.0 and 1.0",1640,"Valiu alpha \""%s\"" n'ụcha amakọrọ ọfụma anọghị n'etiti 0.0 na 1.0",1641,mutter,po/ig.po
+"Shade format is \""shade/base_color/factor\"", \""%s\"" does not fit the format",1645,"Ọdịdị shéèdì bụ \""shade/base_color/factor\"", \""%s\"" ọdaghị n'ọnọdụ",1647,mutter,po/ig.po
+"Could not parse shade factor \""%s\"" in shaded color",1651,"Agaghị atọsasịnwu faktọ shéèdì \""%s\"" n'ụcha éshéèdị̀rị̀ èshéèdị̀",1652,mutter,po/ig.po
+"Shade factor \""%s\"" in shaded color is negative",1656,"Shéèdị̀ faktọ \""%s\"" n'ụcha éshéèdị̀rị̀ èshéèdì dị negetíìvù",1657,mutter,po/ig.po
+"Could not parse color \""%s\""",1661," Agaghị atọsasịnwu ụcha \""%s\""",1662,mutter,po/ig.po
+Coordinate expression contains character '%s' which is not allowed,1666,Chịkọlata nkọwa nwere mkpụrụokwu '%s' nke a na-anabataghị,1667,mutter,po/ig.po
+Coordinate expression contains floating point number '%s' which could not be parsed,1671,Chịkọlata nkọwa nwere ọnụọgụgụ pọịntị n'ehu ehu '%s' nke ga-agaghị enwenwu ike ntọsasị,1674,mutter,po/ig.po
+Coordinate expression contains integer '%s' which could not be parsed,1680,Chịkọlata nkọwa nwere ịntiga '%s' nke ga-agaghị enwenwu ike ntọsasị,1681,mutter,po/ig.po
+"Coordinate expression contained unknown operator at the start of this text: \""%s\""",1685,"Chịkọlata nkọwa nwere òpèrétọ̀ á ná-ámághị́ na mbido nke ngwe a: \""%s\""",1688,mutter,po/ig.po
+Coordinate expression was empty or not understood,1692,nchịkọlata nkọwa ghè óghē mọọbụ na aghọtaghị ya,1693,mutter,po/ig.po
+Coordinate expression results in division by zero,1697,Mpụtara nchịkọlata nkọwa na nkewa site na zero,1698,mutter,po/ig.po
+Coordinate expression tries to use mod operator on a floating-point number,1702, Nchịkọlata nkọwa nà-ánwà iji ọ̀pèrétọ̀ mood n'ọnụọgụgụ pọịntị-n'éhū èhù,1704,mutter,po/ig.po
+"Coordinate expression has an operator \""%s\"" where an operand was expected",1708,"Nchịkọlata nkọwa nwere ọ̀pèrétọ̀ \""%s\"" ebe achọrọ ópērándị̀",1710,mutter,po/ig.po
+Coordinate expression had an operand where an operator was expected,1714,Nchịkọlata nkọwa nwere ópērándị̀ ebe achọrọ ọ̀pèrètọ̀,1715,mutter,po/ig.po
+Coordinate expression ended with an operator instead of an operand,1719,Nchịkọlata nkọwa gwụrụ ya na òpèrétọ̀ kama ópērándị̀,1720,mutter,po/ig.po
+"Coordinate expression has operator \""%c\"" following operator \""%c\"" with no operand in between",1724,"Nchịkọlata nkọwa nwere ọ̀pèrétọ̀ \""%c\"" na-eso ọ̀pèrétọ̀ \""%c\"" ya na onweghị ópērándị̀ n'etiti",1727,mutter,po/ig.po
+"Coordinate expression had unknown variable or constant \""%s\""",1733,"Nchịkọlata nkọwa nwere mgbanwe mọọbụ nke na-enweghị mgbanwe a na-amaghị \""%s\""",1734,mutter,po/ig.po
+Coordinate expression had a close parenthesis with no open parenthesis,1745,Nchịkọlata nkọwa nwere mmechi okwu mgbakwunye ya na enweghị mmepe okwu mgbakwunye,1746,mutter,po/ig.po
+Coordinate expression had an open parenthesis with no close parenthesis,1752,Nchịkọlata nkọwa nwere mmepe okwu mgbakwunye ya na enweghị mmechi okwu mgbakwunye,1753,mutter,po/ig.po
+Coordinate expression doesn't seem to have any operators or operands,1759,Nchịkọlata nkọwa adịghị ka onwere ọ̀pèrétọ̀ mọọbụ ópērándị̀ ndị ahụ,1760,mutter,po/ig.po
+"<button function=\""%s\"" state=\""%s\"" draw_ops=\""whatever\""/> must be specified for this frame style",1769,"A ga-ezipụtarịrị <nrụọrụ bọtịn=\""%s\"" state=\""%s\"" draw_ops=\""whatever\""/> maka ọdịdị fréèmù a",1772,mutter,po/ig.po
+"Missing <frame state=\""%s\"" resize=\""%s\"" focus=\""%s\"" style=\""whatever\""/>",1778,"Ọ na-efu efu <frame state=\""%s\"" resize=\""%s\"" focus=\""%s\"" style=\""whatever\""/>",1780,mutter,po/ig.po
+"Failed to load theme \""%s\"": %s\n",1786,"Ọdịda n'ịdebata isiokwu \""%s\"": %s\n",1787,mutter,po/ig.po
+"No <%s> set for theme \""%s\""",1792,"Enweghi <%s> nhazi maka isiokwu \""%s\""",1793,mutter,po/ig.po
+"No frame style set for window type \""%s\"" in theme \""%s\"", add a <window type=\""%s\"" style_set=\""whatever\""/> element",1797,"Enweghị ọdịdị fréèmù ekpokọrọ maka ụdị windo \""%s\"" n'isiokwu \""%s\"", tinye <window type=\""%s\"" style_set=\""whatever\""/> elementị",1800,mutter,po/ig.po
+"User-defined constants must begin with a capital letter; \""%s\"" does not",1806,"Nkọwa-ojieme énwēghị́ḿgbánwè ga-ebido na mkpụrụ edemede nke ukwu; \""%s\"" enweghị  ",1808,mutter,po/ig.po
+"Constant \""%s\"" has already been defined",1814,"A kọwalá́árị́ị̀ \""%s\"" enweghịmgbanwe",1815,mutter,po/ig.po
+"No \""%s\"" attribute on element <%s>",1822,"Enweghị\""%s\"" átrībúùtù n'elementị <%s>",1823,mutter,po/ig.po
+Line %d character %d: %s,1827,Ahịrịokwu %d mkpụrụokwu %d: %s,1828,mutter,po/ig.po
+"Attribute \""%s\"" repeated twice on the same <%s> element",1832,"Átrībúùtù \""%s\""megharịrị ugboro abụọ n'otu <%s> elementị ahụ",1833,mutter,po/ig.po
+"Attribute \""%s\"" is invalid on <%s> element in this context",1837,"Átrībúùtù \""%s\"" enweghị isi <%s> n'elementị n'ihe nghọta a",1838,mutter,po/ig.po
+Integer %ld must be positive,1842,Intiga %ld ga-abụrịrị eziokwu,1843,mutter,po/ig.po
+"Integer %ld is too large, current max is %d",1847,"Intiga %ld buru nnukwu ibu, max ọfụụ bụ %d",1848,mutter,po/ig.po
+"Could not parse \""%s\"" as a floating point number",1852,"Agaghị atọsasịnwu \""%s\"" dịka ọnụọgụgụ pọintị n'ehugharị",1853,mutter,po/ig.po
+"Boolean values must be \""true\"" or \""false\"" not \""%s\""",1857,"Uru boolean ga-abụrịrị \""true\""mọọbụ \""false\"" ọ bụghị \""%s\""",1858,mutter,po/ig.po
+"Angle must be between 0.0 and 360.0, was %g\n",1862,"Ńkọ́ ga-adịrịrị n'etiti 0.0 na 360.0, bụ %g\n",1863,mutter,po/ig.po
+"Alpha must be between 0.0 (invisible) and 1.0 (fully opaque), was %g\n",1867,"Alpha ga-adịrịrị n'etiti 0.0 (ahụghị anya ǹchá n̄chá) na 1.0 (Ahụchaghị anya ọfụma), bụ %g\n",1868,mutter,po/ig.po
+"Invalid title scale \""%s\"" (must be one of xx-small,x-small,small,medium,large,x-large,xx-large)\n",1874,"Skéèlụ̀ isiokwu na-enweghị isi \""%s\"" (ga-abụrịrị otu n'ime xx-small,x-small,small,medium,large,x-large,xx-large)\n",1877,mutter,po/ig.po
+"<%s> name \""%s\"" used a second time",1884,"<%s> aha \""%s\"" e jiri nke ugboro abụọ",1885,mutter,po/ig.po
+"<%s> parent \""%s\"" has not been defined",1890,"<%s> Akọwabeghị \""%s\"" perentị",1891,mutter,po/ig.po
+"<%s> geometry \""%s\"" has not been defined",1895,"<%s> Akọwabeghị \""%s\"" jiometịrị",1896,mutter,po/ig.po
+<%s> must specify either a geometry or a parent that has a geometry,1900,<%s> ga-egosipụta ma ọ bụ jiometịrị ma ọ bụ perentị nwere jiometịrị,1901,mutter,po/ig.po
+"Unknown type \""%s\"" on <%s> element",1909,"Ụdị a na-amaghị \""%s\"" na <%s> elementị",1910,mutter,po/ig.po
+"Unknown style_set \""%s\"" on <%s> element",1914,"Style_set a na-amaghị \""%s\"" na <%s> elementị",1915,mutter,po/ig.po
+"Window type \""%s\"" has already been assigned a style set",1919,"Enyego ụdị windo a \""%s\"" ọdịdị nhazi",1920,mutter,po/ig.po
+Element <%s> is not allowed below <%s>,1928,Anaghị anabata <%s> elementị n'okpuru <%s>,1929,mutter,po/ig.po
+"Distance \""%s\"" is unknown",1943,"Amaghị \""%s\"" òtìtè ányá",1944,mutter,po/ig.po
+"Aspect ratio \""%s\"" is unknown",1948,"Amaghị \""%s\"" aspektị reshio",1949,mutter,po/ig.po
+"Border \""%s\"" is unknown",1953,"Amaghị \""%s\"" àgbàtà",1954,mutter,po/ig.po
+"Did not understand value \""%s\"" for type of gradient",1968,"Aghotaghị uru ahụ \""%s\"" maka ụdị ḿmákọ́ ụcha",1969,mutter,po/ig.po
+"Did not understand fill type \""%s\"" for <%s> element",1973,"Aghọtaghị mejuo ụdị \""%s\"" maka <%s>elementị",1974,mutter,po/ig.po
+"Did not understand state \""%s\"" for <%s> element",1979,"Aghọtaghị ọnọdụ \""%s\"" maka <%s> elementị",1980,mutter,po/ig.po
+"Did not understand shadow \""%s\"" for <%s> element",1984,"A ghọtaghị inyogo \""%s\"" maka <%s> elementị",1985,mutter,po/ig.po
+"Did not understand arrow \""%s\"" for <%s> element",1989,"A ghọtaghị árò \""%s\"" maka <%s> elementị",1990,mutter,po/ig.po
+"No <draw_ops> called \""%s\"" has been defined",1994,"Enweghị <draw_ops> ọ̀kpụ́kpọ́ \""%s\"" akọwarala",1995,mutter,po/ig.po
+"Including draw_ops \""%s\"" here would create a circular reference",1999,"Itinye draw_ops \""%s\"" ebe a ga-ekewapụta gburugburu nrụaka",2000,mutter,po/ig.po
+"Unknown position \""%s\"" for frame piece",2004,"Ebe a na-amaghị \""%s\"" maka fréém píìsì",2005,mutter,po/ig.po
+Frame style already has a piece at position %s,2009,Ọdịdị fréèmù ènwéláàrị́ị̀ píìsì n'ebe %s,2010,mutter,po/ig.po
+"No <draw_ops> with the name \""%s\"" has been defined",2014,"Enweghị <draw_ops> ya na aha \""%s\"" akọwarala",2015,mutter,po/ig.po
+"Unknown function \""%s\"" for button",2019,"Amaghị nrụọrụ \""%s\"" maka bọtịn",2020,mutter,po/ig.po
+"Unknown state \""%s\"" for button",2029,"Amaghị ọnọdụ \""%s\"" maka bọtịn",2030,mutter,po/ig.po
+Frame style already has a button for function %s state %s,2034,Ọdịdị fréèmù ènwéláàrị́ị̀ bọtịn maka %s ọnọdụ nrụọrụ %s ,2035,mutter,po/ig.po
+"\""%s\"" is not a valid value for focus attribute",2039,"\""%s\"" abụghị uru nwereisi maka fókọ́ọ̀sụ̀ átrībúùtù",2040,mutter,po/ig.po
+"\""%s\"" is not a valid value for state attribute",2044,"\""%s\"" abụghị uru nwereisi maka ọnọdụ átrībúùtù",2045,mutter,po/ig.po
+"A style called \""%s\"" has not been defined",2049,"Ọdịdị a na-akpọ \""%s\"" akọwabeghị ya",2050,mutter,po/ig.po
+"\""%s\"" is not a valid value for resize attribute",2054,"\""%s\"" abụghị uru nwereisi maka átrībúùtù mmegharị ụhara ",2055,mutter,po/ig.po
+"Should not have \""resize\"" attribute on <%s> element for maximized/shaded states",2059,"Agaghị enwe \""resize\"" átrībúùtù na <%s> elementị maka ọnọdụ mbawanye/shédèèdị̀",2062,mutter,po/ig.po
+Style has already been specified for state %s resize %s focus %s,2076,Ezipụtala ọdịdị maka ọnọdụ %s megharịa ụhara %s fókọ́ọ̀sụ̀ %s,2077,mutter,po/ig.po
+Style has already been specified for state %s focus %s,2081,Ezipụtala ọdịdị maka ọnọdụ %s fókọ́ọ̀sụ̀ %s,2082,mutter,po/ig.po
+"Can't have a two draw_ops for a <piece> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2085,"Agaghị enwenwu draw_ops abụọ maka <piece> elementị (isiokwu zipụtara átrībúùtù draw_ops nakwa <draw_ops> elementị, mọọbụ elementị abụọ ndị ezipụtarala)",2088,mutter,po/ig.po
+"Can't have a two draw_ops for a <button> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2094,"Agaghị enwenwu draw_ops abụọ maka <button> elementị (isiokwu zipụtara átrībúùtù draw_ops nakwa <draw_ops> elementị, mọọbụ elementị abụọ ndị ezipụtarala)",2097,mutter,po/ig.po
+"Can't have a two draw_ops for a <menu_icon> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2103,"Agaghị enwenwu draw_ops abụọ maka <menu_icon> elementị (isiokwu zipụtara átrībúùtù draw_ops nakwa <draw_ops> elementị, mọọbụ elementị abụọ ndị ezipụtarala)",2106,mutter,po/ig.po
+Outermost element in theme must be <metacity_theme> not <%s>,2113,Elementị kempụtacha n'isiokwu ga-abụ <metacity_theme> ọbụghị <%s>,2114,mutter,po/ig.po
+Element <%s> is not allowed inside a name/author/date/description element,2118,Anabataghị <%s> elementị n'ime aha/odee/ụbọchị/elementị nkọwa,2120,mutter,po/ig.po
+Element <%s> is not allowed inside a <constant> element,2124,Anabataghị <%s> elementị n'ime <constant> elementị,2125,mutter,po/ig.po
+Element <%s> is not allowed inside a distance/border/aspect_ratio element,2129,Anabataghị <%s> elementị n'ime /agbata/aspect_ratio elementị dị anya,2131,mutter,po/ig.po
+Element <%s> is not allowed inside a draw operation element,2135,Anabataghị <%s> elementị n'ime drọ́ọ̀ usoroomumeihe elementị,2136,mutter,po/ig.po
+Element <%s> is not allowed inside a <%s> element,2141,Anabataghị <%s> elementị n'ime <%s> elementị,2142,mutter,po/ig.po
+No draw_ops provided for frame piece,2145,Enweghị draw_ops ewepụtara maka fréèmụ̀ píìsì,2146,mutter,po/ig.po
+No draw_ops provided for button,2149,Enweghị draw_ops ewepụtara maka bọtịn,2150,mutter,po/ig.po
+No text is allowed inside element <%s>,2154,Enweghị ngwe anabatara n'ime elementị <%s>,2155,mutter,po/ig.po
+<name> specified twice for this theme,2158,<name> ezipụtara ugboro abụọ maka isiokwu a,2159,mutter,po/ig.po
+<author> specified twice for this theme,2162,<author> ezipụtara ugboro abụọ maka isiokwu a,2163,mutter,po/ig.po
+<copyright> specified twice for this theme,2166,<copyright> ezipụtara ugboro abụọ maka isiokwu a,2167,mutter,po/ig.po
+<date> specified twice for this theme,2170,<date> ezipụtara ugboro abụọ maka isiokwu a,2171,mutter,po/ig.po
+<description> specified twice for this theme,2174,<description> ezipụtara ugboro abụọ maka isiokwu a,2175,mutter,po/ig.po
+Theme file %s did not contain a root <metacity_theme> element,2184,Faịlụ isiokwu %s enweghị mgbọrọgwụ <metacity_theme> elementị,2185,mutter,po/ig.po
+/_Windows,2188,/_Windo ndị ahụ,2189,mutter,po/ig.po
+/Windows/tearoff,2192,/Windo ndị ahụ/emepụ,2193,mutter,po/ig.po
+/Windows/_Dialog,2196,/Windo ndị ahụ/_Dayalọ́ọ̀gụ̀,2197,mutter,po/ig.po
+/Windows/_Modal dialog,2200,/Windo ndị ahụ/_Módáàlụ̀ dayalọ́ọ̀gụ̀,2201,mutter,po/ig.po
+/Windows/_Utility,2204,/Windo ndị ahụ/_iheọrụ,2205,mutter,po/ig.po
+/Windows/_Splashscreen,2208,/Windo ndị ahụ/_inyogo nzipụta ọpụọ,2209,mutter,po/ig.po
+/Windows/_Top dock,2212,/Windo ndị ahụ/_elu dọ́ọ̀kụ̀,2213,mutter,po/ig.po
+/Windows/_Bottom dock,2216,/Windo ndị ahụ/_okpụrụ dọ́ọ̀kụ̀,2217,mutter,po/ig.po
+/Windows/_Left dock,2220,/Windo ndị ahụ/_akaekpe dọ́ọ̀kụ̀,2221,mutter,po/ig.po
+/Windows/_Right dock,2224,/Windo ndị ahụ/_akanri dọ́ọ̀kụ̀,2225,mutter,po/ig.po
+/Windows/_All docks,2228,/Windo ndị ahụ/_dọ́ọ̀kụ̀ niile,2229,mutter,po/ig.po
+/Windows/Des_ktop,2232,/Windo ndị ahụ/Des_ktọ́ọ̀pụ̀,2233,mutter,po/ig.po
+Open another one of these windows,2236,Mepee ọzọ windo niile ndị a,2237,mutter,po/ig.po
+This is a demo button with an 'open' icon,2240,Nke a bụ demo bọtịn nwere aịkọn 'mepere emepe',2241,mutter,po/ig.po
+This is a demo button with a 'quit' icon,2244,Nke a bụ demo bọtịn nwere aịkọn 'nkwụsị',2245,mutter,po/ig.po
+This is a sample message in a sample dialog,2248,Nke a bụ sampụlụ ozi n'ụdị sampụlụ dayalọ́ọ̀gụ̀,2249,mutter,po/ig.po
+Fake menu item %d\n,2253,Féèkìá ihenhọrọ menu %d\n,2254,mutter,po/ig.po
+Border-only window,2257,Àgbàtà-sọsọ windo,2258,mutter,po/ig.po
+Bar,2261,Báà,2262,mutter,po/ig.po
+Normal Application Window,2265,Nọ́máàlụ̀ usoroiheomume windo,2266,mutter,po/ig.po
+Dialog Box,2269,Igbe dayalọ́ọ̀gụ̀,2270,mutter,po/ig.po
+Modal Dialog Box,2273,Igbe dayalọ́ọ̀gụ̀ módáàlụ̀,2274,mutter,po/ig.po
+Utility Palette,2277,Iheọrụ páléètị̀,2278,mutter,po/ig.po
+Torn-off Menu,2281,Pịpụ-menu ,2282,mutter,po/ig.po
+Border,2285,Àgbàtà,2286,mutter,po/ig.po
+Button layout test %d,2290,Nnwele ndozi bọtịn %d,2291,mutter,po/ig.po
+%g milliseconds to draw one window frame,2295,%g milisekọndụ ga-àdọ́ otu windo fréèmù,2296,mutter,po/ig.po
+Usage: metacity-theme-viewer [THEMENAME]\n,2300,Njieme: omengosi-isiokwu-metacity [THEMENAME]\n,2301,mutter,po/ig.po
+Error loading theme: %s\n,2305,Ndehie na-edebata isiokwu: %s\n,2306,mutter,po/ig.po
+"Loaded theme \""%s\"" in %g seconds\n",2310,"Edebatara isiokwu \""%s\"" n'otu %g ntabi anya\n",2311,mutter,po/ig.po
+Normal Title Font,2314,Nọ́máàlụ̀ isiokwu ihumkpụrụedemede,2315,mutter,po/ig.po
+Small Title Font,2318,Obere isiokwu ihumkpụrụedemede,2319,mutter,po/ig.po
+Large Title Font,2322,Nnukwu isiokwu ihumkpụrụedemede,2323,mutter,po/ig.po
+Button Layouts,2326,Ndozi bọtịn ndị ahụ,2327,mutter,po/ig.po
+Benchmark,2330,Nrụọrụ hadwịa na sọftwịa,2331,mutter,po/ig.po
+Window Title Goes Here,2334,Isiokwu windo n'aga ebe a ,2335,mutter,po/ig.po
+Drew %d frames in %g client-side seconds (%g milliseconds per frame) and %g seconds wall clock time including X server resources (%g milliseconds per frame)\n,2339,A dọ́ọ́lá %d fréèmù na %g klayantị-saịdị ntabianya oge (%g milisekọndụ maka fréèmù nke ọbụla) nakwa %g oge elekere tinyere iheọrụ X sava (%g milisekọndụ maka fréèmù nke ọbụla)\n,2343,mutter,po/ig.po
+position expression test returned TRUE but set error,2349,Nnwale ebe nkọwa weghachitara EZIOKWU ma hazipụta ndehie,2350,mutter,po/ig.po
+position expression test returned FALSE but didn't set error,2353,Nnwale ebe nkọwa weghachitara ASỊ mana ahazighị ndehie,2354,mutter,po/ig.po
+Error was expected but none given,2357,A chọrọ ndehie mana enyeghị ya,2358,mutter,po/ig.po
+Error %d was expected but %d given,2362,A chọrọ %d ndehie mana e %d nyere ya,2363,mutter,po/ig.po
+Error not expected but one was returned: %s,2367,A chọghị ndehie mana eweghachitara otu: %s,2368,mutter,po/ig.po
+"x value was %d, %d was expected",2372,"valiu x bụ %d, %d a chọrọ ya",2373,mutter,po/ig.po
+"y value was %d, %d was expected",2377,"valiu y bụ %d, %d a chọrọ ya",2378,mutter,po/ig.po
+%d coordinate expressions parsed in %g seconds (%g seconds average)\n,2382,%d chịkọlata nkọwa atọsasịrịla %g n'oge ntabianya (%g oge ntabianya nhatanha)\n,2383,mutter,po/ig.po
+Apparition,81,Inyogo gbagwojuruanya,82,nautilus,po/ig.po
+Black,89,Oji,90,nautilus,po/ig.po
+Blue Ridge,93,Blu Ríìjì,94,nautilus,po/ig.po
+Blue Rough,97,Blu Rọ́ọ̀fụ̀,98,nautilus,po/ig.po
+Blue Type,101,Ụdị Blu,102,nautilus,po/ig.po
+Brushed Metal,105,Igwe ehichara ehicha,106,nautilus,po/ig.po
+Bubble Gum,109,Bọbụl Gọm,110,nautilus,po/ig.po
+Burlap,113,Bọláàpụ̀,114,nautilus,po/ig.po
+C_olors,117,Ụ_cha ndị ahụ,118,nautilus,po/ig.po
+Camouflage,121,Kamuflaaji,122,nautilus,po/ig.po
+Chalk,125,Ńzú,126,nautilus,po/ig.po
+Charcoal,129,Únyì,130,nautilus,po/ig.po
+Concrete,133,Kèáhụ̀rụ̀ anya,134,nautilus,po/ig.po
+Cork,137,Kọ́ọ̀kụ̀,138,nautilus,po/ig.po
+Countertop,141,Káwụ́ńtátọ́ọ̀pụ̀,142,nautilus,po/ig.po
+Danube,145,Dànúùbù,146,nautilus,po/ig.po
+Dark Cork,149,Kọ́ọ̀kụ́ dị oji,150,nautilus,po/ig.po
+Dark GNOME,153,GNOME dị oji,154,nautilus,po/ig.po
+Deep Teal,157,Tíìlì miri emi,158,nautilus,po/ig.po
+Dots,161,Dọ́ọ̀tụ̀,162,nautilus,po/ig.po
+Drag a color to an object to change it to that color,165,Kpụga ụcha na ọbjektị ka ọ gbanwee ya na ụcha ahụ,166,nautilus,po/ig.po
+Drag a pattern tile to an object to change it,169,Kpụga ụdị taịlụ na ọbjektị ka ọ gbanwee ya,170,nautilus,po/ig.po
+Drag an emblem to an object to add it to the object,173,Kpụga akara nhụbáámā na ọbjektị ka ịtinye ya n'ọbjektị ahụ,174,nautilus,po/ig.po
+Eclipse,177,Eklíìpsị̀,178,nautilus,po/ig.po
+Envy,181,Ekworo,182,nautilus,po/ig.po
+Erase,187,Hichaa,188,nautilus,po/ig.po
+Fibers,191,Faịba,192,nautilus,po/ig.po
+Fire Engine,195,Igwe ọ́kụ̄,196,nautilus,po/ig.po
+Floral,203,Flọrààlụ̀,204,nautilus,po/ig.po
+Fossil,207,Fọ̀sị́ị̀lụ̀,208,nautilus,po/ig.po
+Granite,215,Granaịtị,216,nautilus,po/ig.po
+Grapefruit,219,Grepfrúùtù,220,nautilus,po/ig.po
+Green Weave,223,Gríìn Wíìvù,224,nautilus,po/ig.po
+Ice,227,Áị̀zị̀,228,nautilus,po/ig.po
+Indigo,231,Ịndigo,232,nautilus,po/ig.po
+Leaf,235,Ahịhịa,236,nautilus,po/ig.po
+Lemon,239,Lémọ̄ọ̀nụ̀,240,nautilus,po/ig.po
+Mango,243,Mangoro,244,nautilus,po/ig.po
+Manila Paper,247,Manịla pepa,248,nautilus,po/ig.po
+Moss Ridge,251,Mọs Ríìjì,252,nautilus,po/ig.po
+Mud,255,Mọ́ọ̀dụ̀,256,nautilus,po/ig.po
+Numbers,259,Ọnụọgụgụ,260,nautilus,po/ig.po
+Ocean Strips,263,Oshiọn stripsi,264,nautilus,po/ig.po
+Onyx,267,Oniksị,268,nautilus,po/ig.po
+Orange,271,Oroma,272,nautilus,po/ig.po
+Pale Blue,275,Péèlụ́ Blu,276,nautilus,po/ig.po
+Purple Marble,279,Pọpụl Mabụlụ,280,nautilus,po/ig.po
+Ridged Paper,283,Ríìjí pepa,284,nautilus,po/ig.po
+Rough Paper,287,Rọf Pepa,288,nautilus,po/ig.po
+Ruby,291,Rọbi,292,nautilus,po/ig.po
+Sea Foam,295,Séè fom,296,nautilus,po/ig.po
+Shale,299,Shéèlụ̀,300,nautilus,po/ig.po
+Silver,303,Sịlịva,304,nautilus,po/ig.po
+Sky,307,Elu,308,nautilus,po/ig.po
+Sky Ridge,311,Elu Ríìjì,312,nautilus,po/ig.po
+Snow Ridge,315,Snóò Ríìjì,316,nautilus,po/ig.po
+Stucco,319,Stuko,320,nautilus,po/ig.po
+Tangerine,323,Oroma,324,nautilus,po/ig.po
+Terracotta,327,Terakota,328,nautilus,po/ig.po
+Violet,331,Váyọ́léètị̀,332,nautilus,po/ig.po
+Wavy White,335,Ọcha Wevi,336,nautilus,po/ig.po
+White,339,Ọcha,340,nautilus,po/ig.po
+White Ribs,343,Agịrịga dị ọcha,344,nautilus,po/ig.po
+_Emblems,347,_Akaranhụbáámā,348,nautilus,po/ig.po
+_Patterns,351,_Ụdị,352,nautilus,po/ig.po
+"A list of captions below an icon in the icon view and the desktop. The actual number of captions shown depends on the zoom level. Possible values are: \""size\"", \""type\"", \""date_modified\"", \""date_changed\"", \""date_accessed\"", \""owner\"", \""group\"", \""permissions\"", \""octal_permissions\"" and \""mime_type\"".",482,"Kapshiọn n'okpuru aịkọn ná ngosi aịkọn nakwa desktọọpụ. Kpọmkwem ọnụọgụgụ nke okwu ndị ahụ egosirila gbadoro ụkwụ n'ogo zum. Uru dị mmenwu bụ : \""size\"", \""type\"", \""date_modified\"", \""date_changed\"", \""date_accessed\"", \""owner\"", \""group\"", \""permissions\"", \""octal_permissions\"" na \""mime_type\"".",488,nautilus,po/ig.po
+Computer icon visible on desktop,539,Aịkọn kọmputa ahụrụanya na desktọ́ọ̀pụ̀,540,nautilus,po/ig.po
+Criteria for search bar searching,543,Kraịteria maka ọchịchọ ọ̀chọ́ọ̀ báà,544,nautilus,po/ig.po
+"Criteria when matching files searched for in the search bar. If set to \""search_by_text\"", then Nautilus will Search for files by file name only. If set to \""search_by_text_and_properties\"", then Nautilus will search for files by file name and file properties.",547,"Kraịteria mgbe a na-amakọ faịlụ achọrọla maka na ọchịchọ báà. Ọ bụrụ na a hazie ya na \""search_by_text\"", mgbe ahụ Nautilus ga-achọ faịlụ site n'aha faịlụ sọsọ. Ọ bụrụ na a hazie ya na \""search_by_text_and_properties\"", mgbe ahụ Nautilus ga-achọ faịlụ site n'aha faịlụ nakwa ngwaọrụ faịlụ.",552,nautilus,po/ig.po
+Current Nautilus theme (deprecated),559,Nautilus isiokwu nke ọfụụ (Nkeochie),560,nautilus,po/ig.po
+Custom Side Pane Background Set,568,Nhazi okpuru saịd pen emeredịkachọrọ,569,nautilus,po/ig.po
+Date Format,572,Nhazi ụbọchị,573,nautilus,po/ig.po
+Default Background Color,576,Ụcha okpuru dìfọ́ọ̀ltụ̀,577,nautilus,po/ig.po
+Default Background Filename,580,Ahafaịlụ okpuru dìfọ́ọ̀ltụ̀,581,nautilus,po/ig.po
+Default Side Pane Background Color,584,Ụcha okpuru saịd pen dìfọ́ọ̀ltụ̀,585,nautilus,po/ig.po
+Default Side Pane Background Filename,588,Ahịrịnkọwa faịlụ okpuru saịd pen dìfọ́ọ̀ltụ̀,589,nautilus,po/ig.po
+Default column order in the list view,597,Dìfọ́ọ̀ltụ̀ nhazi mpagharaogologo na ndesịta ngosi,598,nautilus,po/ig.po
+Default column order in the list view.,601,Dìfọ́ọ̀ltụ̀ nhazi mpagharaogologo na ndesịta ngosi.,602,nautilus,po/ig.po
+Default folder viewer,610,Dìfọ́ọ̀ltụ̀ nsomebefaịlụ onyenlereanya,611,nautilus,po/ig.po
+Default icon zoom level,614,Dìfọ́ọ̀ltụ̀ aịkọn ógó zum,615,nautilus,po/ig.po
+Default list of columns visible in the list view,618,Ndesịta dìfọ́ọ̀ltụ̀ nke mpagharaogologo ahụrụanya ná ngosi ndesịta,619,nautilus,po/ig.po
+Default list of columns visible in the list view.,622,Ndesịta dị̀fọ́ọ̀ltụ̀ nke mpagharaogologo ahụrụanya ná ngosi ndesịta.,623,nautilus,po/ig.po
+Default list zoom level,626,Ndesịta dìfọ́ọ̀ltụ̀ ógó zum,627,nautilus,po/ig.po
+Default sort order,630,Dìfọ́ọ̀ltụ̀ iwu nhazi,631,nautilus,po/ig.po
+Default zoom level used by the icon view.,639,Difọọltụ ógó ndapụ ọsịṣọ nke ngosi aịkọn jiri rụọ ọrụ.,640,nautilus,po/ig.po
+Default zoom level used by the list view.,643,Dìfọ́ọ̀ltụ̀ ógó zum nke ngosi ndesịta jiri rụọ ọrụ.,644,nautilus,po/ig.po
+Desktop computer icon name,647,Aha aịkọn kọmputa desktọ́ọ̀pụ̀,648,nautilus,po/ig.po
+Desktop font,651,Ihumkpụrụedemede desktọ́ọ̀pụ̀,652,nautilus,po/ig.po
+Desktop home icon name,655,Aha aịkọn ụlọ desktọ́ọ̀pụ̀,656,nautilus,po/ig.po
+Desktop trash icon name,659,Aha aịkọn ebe mkpofuozi desktọ́ọ̀pụ̀,660,nautilus,po/ig.po
+"Enables the classic Nautilus behavior, where all windows are browsers",663,"Na-ekwe àgwà Nautilus nke bụ̄ ákpụ̀, ebe windo niile ndị ahụ bụcha omenchọgharị",664,nautilus,po/ig.po
+Filename for the default folder background. Only used if background_set is true.,668,Ahafaịlụ maka okpuru nsomebe faịlụ dìfọ́ọ̀ltụ̀. A na-eji ya ma ọ bụrụ na okpuru_nhazi bụ eziokwu.,671,nautilus,po/ig.po
+Filename for the default side pane background. Only used if side_pane_background_set is true.,676,Ahafaịlụ maka okpuru saịd pen dìfọ́ọ̀ltụ̀. A na-eji ya ma ọ bụrụ na saịd_pen_okpuru_nhazi bụ eziokwu.,679,nautilus,po/ig.po
+Folders over this size will be truncated to around this size. The purpose of this is to avoid unintentionally blowing the heap and killing Nautilus on massive folders. A negative value denotes no limit. The limit is approximate due to the reading of folders chunk-wise.,684,Nsomebefaịlụ n'ụhara a ka a ga-egbubi ka ọ gbaa gburu gburu n'ụhara a. Ebumnuche nke a bụ izere amaghị ama mmebi híìpụ̀ nakwa imebi Nautilus na nnukwu nsomebefaịlụ. Uru enweghị isi dìnóòtùrù enweghị ógō. Ógō ahụ dị ḿgbàkọ́ n'ihi nwepụtaozi nke nsomebefaịlụ chọnk-waịzị.,689,nautilus,po/ig.po
+Home icon visible on desktop,696,A hụrụ aịkọn nke ụlọ na desktọ́ọ̀pụ̀,697,nautilus,po/ig.po
+"If set to true, Nautilus will only show folders in the tree side pane. Otherwise it will show both folders and files.",707,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus ga-egosi sọsọ nsomebefaịlụ ndị ahụ na tríì saịd pen. Kama ọ ga-egosi nsomebefaịlụ na faịlụ ndị ahụ.",710,nautilus,po/ig.po
+"If set to true, newly opened windows will have the location bar visible.",715,"Ọ bụrụ na a haziri ya na eziokwu, windo ndị á kà mepere ọfụụ ga-eme ka áhụ́ báà ébē anya.",717,nautilus,po/ig.po
+"If set to true, newly opened windows will have the side pane visible.",722,"Ọ bụrụ na a haziri ya na eziokwu, windo ndị á kà mepere ọfụụ ga-eme ka áhụ́ saịd pen anya.",723,nautilus,po/ig.po
+"If set to true, newly opened windows will have the status bar visible.",728,"Ọ bụrụ na a haziri ya na eziokwu, windo ndị á kà mepere ọfụụ ga-eme ka áhụ́ status báà anya.",729,nautilus,po/ig.po
+"If set to true, newly opened windows will have toolbars visible.",734,"Ọ bụrụ na a haziri ya na eziokwu, windo ndị á kà mepere ọfụụ ga-eme ka áhụ́ tulbáà ndị ahụ anya.",735,nautilus,po/ig.po
+"If set to true, then Nautilus shows folders prior to showing files in the icon and list views.",755,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus ga-egosi nsomebefaịlụ túpúù ngosi faịlụ na aịkọn nakwa ngosi ndesịta.",758,nautilus,po/ig.po
+"If set to true, then Nautilus will draw the icons on the desktop.",786,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus gà-àdọ́ aịkọn ahụ na desktọ́òpụ̀.",787,nautilus,po/ig.po
+"If set to true, then Nautilus will have a feature allowing you to delete a file immediately and in-place, instead of moving it to the trash. This feature can be dangerous, so use caution.",791,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus ga-enwe iheọrụ ga-enyere gị ohere ihicha faịlụ ozugbo n'ebe, kama ịkpụga ya n'ebemkpofuozi. Iheọrụ a nwere ike i dị̄ egwu, ya bụ na ka i jiri nzere.",795,nautilus,po/ig.po
+"If set to true, then Nautilus will use the user's home folder as the desktop. If it is false, then it will use ~/Desktop as the desktop.",810,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus ga-eji nsomebefaịlụ ụlọ nke ojieme dịka desktọ́ọ̀pụ̀. Ọ bụrụ na ọ bụ àsị́, mgbe ahụ ọ ga-eji ~/Desktọ́ọ̀pụ̀ dịka desktọ́ọ̀pụ̀.",813,nautilus,po/ig.po
+"If set to true, then all Nautilus windows will be browser windows. This is how Nautilus used to behave before version 2.6, and some people prefer this behavior.",819,"Ọ bụrụ na a haziri ya na eziokwu, Nautilus windo niile ga-abụ windo nchọgharị. Nke a bụ etu Nautilus sị akpa agwa túpúù agbanke 2.6, nakwa ụfọdụ ndị mmadụ kara chọọ agwa a.",823,nautilus,po/ig.po
+"If set to true, then backup files such as those created by Emacs are displayed. Currently, only files ending in a tilde (~) are considered backup files.",829,"Ọ bụrụ na a haziri ya na eziokwu, mgbe ahụ faịlụ mgbakwunye dịka ndị Emacs kewapụtara ka egosipụtara. Kèọ́fụ́ụ̄, sọsọ faịlụ ndị gwụrụ na tildị (~) ka e weere dịka mgbakwunye faịlụ.",833,nautilus,po/ig.po
+"If set to true, then hidden files are shown in the file manager. Hidden files are either dotfiles or are listed in the folder's .hidden file.",839,"Ọ bụrụ na a haziri ya na eziokwu, ya bụ na a ga-egosi faịlụ ndị e zoro ezo na onyenlekọta faịlụ. Faịlụ ndị e zoro ezo nwere ike ị́bụ̄ dọtfaịlụ mọọbụ na edesịtara ha na nsoromebefaịlụ .faịlụ ndị e zoro ezo. ",842,nautilus,po/ig.po
+"If this is set to true, an icon linking to the computer location will be put on the desktop.",863,"Ọ bụrụ na a haziri nke a na eziokwu, aịkọn na-abanye na kọmputa a ga-etinye ya na desktọ́ọ̀pụ̀.",866,nautilus,po/ig.po
+"If this is set to true, an icon linking to the home folder will be put on the desktop.",871,"Ọ bụrụ na a haziri nke a na eziokwu, aịkọn na-abanye n'ụlọ nsomebefaịlụ a ga-etinye ya na desktọ́ọ̀pụ̀.",874,nautilus,po/ig.po
+"If this is set to true, an icon linking to the trash will be put on the desktop.",879,"Ọ bụrụ na a haziri nke a na eziokwu, aịkọn na-abanye n'ebemkpofuozi a ga-etinye ya na desktọ́ọ̀pụ̀.",882,nautilus,po/ig.po
+"If this is set to true, icons linking to mounted volumes will be put on the desktop.",887,"Ọ bụrụ na a haziri nke a na eziokwu, aịkọn na-abanye n'ụda ewelitere ewelite a ga-etinye ya na desktọ́ọ̀pụ̀.",890,nautilus,po/ig.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\"".",905,"Ọ bụrụ na ọ bụ eziokwu, faịlụ ndị dị na windo ka a ga-ahazi n'ụdị nhazi mgbanwe. nke bụ, ọ bụrụ na a haziri ya site n'aha, ya bụ na kama ihazi faịlụ ndị ahụ site na \""a\"" ruo na \""z\"", a ga-ahazi ha site na \""z\"" ruo na \""a\"".",909,nautilus,po/ig.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\""; if sorted by size, instead of being incrementally they will be sorted decrementally.",915,"Ọ bụrụ na ọ bụ eziokwu, faịlụ ndị dị na windo ka a ga-ahazi n'ụdị nhazi mgbanwe. nke bụ, ọ bụrụ na a haziri ya site n'aha, ya bụ na kama ihazi faịlụ ndị ahụ site na \""a\"" ruo na \""z\"", a ga-ahazi ha site na \""z\"" ruo na \""a\"", ọ bụrụ na a haziri ya site n'ụhara, kama ihaziwe n'elu elu ha ga n'ahazi n'ala ala.",920,nautilus,po/ig.po
+"If true, icons will be laid out tighter by default in new windows.",928,"Ọ bụrụ na ọ bụ eziokwu, Dìfọ́ọ̀ltụ̀ ga-ejidesi aịkọn ike na windo ọfụụ ndị ahụ.",929,nautilus,po/ig.po
+"If true, labels will be placed beside icons rather than underneath them.",933,"Ọ bụrụ na ọ bụ eziokwu, a ga-edesa ihengosi ndị ahụ n'akụkụ aịkọn kama ịdesa ha n'okpuru.",935,nautilus,po/ig.po
+"If true, new windows will use manual layout by default.",940,"Ọ bụrụ na ọ bụ eziokwu, windo ndị ọfụụ ga-eji ndozi ihenlereanya site na dìfọ́ọ̀ltụ̀.",941,nautilus,po/ig.po
+Images over this size (in bytes) won't be thumbnailed. The purpose of this setting is to avoid thumbnailing large images that may take a long time to load or use lots of memory.,946,Inyogo n'ụhara a (na baịtị) agaghị a bụ tọ́mbnéèlụ̀. Ebumnuche nhazi a bụ ka ezere inyogo ndị buru ibu nke tọ́mbnéèlụ̀ nke nwere ike igbu oge n'idebata mọọbụ jiri ebenchekwaozi dị ichiiche.,950,nautilus,po/ig.po
+List of possible captions on icons,956,Ndesịta okwu okpuru na aịkọn ndị ahụ,957,nautilus,po/ig.po
+Maximum handled files in a folder,994,Faịlụ nlekọta mbawanye n'ime nsomebefaịlụ,995,nautilus,po/ig.po
+Maximum image size for thumbnailing,998,Ụhara inyogo mbawanye maka tọ́mbnéèlị̀n,999,nautilus,po/ig.po
+Name of the Nautilus theme to use. This has been deprecated as of Nautilus 2.2. Please use the icon theme instead.,1002,Aha isiokwu Nautilus a ga-eji. Émēélá nke a ochie dịka nke Nautilus 2.2. Kama jiri isiokwu aịkọn biko.,1005,nautilus,po/ig.po
+Nautilus handles drawing the desktop,1010,Ndezi Nautilus na-àdọ̀ desktọ́ọ̀pụ̀,1011,nautilus,po/ig.po
+Nautilus uses the users home folder as the desktop,1014,Nautilus na-eji nsomebefaịlụ ụlọ nke ndị ojieme dịka desktọ́ọ̀pụ̀,1015,nautilus,po/ig.po
+"Possible values are \""single\"" to launch files on a single click, or \""double\"" to launch them on a double click.",1037,"A ga-ebubata uru faịlụ dị mmenwu bụ \""single\"" site n'ịpị otu ugboro, mọọbụ \""double\"" ka ibubata ha site n'ịpị pịmpịkwasa.",1040,nautilus,po/ig.po
+Put labels beside icons,1045,Tinye ihengosi n'akụkụ aịkọn ndị ahụ,1046,nautilus,po/ig.po
+Reverse sort order in new windows,1049,Gbanwe nhazi na windo ndị ọfụụ,1050,nautilus,po/ig.po
+Show folders first in windows,1065,Gosi n'izizi nsomebefaịlụ na windo ndị ahụ,1066,nautilus,po/ig.po
+Show location bar in new windows,1069,Gosi ebe báà na windo ndị ọfụụ,1070,nautilus,po/ig.po
+Show mounted volumes on the desktop,1073,Gosi ụda ndị ewelitere ewelite na desktọ́ọ̀pụ̀,1074,nautilus,po/ig.po
+Show side pane in new windows,1077,Gosi saịd pen na windo ndị ọfụụ,1078,nautilus,po/ig.po
+Show status bar in new windows,1081,Gosi status báà na windo ndị ọfụụ,1082,nautilus,po/ig.po
+Show toolbar in new windows,1085,Gosi tulbáà na windo ndị ọfụụ,1086,nautilus,po/ig.po
+Side pane view,1089,Ngosi saịd pen,1090,nautilus,po/ig.po
+"The default sort-order for items in the icon view. Possible values are \""name\"", \""size\"", \""type\"", \""modification_date\"", and \""emblems\"".",1164,"Dìfọ́ọ̀ltụ̀ iwu-nhazi maka ihenhọrọ ná ngosi aịkọn.Uru dị mmenwu bụ \""name \"", \""size\"", \""type\"", \""modification_date\"", na \""emblems\"".",1167,nautilus,po/ig.po
+"The default sort-order for the items in the list view. Possible values are \""name\"", \""size\"", \""type\"", and \""modification_date\"".",1172,"Dìfọ́ọ̀ltụ̀ iwu-nhazi maka ihenhọrọ na ngosi ndesịta.Uru dị mmenwu bụ \""name\"", \""size\"", \""type\"", na \""modification_date\"".",1175,nautilus,po/ig.po
+The default width of the side pane in new windows.,1180,Dìfọ́ọ̀ltụ̀ uhie nke saịd pen na windo ndị ọfụụ.,1181,nautilus,po/ig.po
+The font description used for the icons on the desktop.,1184,Nkọwa ihumkpụrụedemede ejiri maka aịkọn na desktọ́ọ̀pụ̀.,1185,nautilus,po/ig.po
+"The format of file dates. Possible values are \""locale\"", \""iso\"", and \""informal\"".",1188,"Ọdịdị nke ụbọchị faịlụ. Uru dị mmenwu bụ \""locale\"", \""iso\"", na \""informal\"".",1191,nautilus,po/ig.po
+The side pane view to show in newly opened windows.,1196,Ngosi saịd pen ga-egosipụta na windo ndị ọfụụ ahụ emepere emepe.,1197,nautilus,po/ig.po
+This name can be set if you want a custom name for the computer icon on the desktop.,1200,A ga-ahazinwu aha a ma ọ bụrụ na ịchọrọ aha emeredịkachọrọ maka aịkọn kọmputa na desktọ́ọ̀pụ̀.,1203,nautilus,po/ig.po
+This name can be set if you want a custom name for the home icon on the desktop.,1208,A ga-ahazinwu aha a ma ọ bụrụ na ịchọrọ aha emeredịkachọrọ maka aịkọn keụlọ na desktọ́ọ̀pụ̀.,1211,nautilus,po/ig.po
+This name can be set if you want a custom name for the trash icon on the desktop.,1225,A ga-ahazinwu aha a ma ọ bụrụ na ịchọrọ aha emeredịkachọrọ maka aịkọn ebemkpofuozi na desktọ́ọ̀pụ̀.,1228,nautilus,po/ig.po
+Trash icon visible on desktop,1233,Aịkọn ebemkpofuozi nke a hụrụ anya na desktọ́ọ̀pụ̀,1234,nautilus,po/ig.po
+Type of click used to launch/open files,1237,Ụdị ọ̀pị̀pị̀ eji ebubata/mmepe faịlụ ndị ahụ,1238,nautilus,po/ig.po
+Use manual layout in new windows,1241,Jiri ndozi nlereanya na windo ndị ọfụụ,1242,nautilus,po/ig.po
+Use tighter layout in new windows,1245,Jiri ndozi taịta na windo ndị ọfụụ,1246,nautilus,po/ig.po
+What to do with executable text files when activated,1249,Ihe a ga-eji faịlụ ngwe dị̄ mbido méé mgbe ejiri ya rụọ ọrụ,1250,nautilus,po/ig.po
+"What to do with executable text files when they are activated (single or double clicked). Possible values are \""launch\"" to launch them as programs, \""ask\"" to ask what to do via a dialog, and \""display\"" to display them as text files.",1253,"Ihe a ga-eji faịlụ ngwe dị̄ mbido méé mgbe ejiri ha rụọ ọrụ (pịa otu ugboro mọọbụ pịmpịkwasa). Uru dị mmenwu ga \""bubata\"" ebubata ha dịka program, \""jụọ\"" n'ịjụ ihe a ga-eme n'ụzọ dayalọ́ọ̀gụ̀, nakwa \""display\"" igosi ha dịka faịlụ ngwe ndị ahụ.",1258,nautilus,po/ig.po
+When to show number of items in a folder,1276,Mgbe a na-egosi ọnụọgụgụ ihenhọrọ na nsomebefaịlụ,1277,nautilus,po/ig.po
+When to show preview text in icons,1280,Mgbe a na-egosi nlebiritụanya ngwe na aịkọn ndị ahụ,1281,nautilus,po/ig.po
+When to show thumbnails of image files,1284,Mgbe a na-egosi tọ́mbnéèlụ̀ nke inyogo faịlụ ndị ahụ,1285,nautilus,po/ig.po
+Whether a custom default folder background has been set.,1293,Ma ọ bụ na a haziela okpuru nsomebefaịlụ dìfọ́ọ̀ltụ̀ emeredịkachọrọ.,1294,nautilus,po/ig.po
+Whether a custom default side pane background has been set.,1297,Ma ọ bụ na a haziela okpuru saịd pen dìfọ́ọ̀ltụ̀ emeredịkachọrọ.,1298,nautilus,po/ig.po
+Whether to enable immediate deletion,1315,Ma ọ bụ ka é kwé nhicha ozugbo,1316,nautilus,po/ig.po
+Whether to preview sounds when mousing over an icon,1329,Ma ọ bụ ka elebiritụanya ụda mgbe a na-amawụsụ na aịkọn,1330,nautilus,po/ig.po
+Whether to show backup files,1333,Ma ọ bụ ka egosi mgbakwunye faịlụ ndị ahụ,1334,nautilus,po/ig.po
+Whether to show hidden files,1337,Ma ọ bụ ka egosi faịlụ ndị ahụ e zoro ezo,1338,nautilus,po/ig.po
+Width of the side pane,1341,Uhie nke saịd pen,1342,nautilus,po/ig.po
+_Eject,1457,_Wepụ,1458,nautilus,po/ig.po
+Cut the selected text to the clipboard,1472,Hichaa ngwe nke ahụ a họọrọ na bé òchékwáōzím̀gbèńtà,1473,nautilus,po/ig.po
+Copy the selected text to the clipboard,1479,Debata ngwe nke ahụ a họọrọ na bé òchékwáōzím̀gbèńtà,1480,nautilus,po/ig.po
+Paste the text stored on the clipboard,1486,Mapanye ngwe echekwarala na bé òchékwáōzím̀gbèńtà,1487,nautilus,po/ig.po
+Select _All,1493,Họrọ _Ha niile,1494,nautilus,po/ig.po
+Select all the text in a text field,1498,Họrọ ngwe niile na m̀bárá ngwe,1499,nautilus,po/ig.po
+Move _Up,1502,Kpụga _n'elu,1503,nautilus,po/ig.po
+Name,1518,Aha,1519,nautilus,po/ig.po
+The name and icon of the file.,1522,Aha na aịkọn nke faịlụ ahụ.,1523,nautilus,po/ig.po
+Size,1526,Ụhara,1527,nautilus,po/ig.po
+The size of the file.,1530,Ụhara faịlụ ahụ.,1531,nautilus,po/ig.po
+Type,1534,Ụdị,1535,nautilus,po/ig.po
+The type of the file.,1538,Ụdị faịlụ ahụ.,1539,nautilus,po/ig.po
+Date Modified,1543,Emegharịala ụbọchị,1544,nautilus,po/ig.po
+The date the file was modified.,1547,Ụbọchị na faịlụ ka emegharịrịla.,1548,nautilus,po/ig.po
+Date Accessed,1551,Abanyegọ ụbọchị,1552,nautilus,po/ig.po
+The date the file was accessed.,1555,Abanyego ụbọchị na faịlụ.,1556,nautilus,po/ig.po
+Owner,1559,Ónyénwē,1560,nautilus,po/ig.po
+The owner of the file.,1563,Ónyénwē faịlụ ahụ.,1564,nautilus,po/ig.po
+Group,1567,Òtù,1568,nautilus,po/ig.po
+The group of the file.,1571,Òtù faịlụ ahụ.,1572,nautilus,po/ig.po
+Permissions,1576,Ikikere,1577,nautilus,po/ig.po
+The permissions of the file.,1580,Ikikere nke faịlụ ahụ.,1581,nautilus,po/ig.po
+Octal Permissions,1584,Ikikere ọ́ktààlụ̀,1585,nautilus,po/ig.po
+"The permissions of the file, in octal notation.",1588,"Ikikere nke faịlụ ahụ, na ọ́ktààlụ̀ akara ngosi ozi.",1589,nautilus,po/ig.po
+MIME Type,1592,Ụdị MIME,1593,nautilus,po/ig.po
+The mime type of the file.,1596,Ụdị mime nke faịlụ.,1597,nautilus,po/ig.po
+on the desktop,1617,Na desktọ́ọ̀pụ̀,1618,nautilus,po/ig.po
+Set as _Background,1657,Hazie dịka _Okpuru,1658,nautilus,po/ig.po
+Cancel,1662,Wepụ,1663,nautilus,po/ig.po
+Set as background for _all folders,1666,Hazie dịka okpuru maka _nsomebefaịlụ ndị ahụ niile,1667,nautilus,po/ig.po
+Set as background for _this folder,1670,Hazie dịka okpuru maka _nsomebefaịlụ a,1671,nautilus,po/ig.po
+The emblem cannot be installed.,1678,Agaghị ewunyenwu ákàrà ahụ.,1679,nautilus,po/ig.po
+"Sorry, but you must specify a non-blank keyword for the new emblem.",1682,"Ǹdó, mana ị ga-ezipụta ngwenchọcha kèíhé na-adịghị maka ákàrà ọfụụ.",1683,nautilus,po/ig.po
+"Sorry, but emblem keywords can only contain letters, spaces and numbers.",1686,"Ǹdó, mana ákàrà ngwenchọcha ga-abanwu sọsọ mkpụrụokwu, ohere na ọnụọgụgụ.",1688,nautilus,po/ig.po
+"Sorry, but there is already an emblem named \""%s\"".",1697,"Ǹdọ́, mana enwego ákàrà abagoro aha \""%s\"".",1698,nautilus,po/ig.po
+Please choose a different emblem name.,1701,Biko họrọ aha ákàrà dị iche.,1702,nautilus,po/ig.po
+"Sorry, unable to save custom emblem.",1706,"Ǹdọ́, enweghịnwu ike ichekwa ákàrà emeredịkachọrọ.",1707,nautilus,po/ig.po
+"Sorry, unable to save custom emblem name.",1710,"Ǹdọ́, enweghịnwu ike ichekwa aha ákàrà emeredịkachọrọ.",1711,nautilus,po/ig.po
+_Skip,1714,_pụọ,1715,nautilus,po/ig.po
+_Retry,1722,_Megharịa,1723,nautilus,po/ig.po
+_Replace,1731,_Dochie,1732,nautilus,po/ig.po
+Replace _All,1735,Dochie _ha niile,1736,nautilus,po/ig.po
+ (copy),1828,(debata),1829,nautilus,po/ig.po
+ (another copy),1833,(Ndebata ọzọ),1834,nautilus,po/ig.po
+th copy),1844,th ndebata),1845,nautilus,po/ig.po
+st copy),1849,st ndebata),1850,nautilus,po/ig.po
+nd copy),1854,nd ndebata),1855,nautilus,po/ig.po
+rd copy),1859,rd ndebata),1860,nautilus,po/ig.po
+%s (copy)%s,1865,%s (ndebata)%s,1866,nautilus,po/ig.po
+%s (another copy)%s,1871,%s (ndebata ọzọ)%s,1872,nautilus,po/ig.po
+"If you delete an item, it will be permanently lost.",1935,"Ọ bụrụ na ihichaa ihenhọrọ a, ọ ga-efu kpam kpam.",1936,nautilus,po/ig.po
+Empty all of the items from the trash?,1939,Ghewe ihenhọrọ niile ahụ oghe n'ime ebemkpofuozi?,1940,nautilus,po/ig.po
+"If you choose to empty the trash, all items in it will be permanently lost. Please note that you can also delete them separately.",1943,"Ọ bụrụ na ịchọrọ ighewe ebemkpofuozi ahụ oghe, ihenhọrọ niile ahụ dị n'ime ya ga-efu ǹchá n̄chá. Biko mara na ị́ gà-ehicha n'iche iche.",1946,nautilus,po/ig.po
+Empty _Trash,1954,Ghewe _ebemkpofuozi oghe,1955,nautilus,po/ig.po
+Deleting files,1971,Ihicha faịlụ ndị ahụ,1972,nautilus,po/ig.po
+Error while deleting.,1993,Ndehie mgbe a na-ehicha.,1994,nautilus,po/ig.po
+"Cannot move file to trash, do you want to delete immediately?",2055,"Agaghị enwenwu ike ikpụga faịlụ n'ebemkpofuozi, ịchọrọ ihicha ozugbo?",2056,nautilus,po/ig.po
+Error while copying.,2124,Ndehie mgbe a na-edebata.,2125,nautilus,po/ig.po
+Error while moving.,2130,Ndehie mgbe a na-akpụgharị.,2131,nautilus,po/ig.po
+You cannot move a folder into itself.,2336,Igaghị akpụganwu nsomebefaịlụ n'ime onwe ya.,2337,nautilus,po/ig.po
+You cannot copy a folder into itself.,2341,Igaghị edebatanwu nsomebefaịlụ n'ime onwe ya.,2342,nautilus,po/ig.po
+The destination folder is inside the source folder.,2346,Nsomebefaịlụ keụlọ nọ n'ime ebensinweta nsomebefaịlụ.,2347,nautilus,po/ig.po
+untitled folder,2464,Nsomebefaịlụ na-enweghị isiokwu,2465,nautilus,po/ig.po
+new file,2469,Faịlụ ọfụụ,2470,nautilus,po/ig.po
+today at 00:00:00 PM,2534,Táà na 00:00:00 PM,2535,nautilus,po/ig.po
+today at %-I:%M:%S %p,2539,Táà na %-I:%M:%S %p,2540,nautilus,po/ig.po
+today at 00:00 PM,2543,Táà na 00:00 PM,2544,nautilus,po/ig.po
+today at %-I:%M %p,2547,Táà na %-I:%M %p,2548,nautilus,po/ig.po
+"today, 00:00 PM",2551,"Táà, 00:00 PM",2552,nautilus,po/ig.po
+"today, %-I:%M %p",2555,"Táà, %-I:%M %p",2556,nautilus,po/ig.po
+today,2560,Táà,2561,nautilus,po/ig.po
+yesterday at 00:00:00 PM,2567,Ụnyaahụ na 00:00:00 PM,2568,nautilus,po/ig.po
+yesterday at %-I:%M:%S %p,2571,Ụnyaahụ na %-I:%M:%S %p,2572,nautilus,po/ig.po
+yesterday at 00:00 PM,2575,Ụnyaahụ na 00:00 PM,2576,nautilus,po/ig.po
+yesterday at %-I:%M %p,2579,Ụnyaahụ na %-I:%M %p,2580,nautilus,po/ig.po
+"yesterday, 00:00 PM",2583,"Ụnyaahu, 00:00 PM",2584,nautilus,po/ig.po
+"yesterday, %-I:%M %p",2587,"Ụnyaahụ, %-I:%M %p",2588,nautilus,po/ig.po
+yesterday,2592,Ụnyaahụ,2593,nautilus,po/ig.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2601,"Wenezdéè, Septemba 00 0000 na 00:00:00 PM",2602,nautilus,po/ig.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2609,"Mọn, Ọkt 00 0000 na 00:00:00 PM",2610,nautilus,po/ig.po
+"Mon, Oct 00 0000 at 00:00 PM",2617,"Mọn, Ọkt 00 0000 na 00:00 PM",2618,nautilus,po/ig.po
+Oct 00 0000 at 00:00 PM,2625,Ọkt 00 0000 na 00:00 PM,2626,nautilus,po/ig.po
+"Oct 00 0000, 00:00 PM",2633,"Ọkt 00 0000, 00:00 PM",2634,nautilus,po/ig.po
+? items,2716,? ihenhọrọ ndị ahụ,2717,nautilus,po/ig.po
+? bytes,2721,? baịtị ndị ahụ,2722,nautilus,po/ig.po
+unknown type,2725,Ụdị a na-amaghị,2726,nautilus,po/ig.po
+unknown MIME type,2729,Ụdị MIME a na-amaghị,2730,nautilus,po/ig.po
+unknown,2737,Amaghị,2738,nautilus,po/ig.po
+link,2745,Ụzọ njikọ,2746,nautilus,po/ig.po
+link (broken),2749,Ụzọ njikọ (emebiela),2750,nautilus,po/ig.po
+_Always,2753,_Mgbe ọbụla,2754,nautilus,po/ig.po
+_Local File Only,2757,_Faịlụ keụlọ sọsọ,2758,nautilus,po/ig.po
+_Never,2761,_Ebighị ebị,2762,nautilus,po/ig.po
+Activate items with a _single click,2842,Bido ọrụ ihenhọrọ site  _n'ọ́tụ̄ ọ̀pị̀pị́,2843,nautilus,po/ig.po
+Activate items with a _double click,2846,Bido ọrụ ihenhọrọ site na _pịmpịkwasa,2847,nautilus,po/ig.po
+E_xecute files when they are clicked,2850,W_epụta faịlụ mgbe a pirị ha,2851,nautilus,po/ig.po
+Display _files when they are clicked,2854,Gosi _faịlụ ndị ahụ mgbe a pịrị ha,2855,nautilus,po/ig.po
+_Ask each time,2859,_Jụọ mgbe ọbụla,2860,nautilus,po/ig.po
+Search for files by file name only,2863,Chọọ faịlụ ndị ahụ site na aha faịlụ sọsọ,2864,nautilus,po/ig.po
+Search for files by file name and file properties,2867,Chọọ faịlụ ndị ahụ site na aha faịlụ nakwa ngwaọrụ faịlụ ndị ahụ,2868,nautilus,po/ig.po
+Icon View,2875,Ngosi aịkọn,2876,nautilus,po/ig.po
+List View,2891,Ngosi ndesịta,2892,nautilus,po/ig.po
+Manually,2895,N'aka,2896,nautilus,po/ig.po
+By Name,2899,Site n'aha,2900,nautilus,po/ig.po
+By Size,2903,Site n'ụhara,2904,nautilus,po/ig.po
+By Type,2907,Site n'ụdị,2908,nautilus,po/ig.po
+By Modification Date,2911,Site Ụbọchị mmegharị,2912,nautilus,po/ig.po
+By Emblems,2915,Site n'akara ndị ahụ,2916,nautilus,po/ig.po
+%s's Home,2964,%s's Ụlọ,2965,nautilus,po/ig.po
+Computer,2969,Kọmputa,2970,nautilus,po/ig.po
+Trash,2974,Ebemkpofuozi,2975,nautilus,po/ig.po
+Network Servers,2978,Sava ikukumgbasaozi,2979,nautilus,po/ig.po
+The selection rectangle,2982,Nhọrọ rektangụl,2983,nautilus,po/ig.po
+Switch to Manual Layout?,2986,Banye na ndozi ihenlereanya?,2987,nautilus,po/ig.po
+Mo_ve to Trash,3017,Kp_ụga n'ebemkpofuozi,3018,nautilus,po/ig.po
+"Do you want to run \""%s\"", or display its contents?",3022,"Ịchọrọ ibido \""%s\"", mọọbụ gosi ndịna ya?",3023,nautilus,po/ig.po
+"\""%s\"" is an executable text file.",3027,"\""%s\"" bụ faịlụ ngwe dị̄ mbido.",3028,nautilus,po/ig.po
+Run in _Terminal,3031,Bido n'ebe _ngwaọrụ mbupụ na mbubata ozi,3032,nautilus,po/ig.po
+_Display,3035,_Gosi,3036,nautilus,po/ig.po
+_Run,3040,_Bido,3041,nautilus,po/ig.po
+Are you sure you want to open all files?,3045,Ìkwèsị̀rị̀ ike na ịchọrọ imepe faịlụ niile ndị a?,3046,nautilus,po/ig.po
+This will open %d separate window.,3058,Nke a ga-emepe %d windo dị iche iche.,3060,nautilus,po/ig.po
+This will open %d separate window.,3058,Nke a ga-emepe %d windo dị iche iche.,3061,nautilus,po/ig.po
+"Opening \""%s\"".",3113,"Na-emepe \""%s\"".",3114,nautilus,po/ig.po
+Icon,3141,Aịkọn,3142,nautilus,po/ig.po
+Open With,3209,Jiri mepee,3210,nautilus,po/ig.po
+_Open,3233,_Mepee,3234,nautilus,po/ig.po
+"Open Failed, would you like to choose another application?",3253,"Emepenwughị́ị̀, ịchọrọ ịhọrọ usoroiheomume ọzọ?",3254,nautilus,po/ig.po
+"Open Failed, would you like to choose another action?",3267,"Emepenwughị́ị̀, ịchọrọ ịhọrọ mmem ọzọ?",3268,nautilus,po/ig.po
+"No other applications are available to view this file.  If you copy this file onto your computer, you may be able to open it.",3281,"Enweghịzị usoroiheomume ọzọ nọ́nụ̄ nke ga-egosi faịlụ a. Ọ bụrụ na idebata faịlụ a na kọmputa gị, inwere ike imepe ya.",3284,nautilus,po/ig.po
+"No other actions are available to view this file.  If you copy this file onto your computer, you may be able to open it.",3289,"Enweghịzị mmem ọzọ nọ́nụ̄ nke ga-egosi faịlụ a.  Ọ bụrụ na idebata faịlụ a na kọmputa gị, inwere ike imepe ya.",3292,nautilus,po/ig.po
+This is disabled due to security considerations.,3302,Anapụrụ nke a ike n'ihi nnabata echiche nchekwa. ,3303,nautilus,po/ig.po
+There was an error launching the application.,3307,Enwere ndehie ná mbubata usoroiheomume ahụ.,3308,nautilus,po/ig.po
+This drop target only supports local files.,3312,Ńtọ̀gbọ̀ tágēètị̀ a sọsọ na-akwado faịlụ keụlọ.,3313,nautilus,po/ig.po
+To open non-local files copy them to a local folder and then drop them again.,3316,N'imepe faịlụ ndị na-abụghị keụlọ debaa ha na nsomebefaịlụ keụlọ ma tọ̀gbọ́ ha ọzọ.,3318,nautilus,po/ig.po
+To open non-local files copy them to a local folder and then drop them again. The local files you dropped have already been opened.,3323,N'imepe faịlụ na-abụghị keụlọ debaa ha na nsomebefaịlụ keụlọ ma tọ̀gbọ́ ha ọzọ. Emepeláàrị́ị̀ faịlụ keụlọ ahụ ịtọgbọrọ.,3326,nautilus,po/ig.po
+Details: ,3331,Ndesịta ozi ndị ahụ: ,3332,nautilus,po/ig.po
+Edit,3366,Dezie,3367,nautilus,po/ig.po
+Undo Edit,3370,Wepụtagharịa ndezi ehichara ehicha,3371,nautilus,po/ig.po
+Undo the edit,3374,Wepụtagharịa ndezi ahụ ehichara ehicha,3375,nautilus,po/ig.po
+Redo Edit,3378,Megharịa ndezi,3379,nautilus,po/ig.po
+Redo the edit,3382,Megharịa ndezi ahụ,3383,nautilus,po/ig.po
+File Browser,3395,Ome nchọgharị faịlụ,3396,nautilus,po/ig.po
+File Management,3409,Nlekọta faịlụ,3410,nautilus,po/ig.po
+Home Folder,3413,Nsomebefaịlụ nke ụlọ,3414,nautilus,po/ig.po
+File Manager,3423,Onyenlekọta faịlụ,3424,nautilus,po/ig.po
+Background,3427,Okpuru,3428,nautilus,po/ig.po
+E_mpty Trash,3435,G_hewe ebemkpofuozi oghe,3436,nautilus,po/ig.po
+Create a new launcher,3450,Kewapụta omembubata ọfụụ,3451,nautilus,po/ig.po
+Change Desktop _Background,3455,Gbanwe _okpuru desktọ́ọ̀pụ̀,3456,nautilus,po/ig.po
+Show a window that lets you set your desktop background's pattern or color,3460,Gosi windo nke na-enyere gị aka ịhazi usoro okpuru desktọ́ọ̀pụ̀ gị mọọbụ,3462,nautilus,po/ig.po
+Empty Trash,3466,Ghewe ebemkpfuozi oghe,3467,nautilus,po/ig.po
+Delete all items in the Trash,3473,Hichaa ihenhọrọ niile n'ime ebemkpofuozi,3474,nautilus,po/ig.po
+There was an error displaying help.,3504,Enwere ndehie mgbe a na-egosi nnyemaka.,3505,nautilus,po/ig.po
+_Pattern:,3513,_Usoro:,3514,nautilus,po/ig.po
+_Folder:,3527,_Nsomebefaịlụ:,3528,nautilus,po/ig.po
+"\""%s\"" selected",3537,"\""%s\"" a họrọla",3538,nautilus,po/ig.po
+"%s, Free space: %s",3589,"%s, ohere a hapụrụ: %s",3590,nautilus,po/ig.po
+"The folder \""%s\"" contains more files than Nautilus can handle.",3610,"Nsomebefaịlụ \""%s\"" ahụ nwere ọtụtụ faịlụ karịa ka Nautilus ga-arụnwu.",3611,nautilus,po/ig.po
+Some files will not be displayed.,3614,Agaghị egosi ụfọdụ faịlụ.,3615,nautilus,po/ig.po
+"Open with \""%s\""",3619,"Jiri \""%s\"" mepee",3620,nautilus,po/ig.po
+"Run \""%s\"" on any selected items",3631,"Bido \""%s\"" n'otu n'ime ihenhọrọ ndị a a họọrọ",3632,nautilus,po/ig.po
+"Create Document from template \""%s\""",3636,"Kewapụta dọkumentị na templéètì \""%s\""",3637,nautilus,po/ig.po
+All executable files in this folder will appear in the Scripts menu.,3640,Faịlụ niile ndị dị̄ mbido n'ime nsomebefaịlụ a ga-apụta n'ihendesịta menu.,3641,nautilus,po/ig.po
+Choosing a script from the menu will run that script with any selected items as input.,3645,Ịhọrọ ihendesịta na menu ga-ebido ihendesịta ahụ ya na ihenhọrọ nke ahụ a họrọla dịka ntinyeihe.,3648,nautilus,po/ig.po
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window",3653,"Faịlụ niile dị̄ mbido na nsomebefaịlụ a ga-apụta na ndesịta menu. Ịhọrọ ihendesịta na menu ahụ ga-ebido ihendesịta ahụ.\n\nMgbe ewepụtara ya na nsomebefaịlụ keụlọ, ihendesịta a ga-anata ahafaịlụ ndị ahụ ahọọrọ. Mgbe ewepụtara ya na nsomebefaịlụ rimootu (ọmụmatụ. nsomebefaịlụ na-egosi weebụ mọọbụ ndịna ftp), agaghị ewegara ihendesịta paramita.\n\nNUATILUS_SCRIPT_SELECTED_FILE_PATHS: akaraọfụụ-dilimitéèdị̀ páàtị̀ maka faịlụ ndị a họọrọ (ma ọbụrụ sọsọ keụlọ)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: akaraọfụụ-dilimitéèdị̀ páàtị̀ maka faịlụ ndị a họọrọ\n\nNAUTILUS_SCRIPT_URI: URI maka ebe keugbua\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: ebe na ụhara nke windo nọ mgbe ahụ",3672,nautilus,po/ig.po
+There is nothing on the clipboard to paste.,3724,Onweghị ihe nọ n'ébéōchékwáōzím̀gbèńtà a ga-amapanye.,3725,nautilus,po/ig.po
+Connect to Server %s,3729,Banye na sava %s,3730,nautilus,po/ig.po
+_Connect,3733,_Banye,3734,nautilus,po/ig.po
+Link _name:,3737,Aha _ụzọ njikọ:,3738,nautilus,po/ig.po
+Create _Document,3752,Kewapụta _dọkumentị,3753,nautilus,po/ig.po
+Open Wit_h,3757,Jiri mepe_e,3758,nautilus,po/ig.po
+Choose a program with which to open the selected item,3761,Họrọ program nke a ga-emepe ihenhọrọ nke ahụ a họọrọ,3762,nautilus,po/ig.po
+_Properties,3769,_Ngwaọrụ ndị ahụ,3770,nautilus,po/ig.po
+View or modify the properties of each selected item,3774,Gosi mọọbụ megharịa ngwaọrụ ihenhọrọ nke a họọrọ nke ọbụla,3775,nautilus,po/ig.po
+Create _Folder,3788,Kewapụta _Nsomebefaịlụ,3789,nautilus,po/ig.po
+Create a new empty folder inside this folder,3793,Kewapụta nsomebefaịlụ ọfụụ ghe oghe n'ime nsomebefaịlụ a,3794,nautilus,po/ig.po
+_Empty File,3806,_Ghewe faịlụ oghe,3807,nautilus,po/ig.po
+Create a new empty file inside this folder,3811,Kewapụta faịlụ ọfụụ ghe oghe n'ime nsomebefaịlụ a,3812,nautilus,po/ig.po
+Open the selected item in this window,3816,Mepee ihenhọrọ nke ahụ a họrọla na windo a,3817,nautilus,po/ig.po
+Open in Navigation Window,3826,Mepee na windo ngagharị,3827,nautilus,po/ig.po
+Open each selected item in a navigation window,3831,Mepee ihenhọrọ nke a họọrọ nke ọbụla na windo ngagharị,3832,nautilus,po/ig.po
+Open with Other _Application...,3871,Mepee ya na _usoroiheomume ndị ọzọ...,3872,nautilus,po/ig.po
+Choose another application with which to open the selected item,3877,Họrọ usoroiheomume nke a ga-emepe ihenhọrọ nke ahụ a họọrọ,3878,nautilus,po/ig.po
+_Open Scripts Folder,3883,_Mepee ihendesịta nsomebefaịlụ,3884,nautilus,po/ig.po
+Show the folder containing the scripts that appear in this menu,3888,Gosi nsomebefaịlụ ahụ nke nwere ihendesịta na-apụta na menu a,3889,nautilus,po/ig.po
+Select all items in this window,3940,Họrọ ihenhọrọ niile ndị ahụ na windo a,3941,nautilus,po/ig.po
+Select items in this window matching a given pattern,3952,Họrọ ihenhọrọ ndị a na windo a nke dabara n'usoro enyere,3953,nautilus,po/ig.po
+D_uplicate,3969,M_egharịanụdị,3970,nautilus,po/ig.po
+Duplicate each selected item,3974,Megharịanụdị nke ihenhọrọ nke obụla a họọrọ,3975,nautilus,po/ig.po
+Create a symbolic link for each selected item,3989,Kewapụta ụzọ njikọ sìmbọ́līìkì maka ihenhọrọ nke ọbụla a họọrọ,3990,nautilus,po/ig.po
+_Rename...,3995,_Bagharịa aha...,3996,nautilus,po/ig.po
+Rename selected item,4000,Bagharịa ihenhọrọ ahụ a họọrọ aha,4001,nautilus,po/ig.po
+Move each selected item to the Trash,4006,Kpụga ihenhọrọ nke ọbụla a họọrọ n'ebemkpofuozi,4007,nautilus,po/ig.po
+_Delete,4015,_Hichaa,4016,nautilus,po/ig.po
+"Delete each selected item, without moving to the Trash",4020,"Hichaa ihenhọrọ nke ọbụla a họọrọ, na-akpụgaghị n'ebemkpofuozi",4021,nautilus,po/ig.po
+Reset View to _Defaults,4040,Hazigharịa ngosi na _Dìfọ́ọ̀ltụ̀ ndị ahụ,4041,nautilus,po/ig.po
+Reset sorting order and zoom level to match preferences for this view,4045,Hazigharịa iwu nhazi ma ógó zum ka ọdaba na nkarachọ maka ngosi a ,4046,nautilus,po/ig.po
+Connect To This Server,4051,Banye na sava a ,4052,nautilus,po/ig.po
+Make a permanent connection to this server,4056,Mèé nsụnye apụghị apụ na sava a,4057,nautilus,po/ig.po
+_Mount Volume,4064,_Welite ụda,4065,nautilus,po/ig.po
+Mount the selected volume,4069,Welite ụda ahụ a họọrọ,4070,nautilus,po/ig.po
+_Unmount Volume,4077,_Ewelitekwala ụda,4078,nautilus,po/ig.po
+Unmount the selected volume,4082,Ewelitekwala ụda ahụ a họọrọ,4083,nautilus,po/ig.po
+Eject the selected volume,4096,Wepụ ụda ahụ a họọrọ,4097,nautilus,po/ig.po
+Open File and Close window,4139,Mepee faịlụ ma Mechie windo,4140,nautilus,po/ig.po
+_Scripts,4258,_Ihendesịta ndị ahụ,4259,nautilus,po/ig.po
+"_Open with \""%s\""",4355,"_Jiri mepee \""%s\""",4356,nautilus,po/ig.po
+Delete all selected items permanently,4387,Hichaa ihenhọrọ niile ndị ahụ a họọrọ kpam kpam,4388,nautilus,po/ig.po
+Download location?,4391,Bubata ebe?,4392,nautilus,po/ig.po
+You can download it or make a link to it.,4395,Í nwèrè ike ibubata ya mọọbụ méé ụzọ njikọ na ya.,4396,nautilus,po/ig.po
+Make a _Link,4399,Mepụta _ụzọ njikọ,4400,nautilus,po/ig.po
+_Download,4403,_Bubata,4404,nautilus,po/ig.po
+Drag and drop is not supported.,4409,Àkwádòghị̀ dọ̀ọ́ na tọgbọ.,4410,nautilus,po/ig.po
+Drag and drop is only supported on local file systems.,4413,A na-akwadọ ọdịdọ na ntọgbọ na sistem faịlụ keụlọ.,4414,nautilus,po/ig.po
+An invalid drag type was used.,4418,Ejirila ụdị ọdịdọ nke na-enweghị isi.,4419,nautilus,po/ig.po
+Comment,4428,Okwu,4429,nautilus,po/ig.po
+Description,4438,Nkọwa,4439,nautilus,po/ig.po
+Command,4442,Ntiiwu,4443,nautilus,po/ig.po
+"You do not have the permissions necessary to view the contents of \""%s\"".",4447,"Inweghị ikike kwesịrịnụ n'igosi ndịna nke \""%s\"".",4449,nautilus,po/ig.po
+The folder contents could not be displayed.,4462,Agaghị egosinwu ndịna nsomebefaịlụ ahụ.,4463,nautilus,po/ig.po
+"The name \""%s\"" is already used in this folder. Please use a different name.",4467,"Éjìríláàrị́ị̀ aha \""%s\"" ahụ rụọ ọrụ na nsomebefaịlụ a. Biko jiri aha ọzọ.",4469,nautilus,po/ig.po
+"There is no \""%s\"" in this folder. Perhaps it was just moved or deleted?",4474,"Enweghị \""%s\"" na nsomebefaịlụ a. onwere ike bụrụ na akpụghara ya mọọbụ na ehichara ya?",4476,nautilus,po/ig.po
+"You do not have the permissions necessary to rename \""%s\"".",4482,"Inweghị ikikere kwesịrịnụ ịbagharị aha \""%s\"".",4483,nautilus,po/ig.po
+"The name \""%s\"" is not valid because it contains the character \""/\"". Please use a different name.",4487,"Aha ahụ \""%s\"" enweghị isi maka na o nwere mkpụrụ okwu ahụ \""/\"". Biko jiri aha ọzọ.",4490,nautilus,po/ig.po
+"The name \""%s\"" is not valid. Please use a different name.",4496,"Aha ahụ \""%s\"" enweghị isi. Biko jiri aha ọzọ.",4497,nautilus,po/ig.po
+The item could not be renamed.,4506,Abagharịnwughị aha ihenhọrọ ahụ.,4507,nautilus,po/ig.po
+"You do not have the permissions necessary to change the group of \""%s\"".",4511,"Inweghị ikike kwesịrịnụ igbanwe òtù nke \""%s\"".",4513,nautilus,po/ig.po
+The group could not be changed.,4522,Agaghị agbanwenwu òtù ahụ.,4523,nautilus,po/ig.po
+The owner could not be changed.,4531,Agbanwenwughị ónyénwē.,4532,nautilus,po/ig.po
+The permissions could not be changed.,4540,Agbanwenwughị ikike ahụ.,4541,nautilus,po/ig.po
+"Renaming \""%s\"" to \""%s\"".",4545,"Ibagharị aha \""%s\"" to \""%s\"".",4546,nautilus,po/ig.po
+by _Name,4549,Site _n'aha,4550,nautilus,po/ig.po
+Keep icons sorted by name in rows,4554,Desa aịkọn n'ụdị nhazi site n'aha na mpagharauhie ndị ahụ,4555,nautilus,po/ig.po
+by _Size,4558,Site _n'ụhara,4559,nautilus,po/ig.po
+Keep icons sorted by size in rows,4563,Desa aịkọn n'ụdị nhazi site n'ụhara na mpagharauhie ndị ahụ,4564,nautilus,po/ig.po
+by _Type,4567,Site _n'ụdị,4568,nautilus,po/ig.po
+Keep icons sorted by type in rows,4572,Desa aịkọn n'ụdị nhazi site n'ụdị na mpagharauhie ndị ahụ,4573,nautilus,po/ig.po
+by Modification _Date,4576,Site na mmeghari _ụbọchị,4577,nautilus,po/ig.po
+Keep icons sorted by modification date in rows,4581,Desa aịkọn n'ụdị nhazi site n'mmegharị ụbọchị na mpagharauhie ndị ahụ,4582,nautilus,po/ig.po
+by _Emblems,4585,Site _n'akara ndị ahụ,4586,nautilus,po/ig.po
+Keep icons sorted by emblems in rows,4590,Desa aịkọn n'ụdị nhazi site n'akara na mpagharauhie ndị ahụ,4591,nautilus,po/ig.po
+Arran_ge Items,4595,Haz_ie ihenhọrọ ndị ahụ,4596,nautilus,po/ig.po
+Make the selected icon stretchable,4607,Mèé ka aịkọn ahụ a họọrọ dị mgbatị,4608,nautilus,po/ig.po
+Restore Icons' Original Si_zes,4614,Weghachi ụhara iz_izi nke aịkọn,4615,nautilus,po/ig.po
+Restore each selected icon to its original size,4619,Weghachi aịkọn nke ọbụla a họọrọla n'ụhara nke izizi ya,4620,nautilus,po/ig.po
+Clean _Up by Name,4625,Nhicha _site n'aha,4626,nautilus,po/ig.po
+Reposition icons to better fit in the window and avoid overlapping,4630,Aịkọn mkpụgharị ga-aka daba na windo ma zere mmabanye,4631,nautilus,po/ig.po
+Compact _Layout,4636,Ndozi _akpakọlatara akpakọlata,4637,nautilus,po/ig.po
+Toggle using a tighter layout scheme,4641,Tọgụlụọ n'iji ndozi taịta n'usoro ọrụ,4642,nautilus,po/ig.po
+Re_versed Order,4647,Nt_ugharị ihu iwu nhazi,4648,nautilus,po/ig.po
+Display icons in the opposite order,4652,Gosi aịkọn na iwu nhazi ntụgharị ihu,4653,nautilus,po/ig.po
+_Keep Aligned,4658,_Gbado na ndozi ahụ ,4659,nautilus,po/ig.po
+Keep icons lined up on a grid,4663,Gbado aịkọn ka aha nọrọ n'usoro gríìdì,4664,nautilus,po/ig.po
+_Manually,4667,_N'ụdị nlereanya,4668,nautilus,po/ig.po
+Leave icons wherever they are dropped,4671,Hapụ aịkọn n'ebe ọbụla a hapụrụ ha,4672,nautilus,po/ig.po
+By _Name,4675,Site _n'aha,4676,nautilus,po/ig.po
+By _Size,4679,Site _n'ụhara,4680,nautilus,po/ig.po
+By _Type,4683,Site _n'ụdị,4684,nautilus,po/ig.po
+By Modification _Date,4687,Site na mmegharị _ụbọchị,4688,nautilus,po/ig.po
+By _Emblems,4691,Site _n'akara,4692,nautilus,po/ig.po
+Restore Icon's Original Si_ze,4695,Weghachi ụhara iz_izi nke aịkọn,4696,nautilus,po/ig.po
+"pointing at \""%s\""",4700,"Ítụ̀ nà \""%s\""",4701,nautilus,po/ig.po
+_Icons,4705,_Aịkọn ndị ahụ,4706,nautilus,po/ig.po
+(Empty),4746,(Ghewe oghe),4747,nautilus,po/ig.po
+Loading...,4751,Na-edebata...,4752,nautilus,po/ig.po
+%s Visible Columns,4756,%s Mpagharaogologo ndị ahụ ahụrụanya,4757,nautilus,po/ig.po
+Visible _Columns...,4767,Mpagharaogologo ndị ahụ _ahụrụanya...,4768,nautilus,po/ig.po
+Select the columns visible in this folder,4772,Họrọ mpagharaogologo ndị ahụ ahụrụanya na nsomebefaịlụ a,4773,nautilus,po/ig.po
+_List,4777,_Ndesịta,4778,nautilus,po/ig.po
+Please drag just one image to set a custom icon.,4802,Biko dọ̀ọ́ sọsọ otu inyogo ka a hazie aịkọn emeredịkachọrọ.,4803,nautilus,po/ig.po
+The file that you dropped is not local.,4807,Faịlụ ahụ ị́tọ̀gbọ̀rọ̀ abụghị nkeụlọ.,4808,nautilus,po/ig.po
+You can only use local images as custom icons.,4813,Ínwèrè ike iji inyogo nkeụlọ dịka aịkọn nkeụlọ.,4814,nautilus,po/ig.po
+The file that you dropped is not an image.,4818,Faịlụ ahụ ị́tọ̀gbọ̀rọ̀ abụghị inyogo.,4819,nautilus,po/ig.po
+Properties,4830,Ngwaọrụ ndị ahụ,4831,nautilus,po/ig.po
+%s Properties,4835,%s Ngwaọrụ ndị ahụ,4836,nautilus,po/ig.po
+Cancel Group Change?,4849,Wepụ mgbanwe òtù?,4850,nautilus,po/ig.po
+Cancel Owner Change?,4853,Wepụ mgbenwe ónyénwē?,4854,nautilus,po/ig.po
+nothing,4857,Onweghị,4858,nautilus,po/ig.po
+unreadable,4861,Agaghị agụnwu ya agụ,4862,nautilus,po/ig.po
+(some contents unreadable),4872,(agaghị agụnwụ ụfọdụ ndịna),4873,nautilus,po/ig.po
+Contents:,4882,Ndịna ụfọdụ:,4883,nautilus,po/ig.po
+Basic,4906,Nkeisi,4907,nautilus,po/ig.po
+Type:,4910,Ụdị:,4911,nautilus,po/ig.po
+Link target:,4914,Tágēètị̀ ụzọ njikọ:,4915,nautilus,po/ig.po
+Size:,4918,Ụhara:,4919,nautilus,po/ig.po
+Location:,4923,Ebe:,4924,nautilus,po/ig.po
+Volume:,4927,Ụda:,4928,nautilus,po/ig.po
+Accessed:,4931,Ikikembanye:,4932,nautilus,po/ig.po
+Modified:,4935,Emegharịrị:,4936,nautilus,po/ig.po
+Free space:,4939,Ohere a hapụrụ:,4940,nautilus,po/ig.po
+Emblems,4944,Akara ụfọdụ,4945,nautilus,po/ig.po
+_Read,4948,_Wepụta ọzi,4949,nautilus,po/ig.po
+_Write,4952,_Chekwaa ozi,4953,nautilus,po/ig.po
+E_xecute,4956,B_ido ọrụ,4957,nautilus,po/ig.po
+None,5010,Onweghị,5011,nautilus,po/ig.po
+Set _user ID,5038,Hazie _ID ojieme,5039,nautilus,po/ig.po
+Special flags:,5042,Fláàgị̀ ndị ahụ pụrụ iche:,5043,nautilus,po/ig.po
+Set gro_up ID,5046,Hazie ID ò_tù,5047,nautilus,po/ig.po
+_Sticky,5050,_Stíkì,5051,nautilus,po/ig.po
+Owner:,5062,Ónyénwē:,5063,nautilus,po/ig.po
+Group:,5074,Òtù:,5075,nautilus,po/ig.po
+Others:,5092,Ndị ọzọ:,5093,nautilus,po/ig.po
+Text view:,5106,Ngosi ngwe:,5107,nautilus,po/ig.po
+Last changed:,5119,Nke agbanwere ikpeazụ:,5120,nautilus,po/ig.po
+"The permissions of \""%s\"" could not be determined.",5129,"Ikike ahụ nke \""%s\"" agaghị atachịtere ya obi.",5130,nautilus,po/ig.po
+The permissions of the selected file could not be determined.,5133,Agaghị atachitere ikike nke faịlụ nke ahụ a họọrọ obi.,5134,nautilus,po/ig.po
+Creating Properties window.,5137,Ikewapụta ngwaọrụ windo.,5138,nautilus,po/ig.po
+Network Neighbourhood,5152,Ebe ikukumgbasaozi,5153,nautilus,po/ig.po
+Tree,5156,Tríì,5157,nautilus,po/ig.po
+"Nautilus could not create the required folder \""%s\"".",5166,"Nautilus ekewapụtanwughị nsomebefaịlụ ahụ a chọrọ \""%s\"".",5167,nautilus,po/ig.po
+"Before running Nautilus, please create the following folder, or set permissions such that Nautilus can create it.",5170,"Tupuu ibido Nautilus, biko kewapụta nsomebefaịlụ na-esonụ, mọọbụ hazie ikike n'ụzọ nautilus ga-ekewapụtanwu ya.",5173,nautilus,po/ig.po
+Nautilus could not create the following required folders: %s.,5179,Nautilus ekewapụtanwughị nsomebefaịlụ ndị a chọrọ na-esonụ: %s.,5180,nautilus,po/ig.po
+"Before running Nautilus, please create these folders, or set permissions such that Nautilus can create them.",5183,"Tupuu ibido Nautilus, biko kewapụta nsomebefaịlụ ndị a, mọọbụ hazie ikike n'ụzọ nautilus ga-ekewapụtanwu ha. ",5186,nautilus,po/ig.po
+There was an error displaying help: \n%s,5230,Enwere ndehie mgbe a na-egosi nnyemaka: \n%s,5233,nautilus,po/ig.po
+No bookmarks defined,5238,Enweghị ebe ndesịta ngosi ebe na faịlụ a kọwarala,5239,nautilus,po/ig.po
+<b>_Bookmarks</b>,5242,<b>_Ebe ndesịta ngosi ebe na faịlụ </b>,5243,nautilus,po/ig.po
+<b>_Location</b>,5246,<b>_Ebe</b>,5247,nautilus,po/ig.po
+<b>_Name</b>,5250,<b>_Aha</b>,5251,nautilus,po/ig.po
+Edit Bookmarks,5254,Dezie ebe ndesịta ngosi ebe faịlụ,5255,nautilus,po/ig.po
+Custom Location,5277,Ebe emeredịkachọrọ,5278,nautilus,po/ig.po
+Public FTP,5285,FTP keọ̀hà,5286,nautilus,po/ig.po
+FTP (with login),5289,FTP (ya na mbanye),5290,nautilus,po/ig.po
+Windows share,5293,Òkìké windo ndị ahụ,5294,nautilus,po/ig.po
+WebDAV (HTTP),5297,Wéèbụ̀DAV (HTTP),5298,nautilus,po/ig.po
+Secure WebDAV (HTTPS),5301,Chekwa Wéèbụ̀DAV (HTTPS),5302,nautilus,po/ig.po
+Please enter a name and try again.,5310,Biko tinye aha ma nwàá ọzọ.,5311,nautilus,po/ig.po
+_Location (URI):,5314,_Ebe (URI):,5315,nautilus,po/ig.po
+_Server:,5318,_Sava:,5319,nautilus,po/ig.po
+Optional information:,5322,Ozi dị nhọrọ:,5323,nautilus,po/ig.po
+_Share:,5326,_Òkè:,5327,nautilus,po/ig.po
+_Port:,5330,_Ụzọ nwepụ na nweba data:,5331,nautilus,po/ig.po
+_User Name:,5334,_Aha ojieme:,5335,nautilus,po/ig.po
+Connect to Server,5348,Banye na sava,5349,nautilus,po/ig.po
+Service _type:,5352,Ụdị ụzọ _njikọ:,5353,nautilus,po/ig.po
+C_onnect,5361,B_anye,5362,nautilus,po/ig.po
+Desktop,5366,Desktọ́ọ̀pụ̀,5367,nautilus,po/ig.po
+"This is probably because the emblem is a permanent one, and not one that you added yourself.",5375,"Nke a nwere ike bụrụ maka na akara ahụ bụ otu nke nọpagịderenụ, na ọbụghị nke ahụitinyere n'onwe gị.",5378,nautilus,po/ig.po
+Rename Emblem,5388,Abagharịnwughị aha akara,5389,nautilus,po/ig.po
+Enter a new name for the displayed emblem:,5392,Tinye aha ọfụụ maka akara ahụ egosirila:,5393,nautilus,po/ig.po
+Rename,5396,Bagharịa aha,5397,nautilus,po/ig.po
+Add Emblems...,5400,Gbakwunye akara ndị ahụ...,5401,nautilus,po/ig.po
+Enter a descriptive name next to each emblem.  This name will be used in other places to identify the emblem.,5404,Tinye aha nkọwa n'agụgụ akara.  A ga-eji aha a n'ebe ndị ọzọ ka ewere gosipụta akara ahụ.,5407,nautilus,po/ig.po
+Enter a descriptive name next to the emblem.  This name will be used in other places to identify the emblem.,5412,Tinye aha nkọwa n'agụgụ akara.  A ga-eji aha a n'ebe ndị ọzọ ka ewere gosipụta akara ahụ.,5415,nautilus,po/ig.po
+Some of the files could not be added as emblems.,5420,Agaghị etinye ụfọdụ faịlụ dịka akara.,5421,nautilus,po/ig.po
+The emblems do not appear to be valid images.,5424,Akara ahụ apụtaghị ka ọ bụrụ inyogo ndị nwereisi.,5425,nautilus,po/ig.po
+None of the files could be added as emblems.,5428,Enweghị faịlụ ndị a ga-etinyenwu n'akara ndị ahụ.,5429,nautilus,po/ig.po
+The file '%s' does not appear to be a valid image.,5433,Faịlụ ahụ '%s' abughị inyogo nwereisi.,5434,nautilus,po/ig.po
+The dragged file does not appear to be a valid image.,5437,Ngwe nke ahụ adọgara ebe ọzọ abụghị ebe faịlụ nwereisi.,5438,nautilus,po/ig.po
+The emblem cannot be added.,5441,Agaghị etinyenwu akara ahụ.,5442,nautilus,po/ig.po
+Always open in _browser windows,5540,Na-emepe na _windo omenchọgharị,5541,nautilus,po/ig.po
+Ask before _emptying the Trash or deleting files,5544,Jụọ tupuu ighewe ebemkpofuozi ahụ oghe mọọbụ ihicha faịlụ ndị ahụ,5545,nautilus,po/ig.po
+Behavior,5552,Agwa,5553,nautilus,po/ig.po
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,5560,Họrọ iwu nhazi nke ozi ka ọpụta n'okpuru aha aịkọn. Ozi ọzọ ga-apụta mgbe á nà-èzúùmú nso nso.,5563,nautilus,po/ig.po
+Choose the order of information to appear in the list view.,5568,Họrọ iwu nhazi nke ozi ka ọpụta na ngosi ndesịta.,5569,nautilus,po/ig.po
+Count _number of items:,5577,Gụọ _ọnụọgụgụ nke ihenhọrọ ndị ahụ:,5578,nautilus,po/ig.po
+Default _zoom level:,5586,Ogo zum Dìfọ́ọ̀ltụ̀:,5587,nautilus,po/ig.po
+Display,5590,Gosi,5591,nautilus,po/ig.po
+File Management Preferences,5594,Nlekọta faịlụ nkarachọ,5595,nautilus,po/ig.po
+I_nclude a Delete command that bypasses Trash,5598,Tinye ntiiwu nhicha nke na-agafere ebemkpofuozi,5599,nautilus,po/ig.po
+List Columns,5606,Ndesịta mpagharaogologo ndị ahụ,5607,nautilus,po/ig.po
+Preview,5615,Nlebiritụanya,5616,nautilus,po/ig.po
+Preview _sound files:,5619,Nlebiritụanya _faịlụ ụda ndị ahụ:,5620,nautilus,po/ig.po
+Show _only folders,5623,Gosi _sọsọ nsomebefaịlụ ndị ahụ,5624,nautilus,po/ig.po
+Show _thumbnails:,5627,Gosi _Tọ́mbnéèlụ̀ ndị ahụ:,5628,nautilus,po/ig.po
+Show hidden and _backup files,5631,Gosi faịlụ ndị ezoro ezo na nke ndị _agbakwunyere agbakwunye,5632,nautilus,po/ig.po
+Show te_xt in icons:,5635,Gosi ng_we na aịkọn ndị ahụ:,5636,nautilus,po/ig.po
+Sort _folders before files,5639,Hazie _nsomebefaịlụ ndị ahụ tupuu faịlụ ndị ahụ,5640,nautilus,po/ig.po
+View _new folders using:,5643,Gosi _nsomebefaịlụ ndị ọfụụ n'iji:,5644,nautilus,po/ig.po
+Views,5647,Ngosi ndị ahụ,5648,nautilus,po/ig.po
+_Arrange items:,5651,_Hazie ihenhọrọ ndị ahụ:,5652,nautilus,po/ig.po
+_Default zoom level:,5659,_Ógó zum dìfọ́ọ̀ltụ̀:,5660,nautilus,po/ig.po
+_Format:,5668,_Ọdịdị:,5669,nautilus,po/ig.po
+_Only for files smaller than:,5680,_Sọsọ maka faịlụ ndị ahụ pekarịsịrị karịa:,5681,nautilus,po/ig.po
+_Text beside icons,5704,_Ziga ngwe n'akụkụ aịkọn ndị ahụ,5705,nautilus,po/ig.po
+_Use compact layout,5713,_Jiri ndozi ejikọlatara ejikọlata,5714,nautilus,po/ig.po
+History,5722,Ntọala,5723,nautilus,po/ig.po
+Camera Brand,5731,Ụdị kamera,5732,nautilus,po/ig.po
+Camera Model,5735,Kamera mọ́dēèlụ̀,5736,nautilus,po/ig.po
+Date Taken,5740,Ewerela ụbọchị,5741,nautilus,po/ig.po
+Exposure Time,5749,Oge mkpughe,5750,nautilus,po/ig.po
+Aperture Value,5753,Uru ohere mmepe nnabata ihie,5754,nautilus,po/ig.po
+ISO Speed Rating,5757,ISO retịn ngwa ngwa,5758,nautilus,po/ig.po
+Flash Fired,5761,Flash Fáyáàdị̀,5762,nautilus,po/ig.po
+Metering Mode,5765,Metarịn móòdù,5766,nautilus,po/ig.po
+Exposure Program,5769,Program mkpughe,5770,nautilus,po/ig.po
+Focal Length,5773,Òtìtè anya n'etiti lensị na ebe a na-ese ese,5774,nautilus,po/ig.po
+Software,5777,Sọftwịa,5778,nautilus,po/ig.po
+Failed to load image information,5826,Ọdịda ná ndeba ozi inyogo,5827,nautilus,po/ig.po
+loading...,5830,Na-edeba...,5831,nautilus,po/ig.po
+Image,5834,Inyogo,5835,nautilus,po/ig.po
+Information,5838,Ozi,5839,nautilus,po/ig.po
+Use _Default Background,5848,Jiri _Okpuru dìfọ́ọ̀ltụ̀,5849,nautilus,po/ig.po
+You can only use images as custom icons.,5857,Ị́ ga-eji sọsọ inyogo dịka aịkọn emeredịkachọrọ.,5858,nautilus,po/ig.po
+Open with %s,5862,Jiri mepee %s,5863,nautilus,po/ig.po
+Go To:,5866,Gaa na:,5867,nautilus,po/ig.po
+Do you want to view %d location?,5871,Ị̀ chọrọ igosi %d ebe?,5873,nautilus,po/ig.po
+Do you want to view %d location?,5871,Ị̀ chọrọ igosi %d ebe?,5874,nautilus,po/ig.po
+Open Location,5877,Mepee ebe,5878,nautilus,po/ig.po
+_Location:,5881,_Ebe:,5882,nautilus,po/ig.po
+Perform a quick set of self-check tests.,5885,Mee nhazi ọsịsọ nke nnwale-nkeonwe.,5886,nautilus,po/ig.po
+Create the initial window with the given geometry.,5894,Kewapụta windo mbụ ya na jiometịrị nke enyere.,5895,nautilus,po/ig.po
+GEOMETRY,5898,JIOMETỊRỊ,5899,nautilus,po/ig.po
+Only create windows for explicitly specified URIs.,5902,Sọsọ kewapụta windo maka URIs ezipụtara doro anya.,5903,nautilus,po/ig.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,5906,Elekọtakwala desktọọpụ ahụ (leghara nhazi nkarachọ ahụ anya na dayalọ́ọ̀gụ̀ nkarachọ).,5909,nautilus,po/ig.po
+open a browser window.,5914,Mepee omenchọgharị windo.,5915,nautilus,po/ig.po
+Quit Nautilus.,5918,Kwụsị Nautilus.,5919,nautilus,po/ig.po
+nautilus: %s cannot be used with URIs.\n,5936,agaghị ejinwu nautilus: %s ya na URIs.\n,5937,nautilus,po/ig.po
+nautilus: --check cannot be used with other options.\n,5941,agaghị ejinwu nautilus: --ntinyeakaranhọrọ ya na ihenhọrọ ndị ọzọ.\n,5942,nautilus,po/ig.po
+nautilus: --geometry cannot be used with more than one URI.\n,5946,agaghị ejinwu nautilus: --jiometịrị karịa otu URI.\n,5947,nautilus,po/ig.po
+Are you sure you want to clear the list of locations you have visited?,5950,Ìkwèsìrì ike na ịchọrọ ikpochapụ ndesịta nke ebe ịbanyegorola?,5951,nautilus,po/ig.po
+"The location \""%s\"" does not exist.",5956,"Ebe ahụ \""%s\"" anaghị arụ ọrụ.",5957,nautilus,po/ig.po
+_Go,5966,_Gaa,5967,nautilus,po/ig.po
+_Bookmarks,5971,_Ebe ndesịta ngosi ebe,5972,nautilus,po/ig.po
+Open another Nautilus window for the displayed location,5987,Mepee windo Nautilus ọzọ maka ebe ahụ egosiri,5988,nautilus,po/ig.po
+Close _All Windows,6013,Mechie windo _niile,6014,nautilus,po/ig.po
+Close all Navigation windows,6017,Mechie windo ngagharị niile,6018,nautilus,po/ig.po
+_Location...,6022,_Ebe...,6023,nautilus,po/ig.po
+Specify a location to open,6027,Zipụta ebe ka o mepee,6028,nautilus,po/ig.po
+Clea_r History,6032,Kpocha_a ntọala,6033,nautilus,po/ig.po
+Clear contents of Go menu and Back/Forward lists,6036,Kpochaa ndịna nke Gaa menu na ndesịta azụ/ihu ndị ahụ,6037,nautilus,po/ig.po
+_Add Bookmark,6042,_Gbakwunye ebe ndesịta ngosi ebe,6043,nautilus,po/ig.po
+Add a bookmark for the current location to this menu,6047,Gbakwunye ebe ndesịta ngosi ebe maka ebe ọfụụ ahụ na menu a,6048,nautilus,po/ig.po
+Display a window that allows editing the bookmarks in this menu,6059,Gosi windo na-enye aka idezi ebe ndesịta ngosi ebe ahụ na menu a,6060,nautilus,po/ig.po
+_Side Pane,6123,_Saịd Pen,6124,nautilus,po/ig.po
+Location _Bar,6136,Ebe _Baa,6137,nautilus,po/ig.po
+Change the visibility of this window's location bar,6141,Gbanwe àhụ́mányá nke saịdbáà windo a,6142,nautilus,po/ig.po
+St_atusbar,6148,St_atusbáà,6149,nautilus,po/ig.po
+Change the visibility of this window's statusbar,6153,Gbanwe àhụ́mányá nke statusbáà windo a,6154,nautilus,po/ig.po
+_Back,6157,_Azụ,6158,nautilus,po/ig.po
+Go to the previous visited location,6161,Gaa n'ebe ndị ịgaburula,6162,nautilus,po/ig.po
+_Forward,6170,_Ihu,6171,nautilus,po/ig.po
+Go to the next visited location,6174,Gaa n'ebe nke ọzọ ịgaburula,6175,nautilus,po/ig.po
+%s - File Browser,6197,%s - Omenchọgharị faịlụ,6198,nautilus,po/ig.po
+Notes,6206,Ozi ndị ahụ,6207,nautilus,po/ig.po
+Network,6215,Ikukumgbasaozi,6216,nautilus,po/ig.po
+Remove,6224,Wepụ,6225,nautilus,po/ig.po
+Backgrounds and Emblems,6254,Okpuru ndị ahụ na Akara ndị ahụ,6255,nautilus,po/ig.po
+_Remove...,6259,_Wepụ...,6260,nautilus,po/ig.po
+Check that you have permission to delete the pattern.,6274,Lee ma inwere ikike ihicha usoro.,6275,nautilus,po/ig.po
+Check that you have permission to delete the emblem.,6283,Lee ma inwere ikike ihicha akara.,6284,nautilus,po/ig.po
+_Keyword:,6298,_Okwunchọcha:,6299,nautilus,po/ig.po
+_Image:,6303,_Inyogo:,6304,nautilus,po/ig.po
+Create a New Color:,6307,Kewapụta ụcha ọfụụ:,6308,nautilus,po/ig.po
+Color _name:,6312,Aha _ụcha:,6313,nautilus,po/ig.po
+Color _value:,6316,Uru _ụcha:,6317,nautilus,po/ig.po
+Reset is a special image that cannot be deleted.,6325,Nhazigharị bụ inyogo pụrụ iche nke ga-agaghị ekwe nhicha.,6326,nautilus,po/ig.po
+The color cannot be installed.,6340,Agaghị ewunyenwu ụcha ahụ.,6341,nautilus,po/ig.po
+"Sorry, but you must specify a non-blank name for the new color.",6349,"Biko, mana ị ga-ezipụtarịrị aha na-egheghị oghe maka ụcha ọfụụ ahụ.",6350,nautilus,po/ig.po
+"Sorry, but \""%s\"" is not a usable image file.",6360,"Biko, mana \""%s\"" ọbụghị inyogo faịlụ eji arụ ọrụ.",6361,nautilus,po/ig.po
+The file is not an image.,6365,Faịlụ ahụ abụgḥị inyogo.,6366,nautilus,po/ig.po
+Select a Category:,6369,Họrọ ụdị:,6370,nautilus,po/ig.po
+C_ancel Remove,6373,H_ichaa wepụ,6374,nautilus,po/ig.po
+_Add a New Pattern...,6377,_Tinye usoro ọfụụ...,6378,nautilus,po/ig.po
+_Add a New Color...,6381,_Tinye ụcha ọfụụ...,6382,nautilus,po/ig.po
+_Add a New Emblem...,6385,_Tinye akara ọfụụ...,6386,nautilus,po/ig.po
+Click on a pattern to remove it,6389,Pịa n'usoro ka iwepụ ya,6390,nautilus,po/ig.po
+Click on a color to remove it,6393,Pịa n'ụcha ka iwepụ ya,6394,nautilus,po/ig.po
+Click on an emblem to remove it,6397,Pịa n'akara ka iwepụ ya,6398,nautilus,po/ig.po
+Patterns:,6401,Usoro ndị ahụ:,6402,nautilus,po/ig.po
+Colors:,6405,Ụcha ndị ahụ:,6406,nautilus,po/ig.po
+Emblems:,6409,Akara ndị ahụ:,6410,nautilus,po/ig.po
+_Remove a Pattern...,6413,_Wepụ usoro...,6414,nautilus,po/ig.po
+_Remove a Color...,6417,_Wepụ ụcha...,6418,nautilus,po/ig.po
+_Remove an Emblem...,6421,_Wepụ Akara...,6422,nautilus,po/ig.po
+Documents,6435,Dọkumentị ndị ahụ,6436,nautilus,po/ig.po
+Close the side pane,6535,Mechie saịd pen,6536,nautilus,po/ig.po
+_Places,6546,_Ebe gasị,6547,nautilus,po/ig.po
+Open _Location...,6551,Mepee _Ebe...,6552,nautilus,po/ig.po
+Close P_arent Folders,6556,Mechie P_erentị nsomebefaịlụ ndị ahụ,6557,nautilus,po/ig.po
+Close this folder's parents,6560,Mechie perentị nsomebefaịlụ a,6561,nautilus,po/ig.po
+Clos_e All Folders,6565,Mechi_e nsomebefaịlụ niile ndị a,6566,nautilus,po/ig.po
+Close all folder windows,6569,Mechie windo nsomebefaịlụ niile ndị ahụ,6570,nautilus,po/ig.po
+throbber,6573,trọba,6574,nautilus,po/ig.po
+provides visual status,6577,na-eweta ogo nlechapụta,6578,nautilus,po/ig.po
+Do you want to remove any bookmarks with the non-existing location from your list?,6581,Ị̀chọrọ iwepụ ebe ndesịta ngosi ebe ya na ebe n'adịghị adị na ndesịta gị?,6584,nautilus,po/ig.po
+Bookmark for Nonexistent Location,6588,Ebe ndesịta ngosi ebe maka ebe na anaghị arụ ọrụ,6589,nautilus,po/ig.po
+You can choose another view or go to a different location.,6592,Ínwèrè ike ịhọrọ ngosi ọzọ mọọbụ gaa na ebe dị iche.,6593,nautilus,po/ig.po
+The location cannot be displayed with this viewer.,6596,Agaghị egosinwu ebe ya na onyenlere a.,6597,nautilus,po/ig.po
+Content View,6600,Ngosi ndịna,6601,nautilus,po/ig.po
+View of the current folder,6604,Ngosi nke nsomebefaịlụ nọ ugbua,6605,nautilus,po/ig.po
+Nautilus has no installed viewer capable of displaying the folder.,6608,Nautilus enweghị onyenlere ewunyere dị̄ ike igosi nsomebefaịlụ.,6609,nautilus,po/ig.po
+The location is not a folder.,6612,Ebe ahụ abụghị nsomebefaịlụ.,6613,nautilus,po/ig.po
+Please check the spelling and try again.,6621,Biko lee nsụpe ahụ ma nwàá ọzọ.,6622,nautilus,po/ig.po
+Access was denied.,6640,Ekweghị mbanye ahụ.,6641,nautilus,po/ig.po
+Check that the spelling is correct and that your proxy settings are correct.,6654,Lee ma nsụpe ọdabara nakwa ma nhazi mgbanwe gị ọdabakwara.,6656,nautilus,po/ig.po
+Go to the location specified by this bookmark,6666,Gaa n'ebe ezipụtarala site na ebe ndesịta ngosi ebe,6667,nautilus,po/ig.po
+_File,6735,_Faịlụ,6736,nautilus,po/ig.po
+_Edit,6740,_Dezie,6741,nautilus,po/ig.po
+_View,6745,_Gosi,6746,nautilus,po/ig.po
+_Help,6750,_Nnyemaka,6751,nautilus,po/ig.po
+_Close,6756,_Mechie,6757,nautilus,po/ig.po
+Close this folder,6761,Mechie nsomebefaịlụ a,6762,nautilus,po/ig.po
+_Backgrounds and Emblems...,6765,_Okpuru ndị ahụ Akara ndị ahụ...,6766,nautilus,po/ig.po
+"Display patterns, colors, and emblems that can be used to customize appearance",6769,"Gosi usoro ndị ahụ, ụcha ndị ahụ, na akara ndị ahụ nke a ga-eji méédịkachọrọ na ngosipụta ",6772,nautilus,po/ig.po
+Prefere_nces,6777,Akarachọọ_nces,6778,nautilus,po/ig.po
+Edit Nautilus preferences,6781,Dezie Nautilus nkarachọ ndị ahụ,6782,nautilus,po/ig.po
+_Undo,6786,_Nweghachi,6787,nautilus,po/ig.po
+Undo the last text change,6790,Weghachị mgbanwe ngwe nke ikpeazụ,6791,nautilus,po/ig.po
+Open _Parent,6795,Mepee _perentị,6796,nautilus,po/ig.po
+Open the parent folder,6799,Mepee nsomebefaịlụ perentị ahụ,6800,nautilus,po/ig.po
+_Stop,6805,_Kwụsị,6806,nautilus,po/ig.po
+_Reload,6817,_Debatagharịa,6818,nautilus,po/ig.po
+_Contents,6829,_Ndịna ndị ahụ,6830,nautilus,po/ig.po
+Display Nautilus help,6834,Gosi nnyemaka Nautilus,6835,nautilus,po/ig.po
+_About,6840,_Maka,6841,nautilus,po/ig.po
+Display credits for the creators of Nautilus,6845,Gosi nnabata maka ndị ome nkewapụta nke Nautilus,6846,nautilus,po/ig.po
+Zoom _In,6851,Zúùmù_banye,6852,nautilus,po/ig.po
+Zoom _Out,6863,Zúùmù _pụta,6864,nautilus,po/ig.po
+Normal Si_ze,6875,Ụhara a ma a_ma,6876,nautilus,po/ig.po
+Connect to _Server...,6887,Banye na _Sava...,6888,nautilus,po/ig.po
+_Computer,6905,_Kọmputa,6906,nautilus,po/ig.po
+T_emplates,6923,T_émpléètì,6924,nautilus,po/ig.po
+_Trash,6935,_Ebemkpofuozi,6936,nautilus,po/ig.po
+Show _Hidden Files,6947,Gosi _faịlụ ndị ezoro ezo,6948,nautilus,po/ig.po
+_Up,6957,_Elu,6958,nautilus,po/ig.po
+_Home,6961,_Ụlọ,6962,nautilus,po/ig.po
+Zoom In,7014,Zúùmù banye,7015,nautilus,po/ig.po
+Zoom Out,7018,Zúùmù pụta,7019,nautilus,po/ig.po
+Zoom to Default,7022,Zuum ka ídìfọ́ọ̀ltụ̀ọ́,7023,nautilus,po/ig.po
+Zoom,7026,Zum,7027,nautilus,po/ig.po
+Set the zoom level of the current view,7030,Hazie ogo zum nke ngosi nke ugbua,7031,nautilus,po/ig.po

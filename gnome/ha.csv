@@ -1,0 +1,1026 @@
+Multimedia menu,17,Mazaɓen masilimanta,18,gnome-menus,po/ha.po
+Sound & Video,21,Sauti & Bidiyo,22,gnome-menus,po/ha.po
+Programming,25,Yin Shirin Aiki,26,gnome-menus,po/ha.po
+Tools for software development,29,Kayan aiki na ci-gaban masarrafin kwamfyuta,30,gnome-menus,po/ha.po
+Education,33,Ilimi,34,gnome-menus,po/ha.po
+Games,37,Wasanni,38,gnome-menus,po/ha.po
+Games and amusements,41,Wasanni da kayan da da dariya,42,gnome-menus,po/ha.po
+Graphics,45,Zane-Zane,46,gnome-menus,po/ha.po
+Graphics applications,49,Shiryoyin ayukan zane-zane,50,gnome-menus,po/ha.po
+Internet,77,Intanet,78,gnome-menus,po/ha.po
+Programs for Internet access such as web and email,81,Shiryoyi na samun hanyar Intanet zuwa wurare kamar yana da e-meli,82,gnome-menus,po/ha.po
+Office,85,Ofis,86,gnome-menus,po/ha.po
+Office Applications,89,Shiryoyin Ayukan Ofis,90,gnome-menus,po/ha.po
+Administration,102,Hukuma,103,gnome-menus,po/ha.po
+Personal preferences,111,Fifiko na Kanka,112,gnome-menus,po/ha.po
+Preferences,115,Fifiko,116,gnome-menus,po/ha.po
+System Tools,129,Kayan Aikin Na'ura,130,gnome-menus,po/ha.po
+System configuration and monitoring,133,Canza tsari da kulawan na'ura,134,gnome-menus,po/ha.po
+Accessories,146,Aksesori,147,gnome-menus,po/ha.po
+Desktop accessories,150,Aksesori na Kwamfyutan Tebur,151,gnome-menus,po/ha.po
+Applications,154,Shiryoyin Ayuka,155,gnome-menus,po/ha.po
+Personal preferences and administration settings,158,Kayan daidaita fifkonka da hukumanka,159,gnome-menus,po/ha.po
+Applications that did not fit in other categories,162,Shiryoyin Ayuka waɗanda basu dace cikin wasu jinsi ba,163,gnome-menus,po/ha.po
+Other,166,Waccan,167,gnome-menus,po/ha.po
+Menu Editor,170,Editar Mazaɓa,171,gnome-menus,po/ha.po
+Edit Menus,174,Mazaɓen Shiryawa,175,gnome-menus,po/ha.po
+_Applications:,178,Shiryoyin Ayukan_:,179,gnome-menus,po/ha.po
+_Defaults,182,Difwalt na_,183,gnome-menus,po/ha.po
+_Menus:,186,Mazaɓen_:,187,gnome-menus,po/ha.po
+Name,191,Suna,192,gnome-menus,po/ha.po
+Show,195,Nuna,196,gnome-menus,po/ha.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,199,Ana kasa gano gafakan gida: ba ya cikin/etc/makulli kuma babu kima wa $GIDA cikin muhalli,202,gnome-menus,po/ha.po
+Menu file,207,Fayil ɗin mazaɓa,208,gnome-menus,po/ha.po
+MENU_FILE,211,FAYIL ƊIN_MAZAƁA,212,gnome-menus,po/ha.po
+Monitor for menu changes,215,Ka kula wa canje-canjen mazaɓa,216,gnome-menus,po/ha.po
+Include <Exclude>d entries,219,Haɗa da <Fid da> bayanen da aka shigar,220,gnome-menus,po/ha.po
+Invalid desktop file ID,228,Shaidar fayil na kwamfyutan tebur mai maras inganci,229,gnome-menus,po/ha.po
+[Invalid Filename],232,[Sunafayil Mai Maras Inganci],233,gnome-menus,po/ha.po
+ <excluded>,236, <fid da>,237,gnome-menus,po/ha.po
+"\n\n\n==== Menu changed, reloading ====\n\n\n",241,"\n\n\n==== An canza mazaɓa, ana sake lodi ====\n\n\n",248,gnome-menus,po/ha.po
+Menu tree is empty,257,Babu komai cikin bishiyar mazaɓa,258,gnome-menus,po/ha.po
+- test GNOME's implementation of the Desktop Menu Specification,261,- jarraba yanda GNOME ke aiwatar da Cikakken Bayani na Mazaɓen Kwamfyutan Tebur,262,gnome-menus,po/ha.po
+Add Startup Program,22,Ƙara Shirin Farawa,23,gnome-session,po/ha.po
+Edit Startup Program,26,Shirya Shirin Farawa,27,gnome-session,po/ha.po
+The startup command cannot be empty,39,Umarnin farawa ba zai iya zama mai maras komai ba,40,gnome-session,po/ha.po
+Program,57,Shiri,58,gnome-session,po/ha.po
+"If enabled, gnome-session will prompt the user before ending a session.",104,"Idan an fara, zaman shawarar-gnome zai yi tambaya ga mai amfani da kwamfyuta kafin ya ƙarasar da zaman shawarar.",105,gnome-session,po/ha.po
+"If enabled, gnome-session will save the session automatically. Otherwise, the logout dialog will have an option to save the session.",110,"Idan an fara, zaman shawarar-gnome zai adana zaman shawarar farat ɗaya. Idan ba haka ba, za'a ba da iko wa zauren akwatin bayanin fitarwa ya zaɓi adana zaman shawarar.",113,gnome-session,po/ha.po
+Logout prompt,133,Tambaya ga fitarwa,134,gnome-session,po/ha.po
+Preferred Image to use for login splash screen,142,Surar da aka fi son amfani da wa sifilash skireen,143,gnome-session,po/ha.po
+Save sessions,150,Adana zaman shawara,151,gnome-session,po/ha.po
+Show the splash screen,158,Nuna sifilash skireen,159,gnome-session,po/ha.po
+Show the splash screen when the session starts up,162,Nuna sifilash skireen idan zaman shawarar ta fara yi,163,gnome-session,po/ha.po
+This is a relative path value based off the $datadir/pixmaps/ directory. Sub-directories and image names are valid values. Changing this value will effect the next session login.,189,"Wannan kimar hanya ya danganta ga gafakan $datadir/pixmaps/. Sunayen zane da ƙananan-gafakoki wasu kima ne masu inganci. Idan an canza wannan kima, zai zartar da shigarwa na zaman shawara na gaba.",193,gnome-session,po/ha.po
+Window Manager,210,Manajan Taga,211,gnome-session,po/ha.po
+Configure your sessions,225,Canza tsarin zaman shawarar ka,226,gnome-session,po/ha.po
+Sessions,229,Zaman Shawara,230,gnome-session,po/ha.po
+Additional startup _programs:,233,Ƙari na shiryoyin _farawa:,234,gnome-session,po/ha.po
+Startup Programs,256,Shiryoyin Farawa,257,gnome-session,po/ha.po
+Unknown,351,Wanda ba'a sani ba,352,gnome-session,po/ha.po
+Kill session,543,Kashe zaman shawara,544,gnome-session,po/ha.po
+Could not connect to the session manager,556,An kasa haɗi zuwa manajan zaman shawara,557,gnome-session,po/ha.po
+"Could not parse \""%s\"" as an integer",34,"An kasa parse ga \""%s\"" kamar wata inteja",35,mutter,po/ha.po
+"Did not understand trailing characters \""%s\"" in string \""%s\""",41,"Ba'a gane baƙaƙe masu bin juna na \""%s\"" cikin jimlar \""%s\"" ba",42,mutter,po/ha.po
+"Failed to parse message \""%s\"" from dialog process\n",46,"An kasa parse ga saƙon \""%s\"" daga hanyar zauren akwatin bayani\n",47,mutter,po/ha.po
+Error reading from dialog display process: %s\n,51,Karatun kure daga hanya mai nuna zauren akwatin bayani: %s\n,52,mutter,po/ha.po
+Error launching metacity-dialog to ask about killing an application: %s\n,56,Kuskure wajen gabatar da zauren akwatin bayanin-metacity don yin tambaya game da wata shirin ayuka wanda za'a kashe: %s\n,58,mutter,po/ha.po
+Failed to get hostname: %s\n,64,An kasa samun sunan na'urar masaukin bayani: %s\n,65,mutter,po/ha.po
+Failed to open X Window System display '%s'\n,74,An kasa buɗe shirin nuna Na'urar Tagan X na '%s'\n,75,mutter,po/ha.po
+Lost connection to the display '%s';\nmost likely the X server was shut down or you killed/destroyed\nthe window manager.\n,79,An ɓatar da haɗi zuwa shirin nunawa '%s';\nWata ƙila an rufe X sava ko kuma ka kashe/halaƙar da\nmanajan tagan.\n,83,mutter,po/ha.po
+Fatal IO error %d (%s) on display '%s'.\n,90,Mumunan kuskure na IO %d (%s) da ake nuna kan '%s'.\n,91,mutter,po/ha.po
+Some other program is already using the key %s with modifiers %x as a binding\n,95,Wata shiri daban na amfani da maɓallin %s tare da masu gyare-gyare %x kamar wata baindin\n,98,mutter,po/ha.po
+No command %d has been defined.\n,117,Babu wata umarni na %d a bayyane.\n,118,mutter,po/ha.po
+No terminal command has been defined.\n,122,Babu umarnin tasha a bayyane.\n,123,mutter,po/ha.po
+Failed to scan themes directory: %s\n,179,An kasa sikan na gafakan jigo: %s\n,180,mutter,po/ha.po
+Failed to restart: %s\n,192,An kasa sake fara shi: %s\n,193,mutter,po/ha.po
+GConf key '%s' is set to an invalid value\n,208,An daidaita maɓallin GConf '%s' zuwa wani kima mai maras inganci\n,209,mutter,po/ha.po
+"GConf key \""%s\"" is set to an invalid type\n",221,"An daidaita maɓallin GConf \""%s\"" zuwa wata nau'i mai maras inganci\n",222,mutter,po/ha.po
+Workarounds for broken applications disabled. Some applications may not behave properly.\n,225,An kashe byfass wa shiryoyin ayuka a ƙarye. Wasu shiryoyin ayuka ba za su nuna hali mai daidai ba.\n,228,mutter,po/ha.po
+"Could not parse font description \""%s\"" from GConf key %s\n",234,"An kasa yin parse ga kwatancin nau'in rubutu \""%s\"" daga maɓallin GConf %s\n",235,mutter,po/ha.po
+"\""%s\"" found in configuration database is not a valid value for mouse button modifier\n",240,"\""%s\"" da aka samu cikin rumbun bayani na canza tsari, ba wata kima mai inganci wa mai gyaren maɓallin linzami ba\n",243,mutter,po/ha.po
+Error setting number of workspaces to %d: %s\n,249,Kuskure wajen shirya yawan filayen aiki zuwa %d: %s\n,250,mutter,po/ha.po
+Workspace %d,254,Filin aiki %d,255,mutter,po/ha.po
+"\""%s\"" found in configuration database is not a valid value for keybinding \""%s\""\n",259,"\""%s\"" da aka samu cikin rumbun bayanin canza tsari bai da kima mai inganci wa kibaindin \""%s\""\n",262,mutter,po/ha.po
+"Error setting name for workspace %d to \""%s\"": %s\n",268,"Kuskure wajen daidaita suna wa filin aikin %d zuwa \""%s\"": %s\n",269,mutter,po/ha.po
+Screen %d on display '%s' is invalid\n,278,Fuskar kwamfyuta %d da ake nuna '%s' bai da inganci\n,279,mutter,po/ha.po
+"Screen %d on display \""%s\"" already has a window manager; try using the --replace option to replace the current window manager.\n",283,"Fuskar kwamfyuta %d da ake nuna \""%s\"" ya riga yana da wani manajan taga; ka gwada yin amfani da --zaɓen mayewa don ka maye manajan taga na yanzu.\n",286,mutter,po/ha.po
+"Could not acquire window manager selection on screen %d display \""%s\""\n",292,"An kasa samun zaɓen manajan taga kan fuskar kwamfyuta %d da ake nuna \""%s\""\n",294,mutter,po/ha.po
+"Screen %d on display \""%s\"" already has a window manager\n",299,"Fuskar kwamfyuta %d da ake nuna \""%s\"" na da manajan taga\n",300,mutter,po/ha.po
+"Could not release screen %d on display \""%s\""\n",304,"An kasa sakar da fuskar kwamfyuta %d da ake nuna \""%s\""\n",305,mutter,po/ha.po
+Could not create directory '%s': %s\n,350,An kasa ƙiƙiro gafaka '%s': %s\n,351,mutter,po/ha.po
+Could not open session file '%s' for writing: %s\n,355,An kasa buɗe fayil na zaman shawara '%s' wa yin rubutu: %s\n,356,mutter,po/ha.po
+Error writing session file '%s': %s\n,360,Kuskure wajen rubuta fayil ɗin zaman shawara '%s': %s\n,361,mutter,po/ha.po
+Error closing session file '%s': %s\n,365,Kuskure wajen rufe fayil ɗin zaman shawara '%s': %s\n,366,mutter,po/ha.po
+Failed to read saved session file %s: %s\n,371,An kasa karanta fayil ɗin zaman shawara da aka adana %s: %s\n,372,mutter,po/ha.po
+Failed to parse saved session file: %s\n,376,An kasa yin parse ga fayil ɗin zaman shawara da aka adana:%s\n,377,mutter,po/ha.po
+<metacity_session> attribute seen but we already have the session ID,381,<zaman shawarar_metaciti> an ga halin amma mun riga muna da shaidar zaman shawarar,382,mutter,po/ha.po
+nested <window> tag,395,nested <taga> tag,396,mutter,po/ha.po
+Unknown element %s,400,Ƙanshin da ba'a sani ba %s,401,mutter,po/ha.po
+Error launching metacity-dialog to warn about apps that don't support session management: %s\n,405,Kuskure wajen gabatar da zauren akwatin bayanin-metaciti don ba da gargaɗi kan apps wanda basu goyi bayan hukumar sarrafa zaman shawara ba: %s\n,408,mutter,po/ha.po
+Failed to open debug log: %s\n,414,An kasa buɗe rajistan ayuka na cire cuta: %s\n,415,mutter,po/ha.po
+Failed to fdopen() log file %s: %s\n,419,An kasa fdbuɗe() fayil ɗin rajistan ayuka na %s: %s\n,420,mutter,po/ha.po
+Opened log file %s\n,424,An buɗe rajistan ayuka na fayil %s\n,425,mutter,po/ha.po
+Metacity was compiled without support for verbose mode\n,429,An tara Metacity ba tare da goyon baya wa shirin verbose ba\n,430,mutter,po/ha.po
+Window manager: ,433,Manajan taga: ,434,mutter,po/ha.po
+Bug in window manager: ,437,Cuta cikin manajan taga: ,438,mutter,po/ha.po
+Window manager warning: ,441,Gargaɗi na manajan taga: ,442,mutter,po/ha.po
+Window manager error: ,445,Kuren manajan taga: ,446,mutter,po/ha.po
+Metacity,452,Metaciti,453,mutter,po/ha.po
+"Window %s sets SM_CLIENT_ID on itself, instead of on the WM_CLIENT_LEADER window as specified in the ICCCM.\n",458,"Tagan %s na shirya SM_CLIENT_ID game da kansa, maimakon kan tagan WM_CLIENT_LEADER kamar yanda aka ƙayyade cikin ICCCM.\n",461,mutter,po/ha.po
+"Window %s sets an MWM hint indicating it isn't resizable, but sets min size %d x %d and max size %d x %d; this doesn't make much sense.\n",474,"Window %s na daidaita wata matashiyar MWM mai nuna cewa ba za'a iya sake girmarsa ba, amma, yana daidaita a ƙalla girmar %d x %d da iyaka girmar %d x %d, amma bai da ma'ana sosai.\n",477,mutter,po/ha.po
+Property %s on window 0x%lx contained invalid UTF-8\n,515,Furofati %s na kan tagan 0x%lx na ƙunsa da UTF-8 mai maras inganci\n,516,mutter,po/ha.po
+Property %s on window 0x%lx contained invalid UTF-8 for item %d in the list\n,520,Furofati %s na kan tagan 0x%lx na ƙunsa da UTF-8 mai maras inganci wa abun %d cikin jerin\n,522,mutter,po/ha.po
+Switch to workspace 1,527,Sauya zuwa filin aiki 1,528,mutter,po/ha.po
+Switch to workspace 2,531,Sauya zuwa filin aiki 2,532,mutter,po/ha.po
+Switch to workspace 3,535,Sauya zuwa filin aiki 3,536,mutter,po/ha.po
+Switch to workspace 4,539,Sauya zuwa filin aiki 4,540,mutter,po/ha.po
+Switch to workspace 5,543,Sauya zuwa filin aiki 5,544,mutter,po/ha.po
+Switch to workspace 6,547,Sauya zuwa filin aiki 6,548,mutter,po/ha.po
+Switch to workspace 7,551,Sauya zuwa filin aiki 7,552,mutter,po/ha.po
+Switch to workspace 8,555,Sauya zuwa filin aiki 8,556,mutter,po/ha.po
+Switch to workspace 9,559,Sauya zuwa filin aiki 9,560,mutter,po/ha.po
+Switch to workspace 10,563,Sauya zuwa filin aiki 10,564,mutter,po/ha.po
+Switch to workspace 11,567,Sauya zuwa filin aiki 11,568,mutter,po/ha.po
+Switch to workspace 12,571,Sauya zuwa filin aiki 12,572,mutter,po/ha.po
+Move between windows immediately,640,Gusa tsakanin tagogi yanzu-yanzu,641,mutter,po/ha.po
+Move between panels and the desktop immediately,649,Gusa tsakanin fanel da kwamfyutan tebur yanzu-yanzu,650,mutter,po/ha.po
+Move backward between panels and the desktop immediately,653,Gusa baya-baya tsakanin fanel da kwamfyutan tebur yanzu-yanzu,654,mutter,po/ha.po
+Take a screenshot,672,Ka ɗau wani hoton fuskar kwamfyuta,673,mutter,po/ha.po
+Take a screenshot of a window,676,Ka ɗau wani hoto na taga,677,mutter,po/ha.po
+Run a terminal,680,A tafiyar wata tasha,681,mutter,po/ha.po
+Toggle fullscreen mode,689,Shirin cikakken fuska na toggle,690,mutter,po/ha.po
+Toggle maximization state,693,Halin faɗaɗawa na toggle,694,mutter,po/ha.po
+Maximize window,702,Faɗaɗa taga,703,mutter,po/ha.po
+Toggle shaded state,711,Halin inuwantarwa na toggle,712,mutter,po/ha.po
+Minimize window,715,Tsuke taga,716,mutter,po/ha.po
+Close window,719,Rufe taga,720,mutter,po/ha.po
+Move window,723,Motsa taga,724,mutter,po/ha.po
+Resize window,727,Sake girmar taga,728,mutter,po/ha.po
+Move window to workspace 1,736,Motsa taga zuwa filin aiki 1,737,mutter,po/ha.po
+Move window to workspace 2,740,Motsa taga zuwa filin aiki 2,741,mutter,po/ha.po
+Move window to workspace 3,744,Motsa taga zuwa filin aiki 3,745,mutter,po/ha.po
+Move window to workspace 4,748,Motsa taga zuwa filin aiki 4,749,mutter,po/ha.po
+Move window to workspace 5,752,Motsa taga zuwa filin aiki 5,753,mutter,po/ha.po
+Move window to workspace 6,756,Motsa taga zuwa filin aiki 6,757,mutter,po/ha.po
+Move window to workspace 7,760,Motsa taga zuwa filin aiki 7,761,mutter,po/ha.po
+Move window to workspace 8,764,Motsa taga zuwa filin aiki 8,765,mutter,po/ha.po
+Move window to workspace 9,768,Motsa taga zuwa filin aiki 9,769,mutter,po/ha.po
+Move window to workspace 10,772,Motsa taga zuwa filin aiki 10,773,mutter,po/ha.po
+Move window to workspace 11,776,Motsa taga zuwa filin aiki 11,777,mutter,po/ha.po
+Move window to workspace 12,780,Motsa taga zuwa filin aiki 12,781,mutter,po/ha.po
+Move window one workspace to the left,784,Motsa taga ta hagun filin aiki taki ɗaya,785,mutter,po/ha.po
+Move window one workspace to the right,788,Motsa taga ta daman filin aiki taki ɗaya,789,mutter,po/ha.po
+Move window one workspace up,792,Motsa taga ta saman filin aiki taki ɗaya,793,mutter,po/ha.po
+Move window one workspace down,796,Motsa taga ta ƙasan filin aiki taki ɗaya,797,mutter,po/ha.po
+Raise window above other windows,805,Ɗaga taga kan sauran tagogi,806,mutter,po/ha.po
+Lower window below other windows,809,Yi ƙasa da taga a ƙarƙashin sauran tagogi,810,mutter,po/ha.po
+Maximize window vertically,813,Faɗaɗa taga a tsaye,814,mutter,po/ha.po
+Maximize window horizontally,817,Faɗaɗa taga a kwance,818,mutter,po/ha.po
+(Not implemented) Navigation works in terms of applications not windows,860,"(Ba'a zartar da shi ba) Neman hanya na aiki game da shirin ayuka, bada taga ba",861,mutter,po/ha.po
+Action on title bar double-click,883,Aiki idan an danna layin suna sau-biyu,884,mutter,po/ha.po
+Arrangement of buttons on the titlebar,897,Tsarin maɓallu kan layin suna,898,mutter,po/ha.po
+Automatically raises the focused window,919,Yana ɗaga tagan da aka zura wa ido farat ɗaya,920,mutter,po/ha.po
+"Clicking a window while holding down this modifier key will move the window (left click), resize the window (middle click), or show the window menu (right click). Modifier is expressed as \""&lt;Alt&gt;\"" or \""&lt;Super&gt;\"" for example.",923,"Idan ana danna wani taga a lokacin da aka riƙe wannan maɓallin gyare-gyare, zai motsa tagan (danne hagu), sake girmar tagan (danne tsakiya), ko kuma ya nuna mazaɓen tagan (danne dama). Akan nuna mai gyare-gyare kamar misali, \""&lt;Alt&gt;\"" ko \""&lt;Super&gt;\"".",928,mutter,po/ha.po
+Commands to run in response to keybindings,935,Umarnai da za'a tafiyar da cikin ba da amsa zuwa kibaindin,936,mutter,po/ha.po
+Current theme,947,Jigo wanda ake kai yanzu,948,mutter,po/ha.po
+Delay in milliseconds for the auto raise option,951,Jinkiri cikin millisakan wa zaɓe na ɗagawa farat ɗaya,952,mutter,po/ha.po
+Determines whether applications or the system can generate audible 'beeps'; may be used in conjunction with 'visual bell' to allow silent 'beeps'.,959,Yana ƙudura ko da shirin ayuka ko kuma na'urar zai iya bada 'ƙara' da za'a iya ji; ko kuma wanda za'a iya amfani da tare da 'ƙararrawar da ake gani' don ya yarda da 'ƙaran' mai shiru.,962,mutter,po/ha.po
+Disable misfeatures that are required by old or broken applications,968,Ka kashe misfeature wanda tsohon shiryoyin ayuka ko shiryoyin ayuka wanda aka karya ke buƙata,969,mutter,po/ha.po
+Enable Visual Bell,974,Fara Ƙararrawa na Gani,975,mutter,po/ha.po
+"If true, ignore the titlebar_font option, and use the standard application font for window titles.",990,"In da gaske, sai ka ƙyale zaɓe na nau'in rubutun_layinsuna, kuma ka yi amfani da daidaitacciyar nau'in rubutu na shiryoyin ayuka wa sunayen taga.",993,mutter,po/ha.po
+"If true, trade off usability for less resource usage",1038,"In da gaske, ka sauya sauƙin amfani wa rage amfani na arziki ",1039,mutter,po/ha.po
+Modifier to use for modified window click actions,1042,Shirin Gyare-Gyare da za'a yi amfani da wa ayukan danne-dannen tagan da aka yi wa gyare-gyare,1043,mutter,po/ha.po
+Name of workspace,1048,Sunan filin aiki,1049,mutter,po/ha.po
+Number of workspaces,1052,Yawan filayen aiki,1053,mutter,po/ha.po
+Run a defined command,1067,A tafiyar da wata umarnin a bayyane,1068,mutter,po/ha.po
+System Bell is Audible,1101,Ana Jin Ƙararrawar Na'ura,1102,mutter,po/ha.po
+"Tells Metacity how to implement the visual indication that the system bell or another application 'bell' indicator has been rung. Currently there are two valid values, \""fullscreen\"", which causes a fullscreen white-black flash, and \""frame_flash\"" which causes the titlebar of the application which sent the bell signal to flash. If the application which sent the bell is unknown (as is usually the case for the default \""system beep\""), the currently focused window's titlebar is flashed.",1105,"Yana gaya wa Metaciti yanda yakamata ya aiwatar da indiketa wanda ana gani, mai nuna cewa an danna ƙararrawar na'ura ko kuma an danna wata indiketa na shirin ayuka 'ƙararrawa' daban. A yanzu, akwai kima guda biyu masu inganci, \""cikakkenfuska\"", mai jawo wata filash mai fari-baƙi ga cikakken fuska, da kuma \""filash na_firam\"" da ke sa layin sunan shirin ayuka, wanda ya aika da alamar ƙararrawa ya yi filash. Idan ba'a san da shirin ayuka wanda ya aika da ƙararrawar ba (yawanci matsalar da ke shafi difwalt \""ƙarar na'ura\""), layin sunan taga da aka zura wa ido a lokacin zai yi filash.",1113,mutter,po/ha.po
+The /apps/metacity/global_keybindings/run_command_N keys define keybindings that correspond to these commands. Pressing the keybinding for run_command_N will execute command_N.,1124,"Wannan /apps/metacity/global_keybindings/run_command_N keys na bayyana kibaindin da suka dace da waɗannan umarnai. Idan an danna kibaindin wa tafiyar da_umarnin_N, zai zartar da umarnin_N.",1128,mutter,po/ha.po
+The /apps/metacity/global_keybindings/run_command_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1134,Wannan /apps/metacity/global_keybindings/run_command_screenshot key na bayyana kibaindin da ke sa a kira umarnin da wannan kewaye ke ƙayyade.,1137,mutter,po/ha.po
+The /apps/metacity/global_keybindings/run_command_window_screenshot key defines a keybinding which causes the command specified by this setting to be invoked.,1142,Wannan /apps/metacity/global_keybindings/run_command_window_screenshot key na ƙayyade wata kibaindin da ke sa a ƙira umarnin da wannan kewaye ta ƙayyade.,1146,mutter,po/ha.po
+"The keybinding that runs the correspondingly-numbered command in /apps/metacity/keybinding_commands The format looks like \""&lt;Control&gt;a\"" or \""&lt;Shift&gt;&lt;Alt&gt;F1\"". The parser is fairly liberal and allows lower or upper case, and also abbreviations such as \""&lt;Ctl&gt;\"" and \""&lt;Ctrl&gt;\"". If you set the option to the special string \""disabled\"", then there will be no keybinding for this action.",1152,"Kibaindin da ke tafiyar da umarnin da alƙalaminsu-suka dace cikin /apps/metacity/keybinding_commands. Tsarin na kama da \""&lt;Control&gt;a\"" ko \""&lt;Shift&gt;&lt;Alt&gt;F1\"". Parser ɗin na da ɗan sassauci kuma yana yarda da baƙaƙƙe masu kanana da babba, da kuma taƙaitaccen sunaye kamar \""&lt;Ctl&gt;\"" da \""&lt;Ctrl&gt;\"". Idan ka daidaita zaɓen zuwa jumla mai musamman na \""an kashe\"", to ba za'a sami wata kibaindin wa wannan aikin ba.",1159,mutter,po/ha.po
+The name of a workspace.,1168,Sunan wata filin aiki.,1169,mutter,po/ha.po
+The screenshot command,1172,Umarnin hoton fuskar kwamfyuta,1173,mutter,po/ha.po
+"The theme determines the appearance of window borders, titlebar, and so forth.",1176,"Jigon na ƙudura surar gefen taga, layin suna, da kaza da kaza.",1179,mutter,po/ha.po
+The time delay before raising a window if auto_raise is set to true. The delay is given in thousandths of a second.,1182,Jinkintar lokaci kafin a ɗaga wani taga idan an daidaita ɗagawa_farat ɗaya zuwa gaske. Ana ba da jinkintar cikin dubban sakan.,1185,mutter,po/ha.po
+"The window focus mode indicates how windows are activated. It has three possible values; \""click\"" means windows must be clicked in order to focus them, \""sloppy\"" means windows are focused when the mouse enters the window, and \""mouse\"" means windows are focused when the mouse enters the window and unfocused when the mouse leaves the window.",1190,"Shirin zura ido na taga na nuna yanda ake kunna tagogi. Yana da kima guda uku masu yiwu; ma'anar \""danna\"" shine ya kamata a danna tagogi don a samu a zura musu ido, ma'anar \""sloppy\"" shine ana zura ma tagogi ido idan linzami ta shiga tagan, da ma'anar \""linzami\"" shine ana zura wa tagogi ido idan linzamin ta shiga tagan kuma ana cire idon idan linzamin ta bar tagan.",1196,mutter,po/ha.po
+The window screenshot command,1204,Umarnin hoton fuskar kwamfyutan taga,1205,mutter,po/ha.po
+Use standard system font in window titles,1264,Yi amfani da daidaitacciyar nau'in rubutu na na'ura cikin sunan taga,1265,mutter,po/ha.po
+Visual Bell Type,1268,Nau'in Ƙararrawa Na Kallo,1269,mutter,po/ha.po
+Window focus mode,1276,Shirin zura ido kan taga,1277,mutter,po/ha.po
+Window title font,1280,Nau'in rubutun sunan taga,1281,mutter,po/ha.po
+Usage: %s\n,1285,Yin Amfani da: %s\n,1286,mutter,po/ha.po
+Close Window,1289,Rufe Taga,1290,mutter,po/ha.po
+Window Menu,1293,Mazaɓen Taga,1294,mutter,po/ha.po
+Minimize Window,1297,Tsuke Taga,1298,mutter,po/ha.po
+Maximize Window,1301,Faɗaɗa Taga,1302,mutter,po/ha.po
+Mi_nimize,1339,Ts_uke,1340,mutter,po/ha.po
+Ma_ximize,1344,Fa_ɗaɗa,1345,mutter,po/ha.po
+Unma_ximize,1349,Cire fa_ɗaɗawa,1350,mutter,po/ha.po
+Roll _Up,1354,Naɗe _Sama,1355,mutter,po/ha.po
+_Unroll,1359,_Cire Naɗi,1360,mutter,po/ha.po
+_Move,1364,_Motsa,1365,mutter,po/ha.po
+_Resize,1369,_Sake Girma,1370,mutter,po/ha.po
+_Always on Visible Workspace,1385,_Kullum Kan Filin Aiki da Ake Gani,1386,mutter,po/ha.po
+_Only on This Workspace,1390,_Kan Wannan Filin Aiki Kawai,1391,mutter,po/ha.po
+Move to Workspace _Left,1395,Motsa Zuwa Filin aiki _Hagu,1396,mutter,po/ha.po
+Move to Workspace R_ight,1400,Motsa Zuwa Filin aiki D_ama,1401,mutter,po/ha.po
+Move to Workspace _Up,1405,Motsa Zuwa Filin aiki _Sama,1406,mutter,po/ha.po
+Move to Workspace _Down,1410,Mosta Zuwa Filin aiki _Ƙasa,1411,mutter,po/ha.po
+_Close,1416,_Rufe,1417,mutter,po/ha.po
+Workspace 1_0,1426,Filin aiki 1_0,1427,mutter,po/ha.po
+Workspace %s%d,1431,Filin aiki %s%d,1432,mutter,po/ha.po
+Move to Another _Workspace,1435,Motsa Zuwa Wata _Filin aiki Daban,1436,mutter,po/ha.po
+_Force Quit,1544,_Daina da Ƙarfi,1545,mutter,po/ha.po
+Title,1548,Suna,1549,mutter,po/ha.po
+Class,1552,Aji,1553,mutter,po/ha.po
+"These windows do not support \""save current setup\"" and will have to be restarted manually next time you log in.",1556,"Waɗannan tagogi basu goyon bayan \""adana tsarin da ake kai yanzu\"" sabo da haka ana buƙatan ka sake fara tsarin da hannu nan gaba idan za ka sake shiga.",1559,mutter,po/ha.po
+"There was an error running \""%s\"":\n%s.",1565,"An sami kure wajen tafiyar da \""%s\"":\n%s.",1568,mutter,po/ha.po
+top,1581,sama,1582,mutter,po/ha.po
+bottom,1585,ƙasa,1586,mutter,po/ha.po
+left,1589,hagu,1590,mutter,po/ha.po
+right,1593,dama,1594,mutter,po/ha.po
+"frame geometry does not specify \""%s\"" dimension",1598,"jometiri ɗin firam bai ƙayyade girmar \""%s\""",1599,mutter,po/ha.po
+"frame geometry does not specify dimension \""%s\"" for border \""%s\""",1603,"jometiri na firam bai ƙayyade girmar \""%s\"" wa gefen \""%s\""",1604,mutter,po/ha.po
+Button aspect ratio %g is not reasonable,1608,Maɓalli na gwada tsawo da faɗin %g ba mai hankali ba,1609,mutter,po/ha.po
+Frame geometry does not specify size of buttons,1613,Jometiri ɗin firam ba ya ƙayyade girmar maɓallu,1614,mutter,po/ha.po
+Gradients should have at least two colors,1618,Ana son grediyant ya ƙunsa da a ƙalla launuka guda biyu,1619,mutter,po/ha.po
+"GTK color specification must have the state in brackets, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1623,"Tilas ne buƙatan launi na GTK ya ƙayyade halin cikin baka biyu, misali gtk:fg[NA KULLUM] inda NA KULLUM halinsa kenan; kuma an kasa yin parse ga \""%s\""",1626,mutter,po/ha.po
+"GTK color specification must have a close bracket after the state, e.g. gtk:fg[NORMAL] where NORMAL is the state; could not parse \""%s\""",1632,"Tilas ne buƙatan launi na GTK ya zaɓi wata rufaffiyar baka biyu bayan halin, misali, gtk:fg[NA KULLUM] inda NA KULLUM watau halinsa kenan; kuma an kasa yin parse ga \""%s\""",1635,mutter,po/ha.po
+"Did not understand state \""%s\"" in color specification",1642,"An kasa fahimci halin \""%s\"" cikin buƙatan launi",1643,mutter,po/ha.po
+"Did not understand color component \""%s\"" in color specification",1647,"Ba'a gane da ruƙunin launi na \""%s\"" wanda ke cikin buƙatan launi ba",1648,mutter,po/ha.po
+"Blend format is \""blend/bg_color/fg_color/alpha\"", \""%s\"" does not fit the format",1652,"Tsarin sajewa shine \""blend/bg_color/fg_color/alpha\"", \""%s\"" bai dace da tsarin ba",1655,mutter,po/ha.po
+"Could not parse alpha value \""%s\"" in blended color",1661,"An kasa yin parse ga kimar alfa na \""%s\"" cikin launin da aka saje",1662,mutter,po/ha.po
+"Alpha value \""%s\"" in blended color is not between 0.0 and 1.0",1666,"Kimar alfa \""%s\"" da ke cikin launin da aka saje bai tsakanin 0,0 da 1.0",1667,mutter,po/ha.po
+"Shade format is \""shade/base_color/factor\"", \""%s\"" does not fit the format",1672,"Tsarin inuwantarwa shine \""shade/base_color/factor\"", \""%s\"" bai dace da tsarin ba",1674,mutter,po/ha.po
+"Could not parse shade factor \""%s\"" in shaded color",1680,"An kasa yin parse ga shade fakto na\""%s\"" cikin launin da aka inuwantar da",1681,mutter,po/ha.po
+"Shade factor \""%s\"" in shaded color is negative",1686,"Shade fakto \""%s\"" wanda ke cikin launin da aka inuwantar da, korau ne",1687,mutter,po/ha.po
+"Could not parse color \""%s\""",1691,"An kasa yin parse ga launin \""%s\""",1692,mutter,po/ha.po
+Coordinate expression contains character '%s' which is not allowed,1696,Salon maganar ajiya na ƙunsa da baƙin '%s' wanda ba'a yarda ba ,1697,mutter,po/ha.po
+Coordinate expression contains floating point number '%s' which could not be parsed,1701,Salon maganar ajiya na ƙunsa da tsarin adana lambobi na flotin point na '%s' da aka kasa yin parse,1704,mutter,po/ha.po
+Coordinate expression contains integer '%s' which could not be parsed,1710,Salon maganar ajiya na ƙunsa da inteja '%s' da aka kasa yin parse,1711,mutter,po/ha.po
+"Coordinate expression contained unknown operator at the start of this text: \""%s\""",1715,"Salon maganar ajiya na ƙunsa da afareta wanda ba'a sani ba a wajen fara wannan rubutu : \""%s\""",1718,mutter,po/ha.po
+Coordinate expression was empty or not understood,1724,Babu komai cikin salon maganar ajiya ko kuma ba'a gane shi ba,1725,mutter,po/ha.po
+Coordinate expression results in division by zero,1729,Salon maganar ajiya na bada sakammako cikin rabawa da sifiri,1730,mutter,po/ha.po
+Coordinate expression tries to use mod operator on a floating-point number,1734,Salon maganar ajiya na ƙoƙarin yin amfani da afaretar mod kan tsarin adana lambobi na flotin-point,1736,mutter,po/ha.po
+"Coordinate expression has an operator \""%s\"" where an operand was expected",1742,"Salon maganar ajiya na da wata afareta \""%s\"" inda aka saurari wani operand",1744,mutter,po/ha.po
+Coordinate expression had an operand where an operator was expected,1749,Salon maganar ajiya na da wani operand inda aka saurari wata afareta,1750,mutter,po/ha.po
+Coordinate expression ended with an operator instead of an operand,1754,Salon maganar ajiya ta ƙare da wata afareta maimakon wata operand,1755,mutter,po/ha.po
+"Coordinate expression has operator \""%c\"" following operator \""%c\"" with no operand in between",1759,"Salon maganar ajiya na da afaretar \""%c\"" mai bin afaretar \""%c\"" kuma babu wani operand tsakanin su",1762,mutter,po/ha.po
+"Coordinate expression had unknown variable or constant \""%s\""",1768,"Salon maganar ajiya na da veriyabur ko kwanstant wanda ba'a sani ba \""%s\""",1769,mutter,po/ha.po
+Coordinate expression had a close parenthesis with no open parenthesis,1779,Salon maganar ajiya na da wata rufaffiyar baka-biyu mai maras buɗaɗɗen baka-biyu,1780,mutter,po/ha.po
+Coordinate expression had an open parenthesis with no close parenthesis,1786,Salon maganar ajiya ta sami wata buɗaɗɗiyar baka biyu mai maras rufaffiyar baka biyu,1787,mutter,po/ha.po
+Coordinate expression doesn't seem to have any operators or operands,1793,Kamar salon maganar ajiya bai da wasu afareta ko operands,1794,mutter,po/ha.po
+"<button function=\""%s\"" state=\""%s\"" draw_ops=\""whatever\""/> must be specified for this frame style",1804,"Tilas ne a ƙayyade <aikin maɓalli=\""%s\"" state=\""%s\"" duro_ops=\""komene ne\""/> wa wannan salon firam",1807,mutter,po/ha.po
+"Missing <frame state=\""%s\"" resize=\""%s\"" focus=\""%s\"" style=\""whatever\""/>",1813,"Wanda ya ɓata <frame state=\""%s\"" resize=\""%s\"" focus=\""%s\"" style=\""komene ne\""/>",1815,mutter,po/ha.po
+"Failed to load theme \""%s\"": %s\n",1821,"An kasa loda jigon \""%s\"": %s\n",1822,mutter,po/ha.po
+"No <%s> set for theme \""%s\""",1827,"Babu <%s> tsari wa jigon \""%s\""",1828,mutter,po/ha.po
+"No frame style set for window type \""%s\"" in theme \""%s\"", add a <window type=\""%s\"" style_set=\""whatever\""/> element",1832,"Babu salon firam da aka daidaita wa nau'in taga \""%s\"" cikin jigon \""%s\"", ƙara wata ƙanshi na <window type=\""%s\"" style_set=\""komene ne\""/>",1835,mutter,po/ha.po
+"User-defined constants must begin with a capital letter; \""%s\"" does not",1841,"Tilas ne babbaƙu wanda mai amfani da-ya bayyana, su fara da baƙi babba; \""%s\"" bai yi",1843,mutter,po/ha.po
+"Constant \""%s\"" has already been defined",1849,"An riga an bayyana babbƙu na \""%s\""",1850,mutter,po/ha.po
+"No \""%s\"" attribute on element <%s>",1857,"Babu halin \""%s\"" kan ƙanshin <%s>",1858,mutter,po/ha.po
+Line %d character %d: %s,1862,Layi %d baƙi %d: %s,1863,mutter,po/ha.po
+"Attribute \""%s\"" repeated twice on the same <%s> element",1867,"An maimaita halin \""%s\"" sau biyu kan ƙanshi <%s> guda",1868,mutter,po/ha.po
+"Attribute \""%s\"" is invalid on <%s> element in this context",1872,"Halin \""%s\"" na da inganci kan <%s> ƙanshi na cikin wannan muhalli",1873,mutter,po/ha.po
+Integer %ld must be positive,1877,Tilas ne inteja na %ld ya zama tabbatacce,1878,mutter,po/ha.po
+"Integer %ld is too large, current max is %d",1882,"Inteja %ld ya yi girma ainun, iyakan da ake buƙata yanzu shine %d",1883,mutter,po/ha.po
+"Could not parse \""%s\"" as a floating point number",1887,"An kasa yin parse \""%s\"" kamar wata shirin lissafa da adana alƙalami",1888,mutter,po/ha.po
+"Boolean values must be \""true\"" or \""false\"" not \""%s\""",1892,"Tilas ne kimar Bookean su zama na \""gaske\"" ko \""ƙarya\"" ba na \""%s\"" ba",1893,mutter,po/ha.po
+"Angle must be between 0.0 and 360.0, was %g\n",1898,"Ana son kusurwa ta tsaya tsakanin 0.0 da 360.0, shine %g\n",1899,mutter,po/ha.po
+"Alpha must be between 0.0 (invisible) and 1.0 (fully opaque), was %g\n",1903,"Ana so alfa ta tsaya tsakanin 0.0 (wanda ba ya ganuwa) da 1.0 (cikakken shirin opaque), shine %g\n",1904,mutter,po/ha.po
+"Invalid title scale \""%s\"" (must be one of xx-small,x-small,small,medium,large,x-large,xx-large)\n",1910,"Sikeli na suna mai maras inganci \""%s\"" (ana so ya zama ɗaya cikin xx-ƙarami,x-ƙarami,ƙarami,madaidaici,babba,x-babba,xx-babba)\n",1913,mutter,po/ha.po
+"<%s> name \""%s\"" used a second time",1920,"<%s> sunan \""%s\"" da aka amfani da na biyu",1921,mutter,po/ha.po
+"<%s> parent \""%s\"" has not been defined",1926,"ba'a bayyana <%s> uwar \""%s\"" ba",1927,mutter,po/ha.po
+"<%s> geometry \""%s\"" has not been defined",1931,"Ba'a bayyana <%s> jometiri \""%s\"" ba",1932,mutter,po/ha.po
+<%s> must specify either a geometry or a parent that has a geometry,1936,<%s> sai ka ƙayyada ko wani jometiri ko kuma wata uwa da ke da wani jometiri,1937,mutter,po/ha.po
+"Unknown type \""%s\"" on <%s> element",1946,"Nau'in da ba'a sani ba \""%s\"" kan ƙanshin <%s>",1947,mutter,po/ha.po
+"Unknown style_set \""%s\"" on <%s> element",1951,"tsarin_salon da ba'a sani ba \""%s\"" kan ƙanshin <%s>",1952,mutter,po/ha.po
+"Window type \""%s\"" has already been assigned a style set",1956,"An riga an raba wani tsarin salo ga nau'in taga \""%s\""",1957,mutter,po/ha.po
+Element <%s> is not allowed below <%s>,1965,Ba'a yarda da ƙanshin <%s> a ƙasan <%s> ba,1966,mutter,po/ha.po
+"Distance \""%s\"" is unknown",1980,"Ba'a san nisan \""%s\"" ba",1981,mutter,po/ha.po
+"Aspect ratio \""%s\"" is unknown",1985,"Bambancin faɗi da tsayi \""%s\"" da ba'a sani ba",1986,mutter,po/ha.po
+"Border \""%s\"" is unknown",1990,"Ba'a san gefen \""%s\"" ba",1991,mutter,po/ha.po
+"Did not understand value \""%s\"" for type of gradient",2005,"Ba'a gane kimar \""%s\"" wa irin grediyent ba",2006,mutter,po/ha.po
+"Did not understand fill type \""%s\"" for <%s> element",2010,"Ban gane nau'in \""%s\"" na cikawa wa ƙanshin <%s> ba",2011,mutter,po/ha.po
+"Did not understand state \""%s\"" for <%s> element",2016,"Ban gane halin \""%s\"" wa ƙanshin <%s> ba",2017,mutter,po/ha.po
+"Did not understand shadow \""%s\"" for <%s> element",2021,"Ban gane inuwar \""%s\"" wa ƙanshin <%s> ba",2022,mutter,po/ha.po
+"Did not understand arrow \""%s\"" for <%s> element",2026,"Ban gane kibiyar \""%s\"" wa ƙanshin <%s> ba",2027,mutter,po/ha.po
+"No <draw_ops> called \""%s\"" has been defined",2031,"Babu <duro_ops> mai suna \""%s\"" da aka bayyana",2032,mutter,po/ha.po
+"Including draw_ops \""%s\"" here would create a circular reference",2036,"Idan an tsira da duro_ops \""%s\"" nan, zai ƙiƙiro wani matsalar zagaye-zagaye",2037,mutter,po/ha.po
+"Unknown position \""%s\"" for frame piece",2042,"Wurin da ba'a sani ba na \""%s\"" wa ɗan firam",2043,mutter,po/ha.po
+Frame style already has a piece at position %s,2047,Salon firam ya riga yana da wani ɗan firam a wurin %s,2048,mutter,po/ha.po
+"No <draw_ops> with the name \""%s\"" has been defined",2052,"Babu <duro_ops> mai sunan \""%s\"" da aka bayyana",2053,mutter,po/ha.po
+"Unknown function \""%s\"" for button",2057,"Aikin da ba'a sani ba na \""%s\"" wa maɓalli",2058,mutter,po/ha.po
+"Unknown state \""%s\"" for button",2067,"Halin da ba'a sani ba na \""%s\"" wa maɓalli",2068,mutter,po/ha.po
+Frame style already has a button for function %s state %s,2072,Salon firam ya riga yana da wani maɓalli wa aikin %s halin %s,2073,mutter,po/ha.po
+"\""%s\"" is not a valid value for focus attribute",2077,"\""%s\"" ba wani kima mai inganci wa halin zura ido bane",2078,mutter,po/ha.po
+"\""%s\"" is not a valid value for state attribute",2082,"\""%s\"" ba wata kima mai inganci wa halin matsayi bane",2083,mutter,po/ha.po
+"A style called \""%s\"" has not been defined",2087,"Ba'a bayyana wata salo mai suna \""%s\"" ba",2088,mutter,po/ha.po
+"\""%s\"" is not a valid value for resize attribute",2092,"\""%s\"" ba wata kima mai inganci wa halin sake girma ba",2093,mutter,po/ha.po
+"Should not have \""resize\"" attribute on <%s> element for maximized/shaded states",2097,"Bai kamata ana da halin \""sake girma\"" kan ƙanshi na <%s> wa halayen da aka faɗaɗa/inuwantar da",2100,mutter,po/ha.po
+Style has already been specified for state %s resize %s focus %s,2114,An riga an ƙayyade salo wa halin %s sake girma %s zura ido %s,2115,mutter,po/ha.po
+Style has already been specified for state %s focus %s,2119,An riga an ƙayyade salo wa halin %s zura ido %s,2120,mutter,po/ha.po
+"Can't have a two draw_ops for a <piece> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2123,"Ba za'a iya sami duro_ops guda biyu wa wani <gutsuren> ƙanshi ba (jigon ya ƙayyade wani halin duro_ops da kuma wani ƙanshi na <duro_ops>, ko kuma ya ƙayyade ƙanshi guda biyu)",2126,mutter,po/ha.po
+"Can't have a two draw_ops for a <button> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2132,"Ba za'a iya sami duro_ops guda biyu wa wani <maɓallin> ƙanshi ba (jigon ya ƙayyade wani halin duro_ops da kuma wata ƙanshi na <duro_ops>, ko kuma ya ƙayyade ƙanshi guda biyu)",2135,mutter,po/ha.po
+"Can't have a two draw_ops for a <menu_icon> element (theme specified a draw_ops attribute and also a <draw_ops> element, or specified two elements)",2141,"Ba za'a iya sami wani duro_ops wa wani ƙanshi na <alamar_mazaɓa> ba (jigon ya ƙayyade wani halin duro_ops da kuma wani ƙanshi na <duro_ops>, ko kuma ya ƙayyade ƙanshi guda biyu)",2144,mutter,po/ha.po
+Outermost element in theme must be <metacity_theme> not <%s>,2151,Tilas ne ƙanshi na waje cikin jigon ya zama <jigon_metacity> ba <%s> ba,2152,mutter,po/ha.po
+Element <%s> is not allowed inside a name/author/date/description element,2157,Ba'a yarda da ƙanshi na <%s> cikin wani ƙanshi na name/author/date/description ba,2159,mutter,po/ha.po
+Element <%s> is not allowed inside a <constant> element,2165,Ba'a yarda da ƙanshi na <%s> cikin wani ƙanshi na <kullum> ba,2166,mutter,po/ha.po
+Element <%s> is not allowed inside a distance/border/aspect_ratio element,2170,Ba'a yarda da ƙanshi na <%s> cikin wani ƙanshi na distance/border/aspect_ratio ba,2172,mutter,po/ha.po
+Element <%s> is not allowed inside a draw operation element,2178,Ba'a yarda da ƙanshi na <%s> cikin ƙanshi na wani aikin duro ba,2179,mutter,po/ha.po
+Element <%s> is not allowed inside a <%s> element,2184,Ba'a yarda da ƙanshi na <%s> cikin wani ƙanshi na <%s> ba,2185,mutter,po/ha.po
+No draw_ops provided for frame piece,2188,Babu duro_ops da aka samar wa gutsuren firam,2189,mutter,po/ha.po
+No draw_ops provided for button,2192,Babu duro_ops da aka samar wa maɓalli,2193,mutter,po/ha.po
+No text is allowed inside element <%s>,2197,Ba'a yarda da rubutu cikin ƙanshi na <%s> ba,2198,mutter,po/ha.po
+<name> specified twice for this theme,2201,<suna> da aka ƙayyade sau biyu wa wannan jigo,2202,mutter,po/ha.po
+<author> specified twice for this theme,2205,<marubuci> da aka ƙayyade sau biyu wa wannan jigon,2206,mutter,po/ha.po
+<copyright> specified twice for this theme,2209,<hakkin mallaka> da aka ƙayyade sau biyu wa wannan jigon,2210,mutter,po/ha.po
+<date> specified twice for this theme,2213,<kwanan wata> da aka ƙayyade sau biyu wa wannan jigon,2214,mutter,po/ha.po
+<description> specified twice for this theme,2217,<kwatance> da aka ƙayyade sau biyu wa wannan jigon,2218,mutter,po/ha.po
+Theme file %s did not contain a root <metacity_theme> element,2227,Fayil ɗin jigo na %s bai ƙunsa da wata ƙanshi na tushen <jigon_metacity> ba,2228,mutter,po/ha.po
+Open another one of these windows,2280,Buɗe wani na waɗannan tagogi,2281,mutter,po/ha.po
+This is a demo button with an 'open' icon,2284,Wannan wani maɓalli na gwaji ne mai alamar 'buɗe',2285,mutter,po/ha.po
+This is a demo button with a 'quit' icon,2288,Wannan wani maɓalli na gwaji ne mai alamar 'daina',2289,mutter,po/ha.po
+This is a sample message in a sample dialog,2292,Wannan wani samfurin saƙo na cikin wani samfurin zauren akwatin bayani ne,2293,mutter,po/ha.po
+Fake menu item %d\n,2298,Abun mazaɓa na ƙarya %d\n,2299,mutter,po/ha.po
+Border-only window,2302,Taga na gefe-kawai,2303,mutter,po/ha.po
+Bar,2306,Layi,2307,mutter,po/ha.po
+Normal Application Window,2310,Tagan Shiryoyin Ayuka na Kullum,2311,mutter,po/ha.po
+Dialog Box,2314,Akwatin Tattaunawa,2315,mutter,po/ha.po
+Modal Dialog Box,2318,Akwatin Tattaunawa na Modal,2319,mutter,po/ha.po
+Utility Palette,2322,Farentin Amfani,2323,mutter,po/ha.po
+Torn-off Menu,2326,Mazaɓen da Ake-Cire,2327,mutter,po/ha.po
+Border,2330,Gefe,2331,mutter,po/ha.po
+Button layout test %d,2335,Gwajin tsarin maɓalli %d,2336,mutter,po/ha.po
+%g milliseconds to draw one window frame,2340,%g millisakan da za'a ja firam guda na taga,2341,mutter,po/ha.po
+Usage: metacity-theme-viewer [THEMENAME]\n,2345,Amfani: mai kallon-jigon-metaciti [SUNANJIGO]\n,2346,mutter,po/ha.po
+Error loading theme: %s\n,2350,Kuskure wajen loda jigo: %s\n,2351,mutter,po/ha.po
+"Loaded theme \""%s\"" in %g seconds\n",2355,"An loda jigon \""%s\"" cikin %g sakan\n",2356,mutter,po/ha.po
+Normal Title Font,2359,Nau'in Rubutun Suna na Kullum,2360,mutter,po/ha.po
+Small Title Font,2363,Nau'in Rubutun Suna mai Ƙarami,2364,mutter,po/ha.po
+Large Title Font,2367,Nau'in Rubutun Suna mai Babba,2368,mutter,po/ha.po
+Button Layouts,2371,Tsarin Maɓallu,2372,mutter,po/ha.po
+Benchmark,2375,Bancmak,2376,mutter,po/ha.po
+Window Title Goes Here,2379,Sunan Taga Zai Zo Nan,2380,mutter,po/ha.po
+position expression test returned TRUE but set error,2394,an maida gwajin salon maganan wuri GASKE NE amma ya daidaita kure,2395,mutter,po/ha.po
+position expression test returned FALSE but didn't set error,2398,"an maida gwajin salon maganar wuri ƘARYA NE amma, bai daidaita kuren ba",2399,mutter,po/ha.po
+Error was expected but none given,2403,Ana zaton kuskure amma babu wanda aka ba da,2404,mutter,po/ha.po
+Error %d was expected but %d given,2408,An yi zaton kuskuren %d amma an ba da %d,2409,mutter,po/ha.po
+Error not expected but one was returned: %s,2413,Ba'a yi zaton kuskure ba amma an maida guda: %s,2414,mutter,po/ha.po
+"x value was %d, %d was expected",2418,"kimar x shine %d, an yi zaton %d",2419,mutter,po/ha.po
+"y value was %d, %d was expected",2423,"kimar y shine %d, an yi zaton %d",2424,mutter,po/ha.po
+Apparition,81,Apparishan,82,nautilus,po/ha.po
+Black,89,Baƙi,90,nautilus,po/ha.po
+Blue Ridge,93,Kunya mai Shuɗi,94,nautilus,po/ha.po
+Blue Rough,97,Shuɗi mai Kaushi,98,nautilus,po/ha.po
+Blue Type,101,Irin Shuɗi,102,nautilus,po/ha.po
+Brushed Metal,105,Ƙarfe da Aka Goge,106,nautilus,po/ha.po
+Bubble Gum,109,Cingam,110,nautilus,po/ha.po
+C_olors,117,L_aunuka,118,nautilus,po/ha.po
+Camouflage,121,Kamoflaj,122,nautilus,po/ha.po
+Chalk,125,Alli,126,nautilus,po/ha.po
+Charcoal,129,Gawayi,130,nautilus,po/ha.po
+Concrete,133,Kankare,134,nautilus,po/ha.po
+Cork,137,Kork,138,nautilus,po/ha.po
+Countertop,141,Saman kanta,142,nautilus,po/ha.po
+Dark Cork,149,Kork mai Duhu,150,nautilus,po/ha.po
+Dark GNOME,153,GNOME mai Duhu,154,nautilus,po/ha.po
+Deep Teal,157,Teal mai Zurfi,158,nautilus,po/ha.po
+Dots,161,Ɗige-ɗige,162,nautilus,po/ha.po
+Drag a color to an object to change it to that color,165,Ja wani launi cikin wani abu don ya canza abun zuwa launinsa,166,nautilus,po/ha.po
+Drag a pattern tile to an object to change it,169,Ja wani tayil na siga zuwa wani abu don ka canza shi,170,nautilus,po/ha.po
+Drag an emblem to an object to add it to the object,173,Ja wata tambari zuwa wani abu don ya haɗa shi cikin abun,174,nautilus,po/ha.po
+Eclipse,177,Husufi,178,nautilus,po/ha.po
+Envy,181,Kishi,182,nautilus,po/ha.po
+Erase,187,Goge,188,nautilus,po/ha.po
+Fibers,191,Faiba,192,nautilus,po/ha.po
+Fire Engine,195,Ingin ɗin Wuta,196,nautilus,po/ha.po
+Floral,203,Fure,204,nautilus,po/ha.po
+Granite,215,Dutse,216,nautilus,po/ha.po
+Grapefruit,219,Garehul,220,nautilus,po/ha.po
+Green Weave,223,Sāƙā̀ mai Kore,224,nautilus,po/ha.po
+Ice,227,Ƙanƙara,228,nautilus,po/ha.po
+Indigo,231,Shuni,232,nautilus,po/ha.po
+Leaf,235,Ganye,236,nautilus,po/ha.po
+Lemon,239,Lemun Tsami,240,nautilus,po/ha.po
+Mango,243,Mangwaro,244,nautilus,po/ha.po
+Manila Paper,247,Takardar Manila,248,nautilus,po/ha.po
+Moss Ridge,251,Kunyan Moss,252,nautilus,po/ha.po
+Mud,255,Taɓo,256,nautilus,po/ha.po
+Numbers,259,Alƙalamu,260,nautilus,po/ha.po
+Ocean Strips,263,Zirin Teku,264,nautilus,po/ha.po
+Orange,271,Lemun Zaƙi,272,nautilus,po/ha.po
+Pale Blue,275,Koɗaɗɗen Shuɗi,276,nautilus,po/ha.po
+Purple Marble,279,Dutse mai Algashi,280,nautilus,po/ha.po
+Ridged Paper,283,Takarda mai Kunya,284,nautilus,po/ha.po
+Rough Paper,287,Takarda mai Kaushi,288,nautilus,po/ha.po
+Ruby,291,Jan Yaƙutu,292,nautilus,po/ha.po
+Sea Foam,295,Kumfan Teku,296,nautilus,po/ha.po
+Silver,303,Azurfa,304,nautilus,po/ha.po
+Sky,307,Sama,308,nautilus,po/ha.po
+Sky Ridge,311,Kunyan Sama,312,nautilus,po/ha.po
+Snow Ridge,315,Kunyan Ƙanƙara,316,nautilus,po/ha.po
+Tangerine,323,Tanjarin,324,nautilus,po/ha.po
+Terracotta,327,Terrakotta,328,nautilus,po/ha.po
+Violet,331,Launin Jar Garura,332,nautilus,po/ha.po
+Wavy White,335,Fari Mai Kaɗawa,336,nautilus,po/ha.po
+White,339,Fari,340,nautilus,po/ha.po
+White Ribs,343,Farin Haƙarƙari,344,nautilus,po/ha.po
+_Emblems,347,_Tambaru,348,nautilus,po/ha.po
+_Patterns,351,_Sigogi,352,nautilus,po/ha.po
+"A list of captions below an icon in the icon view and the desktop. The actual number of captions shown depends on the zoom level. Possible values are: \""size\"", \""type\"", \""date_modified\"", \""date_changed\"", \""date_accessed\"", \""owner\"", \""group\"", \""permissions\"", \""octal_permissions\"" and \""mime_type\"".",482,"Wani jerin kafshan a ƙasan wata alama da ke cikin kwamfyutan tebur da kallon alama. Ainihin yawan kafshan da za'a nuna ya danganta ga matsayin shirin jawowa kusa da nesa. Kima masu yiwu sune: \""girma\"", \""nau'i\"", \""kwanan wata_da aka yi wa gyare-gyare\"", \""kwanan watan_da aka sami shiga\"", \""mai shi\"", \""ƙungiya\"", \""izini\"", \""izinin_oktal\"" da \""irin_mime\"".",488,nautilus,po/ha.po
+Computer icon visible on desktop,540,Alamar kwamfyuta da ake gani kan kwamfyutan tebur,541,nautilus,po/ha.po
+Criteria for search bar searching,544,Magwaji wa binciken layin bincike,545,nautilus,po/ha.po
+"Criteria when matching files searched for in the search bar. If set to \""search_by_text\"", then Nautilus will Search for files by file name only. If set to \""search_by_text_and_properties\"", then Nautilus will search for files by file name and file properties.",548,"Magwajin da ake amfani da idan za'a dace fayilolin da aka nema cikin layin bincike. Idan an daidaita shi zuwa \""nemo_ta_rubutu\"", sannan Nautilus zai Nemi fayiloli ta sunan fayil kawai. Idan an daidaita shi zuwa \""nemo_ta_rubutu_da_furofati\"", sannan Nautilus zai binciki fayiloli ta sunan fayil da furofati na fayil.",553,nautilus,po/ha.po
+Current Nautilus theme (deprecated),561,Jigon Nautilus na Yanzu (ya zama defriketed),562,nautilus,po/ha.po
+Custom Side Pane Background Set,570,Ɗabi'ar Layin Gefe na Shirin Bangon,571,nautilus,po/ha.po
+Date Format,574,Tsarin Kwanan Wata,575,nautilus,po/ha.po
+Default Background Color,578,Difwalt na Launin Bango,579,nautilus,po/ha.po
+Default Background Filename,582,Difwalt na Sunanfayil na Bango,583,nautilus,po/ha.po
+Default Side Pane Background Color,586,Difwalt na Layin Gefen Launin Bango,587,nautilus,po/ha.po
+Default Side Pane Background Filename,590,Difwalt na Layin Gefen Sunanfayil na Bango,591,nautilus,po/ha.po
+Default column order in the list view,599,Difwalt na tsarin layi tsaye da ke cikin kallon jerin,600,nautilus,po/ha.po
+Default column order in the list view.,603,Difwalt na tsarin layi tsaye da ke cikin kallon jerin.,604,nautilus,po/ha.po
+Default folder viewer,612,Difwalt na kallon shamis,613,nautilus,po/ha.po
+Default icon zoom level,616,Difwalt ɗin matsayin jawowa kusa da nesa na alama,617,nautilus,po/ha.po
+Default list of columns visible in the list view,620,Difwalt na jerin layuka tsaye da ake iya gani cikin kallon jerin,621,nautilus,po/ha.po
+Default list of columns visible in the list view.,624,Difwalt na jerin layuka tsaye da ana iya gani cikin kallon jerin.,625,nautilus,po/ha.po
+Default list zoom level,628,Difwalt ɗin matsayin jawowa kusa da nesa na lissafi,629,nautilus,po/ha.po
+Default sort order,632,Difwalt ɗin tsarin kasawa,633,nautilus,po/ha.po
+Default zoom level used by the icon view.,642,Difwalt na matsayin jawowa kusa da nesa wanda kallon alama ke amfani da.,643,nautilus,po/ha.po
+Default zoom level used by the list view.,647,Difwalt na matsayin jawowa kusa da nesa wanda kallon jeri ke amfani da.,648,nautilus,po/ha.po
+Desktop computer icon name,652,Sunan alama na kwamfyutan kwamfyutantebur,653,nautilus,po/ha.po
+Desktop font,656,Nau'in rubutun kwamfyutan tebur,657,nautilus,po/ha.po
+Desktop home icon name,660,Sunan alama na gidan kwamfyutan tebur,661,nautilus,po/ha.po
+Desktop trash icon name,664,Sunan alamar kwandon sharan kwamfyutan tebur,665,nautilus,po/ha.po
+"Enables the classic Nautilus behavior, where all windows are browsers",668,"Yana fara halin Nautilus na ainihi, inda duk tagogi zasu zama birawsa",669,nautilus,po/ha.po
+Filename for the default folder background. Only used if background_set is true.,672,Sunanfayil wa difwalt na bangon shamis. Ana amfani da shi kurum idan shirin_bango na gaske ne.,675,nautilus,po/ha.po
+Filename for the default side pane background. Only used if side_pane_background_set is true.,680,Sunanfayil wa difwalt na layin gefe na bango. Ana amfani da shi kurum idan shirin_bangon_layin_gefe na gaske ne.,683,nautilus,po/ha.po
+Folders over this size will be truncated to around this size. The purpose of this is to avoid unintentionally blowing the heap and killing Nautilus on massive folders. A negative value denotes no limit. The limit is approximate due to the reading of folders chunk-wise.,688,"Za'a rage girmar shamis da suka fi wannan girma zuwa wannan girmar. Amfanin sa, don gudun hura shirin heap ba da ganga ba, ya kashe Nautilus kan makekiyar shamis. Wata kima mai korau na nufa babu bila haddin. Ana kimar iyakarsa saboda ana karanta shamis a-chakuɗe.",693,nautilus,po/ha.po
+Home icon visible on desktop,700,Alama na gida da ake gani kan kwamfyutan tebur,701,nautilus,po/ha.po
+"If set to true, Nautilus will only show folders in the tree side pane. Otherwise it will show both folders and files.",711,"Idan an shirya zuwa na gaskiya, Nautilus zai nuna shamis cikin layin gefe na bishiya kawai. Idan ba haka ba, zai nuna shamis da fayiloli tare.",714,nautilus,po/ha.po
+"If set to true, newly opened windows will have the location bar visible.",719,"Idan an shirya zuwa na gaske, za'a samu ganin layin wuri na sabobbin tagogi da buɗe.",721,nautilus,po/ha.po
+"If set to true, newly opened windows will have the side pane visible.",726,"Idan an shirya zuwa gaske, za'a samu ganin layin gefe na sabobbin tagogi da aka buɗe.",727,nautilus,po/ha.po
+"If set to true, newly opened windows will have the status bar visible.",732,"Idan an shirya zuwa gaske, za'a samu ganin layi mai nuna matsayi na sabobbin tagogi da aka buɗe.",733,nautilus,po/ha.po
+"If set to true, newly opened windows will have toolbars visible.",738,"Idan an shirya zuwa gaske, za'a iya ganin layukan kayan aiki na sabobbin tagogi da aka buɗe.",739,nautilus,po/ha.po
+"If set to true, then Nautilus shows folders prior to showing files in the icon and list views.",760,"Idan an shirya zuwa gaske, sannan Nautilus zai nuna shamis kafin ya nuna fayiloli cikin kallo na alama da jeri.",763,nautilus,po/ha.po
+"If set to true, then Nautilus will draw the icons on the desktop.",791,"Idan an shirya zuwa gaske, sannan Nautilus zai zana alamomin a kan kwamfyutan tebur.",792,nautilus,po/ha.po
+"If set to true, then Nautilus will have a feature allowing you to delete a file immediately and in-place, instead of moving it to the trash. This feature can be dangerous, so use caution.",797,"Idan an shirya zuwa gaskiya, sannan Nautilus zai sami wata siffa da zai yarda ka goge wani fayil da gaggawa, kuma cikin-wurin, maimakon motsa shi zuwa kwandon shara. Wannan siffa zai iya zama mai haɗari, sabo da haka, yi a tsanke.",801,nautilus,po/ha.po
+"If set to true, then Nautilus will use the user's home folder as the desktop. If it is false, then it will use ~/Desktop as the desktop.",817,"Idan an shirya zuwa gaske, sannan Nautilus zai yi amfani da shamis na gidan mai amfani da, don ya zama kwamfyutan tebur. Idan ƙarya ne, to sai ya yi amfani da ~/Kwamfyutan Tebur don ya zama kwamfyutan tebur.",820,nautilus,po/ha.po
+"If set to true, then all Nautilus windows will be browser windows. This is how Nautilus used to behave before version 2.6, and some people prefer this behavior.",826,"Idan an shirya zuwa gaske, sannan duk tagogin Nautilus zasu zama tagogin birawsa. Haka Nautilus ke nuna hali kafin sigar 2.6, kuma wasu sun fi son wannan halin.",830,nautilus,po/ha.po
+"If set to true, then backup files such as those created by Emacs are displayed. Currently, only files ending in a tilde (~) are considered backup files.",836,"Idan an shirya zuwa gaske, ana nuna fayloli na tallafawa misali kamar waɗanda shirin Emacs ta ƙiƙiro. Ayanzu, sai fayilolin da suka ƙare cikin tsarin tilde (~) ake la'akari kamar fayiloli na goyon baya.",840,nautilus,po/ha.po
+"If set to true, then hidden files are shown in the file manager. Hidden files are either dotfiles or are listed in the folder's .hidden file.",846,"Idan an shirya zuwa gaske, to za'a nuna fayilolin da aka ɓoye a cikin manajan fayil. Akan lissafa fayilolin da aka ɓoye cikin tsarin dotfiles ko kuma cikin .hidden file na shamis.",849,nautilus,po/ha.po
+"If this is set to true, an icon linking to the computer location will be put on the desktop.",870,"Idan an shirya zuwa gaske, za'a saka wata alama mai haɗa zuwa wurin kwamfyuta a kan kwamfyutan tebur.",873,nautilus,po/ha.po
+"If this is set to true, an icon linking to the home folder will be put on the desktop.",878,"Idan an shirya zuwa gaske, za'a saka wata alama mai haɗa zuwa shamis na gida kan kwamfyutan tebur.",881,nautilus,po/ha.po
+"If this is set to true, an icon linking to the trash will be put on the desktop.",886,"Idan an shirya zuwa gaske, za'a saka wata alama mai haɗa zuwa kwandon shara kan kwamfyutan tebur",889,nautilus,po/ha.po
+"If this is set to true, icons linking to mounted volumes will be put on the desktop.",894,"Idan an shirya zuwa gaske, za'a saka alamomi masu haɗa zuwa ƙarfin murya kan kwamfyutan tebur.",897,nautilus,po/ha.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\"".",912,"In da gaske, za'a kasa fayilolin cikin tagogi ta tsarin juyin waina. misali, idan an tsara ta suna, maimakon kasa fayilolin daga \""a\"" zuwa \""z\"", za' a kasa su daga \""z\"" zuwa \""a\"".",916,nautilus,po/ha.po
+"If true, files in new windows will be sorted in reverse order. ie, if sorted by name, then instead of sorting the files from \""a\"" to \""z\"", they will be sorted from \""z\"" to \""a\""; if sorted by size, instead of being incrementally they will be sorted decrementally.",922,"In da gaske, za'a kasa fayiloli cikin sabobbin tagogi ta tsarin juyin waina. misali, idan an kasa su ta suna, maimakon a kasa fayilolin daga \""a\"" zuwa \""z\"", za'a kasa su daga \""z\"" zuwa \""a\""; idan an kasa su ta girma, za'a kasa su ta ragewa maimakon ta ƙari.",927,nautilus,po/ha.po
+"If true, icons will be laid out tighter by default in new windows.",934,"In da gaske, za'a shimfida shi ta difwalt ɗaɗaf cikin sabobbin tagogi.",935,nautilus,po/ha.po
+"If true, labels will be placed beside icons rather than underneath them.",938,"In da gaske, za'a sa lambobi a gefen alamomi maimakon a ƙarƙashin su.",940,nautilus,po/ha.po
+"If true, new windows will use manual layout by default.",943,"In da gaske, sabobbin tagogi zasu yi amfani da tsari na hannu ta difwalt.",944,nautilus,po/ha.po
+Images over this size (in bytes) won't be thumbnailed. The purpose of this setting is to avoid thumbnailing large images that may take a long time to load or use lots of memory.,948,Ba za'a rage girman zane-zane wanda suka wuce iyaka wannan girma (cikin bytes) zuwa girma na 'ɗan yasta ba. Amfanin wannan shiri don ya hana rage girman babbar zane-zane wanda zasu iya ɗau lokaci wajen lodi ko masu amfani da yawan ƙwaƙwalwa zuwa girmar 'ɗan yatsu.,952,nautilus,po/ha.po
+List of possible captions on icons,959,Jerin kafshan masu yiwu na kan alamomi,960,nautilus,po/ha.po
+Maximum handled files in a folder,997,Iyaka fayilolin da ake sarrafa cikin wani shamis,998,nautilus,po/ha.po
+Maximum image size for thumbnailing,1001,Iyaka girmar zane da za'a rage zuwa girmar 'ɗan yasta,1002,nautilus,po/ha.po
+Name of the Nautilus theme to use. This has been deprecated as of Nautilus 2.2. Please use the icon theme instead.,1005,"Sunan jigon Nautilus da za'a amfani da. Wannan ya zama dipriketed a lokaci shirin Nautilus 2.2. Don Allah, maimakon kwai, ka shigar da jigon alama.",1008,nautilus,po/ha.po
+Nautilus handles drawing the desktop,1013,Nautilus na sarrafa idan za'a zana kwamfyutan tebur,1014,nautilus,po/ha.po
+Nautilus uses the users home folder as the desktop,1017,"Nautilus na amfani da shamis na gida na masu amfani da, kamar kwamfyutan tebur",1018,nautilus,po/ha.po
+"Possible values are \""single\"" to launch files on a single click, or \""double\"" to launch them on a double click.",1042,"Kima masu yiwu sune \""guda\"" don gabatar da fayiloli idan an danna sau ɗaya, ko \""dobur\"" don gabatar da su idan an dannawa sau biyu.",1045,nautilus,po/ha.po
+Put labels beside icons,1050,Saka lambobi a gefen alamomi,1051,nautilus,po/ha.po
+Reverse sort order in new windows,1054,Yi juyin waina na tsarin kasawa cikin sabobbin taga,1055,nautilus,po/ha.po
+Show folders first in windows,1070,Nuna shamis da farko cikin tagogi,1071,nautilus,po/ha.po
+Show location bar in new windows,1074,Nuna layin wuri cikin sabobbin tagogi,1075,nautilus,po/ha.po
+Show mounted volumes on the desktop,1078,Nuna ƙarfin murya da aka ɗaura kan kwamfyutan tebur,1079,nautilus,po/ha.po
+Show side pane in new windows,1082,Nuna layin gefe cikin sabobbin tagogi,1083,nautilus,po/ha.po
+Show status bar in new windows,1086,Nuna layin matsayi cikin sabobbin tagogi,1087,nautilus,po/ha.po
+Show toolbar in new windows,1090,Nuna jerin kayan aiki cikin sabobbin tagogi,1091,nautilus,po/ha.po
+Side pane view,1094,Kallo na layin gefe,1095,nautilus,po/ha.po
+"The default sort-order for items in the icon view. Possible values are \""name\"", \""size\"", \""type\"", \""modification_date\"", and \""emblems\"".",1170,"Difwalt na tsarin-kasawa wa abubuwa masu cikin kallon alama. Kima masu yiwu sune \""suna\"", \""girma\"", \""nau'i\"", \""ranar_gyare-gyare\"", da \""Tambarura\"".",1173,nautilus,po/ha.po
+"The default sort-order for the items in the list view. Possible values are \""name\"", \""size\"", \""type\"", and \""modification_date\"".",1178,"Difwalt na tsarin-kasawa wa abubuwa masu cikin kallon jeri. Kima masu yiwu sune \""suna\"", \""girma\"", \""nau'i\"", da \""ranar_gyare-gyare\"".",1181,nautilus,po/ha.po
+The default width of the side pane in new windows.,1186,Faɗin difwalt na layin gefen cikin sabobbin tagogi.,1187,nautilus,po/ha.po
+The font description used for the icons on the desktop.,1190,Kwatanci na nau'in rubutu da aka amfani da wa alamomi masu kan kwamfyutan tebur.,1191,nautilus,po/ha.po
+"The format of file dates. Possible values are \""locale\"", \""iso\"", and \""informal\"".",1196,"Tsari na kwanan watan fayiloli. Kima masu yiwu sune \""locale\"", \""iso\"", da \""informal\"".",1199,nautilus,po/ha.po
+The side pane view to show in newly opened windows.,1204,Kallo na layin gefe wanda za'a nuna cikin sabobbin tagogi da aka buɗe.,1205,nautilus,po/ha.po
+This name can be set if you want a custom name for the computer icon on the desktop.,1208,Za'a iya daidaita wannan suna idan kana son wani suna na ɗabi'a wa alamar kwamfyutan a kan kwamfyutan tebur.,1211,nautilus,po/ha.po
+This name can be set if you want a custom name for the home icon on the desktop.,1216,Ana iya daidaita wannan sunan idan kana son wani suna na ɗabi'a wa alamar gida a kan kwamfyutan tebur.,1219,nautilus,po/ha.po
+This name can be set if you want a custom name for the trash icon on the desktop.,1233,Ana iya daidaita wannan suna idan kana son wani suna na ɗabi'a wa alamar kwandon shara kan kwamfyutan tebur.,1236,nautilus,po/ha.po
+Trash icon visible on desktop,1241,Ana iya ganin alamar Kwandon Shara kan kwamfyutan tebur,1242,nautilus,po/ha.po
+Type of click used to launch/open files,1245,Irin dannawa da aka amfani da wajen gabatar da/buɗe fayiloli,1246,nautilus,po/ha.po
+Use manual layout in new windows,1249,Yi amfani da tsari na hannu cikin sabobbin tagogi,1250,nautilus,po/ha.po
+Use tighter layout in new windows,1253,Yi amfani da tsari mai ƙaushi cikin sabobbin tagogi,1254,nautilus,po/ha.po
+What to do with executable text files when activated,1257,Abin da za'a iya yi da fayilolin rubutu wanda za'a iya zartar da idan an kunna,1258,nautilus,po/ha.po
+"What to do with executable text files when they are activated (single or double clicked). Possible values are \""launch\"" to launch them as programs, \""ask\"" to ask what to do via a dialog, and \""display\"" to display them as text files.",1263,"Abin da za ka iya yi da fayilolin rubutu wanda za'a iya zartar da idan an kunna su (an danna sau ɗaya ko biyu). Kima masu yiwu sune \""gabatar da\"" don a gabatar da su kamar shiryoyi, \""yi tambaya\"" don ya yi tambaya ga abin da za'a yi ta wani zauren akwatin bayani, da \""nuna\"" don ya nuna su kamar fayilolin rubutu.",1268,nautilus,po/ha.po
+When to show number of items in a folder,1287,Lokacin da ya kamata a nuna yawan abubuwa na cikin wani shamis,1288,nautilus,po/ha.po
+When to show preview text in icons,1291,Lokacin da ya kamata a nuna shirin duba rubutu cikin alamomi,1292,nautilus,po/ha.po
+When to show thumbnails of image files,1295,Lokacin da ya kamata a nuna girmar ɗan yatsa na fayilolin sura,1296,nautilus,po/ha.po
+Whether a custom default folder background has been set.,1304,Ko an daidaita wani ɗabi'ar difwalt na bangon shamis,1305,nautilus,po/ha.po
+Whether a custom default side pane background has been set.,1308,Ko an daidaita wata ɗabi'ar difwalt na bangon layin gefe.,1309,nautilus,po/ha.po
+Whether to enable immediate deletion,1325,Ko za'a fara gogewa yanzu-yanzu,1326,nautilus,po/ha.po
+Whether to preview sounds when mousing over an icon,1339,Ko za'a duba sauti idan ana motsa linzami kan alama,1340,nautilus,po/ha.po
+Whether to show backup files,1343,Ko za'a nuna fayiloli na goyon baya,1344,nautilus,po/ha.po
+Whether to show hidden files,1347,Ko za'a nuna fayilolin da aka ɓoye,1348,nautilus,po/ha.po
+Width of the side pane,1351,Faɗi na layin gefe,1352,nautilus,po/ha.po
+_Eject,1467,_Fid da,1468,nautilus,po/ha.po
+Cut the selected text to the clipboard,1482,Yanke rubutun da aka zaɓa zuwa kilibodi,1483,nautilus,po/ha.po
+Copy the selected text to the clipboard,1489,Kwafe rubutun da aka zaɓa zuwa kilibodi,1490,nautilus,po/ha.po
+Paste the text stored on the clipboard,1496,Manna rubutun da aka adana kan kilibodi,1497,nautilus,po/ha.po
+Select _All,1503,Zaɓi _Duka,1504,nautilus,po/ha.po
+Select all the text in a text field,1508,Zaɓi duk rubutun da ke cikin wani filin rubutu,1509,nautilus,po/ha.po
+Move _Up,1512,Gusa _Sama,1513,nautilus,po/ha.po
+Name,1528,Suna,1529,nautilus,po/ha.po
+The name and icon of the file.,1532,Sunan fayil da alamar sa.,1533,nautilus,po/ha.po
+Size,1536,Girma,1537,nautilus,po/ha.po
+The size of the file.,1540,Girmar fayil.,1541,nautilus,po/ha.po
+Type,1544,Nau'i,1545,nautilus,po/ha.po
+The type of the file.,1548,Nau'in fayil,1549,nautilus,po/ha.po
+Date Modified,1553,Ranar da Aka Yi Gyare-Gyare,1554,nautilus,po/ha.po
+The date the file was modified.,1557,Ranar da aka yi wa fayil gyare-gyare.,1558,nautilus,po/ha.po
+Date Accessed,1561,Ranar da aka Sami Hanya Zuwa,1562,nautilus,po/ha.po
+The date the file was accessed.,1565,Ranar da aka sami hanyar fayil.,1566,nautilus,po/ha.po
+Owner,1569,Mai Shi,1570,nautilus,po/ha.po
+The owner of the file.,1573,Mai fayil.,1574,nautilus,po/ha.po
+Group,1577,Ƙungiya,1578,nautilus,po/ha.po
+The group of the file.,1581,Ƙungiya na fayil.,1582,nautilus,po/ha.po
+Permissions,1586,Izini,1587,nautilus,po/ha.po
+The permissions of the file.,1590,Izini na fayil.,1591,nautilus,po/ha.po
+Octal Permissions,1594,Izini na Oktal,1595,nautilus,po/ha.po
+"The permissions of the file, in octal notation.",1598,"Izini na fayil, na cikin tsarin alƙalami takwas.",1599,nautilus,po/ha.po
+MIME Type,1602,Nau'in MIME,1603,nautilus,po/ha.po
+The mime type of the file.,1606,Nau'in mime na fayil.,1607,nautilus,po/ha.po
+on the desktop,1627,a kan kwamfyutan tebur,1628,nautilus,po/ha.po
+Set as _Background,1669,Daidaita kamar _Bango,1670,nautilus,po/ha.po
+Cancel,1674,Soke,1675,nautilus,po/ha.po
+Set as background for _all folders,1678,Daidaita kamar bango wa _duk shamis,1679,nautilus,po/ha.po
+Set as background for _this folder,1682,Daidaita kamar bango wa _wannan shamis,1683,nautilus,po/ha.po
+The emblem cannot be installed.,1690,An kasa saka tambari.,1691,nautilus,po/ha.po
+"Sorry, but you must specify a non-blank keyword for the new emblem.",1694,"Yi hakuri, amma sai ka ƙayyade wani muhimman kalma mai mara-komai wa sabuwar tambari.",1695,nautilus,po/ha.po
+"Sorry, but emblem keywords can only contain letters, spaces and numbers.",1700,"Yi hakuri, amma muhimman kalmomin tambari zasu iya ƙunsa da baƙaƙe, filiaye, da alaƙalami kawai.",1702,nautilus,po/ha.po
+"Sorry, but there is already an emblem named \""%s\"".",1712,"Yi hakuri, amma an riga an sami wata tambari mai suna \""%s\"".",1713,nautilus,po/ha.po
+Please choose a different emblem name.,1716,Don Allah ka zaɓi wani suna daban wa tambari.,1717,nautilus,po/ha.po
+"Sorry, unable to save custom emblem.",1721,"Yi hakuri, an kasa adana ɗabi'ar tambari.",1722,nautilus,po/ha.po
+"Sorry, unable to save custom emblem name.",1725,"Yi hakuri, an kasa adana ɗabi'ar sunan tambari.",1726,nautilus,po/ha.po
+_Skip,1729,_Tsallake,1730,nautilus,po/ha.po
+_Retry,1737,_Sake Gwada,1738,nautilus,po/ha.po
+_Replace,1746,_Mayewa,1747,nautilus,po/ha.po
+Replace _All,1750,Maye _Duka,1751,nautilus,po/ha.po
+ (copy),1843, (kwafe),1844,nautilus,po/ha.po
+ (another copy),1848, (wani kwafe daban),1849,nautilus,po/ha.po
+th copy),1859,th kwafe),1860,nautilus,po/ha.po
+st copy),1864,st kwafe),1865,nautilus,po/ha.po
+nd copy),1869,nd kwafe),1870,nautilus,po/ha.po
+rd copy),1874,rd kwafe),1875,nautilus,po/ha.po
+%s (copy)%s,1880,%s (kwafe)%s,1881,nautilus,po/ha.po
+%s (another copy)%s,1886,%s (wani kwafe daban)%s,1887,nautilus,po/ha.po
+"If you delete an item, it will be permanently lost.",1950,"Idan ka goge wani abu, za ka rasa shi har abada.",1951,nautilus,po/ha.po
+Empty all of the items from the trash?,1954,Zub da duk abubuwa daga kwandon sharan?,1955,nautilus,po/ha.po
+"If you choose to empty the trash, all items in it will be permanently lost. Please note that you can also delete them separately.",1958,"In ka zaɓi zaka zub da kwandon sharan, to, za ka rasa duk abubuwa da ke ciki har abada. Don Allah ka lura cewa za ka iya goge su ɗaɗɗaya.",1961,nautilus,po/ha.po
+Empty _Trash,1969,Kwandon Shara _Mai Maras Komai,1970,nautilus,po/ha.po
+Deleting files,1986,Ana goge fayiloli,1987,nautilus,po/ha.po
+Error while deleting.,2008,Kuskure a lokacin da ake goge.,2009,nautilus,po/ha.po
+"Cannot move file to trash, do you want to delete immediately?",2068,"An kasa motsa fayil zuwa kwandon shara, kana so ka goge shi yanzu-yanzu?",2069,nautilus,po/ha.po
+Error while copying.,2138,Kuskure a lokacin da ake kwafe.,2139,nautilus,po/ha.po
+Error while moving.,2144,Kuskure a lokacin da ake motsa.,2145,nautilus,po/ha.po
+You cannot move a folder into itself.,2344,Ba za ka iya gusa wani shamis zuwa cikin kansa ba.,2345,nautilus,po/ha.po
+You cannot copy a folder into itself.,2349,Ba za ka iya kwafe wani fayil zuwa cikin kansa ba.,2350,nautilus,po/ha.po
+The destination folder is inside the source folder.,2354,Wurin da za'a kai shamis na cikin mafarin shamis.,2355,nautilus,po/ha.po
+untitled folder,2474,shamis mai maras suna,2475,nautilus,po/ha.po
+new file,2479,sabuwar fayil,2480,nautilus,po/ha.po
+today at 00:00:00 PM,2544,yau a 00:00:00 PM,2545,nautilus,po/ha.po
+today at %-I:%M:%S %p,2549,yau a %-I:%M:%S %p,2550,nautilus,po/ha.po
+today at 00:00 PM,2553,yau a 00:00 PM,2554,nautilus,po/ha.po
+today at %-I:%M %p,2557,yau a %-I:%M%p,2558,nautilus,po/ha.po
+"today, 00:00 PM",2561,"yau, 00:00 PM",2562,nautilus,po/ha.po
+"today, %-I:%M %p",2565,"yau, %-I:%M %p",2566,nautilus,po/ha.po
+today,2570,yau,2571,nautilus,po/ha.po
+yesterday at 00:00:00 PM,2577,jiya a 00:00:00 PM,2578,nautilus,po/ha.po
+yesterday at %-I:%M:%S %p,2581,jiya a %-I:%M:%S %p,2582,nautilus,po/ha.po
+yesterday at 00:00 PM,2585,jiya a 00:00 PM,2586,nautilus,po/ha.po
+yesterday at %-I:%M %p,2589,jiya a %-I:%M %p,2590,nautilus,po/ha.po
+"yesterday, 00:00 PM",2593,"jiya, 00:00 PM",2594,nautilus,po/ha.po
+"yesterday, %-I:%M %p",2597,"jiya, %-I:%M %p",2598,nautilus,po/ha.po
+yesterday,2602,jiya,2603,nautilus,po/ha.po
+"Wednesday, September 00 0000 at 00:00:00 PM",2611,"Laraba, Satumba 00 0000 a lokaci 00:00:00 PM",2612,nautilus,po/ha.po
+"Mon, Oct 00 0000 at 00:00:00 PM",2619,"Litinin, Oktoba 00 0000 a lokaci 00:00:00 PM",2620,nautilus,po/ha.po
+"Mon, Oct 00 0000 at 00:00 PM",2627,"Litinin, Oktoba 00 0000 a lokaci 00:00 PM",2628,nautilus,po/ha.po
+Oct 00 0000 at 00:00 PM,2635,Oktoba 00 0000 a lokaci 00:00 PM,2636,nautilus,po/ha.po
+"Oct 00 0000, 00:00 PM",2643,"Oktoba 00 0000, 00:00 PM",2644,nautilus,po/ha.po
+? items,2726,? abubuwa,2727,nautilus,po/ha.po
+unknown type,2735,nau'in da ba'a sani ba,2736,nautilus,po/ha.po
+unknown MIME type,2739,nau'in MIME da ba'a sani ba,2740,nautilus,po/ha.po
+unknown,2747,wanda ba'a sani ba,2748,nautilus,po/ha.po
+program,2751,shiri,2752,nautilus,po/ha.po
+link,2755,mahaɗi,2756,nautilus,po/ha.po
+link (broken),2759,mahaɗi (a ƙarye),2760,nautilus,po/ha.po
+_Always,2763,_Kullum,2764,nautilus,po/ha.po
+_Local File Only,2767,_Fayil na Cikin Na'ura Kawai,2768,nautilus,po/ha.po
+_Never,2771,_Kar a Taɓa,2772,nautilus,po/ha.po
+Activate items with a _single click,2852,Kunna abubuwa ta _dannawa sau ɗaya,2853,nautilus,po/ha.po
+Activate items with a _double click,2856,Kunna abubuwa ta _dannawa sau biyu,2857,nautilus,po/ha.po
+E_xecute files when they are clicked,2860,Ka z_artar da fayiloli idan an danna su,2861,nautilus,po/ha.po
+Display _files when they are clicked,2864,Nuna _fayiloli idan an danna su,2865,nautilus,po/ha.po
+_Ask each time,2869,_Yi tambaya a ko wani lokaci,2870,nautilus,po/ha.po
+Search for files by file name only,2873,Nemi fayiloli ta sunan fayil kawai,2874,nautilus,po/ha.po
+Search for files by file name and file properties,2877,Nemi fayiloli ta sunan fayil da furofatin fayil,2878,nautilus,po/ha.po
+Icon View,2885,Kallo na Alama,2886,nautilus,po/ha.po
+List View,2901,Kallo na Jeri,2902,nautilus,po/ha.po
+Manually,2905,Ta Hannu,2906,nautilus,po/ha.po
+By Name,2909,Ta Suna,2910,nautilus,po/ha.po
+By Size,2913,Ta Girma,2914,nautilus,po/ha.po
+By Type,2917,Ta Nau'i,2918,nautilus,po/ha.po
+By Modification Date,2921,Ta Ranar Gyare-Gyare,2922,nautilus,po/ha.po
+By Emblems,2925,Ta Tambarura,2926,nautilus,po/ha.po
+%s's Home,2974,Gidan %s,2975,nautilus,po/ha.po
+Computer,2979,Kwamfyuta,2980,nautilus,po/ha.po
+Trash,2984,Kwandon Shara,2985,nautilus,po/ha.po
+Network Servers,2988,Sava na Mahaɗar Sadarwa,2989,nautilus,po/ha.po
+The selection rectangle,2992,Muka'abi na zaɓen,2993,nautilus,po/ha.po
+Switch to Manual Layout?,2996,Sauya Zuwa Tsari Na Hannu?,2997,nautilus,po/ha.po
+Mo_ve to Trash,3029,Mo_tsa zuwa Kwandon Shara,3030,nautilus,po/ha.po
+"Do you want to run \""%s\"", or display its contents?",3034,"Kana son tafiyar da \""%s\"", ko a nuna kayan cikin sa?",3035,nautilus,po/ha.po
+"\""%s\"" is an executable text file.",3039,"\""%s\"" wani fayil ne wanda za'a iya zartar da.",3040,nautilus,po/ha.po
+Run in _Terminal,3043,A tafiyar da shi cikin _Tasha,3044,nautilus,po/ha.po
+_Display,3047,_Nuna,3048,nautilus,po/ha.po
+_Run,3052,_Tafiyar da,3053,nautilus,po/ha.po
+Are you sure you want to open all files?,3057,Ka tabbata kana so ka buɗe duk fayilolin?,3058,nautilus,po/ha.po
+This will open %d separate window.,3070,Wannan zai buɗe wani taga %d daban.,3072,nautilus,po/ha.po
+This will open %d separate window.,3070,Wannan zai buɗe wani taga %d daban.,3073,nautilus,po/ha.po
+"Opening \""%s\"".",3125,"Ana Buɗe \""%s\"".",3126,nautilus,po/ha.po
+Icon,3153,Alama,3154,nautilus,po/ha.po
+Open With,3221,Buɗe Da,3222,nautilus,po/ha.po
+_Open,3245,_Buɗe,3246,nautilus,po/ha.po
+"Open Failed, would you like to choose another application?",3265,"Ya Kasa Buɗuwa, ko za ka so ka zaɓi wata shirin ayuka daban?",3266,nautilus,po/ha.po
+"Open Failed, would you like to choose another action?",3279,"Ya Kasa Buɗuwa, ko za ka so ka zaɓi wata aiki daban?",3280,nautilus,po/ha.po
+"No other applications are available to view this file.  If you copy this file onto your computer, you may be able to open it.",3293,"Babu wasu shiryoyin ayuka nan wanda za'a iya ganin wannan fayil da su. Wata kila za ka iya buɗe shi, idan ka kwafe wannan fayil zuwa kan kwamfyutan ka.",3296,nautilus,po/ha.po
+"No other actions are available to view this file.  If you copy this file onto your computer, you may be able to open it.",3301,"Babu wasu ayuka nan na kallon wannan fayil. Wata kila za ka iya buɗe shi, idan ka kwafe wannan fayil zuwa kan kwamfyutan ka.",3304,nautilus,po/ha.po
+This is disabled due to security considerations.,3316,An kashe wannan don kara tsaro.,3317,nautilus,po/ha.po
+There was an error launching the application.,3321,An sami kuskure wajen gabatar da shirin ayukan.,3322,nautilus,po/ha.po
+This drop target only supports local files.,3326,Wannan drop taget na goyi bayan fayiloli na cikin na'ura kawai.,3327,nautilus,po/ha.po
+To open non-local files copy them to a local folder and then drop them again.,3330,"Idan ana son buɗe fayiloli waɗanda ba masu-cikin na'ura ba, ka kwafe su zuwa wani shamis na cikin na'ura sannan ka sake yar da su.",3332,nautilus,po/ha.po
+To open non-local files copy them to a local folder and then drop them again. The local files you dropped have already been opened.,3337,"Idan kana son buɗe fayiloli waɗanda basu-cikin na'ura, ka kwafe su zuwa wani shamis na cikin na'ura sannan ka sake yar da su. An riga an buɗe fayiloli na cikin na'ura wanda ka yar da.",3340,nautilus,po/ha.po
+Details: ,3346,Cikakken Bayanai: ,3347,nautilus,po/ha.po
+Edit,3381,Shirya,3382,nautilus,po/ha.po
+Undo Edit,3385,Cire Shiryawa,3386,nautilus,po/ha.po
+Undo the edit,3389,Warware shiryawan da ka yi,3390,nautilus,po/ha.po
+Redo Edit,3393,Sake Shiryawa,3394,nautilus,po/ha.po
+Redo the edit,3397,Sake shiryawan da ka yi,3398,nautilus,po/ha.po
+File Browser,3410,Birawsar Fayil,3411,nautilus,po/ha.po
+File Management,3424,Hukumar Sarrafa Fayil,3425,nautilus,po/ha.po
+Home Folder,3428,Shamis na Gida,3429,nautilus,po/ha.po
+File Manager,3438,Manajan Fayil,3439,nautilus,po/ha.po
+Background,3442,Bango,3443,nautilus,po/ha.po
+E_mpty Trash,3450,Kwandon Shara M_ai Maras Komai,3451,nautilus,po/ha.po
+Create a new launcher,3465,Ka ƙiƙiro wata sabuwar shirin mai gabatar da,3466,nautilus,po/ha.po
+Change Desktop _Background,3470,Canza Bangon _Kwamfyutan Tebur,3471,nautilus,po/ha.po
+Show a window that lets you set your desktop background's pattern or color,3475,Nuna wani taga da ke yarda ka daidaita salo ko launin bangon kwamfyutan teburin ka,3477,nautilus,po/ha.po
+Empty Trash,3483,Kwandon Shara Mai Maras Komai,3484,nautilus,po/ha.po
+Delete all items in the Trash,3490,Goge duk abubuwa masu cikin Kwandon Sharan,3491,nautilus,po/ha.po
+There was an error displaying help.,3521,An sami kuskure wajen nuna taimako.,3522,nautilus,po/ha.po
+_Pattern:,3530,_Salo:,3531,nautilus,po/ha.po
+_Folder:,3544,_Shamis:,3545,nautilus,po/ha.po
+"\""%s\"" selected",3554,"an zaɓi \""%s\""",3555,nautilus,po/ha.po
+"%s, Free space: %s",3606,"%s, Fili a kyauta: %s",3607,nautilus,po/ha.po
+"The folder \""%s\"" contains more files than Nautilus can handle.",3627,"Wannan shamis \""%s\"" na ƙunsa da fayiloli masu yawa wanda za su gagari Nautilus.",3628,nautilus,po/ha.po
+Some files will not be displayed.,3633,Ba za'a nuna wasu fayiloli ba.,3634,nautilus,po/ha.po
+"Open with \""%s\""",3638,"Buɗe da \""%s\""",3639,nautilus,po/ha.po
+"Run \""%s\"" on any selected items",3650,"Tafiyar da \""%s\"" kan kowacce abubuwa da aka zaɓa",3651,nautilus,po/ha.po
+"Create Document from template \""%s\""",3655,"Ka Ƙiƙiro Takardar Aiki daga temfurat \""%s\""",3656,nautilus,po/ha.po
+All executable files in this folder will appear in the Scripts menu.,3659,Duk fayilolin da ana iya zartar da masu cikin wannan shamis zasu nuno cikin mazaɓen Skrift.,3660,nautilus,po/ha.po
+Choosing a script from the menu will run that script with any selected items as input.,3665,Zaɓen wani skrift daga mazaben zai tafiyar da skrift ɗin tare da abubuwan da aka zaɓa kamar bayanen da ake shigar da.,3668,nautilus,po/ha.po
+"All executable files in this folder will appear in the Scripts menu. Choosing a script from the menu will run that script.\n\nWhen executed from a local folder, scripts will be passed the selected file names. When executed from a remote folder (e.g. a folder showing web or ftp content), scripts will be passed no parameters.\n\nIn all cases, the following environment variables will be set by Nautilus, which the scripts may use:\n\nNAUTILUS_SCRIPT_SELECTED_FILE_PATHS: newline-delimited paths for selected files (only if local)\n\nNAUTILUS_SCRIPT_SELECTED_URIS: newline-delimited URIs for selected files\n\nNAUTILUS_SCRIPT_CURRENT_URI: URI for current location\n\nNAUTILUS_SCRIPT_WINDOW_GEOMETRY: position and size of current window",3673,"Duka fayilolin da ana iya zartar masu cikin wannan shamis zasu nuno cikin mazaɓen skrift. Yin zaɓe ga wani skrift daga mazaɓen zai tafiyar da skrift ɗin.\n\nIdan an zartar da shi daga wani shamis na cikin na'ura, za'a tura wa skrift sunayen fayiloli da aka zaɓa. Idan an zartar da shi daga wani shamis mai can nesa (misali, wani shamis mai nuna kayan cikin yana ko ftp), za'a tura  babu faramita ga skrift.\n\nA cikin duk halayen, Nautilus zai daidaita waɗannan veriyable na muhalli, wanda skrift zasu iya amfani da:\n\nHANYOYIN_FAYIL_DA AKA ZAƁA_NA_SKRIFT_ƊIN_NAUTILUS: hanyoyin sabon layi-da aka cire wa iyaka wa fayilolin da aka zaɓa kawai (idan na cikin na'ura ne kawai)\n\nURIS_DA AKA ZAƁA_NA_SKRIFT_ƊIN_NAUTILUS: iyaka da aka cire ga-sabuwarlayi wa URIs wa fayilolin da aka zaɓa\n\nURI_NA YANZU_NA_SKRIFT_ƊIN_NAUTILUS: URI wa wurin da ake ciki yanzu\n\nJOMETIRI_NA_TAGAN_SKRIFT_ƊIN_NAUTILUS: wuri da girmar tagan da ake kai yanzu",3692,nautilus,po/ha.po
+There is nothing on the clipboard to paste.,3749,Babu komai kan kilibodi wanda za'a manna.,3750,nautilus,po/ha.po
+Connect to Server %s,3754,Yi Haɗi zuwa Sava %s,3755,nautilus,po/ha.po
+_Connect,3758,_Haɗi,3759,nautilus,po/ha.po
+Link _name:,3762,Sunan _mahaɗi:,3763,nautilus,po/ha.po
+Create _Document,3777,Ƙiƙira _Takardan Aiki,3778,nautilus,po/ha.po
+Open Wit_h,3782,Buɗe d_a,3783,nautilus,po/ha.po
+Choose a program with which to open the selected item,3786,Zaɓi wani shiri wanda za'a buɗe abun da aka zaɓa da shi,3787,nautilus,po/ha.po
+_Properties,3794,_Furofati,3795,nautilus,po/ha.po
+View or modify the properties of each selected item,3799,Ka kalli ko yi gyare-gyare ga furofati na kowane abu da aka zaɓa,3800,nautilus,po/ha.po
+Create _Folder,3813,Ƙiƙira _Shamis,3814,nautilus,po/ha.po
+Create a new empty folder inside this folder,3818,Ka ƙiƙiro wata sabuwar shamis mai maras komai cikin wannan shamis,3819,nautilus,po/ha.po
+_Empty File,3831,_Fayil Mai Maras Komai,3832,nautilus,po/ha.po
+Create a new empty file inside this folder,3836,Ka ƙiƙiro wata sabuwar fayil mai maras komai cikin wannan shamis,3837,nautilus,po/ha.po
+Open the selected item in this window,3841,Buɗe abun da aka zaɓa cikin wannan taga,3842,nautilus,po/ha.po
+Open in Navigation Window,3851,Buɗe cikin Tagan Neman Hanya,3852,nautilus,po/ha.po
+Open each selected item in a navigation window,3856,Buɗe kowacce abu da aka zaɓa cikin wani taga mai neman hanya,3857,nautilus,po/ha.po
+Open with Other _Application...,3896,Buɗe da Waccan _Shirin Ayuka...,3897,nautilus,po/ha.po
+Choose another application with which to open the selected item,3902,Zaɓi wata shirin ayuka daban wanda za'a buɗe abun da aka zaɓa da shi,3903,nautilus,po/ha.po
+_Open Scripts Folder,3908,_Buɗe Shamis na Skrifts,3909,nautilus,po/ha.po
+Show the folder containing the scripts that appear in this menu,3913,Nuna shamis mai ƙunsa da skrifts masu nunawa cikin wannan mazaɓa,3914,nautilus,po/ha.po
+Select all items in this window,3969,Zaɓi duk abubuwa masu cikin wannan taga,3970,nautilus,po/ha.po
+Select items in this window matching a given pattern,3981,Zaɓi abubuwa masu cikin wannan taga wanda suka dace da salon da aka ƙayyade,3982,nautilus,po/ha.po
+D_uplicate,3999,D_obur,4000,nautilus,po/ha.po
+Duplicate each selected item,4004,Yi dobur ga kowane abu da aka zaɓa,4005,nautilus,po/ha.po
+Create a symbolic link for each selected item,4019,Ka ƙiƙiro wani mahaɗi mai wakilci kowacca abu da aka zaɓa,4020,nautilus,po/ha.po
+_Rename...,4025,_Sake suna...,4026,nautilus,po/ha.po
+Rename selected item,4030,Sake sunan abun da aka zaɓa,4031,nautilus,po/ha.po
+Move each selected item to the Trash,4036,Motsa kowane abu da aka zaɓa zuwa Kwandon Sharar,4037,nautilus,po/ha.po
+_Delete,4045,_Goge,4046,nautilus,po/ha.po
+"Delete each selected item, without moving to the Trash",4050,"Goge kowane abu da aka zaɓa, ba sai an motsa shi zuwa Kwandon Shara ba",4051,nautilus,po/ha.po
+Reset View to _Defaults,4070,Sake daidaita Kallo Zuwa _Difwalt,4071,nautilus,po/ha.po
+Reset sorting order and zoom level to match preferences for this view,4075,"Sake daidaita tsarin kasawa da matsayin jawowa kusa da nesa, don ya dace da fifiko na wannan kallo",4076,nautilus,po/ha.po
+Connect To This Server,4083,Yi Haɗi Zuwa Wannan Sava,4084,nautilus,po/ha.po
+Make a permanent connection to this server,4088,Yi wani haɗi na dindindin zuwa wannan sava,4089,nautilus,po/ha.po
+_Mount Volume,4096,_Yi Maunt ga Ƙarfin Murya,4097,nautilus,po/ha.po
+Mount the selected volume,4101,Yi maunt ga ƙarfin muryar da aka zaɓa,4102,nautilus,po/ha.po
+_Unmount Volume,4109,_Cire Maunt ga Ƙarfin Murya,4110,nautilus,po/ha.po
+Unmount the selected volume,4114,Cire maunt ga ƙarfin muryar da aka zaɓa,4115,nautilus,po/ha.po
+Eject the selected volume,4128,Fid da ƙarfin muryar da aka zaɓa,4129,nautilus,po/ha.po
+Open File and Close window,4171,Buɗe Fayil kuma ka Rufe taga,4172,nautilus,po/ha.po
+_Scripts,4294,_Skrifts,4295,nautilus,po/ha.po
+"_Open with \""%s\""",4391,"_Buɗe da \""%s\""",4392,nautilus,po/ha.po
+Delete all selected items permanently,4423,Goge duk abubuwa da aka zaɓa dindindin,4424,nautilus,po/ha.po
+Download location?,4427,A juya wurin daga babbar na'ura?,4428,nautilus,po/ha.po
+You can download it or make a link to it.,4431,Kana iya juya shi daga babbar na'ura ko ka yi mahaɗi zuwa shi.,4432,nautilus,po/ha.po
+Make a _Link,4435,Yi wani _Mahaɗi,4436,nautilus,po/ha.po
+_Download,4439,_Juya Daga Babbar Na'ura,4440,nautilus,po/ha.po
+Drag and drop is not supported.,4445,Ba'a goyi bayan shirin ja da yar da ba.,4446,nautilus,po/ha.po
+Drag and drop is only supported on local file systems.,4449,Ana goyoi bayan shirin ja da yar da kawai kan tsarin fayiloli na cikin na'ura.,4450,nautilus,po/ha.po
+An invalid drag type was used.,4456,An yi amfani da wata irin ja mai maras inganci.,4457,nautilus,po/ha.po
+Comment,4466,Tsokaci,4467,nautilus,po/ha.po
+Description,4476,Kwatanci,4477,nautilus,po/ha.po
+Command,4480,Umarni,4481,nautilus,po/ha.po
+"You do not have the permissions necessary to view the contents of \""%s\"".",4485,"Ba ka da izinin da ake buƙata na kallon kaya na cikin \""%s\"".",4487,nautilus,po/ha.po
+The folder contents could not be displayed.,4500,An kasa nuna kayan cikin shamis.,4501,nautilus,po/ha.po
+"The name \""%s\"" is already used in this folder. Please use a different name.",4505,"An riga ana amfani da sunan \""%s\"" cikin wannan shamis. Don Allah ka yi amfani da wani suna daban.",4507,nautilus,po/ha.po
+"There is no \""%s\"" in this folder. Perhaps it was just moved or deleted?",4513,"Babu wani \""%s\"" cikin wannan shamis. Mai yiwuwa yanzun nan aka motsa ko goge shi?",4515,nautilus,po/ha.po
+"You do not have the permissions necessary to rename \""%s\"".",4521,"Ba ka da izinin da ake buƙata don ka sake sunan \""%s\"".",4522,nautilus,po/ha.po
+"The name \""%s\"" is not valid because it contains the character \""/\"". Please use a different name.",4526,"Wannan suna \""%s\"" bai da inganci don yana ƙunsa da baƙi na \""/\"". Don Allah ka yi amfani da wani suna daban.",4529,nautilus,po/ha.po
+"The name \""%s\"" is not valid. Please use a different name.",4535,"Wannan suna \""%s\"" bai da inganci. Don Allah ka yi amfani da wani suna daban.",4536,nautilus,po/ha.po
+The item could not be renamed.,4546,An kasa sake sunan abun.,4547,nautilus,po/ha.po
+"You do not have the permissions necessary to change the group of \""%s\"".",4551,"Ba ka da izinin da ake buƙata don canza ƙungiyar \""%s\"".",4553,nautilus,po/ha.po
+The group could not be changed.,4562,An kasa canza ƙungiyar.,4563,nautilus,po/ha.po
+The owner could not be changed.,4571,An kasa canza mai shi.,4572,nautilus,po/ha.po
+The permissions could not be changed.,4580,An kasa canza izinin.,4581,nautilus,po/ha.po
+"Renaming \""%s\"" to \""%s\"".",4585,"Ana Sake Sunan \""%s\"" zuwa \""%s\"".",4586,nautilus,po/ha.po
+by _Name,4589,ta _Suna,4590,nautilus,po/ha.po
+Keep icons sorted by name in rows,4594,Kasa alamomi ta suna cikin layuka kwance,4595,nautilus,po/ha.po
+by _Size,4598,ta _Girma,4599,nautilus,po/ha.po
+Keep icons sorted by size in rows,4603,Ka kasa alamomi ta girma cikin layuka kwance,4604,nautilus,po/ha.po
+by _Type,4607,ta _Nau'i,4608,nautilus,po/ha.po
+Keep icons sorted by type in rows,4612,Ka kasa alamomi ta nau'i cikin layuka kwance,4613,nautilus,po/ha.po
+by Modification _Date,4616,ta Kwanan Watan _Gyare-Gyare,4617,nautilus,po/ha.po
+Keep icons sorted by modification date in rows,4621,Ka kasa alamomi ta kwanan watan gyare-gyare cikin layuka kwance,4622,nautilus,po/ha.po
+by _Emblems,4625,ta _Tambarura,4626,nautilus,po/ha.po
+Keep icons sorted by emblems in rows,4630,Ka kasa alamomi ta tambarura cikin layuka kwance,4631,nautilus,po/ha.po
+Arran_ge Items,4635,Shiry_a Abubuwa,4636,nautilus,po/ha.po
+Make the selected icon stretchable,4647,Ka maida alamar da aka zaɓa zuwa wanda ana iya miƙawa,4648,nautilus,po/ha.po
+Restore Icons' Original Si_zes,4654,Maida Alamomi Gi_rmansu Na Ainihi,4655,nautilus,po/ha.po
+Restore each selected icon to its original size,4659,Maida kowane alama da aka zaɓa zuwa girmarsa na ainihi,4660,nautilus,po/ha.po
+Clean _Up by Name,4665,Share _ta Suna,4666,nautilus,po/ha.po
+Reposition icons to better fit in the window and avoid overlapping,4670,Motsa alamomi don ka sami wurin da ya fi dace cikin tagan kuma ka hana su zoɓa,4671,nautilus,po/ha.po
+Compact _Layout,4678,Tsari _ na Kompakt,4679,nautilus,po/ha.po
+Toggle using a tighter layout scheme,4683,Yi amfani da fasalin tsari mai tsauri don yin toggle,4684,nautilus,po/ha.po
+Re_versed Order,4689,Tsari ta Baya-Baya,4690,nautilus,po/ha.po
+Display icons in the opposite order,4694,Nuna alamomi cikin akasin tsarin,4695,nautilus,po/ha.po
+_Keep Aligned,4700,_Ajiye shi a Daidaice,4701,nautilus,po/ha.po
+Keep icons lined up on a grid,4705,Ajiye alamomi a jere kan wani grid,4706,nautilus,po/ha.po
+_Manually,4709,_Da Hannu,4710,nautilus,po/ha.po
+Leave icons wherever they are dropped,4713,Ka bar alamomi wurin da aka yar da su,4714,nautilus,po/ha.po
+By _Name,4717,Ta _Suna,4718,nautilus,po/ha.po
+By _Size,4721,Ta _Girma,4722,nautilus,po/ha.po
+By _Type,4725,Ta _Nau'i,4726,nautilus,po/ha.po
+By Modification _Date,4729,Ta Kwanan Watan _Gyare-Gyare,4730,nautilus,po/ha.po
+By _Emblems,4733,Ta _Tambarura,4734,nautilus,po/ha.po
+Restore Icon's Original Si_ze,4737,Maida Girmar Alama Zuwa na Ai_nihi,4738,nautilus,po/ha.po
+"pointing at \""%s\""",4742,"yana nuna \""%s\""",4743,nautilus,po/ha.po
+_Icons,4747,_Alamomi,4748,nautilus,po/ha.po
+(Empty),4788,(Mai Maras Komai),4789,nautilus,po/ha.po
+Loading...,4793,Ana Lodawa...,4794,nautilus,po/ha.po
+%s Visible Columns,4798,%s Layuka Tsaye Wanda Ana Iya Gani,4799,nautilus,po/ha.po
+Visible _Columns...,4809,Layuka Tsaye _Da Ana Iya Gani...,4810,nautilus,po/ha.po
+Select the columns visible in this folder,4814,Zaɓi layuka tsaye da ake iya gani cikin wannan shamis,4815,nautilus,po/ha.po
+_List,4819,_Jeri,4820,nautilus,po/ha.po
+Please drag just one image to set a custom icon.,4845,"Don Allah ka ja daidai zane guda, wanda za'a daidaita wani alama na ɗabi'a zuwa.",4846,nautilus,po/ha.po
+The file that you dropped is not local.,4852,Fayil da ka yar da ba na cikin na'ura ba.,4853,nautilus,po/ha.po
+You can only use local images as custom icons.,4858,Kana iya amfani da zane-zane na cikin na'ura kamar alamomi na ɗabi'a.,4859,nautilus,po/ha.po
+The file that you dropped is not an image.,4863,Fayil da ka yar da ba wani zane ba.,4864,nautilus,po/ha.po
+Properties,4875,Furofati,4876,nautilus,po/ha.po
+%s Properties,4880,%s Furofati,4881,nautilus,po/ha.po
+Cancel Group Change?,4894,A Soke Canje-Canjen Ƙungiya?,4895,nautilus,po/ha.po
+Cancel Owner Change?,4898,A Soke Canje-Canje na Mai Shi?,4899,nautilus,po/ha.po
+nothing,4902,babu komai,4903,nautilus,po/ha.po
+unreadable,4906,wanda ba'a iya karanta,4907,nautilus,po/ha.po
+(some contents unreadable),4917,(wasu abubuwa da ba'a iya karanta),4918,nautilus,po/ha.po
+Contents:,4927,Kayan Ciki:,4928,nautilus,po/ha.po
+Basic,4951,Na Ainihi,4952,nautilus,po/ha.po
+Type:,4955,Nau'i:,4956,nautilus,po/ha.po
+Link target:,4959,Taget na Mahaɗi:,4960,nautilus,po/ha.po
+Size:,4963,Girma:,4964,nautilus,po/ha.po
+Location:,4968,Wuri:,4969,nautilus,po/ha.po
+Volume:,4972,Ƙarfin Murya:,4973,nautilus,po/ha.po
+Accessed:,4976,An Sami Shiga:,4977,nautilus,po/ha.po
+Modified:,4980,Wanda aka yi wa gyare-gyare:,4981,nautilus,po/ha.po
+Free space:,4984,Filin kyauta:,4985,nautilus,po/ha.po
+Emblems,4989,Tambarura,4990,nautilus,po/ha.po
+_Read,4993,_Yi Karatu,4994,nautilus,po/ha.po
+_Write,4997,_Yi Rubutu,4998,nautilus,po/ha.po
+E_xecute,5001,Z_artar da,5002,nautilus,po/ha.po
+None,5055,Babu,5056,nautilus,po/ha.po
+Set _user ID,5083,Daidaita _Shaidar mai amfani da,5084,nautilus,po/ha.po
+Special flags:,5087,Tutoci na musamman:,5088,nautilus,po/ha.po
+Set gro_up ID,5091,Daidaita Shaidar ƙun_giya,5092,nautilus,po/ha.po
+_Sticky,5095,_Stiki,5096,nautilus,po/ha.po
+Owner:,5107,Mai Shi:,5108,nautilus,po/ha.po
+Group:,5119,Ƙungiya:,5120,nautilus,po/ha.po
+Others:,5137,Waccan:,5138,nautilus,po/ha.po
+Text view:,5151,Kallo na rubutu:,5152,nautilus,po/ha.po
+Last changed:,5164,Canje-canje na ƙarshe:,5165,nautilus,po/ha.po
+"The permissions of \""%s\"" could not be determined.",5174,"An kasa ƙudurin izini na \""%s\"".",5175,nautilus,po/ha.po
+The permissions of the selected file could not be determined.,5178,An kasa ƙudura izinin fayilolin da aka zaɓa.,5179,nautilus,po/ha.po
+Creating Properties window.,5182,Ana Ƙiƙira tagan Furofati.,5183,nautilus,po/ha.po
+Network Neighbourhood,5197,Unguwar Mahaɗar Sadarwa,5198,nautilus,po/ha.po
+Tree,5201,Bishiya,5202,nautilus,po/ha.po
+"Nautilus could not create the required folder \""%s\"".",5211,"Nautilus ya kasa ƙiƙira shamis \""%s\"" da ake buƙata.",5212,nautilus,po/ha.po
+"Before running Nautilus, please create the following folder, or set permissions such that Nautilus can create it.",5215,"Kafin ka fara tafiyar da Nautilus, don Allah ka ƙiƙira wannan shamis, ko kuma ka daidaita izini yanda Nautilus zai iya ƙiƙira shi da kan sa.",5218,nautilus,po/ha.po
+Nautilus could not create the following required folders: %s.,5224,Nautilus ya kasa ƙiƙira waɗannan shamis: %s da ake buƙata.,5225,nautilus,po/ha.po
+"Before running Nautilus, please create these folders, or set permissions such that Nautilus can create them.",5228,"Kafin ka fara tafiyar da Nautilus, don Allah ka ƙiƙira waɗannan shamis, ko kuma ka daidaita izini yanda Nautilus zai iya ƙiƙiro su da kan sa.",5231,nautilus,po/ha.po
+There was an error displaying help: \n%s,5275,An sami kuskure wajen nuna taimako: \n%s,5278,nautilus,po/ha.po
+No bookmarks defined,5283,Babu alamomi ga shafuka da aka bayyana,5284,nautilus,po/ha.po
+<b>_Bookmarks</b>,5287,<b>_Alamomi ga Shafuka</b>,5288,nautilus,po/ha.po
+<b>_Location</b>,5291,<b>_Wuri</b>,5292,nautilus,po/ha.po
+<b>_Name</b>,5295,<b>_Suna</b>,5296,nautilus,po/ha.po
+Edit Bookmarks,5299,Shirya Alamomi ga Shafuka,5300,nautilus,po/ha.po
+Custom Location,5322,Wuri na Ɗabi'a,5323,nautilus,po/ha.po
+Public FTP,5330,FTP Na Jama'a,5331,nautilus,po/ha.po
+FTP (with login),5334,FTP (da shigarwa),5335,nautilus,po/ha.po
+Windows share,5338,Kisimar taga,5339,nautilus,po/ha.po
+Secure WebDAV (HTTPS),5346,Kama WebDAV (HTTPS),5347,nautilus,po/ha.po
+Please enter a name and try again.,5355,Don Allah ka shigar da wani suna kuma ka sake gwada.,5356,nautilus,po/ha.po
+_Location (URI):,5359,_Wuri (URI):,5360,nautilus,po/ha.po
+_Server:,5363,_Sava:,5364,nautilus,po/ha.po
+Optional information:,5367,Bayani na ganin dama:,5368,nautilus,po/ha.po
+_Share:,5371,_Raba:,5372,nautilus,po/ha.po
+_Port:,5375,_Huji:,5376,nautilus,po/ha.po
+_User Name:,5379,_Sunan Mai Amfani da:,5380,nautilus,po/ha.po
+Connect to Server,5393,Yi Haɗi Zuwa Sava,5394,nautilus,po/ha.po
+Service _type:,5397,Irin _aiki:,5398,nautilus,po/ha.po
+C_onnect,5406,H_aɗa,5407,nautilus,po/ha.po
+Desktop,5411,Kwamfyutan Tebur,5412,nautilus,po/ha.po
+"This is probably because the emblem is a permanent one, and not one that you added yourself.",5420,"Kila wannan don tambarin na dindindin ne, kuma ba wanda za ka iya ƙara da kan ka ba.",5423,nautilus,po/ha.po
+Rename Emblem,5433,Sake Sunan Tambari,5434,nautilus,po/ha.po
+Enter a new name for the displayed emblem:,5437,Ka shigar da wata sabuwar suna wa tambarin da aka nuna:,5438,nautilus,po/ha.po
+Rename,5441,Sake suna,5442,nautilus,po/ha.po
+Add Emblems...,5445,Ƙara Tambarura...,5446,nautilus,po/ha.po
+Enter a descriptive name next to each emblem.  This name will be used in other places to identify the emblem.,5449,Ka shigar da sunan kwatanci kusa da kowace tambari. Za'a yi amfani da sunayen don a gane su cikin wurare daban-daban.,5452,nautilus,po/ha.po
+Enter a descriptive name next to the emblem.  This name will be used in other places to identify the emblem.,5457,Ka shigar da wani sunan kwatanci kusa da tambarin.  Za'a yi amfani da sunan don a gane tambari cikin wurare daban-daban.,5460,nautilus,po/ha.po
+Some of the files could not be added as emblems.,5465,An kasa ƙara wasu fayiloli kamar tambarura.,5466,nautilus,po/ha.po
+The emblems do not appear to be valid images.,5469,Tambarura basu kama da zane-zane masu inganci.,5470,nautilus,po/ha.po
+None of the files could be added as emblems.,5473,An kasa ƙara kowane kamar tambarura cikin fayilolin.,5474,nautilus,po/ha.po
+The file '%s' does not appear to be a valid image.,5478,Fayil na '%s' bai kama da wani zane mai inganci.,5479,nautilus,po/ha.po
+The dragged file does not appear to be a valid image.,5482,Fayil da aka ja bai kama da wani zane mai inganci.,5483,nautilus,po/ha.po
+The emblem cannot be added.,5486,An kasa ƙara tambarin.,5487,nautilus,po/ha.po
+Always open in _browser windows,5585,Buɗe cikin _tagan birawsa kullum,5586,nautilus,po/ha.po
+Ask before _emptying the Trash or deleting files,5589,Yi tambaya kafin _a zub da Kwandon Shara ko a goge fayiloli,5590,nautilus,po/ha.po
+Behavior,5597,Hali,5598,nautilus,po/ha.po
+Choose the order of information to appear beneath icon names. More information will appear when zooming in closer.,5605,Zaɓi tsarin yanda bayani zai nuno a ƙasan sunayen alama. Ƙarin bayani zasu nuno idan ana jawowa kusa.,5608,nautilus,po/ha.po
+Choose the order of information to appear in the list view.,5613,Zaɓi tsarin yanda bayani da zai fito cikin kallon jeri.,5614,nautilus,po/ha.po
+Count _number of items:,5622,Ƙirga _yawan abubuwa:,5623,nautilus,po/ha.po
+Default _zoom level:,5631,Difwalt na _matsayin jawowa kusa ko nesa:,5632,nautilus,po/ha.po
+Display,5635,Nuna,5636,nautilus,po/ha.po
+File Management Preferences,5639,Fifikon Hukumar Sarrafa Fayil,5640,nautilus,po/ha.po
+I_nclude a Delete command that bypasses Trash,5643,H_aɗa da wani umarni na Gogewa wanda baya bi ta hanyar Kwandon Shara,5644,nautilus,po/ha.po
+List Columns,5651,Lissafa Layuka Tsaye,5652,nautilus,po/ha.po
+Preview,5660,Duba,5661,nautilus,po/ha.po
+Preview _sound files:,5664,Duba _fayilolin sauti:,5665,nautilus,po/ha.po
+Show _only folders,5668,Nuna _shamis kawai,5669,nautilus,po/ha.po
+Show _thumbnails:,5672,Nuna _girma na ɗan yatsa:,5673,nautilus,po/ha.po
+Show hidden and _backup files,5676,Nuna fayilolin da aka ɓoye _da masu goyon baya,5677,nautilus,po/ha.po
+Show te_xt in icons:,5680,Nuna ru_butu cikin alamomi:,5681,nautilus,po/ha.po
+Sort _folders before files,5684,Kasa _shamis kafin fayiloli,5685,nautilus,po/ha.po
+View _new folders using:,5688,Kalli _sabuwar shamis da :,5689,nautilus,po/ha.po
+Views,5692,Kallo,5693,nautilus,po/ha.po
+_Arrange items:,5696,_Shirya abubuwa:,5697,nautilus,po/ha.po
+_Default zoom level:,5704,_Difwalt na matsayin jawowa kusa da nesa:,5705,nautilus,po/ha.po
+_Format:,5713,_Fomat:,5714,nautilus,po/ha.po
+_Only for files smaller than:,5725,_Na fayilolin da basu kai wannan girma ba:,5726,nautilus,po/ha.po
+_Text beside icons,5750,_Rubutu kusa da alamomi,5751,nautilus,po/ha.po
+_Use compact layout,5759,_Yi amfani da tsari na kompakt,5760,nautilus,po/ha.po
+History,5768,Tarihi,5769,nautilus,po/ha.po
+Camera Brand,5777,Nau'in Kyamara,5778,nautilus,po/ha.po
+Camera Model,5781,Modal na Kyamara,5782,nautilus,po/ha.po
+Date Taken,5786,Ranar da Aka Ɗauka,5787,nautilus,po/ha.po
+Exposure Time,5795,Lokacin Tona Hoto,5796,nautilus,po/ha.po
+Aperture Value,5799,Kimar Ruwan Kyamara (Aperture),5800,nautilus,po/ha.po
+ISO Speed Rating,5803,Kimanta Saurin ISO,5804,nautilus,po/ha.po
+Flash Fired,5807,An Yi Harɓin Filash,5808,nautilus,po/ha.po
+Metering Mode,5811,Shirin Mita,5812,nautilus,po/ha.po
+Exposure Program,5815,Shirin Tona Hoto,5816,nautilus,po/ha.po
+Focal Length,5819,Tsawon Fokal,5820,nautilus,po/ha.po
+Software,5823,Massarafin Kwamfyuta,5824,nautilus,po/ha.po
+Failed to load image information,5872,An kasa loda bayanin zanen,5873,nautilus,po/ha.po
+loading...,5876,Ana lodi...,5877,nautilus,po/ha.po
+Image,5880,Zane,5881,nautilus,po/ha.po
+Information,5884,Bayani,5885,nautilus,po/ha.po
+Use _Default Background,5894,Yi amfani da _Difwalt na Bango,5895,nautilus,po/ha.po
+You can only use images as custom icons.,5904,Kana iya amfani da zane-zanen kawai kamar alamomi na ɗabi'a.,5905,nautilus,po/ha.po
+Open with %s,5909,Buɗe da %s,5910,nautilus,po/ha.po
+Go To:,5913,Tafi:,5914,nautilus,po/ha.po
+Do you want to view %d location?,5918,Kana so ka kalli wurin %d?,5920,nautilus,po/ha.po
+Do you want to view %d location?,5918,Kana so ka kalli wurin %d?,5921,nautilus,po/ha.po
+Open Location,5924,Buɗaɗɗen Wuri,5925,nautilus,po/ha.po
+_Location:,5928,_Wuri:,5929,nautilus,po/ha.po
+Perform a quick set of self-check tests.,5932,Ka gwada wani jeri na jarraba-kanka mai sauri.,5933,nautilus,po/ha.po
+Create the initial window with the given geometry.,5941,Ka ƙiƙiro taga na farko da gometiri da aka bayar.,5942,nautilus,po/ha.po
+GEOMETRY,5945,JOMETIRI,5946,nautilus,po/ha.po
+Only create windows for explicitly specified URIs.,5949,Ka ƙiƙiro tagogi wa URIs da aka ƙayyade ɓaro-ɓaro kawai.,5950,nautilus,po/ha.po
+Do not manage the desktop (ignore the preference set in the preferences dialog).,5953,Kar ka sarrafa kwamfyutan tebur (ka ƙyale fifikon da aka daidaita cikin zauren akwatin fifiko).,5956,nautilus,po/ha.po
+open a browser window.,5961,buɗe wani tagan birawsa.,5962,nautilus,po/ha.po
+Quit Nautilus.,5965,Daina Nautilus.,5966,nautilus,po/ha.po
+nautilus: %s cannot be used with URIs.\n,5983,nautilus: ba za'a iya amfani da %s tare da URIs ba.\n,5984,nautilus,po/ha.po
+nautilus: --check cannot be used with other options.\n,5988,nautilus: --ba za'a iya amfani da dubawa tare da waccan zaɓuɓɓuka ba.\n,5989,nautilus,po/ha.po
+nautilus: --geometry cannot be used with more than one URI.\n,5994,nautilus: --ba za'a iya amfani da jometiri tare da URI fiye da ɗaya ba.\n,5995,nautilus,po/ha.po
+Are you sure you want to clear the list of locations you have visited?,5999,Ka tabbata kana so ka share jerin wuraren da ka ziyarta?,6000,nautilus,po/ha.po
+"The location \""%s\"" does not exist.",6005,"Wannan wuri \""%s\"" bai kasance ba.",6006,nautilus,po/ha.po
+_Go,6015,_Tafi,6016,nautilus,po/ha.po
+_Bookmarks,6020,_Alamomi ga Shafuka,6021,nautilus,po/ha.po
+Open another Nautilus window for the displayed location,6036,Buɗe wata taga na Nautilus wa wurin da aka nuna,6037,nautilus,po/ha.po
+Close _All Windows,6062,Rufe _Duk Tagogi,6063,nautilus,po/ha.po
+Close all Navigation windows,6066,Rufe duk Tagogi na Shirin Neman Hanya,6067,nautilus,po/ha.po
+_Location...,6071,_Wuri...,6072,nautilus,po/ha.po
+Specify a location to open,6076,Ka ƙayyade wani wuri da za'a buɗe,6077,nautilus,po/ha.po
+Clea_r History,6081,Shar_e Tarihi,6082,nautilus,po/ha.po
+Clear contents of Go menu and Back/Forward lists,6085,Share kayan cikin mazaɓen Tafi da kuma jeri na Ta Baya/Ta Gaba,6086,nautilus,po/ha.po
+_Add Bookmark,6091,_Ƙara Alama ga Shafuka,6092,nautilus,po/ha.po
+Add a bookmark for the current location to this menu,6096,Ƙara wani alama ga shafuka zuwa wannan mazaɓa wa wurin da ake ciki yanzu,6097,nautilus,po/ha.po
+Display a window that allows editing the bookmarks in this menu,6109,Nuna wani taga da ke yarda a shirya alamomi ga shafuka da ke cikin wannan mazaɓa,6110,nautilus,po/ha.po
+_Side Pane,6175,_Layin Gefe,6176,nautilus,po/ha.po
+Location _Bar,6188,Layin _Wuri,6189,nautilus,po/ha.po
+Change the visibility of this window's location bar,6193,Canza gani na layin wurin wannan taga,6194,nautilus,po/ha.po
+St_atusbar,6200,La_yin nuna matsayi,6201,nautilus,po/ha.po
+Change the visibility of this window's statusbar,6205,Canza gani na layin nuna matsayin wannan taga,6206,nautilus,po/ha.po
+_Back,6209,_Baya,6210,nautilus,po/ha.po
+Go to the previous visited location,6213,Tafi wurin da ka ziyarta na baya,6214,nautilus,po/ha.po
+_Forward,6222,_Gaba,6223,nautilus,po/ha.po
+Go to the next visited location,6226,Tafi wurin da ka ziyarta na gaba,6227,nautilus,po/ha.po
+%s - File Browser,6249,%s - Birawsar Fayil,6250,nautilus,po/ha.po
+Notes,6258,'Yar Wasiƙu,6259,nautilus,po/ha.po
+Network,6267,Mahaɗar Sadarwa,6268,nautilus,po/ha.po
+Remove,6276,Cire,6277,nautilus,po/ha.po
+Backgrounds and Emblems,6306,Banguna da Tambarura,6307,nautilus,po/ha.po
+_Remove...,6311,_Cire...,6312,nautilus,po/ha.po
+Check that you have permission to delete the pattern.,6326,Ka duba cewa kana da izinin goge salon.,6327,nautilus,po/ha.po
+Check that you have permission to delete the emblem.,6335,Ka duba cewa kana da izinin goge tabarin.,6336,nautilus,po/ha.po
+_Keyword:,6350,_Muhimman Kalma:,6351,nautilus,po/ha.po
+_Image:,6355,_Zane:,6356,nautilus,po/ha.po
+Create a New Color:,6359,Ka Ƙiƙiro wata Sabuwar Launi:,6360,nautilus,po/ha.po
+Color _name:,6364,Sunan _launi:,6365,nautilus,po/ha.po
+Color _value:,6368,Kimar _launi:,6369,nautilus,po/ha.po
+Reset is a special image that cannot be deleted.,6377,"Sake maye, watau wata zane na musamman ce wanda ba za'a iya goge ba.",6378,nautilus,po/ha.po
+The color cannot be installed.,6392,An kasa saka launin.,6393,nautilus,po/ha.po
+"Sorry, but you must specify a non-blank name for the new color.",6401,"Yi haƙuri, amma sai ka ƙayyade wani suna mai alama wa sabon launin.",6402,nautilus,po/ha.po
+"Sorry, but \""%s\"" is not a usable image file.",6412,"Yi haƙuri, amma \""%s\"" ba wani fayil na zane da za'a iya amfani da ba.",6413,nautilus,po/ha.po
+The file is not an image.,6417,Wannan fayil ba na zane ba.,6418,nautilus,po/ha.po
+Select a Category:,6421,Zaɓi Wani Nau'i:,6422,nautilus,po/ha.po
+C_ancel Remove,6425,S_oke Cire,6426,nautilus,po/ha.po
+_Add a New Pattern...,6429,_Ƙara wata Sabuwar Salo...,6430,nautilus,po/ha.po
+_Add a New Color...,6433,_Ƙara Wata Sabuwar Launi...,6434,nautilus,po/ha.po
+_Add a New Emblem...,6437,_Ƙara Wata Sabuwar Tambari...,6438,nautilus,po/ha.po
+Click on a pattern to remove it,6441,Danna kan wani salo don a cire shi,6442,nautilus,po/ha.po
+Click on a color to remove it,6445,Danna kan wani launi don a cire shi,6446,nautilus,po/ha.po
+Click on an emblem to remove it,6449,Danna kan wani tambari don a cire shi,6450,nautilus,po/ha.po
+Patterns:,6453,Salo-Salo:,6454,nautilus,po/ha.po
+Colors:,6457,Launuka:,6458,nautilus,po/ha.po
+Emblems:,6461,Tambarura:,6462,nautilus,po/ha.po
+_Remove a Pattern...,6465,_Cire Wani Salo...,6466,nautilus,po/ha.po
+_Remove a Color...,6469,_Cire Wani Salo...,6470,nautilus,po/ha.po
+_Remove an Emblem...,6473,_Cire Wani Tambari...,6474,nautilus,po/ha.po
+Documents,6487,Takardun Aiki,6488,nautilus,po/ha.po
+Close the side pane,6587,Rufe layin gefen,6588,nautilus,po/ha.po
+_Places,6598,_Wurare,6599,nautilus,po/ha.po
+Open _Location...,6603,Buɗaɗɗen _Wuri...,6604,nautilus,po/ha.po
+Close P_arent Folders,6608,Rufe U_war Shamis,6609,nautilus,po/ha.po
+Close this folder's parents,6612,Rufe uwar wannan shamis,6613,nautilus,po/ha.po
+Clos_e All Folders,6617,Ruf_e Duk Shamis,6618,nautilus,po/ha.po
+Close all folder windows,6621,Rufe duk tagogin shamis,6622,nautilus,po/ha.po
+throbber,6625,Siffa na gefen dama na sama (turobba),6626,nautilus,po/ha.po
+provides visual status,6629,yana samar da matsayin gani,6630,nautilus,po/ha.po
+Do you want to remove any bookmarks with the non-existing location from your list?,6633,Kana so ka cire kowane alama ga shafuka masu cikin wuraren da ba su kasance ba daga jerin ka?,6636,nautilus,po/ha.po
+Bookmark for Nonexistent Location,6641,Alama ga Shafuka wa Wurin da Bai Kasance ba,6642,nautilus,po/ha.po
+You can choose another view or go to a different location.,6645,Kana iya zaɓi wani kallo daban ko kuma ka tafi wani wuri daban.,6646,nautilus,po/ha.po
+The location cannot be displayed with this viewer.,6649,Ba za'a iya nuna wurin da wannan mai kallo ba.,6650,nautilus,po/ha.po
+Content View,6653,Kallon Kayan Ciki,6654,nautilus,po/ha.po
+View of the current folder,6657,Kallo na shamis da ake ciki yanzu,6658,nautilus,po/ha.po
+Nautilus has no installed viewer capable of displaying the folder.,6661,"Nautilus bai da shiri mai kallo wanda zai iya nuna shamis, da aka saka.",6662,nautilus,po/ha.po
+The location is not a folder.,6666,Wurin ba wani shamis ba.,6667,nautilus,po/ha.po
+Please check the spelling and try again.,6675,Don Allah ka duba hajjatu sai ka sake gwada kuma.,6676,nautilus,po/ha.po
+Access was denied.,6694,An hana samun hanyar shiga.,6695,nautilus,po/ha.po
+Check that the spelling is correct and that your proxy settings are correct.,6708,Ka duba cewa hajjatu daidai ne da kuma kayan daidaita furoksi sun yi daidai.,6710,nautilus,po/ha.po
+Go to the location specified by this bookmark,6721,Tafi wurin da wannan alama ga shafuka ta ƙayyade,6722,nautilus,po/ha.po
+_File,6790,_Fayil,6791,nautilus,po/ha.po
+_Edit,6795,_Shirya,6796,nautilus,po/ha.po
+_View,6800,_Kallo,6801,nautilus,po/ha.po
+_Help,6805,_Taimako,6806,nautilus,po/ha.po
+_Close,6811,_Rufe,6812,nautilus,po/ha.po
+Close this folder,6816,Rufe wannan shamis,6817,nautilus,po/ha.po
+_Backgrounds and Emblems...,6820,_Banguna da Tambarura...,6821,nautilus,po/ha.po
+"Display patterns, colors, and emblems that can be used to customize appearance",6824,"Nuna salo-salo, launuka, da tambarura da za'a iya amfani da wajen daidaita surar yanda ake so",6827,nautilus,po/ha.po
+Prefere_nces,6832,Fifi_ko,6833,nautilus,po/ha.po
+Edit Nautilus preferences,6836,Shirya fifikon Nautilus,6837,nautilus,po/ha.po
+_Undo,6841,_Warware,6842,nautilus,po/ha.po
+Undo the last text change,6845,Warware canje-canjen rubutu da aka yi na ƙarshe,6846,nautilus,po/ha.po
+Open _Parent,6850,Buɗe _Uwar,6851,nautilus,po/ha.po
+Open the parent folder,6854,Buɗe Uwar shamis,6855,nautilus,po/ha.po
+_Stop,6860,_Tsai da,6861,nautilus,po/ha.po
+_Reload,6872,_Sake lodi,6873,nautilus,po/ha.po
+_Contents,6884,_Kayan Ciki,6885,nautilus,po/ha.po
+Display Nautilus help,6889,Nuna taimakon Nautilus,6890,nautilus,po/ha.po
+_About,6895,_Game da,6896,nautilus,po/ha.po
+Display credits for the creators of Nautilus,6900,Nuna yabo wa waɗanɗa suka ƙiƙiro Nautilus,6901,nautilus,po/ha.po
+Zoom _In,6906,Ja _Kusa,6907,nautilus,po/ha.po
+Zoom _Out,6918,Ja _Nesa,6919,nautilus,po/ha.po
+Normal Si_ze,6930,Gir_ma na Kullum,6931,nautilus,po/ha.po
+Connect to _Server...,6942,Haɗi zuwa _Sava...,6943,nautilus,po/ha.po
+_Computer,6960,_Kwamfyuta,6961,nautilus,po/ha.po
+T_emplates,6978,T_emfurat,6979,nautilus,po/ha.po
+_Trash,6990,_Kwandon Shara,6991,nautilus,po/ha.po
+Show _Hidden Files,7002,Nuna _Fayilolin da aka Ɓoye,7003,nautilus,po/ha.po
+_Up,7013,_Sama,7014,nautilus,po/ha.po
+_Home,7017,_Gida,7018,nautilus,po/ha.po
+Zoom In,7070,Ja Kusa,7071,nautilus,po/ha.po
+Zoom Out,7074,Ja Nesa,7075,nautilus,po/ha.po
+Zoom to Default,7078,Jawowa zuwa Difwalt,7079,nautilus,po/ha.po
+Zoom,7082,Jawowa,7083,nautilus,po/ha.po
+Set the zoom level of the current view,7086,Daidaita matsayin jawowa na kallon da ake ciki yanzu,7087,nautilus,po/ha.po

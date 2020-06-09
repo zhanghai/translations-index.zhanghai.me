@@ -1,0 +1,2262 @@
+Show “_%s”,33,“_%s”ကို ပြပါ,34,eog,po/my.po
+_Move on Toolbar,37,_M Toolbar ပေါ်သို့ရွေ့ပါ,38,eog,po/my.po
+Move the selected item on the toolbar,41,toolbarပေါ်မှရွေးချယ်ထားသော အရာ ကို ရွှေ့ပါ,42,eog,po/my.po
+_Remove from Toolbar,45,_R Toolbar ပေါ်မှ ဖယ်ထုတ်ရန်,46,eog,po/my.po
+Remove the selected item from the toolbar,49,Toolbar ပေါ်မှ ရွေးချယ်ထားပြီးသား အရာကို ဖယ်ထုတ်ရန်,50,eog,po/my.po
+_Delete Toolbar,53,_D Toolbar ကို ဖျက်ပစ်ရန်,54,eog,po/my.po
+Remove the selected toolbar,57,ရွေးချယ်ထားပြီးသော toolbar ကို ဖယ်ထုတ်ရန်,58,eog,po/my.po
+Separator,61,ကြား,62,eog,po/my.po
+Activate fullscreen mode with double-click,65,မျက်နှာပြင်အပြည့်ကြည့်ရန် ကလစ် ၂ ချက်နှိပ်ပါ,66,eog,po/my.po
+Fullscreen with double-click,69,ကလစ်၂ချက်နှိပ်၍ မျက်နှာပြင်ပြည့် ချဲ့ရန်,70,eog,po/my.po
+Reload Image,74,ပုံကိုပြန်ခေါ်ပါ,75,eog,po/my.po
+Reload current image,79,လက်ရှိပုံကို ပြန်ခေါ်ပါ,80,eog,po/my.po
+Image Viewer,95,ပုံကြည့်ရှုသည့်အရာ,96,eog,po/my.po
+Author:,103,ဖန်တီးသူ,104,eog,po/my.po
+Bytes:,107,ဘိုက်,108,eog,po/my.po
+Camera Model:,111,ကင်မရာမော်ဒယ်:,112,eog,po/my.po
+Copyright:,115,မူပိုင်ခွင့်:,116,eog,po/my.po
+Date/Time:,119,နေ့ရက်/အချိန်:,120,eog,po/my.po
+Description:,123,ဖော်ပြချက်:,124,eog,po/my.po
+Details,127,အသေးစိတ်,128,eog,po/my.po
+Flash:,135,ဖလက်(ရှ်)မီး,136,eog,po/my.po
+General,143,အထွေထွေ,144,eog,po/my.po
+Height:,147,အမြင့်,148,eog,po/my.po
+Image Properties,155,ပုံဂုဏ်သတ္တိများ,156,eog,po/my.po
+Keywords:,159,အဓိကစာလုံးများ,160,eog,po/my.po
+Location:,163,ဖိုင်နေရာ,164,eog,po/my.po
+Metadata,167,မေတာဒေတာ,168,eog,po/my.po
+Name:,175,နာမည်,176,eog,po/my.po
+Type:,179,အမျိုးအစား,180,eog,po/my.po
+Width:,183,အကျယ်,184,eog,po/my.po
+_Next,187,_N ရှေ့သို့,188,eog,po/my.po
+_Previous,191,_P နောက်သို့,192,eog,po/my.po
+Choose a folder,205,ဖိုလ်ဒါ တစ်ခုရွေးချယ်ပါ,206,eog,po/my.po
+File Name Preview,213,ဖိုင်နာမည် ကြိုတင်ကြည့်ရှု,214,eog,po/my.po
+Options,225,ရွေးစရာများ,226,eog,po/my.po
+Save As,237,သိမ်းဆည်းမဲ့ ပုံစံ,238,eog,po/my.po
+Background,265,နောက်ခံ,266,eog,po/my.po
+Background Color,269,နောက်ခံအရောင်,270,eog,po/my.po
+E_xpand images to fit screen,277,_X မျက်နှာပြင်အပြည့်ပုံကိုချဲ့ပါ,278,eog,po/my.po
+Image View,289,ပုံမြင်ကွင်း,290,eog,po/my.po
+Transparent Parts,317,ထွင်းဖောက်မြင်ရသောအပိုင်းများ,318,eog,po/my.po
+_Automatic orientation,321,_A အလိုအလျောက် တည့်ပေးပါ,322,eog,po/my.po
+seconds,333,စက္ကန့်,334,eog,po/my.po
+Automatic orientation,352,အလိုအလျောက် တည့်ပေးပါ,353,eog,po/my.po
+Use a custom background color,486,စိတ်ကြိုက်နောက်ခံရောင်ကို အသုံးပြုပါ,487,eog,po/my.po
+Zoom multiplier,530,ချဲ့အား,531,eog,po/my.po
+Question,542,မေးခွန်း,543,eog,po/my.po
+pixel,601,ပစ်ဇယ်,603,eog,po/my.po
+Open Image,606,ပုံဖွင်ရန်,607,eog,po/my.po
+Save Image,610,ပုံသိမ်းပါ,611,eog,po/my.po
+Open Folder,614,ဖိုင်တွဲဖွင့်ရန်,615,eog,po/my.po
+Image,734,ပုံ,735,eog,po/my.po
+Page Setup,742,စာမျက်နှာ တပ်ဆင်မှု,743,eog,po/my.po
+Position,750,နေရာ,751,eog,po/my.po
+_Left:,754,_L ဘယ်​ဖက် -,755,eog,po/my.po
+_Right:,758,_R ညာဖက် -,759,eog,po/my.po
+_Top:,762,_T ထိပ် -,763,eog,po/my.po
+_Bottom:,766,_B အောက်ခြေ -,767,eog,po/my.po
+C_enter:,770,_E အလယ် -,771,eog,po/my.po
+None,774,နတ္တိ,775,eog,po/my.po
+Horizontal,778,အလျားလိုက်,779,eog,po/my.po
+Vertical,782,ဒေါင်လိုက်,783,eog,po/my.po
+Size,790,အရွယ်အစား,791,eog,po/my.po
+_Width:,794,_W အကျယ် -,795,eog,po/my.po
+_Height:,798,_H အမြင့် -,799,eog,po/my.po
+Millimeters,810,မီလီမီတာ,811,eog,po/my.po
+Inches,814,လက်မ,815,eog,po/my.po
+Unknown,822,အမည်မသိ,823,eog,po/my.po
+_Reload,889,_R ပြန်ခေါ်ပါ,890,eog,po/my.po
+Hi_de,894,_D ဖျောက်ပါ,895,eog,po/my.po
+Move to _Trash,1032,_T အမှိုက်ပုံးထဲ ထည့်ပါ,1033,eog,po/my.po
+_Image,1055,_I ပုံ,1056,eog,po/my.po
+_Edit,1059,_E တည်းဖြတ်,1060,eog,po/my.po
+_View,1063,_V မြင်ကွင်း,1064,eog,po/my.po
+_Go,1067,_G သွားရန်,1068,eog,po/my.po
+_Tools,1071,_T တန်ဆာပလာ,1072,eog,po/my.po
+_Help,1075,_H အကူအညီ,1076,eog,po/my.po
+_Open…,1079,_O ဖွင့်ရန်...,1080,eog,po/my.po
+_Close,1087,_C ပိတ်ပါ,1088,eog,po/my.po
+Close window,1091,ဝင်းဒိုးပိတ်ပါ,1092,eog,po/my.po
+T_oolbar,1095,_O ကိရိယာဘား,1096,eog,po/my.po
+Prefere_nces,1103,_N လိုလားချက်များ,1104,eog,po/my.po
+_Contents,1111,_C မာတိကာ,1112,eog,po/my.po
+_About,1119,_A အကြောင်းအရာ,1120,eog,po/my.po
+_Toolbar,1127,_T တန်ဆာပလာဘားတန်း,1128,eog,po/my.po
+_Statusbar,1135,_S အခြေအနေပြဘားတန်း,1136,eog,po/my.po
+_Image Collection,1143,_I ပုံစုဆောင်ထားမှုများ,1144,eog,po/my.po
+Side _Pane,1152,_P ဘေးခြမ်း,1153,eog,po/my.po
+_Save,1160,_S သိမ်းရန်,1161,eog,po/my.po
+Open _with,1168,_W အခြားအက်ပလီကေးရှင်းများဖြင့် ဖွင့်ရန်,1169,eog,po/my.po
+Save _As…,1176,_A ပြောင်းသိမ်းရန်,1177,eog,po/my.po
+_Print…,1184,_P ပုံနှိပ်ရန်...,1185,eog,po/my.po
+Prope_rties,1192,_R ဂုဏ်သတ္တိများ,1193,eog,po/my.po
+_Undo,1200,_U နောက်ပြန်,1201,eog,po/my.po
+Flip _Horizontal,1208,_H အလျားလိုက်လှန်ပါ,1209,eog,po/my.po
+Flip _Vertical,1216,_V ဒေါင်လိုက်လှန်ပါ,1217,eog,po/my.po
+_Rotate Clockwise,1224,_R နာရီလက်တံလှည့်ပါ,1225,eog,po/my.po
+Rotate Counterc_lockwise,1232,_C နာရီလက်တံပြောင်းပြန်လှည့်ပါ,1233,eog,po/my.po
+Set as _Desktop Background,1240,_D ဖန်သားပြင်နောက်ခံအဖြစ်ထားပါ,1241,eog,po/my.po
+_Zoom In,1252,_Z ချဲ့ပါ,1253,eog,po/my.po
+Enlarge the image,1256,ပုံကို ချဲ့ပါ,1257,eog,po/my.po
+Zoom _Out,1260,_O ချုံ့ပါ,1261,eog,po/my.po
+_Normal Size,1268,_N ပုံမှန်အရွယ်အစား,1269,eog,po/my.po
+Best _Fit,1276,_F အကိုက်ညီဆုံး,1277,eog,po/my.po
+_Fullscreen,1284,_F မျက်နှာပြင်ပြည့်,1285,eog,po/my.po
+Pause Slideshow,1292,ဆလိုက်ရှိုးကို ခေတ္တဆိုင်းပါ,1293,eog,po/my.po
+Pause or resume the slideshow,1296,ဆလိုက်ရှိုးကို ပြန်စ (သို့) ဆိုင်းပါ,1297,eog,po/my.po
+_Previous Image,1300,_P နောက်တစ်ပုံ,1301,eog,po/my.po
+_Next Image,1308,_N ရှေ့တစ်ပုံ,1309,eog,po/my.po
+_First Image,1316,_F ရှေ့ဆုံးပုံ,1317,eog,po/my.po
+Go to the first image of the collection,1320,ရှေ့ဆုံးပုံ သွားပါ,1321,eog,po/my.po
+_Last Image,1324,_L နောက်ဆုံးပုံ,1325,eog,po/my.po
+_Random Image,1332,_R ကျပန်းတစ်ပုံ,1333,eog,po/my.po
+Previous,1348,နောက်သို့,1349,eog,po/my.po
+Next,1352,ရှေ့သို့,1353,eog,po/my.po
+Right,1356,ညာဖက်,1357,eog,po/my.po
+Left,1360,ဘယ်ဖက်,1361,eog,po/my.po
+Fit,1376,အံကိုက်,1377,eog,po/my.po
+Trash,1385,အမှိုက်ပုံး,1386,eog,po/my.po
+Plugin,1389,ပလပ်အင်,1390,eog,po/my.po
+Enabled,1393,ဖွင့်,1394,eog,po/my.po
+C_onfigure,1397,_O ပုံစံပြင်,1398,eog,po/my.po
+A_ctivate,1401,_A ဖွင့်,1402,eog,po/my.po
+Ac_tivate All,1405,_T အားလုံးဖွင့်,1406,eog,po/my.po
+_Deactivate All,1409,_D အားလုံးပိတ်,1410,eog,po/my.po
+Open in fullscreen mode,1429,မျက်နှာပြင်အပြည့်ဖြင့် ဖွင့်ပါ,1430,eog,po/my.po
+Error launching the command “%s” in order to decompress the comic book: %s,22,ရုပ်ပြစာအုပ်-%s အား အထုပ်ဖြေရန် စေခိုင်းချက် “%s” တွင် အမှားအယွင်းဖြစ်နေပါသည်။,24,evince,po/my.po
+The command “%s” failed at decompressing the comic book.,28,ရုပ်ပြစာအုပ်အား ဖြေလျှော့ခြင်း စေခိုင်းချက် “%s” မအောင်မြင်ပါ။,29,evince,po/my.po
+The command “%s” did not end normally.,33,စေခိုင်းချက် “%s” မှန်ကန်စွာ ပြီးဆုံးခြင်း မရှိပါ။,34,evince,po/my.po
+Not a comic book MIME type: %s,38,ရုပ်ပြစာအုပ် %s MIME အမျိုးအစားတစ်ခု မဟုတ်ပါ။,39,evince,po/my.po
+Can't find an appropriate command to decompress this type of comic book,42,ဤရုပ်ပြစာအုပ အမျိုးအစားအား ချုံ့သိပ်ရန် ကိုက်ညီသော စေခိုင်းချက် ရှာမတွေ့ပါ။,43,evince,po/my.po
+Unknown MIME Type,48,MIME အမျိုးအစား မသိပါ,49,evince,po/my.po
+File corrupted,52,ဖိုင်ကျိုးပဲ့နေသည်,53,evince,po/my.po
+No files in archive,56,အထုပ်အတွင်း ဖိုင် မရှိပါ,57,evince,po/my.po
+No images found in archive %s,61,အထုပ် %s အတွင်း ရုပ်ပုံတစ်ခုမျှ မတွေ့ပါ,62,evince,po/my.po
+There was an error deleting “%s”.,66,“%s” အား ဖျက်ဆီးရာတွင် မှားယွင်းမှုဖြစ်နေသည်,67,evince,po/my.po
+Error %s,71,မှားယွင်းမှု %s,72,evince,po/my.po
+Comic Books,75,ရုပ်ပြစာအုပ်များ,76,evince,po/my.po
+DjVu document has incorrect format,79,မှားယွင်းသော DjVu  ဖိုင်အမျိုးအစား,80,evince,po/my.po
+The document is composed of several files. One or more of these files cannot be accessed.,83,ဝင်ရောက်၍ မရနိုင်ပါ။,86,evince,po/my.po
+DjVu Documents,89,DjVu ဖိုင်များ,90,evince,po/my.po
+DVI document has incorrect format,93,မှားယွင်းသော DVI ဖိုင်အမျိုးအစား,94,evince,po/my.po
+DVI Documents,97,DVI ဖိုင်များ,98,evince,po/my.po
+Yes,106,လုပ်မည်,107,evince,po/my.po
+No,111,မလုပ်ပါ,112,evince,po/my.po
+Unknown font type,143,အမည်မသိ ဖောင့်အမျိုးအစား,144,evince,po/my.po
+No name,147,အမည်မရှိ,148,evince,po/my.po
+Embedded,155,မြှပ်နှံပြီး,156,evince,po/my.po
+Not embedded,159,မမြှပ်နှံရသေး,160,evince,po/my.po
+PDF Documents,163,PDF ဖိုင်များ,164,evince,po/my.po
+Invalid document,168,မအောင်မြင်သော ဖိုင်,169,evince,po/my.po
+Failed to load document “%s”,219,“%s” ဖိုင်ကို တင်သွင်းခြင်း မအောင်မြင်,220,evince,po/my.po
+Failed to save document “%s”,224,“%s” ဖိုင်ကို သိမ်းဆည်းခြင်း မအောင်မြင်,225,evince,po/my.po
+File type %s (%s) is not supported,248,%s (%s) ဖိုင်အမျိုးအစားအား မထောက်ပံ့ပါ,249,evince,po/my.po
+All Documents,252,ဖိုင်အားလုံး,253,evince,po/my.po
+All Files,256,ဖိုင်တွဲများ အားလုံး,257,evince,po/my.po
+Failed to create a temporary file: %s,261,ယာယီဖိုင်- %s အားဖန်တီးမှု မအောင်မြင်ပါ။,262,evince,po/my.po
+Failed to create a temporary directory: %s,266,ယာယီဖိုင်လမ်းကြောင်း- %s အားဖန်တီးမှု မအောင်မြင်ပါ။,267,evince,po/my.po
+File is not a valid .desktop file,271,အောင်မြင်သော ဖိုင်အမျိုးအစား မဟုတ် .desktop ဖိုင်ဖြစ် ,272,evince,po/my.po
+Starting %s,281,စတင်နေသည် %s,282,evince,po/my.po
+Application does not accept documents on command line,286,ဖိုင်ကို အက်ပလီကေးရှင်းမှ စေခိုင်းချက် စာကြောင်းတွင် လက်မခံပါ,287,evince,po/my.po
+Not a launchable item,301,စတင်နိုင်သော ပစ္စည်းမရှိပါ,302,evince,po/my.po
+Disable connection to session manager,305,ဆက်ရှင် မန်နေဂျာတွင် ဆက်သွယ်မှုမဲ့အောင်လုပ်ပါ,306,evince,po/my.po
+Specify file containing saved configuration,309,သိမ်းဆည်းမှုပုံစံတွင် ပါဝင်သောဖိုင်ကို သတ်မှတ်ပါ,310,evince,po/my.po
+FILE,314,ဖိုင်,315,evince,po/my.po
+Specify session management ID,318,ဆက်ရှင် စီမံမှု အိုင်ဒီ သတ်မှတ်ပါ,319,evince,po/my.po
+ID,322,အိုင်ဒီ,323,evince,po/my.po
+Session management options:,326,ဆက်ရှင်စီမံမှု ရွေးချယ်ရန်များ-,327,evince,po/my.po
+Show session management options,330,ဆက်ရှင်စီမံမှု ရွေးချယ်ရန်များကို ပြပါ,331,evince,po/my.po
+Show “_%s”,342,“_%s” ကို ပြပါ,343,evince,po/my.po
+_Move on Toolbar,346,_M တန်ဆာပလာဘားတန်းပေါ်သို့ ရွေ့ပါ,347,evince,po/my.po
+Move the selected item on the toolbar,350,ရွေးချယ်ပြီးသော ပစ္စည်းများကို တန်ဆာပလာဘားတန်း ပေါ်သို့ရွေ့ပါ,351,evince,po/my.po
+_Remove from Toolbar,354,_R တန်ဆာပလာဘားတန်းမှ ဖယ်ထုတ်ပါ,355,evince,po/my.po
+Remove the selected item from the toolbar,358,ရွေးချယ်ပြီးသော ပစ္စည်းများကို တန်ဆာပလာဘားတန်းမှ ဖယ်ထုတ်ပါ,359,evince,po/my.po
+_Delete Toolbar,362,_D တန်ဆာပလာဘားတန်းကို ဖျက်သိမ်းပါ,363,evince,po/my.po
+Remove the selected toolbar,366,ရွေးချယ်ပြီးသော တန်ဆာပလာဘားကို ဖယ်ထုတ်ပါ,367,evince,po/my.po
+Separator,370,ခွဲခြားစရာ,371,evince,po/my.po
+Best Fit,375,ကွက်တိ,376,evince,po/my.po
+Fit Page Width,379,ကွက်တိ စာမျက်နှာအကျယ်,380,evince,po/my.po
+50%,383,၅၀%,384,evince,po/my.po
+70%,387,၇၀%,388,evince,po/my.po
+85%,391,၈၅%,392,evince,po/my.po
+100%,395,၁၀၀%,396,evince,po/my.po
+125%,399,၁၂၅%,400,evince,po/my.po
+150%,403,၁၅၀%,404,evince,po/my.po
+175%,407,၁၇၅%,408,evince,po/my.po
+200%,411,၂၀၀%,412,evince,po/my.po
+300%,415,၃၀၀%,416,evince,po/my.po
+400%,419,၄၀၀%,420,evince,po/my.po
+800%,423,၈၀၀%,424,evince,po/my.po
+1600%,427,၁၆၀၀%,428,evince,po/my.po
+3200%,431,၃၂၀၀%,432,evince,po/my.po
+6400%,435,၆၄၀၀%,436,evince,po/my.po
+Document Viewer,442,ဖိုင်မြင်ကွင်း,443,evince,po/my.po
+View multi-page documents,446,စာမျက်နှာစုံ ဖိုင်မြင်ကွင်း,447,evince,po/my.po
+Override document restrictions,450,ဖိုင်ကန့်သတ်ချက် ထပ်ရိုက်ရန်,451,evince,po/my.po
+Delete the temporary file,458,ယာယီဖိုင် ဖျက်သိမ်း,459,evince,po/my.po
+Print settings file,462,ပုံနှိပ်ရန် နေရာချထားခြင်း,463,evince,po/my.po
+GNOME Document Previewer,466,GNOME ဖိုင် ကြိုကြည့်ရန်,467,evince,po/my.po
+Failed to print document,470,ပုံနှိပ်မှု မအောင်မြင်,471,evince,po/my.po
+The selected printer '%s' could not be found,475,ရွေးချယ်ထားသော ပရင်တာ '%s' အားမတွေ့ပါ,476,evince,po/my.po
+_Previous Page,480,_P ရှေ့စာမျက်နှာ,481,evince,po/my.po
+Go to the previous page,484,ရှေ့စာမျက်နှာသို့ သွားရန်,485,evince,po/my.po
+_Next Page,488,_N နောက်စာမျက်နှာ,489,evince,po/my.po
+Go to the next page,492,နောက်စာမျက်နှာသို့ သွားရန်,493,evince,po/my.po
+Enlarge the document,496,ဖိုင်ချဲ့ရန်,497,evince,po/my.po
+Shrink the document,500,ဖိုင်ကို ဖြတ်ညှိပါ,501,evince,po/my.po
+Print,504,ပုံနှိပ်,505,evince,po/my.po
+Print this document,508,ဖိုင်ကို ပုံနှိပ်ပါ,509,evince,po/my.po
+_Best Fit,512,_B ကွက်တိ,513,evince,po/my.po
+Make the current document fill the window,516,လက်ရှိဖိုင်ကို ဝင်းဒိုးတွင်ဖြည့်ပါ,517,evince,po/my.po
+Fit Page _Width,520,_W အံကိုက် စာမျက်နှာအကျယ်,521,evince,po/my.po
+Make the current document fill the window width,524,လက်ရှိဖိုင်ကို ဝင်းဒိုးအကျယ်တွင် ဖြည့်ပါ,525,evince,po/my.po
+Page,528,စာမျက်နှာ,529,evince,po/my.po
+Select Page,532,စာမျက်နှာ ရွေး,533,evince,po/my.po
+Document,536,ဖိုင်,537,evince,po/my.po
+Title:,540,ခေါင်းစဉ်-,541,evince,po/my.po
+Location:,544,တည်နေရာ-,545,evince,po/my.po
+Subject:,548,အကြောင်းအရာ-,549,evince,po/my.po
+Author:,553,ရေးသူ-,554,evince,po/my.po
+Keywords:,557,အဓိကစကားစုများ-,558,evince,po/my.po
+Producer:,561,ထုတ်ဝေသူ-,562,evince,po/my.po
+Creator:,565,ဖန်တီးသူ-,566,evince,po/my.po
+Created:,569,ဖန်တီးခဲ့သည်-,570,evince,po/my.po
+Modified:,573,မွမ်းမံခဲ့သည်-,574,evince,po/my.po
+Number of Pages:,577,စာမျက်နှာ နံပါတ်,578,evince,po/my.po
+Optimized:,581,လျော်ကန်မှု-,582,evince,po/my.po
+Format:,585,အချိုးအစား-,586,evince,po/my.po
+Security:,589,လုံခြုံရေး,590,evince,po/my.po
+Paper Size:,593,စာရွက်ဆိုဇ်,594,evince,po/my.po
+None,597,တစ်ခုမျှမဟုတ်,598,evince,po/my.po
+%.0f × %.0f mm,612,%.0f × %.0f မမ,613,evince,po/my.po
+%.2f × %.2f inch,617,%.2f × %.2f လက်မ,618,evince,po/my.po
+"%s, Portrait (%s)",624,"%s, ပုံတူ (%s)",625,evince,po/my.po
+"%s, Landscape (%s)",631,"%s, ရှုခင်း (%s)",632,evince,po/my.po
+Loading…,647,တင်သွင်းနေသည်…,648,evince,po/my.po
+Preparing to print…,652,ပုံနှိပ်ရန် ပြင်ဆင်နေသည်…,653,evince,po/my.po
+Finishing…,656,အပြီးသတ်နေသည်…,657,evince,po/my.po
+Printing page %d of %d…,661,စာမျက်နှာ %d မှ %d အား ပုံနှိပ်နေသည်…,662,evince,po/my.po
+Printing is not supported on this printer.,665,ဤပရင်တာတွင် ပုံနှိပ်ခြင်းအား မထောက်ပံ့ပါ,666,evince,po/my.po
+Invalid page selection,669,မအောင်မြင်သော စာမျက်နှာမှတ်သားခြင်း,670,evince,po/my.po
+Warning,673,သတိပေးချက်,674,evince,po/my.po
+Your print range selection does not include any pages,677,သင့်ပုံနှိပ်မှု အကွာအဝေးမှတ်သားချက်တွင် မည်သည့်စာမျက်နှာမျှ မပါဝင်ပါ,678,evince,po/my.po
+Page Scaling:,681,စာရွက်အချိုးအစား-,682,evince,po/my.po
+Shrink to Printable Area,685,ပုံနှိပ်နိုင်သော ဧရိယာကို ဖြတ်ထုတ်ပါ,686,evince,po/my.po
+Fit to Printable Area,689,ပုံနှိပ်နိုင်သော ဧရိယာကို အံကိုက်လုပ်ပါ,690,evince,po/my.po
+Auto Rotate and Center,707,အလိုအလျောက် တည့်မတ်ခြင်းနှင့် ဗဟိုကျစေခြင်း,708,evince,po/my.po
+Page Handling,727,စာမျက်နှာ ကိုင်တွယ်ခြင်း,728,evince,po/my.po
+Failed to print page %d: %s,732,စာမျက်နှာ %d: %s အားပုံနှိပ်ခြင်း မအောင်မြင်ပါ,733,evince,po/my.po
+Scroll Up,736,အပေါ်သို့,737,evince,po/my.po
+Scroll Down,740,အောက်သို့,741,evince,po/my.po
+Scroll View Up,744,မြင်ကွင်း တင်ရန်,745,evince,po/my.po
+Scroll View Down,748,မြင်ကွင်း ချရန်,749,evince,po/my.po
+Document View,752,ဖိုင်မြင်ကွင်း,753,evince,po/my.po
+Jump to page:,756,စာမျက်နှာသို့ ခုန်ရန်,757,evince,po/my.po
+End of presentation. Click to exit.,760,တင်ပြခြင်း ပြီးဆုံး။ ထွက်ရန် ကလစ်လုပ်ပါ။,761,evince,po/my.po
+Go to first page,764,ပထမ စာမျက်နှာသို့,765,evince,po/my.po
+Go to previous page,768,ရှေ့စာမျက်နှာသို့,769,evince,po/my.po
+Go to next page,772,နောက်စာမျက်နှာသို့,773,evince,po/my.po
+Go to last page,776,နောက်ဆုံး စာမျက်နှာသို့,777,evince,po/my.po
+Go to page,780,စာမျက်နှာသို့,781,evince,po/my.po
+Find,784,ရှာဖွေ,785,evince,po/my.po
+Go to page %s,789,စာမျက်နှာ %s သို့,790,evince,po/my.po
+Go to %s on file “%s”,794,“%s” ဖိုင်ရှိ %s သို့သွားရန်,795,evince,po/my.po
+Go to file “%s”,799,“%s” ဖိုင်သို့သွားရန်,800,evince,po/my.po
+Launch %s,804,%s စရန်,805,evince,po/my.po
+Find:,808,ရှာဖွေ-,809,evince,po/my.po
+Find Pre_vious,812,_V ရှေ့ပိုင်းကို ရှာပါ,813,evince,po/my.po
+Find previous occurrence of the search string,816,ရှေ့ပိုင်း ရှာဖွေချက်ကို ရှာဖွေပါ,817,evince,po/my.po
+Find Ne_xt,820,_X နောက်ပိုင်းကို ရှာပါ,821,evince,po/my.po
+Find next occurrence of the search string,824,နောက်ပိုင်း ရှာဖွေချက်ကို ရှာပါ,825,evince,po/my.po
+C_ase Sensitive,828,_A စာလုံးပေါင်း သတိပြုပါ,829,evince,po/my.po
+Toggle case sensitive search,832,လွှဲခလုတ် သတိပြုသော ရှာဖွေမှု,833,evince,po/my.po
+Icon:,836,အိုင်ကွန်-,837,evince,po/my.po
+Note,840,မှတ်စု,841,evince,po/my.po
+Comment,844,မှက်ချက်,845,evince,po/my.po
+Key,848,ကီး,849,evince,po/my.po
+Help,852,အကူအညီ,853,evince,po/my.po
+New Paragraph,856,စာပိုဒ်သစ်,857,evince,po/my.po
+Paragraph,860,စာပိုဒ်,861,evince,po/my.po
+Insert,864,ထည့်သွင်း,865,evince,po/my.po
+Cross,868,ကြက်ခြေခတ်,869,evince,po/my.po
+Circle,872,စက်ဝိုင်း,873,evince,po/my.po
+Unknown,876,မသိ,877,evince,po/my.po
+Annotation Properties,880,မှတ်စာ အရည်အသွေး,881,evince,po/my.po
+Color:,884,အရောင်-,885,evince,po/my.po
+Style:,888,ပုံစံ-,889,evince,po/my.po
+Transparent,892,အကြည်,893,evince,po/my.po
+Opaque,896,အပိတ်,897,evince,po/my.po
+Initial window state:,900,နောက်ဆုံး ဝင်းဒိုးအခြေအနေ,901,evince,po/my.po
+Open,904,ဖွင့်,905,evince,po/my.po
+Close,908,ပိတ်,909,evince,po/my.po
+Running in presentation mode,912,တင်ပြချက်ပုံစံဖြင့် အလုပ်လုပ်နေသည်,913,evince,po/my.po
+Password for document %s,917,%s ဖိုင်အတွက် စကားဝှက်,918,evince,po/my.po
+Open a recently used document,941,မကြာသေးမှီက အသုံးပြုခဲ့သော ဖိုင်ကို ဖွင့်ပါ,942,evince,po/my.po
+This document is locked and can only be read by entering the correct password.,945,ဖတ်ရှုနိုင်ပါမည်။,948,evince,po/my.po
+_Unlock Document,951,_U ဖိုင်ကို သော့ဖွင့်ရန်,952,evince,po/my.po
+Enter password,955,စကားဝှက် ထည့်သွင်းပါ,956,evince,po/my.po
+Password required,959,စကားဝှက်လိုအပ်သည်,960,evince,po/my.po
+_Password:,969,_P စကားဝှက်,970,evince,po/my.po
+Forget password _immediately,973,_I စကားဝှက်ရုတ်တရက်မေ့ခြင်း,974,evince,po/my.po
+Remember password until you _log out,977,_L သင်ထွက်ခွာသည့်တိုင်အောင် စကားဝှက်ကို မှတ်ထားပါ,978,evince,po/my.po
+Remember _forever,981,_F စကားဝှက်ကိုအမြဲတမ်း မှတ်ထားပါ,982,evince,po/my.po
+Properties,985,အရည်အသွေး,986,evince,po/my.po
+General,989,အထွေထွေ,990,evince,po/my.po
+Fonts,993,ဖောင့်,994,evince,po/my.po
+Document License,997,ဖိုင်လိုင်စင်,998,evince,po/my.po
+Font,1001,ဖောင့်,1002,evince,po/my.po
+Gathering font information… %3d%%,1006,ဖောင့်စုစည်းမှု အချက်အလက်… %3d%%,1007,evince,po/my.po
+Usage terms,1010,အသုံးပြုရန် သတ်မှတ်ချက်များ,1011,evince,po/my.po
+Text License,1014,လိုင်စင် စာသား,1015,evince,po/my.po
+Further Information,1018,အခြား အချက်အလက်,1019,evince,po/my.po
+List,1022,စာရင်း,1023,evince,po/my.po
+Annotations,1026,မှတ်စာများ,1027,evince,po/my.po
+Text,1030,စာသား,1031,evince,po/my.po
+Add text annotation,1034,စာသားမှတ်စာ ပေါင်းထည့်ရန်,1035,evince,po/my.po
+Add,1038,ပေါင်းထည့်,1039,evince,po/my.po
+Document contains no annotations,1042,ဖိုင်အတွင်း မှတ်စာမပါရှိပါ,1043,evince,po/my.po
+Page %d,1047,စာမျက်နှာ %d,1048,evince,po/my.po
+Attachments,1051,တွဲထားချက်,1052,evince,po/my.po
+Layers,1055,အလွှာ,1056,evince,po/my.po
+Print…,1059,ပုံနှိပ်…,1060,evince,po/my.po
+Index,1063,အညွန်း,1064,evince,po/my.po
+Thumbnails,1067,အကျဉ်းချုပ်,1068,evince,po/my.po
+Page %s — %s,1072,စာမျက်နှာ %s — %s,1073,evince,po/my.po
+Page %s,1077,စာမျက်နှာ %s,1078,evince,po/my.po
+The document contains no pages,1081,ဖိုင်တွင် စာမျက်နှာမပါရှိ,1082,evince,po/my.po
+The document contains only empty pages,1085,ဖိုင်တွင် စာမျက်နှာလွတ်များသာ ပါရှိ,1086,evince,po/my.po
+Unable to open document,1089,ဖိုင်ကို မဖွင့်နိုင်ပါ,1090,evince,po/my.po
+Loading document from “%s”,1094,ဖိုင်ကို “%s” မှ ထိုးထည့်နေသည်,1095,evince,po/my.po
+Downloading document (%d%%),1099,ဖိုင်ကို ဆွဲချနေသည် (%d%%),1100,evince,po/my.po
+Failed to load remote file.,1103,ထိန်းချုပ်ဖိုင်ကို ထိုးထည့်မှု မအောင်မြင်,1104,evince,po/my.po
+Reloading document from %s,1108,ဖိုင်ကို %s မှပြန်ထိုးထည့်နေသည်,1109,evince,po/my.po
+Failed to reload document.,1112,ဖိုင်ကို ပြန်ထိုးထည့်မှု မအောင်မြင်,1113,evince,po/my.po
+Open Document,1116,ဖိုင်ဖွင့်ပါ,1117,evince,po/my.po
+Saving document to %s,1121,ဖိုင်ကို %s သို့သိမ်းနေသည် ,1122,evince,po/my.po
+Saving attachment to %s,1126,တွဲထားချက်ကို %s သို့သိမ်းနေသည်,1127,evince,po/my.po
+Saving image to %s,1131,ပုံရိပ်ကို %s သို့သိမ်းနေသည်,1132,evince,po/my.po
+The file could not be saved as “%s”.,1136,ဖိုင်ကို “%s” ကဲ့သို့ မသိမ်းနိုင်ပါ။,1137,evince,po/my.po
+Uploading document (%d%%),1141,ဖိုင်ကို တင်နေသည် (%d%%),1142,evince,po/my.po
+Uploading attachment (%d%%),1146,တွဲထားချက်ကို တင်နေသည် (%d%%),1147,evince,po/my.po
+Uploading image (%d%%),1151,ပုံရိပ်ကို တင်နေသည် (%d%%),1152,evince,po/my.po
+Save a Copy,1155,မိတ္တူတစ်စုံ သိမ်းပါ,1156,evince,po/my.po
+Printing job “%s”,1166,ပုံနှိပ်ခြင်း “%s”,1167,evince,po/my.po
+"Document contains form fields that have been filled out. If you don't save a copy, changes will be permanently lost.",1170,မသိမ်းရသေးလျင် ပြောင်းလဲမှုများအားလုံး ထာဝရဆုံးရှုံးမည်,1173,evince,po/my.po
+"Document contains new or modified annotations. If you don't save a copy, changes will be permanently lost.",1176,ပြောင်းလဲမှုများအားလုံး ထာဝရဆုံးရှုံးမည်,1179,evince,po/my.po
+Save a copy of document “%s” before closing?,1183,“%s” ဖိုင်ကို မပိတ်မှီ မိတ္တူတစ်စုံ သိမ်းလိုပါသလား?,1184,evince,po/my.po
+Close _without Saving,1187,_W သိမ်းဆည်းခြင်းမရှိပဲ ပိတ်ပါ,1188,evince,po/my.po
+Save a _Copy,1191,_C မိတ္တူတစ်စုံ သိမ်းပါ,1192,evince,po/my.po
+Wait until print job “%s” finishes before closing?,1196,မပိတ်မှီ “%s” ပုံနှိပ်ပြီးသည်အထိ စောင့်ပါ,1197,evince,po/my.po
+"If you close the window, pending print jobs will not be printed.",1206,အကယ်၍ ဝင်းဒိုးကို ပိတ်လျင် စောင့်ဆိုင်းနေသော ပုံနှိပ်ခြင်းအလုပ် ပုံနှိပ်မည် မဟုတ်ပါ,1207,evince,po/my.po
+Cancel _print and Close,1210,_P ပုံနှိပ်ခြင်းအား ပယ်ဖျက်ပြီး ပိတ်ပါ,1211,evince,po/my.po
+Close _after Printing,1214,_A ပုံနှိပ်ပြီးနောက် ပိတ်ပါ,1215,evince,po/my.po
+Toolbar Editor,1218,တန်ဆာပလာဘား တည်းဖြတ်ရာ,1219,evince,po/my.po
+There was an error displaying help,1222,အကူအညီကို ပြသရန် အမှားအယွင်းဖြစ်နေသည်,1223,evince,po/my.po
+Document Viewer\nUsing %s (%s),1227,အသုံးပြုနေသည် %s (%s),1230,evince,po/my.po
+"Evince is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n",1233,အခမဲ့ဆော့ဖ်ဝဲရ်ဆိုင်ရာ အထွေထွေ အများပြည်သူသုံး လိုင်စင်သတ်မှတ်ချက်များ GNU အောက်တွင်လိုင်စင်ဗားရှင်း ၂ အရ သို့မဟုတ် နောက်ပိုင်းမည်သည့် ဗားရှင်းအရ မဆို ဆောင်ရွက်နိုင်သည်။\n,1238,evince,po/my.po
+Evince,1258,အီးဗင့်စ်,1259,evince,po/my.po
+%d found on this page,1275,%d စာမျက်နှာတွင် တွေ့ရှိသည်,1277,evince,po/my.po
+Not found,1280,မတွေ့ပါ,1281,evince,po/my.po
+%3d%% remaining to search,1285,%3d%% ရှာရန်ကျန်,1286,evince,po/my.po
+_File,1289,_F ဖိုင်,1290,evince,po/my.po
+_Edit,1293,_E တည်းဖြတ်,1294,evince,po/my.po
+_View,1297,_V မြင်ကွင်း,1298,evince,po/my.po
+_Go,1301,_G သွားရန်,1302,evince,po/my.po
+_Help,1305,_H အကူအညီ,1306,evince,po/my.po
+_Open…,1310,_O ဖွင့်…,1311,evince,po/my.po
+Open an existing document,1314,ရှိပြီးသား ဖိုင်ကို ဖွင့်ပါ,1315,evince,po/my.po
+Op_en a Copy,1318,_E မိတ္တူကိုဖွင့်ပါ,1319,evince,po/my.po
+Open a copy of the current document in a new window,1322,လက်ရှိ ဖိုင်၏ မိတ္တူတစ်စုံကို ဝင်းဒိုးအသစ်တွင် ဖွင့်ပါ,1323,evince,po/my.po
+_Save a Copy…,1326,_S မိတ္တူတစ်စုံ သိမ်းပါ,1327,evince,po/my.po
+Save a copy of the current document,1330,လက်ရှိဖိုင်၏ မိတ္တူတစ်စုံကို သိမ်းပါ,1331,evince,po/my.po
+_Print…,1334,_P ပုံနှိပ်…,1335,evince,po/my.po
+P_roperties,1338,_R အရည်အသွေး,1339,evince,po/my.po
+Select _All,1342,_A အားလုံးမှတ်,1343,evince,po/my.po
+_Find…,1346,_F ရှာပါ…,1347,evince,po/my.po
+Find a word or phrase in the document,1350,ဖိုင်အတွင်း စကားလုံး သို့မဟုတ် စကားစုကို ရှာပါ,1351,evince,po/my.po
+T_oolbar,1354,_O  ကိရိယာဘားတန်း,1355,evince,po/my.po
+Rotate _Left,1358,_L ဘယ်လှည့်,1359,evince,po/my.po
+Rotate _Right,1362,_R ညာလှည့်,1363,evince,po/my.po
+Save Current Settings as _Default,1366,_D လက်ရှိ နေရာချထားမှုကိုပုံသေသိမ်းပါ,1367,evince,po/my.po
+_Reload,1370,_R ပြန်ထည့်,1371,evince,po/my.po
+Reload the document,1374,ဖိုင်ကို ပြန်ထည့်,1375,evince,po/my.po
+Auto_scroll,1378,_S အလိုအလျောက်လှိမ့်တင်,1379,evince,po/my.po
+_First Page,1382,_F ပထမစာမျက်နှာ,1383,evince,po/my.po
+Go to the first page,1386,ပထမစာမျက်နှာသို့သွားရန်,1387,evince,po/my.po
+_Last Page,1390,_L နောက်ဆုံးစာမျက်နှာ,1391,evince,po/my.po
+Go to the last page,1394,နောက်ဆုံးစာမျက်နှာသို့သွားရန်,1395,evince,po/my.po
+_Contents,1399,_C မာတိကာ,1400,evince,po/my.po
+_About,1403,_A အကြောင်းအရာ,1404,evince,po/my.po
+Leave Fullscreen,1408,ဖန်သားပြင်ပြည့်မှ ထွက်ရန်,1409,evince,po/my.po
+Leave fullscreen mode,1412,ဖန်သားပြင်အပြည့် ပုံစံ,1413,evince,po/my.po
+Start Presentation,1416,တင်ပြချက် စရန်,1417,evince,po/my.po
+Start a presentation,1420,တင်ပြချက် တစ်ခုစတင်ပါ,1421,evince,po/my.po
+_Toolbar,1425,_T ကိရိယာဘား,1426,evince,po/my.po
+Show or hide the toolbar,1429,ကိရိယာဘားကို ပြရန် သို့ ဖွက်ရန်,1430,evince,po/my.po
+Side _Pane,1433,_P ဘေးကွက်လပ်,1434,evince,po/my.po
+Show or hide the side pane,1437,ဘေးကွက်လပ်ကို ပြရန် သို့ ဖွက်ရန်,1438,evince,po/my.po
+_Continuous,1441,_C ဆက်တိုက်,1442,evince,po/my.po
+Show the entire document,1445,ဖိုင်တစ်ခုလုံး ပြပါ,1446,evince,po/my.po
+_Dual,1449,_D နှစ်ခုတွဲ,1450,evince,po/my.po
+Show two pages at once,1453,နှစ်မျက်နှာ တစ်ပြိုင်နက်ပြပါ,1454,evince,po/my.po
+_Fullscreen,1457,_F မျက်နှာပြင်ပြည့်,1458,evince,po/my.po
+Expand the window to fill the screen,1461,ဖန်သားပြင်ဖြည့်ရန် ဝင်းဒိုးကို ချဲ့ပါ,1462,evince,po/my.po
+Pre_sentation,1465,_S တင်ပြချက်_s,1466,evince,po/my.po
+Run document as a presentation,1469,ဖိုင်ကို တင်ပြချက်တစ်ခုအဖြစ် လုပ်ပါ,1470,evince,po/my.po
+_Inverted Colors,1473,_I အရောင်ပြောင်း,1474,evince,po/my.po
+Show page contents with the colors inverted,1477,စာမျက်နှာရှိ အကြောင်းအရာများကို အရောင်ပြောင်းများဖြင့်ပြပါ,1478,evince,po/my.po
+_Open Link,1482,_O ကွင်းဆက် ဖွင့်,1483,evince,po/my.po
+_Go To,1486,_G သွားရန်,1487,evince,po/my.po
+Open in New _Window,1490,_W ဝင်းဒိုးအသစ်တွင် ဖွင့်,1491,evince,po/my.po
+_Copy Link Address,1494,_C ကွင်းဆက်လိပ်စာ မိတ္တူကူး,1495,evince,po/my.po
+_Save Image As…,1498,_S ပုံရိပ် သိမ်းရန်…,1499,evince,po/my.po
+Copy _Image,1502,_I ပုံရိပ် မိတ္တူပွား,1503,evince,po/my.po
+Annotation Properties…,1506,စာမှတ် အရည်အသွေး…,1507,evince,po/my.po
+_Open Attachment,1510,_O တွဲထားချက်ဖွင့်,1511,evince,po/my.po
+_Save Attachment As…,1514,_S တွဲထားချက်သိမ်း,1515,evince,po/my.po
+Zoom,1518,မှန်ဘီလူး,1519,evince,po/my.po
+Adjust the zoom level,1522,မှန်ဘီလူး လယ်ဗယ်ညှိ,1523,evince,po/my.po
+Navigation,1526,လမ်းညွှန်,1527,evince,po/my.po
+Back,1530,နောက်,1531,evince,po/my.po
+Move across visited pages,1535,သွားပြီးသော စာမျက်နှာများအား ဖြတ်သန်းရွေ့လျားပါ,1536,evince,po/my.po
+Previous,1540,ရှေ့သို့,1541,evince,po/my.po
+Next,1545,နောက်သို့,1546,evince,po/my.po
+Zoom In,1550,မှန်ဘီလူးချဲ့,1551,evince,po/my.po
+Zoom Out,1555,မှန်ဘီလူးချုံ့,1556,evince,po/my.po
+Fit Width,1560,အံကိုက် အကျယ်,1561,evince,po/my.po
+Unable to launch external application.,1564,ပြင်ပ အက်ပလီကေးရှင်းကို မစနိုင်ပါ,1565,evince,po/my.po
+Unable to open external link,1568,ပြင်ပ ကွင်းဆက်ကို မဖွင့်နိုင်ပါ,1569,evince,po/my.po
+Couldn't find appropriate format to save image,1572,ပုံရိပ်ကို သိမ်းဆည်းရန် ကိုက်ညီသော အမျိုးအစား ရှာမတွေ့ပါ,1573,evince,po/my.po
+The image could not be saved.,1576,ပုံရိပ်ကို မသိမ်းနိုင်ပါ,1577,evince,po/my.po
+Save Image,1580,ပုံရိပ်သိမ်းရန်,1581,evince,po/my.po
+Unable to open attachment,1584,တွဲထားချက်ကို မဖွင့်နိုင်ပါ,1585,evince,po/my.po
+The attachment could not be saved.,1588,တွဲထားချက်ကို မသိမ်းနိုင်ပါ,1589,evince,po/my.po
+Save Attachment,1592,တွဲထားချက်သိမ်းရန်,1593,evince,po/my.po
+%s — Password Required,1597,%s —  စကားဝှက်လိုအပ်သည်,1598,evince,po/my.po
+By extension,1601,တိုးချဲ့မှုအရ,1602,evince,po/my.po
+GNOME Document Viewer,1605,ဂနုမ်းဖိုင် ဖွင့်စရာ,1606,evince,po/my.po
+The page label of the document to display.,1609,ပြသရန် ဖိုင်၏ စာမျက်နှာ အညွှန်းများ,1610,evince,po/my.po
+PAGE,1613,စာမျက်နှာ,1614,evince,po/my.po
+The page number of the document to display.,1617,ပြသရန် ဖိုင်၏စာမျက်နှာနံပါတ်များ,1618,evince,po/my.po
+NUMBER,1621,နံပါတ်,1622,evince,po/my.po
+Run evince in fullscreen mode,1625,အီးဗင့်စ်ကို ဖန်သားပြင်အပြည့်ပုံစံ ဖွင့်ပါ,1626,evince,po/my.po
+Run evince in presentation mode,1629,အီးဗင့်စ်ကို တင်ပြချက်ပုံစံ ဖွင့်ပါ,1630,evince,po/my.po
+Run evince as a previewer,1633,အီးဗင့်စ်ကို ကြိုတင်ကြည့်ပုံစံ ဖွင့်ပါ,1634,evince,po/my.po
+The word or phrase to find in the document,1637,ဖိုင်အတွင်း ရှာဖွေရန် စကားလုံး သို့မဟုတ် စကားစု,1638,evince,po/my.po
+STRING,1641,အတွဲ,1642,evince,po/my.po
+[FILE…],1645,[ဖိုင်…],1646,evince,po/my.po
+File is not a valid .desktop file,26,ဒီ အလုပ်စားပွဲ ဖိုင်က မမှန်ပါ,27,file-roller,po/my.po
+Unrecognized desktop file Version '%s',31,အလုပ်စားပွဲ ဖိုင်ဗားရှင်း %s ကို အသိအမှတ်မပြုနိုင်ပါ,32,file-roller,po/my.po
+Starting %s,36,%sကို အစပြုနေတယ်,37,file-roller,po/my.po
+Application does not accept documents on command line,41,အပ္ပလီကေးရှင်းကစာရွက်စာတမ်းကိုအမိန့်ပေးစာကြောင်းမှာလက်မခံပါ,42,file-roller,po/my.po
+Unrecognized launch option: %d,46,စတင်ဆောင်ရွက်ရန်ရွေးချယ်စရာ: %d ကိုအသိအမှတ်မပြု,47,file-roller,po/my.po
+Can't pass documents to this desktop element,51,စာရွက်စားတမ်းကဒီအလုပ်စားပွဲ အဲလိမန့် ကိုမဖြတ်နိုင်ပါ,52,file-roller,po/my.po
+Not a launchable item,56,စတင်ဆောင်ရွက်လို့မရနိုင်တဲ့အရာပါ,57,file-roller,po/my.po
+Disable connection to session manager,60,ဆက်ရှင်မန်နေဂျာဆီသို့ဆက်သွယ်မှုဖြတ်တောက်ထားပါသည်,61,file-roller,po/my.po
+Specify file containing saved configuration,64,သတ်မှတ်ထားတဲ့ဖိုင်မှာသိမ်းထားတဲ့အစီအစဉ်စနစ်ရှိပါတယ်,65,file-roller,po/my.po
+FILE,68,ဖိုင်,69,file-roller,po/my.po
+Specify session management ID,72,သတ်မှတ်ထားသောဆက်ရှင်ခန့်ခွဲမှုအိုင်ဒီ,73,file-roller,po/my.po
+ID,76,အိုင်ဒီ,77,file-roller,po/my.po
+Session management options:,80,ဆက်ရှင်ခန့်ခွဲမှုရွေးချယ်စရာများ,81,file-roller,po/my.po
+Show session management options,84,ဆက်ရှင်ခန့်ခွဲမှုရွေးချယ်စရာများကိုပြသပါ,85,file-roller,po/my.po
+Archive Manager,89,ဖိုင်ထုပ်မန်နေဂျာ,90,file-roller,po/my.po
+Create and modify an archive,93,ဖိုင်ထုပ်ကိုဖန်တီးပြီးပြုပြင်,94,file-roller,po/my.po
+Load Options,97, ရွေးချယ်စရာများ,98,file-roller,po/my.po
+C_reate,101,_R ဖန်တီးပါ,102,file-roller,po/my.po
+Compress,105,ဖိသိပ်,106,file-roller,po/my.po
+Location,109,တည်နေရာ,110,file-roller,po/my.po
+MB,114,မဂ္ဂါဘိုက်,115,file-roller,po/my.po
+Split into _volumes of,119,_V အရွယ်အစားသို့ခွဲပါ,120,file-roller,po/my.po
+_Encrypt the file list too,124,_E ဒီဖိုင်အစီစဉ်ကိုအမ်ကရိုက်လုပ်ပါ,125,file-roller,po/my.po
+_Filename:,128,_F ဖိုင်အမည်-,129,file-roller,po/my.po
+_Location:,133,_L ဖိုင်တွဲတည်နေရာ-,134,file-roller,po/my.po
+_Other Options,137,_O အခြားရွေးချယ်စရာများ,138,file-roller,po/my.po
+_Password:,142,_P စကားဝှက် -,143,file-roller,po/my.po
+"<span weight=\""bold\"" size=\""larger\"">Password required</span>",146,"<span weight=\""bold\"" size=\""larger\"">စကားဝှက်လိုအပ်ပါသည်</span>",147,file-roller,po/my.po
+Delete,150,ပယ်ဖျက်ပါ,151,file-roller,po/my.po
+_All files,154,_A ဖိုင်အားလုံး,155,file-roller,po/my.po
+_Files:,158,_F ဖိုင်များ,159,file-roller,po/my.po
+_Selected files,162,_S ရွေးချယ်ထားသောဖိုင်များ,163,file-roller,po/my.po
+example: *.txt; *.doc,166,ဥပမာ၊ *.txt; *.doc,167,file-roller,po/my.po
+A_vailable application:,170,_V ရရှိနိုင်သောအပ္ပလီကေးရှင်း-,171,file-roller,po/my.po
+Open Files,174,ဖိုင်ဖွင့်ပါ,175,file-roller,po/my.po
+R_ecent applications:,178,_E လတ်တလောအပ္ပလီကေးရှင်း,179,file-roller,po/my.po
+_Application:,182,_A အပ္ပလီကေးရှင်း-,183,file-roller,po/my.po
+Password,193,စကားဝှက်,194,file-roller,po/my.po
+S_elect the files you want to update:,197,_E အပ်ဒိတ်လုပ်ချင်တဲ့ဖိုင်တွေကိုရွေးချယ်ပေးပါ,198,file-roller,po/my.po
+_Update,212,_U အပ်ဒိတ်,213,file-roller,po/my.po
+Extract Here,216,ဒီနေရာသို့ထုတ်ယူပါ,217,file-roller,po/my.po
+Extract the selected archive to the current position,221,​ရွေးချယ်ထားသောဖိုင်ထုပ်ကိုလက်ရှိနေရာတွင်ထုပ်ယူပါ,222,file-roller,po/my.po
+Extract To...,225,​...သို့ထုတ်ယူပါ,226,file-roller,po/my.po
+Extract the selected archive,229,ရွေးချယ်ထားသောဖိုင်ထုပ်ကိုထုတ်ယူပါ,230,file-roller,po/my.po
+Compress...,233,ဖိသိပ်...,234,file-roller,po/my.po
+Create a compressed archive with the selected objects,237,ရွေးချယ်ထားသောအရာနဲ့ဖိသိပ်ထားသောဖိုင်ထုပ်ကိုဖန်တီးပါ,238,file-roller,po/my.po
+Could not create the archive,244,ဖိုင်ထုပ်ကိုမဖန်တီးနိုင်ပါ,245,file-roller,po/my.po
+You have to specify an archive name.,248,သင့်မှာဖိုင်ထုပ်အမည်သတ်မှတ်ဖို့လိုပါတယ်,249,file-roller,po/my.po
+You don't have permission to create an archive in this folder,252,ဒီဖိုင်တွဲထဲမှာဖိုင်ထုပ်ကိုဖန်တီးဖို့အတွက်သင့်မှာမှန်ကန်တဲ့ခွင့်ပြုချက်မရှိပါဘူး,253,file-roller,po/my.po
+Archive type not supported.,258,ဖိုင်ထုပ်အမျိုးအစားကိုလက်မခံပါ,259,file-roller,po/my.po
+Could not delete the old archive.,262,ဖိုင်ထုပ်အဟောင်းကိုမပယ်ဖျက်နိုင်ပါ,263,file-roller,po/my.po
+Open,266,ဖွင့်ပါ,267,file-roller,po/my.po
+All archives,270,ဖိုင်ထုပ်အားလုံး,271,file-roller,po/my.po
+All files,274,ဖိုင်အားလုံး,275,file-roller,po/my.po
+Last Output,278,နောက်ဆုံးထွက်လာတဲ့အရာ,279,file-roller,po/my.po
+"Copyright © 2001–2010 Free Software Foundation, Inc.",305,"မူပိုင် © ၂၀၀၁-၂၀၁၀ လစ်ဘရီဆော့ဖ်ဝဲအဖွဲ့အစည်း, အိုင်အန်စီ.",306,file-roller,po/my.po
+An archive manager for GNOME.,309,Gnone အတွက်ဖိုင်ထုပ်မန်နေဂျာ,310,file-roller,po/my.po
+Could not add the files to the archive,317,ဖိုင်တွေကိုဖိုင်ထုပ်ထဲသို့ပေါင်းမထည့်နိုင်ပါ,318,file-roller,po/my.po
+"You don't have the right permissions to read files from folder \""%s\""",322,"ဖိုင်တွဲ \""%s\""ထဲကဖိုင်တွေကိုဖတ်ဖို့အတွက်သင့်မှာမှန်ကန်တဲ့ခွင့်ပြုချက်မရှိပါဘူး",323,file-roller,po/my.po
+Add Files,326,ဖိုင်တွေကိုပေါင်းထည့်ပါ,327,file-roller,po/my.po
+Add only if _newer,332,_N အသစ်ဖြစ်နေမှသာပေါင်းထည့်ပါရန်,333,file-roller,po/my.po
+Add a Folder,336,ဖိုင်တွဲတစ်ခုပေါင်းထည့်ပါ,337,file-roller,po/my.po
+_Include subfolders,340,_I ဖိုင်တွဲအခွဲများပါ ပါဝင်ပါသည်,341,file-roller,po/my.po
+Exclude folders that are symbolic lin_ks,344,_K သကေ်တဖြစ်နေတဲ့ဖိုင်တွဲတွေကိုချန်လှပ်ထားပါသည်,345,file-roller,po/my.po
+example: *.o; *.bak,349,ဥပမာ: *.o; *.bak,350,file-roller,po/my.po
+Include _files:,353,_F ဖိုင်တွေ ပါရှိပါသည်,354,file-roller,po/my.po
+E_xclude files:,357,_X ဖိုင်တွေ မပါဝင်ပါ,358,file-roller,po/my.po
+_Exclude folders:,361,_E ဖိုင်တွဲတွေမပါဝင်ပါ,362,file-roller,po/my.po
+_Load Options,365,_L ဆွဲတင်ရန်ရွေးချယ်စရာများ,366,file-roller,po/my.po
+Sa_ve Options,369,_V သိမ်းရာတွင်ရွေးချယ်စရာများ,370,file-roller,po/my.po
+_Reset Options,373,_R ရွေးချယ်စရာများကိုမူလအတိုင်းပြန်ထားပါ,374,file-roller,po/my.po
+Save Options,377,သိမ်းရာတွင်​ရွေးချယ်စရာများ,378,file-roller,po/my.po
+Options Name:,381,ရွေးချယ်စရာများ,382,file-roller,po/my.po
+Enter the password for the archive '%s'.,386,ဖိုင်ထုပ် '%s' အတွက်စကားဝှက်ထည့်ပါ,387,file-roller,po/my.po
+"The name \""%s\"" is not valid because it cannot contain the characters: %s\n\n%s",392,"%s အက္ခရာများ မပါဝင်နိုင်ပါသောကြောင့် နာမည် \""%s\"" ကမမှန်ပါ\n\n%s",396,file-roller,po/my.po
+Please use a different name.,403,ကျေးဇူးပြု၍မတူညီသောနာမည်ကိုအသုံးပြုပါ,404,file-roller,po/my.po
+You don't have the right permissions to create an archive in the destination folder.,407,ရည်ရွယ်ထားတဲ့နေရာမှာ ဖိုင်ထုပ်ကို ဖန်တီးဖို့ သင့်မှာမှန်ကန်တဲ့ခွင့်ပြုချက်မရှိပါဘူး ,410,file-roller,po/my.po
+"Destination folder \""%s\"" does not exist.\n\nDo you want to create it?",414,"ရည်ရွယ်ထားတဲ့ဖိုင်တွဲ \""%s\"" မရှိပါ\nသင်ဒီဟာကိုဖန်တီးဖို့သေချာပြီသား",418,file-roller,po/my.po
+Create _Folder,423,_F ဖိုင်တွဲကို ဖန်တီးပါ,424,file-roller,po/my.po
+Could not create the destination folder: %s.,428,မဖန်တီးနိုင်ပါ ရည်ရွယ်ထားသောဖိုင်တွဲ: %s.,429,file-roller,po/my.po
+Archive not created,432,ဖိုင်ထုပ်မဖန်တီးပါ,433,file-roller,po/my.po
+The archive is already present.  Do you want to overwrite it?,436,ဖိုင်ထုပ်ကနဂိုကတဲကရှိပြီးသားးပါ။ အပေါ်ကနေထပ်ရေးမှာသေချာလား?,437,file-roller,po/my.po
+_Overwrite,440,_O ထပ်ရေးသည်,441,file-roller,po/my.po
+Extraction not performed,445,ထုတ်ယူ၍မရပါ,446,file-roller,po/my.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",450,ဖိုင်ထုပ်ကို %s ဖိုင်တွဲထဲမှာထုပ်ယူဖို့ သင့်မှာမှန်ကန်တဲ့ခွင့်ပြုချက်မရှိပါဘူး,452,file-roller,po/my.po
+Extract,455,ထုတ်ယူပါ,456,file-roller,po/my.po
+Actions,459,ဆောင်ရွက်မှုများ,460,file-roller,po/my.po
+Re-crea_te folders,463,_T ဖိုင်တွဲများကို ပြန်လည်ဖန်တီးပါ,464,file-roller,po/my.po
+Over_write existing files,467,_W ရှိပြီးသားဖိုင်အပေါ်ကနေထပ်မှတ်ပါ,468,file-roller,po/my.po
+Do not e_xtract older files,471,_X ဖိုင်အဟောင်းများကိုမထုတ်ယူပါနဲ့,472,file-roller,po/my.po
+New,476,အသစ်,477,file-roller,po/my.po
+Save,481,သိမ်းပါ,482,file-roller,po/my.po
+There was an internal error trying to search for applications:,485,အပ္ပလီကေးရှင်းတွေကိုရှာနေစဉ်အထဲမှာအမှားဖြစ်လာပါတယ်,486,file-roller,po/my.po
+There is no command installed for %s files.\nDo you want to search for a command to open this file?,490, ဖိုင် %s အတွက် အမိန့်ပေးမှုထည့်သွင်းမထားပါဒီဖိုင်ကိုဖွင့်ဖို့အတွက် သင် အမိန့်ပေးမှုကို ရှာဖွေ မှာလား။,493,file-roller,po/my.po
+Could not open this file type,498,ဒီဖိုင်အမျိုးအစားကိုဖွင့်လို့မရပါ,499,file-roller,po/my.po
+_Search Command,502,_S ရှာဖွေခြင်းအမိန့်ပေးမှု,503,file-roller,po/my.po
+Location:,507,ဖိုင်တည်နေရာ,508,file-roller,po/my.po
+Name:,512,နာမည်-,513,file-roller,po/my.po
+%s Properties,517,%s ဂုဏ်သတ္တိများ,518,file-roller,po/my.po
+Modified on:,521,ပြုပြင်ပါ,522,file-roller,po/my.po
+Archive size:,525,ဖိုင်ထုပ်အရွယ်အစား-,526,file-roller,po/my.po
+Content size:,529,ပါဝင်မှုအရွယ်အစားပမာဏ,530,file-roller,po/my.po
+Compression ratio:,533,ဖိသိပ်ခြင်းအချိုး,534,file-roller,po/my.po
+Number of files:,537,ဖိုင်အရေအတွက်-,538,file-roller,po/my.po
+"Update the file \""%s\"" in the archive \""%s\""?",542,"ဖိုင်ထုပ် \""%s\""? ထဲက \""%s\"" ဖိုင်ကိုအပ်ဒိတ်လုပ်မှာလား?",543,file-roller,po/my.po
+"Update the files in the archive \""%s\""?",547,"ဖိုင်ထုပ် \""%s\"" ထဲကဖိုင်တွေကိုအပ်ဒိတ်လုပ်မှာလား?",548,file-roller,po/my.po
+File _Format: %s,552,_F ဖိုင်ပုံစံ: %s,553,file-roller,po/my.po
+All Files,556,ဖိုင်အားလုံး,557,file-roller,po/my.po
+All Supported Files,560,အထောက်အပံ့ပေးသောဖိုင်အားလုံး,561,file-roller,po/my.po
+By Extension,564,အမျိုးအစားအားဖြင့်,565,file-roller,po/my.po
+File Format,568,ဖိုင်ပုံစံ,569,file-roller,po/my.po
+Extension(s),572,အမျိုးအစား,573,file-roller,po/my.po
+The program was not able to find out the file format you want to use for `%s'. Please make sure to use a known extension for that file or manually choose a file format from the list below.,577,%s အတွက် သင်အသုံးပြုချင်တဲ့ ဖိုင်ပုံစံကို ဒီပရိုဂရမ်ကမရှာနိုင်ပါဘူး ကျေးဇူးပြု၍သေချာအောင်လုပ်ပါ အသုံးပြုဖို့ သိရှိထားသော ဒီဖိုင်အတွက် ဒါမှမဟုတ် ရွေးချယ်ပါအောက်မှာစီထားတဲ့ ဖိုင်ပုံစံကို ရွေးချယ်ပါ,581,file-roller,po/my.po
+File format not recognized,586,ဖိုင်ပုံစံကိုအသိအမှတ်မပြုနိင်ပါ,587,file-roller,po/my.po
+File not found.,590,ဖိုင်ကိုရှာဖွေလို့မတွေ့ပါ,591,file-roller,po/my.po
+The file doesn't exist,595,ဖိုင်ကတည်ရှိမနေပါ,596,file-roller,po/my.po
+You don't have the right permissions.,599,သင့်မှာမှန်ကန်တဲ့ခွင့်ပြုချက်မရှိပါ,600,file-roller,po/my.po
+This archive type cannot be modified,603,ဒီဖိုင်ထုပ်အမျိုးအစားကိုပြုပြင်ဖန်တီးလို့မရပါ,604,file-roller,po/my.po
+You can't add an archive to itself.,607,ဖိုင်ထုပ်ကိုသူ့ထဲသို့မပေါင်းထည့်နိုင်ပါ,608,file-roller,po/my.po
+Adding file: ,613,ဖိုင်ပေါင်းထည့်နေသည်:,614,file-roller,po/my.po
+Extracting file: ,619,အိပ်စတန်းရှင်းဖိုင်: ,620,file-roller,po/my.po
+Removing file: ,624,ဖိုင်ကိုဖယ်ရှားနေသည်:,625,file-roller,po/my.po
+Could not find the volume: %s,629,ဗေါလွန်း %s ကိုရှမတွေ့ပါ,630,file-roller,po/my.po
+Deleting files from archive,633,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုပယ်ဖျက်နေပါတယ်,634,file-roller,po/my.po
+Recompressing archive,637,ဖိုင်ထုပ်ကိုပြန်လည်ဖိသိပ်နေပါသည်,638,file-roller,po/my.po
+_Add,645,_A ပေါင်းထည့်ရန်,646,file-roller,po/my.po
+_Extract,649,_E ထုတ်ယူပါ,650,file-roller,po/my.po
+Folder,669,ဖိုင်တွဲ,670,file-roller,po/my.po
+[read only],673,[ဖတ်ရန်အတွက်သာ],674,file-roller,po/my.po
+"Could not display the folder \""%s\""",678,"ဖိုင်တွဲ \""%s\"" ကိုပြသနိုင်ခြင်းမရှိပါ",679,file-roller,po/my.po
+Creating archive,682,ဖိုင်ထုပ်ကိုဖန်တီးနေပါသည်,683,file-roller,po/my.po
+Reading archive,690,ဖိုင်ိထုပ်ကိုဖတ်နေပါသည်,691,file-roller,po/my.po
+Testing archive,694,ဖိုင်ထုပ်ကိုစမ်းသပ်နေပါသည်,695,file-roller,po/my.po
+Getting the file list,698,ဖိုုင်အစီစဉ်ကိုရယူနေပါသည်,699,file-roller,po/my.po
+Copying the file list,702,ဖိုင်အစီအစဉ်ကိုကူးယူနေပါသည်,703,file-roller,po/my.po
+Adding files to archive,706,ဖိုင်ထုပ်ထဲသို့ဖိုင်များပေါင်းထည့်နေပါသည်,707,file-roller,po/my.po
+Extracting files from archive,710,ဖိုင်ထုပ်ထဲမှဖိုင်များထုတ်ယူနေပါသည်,711,file-roller,po/my.po
+Saving archive,714,ဖိုင်ထုပ်ကိုသိမ်းနေပါသည်,715,file-roller,po/my.po
+_Open the Archive,718,_O ဖိုင်ထုပ်ကိုဖွင့်ပါ,719,file-roller,po/my.po
+_Show the Files,722,_S ဖိုင်တွေကိုပြသပါ,723,file-roller,po/my.po
+Archive:,726,ဖိုင်ထုပ်-,727,file-roller,po/my.po
+Extraction completed successfully,730,ထုတ်ယူခြင်းအောင်မြင်စွာပြီးဆုံးသွားပါပြီ,731,file-roller,po/my.po
+Archive created successfully,734,ဖိုင်ထုပ်ကိုအောင်မြင်စွာဖန်တီးနိင်ပါပြီ,735,file-roller,po/my.po
+please wait...,738,ခေတ္တစောင့်ပါ,739,file-roller,po/my.po
+An error occurred while extracting files.,742,ဖိုင်တွေကိုထုတ်ယူနေစဉ်မှာအမှားပေါ်လာပါတယ်,743,file-roller,po/my.po
+"Could not open \""%s\""",747,"\""%s\"" ကိုမဖွင့်နိုင်ပါ",748,file-roller,po/my.po
+An error occurred while loading the archive.,751,ဖိုင်ထုပ်ကို,752,file-roller,po/my.po
+An error occurred while deleting files from the archive.,755,ဖိုင်ထုပ်ထဲကဖိုင်တွေကိုထုတ်ယူနေစဉ်မှာအမှားပေါ်လာပါသည်,756,file-roller,po/my.po
+An error occurred while adding files to the archive.,759,ဖိုင်ထုပ်ထဲကိုဖိုင်တွေပေါင်းထည့်နေစဉ်မှာအမှားပေါ်လာပါသည်,760,file-roller,po/my.po
+An error occurred while testing archive.,763,ဖိုင်ထုပ်ကိုစပ်းသပ်နေစဉ်မှာအမှားပေါ်လာပါသည်,764,file-roller,po/my.po
+An error occurred while saving the archive.,767,ဖိုင်ထုပ်ကိုသိမ်းနေစဉ်မှာအမှားပေါ်လာပါသည်,768,file-roller,po/my.po
+An error occurred.,771,အမှားပေါ်လာသည်,772,file-roller,po/my.po
+Command not found.,775,အမိန့်ပေးမှုကိုမတွေ့ရှိပါ။,776,file-roller,po/my.po
+Command exited abnormally.,779,အမိန့်ပေးမှုကပုံမှန်မဟုတ်ဘဲထွက်သွားပါသည်,780,file-roller,po/my.po
+Test Result,783,စမ်းသပ်မှုရလဒ်,784,file-roller,po/my.po
+Could not perform the operation,788,စီမံခန့်ခွဲမှုကိုမဆောင်ရွက်နိုင်ပါ,789,file-roller,po/my.po
+Do you want to create a new archive with these files?,798,သင်ဒီဖိုင်တွေနဲ့ဖိုင်ထုပ်အသစ်ကိုဖန်တီးမှာသေချာလား?,799,file-roller,po/my.po
+Create _Archive,802,_A ဖိုင်ထုပ်အသစ်ဖန်တီးပါ,803,file-roller,po/my.po
+Folders,806,ဖိုင်တွဲများ,807,file-roller,po/my.po
+Size,811,အရွယ်အစား,812,file-roller,po/my.po
+Type,816,အမျိုးအစား,817,file-roller,po/my.po
+Date Modified,821,ပြုပြင်ခဲ့သည့်ရက်,822,file-roller,po/my.po
+Location,826,တည်နေရာ,827,file-roller,po/my.po
+Name,831,အမည်,832,file-roller,po/my.po
+Find:,835,ရှာပါ-,836,file-roller,po/my.po
+Close the folders pane,839,ဖိုင်တွဲပိန်းကိုပိတ်ပါ,840,file-roller,po/my.po
+Open archive,844,ဖိုင်ထုပ်ကိုဖွင့်ပါ,845,file-roller,po/my.po
+Open a recently used archive,848,လတ်တလောအသုံးပြုထားသော ဖိုင်ထုပ်များ,849,file-roller,po/my.po
+"Could not save the archive \""%s\""",853,"ဖိုင်ထုပ် \""%s\"" ကိုမသိမ်းနိုင်ပါ",854,file-roller,po/my.po
+The new name is void.,858,အမည်အသစ်ကဗွိုက်ဖြစ်ပါတယ်,859,file-roller,po/my.po
+The new name is equal to the old one.,863,အမည်အသစ်နဲ့ အဟောင်းတူနေပါတယ်,864,file-roller,po/my.po
+"A folder named \""%s\"" already exists.\n\n%s",868,"ဖိုင်တွဲနာမည် \""%s\"" ကရှိပြီးသားပါ\n%s",872,file-roller,po/my.po
+"A file named \""%s\"" already exists.\n\n%s",878,"ဖိုင်နာမည် \""%s\"" ကရှိပြီးသားပါ\n%s",882,file-roller,po/my.po
+Rename,887,အမည်ပြောင်းပါ,888,file-roller,po/my.po
+New folder name,891,ဖိုင်တွဲအမည်အသစ်,892,file-roller,po/my.po
+New file name,895,ဖိုင်အမည်အသစ်,896,file-roller,po/my.po
+_Rename,899,_R အမည်ပြောင်းပါ,900,file-roller,po/my.po
+Could not rename the folder,903,ဖိုင်တွဲကိုအမည်မပြောင်းနိုင်ပါ,904,file-roller,po/my.po
+Could not rename the file,907,ဖိုင်ကိုအမည်မပြောင်းနိုင်ပါ,908,file-roller,po/my.po
+Paste Selection,911,ရွေးချယ်မှု,912,file-roller,po/my.po
+Destination folder,915,သတ်မှတ်ထားသောဖိုင်တွဲ,916,file-roller,po/my.po
+Add files to an archive,919,ဖိုင်တွဲထဲသို့ဖိုင်များပေါင်းထည့်ပါ,920,file-roller,po/my.po
+Extract archive,923,ဖိုင်တွဲကိုထုတ်ယူပါ,924,file-roller,po/my.po
+Command _Line Output,935,_L အမိန့်ပေးစာကြောင်းထွက်ရှိရာ,936,file-roller,po/my.po
+Could not display help,939,အကူအညီကိုပြသမပေးနိုင်ပါ,940,file-roller,po/my.po
+7-Zip (.7z),943,၇-ဇစ်,944,file-roller,po/my.po
+Add files to the specified archive and quit the program,1055,သီးခြားဖိုင်ထုပ်ထဲသို့ဖိုင်တွေကိုပေါင်းထည့်ပါ။ ပြီးရင်ပရိုဂရမ်မှထွက်ပါ။,1056,file-roller,po/my.po
+ARCHIVE,1059,ဖိုင်ထုပ်,1060,file-roller,po/my.po
+Add files asking the name of the archive and quit the program,1063,ဖိုင်ထုပ်နာမည်ကိုမေးပြီးဖိုင်တွေကိုပေါင်းထည့်ပါ။ ပြီးရင်ပရိုဂရမ်မှထွက်ပါ။,1064,file-roller,po/my.po
+Extract archives to the specified folder and quit the program,1067,ဖိုင်ထုပ်ကိုသီးခြားဖိုင်တွဲထဲသို့ထုတ်ယူပါ။ ပြီးရင်ပရိုဂရမ်မှထွက်ပါ။,1068,file-roller,po/my.po
+FOLDER,1071,ဖိုင်တွဲ,1072,file-roller,po/my.po
+Extract archives asking the destination folder and quit the program,1075,ရည်ရွက်ထားသောဖိုင်တွဲကိုမေးပြီး ဖိုင်ထုပ်ကိုထုတ်ယူပါ။ ပြီးရင်ပရိုဂရမ်မှထွက်ပါ။,1076,file-roller,po/my.po
+Default folder to use for the '--add' and '--extract' commands,1085,ဖိုင်တွဲ အသုံးပြုရန် ,1086,file-roller,po/my.po
+Create destination folder without asking confirmation,1089,အတည်ပြုမှုမေးမြန်းခြင်းမရှိပဲနဲ့ ရည်ရွယ်ထားတဲ့ဖိုင်တွဲကိုတည်ဆောက်ပါ,1090,file-roller,po/my.po
+- Create and modify an archive,1093,- ဖိုင်ထုပ်ကိုဖန်တီးပြီးပြုပြင်ပါ,1094,file-roller,po/my.po
+File Roller,1097,ဖိုင်ဒလိမ့်တုန်း,1098,file-roller,po/my.po
+_Archive,1101,_A ဖိုင်ထုပ်,1102,file-roller,po/my.po
+_Edit,1105,_E တည်းဖြတ်,1106,file-roller,po/my.po
+_View,1109,_V မြင်ကွင်း,1110,file-roller,po/my.po
+_Help,1113,_H အကူအညီ,1114,file-roller,po/my.po
+_Arrange Files,1117,_A ဖိုင်တွေကိုစီစဉ်ပါ,1118,file-roller,po/my.po
+Open _Recent,1122,_R ယခင်အသုံးပြုခဲ့သောဖိုင်ကိုဖွင့်ပါ။,1123,file-roller,po/my.po
+Information about the program,1126,ပရိုဂရမ်နဲ့ပတ်သက်တဲ့အချက်အလက်တွေ,1127,file-roller,po/my.po
+_Add Files...,1130,_A ဖိုင်တွေကိုပေါင်းထည့်ရန်,1131,file-roller,po/my.po
+Add files to the archive,1134,ဖိုင်ထုပ်ထဲသို့ ဖိုင်များ ပေါင်းထည့်ပါ,1135,file-roller,po/my.po
+Add a _Folder...,1138,_F ဖိုင်တွဲတစ်ခုပေါင်းထည့်ပါ,1139,file-roller,po/my.po
+Add a folder to the archive,1142,ဖိုင်ထုပ်ထဲသို့ဖိုင်တွဲတစ်ခုပေါင်းထည့်ပါ,1143,file-roller,po/my.po
+Add Folder,1146,ဖိုင်တွဲတစ်ခုပေါင်းထည့်ပါ,1147,file-roller,po/my.po
+Close the current archive,1150,လက်ရှိဖိုင်ထုပ်ကိုပိတ်ပါ,1151,file-roller,po/my.po
+Contents,1154,မာတိကာ,1155,file-roller,po/my.po
+Display the File Roller Manual,1158,ပြသပါ   ,1159,file-roller,po/my.po
+Copy the selection,1162,ရွေးချယ်ထားသည်များကိုကူးယူပါ,1163,file-roller,po/my.po
+Cut the selection,1166,ရွေးချယ်ထားသည်များကိုဖြတ်ယူပါ,1167,file-roller,po/my.po
+Paste the clipboard,1170,ကလစ်ဘုတ်,1171,file-roller,po/my.po
+_Rename...,1174,_R _ အမည်ပြောင်းပါ...,1175,file-roller,po/my.po
+Rename the selection,1178,ရွေးချယ်ထာသည်များကိုအမည်ပြောင်းပါ,1179,file-roller,po/my.po
+Delete the selection from the archive,1182,ရွေးချယ်ထားသည်များကိုဖိုင်ထုပ်ထဲမှပယ်ဖျက်ပါ,1183,file-roller,po/my.po
+Dese_lect All,1186,_L အားလုံးကိုပယ်ဖျက်ပါ,1187,file-roller,po/my.po
+Deselect all files,1190,ဖိုင်များအားလုံးကိုမရွေးမှတ်တော့ပါ,1191,file-roller,po/my.po
+_Extract...,1194,_E ဖြည်ချရန်...,1195,file-roller,po/my.po
+Extract files from the archive,1198,ဖိုင်ထုပ်ထဲမှဖိုင်တွေကိုထုတ်ယူပါ,1199,file-roller,po/my.po
+Find...,1202,ရှာဖွေပါ...,1203,file-roller,po/my.po
+_Last Output,1206,_L နောက်ဆုံးထွက်ရှိရှာ,1207,file-roller,po/my.po
+View the output produced by the last executed command,1210,နောက်ဆုံး,1211,file-roller,po/my.po
+New...,1215,အသစ်...,1216,file-roller,po/my.po
+Create a new archive,1219,ဖိုင်ထုပ်အသစ်ကိုဖန်တီးပါ,1220,file-roller,po/my.po
+Open...,1224,ဖွင့်ပါ...,1225,file-roller,po/my.po
+_Open With...,1228,_O ..ဖြင့်ဖွင့်ပါ,1229,file-roller,po/my.po
+Open selected files with an application,1232,ရွေးချယ်ထားတဲ့ဖိုင်တွေကိုအပ္ပလီကေးရှင်းနဲ့ဖွင့်ပါ,1233,file-roller,po/my.po
+Pass_word...,1236,_W စကားဝှက်...,1237,file-roller,po/my.po
+Specify a password for this archive,1240,ဖိုင်ထုပ်အတွက်စကားဝှက်ကိုသတ်မှတ်ပါ,1241,file-roller,po/my.po
+Show archive properties,1244,ဖိုင်ထုပ်အရည်အသွေးများကိုပြသပါ,1245,file-roller,po/my.po
+Reload current archive,1248,လက်ရှိဖိုင်ထုပ်ကိုပြန်ဆွဲတင်ပါ,1249,file-roller,po/my.po
+Save As...,1253,ပြောင်းသိမ်းရန်...,1254,file-roller,po/my.po
+Save the current archive with a different name,1257,လက်ရှိဖိုင်ထုပ်ကိုအမည်နောက်တစ်မျိုးနဲ့သိမ်းပါ,1258,file-roller,po/my.po
+Select all files,1261,ဖိုင်များအားလုံးကိုရွေးချယ်ပါ,1262,file-roller,po/my.po
+Stop current operation,1265,လက်ရှိလုပ်ဆောင်နေသောလုပ်ဆောင်ချက်ကိုရပ်တန့်ပါ,1266,file-roller,po/my.po
+_Test Integrity,1269,_T ဖိုင်တည်မြဲမှုစစ်ပါ,1270,file-roller,po/my.po
+Test whether the archive contains errors,1273,စမ်းသပ်ပါ ဖိုင်ထုပ်မှာပါနေတဲ့အမှားတွေကိုစမ်းသတ်ပါ,1274,file-roller,po/my.po
+Open the selected file,1277,ရွေးချယ်ထားသောဖိုင်ကိုဖွင့်ပါ,1278,file-roller,po/my.po
+Open the selected folder,1281,ရွေးချယ်ထားသောဖိုင်တွဲကိုဖွင့်ပါ,1282,file-roller,po/my.po
+Go to the previous visited location,1285,နောက်ဆုံးသွားရောက်ခဲ့တဲ့နေရာသို့သွားပါ,1286,file-roller,po/my.po
+Go to the next visited location,1289,နောကရောက်ရှိမဲ့နေရာသို့သွားပါ,1290,file-roller,po/my.po
+Go up one level,1293,အဆင့်တစ်သို့သွားပါ,1294,file-roller,po/my.po
+Go to the home location,1298,ပင်မဖိုင်တွဲသို့သွားပါ,1299,file-roller,po/my.po
+_Toolbar,1302,_T တန်ဆာပလာတန်း,1303,file-roller,po/my.po
+View the main toolbar,1306,တန်ဆာပလာတန်းကို ပြပါ,1307,file-roller,po/my.po
+Stat_usbar,1310,_U အခြေအနေပြဘားတန်း,1311,file-roller,po/my.po
+View the statusbar,1314,အခြေအနေပြဘားတန်းကို ပြပါ,1315,file-roller,po/my.po
+_Reversed Order,1318,_R ပြောင်းပြန်အမိန့်ပေးမှု,1319,file-roller,po/my.po
+Reverse the list order,1322,အစီအစဉ်ကိုပြောင်းပြန်စီပါ,1323,file-roller,po/my.po
+_Folders,1326,_F ဖိုင်တွဲများ,1327,file-roller,po/my.po
+View the folders pane,1330,ဖိုင်တွဲခြမ်းကို ပြပါ,1331,file-roller,po/my.po
+View All _Files,1334,_F ဖိုင်များအားလုံးကို ကြည့်ရန်,1335,file-roller,po/my.po
+View as a F_older,1338,_O ဖိုင်တွဲအလိုက် ကြည့်ရန်,1339,file-roller,po/my.po
+by _Name,1342,_N နာမည်အလိုက်,1343,file-roller,po/my.po
+Sort file list by name,1346,နာမည်အလိုက် ဖိုင်များကိုစီပါ,1347,file-roller,po/my.po
+by _Size,1350,_S အရွယ်အစားအလိုက်,1351,file-roller,po/my.po
+Sort file list by file size,1354,ဖိုင်အရွယ်အစားအလိုက်ဖိုင်တွေကိုစီပါ,1355,file-roller,po/my.po
+by T_ype,1358,_Y အမျိုးအစားအလိုက်,1359,file-roller,po/my.po
+Sort file list by type,1362,အမျိုးအစားအလိုက်ဖိုင်တွေကိုစီပါ,1363,file-roller,po/my.po
+by _Date Modified,1366,_D ပြုပြင်လိုက်သောရက်စွဲအားဖြင့်,1367,file-roller,po/my.po
+Sort file list by modification time,1370,ဖိုင်တွေကိုပြုပြင်ထားသောအချိန်အားဖြင့်,1371,file-roller,po/my.po
+by _Location,1375,_L တည်နေရာအလိုက်,1376,file-roller,po/my.po
+Sort file list by location,1380,တည်နေရာအလိုက် ဖိုင်များကိုစီပါ,1381,file-roller,po/my.po
+Edit text files,24,စာသားဖိုင်များပြင်ဆင်ရန်,25,gedit,po/my.po
+Text Editor,28,စာသားအယ်ဒီတာ,29,gedit,po/my.po
+gedit Text Editor,36,gedit စာသားအယ်ဒီတာ,37,gedit,po/my.po
+Active plugins,46,အပိုဆောင်းတန်ဆာပလာများကို အတည်ပြု,47,gedit,po/my.po
+Automatic indent,50,အလိုအလျောက် indent ထည့်,51,gedit,po/my.po
+Automatically Detected Encodings,54,အက္ခရာဆိုင်ရာ ဖော်ပြခြင်းနည်းစနစ်ကို အလိုအလျောက် သိရှိခြင်း,55,gedit,po/my.po
+Autosave,58,အလိုလျောက်သိမ်းဆည်း,59,gedit,po/my.po
+Autosave Interval,62,အကြား အလိုလျောက်သိမ်းဆည်း,63,gedit,po/my.po
+Body Font for Printing,66,စာထုတ်ရန် ကိုယ်ထည် စာလုံးဖောင့်,67,gedit,po/my.po
+Bottom Panel is Visible,70,အောက်ဘက်ခြမ်း ဘောင်ကွက်သည် မြင်နေရသည်,71,gedit,po/my.po
+Create Backup Copies,74,မိတ္တူပွား တစ်ခု ဖန်တီး,75,gedit,po/my.po
+Display Line Numbers,78,လိုင်းနံပါတ်များကို ဖော်ပြ,79,gedit,po/my.po
+Display Right Margin,82,ညာဘက် မျဉ်းဘောင်ကို ဖော်ပြ,83,gedit,po/my.po
+Editor Font,86,အယ်ဒီတာဖောင့်,87,gedit,po/my.po
+Enable Search Highlighting,90,အရောင်မျဉ်းဖြင့် ရှာနိုင်အောင် ပြုလုပ်,91,gedit,po/my.po
+Enable Syntax Highlighting,94,စာလုံး၊စာသားများ အရောင်မျဉ်းတားခြင်း ပြုလုပ်,95,gedit,po/my.po
+Encodings shown in menu,98,မီနျူးတွင်ဖော်ပြထားသော စာလုံးဖော်ပြစနစ်,99,gedit,po/my.po
+Header Font for Printing,102,စာထုတ်ဖို့ ခေါင်းစဉ်ဖောင့်,103,gedit,po/my.po
+Highlight Current Line,106,လက်ရှိလိုင်းကို အရောင်မျဉ်းတား,107,gedit,po/my.po
+Highlight Matching Bracket,110,ကိုက်ညီသော ကွင်းကို အရောင်မျဉ်းဖြင့်ပြ,111,gedit,po/my.po
+"If this value is 0, then no line numbers will be inserted when printing a document. Otherwise, gedit will print line numbers every such number of lines.",114,တနည်းအားဖြင့်,118,gedit,po/my.po
+Maximum Number of Undo Actions,151,နောက်ပြန်ပြုလုပ်ခြင်း၏ အမြင့်ဆုံးဂဏန်းအရေတွက်,152,gedit,po/my.po
+Maximum Recent Files,155,လတ်တစ်လောဖိုင်များ၏ အမြင့်ဆုံး အရေတွက်,156,gedit,po/my.po
+"Maximum number of actions that gedit will be able to undo or redo. Use \""-1\"" for unlimited number of actions.",159,"\""-1\"" ကိုအသုံးပြုပါ",162,gedit,po/my.po
+Print Header,189,ခေါင်းကြီးပိုင်းကို စာထုတ်,190,gedit,po/my.po
+Print Line Numbers,193,လိုင်းနံပါတ်များကို စာထုတ်,194,gedit,po/my.po
+Print Syntax Highlighting,197,အရောင်မျဉ်းတားထားသော စာသား၊ စာလုံးများကို စာထုတ်,198,gedit,po/my.po
+Right Margin Position,209,ညာဘက် မျဉ်းဘောင်အနေအထား,210,gedit,po/my.po
+Side Pane is Visible,225,ဘေးကွက် သည် မြင်နေရသည်,226,gedit,po/my.po
+Status Bar is Visible,302,အခြေအနေပြ ဘားတန်းသည် မြင်နေရသည်,303,gedit,po/my.po
+Use Default Font,340,မူရင်း ဖောင့်ကို အသုံးပြု,341,gedit,po/my.po
+Log Out _without Saving,455,_W မသိမ်းပဲ ထွက်ပါ,456,gedit,po/my.po
+_Cancel Logout,459,_C မထွက်တော့,460,gedit,po/my.po
+Close _without Saving,463,_W မသိမ်းဘဲ ပိတ်ပါ,464,gedit,po/my.po
+Question,467,မေးခွန်း,468,gedit,po/my.po
+"If you don't save, changes from the last minute will be permanently lost.",480,မသိမ်းဘူးဆိုရင် နောက်ဆုံးမိနစ်မှာ ပြောင်းခဲ့တာတွေ အကုန်ပျောက်သွားလိမ့်မယ်,482,gedit,po/my.po
+Docum_ents with unsaved changes:,554,_E မသိမ်းဆည်းထားသော စာရွက်စာတမ်းများ,555,gedit,po/my.po
+S_elect the documents you want to save:,558,_E သိမ်းလိုသော စာရွက်စာတမ်းများကို ရွေးပါ:,559,gedit,po/my.po
+Character Encodings,566,အက္ခရာဆိုင်ရာ ဖော်ပြခြင်းနည်းစနစ်များ,567,gedit,po/my.po
+_Description,571,_D _ဖော်ပြချက်,572,gedit,po/my.po
+_Encoding,576,_E _အက္ခရာဖော်ပြခြင်းနည်းစနစ်,577,gedit,po/my.po
+Character encodings,584,အက္ခရာဆိုင်ရာ ဖော်ပြခြင်းနည်းစနစ်များ,585,gedit,po/my.po
+E_ncodings shown in menu:,588,_N မီနျူးတွင် ဖော်ပြထားသော အက္ခရာဖော်ပြခြင်းနည်းစနစ်,589,gedit,po/my.po
+All Files,618,ဖိုင်များ အားလုံး,619,gedit,po/my.po
+gedit Preferences,627,gedit အပြင်အဆင်များ,628,gedit,po/my.po
+Line Numbers,708,လိုင်းနံပါတ်များ,709,gedit,po/my.po
+Pick the editor font,712,စာသားတည်းဖြတ် အယ်ဒီတာအတွက် ဖောင့်ရွေး,713,gedit,po/my.po
+Plugins,716,ဖြည့်စွက်ကိရိယာ,717,gedit,po/my.po
+Preferences,720,အပြင်အဆင်,721,gedit,po/my.po
+Right Margin,724,ညာဘက် မျဉ်းဘောင်,725,gedit,po/my.po
+View,737,မြင်ကွင်း,738,gedit,po/my.po
+_Add...,741,_A ပေါင်းထည့်,742,gedit,po/my.po
+_Display line numbers,750,_D လိုင်းနံပါတ်များကို ဖော်ပြ,751,gedit,po/my.po
+_minutes,766,_M မိနစ်များ,767,gedit,po/my.po
+Replace,771,အစားထိုး,772,gedit,po/my.po
+Find,775,ရှာဖွေရေး,776,gedit,po/my.po
+Replace _All,779,_A အားလုံး အစားထိုး,780,gedit,po/my.po
+_Replace,784,_R အစားထိုးရန်,785,gedit,po/my.po
+Replace All,792,အားလုံးအစားထိုး,793,gedit,po/my.po
+Replace _with: ,796,_W အကျယ်ဖြင့် အစားထိုး,797,gedit,po/my.po
+_Match case,804,_M ကိုက်ညီသော စကားလုံး,805,gedit,po/my.po
+_Search for: ,808,_S အတွက် ရှာဖွေရန်,809,gedit,po/my.po
+Show the application's version,816,အပ္ပလီကေးရှင်း၏ ဗားရှင်းကို ဖော်ပြ,817,gedit,po/my.po
+Set the character encoding to be used to open the files listed on the command line,820,လိုင်း,823,gedit,po/my.po
+ENCODING,826,အက္ခရာဖော်ပြခြင်းနည်းစနစ်,827,gedit,po/my.po
+Display list of possible values for the encoding option,830,အက္ခရာဖော်ပြခြင်း နည်းစနစ် ပြင်ဆင်စရာ အတွက် ဖြစ်နိုင်ခြေရှိသော တန်ဖိုး စာရင်းကို ဖော်ပြ,831,gedit,po/my.po
+Create a new top-level window in an existing instance of gedit,834,လက်ရှိရှိနေသော gedit ၏ အမြင့်ဆုံးအဆင့် ဝင်းဒိုးအသစ်ကို ဖန်တီး,835,gedit,po/my.po
+Create a new document in an existing instance of gedit,838,လက်ရှိရှိနေသော gedit ၏ စာရွက်စာတမ်း အသစ်ကို ဖန်တီး,839,gedit,po/my.po
+[FILE...],842,[ဖိုင်. . .],843,gedit,po/my.po
+%s: invalid encoding.\n,847,%s: အကျုံးမဝင်သော အက္ခရာဖော်ပြခြင်းစနစ် \n,848,gedit,po/my.po
+- Edit text files,852,- စာသားဖိုင်များကို တည်းဖြတ်,853,gedit,po/my.po
+Open Files,875,ဖိုင်များ ဖွင့်,876,gedit,po/my.po
+"The file \""%s\"" is read-only.",880,"ဤဖိုင် \""%s\"" သည် ဖတ်ဖို့ သက်သက်",881,gedit,po/my.po
+Do you want to try to replace it with the one you are saving?,884,ဤဖိုင်ကို သိမ်းဆည်းထားပြီးထား ဖိုင်နှင့် အစားထိုးလိုပါသလား။,885,gedit,po/my.po
+Saving file '%s'…,889,ဖိုင် သိမ်းနေသည် '%s'…,890,gedit,po/my.po
+Save As…,893,အသစ် သိမ်းဆည်း,894,gedit,po/my.po
+Reverting the document '%s'…,898,စာရွက်စာတမ်းကို နဂိုအတိုင်း ပြန်လည်ပြုလုပ်ခြင်း '%s'…,899,gedit,po/my.po
+Revert unsaved changes to document '%s'?,903,မသိမ်းဆည်းထားသော စာရွက်စာတမ်း အပြောင်းအလဲကို နဂိုအတိုင်း ပြန်ပြောင်း '%s'?,904,gedit,po/my.po
+Changes made to the document in the last %ld second will be permanently lost.,908,နောက်ဆုံး %ld စက္ကန့် အတွင်း စာရွက်စာတမ်း အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားလိမ့်မည်။,913,gedit,po/my.po
+Changes made to the document in the last minute will be permanently lost.,917,နောက်ဆုံမိနစ်အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားလိမ့်မည်။,919,gedit,po/my.po
+Changes made to the document in the last minute and %ld second will be permanently lost.,923,နောက်ဆုံး %ld မိနစ်  အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားလိမ့်မည်။,929,gedit,po/my.po
+Changes made to the document in the last %ld minute will be permanently lost.,934,နောက်ဆုံး %ld မိနစ် အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားလိမ့်မည်။,939,gedit,po/my.po
+Changes made to the document in the last hour will be permanently lost.,943,နောက်ဆုံး နာရီ အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင်  ပျောက်ပျက်သွားလိမ့်မည်,944,gedit,po/my.po
+Changes made to the document in the last hour and %d minute will be permanently lost.,948,နောက်ဆုံး နာရီ နှင့် %Id မိနစ် အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားလိမ့်မည်။,954,gedit,po/my.po
+Changes made to the document in the last %d hour will be permanently lost.,960,နောက်ဆုံး %Id နာရီ အတွင်း စာရွက်စာတမ်းကို အပြောင်းလဲ ပြုလုပ်ခြင်းသည် အပြီးပိုင် ပျောက်ပျက်သွားမည်,964,gedit,po/my.po
+_Revert,968,_R နဂိုမူလအတိုင်း,969,gedit,po/my.po
+gedit is a small and lightweight text editor for the GNOME Desktop,972,gedit သည် GNOME Desktop အတွက်  သေးငယ်ပြီး ပေါ့ပါးသော စာသား အယ်ဒီတာ ဖြစ်သည်။,973,gedit,po/my.po
+Found and replaced %d occurrence,981,တွေ့ရှိချက်များကို ရှာဖွေ ပြီး အစားထိုး %d,983,gedit,po/my.po
+Found and replaced one occurrence,986,တွေ့ရှိချက်များကို ရှာဖွေပြီး အစားထိုး,987,gedit,po/my.po
+"\""%s\"" not found",993,"\""%s\"" မတွေ့ပါ",994,gedit,po/my.po
+Unsaved Document %d,998,မသိမ်းဆည်းရသေးသော စာရွက်စာတမ်း %dခု,999,gedit,po/my.po
+Read-Only,1003,ဖတ်ရုံသက်သက်,1004,gedit,po/my.po
+Documents,1007,စာရွက်စာတမ်းများ,1008,gedit,po/my.po
+Unicode,1014,ယူနီကုဒ်,1015,gedit,po/my.po
+Western,1019,အနောက်တိုင်း,1020,gedit,po/my.po
+Central European,1024,ဥရောပ အလယ်ပိုင်း,1025,gedit,po/my.po
+South European,1028,ဥရောပ တောင်ပိုင်း,1029,gedit,po/my.po
+Baltic,1033,ဘော့လ်တစ်,1034,gedit,po/my.po
+Cyrillic,1039,ဆီရီလစ်,1040,gedit,po/my.po
+Arabic,1044,အာရဗီ,1045,gedit,po/my.po
+Greek,1048,ဂရိ,1049,gedit,po/my.po
+Hebrew Visual,1052,ဟီဘရူး,1053,gedit,po/my.po
+Turkish,1057,တူရကီ,1058,gedit,po/my.po
+Nordic,1061,နောဒစ်,1062,gedit,po/my.po
+Celtic,1065,ဆဲလ်တစ်,1066,gedit,po/my.po
+Romanian,1069,ရိုမေနီယန်း,1070,gedit,po/my.po
+Armenian,1073,အာမေနီယန်း,1074,gedit,po/my.po
+Chinese Traditional,1078,တရုတ် ရိုးရာ,1079,gedit,po/my.po
+Cyrillic/Russian,1082,ဆီရီလစ်/ရုရှ,1083,gedit,po/my.po
+Japanese,1088,ဂျပန်,1089,gedit,po/my.po
+Korean,1093,ကိုရီးယား,1094,gedit,po/my.po
+Chinese Simplified,1098,တရုတ်,1099,gedit,po/my.po
+Georgian,1102,ဂျော်ဂျီယာ,1103,gedit,po/my.po
+Hebrew,1106,ဟီဘရူး,1107,gedit,po/my.po
+Cyrillic/Ukrainian,1110,ဆီရီလစ်/ယူကရိန်း,1111,gedit,po/my.po
+Vietnamese,1115,ဗီယက်နမ်,1116,gedit,po/my.po
+Thai,1119,ထိုင်း,1120,gedit,po/my.po
+Unknown,1123,အမည်မသိ,1124,gedit,po/my.po
+Automatically Detected,1127,အလိုလျောက် သိရှိ,1128,gedit,po/my.po
+Current Locale (%s),1133,လက်ရှိ ဒေသန္တရ ဘာသာစကား (%s),1134,gedit,po/my.po
+Add or Remove...,1137,ပေါင်းထည့် သို့ ဖယ်ထုတ်...,1138,gedit,po/my.po
+All Text Files,1141,စာသားဖိုင်အားလုံး,1142,gedit,po/my.po
+C_haracter Encoding:,1145,_H အက္ခရာ အန်ကုဒ်ဒင်း,1146,gedit,po/my.po
+L_ine Ending:,1149,_I လိုင်းအဆုံး,1150,gedit,po/my.po
+There was an error displaying the help.,1165,အကူညီ ဖော်ပြခြင်း အမှား ဖြစ်နေပါသည်။,1166,gedit,po/my.po
+_Retry,1172,_R ပြန်ကြိုးစားပါ။,1173,gedit,po/my.po
+Could not find the file %s.,1177,ဖိုင် %s ကိုရှာမတွေ့ပါ,1178,gedit,po/my.po
+Please check that you typed the location correctly and try again.,1183,ရိုက်ထည့်လိုက်သော တည်နေရာမှန်ကို စစ်ဆေးပြီး၊ ,1184,gedit,po/my.po
+The file is too big.,1238,ဖိုင်အရမ်းကြီး နေသည်,1239,gedit,po/my.po
+_About,1494,_A အကြောင်းအရာ,1495,gedit,po/my.po
+C_onfigure,1498,_O ပုံစံပြင်,1499,gedit,po/my.po
+_File,1771,_F ဖိုင်,1772,gedit,po/my.po
+_Edit,1775,_E တည်းဖြတ်,1776,gedit,po/my.po
+_View,1779,_V မြင်ကွင်း,1780,gedit,po/my.po
+_Search,1783,_S ရှာဖွေရေး,1784,gedit,po/my.po
+_Tools,1787,_T တန်ဆာပလာ,1788,gedit,po/my.po
+_Documents,1791,_D စာရွက်စာတမ်း,1792,gedit,po/my.po
+_Help,1795,_H အကူအညီ,1796,gedit,po/my.po
+Create a new document,1799,စာရွက်စာတမ်း အသစ်ဖန်တီး,1800,gedit,po/my.po
+_Open...,1803,_O ဖွင့်,1804,gedit,po/my.po
+Open a file,1807,ဖိုင်ဖွင့်,1808,gedit,po/my.po
+Pr_eferences,1812,_E အပြင်အဆင်များ,1813,gedit,po/my.po
+_Contents,1821,_C မာတိကာ,1822,gedit,po/my.po
+Open the gedit manual,1825,gedit သုံးစွဲနည်းလမ်းညွှန်ကို ဖွင့်ပါ,1826,gedit,po/my.po
+About this application,1829,ဤ အက်ပလီကေးရှင်း အကြောင်း,1830,gedit,po/my.po
+Leave fullscreen mode,1833,မျက်နှာပြင် အပြည့်မှ ထွက်ပါ,1834,gedit,po/my.po
+Save the current file,1837,လက်ရှိဖိုင်ကို သိမ်းပါ,1838,gedit,po/my.po
+Save _As...,1841,_A ပြောင်းသိမ်းရန်...,1842,gedit,po/my.po
+Save the current file with a different name,1845,တစ်ခြားနာမည်ဖြင့် လက်ရှိဖိုင်ကို သိမ်းဆည်း,1846,gedit,po/my.po
+Revert to a saved version of the file,1849,သိမ်းဆည်းထားပြီး ဖိုင်၏ ဗားရှင်းသို့ နဂိုအသွင်ပြန်ပြောင်း,1850,gedit,po/my.po
+Page Set_up...,1853,_U စာမျက်နှာ အပြင်အဆင်,1854,gedit,po/my.po
+Set up the page settings,1857,စာမျက်နှာပြင်ဆင်သည့် အပြင်အဆင်,1858,gedit,po/my.po
+Print Previe_w,1861,_W စာမထုတ်မှီ မြင်ကွင်း,1862,gedit,po/my.po
+Print preview,1865,စာမထုတ်မှီမြင်ကွင်း,1866,gedit,po/my.po
+_Print...,1869,_P စာထုတ်,1870,gedit,po/my.po
+Print the current page,1873,လက်ရှိစာမျက်နှာကို စာထုတ်,1874,gedit,po/my.po
+Undo the last action,1877,နောက်ဆုံး လုပ်ဆောင်ချက်ကို မပြုလုပ်တော့,1878,gedit,po/my.po
+Redo the last undone action,1881,နောက်ဆုံး လုပ်ဆောင်ချက်ကို ပြန်လုပ်,1882,gedit,po/my.po
+Select _All,1901,_A ားလုံး ရွေးချယ်,1902,gedit,po/my.po
+Select the entire document,1905,လတ်တစ်လော စာရွက်စာတမ်းကို ရွေးချယ်,1906,gedit,po/my.po
+_Highlight Mode,1910,_H ရောင်မျဉ်းတားခြင်း,1911,gedit,po/my.po
+_Find...,1915,_F ရှာဖွေ,1916,gedit,po/my.po
+Search for text,1919,စာသား ရှာရန်,1920,gedit,po/my.po
+Find Ne_xt,1923,_X နောက်တစ်ခု ရှာဖွေ,1924,gedit,po/my.po
+Search forwards for the same text,1927,ရှေ့ဆက်၍ စာသားတူများအား ရှာပါ,1928,gedit,po/my.po
+Find Pre_vious,1931,_V အရင်ဟာ ပြန်ရှာ,1932,gedit,po/my.po
+_Replace...,1939,_R အစားထိုး,1940,gedit,po/my.po
+Search for and replace text,1943,ရှာ၍ စာသားအစားထိုး,1944,gedit,po/my.po
+_Clear Highlight,1947,_C အရောင်မျဉ်းကို ရှင်းလင်း,1948,gedit,po/my.po
+Clear highlighting of search matches,1951,ကိုက်ညီသော ရှာဖွေမှုများ၏ အရောင်မျဉ်းများကို ရှင်းလင်း,1952,gedit,po/my.po
+Go to _Line...,1955,_L လိုင်းကိုသွားပါ,1956,gedit,po/my.po
+Go to a specific line,1959,လိုင်းအတိအကျကို သွားပါ,1960,gedit,po/my.po
+_Incremental Search...,1963,_I အဆင့်ဆင့် တိုးမြှင့် ရှာဖွေ,1964,gedit,po/my.po
+Incrementally search for text,1967,စာသားအတွက် အဆင့်ဆင့် တိုးမြှင့် ရှာဖွေ,1968,gedit,po/my.po
+_Save All,1972,_S အားလုံးသိမ်းဆည်း,1973,gedit,po/my.po
+Save all open files,1976,ဖွင့်ထားတဲ့ ဖိုင်အားလုံး သိမ်းဆည်း,1977,gedit,po/my.po
+_Close All,1980,_C အားလုံးပိတ်,1981,gedit,po/my.po
+Close all open files,1984,ဖွင့်ထားတဲ့ဖိုင်များ အားလုံးပိတ်,1985,gedit,po/my.po
+_Previous Document,1988,_P ယခင် စာရွက်စာတမ်း,1989,gedit,po/my.po
+Activate previous document,1992,ယခင် စာရွက်စာတမ်းကို အတည်ပြုပါ,1993,gedit,po/my.po
+_Next Document,1996,_N နောက်ထပ် စာရွက်စာတမ်း,1997,gedit,po/my.po
+Activate next document,2000,နောက်ထပ် စာရွက်စာတမ်းကို အတည်ပြုပါ,2001,gedit,po/my.po
+_Move to New Window,2004,_M ဝင်းဒိုးအသစ်သို့ ရွှေ့ပါ,2005,gedit,po/my.po
+Move the current document to a new window,2008,လက်ရှိ စာရွက်စာတမ်းအား ဝင်းဒိုးအသစ်သို့ ရွှေ့,2009,gedit,po/my.po
+Close the current file,2012,လက်ရှိဖိုင်ကိုပိတ်,2013,gedit,po/my.po
+Quit the program,2016,ပရိုဂရမ်က ထွက်,2017,gedit,po/my.po
+_Toolbar,2020,_T ကိရိယာဘားတန်း,2021,gedit,po/my.po
+Show or hide the toolbar in the current window,2024,လက်ရှိဝင်းဒိုးရှိ ကိရိယာဘားကို ဖော်ပြ သို့ ဝှက်ထား,2025,gedit,po/my.po
+_Statusbar,2028,_S အခြေအနေပြ ဘားတန်း,2029,gedit,po/my.po
+Show or hide the statusbar in the current window,2032,လက်ရှိ ဝင်းဒိုးမှာ ရှိတဲ့ အခြေအနေဘားတန်းကို ပြထား သို့မဟုတ် ဝှက်ထား,2033,gedit,po/my.po
+Edit text in fullscreen,2036,မျက်နှာပြင်ပြည့် စာသားတည်းဖြတ်,2037,gedit,po/my.po
+Side _Pane,2040,_P ဘေးဘက်ခြမ်း ဘောင်ကွက်,2041,gedit,po/my.po
+Show or hide the side pane in the current window,2044,လက်ရှိ ဝင်းဒိုးမှာရှိတဲ့ ဘေးဘက်ခြမ်း ဘောင်ကွက်ကို ပြထား သို့မဟုတ် ဝှက်ထား,2045,gedit,po/my.po
+_Bottom Pane,2048,_B အောက်ဘက်ခြမ်း ဘောင်ကွက်,2049,gedit,po/my.po
+Show or hide the bottom pane in the current window,2052,လက်ရှိ ဝင်းဒိုးမှာရှိတဲ့ အောက်ဘက်ခြမ်း ဘောင်ကွက်ကို ပြထား သို့မဟုတ် ဝှက်ထား,2053,gedit,po/my.po
+Please check your installation.,2056,ထည့်သွင်းတပ်ဆင်ခြင်းကို ပြန်လည်စစ်ဆေးပါ,2057,gedit,po/my.po
+Match _Entire Word Only,2082,_E ကိုက်ညီသော စကားလုံး သက်သက်သာ,2083,gedit,po/my.po
+_Match Case,2087,_M ကိုက်ညီသော စကားလုံး,2088,gedit,po/my.po
+Use %s highlight mode,2100,%s အရောင်မျဉ်းတား ပြုလုပ်ခြင်းကို အသုံးပြု,2101,gedit,po/my.po
+Plain Text,2111,စာသား သက်သက်,2112,gedit,po/my.po
+Disable syntax highlighting,2115,စာသား၊ စာလုံးများ အရောင်မျဉ်းတားခြင်းကို မပြုလုပ်,2116,gedit,po/my.po
+Open '%s',2121,ဖွင့် '%s',2122,gedit,po/my.po
+Open a recently used file,2125,လတ်တလော အသုံးပြုပြီးတဲ့ဖိုင်ကို ဖွင့်,2126,gedit,po/my.po
+Open,2129,ဖွင့်,2130,gedit,po/my.po
+Save,2133,သိမ်းဆည်း,2134,gedit,po/my.po
+Print,2137,စာထုတ်ရန်,2138,gedit,po/my.po
+Activate '%s',2143,အတည်ပြု '%s',2144,gedit,po/my.po
+About gedit,2155,gedit အကြောင်း,2156,gedit,po/my.po
+Change Case,2159,စာလုံးအကြီးသေးပြောင်း,2160,gedit,po/my.po
+Changes the case of selected text.,2163,ရွေးချယ်ထားသော စာသားကို အကြီးအသေးပြောင်း,2164,gedit,po/my.po
+C_hange Case,2167,_H စာလုံးအကြီးသေးပြောင်း,2168,gedit,po/my.po
+All _Upper Case,2171,_U အားလုံး စာလုံးအကြီးပြောင်း,2172,gedit,po/my.po
+Change selected text to upper case,2175,ရွေးချယ်ထားသော စာသားကို စာလုံးအကြီးပြောင်း,2176,gedit,po/my.po
+All _Lower Case,2179,_L အားလုံး စာလုံးအသေးပြောင်း,2180,gedit,po/my.po
+Change selected text to lower case,2183,ရွေးချယ်ထားသော စာသားကို စာလုံးအသေးပြောင်း,2184,gedit,po/my.po
+_Invert Case,2187,_I စာလုံးပုံစံ နဂိုအတိုင်း ပြန်ပြောင်း,2188,gedit,po/my.po
+Invert the case of selected text,2191,ရွေးချယ်ထားသော စာသားကို စာလုံးအကြီးအသေး နဂိုအတိုင်း ပြန်ပြောင်း,2192,gedit,po/my.po
+_Title Case,2195,_T ခေါင်းစဉ်အကြီးအသေး,2196,gedit,po/my.po
+Check for latest version of gedit,2203,gedit နောက်ဆုံးဗားရှင်းအတွက် စစ်ဆေး,2204,gedit,po/my.po
+Check update,2207,နောက်ဆုံးရ အသစ်ကို စစ်ဆေးပါ,2208,gedit,po/my.po
+_Download,2216,_D ဒေါင်းလုပ်ဆွဲချပါ,2217,gedit,po/my.po
+_Ignore Version,2221,_I ဗားရှင်းကို လစ်လျူရှု,2222,gedit,po/my.po
+There is a new version of gedit,2225,gedit ၏ ဗားရှင်းအသစ်များ,2226,gedit,po/my.po
+Document Statistics,2246,စာရွက်စာတမ်း၏ အချက်အလက်များ,2247,gedit,po/my.po
+Document,2262,စာရွက်စာတမ်း,2263,gedit,po/my.po
+File Name,2266,ဖိုင်နာမည်,2267,gedit,po/my.po
+Lines,2270,လိုင်းများ,2271,gedit,po/my.po
+Selection,2274,ရွေးချယ်မှု,2275,gedit,po/my.po
+Words,2278,စာလုံးများ,2279,gedit,po/my.po
+_Update,2282,_U နောက်ဆုံးရ အသစ်,2283,gedit,po/my.po
+_Document Statistics,2286,_D စာရွက်စာတမ်း၏ အချက်အလက်များ,2287,gedit,po/my.po
+Done.,2345,ပြီးပြီ,2346,gedit,po/my.po
+All languages,2353,ဘာသာစကား အားလုံး,2354,gedit,po/my.po
+All Languages,2360,ဘာသာစကား အားလုံး,2361,gedit,po/my.po
+All documents except untitled ones,2389,ခေါင်းစဉ်မဲ့များမှ လွဲ၍ စာရွက်စာတမ်းအားလုံး,2390,gedit,po/my.po
+Create new document,2397,စာရွက်စာတမ်းအသစ် ဖန်တီး,2398,gedit,po/my.po
+Current document,2401,လက်ရှိ စာရွက်စာတမ်း,2402,gedit,po/my.po
+Current line,2405,လက်ရှိ လိုင်း,2406,gedit,po/my.po
+Current selection,2409,လက်ရှိ ရွေးချယ်ထားမှု,2410,gedit,po/my.po
+Current word,2417,လက်ရှိစာလုံး,2418,gedit,po/my.po
+Display in bottom pane,2421,အောက်ခြေဘောင်ကွက်ကို ဖော်ပြ,2422,gedit,po/my.po
+Untitled documents only,2453,ခေါင်းစဉ်မဲ့ စာရွက်စာတမ်း သက်သက်,2454,gedit,po/my.po
+_Edit:,2462,_E တည်းဖြတ်,2463,gedit,po/my.po
+_Input:,2466,_I အသွင်း,2467,gedit,po/my.po
+_Output:,2470,_O အထုတ်,2471,gedit,po/my.po
+_Save:,2474,_S သိမ်းဆည်း,2475,gedit,po/my.po
+_Shortcut Key:,2478,_S အတိုချုံး ကီး:,2479,gedit,po/my.po
+_Tools:,2482,_T ကိရိယာများ,2483,gedit,po/my.po
+Build,2486,တည်ဆောက်,2487,gedit,po/my.po
+(Empty),2676,(အလွတ်),2677,gedit,po/my.po
+file,2687,ဖိုင်,2688,gedit,po/my.po
+directory,2698,ဖိုင်လမ်းကြောင်း,2699,gedit,po/my.po
+Bookmarks,2708,မှတ်တမ်းမှတ်ရာများ,2709,gedit,po/my.po
+_Filter,2712,_F စီစစ်,2713,gedit,po/my.po
+_Move to Trash,2716,_M အမှိုက်ပုံးထဲသို့ ရွှေ့,2717,gedit,po/my.po
+_Delete,2724,_D ဖျက်ပစ်ပါ,2725,gedit,po/my.po
+Delete selected file or folder,2728,ရွေးချယ်ထားပြီးသော ဖိုင် သို့ ဖိုလ်ဒါကို ဖျက်,2729,gedit,po/my.po
+Open selected file,2732,ရွေးထားပြီးသား ဖိုင်ကို ဖွင့်,2733,gedit,po/my.po
+Up,2736,အပေါ်,2737,gedit,po/my.po
+Open the parent folder,2740,မူရင်း ဖိုလ်ဒါကိုဖွင့်,2741,gedit,po/my.po
+_New Folder,2744,_N ဖိုလ်ဒါအသစ်,2745,gedit,po/my.po
+Add new empty folder,2748,ဖိုလ်ဒါအလွတ်ကို ပေါင်းထည့်,2749,gedit,po/my.po
+New F_ile,2752,_I ဖိုင်အသစ်,2753,gedit,po/my.po
+Add new empty file,2756,ဖိုင် အလွတ်ကို ပေါင်းထည့်,2757,gedit,po/my.po
+_Rename,2760,_R အမည်ပြန်ပေး,2761,gedit,po/my.po
+Rename selected file or folder,2764,ရွေးချယ်ထားသော ဖိုင် သို့ ဖိုလ်ဒါကို အမည်ပြန်ပေး,2765,gedit,po/my.po
+_Previous Location,2768,_P နေရာအဟောင်း,2769,gedit,po/my.po
+Go to the previous visited location,2772,ရောက်ခဲ့သော နေရာဟောင်းကို ပြန်သွား,2773,gedit,po/my.po
+_Next Location,2776,_N နောက်ထပ် နေရာအသစ်,2777,gedit,po/my.po
+Go to the next visited location,2780,နောက်ထပ် သွားမည့် နေရာကို သွား,2781,gedit,po/my.po
+Re_fresh View,2784,_F မြင်ကွင်းကို ပြန်လည်ပြုလုပ်,2785,gedit,po/my.po
+Refresh the view,2788,မြင်ကွင်းကို ပြန်လည်ပြုလုပ်,2789,gedit,po/my.po
+_View Folder,2793,_V ဖိုလ်ဒါကို ပြ,2794,gedit,po/my.po
+View folder in file manager,2798,ဖိုင် မန်နေဂျာထဲမှာ ဖိုလ်ဒါကိုပြ,2799,gedit,po/my.po
+Show _Hidden,2802,_H ဝှက်ထားတာကို ဖော်ပြ,2803,gedit,po/my.po
+Show hidden files and folders,2806,ဝှက်ထားသော ဖိုင် နှင့် ဖိုလ်ဒါများကို ဖော်ပြ,2807,gedit,po/my.po
+Show _Binary,2810,_B ဘိုင်နရီကို ဖော်ပြ,2811,gedit,po/my.po
+Show binary files,2814,ဘိုင်နရီ ဖိုင်များကို ဖော်ပြ,2815,gedit,po/my.po
+Previous location,2820,နေရာဟောင်း,2821,gedit,po/my.po
+Go to previous location,2824,နေရာဟောင်းကို ပြန်သွား,2825,gedit,po/my.po
+Go to a previously opened location,2829,ဖွင့်ထားခဲ့သော နေရာဟောင်းကို ပြန်သွား,2830,gedit,po/my.po
+Next location,2833,နောက်ထပ် နေရာ,2834,gedit,po/my.po
+Go to next location,2837,နောက်ထပ် နေရာကို သွား,2838,gedit,po/my.po
+_Match Filename,2841,_M ကိုက်ညီသော ဖိုင်နာမည်,2842,gedit,po/my.po
+C_ommand color:,2879,_O ကွန်မန့် အရောင်,2880,gedit,po/my.po
+_Error color:,2883,_E အရောင် အမှား,2884,gedit,po/my.po
+Quick Open,2889,အမြန်ဖွင့်,2890,gedit,po/my.po
+Quick open,2893,အမြန်ဖွင့်,2894,gedit,po/my.po
+Quickly open documents,2897,စာရွက်စာတမ်းများကို အမြန်ဖွင့်,2898,gedit,po/my.po
+Quickly open files,2901,ဖိုင်များကို အမြန်ဖွင့်,2902,gedit,po/my.po
+Snippets,2910,အချက်အလက်အတိုထွာများ,2911,gedit,po/my.po
+Activation,2914,အတည်ပြုခြင်း,2915,gedit,po/my.po
+Create new snippet,2918,အချက်အလက်အတိုထွာများ အသစ်ဖန်တီး,2919,gedit,po/my.po
+Delete selected snippet,2923,ရွေးထားသော အချက်အလက်အတိုထွာကို ဖျက်ပစ်,2924,gedit,po/my.po
+Export selected snippets,2927,ရွေးထားသော အချက်အလက်အတိုထွာများကို ထုတ်လုပ်,2928,gedit,po/my.po
+Import snippets,2932,အချက်အလက်အတိုထွာများကို ထည့်သွင်း,2933,gedit,po/my.po
+S_hortcut key:,2936,_H အတိုချုံး ကီး,2937,gedit,po/my.po
+Snippets Manager,2950,ကုဒ်မှတ်စု မန်နေဂျာ,2951,gedit,po/my.po
+_Snippets:,2958,_S ကုဒ်မှတ်စုတိုများ:,2959,gedit,po/my.po
+Global,2982,အထွေထွေ,2983,gedit,po/my.po
+Import successfully completed,3002,အောင်မြင်စွာ ထည့်သွင်းပြီးပြီ,3003,gedit,po/my.po
+Single snippets file,3024,ကုဒ်မှတ်စု ဖိုင်တစ်ဖိုင်,3025,gedit,po/my.po
+All files,3030,ဖိုင်တွေအားလုံး,3031,gedit,po/my.po
+Export successfully completed,3039,အောင်မြင်စွာ ထုတ်ပြီးပြီ,3040,gedit,po/my.po
+Export snippets,3055,ကုဒ်မှတ်စုကို ထုတ်,3056,gedit,po/my.po
+"Type a new shortcut, or press Backspace to clear",3059,shortcut အသစ်ရိုက်ပါ၊ သို့ ရှင်းလင်းရန် Backspace ကို နှိပ်ပါ,3060,gedit,po/my.po
+Type a new shortcut,3063,shortcut အသစ်ရိုက်ပါ,3064,gedit,po/my.po
+"The archive \""%s\"" could not be created",3068,"ဖိုင်ထုပ် \""%s\"" ကို ဖန်တီးလို့ မရနိုင်ပါ",3069,gedit,po/my.po
+"Target directory \""%s\"" does not exist",3073,"ရည်ညွှန်းရာ ဖိုင်လမ်းကြောင်း \""%s\"" မရှိပါ",3074,gedit,po/my.po
+"Target directory \""%s\"" is not a valid directory",3078,"ရည်ညွှန်းရာ ဖိုင်လမ်းကြောင်း \""%s\"" မရှိပါ",3079,gedit,po/my.po
+"File \""%s\"" does not exist",3084,"ဖိုင် \""%s\"" မရှိပါ",3085,gedit,po/my.po
+"File \""%s\"" is not a valid snippets file",3089,"ဤဖိုင် \""%s\""သည် အကျုံးဝင်သော အတိုထွာဖိုင် မဟုတ်ပါ",3090,gedit,po/my.po
+"Imported file \""%s\"" is not a valid snippets file",3094,"သွင်းလိုက်သော ဖိုင် \""%s\"" သည် အကျုံးဝင်သော ကုဒ်မှတ်စုဖိုင် မဟုတ်ပါ",3095,gedit,po/my.po
+"The archive \""%s\"" could not be extracted",3099,"ဤအချက်အလက်အစုဝေး \""%s\"" အား ဖြန့်မထုတ်နိုင်ပါ",3100,gedit,po/my.po
+The following files could not be imported: %s,3104,အောက်ပါဖိုင်များကို ထည့်သွင်း၍ မရနိုင်ပါ: %s,3105,gedit,po/my.po
+"File \""%s\"" is not a valid snippets archive",3110,"ဤဖိုင် \""%s\"" သည် အတိုချုံး အချက်အလက်အစုဝေး အဖြစ် အကျုံးမဝင်ပါ ",3111,gedit,po/my.po
+Execution of the Python command (%s) failed: %s,3122,Python command (%s) လုပ်ဆောင်မှု မအောင်မြင်ပါ: %s,3123,gedit,po/my.po
+S_ort...,3126,_O စီပါ...,3127,gedit,po/my.po
+Sort the current document or selection,3130,လက်ရှိ စာရွက်စာတမ်း သို့မဟုတ် ရွေးချယ်ထားတာကို စီပါ,3131,gedit,po/my.po
+Sort,3135,စီပါ,3136,gedit,po/my.po
+Sorts a document or selected text.,3139,စာရွက်စာတမ်း သို့မဟုတ် ရွေးချယ်ထားတဲ့ စာသားကို စီပါ,3140,gedit,po/my.po
+R_emove duplicates,3143,_E ထပ်နေတာတွေ ဖယ်ထုတ်,3144,gedit,po/my.po
+S_tart at column:,3147,_T ကော်လံမှ စ,3148,gedit,po/my.po
+You cannot undo a sort operation,3151,စီထားသော လုပ်ဆောင်မှုကို နောက်ပြန်လုပ်၍ မရတော့ပါ,3152,gedit,po/my.po
+_Ignore case,3155,_I အကြီးသေး လစ်လျူရှု,3156,gedit,po/my.po
+_Reverse order,3159,_R ပြောင်းပြန် အစီအစဉ်,3160,gedit,po/my.po
+_Sort,3163,_S _စီပါ,3164,gedit,po/my.po
+(no suggested words),3171,(အကြံပြုချက်စာလုံးမရှိ),3172,gedit,po/my.po
+_More...,3175,_M ထပ်ပြီး. . .,3176,gedit,po/my.po
+_Ignore All,3180,_I အားလုံး လစ်လျူရှု,3181,gedit,po/my.po
+_Add,3185,_A ပေါင်းထည့်ရန်,3186,gedit,po/my.po
+_Spelling Suggestions...,3189,_S စာလုံးပေါင်း အကြံပြုချက်များ. . .,3190,gedit,po/my.po
+Check Spelling,3193,စာလုံးပေါင်းစစ်,3194,gedit,po/my.po
+Suggestions,3197,အကြံပြုချက်များ,3198,gedit,po/my.po
+(correct spelling),3202,(စာလုံးပေါင်းအမှန်ပြင်),3203,gedit,po/my.po
+Completed spell checking,3206,စာလုံးပေါင်း စစ်ပြီးပြီ,3207,gedit,po/my.po
+Unknown (%s),3226,မသိ(%s),3227,gedit,po/my.po
+Default,3234,မူရင်းအတိုင်း,3235,gedit,po/my.po
+Set language,3239,ဘာသာစကား ပြင်ဆင်,3240,gedit,po/my.po
+Languages,3243,ဘာသာစကားများ,3244,gedit,po/my.po
+_Check Spelling...,3247,_C စာလုံးပေါင်းစစ်,3248,gedit,po/my.po
+Check the current document for incorrect spelling,3251,လက်ရှိစာရွက်စာတမ်းရှိ စာလုံးပေါင်းအမှားတွေကို စစ်ဆေး,3252,gedit,po/my.po
+Set _Language...,3255,_L ဘာသာစကားရွေး,3256,gedit,po/my.po
+Set the language of the current document,3259,လက်ရှိ စာရွက်စာတမ်း၏ ဘာသာစကားကိုရွေး,3260,gedit,po/my.po
+_Autocheck Spelling,3263,_A အလိုအလျောက် စာလုံးပေါင်းစစ်,3264,gedit,po/my.po
+Automatically spell-check the current document,3267,လက်ရှိ စာရွက်စာတမ်းအား အလိုအလျောက် စာလုံးပေါင်းစစ်,3268,gedit,po/my.po
+The document is empty.,3271,စာရွက်စာတမ်း အလွတ်ဖြစ်ပါတယ်,3272,gedit,po/my.po
+No misspelled words,3275,စာလုံးပေါင်းမှားနေတယ်,3276,gedit,po/my.po
+Select the _language of the current document.,3279,_L လက်ရှိ စာရွက်စာတမ်း၏ ဘာသာစကားကိုရွေးပါ,3280,gedit,po/my.po
+Add w_ord,3283,_O စာလုံးပေါင်းထည့်,3284,gedit,po/my.po
+Cha_nge,3287,_N ပြောင်း_n,3288,gedit,po/my.po
+Change A_ll,3291,_L အားလုံးပြောင်း,3292,gedit,po/my.po
+Change _to:,3295,_T သို့ ပြောင်း:,3296,gedit,po/my.po
+Check _Word,3299,_W စာလုံးကို စစ်ဆေး,3300,gedit,po/my.po
+Check spelling,3303,စာလုံးပေါင်းစစ်,3304,gedit,po/my.po
+Ignore _All,3307,_A အားလုံး ဒီတိုင်းထား,3308,gedit,po/my.po
+Language,3311,ဘာသာစကား,3312,gedit,po/my.po
+Language:,3315,ဘာသာစကား:,3316,gedit,po/my.po
+Misspelled word:,3319,စကားလုံး အမှား:,3320,gedit,po/my.po
+User dictionary:,3323,အသုံးပြုသူ အဘိဓာန်:,3324,gedit,po/my.po
+_Ignore,3327,_I လစ်လျူရှု,3328,gedit,po/my.po
+_Suggestions:,3331,_S အကြံပြုချက်များ:,3332,gedit,po/my.po
+word,3335,စကားလုံး,3336,gedit,po/my.po
+Checks the spelling of the current document.,3339,လက်ရှိ စာရွက်စာတမ်း၏ စာလုံးပေါင်းကို စစ်ဆေး,3340,gedit,po/my.po
+Spell Checker,3343,စာလုံးပေါင်း စစ်ဆေးသည့် အရာ,3344,gedit,po/my.po
+_Preview,3357,_P ကြိုတင်ကြည့်ရှု,3358,gedit,po/my.po
+Abbreviated form,3365,အတိုချုံးပုံစံ,3366,gedit,po/my.po
+Abbreviation,3369,အတိုချုံး,3370,gedit,po/my.po
+Above,3373,အပေါ်ဘက်,3374,gedit,po/my.po
+Accessibility key character,3377,အသုံးပြုနိုင်သော ကီးအက္ခရာများ,3378,gedit,po/my.po
+Acronym,3381,အတိုကောက်,3382,gedit,po/my.po
+Align,3385,ညှိ,3386,gedit,po/my.po
+Alignment character,3389,အက္ခရာ ညှိ,3390,gedit,po/my.po
+Author info,3422,စာရေးသူ၏ သတင်းအချက်အလက်,3423,gedit,po/my.po
+Background color,3430,နောက်ခံအရောင်,3431,gedit,po/my.po
+Background color (deprecated),3435,နောက်ခံ အရောင်,3436,gedit,po/my.po
+Bold,3461,စာလုံးထူ,3462,gedit,po/my.po
+Border,3465,အနားသတ်,3466,gedit,po/my.po
+Border color,3474,အနားသတ် အရောင်,3475,gedit,po/my.po
+Center,3482,အလယ်,3483,gedit,po/my.po
+Checked state,3499,စစ်ဆေးပြီး အခြေအနေ,3500,gedit,po/my.po
+Citation,3503,ရည်ညွှန်းကိုးကားချက်,3504,gedit,po/my.po
+Cite reason for change,3507,ပြောင်းလဲမှုအတွက် ရည်ညွှန်းကိုးကား အကြောင်းပြချက်,3508,gedit,po/my.po
+Color of selected links,3527,ရွေးထားသော လင့်ခ်၏ အရောင်,3528,gedit,po/my.po
+Columns,3540,ကော်လံများ,3541,gedit,po/my.po
+Comment,3544,မှတ်ချက်,3545,gedit,po/my.po
+Deleted text,3606,ဖျက်ပြီးသား စာသား,3607,gedit,po/my.po
+Direction,3610,ဉီးတည်ရာ,3611,gedit,po/my.po
+Directory list,3623,ဖိုင်လမ်းကြောင်း စာရင်း,3624,gedit,po/my.po
+Document body,3635,စာရွက်စာတမ်း ကိုယ်ထည်,3636,gedit,po/my.po
+Document head,3639,စာရွက်စာတမ်း ခေါင်းကြီးပိုင်း,3640,gedit,po/my.po
+Document title,3643,စာရွက်စာတမ်း ခေါင်းစဉ်,3644,gedit,po/my.po
+Document type,3647,စာရွက်စာတမ်း အမျိုးအစား,3648,gedit,po/my.po
+Font face,3672,ဖောင့်ပုံစံ,3673,gedit,po/my.po
+Font face (deprecated),3677,ဖောင့်ပုံစံ,3678,gedit,po/my.po
+For label,3681,အမည်တပ်ခြင်း အတွက်,3682,gedit,po/my.po
+Forced line break,3685,လိုင်းခြားနားခြင်း မဖြစ်မနေလုပ်,3686,gedit,po/my.po
+Form,3689,ဖောင်,3690,gedit,po/my.po
+Form input,3705,ဖောင်အသွင်း,3706,gedit,po/my.po
+Form input type,3709,ဖောင် အသွင်းပုံစံ,3710,gedit,po/my.po
+Form method,3713,ဖောင် နည်းလမ်း,3714,gedit,po/my.po
+Forward link,3717,ရှေ့သို့သွားမည့် လင့်ခ်,3718,gedit,po/my.po
+Frame,3721,ဘောင်,3722,gedit,po/my.po
+Frame border,3725,ဘောင် အနားသတ်,3726,gedit,po/my.po
+Height,3833,အမြင့်,3834,gedit,po/my.po
+Image,3854,ပုံရိပ်,3855,gedit,po/my.po
+Image map,3858,ပုံရိပ်မြေပုံ,3859,gedit,po/my.po
+Image map area,3862,ပုံရိပ်မြေပုံ ဧရိယာ,3863,gedit,po/my.po
+Image map name,3866,ပုံရိပ် မြေပုံ အမည်,3867,gedit,po/my.po
+Image source,3870,ပုံရိပ် အရင်းမြစ်,3871,gedit,po/my.po
+Italic text,3890,စာလုံး အစောင်း,3891,gedit,po/my.po
+Large text style,3911,စာလုံးစတိုင် အကြီး,3912,gedit,po/my.po
+Layer,3915,အလွှာ,3916,gedit,po/my.po
+Link color,3919,လင့်ခ် အရောင်,3920,gedit,po/my.po
+List item,3928,စာရင်းအချက်အလက်,3929,gedit,po/my.po
+List of MIME types for file upload,3932,ဖိုင်တင်ရန် MIME အမျိုးစားများ စာရင်း,3933,gedit,po/my.po
+List of supported character sets,3936,လက်ခံသော အက္ခရာအစုဝေး စာရင်း,3937,gedit,po/my.po
+Listing,3940,စာရင်းပြုခြင်း,3941,gedit,po/my.po
+Long description link,3948,ဖော်ပြချက်ရှည်လျားသော လင့်ခ်,3949,gedit,po/my.po
+Mail link,3956,မေးလ် လင့်ခ်,3957,gedit,po/my.po
+Marquee,3970,ရွေ့လျားလှုပ်ရှား,3971,gedit,po/my.po
+Maximum length of text field,3974,စာသားနေရာ၏ အမြင့်ဆုံး အရှည်,3975,gedit,po/my.po
+Menu list,3984,မီနျူး စာရင်း,3985,gedit,po/my.po
+Multicolumn,3997,ကော်လံစုံ,3998,gedit,po/my.po
+Multiple,4001,အမျိုးမျိုး,4002,gedit,po/my.po
+Name,4005,အမည်,4006,gedit,po/my.po
+No layers,4029,အလွှာများ မရှိ,4030,gedit,po/my.po
+No resize,4037,ဆိုက်ဒ်ပြန်ပြောင်းခြင်း မရှိ,4038,gedit,po/my.po
+Ordered list,4168,အစီအစဉ်တကျ စာရင်း,4169,gedit,po/my.po
+Paragraph,4176,စာပိုဒ်,4177,gedit,po/my.po
+Rows,4237,အတန်းများ,4238,gedit,po/my.po
+Size,4290,ဆိုက်ဒ်,4291,gedit,po/my.po
+Sound,4307,အသံ,4308,gedit,po/my.po
+Source,4311,အရင်းမြစ်,4312,gedit,po/my.po
+Strike-through text,4352,စာလုံးပေါ်ရှိ ကန့်လန့်ဖြတ် မျဉ်း,4353,gedit,po/my.po
+Strike-through text style,4361,စာသား ကန့်လန့်ဖြတ် မျဉ်း,4362,gedit,po/my.po
+Subscript,4378,အောက်ခြေစာလုံးသေး,4379,gedit,po/my.po
+Superscript,4382,အပေါ်ဘက် စာလုံးသေး,4383,gedit,po/my.po
+Table,4390,ဇယားကွက်,4391,gedit,po/my.po
+Table body,4394,ဇယားကွက် ကိုယ်ထည်,4395,gedit,po/my.po
+Table caption,4398,ဇယားကွက် ခေါင်းစဉ်ကြီး,4399,gedit,po/my.po
+Table column group properties,4402,ဇယားကွက် ကော်လံအုပ်စု၏ ဂုဏ်သတ္တိ,4403,gedit,po/my.po
+Table column properties,4406,ဇယားကွက် ကော်လံ၏ ဂုဏ်သတ္တိ,4407,gedit,po/my.po
+Table data cell,4410,ဇယားကွက် အချက်အလက် ဆဲလ်အကွက်,4411,gedit,po/my.po
+Table footer,4414,ဇယားကွက် အောက်ခြေ,4415,gedit,po/my.po
+Table header,4418,ဇယားကွက် ခေါင်းစဉ်,4419,gedit,po/my.po
+Table header cell,4422,ဇယားကွက် ဆဲလ်အကွက်၏ ခေါင်းစဉ်,4423,gedit,po/my.po
+Table row,4426,ဇယားကွက် အတန်း,4427,gedit,po/my.po
+Table summary,4430,ဇယားကွက် အကျဉ်းချုပ်,4431,gedit,po/my.po
+Text,4454,စာသား,4455,gedit,po/my.po
+Text color,4458,စာသား အရောင်,4459,gedit,po/my.po
+Title,4471,ခေါင်းကြီး,4472,gedit,po/my.po
+Unordered list,4487,အစီစဉ်တကျ မဟုတ်သော စာရင်း,4488,gedit,po/my.po
+Value,4495,တန်ဖိုး,4496,gedit,po/my.po
+Width,4529,အကျယ်,4530,gedit,po/my.po
+Footnote,4573,အောက်ခြေမှတ်စု,4574,gedit,po/my.po
+Symbol <<,4729,သကေင်္တ <<,4730,gedit,po/my.po
+Symbol <=,4733,သကေင်္တ <=,4734,gedit,po/my.po
+Symbol >=,4737,သကေင်္တ >=,4738,gedit,po/my.po
+Symbol >>,4741,သကေင်္တ >>,4742,gedit,po/my.po
+Symbol and,4745,သကေင်္တ နှင့်,4746,gedit,po/my.po
+parent,4887,နဂိုမူရင်း,4888,gedit,po/my.po
+self,4899,ကိုယ်တိုင်,4900,gedit,po/my.po
+In_sert Date and Time...,4907,_S နေ့ရက်နှင့် အချိန်ထည့်,4908,gedit,po/my.po
+Available formats,4915,ရရှိနိုင်သော ပုံစံများ,4916,gedit,po/my.po
+Insert Date/Time,4923,နေ့ရက်/အချိန် ထည့်,4924,gedit,po/my.po
+01/11/2009 17:52:00,4940,၀၁/၁၁/၂၀၀၉ ၁၇:၅၂:၀၀,4941,gedit,po/my.po
+Insert Date and Time,4944,နေ့ရက်နှင့် အချိန်ထည့်,4945,gedit,po/my.po
+Use the _selected format,4949,_S ရွေးထားတဲ့ ပုံစံကိုသုံး,4950,gedit,po/my.po
+_Insert,4953,_I ထည့်ရန်,4954,gedit,po/my.po
+_Use custom format,4958,_U ကိုယ်ပိုင် ပုံစံအသုံးပြု,4959,gedit,po/my.po
+_Prompt for a format,4970,_P ပုံစံအတွက် ပြသ,4971,gedit,po/my.po
+Absolute Value,45,ပဂတိတန်ဖိုး,46,gnome-calculator,po/my.po
+Clear,51,ရှင်းလင်းပါ,52,gnome-calculator,po/my.po
+Exponent,57,ထပ်ကိန်း,58,gnome-calculator,po/my.po
+Factorial,62,မြှောက်ဖော်ကိန်း,63,gnome-calculator,po/my.po
+Factorize,67,ဆခွဲကိန်းခွဲပါ,68,gnome-calculator,po/my.po
+Inverse,72,လှန်/ပြောင်းပြန်လုပ်ပါ,73,gnome-calculator,po/my.po
+Recall,78,ပြန်ခေါ်,79,gnome-calculator,po/my.po
+Scientific Exponent,83,သိပ္ပံနည်းပညာဆိုင်ရာထပ်ညွှန်း,84,gnome-calculator,po/my.po
+Store,89,မှတ်သားပါ,90,gnome-calculator,po/my.po
+Undo,106,နောက်ပြန်,107,gnome-calculator,po/my.po
+ in ,111,ထည့်ပါ,112,gnome-calculator,po/my.po
+Future Value,227,ရည်မှန်းတန်ဖိုး,228,gnome-calculator,po/my.po
+Future _Value:,232,_V ရည်မှန်းတန်ဖိုး,233,gnome-calculator,po/my.po
+Periodic Payment,270,ပုံမှန်ပေးငွေ,271,gnome-calculator,po/my.po
+Present Value,281,လက်ရှိတန်ဖိုး,282,gnome-calculator,po/my.po
+Present _Value:,286,_V လက်ရှိတန်ဖိုး,287,gnome-calculator,po/my.po
+Rate,296,နှုံန်း,297,gnome-calculator,po/my.po
+Term,321,အခေါ်အဝေါ်,322,gnome-calculator,po/my.po
+_Cost:,326,_C ကုန်ကျငွေ,327,gnome-calculator,po/my.po
+_Future Value:,331,_F ရည်မှန်းတန်ဖိုး,332,gnome-calculator,po/my.po
+_Life:,336,_L သက်တမ်း,337,gnome-calculator,po/my.po
+_Margin:,341,_M စည်း,342,gnome-calculator,po/my.po
+_Period:,351,_P ကာလ:,352,gnome-calculator,po/my.po
+_Periodic Payment:,356,_P ပုံမှန်ပေးငွေ:,357,gnome-calculator,po/my.po
+_Principal:,361,_P နည်းဥပဒေသ:,362,gnome-calculator,po/my.po
+_Term:,371,_T အခေါ်အဝေါ်:,372,gnome-calculator,po/my.po
+_Insert,404,_I ထည့်ရန်,405,gnome-calculator,po/my.po
+16-bit,409,၁၆-ဘစ်,410,gnome-calculator,po/my.po
+32-bit,414,၃၂-ဘစ်,415,gnome-calculator,po/my.po
+64-bit,419,၆၄-ဘစ်,420,gnome-calculator,po/my.po
+8-bit,424,၈-ဘစ်,425,gnome-calculator,po/my.po
+Number _Format:,429,_F ကိန်းဂဏန်း အနေအထား,430,gnome-calculator,po/my.po
+Preferences,434,လိုလားချက်များ,435,gnome-calculator,po/my.po
+Show trailing _zeroes,444,_Z ဒသမနောက်မှသုညများကိုဖော်ပြပါ,445,gnome-calculator,po/my.po
+Word _size:,449,_S စာလုံးအရွယ်အစား,450,gnome-calculator,po/my.po
+_Angle units:,454,_A ထောင့်ယူနစ်,455,gnome-calculator,po/my.po
+Calculator,459,ဂဏန်းတွက်စက်,460,gnome-calculator,po/my.po
+Accuracy value,467,တိကျသောတန်ဖိုး,468,gnome-calculator,po/my.po
+Angle units,471,ထောင့်ယူနစ်,472,gnome-calculator,po/my.po
+Currency of the current calculation,479,ယခုတွက်ချက်နေသောငွေကြေးစနစ်,480,gnome-calculator,po/my.po
+Currency to convert the current calculation into,483,ပြောင်းလဲမည့်ငွေကြေးစနစ်,484,gnome-calculator,po/my.po
+Number format,497,ကိန်းဂဏန်း အနေအထား,498,gnome-calculator,po/my.po
+Show Thousands Separators,505,ထောင်စုဖွဲ့ပေးပါ,506,gnome-calculator,po/my.po
+Show Trailing Zeroes,509,ဒသမနောက်မှသုညများကိုဖော်ပြပါ,510,gnome-calculator,po/my.po
+Source currency,513,မူလငွေကြေး,514,gnome-calculator,po/my.po
+Target currency,517,ရည်ညွှန်းငွေကြေး,518,gnome-calculator,po/my.po
+The angle units to use,521,အသုံးပြုမည့်ထောင့်ယူနစ်,522,gnome-calculator,po/my.po
+The format to display numbers in,529,ဂဏန်းများကိုဖော်ပြသောပုံစံမှာ,530,gnome-calculator,po/my.po
+Word size,545,စာလုံးအရွယ်အစား,546,gnome-calculator,po/my.po
+Australian dollar,549,ဩစတြေးလျ ဒေါ်လာ,550,gnome-calculator,po/my.po
+Bulgarian lev,553,ဘယ်ဂျီယမ် လဘ်(ပ်),554,gnome-calculator,po/my.po
+Canadian dollar,561,ကနေဒါ ဒေါ်လာ,562,gnome-calculator,po/my.po
+Swiss franc,565,ဆွစ် ဖရန့်,566,gnome-calculator,po/my.po
+Chinese yuan renminbi,569,တရုတ် ယွမ်,570,gnome-calculator,po/my.po
+Euro,585,ယူရို,586,gnome-calculator,po/my.po
+Pound sterling,589,ပေါင်စတာလင်,590,gnome-calculator,po/my.po
+Hong Kong dollar,593,ဟောင်ကောင် ဒေါ်လာ,594,gnome-calculator,po/my.po
+Indian rupee,609,အိန္ဒိယ ရူပီး,610,gnome-calculator,po/my.po
+Japanese yen,617,ဂျပန် ယန်း,618,gnome-calculator,po/my.po
+South Korean won,621,တောင်ကိုရီယား ဝမ်,622,gnome-calculator,po/my.po
+Mexican peso,633,မက္ကဆီကန် ပီဆို,634,gnome-calculator,po/my.po
+Malaysian ringgit,637,မလေးရှား ရင်းဂစ်,638,gnome-calculator,po/my.po
+New Zealand dollar,645,နယူးဇီလန် ဒေါ်လာ,646,gnome-calculator,po/my.po
+Philippine peso,649,ဖိလစ်ပိုင် ပီဆို,650,gnome-calculator,po/my.po
+Russian rouble,661,ရုရှရူဘယ်,662,gnome-calculator,po/my.po
+Swedish krona,665,ဆွီဒင် ခရိုနာ,666,gnome-calculator,po/my.po
+Singapore dollar,669,စင်ကာပူ ဒေါ်လာ,670,gnome-calculator,po/my.po
+Thai baht,673,ထိုင်း ဘတ်,674,gnome-calculator,po/my.po
+New Turkish lira,677,တူရကီ လိုင်ရာ,678,gnome-calculator,po/my.po
+US dollar,681,ယူအက်စ် ဒေါ်လာ,682,gnome-calculator,po/my.po
+South African rand,685,တောင်အာဖရိက ရန်,686,gnome-calculator,po/my.po
+Unknown argument '%s',740,%s ၏ဆိုလိုရင်းကိုမသိပါ,741,gnome-calculator,po/my.po
+Pi [Ctrl+P],745,ပိုင်[Ctrl+P],746,gnome-calculator,po/my.po
+Euler’s Number,750,Eular ကိန်း,751,gnome-calculator,po/my.po
+Scientific exponent [Ctrl+E],765,သိပ္ပံနည်းပညာဆိုင်ရာသုံးထပ်ညွှန်း[Ctrl+E],766,gnome-calculator,po/my.po
+Add [+],770,ပေါင်း[+],771,gnome-calculator,po/my.po
+Subtract [-],775,နှုတ်[-],776,gnome-calculator,po/my.po
+Multiply [*],780,မြှောက်[*],781,gnome-calculator,po/my.po
+Divide [/],785,စား[/],786,gnome-calculator,po/my.po
+Additional Functions,795,ထပ်တိုးလုပ်ဆောင်ချက်များ,796,gnome-calculator,po/my.po
+Exponent [^ or **],800,ထပ်ညွှန်း[^ or **],801,gnome-calculator,po/my.po
+Square [Ctrl+2],805,နှစ်ထပ်ကိန်း[Ctrl+2],806,gnome-calculator,po/my.po
+Percentage [%],810,ရာခိုင်နှုံန်း,811,gnome-calculator,po/my.po
+Factorial [!],815,မြှောက်ဖော်ကိန်း[!],816,gnome-calculator,po/my.po
+Absolute value [|],820,ပဂတိတန်ဖိုး[|],821,gnome-calculator,po/my.po
+Root [Ctrl+R],835,ကိန်းရင်း[Ctrl+R],836,gnome-calculator,po/my.po
+Square root [Ctrl+R],840,နှစ်ထပ်ကိန်းရင်း[Ctrl+R],841,gnome-calculator,po/my.po
+Inverse [Ctrl+I],885,လှန်ကိန်း[Ctrl+I],886,gnome-calculator,po/my.po
+Boolean AND,890,Boolen AND,891,gnome-calculator,po/my.po
+Boolean OR,895,Boolen OR,896,gnome-calculator,po/my.po
+Boolean Exclusive OR,900,Boolen XOR,901,gnome-calculator,po/my.po
+Boolean NOT,905,Boolen NOT,906,gnome-calculator,po/my.po
+Integer Component,910,ကိန်းစစ်နှင့်ဆိုင်သောအပိုင်း,911,gnome-calculator,po/my.po
+Fractional Component,915,အပိုင်းကိန်းနှင့်ဆိုင်သောအပိုင်း,916,gnome-calculator,po/my.po
+Start Group [(],945,ကွင်းစ[(],946,gnome-calculator,po/my.po
+End Group [)],950,ကွင်းပိတ်[)],951,gnome-calculator,po/my.po
+Assign Variable,955,ကိန်းရှင်သတ်မှတ်ပါ,956,gnome-calculator,po/my.po
+Insert Variable,960,ကိန်းရှင်ထည့်ပါ,961,gnome-calculator,po/my.po
+Calculate Result,965,အဖြေတွက်ပါ,966,gnome-calculator,po/my.po
+Factorize [Ctrl+F],970,ဆခွဲကိန်းခွဲပါ[Ctrl+F],971,gnome-calculator,po/my.po
+Clear Display [Escape],975,ရှင်းလင်းပါ[Escape],976,gnome-calculator,po/my.po
+Undo [Ctrl+Z],980,နောက်ပြန်[Ctrl+Z],981,gnome-calculator,po/my.po
+Financial Term,990,ငွေကြေးဆိုင်ရာအခေါ်အဝေါ်,991,gnome-calculator,po/my.po
+%s radians = %s degrees,1005,%s ရေဒီရမ်=%s ဒီဂရီ,1006,gnome-calculator,po/my.po
+%s gradians = %s degrees,1010,%s ဂရေဒီရမ်=%s ဒီဂရီ,1011,gnome-calculator,po/my.po
+Degrees,1022,ဒီဂရီ,1023,gnome-calculator,po/my.po
+Radians,1028,ရေဒီရမ်,1029,gnome-calculator,po/my.po
+Gradians,1034,ဂရေဒီရမ်,1035,gnome-calculator,po/my.po
+Binary,1039,ဒွိကိန်း,1040,gnome-calculator,po/my.po
+Octal,1044,ရှစ်လီစိတ်,1045,gnome-calculator,po/my.po
+Decimal,1049,ဆယ်လီစိတ်,1050,gnome-calculator,po/my.po
+Hexadecimal,1054,တစ်ဆယ့်ခြောက်လီစိတ်,1055,gnome-calculator,po/my.po
+No variables defined,1060,ကိန်းရှင်မသတ်မှတ်ရသေးပါ,1061,gnome-calculator,po/my.po
+Round,1083,ပတ်လည်,1084,gnome-calculator,po/my.po
+No sane value to store,1112,သိမ်းဆည်းရန်သင့်တော်သောတန်ဖိုးမဟုတ်ပါ,1113,gnome-calculator,po/my.po
+Overflow. Try a bigger word size,1117,"ကျော်လွန်သွားပါပြီ, ပိုကြီးသောစာလုံးအရွယ်အစားကိုရွေးချယ်ပါ",1118,gnome-calculator,po/my.po
+Unknown variable '%s',1123,ကိန်းရှင် '%s' ကိုမသိပါ,1124,gnome-calculator,po/my.po
+Function '%s' is not defined,1129,လုပ်ဆောင်ချက် '%s' ကိုမသတ်မှတ်ရသေးပါ,1130,gnome-calculator,po/my.po
+Malformed expression,1139,ပုံစံမကျသောဖြည့်သွင်းချက်,1140,gnome-calculator,po/my.po
+Need an integer to factorize,1144,ဆခွဲကိန်းခွဲရန်ကိန်းစစ်လိုအပ်ပါသည်,1145,gnome-calculator,po/my.po
+Displayed value not an integer,1155,ကိန်းစစ်မဟုတ်သောတန်ဖိုးကိုဖော်ပြပါ,1156,gnome-calculator,po/my.po
+_Close,1160,_C ပိတ်ပါ,1161,gnome-calculator,po/my.po
+Fixed,1165,အတိအကျ,1166,gnome-calculator,po/my.po
+Scientific,1170,သိပ္ပံနည်းပညာသုံးပုံစံ,1171,gnome-calculator,po/my.po
+Engineering,1175,အင်ဂျင်နီရာသုံးပုံစံ,1176,gnome-calculator,po/my.po
+Show %d decimal _places,1181,_P ဒသမနောက်မှ %d  နေရာပြပါ,1182,gnome-calculator,po/my.po
+Unable to open help file,1186,အကူအညီဖိုင်ကိုဖွင့်၍မရနှိုင်ပါ,1187,gnome-calculator,po/my.po
+Gcalctool,1214,GNOME ဂဏန်းတွက်စက်,1215,gnome-calculator,po/my.po
+© 1986–2010 The Gcalctool authors,1219,© ၁၉၈၆-၂၀၁၀ GNOME ဂဏန်းတွက်စက်ဖန်တီးသူများ,1220,gnome-calculator,po/my.po
+Calculator with financial and scientific modes.,1224,ငွေကြေးဆိုင်ရာနှင့်သိပ္ပံနည်းပညာနယ်ပယ်တွင်အသုံးပြုနှိူင်သောဂဏန်းတွက်စက်,1225,gnome-calculator,po/my.po
+_Calculator,1229,_C ဂဏန်းတွက်စက်,1230,gnome-calculator,po/my.po
+_Mode,1234,_M သုံမည့်ပုံစံ,1235,gnome-calculator,po/my.po
+_Help,1239,_H အကူအညီ,1240,gnome-calculator,po/my.po
+_Basic,1244,_B အခြေခံသုံး,1245,gnome-calculator,po/my.po
+_Advanced,1249,_A အဆင့်မြင့်သုံး,1250,gnome-calculator,po/my.po
+_Financial,1254,_F ငွေကြေးဆိုင်ရာသုံး,1255,gnome-calculator,po/my.po
+_Programming,1259,_P ပရိုဂရမ်မာသုံး,1260,gnome-calculator,po/my.po
+_Contents,1264,_C မာတိကာ,1265,gnome-calculator,po/my.po
+Boolean AND is only defined for positive integers,1269,Boolean AND ကိုအပေါင်းကိန်းများတွင်သာအသုံးပြုနှိုင်သည်,1270,gnome-calculator,po/my.po
+Boolean OR is only defined for positive integers,1274,Boolean OR ကိုအပေါင်းကိန်းများတွင်သာအသုံးပြုနှိုင်သည်,1275,gnome-calculator,po/my.po
+Boolean XOR is only defined for positive integers,1279,Boolean XOR ကိုအပေါင်းကိန်းများတွင်သာအသုံးပြုနှိုင်သည်,1280,gnome-calculator,po/my.po
+Boolean NOT is only defined for positive integers,1284,Boolean NOT ကိုအပေါင်းကိန်းများတွင်သာအသုံးပြုနှိုင်သည်,1285,gnome-calculator,po/my.po
+Division by zero is undefined,1299,သုညဖြင့်စား၍မရပါ,1300,gnome-calculator,po/my.po
+Root must be non-zero,1317,ကိန်းရင်းကို သုညမဖြစ်စေရပါ,1318,gnome-calculator,po/my.po
+Current network location,26,လက်ရှိကွန်ရက်တည်နေရာ,27,gnome-control-center,po/my.po
+Alert Type,64,အချက်ပေးအမျိုးအစား,65,gnome-control-center,po/my.po
+The type of alert,68,အချက်ပေးပုံစံ,69,gnome-control-center,po/my.po
+Alert Buttons,72,အချက်ပေးခလုတ်များ,73,gnome-control-center,po/my.po
+The buttons shown in the alert dialog,76,အချက်ပေးဖောင်တွင်ပြမည့်ခလုတ်များ,77,gnome-control-center,po/my.po
+Show more _details,80,အသေးစိတ်ကြည့်ရန်,81,gnome-control-center,po/my.po
+Select Image,84,ပုံရွေးပါ,85,gnome-control-center,po/my.po
+No Image,88,ပုံမရှိပါ,89,gnome-control-center,po/my.po
+Images,93,ပုံများ,94,gnome-control-center,po/my.po
+All Files,98,ဖိုင်အားလုံး,99,gnome-control-center,po/my.po
+Unable to open address book,108,လိပ်စာစာရင်းကိုဖွင့်၍မရပါ,109,gnome-control-center,po/my.po
+About %s,113,%s အကြောင်း,114,gnome-control-center,po/my.po
+A_ddress:,121,လိပ်စာ,122,gnome-control-center,po/my.po
+A_ssistant:,125,လက်ထောက်,126,gnome-control-center,po/my.po
+About Me,130,ကျွန်တော့်အကြောင်း,131,gnome-control-center,po/my.po
+Address,134,နေရပ်လိပ်စာ,135,gnome-control-center,po/my.po
+C_ity:,138,မြို့,139,gnome-control-center,po/my.po
+C_ompany:,142,ကုမ္မဏီ,143,gnome-control-center,po/my.po
+Change Passwo_rd...,150,စကားဝှက်ပြောင်းရန်,151,gnome-control-center,po/my.po
+Ci_ty:,154,_T မြို့,155,gnome-control-center,po/my.po
+Co_untry:,158,_U နိုင်ငံ,159,gnome-control-center,po/my.po
+Contact,162,ဆက်သွယ်ရန်,163,gnome-control-center,po/my.po
+Cou_ntry:,166,_N  နိုင်ငံ,167,gnome-control-center,po/my.po
+Disable _Fingerprint Login...,170,_F လက်ဗွေစနစ်ဖြင့်ဝင်ရောက်မှုကိုပယ်ဖျက်,171,gnome-control-center,po/my.po
+Email,174,အီးမေးလ်,175,gnome-control-center,po/my.po
+Enable _Fingerprint Login...,178,လက်ဗွေစနစ်ဖြင့်ဝင်ရောက်မှုကိုအသုံးပြု,179,gnome-control-center,po/my.po
+Full Name,182,အမည်အပြည့်အစုံ,183,gnome-control-center,po/my.po
+Hom_e:,187,_E အိမ်ဖုန်း,188,gnome-control-center,po/my.po
+Home,192,အိမ်လိပ်စာ,193,gnome-control-center,po/my.po
+Instant Messaging,200,အင်တာနက်ဆက်သွယ်မှု,201,gnome-control-center,po/my.po
+Job,204,အလုပ်အကိုင်,205,gnome-control-center,po/my.po
+Personal Info,220,ကိုယ်ရေးရာဇဝင်,221,gnome-control-center,po/my.po
+Select your photo,224,ဓာတ်ပုံရွေးပါ,225,gnome-control-center,po/my.po
+State/Pro_vince:,228,_V ပြည်နယ်/စီရင်စု,229,gnome-control-center,po/my.po
+Telephone,232,တယ်လီဖုန်းနံပါတ်,233,gnome-control-center,po/my.po
+User name:,236,အသုံးပြုမည့်အမည်,237,gnome-control-center,po/my.po
+Web,240,ဝဘ်,241,gnome-control-center,po/my.po
+Web _log:,244,_L ဝဘ်မှတ်သားချက်,245,gnome-control-center,po/my.po
+Wor_k:,248,_K အလုပ်ဖုန်း,249,gnome-control-center,po/my.po
+Work,252,အလုပ်အကိုင်,253,gnome-control-center,po/my.po
+Work _fax:,256,ရုံး၏ ဖက်(စ်),257,gnome-control-center,po/my.po
+_Address:,264,_A လိပ်စာ,265,gnome-control-center,po/my.po
+_Department:,268,_D ဌာန,269,gnome-control-center,po/my.po
+_Home page:,276,_H အင်တာနက်စာမျက်နှာ,277,gnome-control-center,po/my.po
+_Manager:,285,_M မန်နေဂျာ,286,gnome-control-center,po/my.po
+_Mobile:,289,_M မိုဘိုင်းဖုန်း,290,gnome-control-center,po/my.po
+_Profession:,293,_P ကျွမ်းကျင်မှု/စိတ်ဝင်စားမှု,294,gnome-control-center,po/my.po
+_State/Province:,297,_S ပြည်နယ်/စီရင်စု,298,gnome-control-center,po/my.po
+_Title:,301,_T ခေါင်းစဉ်,302,gnome-control-center,po/my.po
+_Work:,305,_W အလုပ်,306,gnome-control-center,po/my.po
+Set your personal information,321,ကိုယ်ရေးအချက်အလက်များကိုသတ်မှတ်ပါ,322,gnome-control-center,po/my.po
+You are not allowed to access the device. Contact your system administrator.,325,ဒရိုက်ဗ်သို့ဝင်ရောက်ခွင့်မရှိပါ စနစ်ပိုင်းခန့်ခွဲသူကိုဆက်သွယ်ပါ,327,gnome-control-center,po/my.po
+The device is already in use.,330,ဤဒရိုက်ဗ်ကိုအသုံးပြုထားသည်,331,gnome-control-center,po/my.po
+An internal error occured,334,စနစ်ပိုင်းဆိုင်ရာအမှားဖြစ်ပွားသည်,335,gnome-control-center,po/my.po
+Delete registered fingerprints?,338,မှတ်ပုံတင်ထားသည့်လက်ဗွေမှတ်စနစ်ကိုဖျက်သိမ်း,339,gnome-control-center,po/my.po
+_Delete Fingerprints,342,_D လက်ဗွေမှတ်စနစ်ကိုဖျက်သိမ်း,343,gnome-control-center,po/my.po
+Do you want to delete your registered fingerprints so fingerprint login is disabled?,346,အသုံးပြုရန်မှတ်ပုံတင်ထားသည့် လက်ဗွေကိုဖျက်ပစ်မလား ဖျက်မယ်ဆိုရင် လက်ဗွေစနစ်ဖြင်မဝင်ရောက်နိုင်တော့ပါ,349,gnome-control-center,po/my.po
+Done!,353,ပြီးဆုံး,354,gnome-control-center,po/my.po
+Could not access '%s' device,362,ဒရိုက်ဗ် '%s' ကိုဝင်လို့မရပါ,363,gnome-control-center,po/my.po
+Could not start finger capture on '%s' device,370,ဒရိုက်ဗ် '%s'မှာလက်ဗွေမှတ်ခြင်းကိုမလုပ်ဆောင်နိုင်ပါ,371,gnome-control-center,po/my.po
+Could not access any fingerprint readers,374,လက်ဗွေမှတ်ကရိယာကိုအသုံးမပြုနိုင်ပါ,375,gnome-control-center,po/my.po
+Please contact your system administrator for help.,378,အကူအညီအတွက် စနစ်ပိုင်းဆိုင်ရာခန့်ခဲ့သူနဲ့ဆက်သွယ်ပါ,379,gnome-control-center,po/my.po
+Enable Fingerprint Login,383,လက်ဗွေမှတ်စနစ်ဖြင့်ဝင်ရောက်ခြင်းကိုအသုံးပြုပါ,384,gnome-control-center,po/my.po
+Right index finger,430,ညာလက်ညှိုး,431,gnome-control-center,po/my.po
+Right little finger,434,ညာလက်သန်း,435,gnome-control-center,po/my.po
+Right middle finger,438,ညာလက်ခလယ်,439,gnome-control-center,po/my.po
+Right ring finger,442,ညာလက်သူကြွယ်,443,gnome-control-center,po/my.po
+Right thumb,446,ညာလက်မ,447,gnome-control-center,po/my.po
+Select finger,450,လက်ချောင်းရွေးပါ,451,gnome-control-center,po/my.po
+Authenticated!,474,အသိအမှတ်ပြုသည်,475,gnome-control-center,po/my.po
+Your password has been changed since you initially authenticated! Please re-authenticate.,485,စကားဝှက်ပထမအကြီမ်အသိအမှတ်ပြုစဉ်ကတည်းကပြောင်းသွားပြီ ပြန်အသိအမှတ်ပြုခြင်းလုပ်ဆောင်ပါ,488,gnome-control-center,po/my.po
+That password was incorrect.,491,စကားဝှက်မှားနေသည်,492,gnome-control-center,po/my.po
+Your password has been changed.,495,စကားဝှက်ကိုပြောင်းပြီးပြီ,496,gnome-control-center,po/my.po
+System error: %s.,502,စနစ်ပိုင်းဆိုင်ရာအမှား : %s.,503,gnome-control-center,po/my.po
+The password is too short.,506,စကားဝှက်တိုလွန်းသည်,507,gnome-control-center,po/my.po
+The password is too simple.,510,စကားဝှက်ကအရမ်းလွယ်လွန်းသည်,511,gnome-control-center,po/my.po
+The old and new passwords are too similar.,514,စကားဝှက်အဟောင်းနှင့်အသစ်ပေးတဲ့စကားဝှက်တူနေသည်,515,gnome-control-center,po/my.po
+The new password must contain numeric or special character(s).,518,စကားဝှက်မှာ ဂဏန်းများနှင့် အထူးပြုအက္ခရာများပါဝင်ရမည်,519,gnome-control-center,po/my.po
+The old and new passwords are the same.,522,စကားဝှက်အဟောင်းနှင် အသစ်တူညီနေသည်,523,gnome-control-center,po/my.po
+The new password has already been used recently.,526,စကားဝှက်အသစ်က လက်တလောအသုံးပြုထားပြီးဖြစ်သည်,527,gnome-control-center,po/my.po
+Unable to launch %s: %s,532, %s: %s ကိုဖွင့်မရဘူး,533,gnome-control-center,po/my.po
+A system error has occurred,540,စနစ်ပိုင်းဆိုင်ရာအမှားဖြစ်သွားသည်,541,gnome-control-center,po/my.po
+Checking password...,545,စကားဝှက်ကို စစ်နေသည်,546,gnome-control-center,po/my.po
+Click <b>Change password</b> to change your password.,549,စကားဝှက်အသစ်ပြောင်းရန်  <b>စကားဝှက်ပြောင်း</b>ကိုနှိပ်ပါ,550,gnome-control-center,po/my.po
+Please type your password in the <b>New password</b> field.,553,<b>စကားဝှက်အသစ်</b> ရိုက်ရန်နေရာတွင် စကားဝှက်ကိုရိုက်ထည့်ပေးပါ ,554,gnome-control-center,po/my.po
+Please type your password again in the <b>Retype new password</b> field.,558,<b>စကားဝှက်ပြန်ရိုက်ရန်</b>နေရာတွင် စကားဝှက်ကိုပြန်ရိုက်ထည့်ပေးပါ,560,gnome-control-center,po/my.po
+The two passwords are not equal.,563,စကားဝှက်နှစ်လုံးတူညီမှုမရှိပါ,564,gnome-control-center,po/my.po
+Change pa_ssword,567,_S စကားဝှက်ကိုပြောင်း,568,gnome-control-center,po/my.po
+Change password,571,စကားဝှက်ပြောင်းပါ,572,gnome-control-center,po/my.po
+Change your password,575,စကားဝှက်ပြောင်းခြင်း,576,gnome-control-center,po/my.po
+Current _password:,579,လက်ရှိစကားဝှက်,580,gnome-control-center,po/my.po
+"To change your password, enter your current password in the field below and click <b>Authenticate</b>.\nAfter you have authenticated, enter your new password, retype it for verification and click <b>Change password</b>.",583,စကားဝှက်ကိုပြောင်းရန် စကားဝှက်ကို အောက်တွင်မြင်ရသည့် စကားဝှက်များရိုက်ရန် နေရာတွင်ရိုက်၍ <b>အသိအမှတ်ပြု</b>  ဆိုသည့်ခလုတ်ကိုနှိပ်ပါ,588,gnome-control-center,po/my.po
+_Authenticate,593,_A အသိအမှတ်ပြု,594,gnome-control-center,po/my.po
+_New password:,597,_N စကားဝှက်အသစ်,598,gnome-control-center,po/my.po
+_Retype new password:,601,_R စကားဝှက်ကိုပြန်ရိုက်ရန်,602,gnome-control-center,po/my.po
+Preferences,644,လိုလားချက်,645,gnome-control-center,po/my.po
+_Preferred Applications,660,_P ပိုကြိုက်အပ္ပလီကေးရှင်း,661,gnome-control-center,po/my.po
+Add Wallpaper,668,နောက်ခံပုံထည့်,669,gnome-control-center,po/my.po
+All files,672,ဖိုင်အားလုံး,673,gnome-control-center,po/my.po
+Font may be too large,676,ဖောင့်အရွယ်အစားကြီးလွန်းသည်,677,gnome-control-center,po/my.po
+Use previous font,704,အရင်ဖောင့်ပြန်သုံး,705,gnome-control-center,po/my.po
+Use selected font,708,ရွေးထားသည့်ဖောင့်ကိုသုံးမည်,709,gnome-control-center,po/my.po
+filename,721,ဖိုင်အမည်,722,gnome-control-center,po/my.po
+Apply Background,759,နောက်ခံပုံသတ်မှတ်,760,gnome-control-center,po/my.po
+Apply Font,763,ဖောင့်ကိုသုံးပါ,764,gnome-control-center,po/my.po
+Custom,806,စိတ်ကြိုက်,807,gnome-control-center,po/my.po
+Appearance Preferences,810,ပုံပန်းသွင်ပြင် လိုလားချက်,811,gnome-control-center,po/my.po
+Background,814,နောက်ခံပုံ,815,gnome-control-center,po/my.po
+C_olors:,826,_O အရောင်,827,gnome-control-center,po/my.po
+C_ustomize...,830,_U စိတ်ကြိုက်,831,gnome-control-center,po/my.po
+Center,834,ဗဟို,835,gnome-control-center,po/my.po
+Colors,842,အရောင်,843,gnome-control-center,po/my.po
+Customize Theme,850,စိတ်ကြိုက် အမြင်အဆင်,851,gnome-control-center,po/my.po
+D_etails...,854,_E အသေးစိတ်,855,gnome-control-center,po/my.po
+Des_ktop font:,858,_K အလုပ်ခုံဖောင့်,859,gnome-control-center,po/my.po
+Font Rendering Details,862,ဖောင့် အသေးစိတ်ပုံဖော်မှု,863,gnome-control-center,po/my.po
+Fonts,866,စာလုံးပုံစံများ,867,gnome-control-center,po/my.po
+Get more backgrounds online,870,အင်တာနက်မှ နောက်ခံများကိုဆွဲယူ,871,gnome-control-center,po/my.po
+Get more themes online,874,အင်တာနက်မှ အမြင်အဆင်များကိုဆွဲယူ,875,gnome-control-center,po/my.po
+Icons,891,ပုံသကင်္တများ,892,gnome-control-center,po/my.po
+Icons only,895,ပုံသကင်္တများသာ,896,gnome-control-center,po/my.po
+Pointer,912,ပွိုင့်တာ,913,gnome-control-center,po/my.po
+Rendering,920,ပုံဖော်ခြင်း,921,gnome-control-center,po/my.po
+Save Theme As...,924,အမြင်အဆင် ပြောင်းသိမ်းရန်,925,gnome-control-center,po/my.po
+Save _As...,928,_A ပြောင်းသိမ်းရန်...,929,gnome-control-center,po/my.po
+Save _background image,932,_B နောက်ခံပုံအားသိမ်းရန်,933,gnome-control-center,po/my.po
+Scale,936,စကေး,937,gnome-control-center,po/my.po
+Text,973,စာသား,974,gnome-control-center,po/my.po
+Text only,985,စာသားသာ,986,gnome-control-center,po/my.po
+Theme,993,အမြင်အဆင်,994,gnome-control-center,po/my.po
+_Add...,1019,_A ထည့်ရန်,1020,gnome-control-center,po/my.po
+_Application font:,1023,_A အပ္ပလီကေးရှင်းဖောင့်,1024,gnome-control-center,po/my.po
+_Description:,1032,_D အကြောင်းအရာများ,1033,gnome-control-center,po/my.po
+_Document font:,1036,_D စာတမ်းဖောင့်,1037,gnome-control-center,po/my.po
+_Install...,1052,_I သွင်းရန်,1053,gnome-control-center,po/my.po
+_Name:,1065,_N အမည်,1066,gnome-control-center,po/my.po
+_None,1069,_N မသတ်မှတ်ထား,1070,gnome-control-center,po/my.po
+_Size:,1086,_S အရွယ်အစား,1087,gnome-control-center,po/my.po
+_Style:,1094,_S ပုံစံ,1095,gnome-control-center,po/my.po
+_Window title font:,1107,_W ဝင်ဒိုးခေါင်းစဉ်စာသား,1108,gnome-control-center,po/my.po
+_Windows:,1111,_W ဝင်ဒိုး,1112,gnome-control-center,po/my.po
+Customize the look of the desktop,1123,အလုပ်ခုံမြင်ကွင်းကိုစိတ်ကြိုက်သတ်မှတ်,1124,gnome-control-center,po/my.po
+Installs themes packages for various parts of the desktop,1127,အလုပ်ခုံ အစိတ်အပိုင်းများအတွက် အမြင်အဆင်ပက်ကေ့များကိုသွင်းပါ,1128,gnome-control-center,po/my.po
+Theme Installer,1131,အမြင်အဆင်သွင်းယူရန်,1132,gnome-control-center,po/my.po
+Gnome Theme Package,1135,Gnome အမြင်အဆင်ပက်ကေ့,1136,gnome-control-center,po/my.po
+No Desktop Background,1139,အလုပ်ခုံနောက်ခံမရှိပါ,1140,gnome-control-center,po/my.po
+%d %s by %d %s,1157,%d %s အရ %d %s,1158,gnome-control-center,po/my.po
+pixel,1162,ပစ်ဇယ်,1164,gnome-control-center,po/my.po
+"<b>%s</b>\n%s, %s\nFolder: %s",1172,"<b>%s</b>\n%s, %s\nဖိုင်တွဲ: %s",1176,gnome-control-center,po/my.po
+<b>%s</b>\n%s\nFolder: %s,1187,<b>%s</b>\n%s\nဖိုင်တွဲ: %s,1191,gnome-control-center,po/my.po
+Cannot install theme,1202,အမြင်အဆင်ကိုသွင်းမရပါ,1203,gnome-control-center,po/my.po
+There was a problem while extracting the theme.,1211,အမြင်အဆင်ကိုဖြည်ချနေစဉ်အမှားဖြစ်သွားသည်,1212,gnome-control-center,po/my.po
+There was an error installing the selected file,1215,ရွေးထားသည့်ဖိုင်ကိုသွင်းနေစဉ်အမှားဖြစ်သွားသည်,1216,gnome-control-center,po/my.po
+"\""%s\"" does not appear to be a valid theme.",1220,"\""%s\"" ကမှန်ကန်တဲ့အမြင်အဆင်မဟုတ်လောက်ဘူး",1221,gnome-control-center,po/my.po
+"Installation for theme \""%s\"" failed.",1232,"အမြင်အဆင်  \""%s\"" ကိုသွင်းယူခြင်းမပြီးမြောက်ပါ",1233,gnome-control-center,po/my.po
+"The theme \""%s\"" has been installed.",1237,"အမြင်အဆင်  \""%s\"" ကိုသွင်းယူခြင်းပြီးဆုံးပြီ",1238,gnome-control-center,po/my.po
+"Would you like to apply it now, or keep your current theme?",1241,အမြင်အဆင်အသစ်ကိုသုံးမလား(သို့)အခုအမြင်အဆင်ပဲဆက်သုံးမလား,1242,gnome-control-center,po/my.po
+Keep Current Theme,1245,လက်ရှိအမြင်အဆင်ကိုသိမ်းထား,1246,gnome-control-center,po/my.po
+Apply New Theme,1249,အမြင်အဆင်အသစ်ကို အသုံးချ,1250,gnome-control-center,po/my.po
+GNOME Theme %s correctly installed,1254,GNOME အမြင်အဆင် %s  ကို မှန်ကန်စွာသွင်းပြီးပြီ,1255,gnome-control-center,po/my.po
+Failed to create temporary directory,1258,ယာယီဖိုင်လမ်းညွှန်တည်ဆောက်၍မရပါ,1259,gnome-control-center,po/my.po
+New themes have been successfully installed.,1262,အမြင်အဆင်အသစ်ကို မှန်ကန်စွာသွင်းပြီးပြီ ,1263,gnome-control-center,po/my.po
+No theme file location specified to install,1266,သွင်းယူရန်သတ်မှတ်ပေးသောလမ်းကြောင်းတွင် အမြင်အဆင်ဖိုင်များကိုမတွေ့ပါ,1267,gnome-control-center,po/my.po
+Select Theme,1277,အမြင်အဆင်ကိုရွေးပါ,1278,gnome-control-center,po/my.po
+Theme Packages,1281,အမြင်အဆင်ပက်ကေ့များ,1282,gnome-control-center,po/my.po
+Theme name must be present,1286,အမြင်အဆင်အမည် ပေးရမည်,1287,gnome-control-center,po/my.po
+The theme already exists. Would you like to replace it?,1290,အမြင်အဆင်က ရှိပြီးသားဖြစ်သည် အစားထိုးပြီးအသုံးပြုမလား,1291,gnome-control-center,po/my.po
+_Overwrite,1295,_O ထပ်ရေးသည်,1296,gnome-control-center,po/my.po
+Would you like to delete this theme?,1299,အခုအမြင်အဆင်ကိုဖျက်ပစ်တော့မည်လား,1300,gnome-control-center,po/my.po
+Theme cannot be deleted,1303,အမြင်အဆင်ကိုဖျက်လို့မရပါ,1304,gnome-control-center,po/my.po
+There was an error displaying help: %s,1326, %s အကူအညီကိုဖော်ပြစဉ်အမှားဖြစ်ပွားသည်,1327,gnome-control-center,po/my.po
+Copying file: %u of %u,1331,ဖိုင်ကူးယူခြင်း  %u ၏ %u,1332,gnome-control-center,po/my.po
+Copying '%s',1336,'%s' ကိုကူးယူခြင်း,1337,gnome-control-center,po/my.po
+Copying files,1341,ဖိုင်များကိုကူးယူခြင်း,1342,gnome-control-center,po/my.po
+From URI,1353,URI မှတဆင့်,1354,gnome-control-center,po/my.po
+To URI,1361,URI သို့,1362,gnome-control-center,po/my.po
+Current URI index,1377,လက်ရှိ URI အမှတ်,1378,gnome-control-center,po/my.po
+Current URI index - starts from 1,1381,လက်ရှိ URI အမှတ် - ၁ မှ အစပြုသည်,1382,gnome-control-center,po/my.po
+Total URIs,1385,URIs စုစုပေါင်း,1386,gnome-control-center,po/my.po
+Total number of URIs,1389,URIs အာလုံးပေါင်းအရေအတွက်,1390,gnome-control-center,po/my.po
+File '%s' already exists. Do you want to overwrite it?,1394,ဖိုင် '%s' ကရှိပြီးသားဖြစ်သည် အစားထိုးယူမလား,1395,gnome-control-center,po/my.po
+_Skip,1398,_S ကျော်ပါ,1399,gnome-control-center,po/my.po
+Overwrite _All,1402,_A အားလုံးအစားထိုးပါ,1403,gnome-control-center,po/my.po
+Please select an image.,1491,ပုံကိုရွေးချယ်ပေးပါ,1492,gnome-control-center,po/my.po
+_Select,1495,_S ရွေးချယ်ပါ,1496,gnome-control-center,po/my.po
+Default Pointer - Current,1499,မူလညွှန်ပြသကေင်္တ - လက်ရှီ,1500,gnome-control-center,po/my.po
+White Pointer,1503,အဖြူရောင် ညွှန်ပြသကေင်္တ,1504,gnome-control-center,po/my.po
+White Pointer - Current,1507,အဖြူရောင်ညွှန်ပြသကေင်္တ - လက်ရှီ,1508,gnome-control-center,po/my.po
+Preferred Applications,1549,ပိုကြိုက်ဆော့ဝဲများ,1550,gnome-control-center,po/my.po
+Select your default applications,1553,ပုံသေသုံးအပ္ပလီကေးရှင်းများရွေးပါ,1554,gnome-control-center,po/my.po
+C_ommand:,1604,_O ကွန်မန်း,1605,gnome-control-center,po/my.po
+Co_mmand:,1608,_M ကွန်မန်း,1609,gnome-control-center,po/my.po
+Instant Messenger,1620,စကားပြောပရိုဂရမ်,1621,gnome-control-center,po/my.po
+Internet,1624,အင်တာနက်,1625,gnome-control-center,po/my.po
+Multimedia,1636,မာတီမီဒီယာ,1637,gnome-control-center,po/my.po
+Run at st_art,1656,_A အစပြုပြုချင်း ဖွင့်ပါ,1657,gnome-control-center,po/my.po
+Run in t_erminal,1660,_E တာမီနယ်တွင်ဖွင့်ပါ,1661,gnome-control-center,po/my.po
+System,1664,စနစ်ဆိုင်ရာ,1665,gnome-control-center,po/my.po
+Video Player,1676,ရုပ်ရှင်ဖွင့်စက်,1677,gnome-control-center,po/my.po
+Visual,1680,ပုံသွင်ပြင်,1681,gnome-control-center,po/my.po
+Rhythmbox Music Player,1860, Rhythmbox သီချင်းဖွင့်စက်,1861,gnome-control-center,po/my.po
+SeaMonkey Mail,1868,SeaMonkey အီးမေးလ်,1869,gnome-control-center,po/my.po
+Left,1905,ဘယ်ဘက်,1906,gnome-control-center,po/my.po
+Make Default,1909,မူလတိုင်းသတ်မှတ်,1910,gnome-control-center,po/my.po
+Monitor,1914,မော်နီတာ,1915,gnome-control-center,po/my.po
+Monitor Preferences,1918,မော်နီတာဆိုင်ရာလိုလားချက်,1919,gnome-control-center,po/my.po
+Normal,1924,ပုံမှန်,1925,gnome-control-center,po/my.po
+Off,1928,ပိတ်,1929,gnome-control-center,po/my.po
+On,1932,ဖွင့်,1933,gnome-control-center,po/my.po
+Panel icon,1936,ဘားတန်းပုံသကင်္တ,1937,gnome-control-center,po/my.po
+Right,1949,ညာဘက်,1950,gnome-control-center,po/my.po
+_Detect monitors,1961,_D မော်နီတာကိုမှတ်ယူ,1962,gnome-control-center,po/my.po
+_Show monitors in panel,1969,_S မော်နီတာကိုဘာတန်းတွင်ဖော်ပြပါ,1970,gnome-control-center,po/my.po
+Monitors,1977,မော်နီတာ,1978,gnome-control-center,po/my.po
+%s must be a directory\n,2045,%s  သည်ဖိုင်လမ်းညွှန်ဖြစ်နိုင်သည်\n,2046,gnome-control-center,po/my.po
+Could not open %s/%s: %s\n,2051,%s/%s: %s ကိုဖွင့်မရပါ\n,2052,gnome-control-center,po/my.po
+Could not rename %s to %s: %s\n,2056,%s to %s: %s အမည်ပြောင်းမရပါ\n,2057,gnome-control-center,po/my.po
+Sound,2132,အသံ,2133,gnome-control-center,po/my.po
+Desktop,2137,အလုပ်ခုံ,2138,gnome-control-center,po/my.po
+<Unknown Action>,2174,<အမည်မသိလုပ်ဆောင်ချက်>,2175,gnome-control-center,po/my.po
+Custom Shortcuts,2179,စိတ်ကြိုက အမြန်ခလုတ်,2180,gnome-control-center,po/my.po
+Too many custom shortcuts,2217,စိတ်ကြိုက်အမြန်ခလုတ်များ များလွန်းသည်,2218,gnome-control-center,po/my.po
+Action,2221,လုပ်ဆောင်ချက်,2222,gnome-control-center,po/my.po
+Shortcut,2225,အမြန်ခလုတ်,2226,gnome-control-center,po/my.po
+Custom Shortcut,2229,စိတ်ကြိုက်အမြန်ခလုတ်,2230,gnome-control-center,po/my.po
+Keyboard Shortcuts,2234,ကီးဘုတ် အမြန်ခလုတ်,2235,gnome-control-center,po/my.po
+Assign shortcut keys to commands,2244,ကွန်မန်းသို့အမြန်ခလုတ်များကို ထည့်သွင်းပါ,2245,gnome-control-center,po/my.po
+- GNOME Keyboard Preferences,2262,GNOME ကီးဘုတ်လိုလားချက်များ,2263,gnome-control-center,po/my.po
+General,2309,အထွေထွေရေးရာ,2310,gnome-control-center,po/my.po
+D_elay:,2361,_E ကြာချိန်,2362,gnome-control-center,po/my.po
+Keyboard Preferences,2386,ကီးဘုတ်လိုလားချက်,2387,gnome-control-center,po/my.po
+Keyboard _model:,2390,ကီးဘုတ်အမျိုးအစား,2391,gnome-control-center,po/my.po
+Layouts,2394,လက်ကွက်,2395,gnome-control-center,po/my.po
+List of keyboard layouts selected for usage,2398,အသုံးပြုရန်အတွက် ကီးဘုတ်လက်ကွက်စာရင်း,2399,gnome-control-center,po/my.po
+Move _Down,2417,_D အောက်,2418,gnome-control-center,po/my.po
+Move _Up,2421,_U အပေါ်,2422,gnome-control-center,po/my.po
+Move the selected keyboard layout down in the list,2425,စာရင်းထဲမှ ကီးဘုတ်ပုံစံကို အောက်သို့ချပါ,2426,gnome-control-center,po/my.po
+Move the selected keyboard layout up in the list,2429,စာရင်းထဲမှ ကီးဘုတ်ပုံစံကို အပေါ်သို့တင်ပါ,2430,gnome-control-center,po/my.po
+Print a diagram of the selected keyboard layout,2437,ရွေးချယ်သည့် ကီးဘုတ်လက်ကွက်ပုံစံကို ပုံနှိပ်ပါ,2438,gnome-control-center,po/my.po
+Remove the selected keyboard layout from the list,2441,ရွေးချယ်လိုက်သည့် ကီးဘုတ်လက်ကွက်ကိုစာရင်းမှဖယ်ထုတ်ပါ,2442,gnome-control-center,po/my.po
+Reset to De_faults,2459,_F မူလတိုင်းပြန်သတ်မှတ်,2460,gnome-control-center,po/my.po
+S_peed:,2463,_P အမြန်နှုန်း,2464,gnome-control-center,po/my.po
+Select a keyboard layout to be added to the list,2467,စာရင်းထဲသို့ထည့်ရန် ကီးဘုတ်လက်ကွက်ကိုရွေးပါ,2468,gnome-control-center,po/my.po
+_Options...,2519,_O ရွေးချယ်စရာများ,2520,gnome-control-center,po/my.po
+_Speed:,2539,_S အမြန်နှုန်း,2540,gnome-control-center,po/my.po
+minutes,2551,မိနစ်,2552,gnome-control-center,po/my.po
+By _country,2555,_C နိုင်ငံအရ,2556,gnome-control-center,po/my.po
+By _language,2559,_L ဘာသာစကားအရ,2560,gnome-control-center,po/my.po
+Preview:,2567,နမူနာ,2568,gnome-control-center,po/my.po
+_Country:,2571,_C နိုင်ငံ,2572,gnome-control-center,po/my.po
+_Language:,2575,_L ဘာသာစကား,2576,gnome-control-center,po/my.po
+Choose a Keyboard Model,2583,ကီးဘုတ်အမျိုးအစားရွေးပါ,2584,gnome-control-center,po/my.po
+_Models:,2587,_M အမျိုးအစား,2588,gnome-control-center,po/my.po
+_Vendors:,2591,_V ထုတ်လုပ်သူ,2592,gnome-control-center,po/my.po
+Keyboard Layout Options,2595,ကီးဘုတ်လက်ကွက်ရွေးချယ်ရန်,2596,gnome-control-center,po/my.po
+Unknown,2599,အမည်မဲ့,2600,gnome-control-center,po/my.po
+Vendors,2607,ထုတ်လုပ်သူ,2608,gnome-control-center,po/my.po
+Models,2611,အမျိုးအစားများ,2612,gnome-control-center,po/my.po
+Default,2616,မူလပုံစံ,2617,gnome-control-center,po/my.po
+Keyboard,2620,ကီးဘုတ်,2621,gnome-control-center,po/my.po
+Set your keyboard preferences,2624,ကီးဘုတ်အစီအမံများကိုသတ်မှတ်,2625,gnome-control-center,po/my.po
+D_ouble click:,2675,_O နှစ်ချက်နှိပ်,2676,gnome-control-center,po/my.po
+Mouse Preferences,2723,မောက်(စ်)လိုလားချက်,2724,gnome-control-center,po/my.po
+Pointer Speed,2727,ပွိုင့်တာ အမြန်နှုန်း,2728,gnome-control-center,po/my.po
+Seco_ndary click:,2735,_N ,2736,gnome-control-center,po/my.po
+_Disabled,2772,_D အသုံးမပြု,2773,gnome-control-center,po/my.po
+_Single click:,2800,_S တစ်ချက်နှိပ်,2801,gnome-control-center,po/my.po
+_Timeout:,2804,_T ကြာချိန်,2805,gnome-control-center,po/my.po
+Mouse,2812,မောက်(စ်),2813,gnome-control-center,po/my.po
+Set your mouse preferences,2816,မောက်(စ်)လိုလားချက်များကို သတ်မှတ်ပါ,2817,gnome-control-center,po/my.po
+New Location...,2821,တည်နေရာအသစ်,2822,gnome-control-center,po/my.po
+Location already exists,2825,တည်နေရာသတ်မှတ်ထားပြီး,2826,gnome-control-center,po/my.po
+Network Proxy,2829,ကွန်ရက် ကြားခံ,2830,gnome-control-center,po/my.po
+Set your network proxy preferences,2833,ကွန်ရက် ကြားခံလိုလားချက်ကိုသတ်မှတ်,2834,gnome-control-center,po/my.po
+<b>Di_rect internet connection</b>,2837,<b>_R အင်တာနက်ကိုတိုက်ရိုက်ချိတ်ခြင်း</b>,2838,gnome-control-center,po/my.po
+<b>_Automatic proxy configuration</b>,2841,<b>_A ကြားခံကိုအလိုအလျောက်သတ်မှတ်ခြင်း</b>,2842,gnome-control-center,po/my.po
+<b>_Manual proxy configuration</b>,2845,_M စိတ်ကြိုက်ကြားခံသတ်မှတ်ခြင်း,2846,gnome-control-center,po/my.po
+<b>_Use authentication</b>,2849,<b>_U အသိအမှတ်ပြုခြင်း</b>,2850,gnome-control-center,po/my.po
+Autoconfiguration _URL:,2853,_U အလိုအလျောက် URL သတ်မှတ်ခြင်း,2854,gnome-control-center,po/my.po
+C_reate,2857,_R ထည့်သွင်း,2858,gnome-control-center,po/my.po
+Create New Location,2861,နေရာအသစ်ထည့်,2862,gnome-control-center,po/my.po
+HTTP Proxy Details,2865,HTTP ကြားခံအသေးစိတ်,2866,gnome-control-center,po/my.po
+H_TTP proxy:,2869,_T HTTP ကြားခံ,2870,gnome-control-center,po/my.po
+Ignore Host List,2873,အသုံးမပြုသည့် အခြေစိုက်စာရင်း,2874,gnome-control-center,po/my.po
+Ignored Hosts,2877,အသုံးမပြုသည့် အခြေစိုက်များ,2878,gnome-control-center,po/my.po
+Location:,2881,တည်နေရာ,2882,gnome-control-center,po/my.po
+Network Proxy Preferences,2885,နက်ဝက် ကြားခံလိုလားချက် သတ်မှတ်ရန်,2886,gnome-control-center,po/my.po
+Port:,2889,ဆက်သွယ်ပေါက်,2890,gnome-control-center,po/my.po
+Proxy Configuration,2893,ကြားခံ သတ်မှတ်ခြင်း,2894,gnome-control-center,po/my.po
+S_ocks host:,2897,_O Socks အခြေစိုက်ရာ,2898,gnome-control-center,po/my.po
+The location already exists.,2901,တည်နေရာကိုထည့်သွင်းပြီသားဖြစ်သည်,2902,gnome-control-center,po/my.po
+U_sername:,2905,_S အသုံးပြုအမည်,2906,gnome-control-center,po/my.po
+_Delete Location,2909,_D တည်နေရာကိုဖျက်,2910,gnome-control-center,po/my.po
+_Details,2913,_D အသေးစိတ်,2914,gnome-control-center,po/my.po
+_FTP proxy:,2917,_FTP ကြားခံ,2918,gnome-control-center,po/my.po
+_Location name:,2921,_L တည်နေရာ,2922,gnome-control-center,po/my.po
+_Password:,2925,_P စကားဝှက်,2926,gnome-control-center,po/my.po
+_Secure HTTP proxy:,2929,_S HTTPs ကြားခံ,2930,gnome-control-center,po/my.po
+_Use the same proxy for all protocols,2933,_U ပရိုတိုကောအားလုံးအတွက် ကြားခံ တစ်မျိုးသာသုံးမည်,2934,gnome-control-center,po/my.po
+Titlebar Action,2961,ခေါင်းစီးဘားတန်းလုပ်ဆောင်မှု,2962,gnome-control-center,po/my.po
+Window Preferences,2969,ဝင်ဒိုးလိုလားချက်များ,2970,gnome-control-center,po/my.po
+_Double-click titlebar to perform this action:,2977,_D အခုလုပ်ဆောင်မှုကိုပြုလုပ်ရန် ခေါင်းစဉ်ဘားတန်းကို နှစ်ချက်နှိပ်ပါ,2978,gnome-control-center,po/my.po
+seconds,2993,စက္ကန့်,2994,gnome-control-center,po/my.po
+Set your window properties,2997,ဝင်းဒိုးဆိုင်ရာ ဂုဏ်သတ္တိများသတ်မှတ်ပါ,2998,gnome-control-center,po/my.po
+Windows,3001,ဝင်းဒိုး,3002,gnome-control-center,po/my.po
+Maximize,3010,အကျယ်ချဲ့,3011,gnome-control-center,po/my.po
+Maximize Vertically,3014,ဒေါင်လိုက်အကျယ်ချဲ့,3015,gnome-control-center,po/my.po
+Maximize Horizontally,3018,အလျားလိုက်အကျယ်ချဲ့,3019,gnome-control-center,po/my.po
+Minimize,3022,ဖျောက်ထား,3023,gnome-control-center,po/my.po
+None,3030,မသတ်မှတ်ထား,3031,gnome-control-center,po/my.po
+Filter,3043,စစ်ထုတ်ရန်,3044,gnome-control-center,po/my.po
+Control Center,3056,ထိန်းချုပ်ခန်း,3057,gnome-control-center,po/my.po
+The GNOME configuration tool,3123, GNOME ခန့်ခွဲမှုကရိယာ,3124,gnome-control-center,po/my.po
+_Postpone Break,3127,_P ရွှေ့ဆိုင်း,3128,gnome-control-center,po/my.po
+Name:,3269,အမည်,3270,gnome-control-center,po/my.po
+Style:,3273,ပုံစံ,3274,gnome-control-center,po/my.po
+Type:,3277,အမျိုးအစား,3278,gnome-control-center,po/my.po
+Size:,3281,အရွယ်အစား,3282,gnome-control-center,po/my.po
+Version:,3285,ဗာရှင်း,3286,gnome-control-center,po/my.po
+Copyright:,3289,မူပိုင်ခွင့်,3290,gnome-control-center,po/my.po
+Description:,3293,အကြောင်းအရာ,3294,gnome-control-center,po/my.po
+Installed,3297,သွင်းယူမှုပြီးဆုံးပြီ,3298,gnome-control-center,po/my.po
+Install Failed,3301,သွင်းယူခြင်းမပြီးဆုံးပါ,3302,gnome-control-center,po/my.po
+I_nstall Font,3310,_N ဖောင့်သွင်းရန်,3311,gnome-control-center,po/my.po
+Font Viewer,3314,ဖောင့်ကြည့်ရန်,3315,gnome-control-center,po/my.po
+Preview fonts,3318,ဖောင့်နမူနာကြည့်,3319,gnome-control-center,po/my.po
+TEXT,3326,စာသား,3327,gnome-control-center,po/my.po
+Font size (default: 64),3330,ဖောင့်အရွယ်အစား (ပုံသေ ၆၄),3331,gnome-control-center,po/my.po
+SIZE,3334,အရွယ်အစား,3335,gnome-control-center,po/my.po
+No matches found.,3352,တူညီသည့်အရာမတွေ့ပါ,3353,gnome-control-center,po/my.po
+Other,3356,အခြား,3357,gnome-control-center,po/my.po
+Help,3366,အကူအညီ,3367,gnome-control-center,po/my.po
+Upgrade,3370,မွမ်းမံ/အဆင်မြှင့်,3371,gnome-control-center,po/my.po
+Uninstall,3374,ဖယ်ထုတ်,3375,gnome-control-center,po/my.po
+Remove from Favorites,3378,နှစ်သက်မှုအဖြစ်မှပယ်ဖျက်ပါ,3379,gnome-control-center,po/my.po
+Add to Favorites,3382,နှစ်သက်မှုအဖြစ်ထည့်ပါ,3383,gnome-control-center,po/my.po
+Remove from Startup Programs,3386,ကနဉီးအပ္ပလီကေးရှင်းမှဖယ်ထုတ်ပါ,3387,gnome-control-center,po/my.po
+Add to Startup Programs,3390,ကနဉီးအပ္ပလီကေးရှင်းသို့ထည့်ပါ,3391,gnome-control-center,po/my.po
+New Document,3398,စာတမ်းအသစ်ယူ,3399,gnome-control-center,po/my.po
+Documents,3407,စာတမ်းများ,3408,gnome-control-center,po/my.po
+File System,3411,ဖိုင်စနစ်,3412,gnome-control-center,po/my.po
+Network Servers,3415,ကွန်ရက်ဆာဗာများ,3416,gnome-control-center,po/my.po
+Search,3419,ရှာဖွေရန်,3420,gnome-control-center,po/my.po
+<b>Open</b>,3425,<b>ဖွင့်ရန်</b>,3426,gnome-control-center,po/my.po
+Rename...,3430,အမည်ပြောင်းရန်,3431,gnome-control-center,po/my.po
+Send To...,3435,ပို့ရန်,3436,gnome-control-center,po/my.po
+Move to Trash,3440,အမှိုက်ပုံးထဲထည့်ပါ,3441,gnome-control-center,po/my.po
+Delete,3445,ဖျက်ပစ်ပါ,3446,gnome-control-center,po/my.po
+"Are you sure you want to permanently delete \""%s\""?",3450,"\""%s\"" ကိုဖျက်ပစ်တော့မှာလား",3451,gnome-control-center,po/my.po
+"If you delete an item, it is permanently lost.",3454,ဖျက်မယ်ဆိုရင် ပြန်မရနိုင်တော့ဘူးနော်,3455,gnome-control-center,po/my.po
+"Open with \""%s\""",3459,"\""%s\"" နှင့်ဖွင့်ရန်",3460,gnome-control-center,po/my.po
+Open with Default Application,3463,မူရင်းအပ္ပလီကေးရှင်းနှင့်ဖွင့်ရန်,3464,gnome-control-center,po/my.po
+Remove from recent menu,3472,လက်တလောမီနူးမှဖယ်ထုတ်ပါ,3473,gnome-control-center,po/my.po
+Today %l:%M %p,3489,ယနေ့ %l:%M %p,3490,gnome-control-center,po/my.po
+Yesterday %l:%M %p,3493,မနေ့က  %l:%M %p,3494,gnome-control-center,po/my.po
+Find Now,3509,ရှာဖွေပါ,3510,gnome-control-center,po/my.po
+<b>Open %s</b>,3514,<b>%s ကိုဖွင့်ရန်</b>,3515,gnome-control-center,po/my.po
+Remove from System Items,3519,စနစ်ပိုင်းဆိုင်ရာမှ ဖယ်ထုတ်ပါ,3520,gnome-control-center,po/my.po
+Advanced Settings,20,အဆင့်မြင့် ချိန်ညှိချက်များ,21,gnome-tweaks,po/my.po
+welcome,24,ကြိုဆိုပါ၏,25,gnome-tweaks,po/my.po
+tweaks,28,Tweak များ,29,gnome-tweaks,po/my.po
+Tweak advanced GNOME 3 settings,32,Tweak အဆင့်မြင့် GNOME 3 ချိန်ညှိချက်များ,33,gnome-tweaks,po/my.po
+GTK+ theme,36,GTK+ သွင်ပြင်,37,gnome-tweaks,po/my.po
+Icon theme,40,အိုင်ကွန်ပုံ သွင်ပြင်,41,gnome-tweaks,po/my.po
+<i>Default</i>,45,<i>ပုံမှန်</i>,46,gnome-tweaks,po/my.po
+Keybinding theme,49,စုပေါင်း ကီးသွင်ပြင်,50,gnome-tweaks,po/my.po
+Unknown error,54,အမည်မသိ ချို့ယွင်းချက်,55,gnome-tweaks,po/my.po
+Shell not running,58,Shell အလုပ်မလုပ်ပါ,59,gnome-tweaks,po/my.po
+Shell user-theme extension incorrectly installed,62,Shell သုံးစွဲသူ-သွင်ပြင် ဆင့်ပွားများ ထည့်သွင်းမှု မှားယွင်းသည်,63,gnome-tweaks,po/my.po
+Shell user-theme extension not enabled,66,Shell သုံးစွဲသူ-သွင်ပြင် ဆင့်ပွားများ ဖွင့်မထားပါ,67,gnome-tweaks,po/my.po
+Could not list shell extensions,70,Shell ဆင့်ပွားများ စာရင်း မပြုစုနိုင်ပါ,71,gnome-tweaks,po/my.po
+Select a theme,75,သွင်ပြင် တစ်ခု ရွေးပါ,76,gnome-tweaks,po/my.po
+%s theme updated successfully,80,သွင်ပြင် %s ကို အောင်မြင်စွာ မွမ်းမံလိုက်ပြီ,81,gnome-tweaks,po/my.po
+%s theme installed successfully,85,သွင်ပြင် %s ကို အောင်မြင်စွာ ထည့်သွင်းလိုက်ပြီ,86,gnome-tweaks,po/my.po
+Error installing theme,89,သွင်ပြင် ထည့်သွင်းမှု ချို့ယွင်းချက်,90,gnome-tweaks,po/my.po
+Invalid theme,94,ချို့ယွင်းသော သွင်ပြင်,95,gnome-tweaks,po/my.po
+Extension downloading,102,ဆင့်ပွား ဒေါင်းလုဒ် ဆွဲနေသည်,103,gnome-tweaks,po/my.po
+Error loading extension,106,ဖွင့်မရသော ဆင့်ပွား,107,gnome-tweaks,po/my.po
+Extension does not support shell version,110,ဆင့်ပွားသည် Shell ဗားရှင်းကို ထောက်ပံ့မှု မပေးပါ,111,gnome-tweaks,po/my.po
+Unknown extension error,114,အမည်မသိ ဆင့်ပွား ချို့ယွင်းချက်,115,gnome-tweaks,po/my.po
+%s Extension,119,ဆင့်ပွား %s,120,gnome-tweaks,po/my.po
+The shell must be restarted for changes to take effect,123,ပြောင်းလဲမှုများ ရုပ်လုံးပေါ်အောင် Shell ကို ပြန်ဖွင့်ရမည်,124,gnome-tweaks,po/my.po
+Restart,128,ပြန်ဖွင့်ရန်,129,gnome-tweaks,po/my.po
+Install Shell Extension,132,Shell ဆင့်ပွားများ ထည့်သွင်းရန်,133,gnome-tweaks,po/my.po
+Select an extension,136,ဆင့်ပွား တစ်ခုကို ရွေးရန်,137,gnome-tweaks,po/my.po
+%s extension updated successfully,141,ဆင့်ပွား %s ကို အောင်မြင်စွာ မွမ်းမံလိုက်ပြီ,142,gnome-tweaks,po/my.po
+%s extension installed successfully,146,ဆင့်ပွား %s ကို အောင်မြင်စွာ ထည့်သွင်းလိုက်ပြီ,147,gnome-tweaks,po/my.po
+Error installing extension,150,ဆင့်ပွား ထည့်သွင်းမှု ချို့ယွင်းချက်,151,gnome-tweaks,po/my.po
+Invalid extension,155,ချို့ယွင်းနေသော ဆင့်ပွား,156,gnome-tweaks,po/my.po
+Shell Extensions,159,Shell ဆင့်ပွားများ,160,gnome-tweaks,po/my.po
+Window theme,163,ဝင်းဒိုး သွင်ပြင်,164,gnome-tweaks,po/my.po
+%s <i>(default)</i>,169,%s <i>(ပုံမှန်)</i>,170,gnome-tweaks,po/my.po
+Fonts,173,ဖောင့်များ,174,gnome-tweaks,po/my.po
+Theme,177,သွင်ပြင်,178,gnome-tweaks,po/my.po
+Desktop,181,အလုပ်ခုံ,182,gnome-tweaks,po/my.po
+Windows,185,ဝင်းဒိုးများ,186,gnome-tweaks,po/my.po
+Files,190,ဖိုင်များ,191,gnome-tweaks,po/my.po
+Miscellaneous,194,အမျိုးမျိုး အထွေထွေ,195,gnome-tweaks,po/my.po
+Starting %s,36,%sကို စနေပါတယ်,37,nautilus,po/my.po
+FILE,68,ဖိုင်,69,nautilus,po/my.po
+C_olors,124,_O အရောင်များ,125,nautilus,po/my.po
+_Emblems,354,_E အမှတ်အသားများ,355,nautilus,po/my.po
+_Patterns,358,_P ပုံစံများ,359,nautilus,po/my.po
+Text,402,စာသား,403,nautilus,po/my.po
+Select All,446,Aအားလုံး ရွေးချယ်,447,nautilus,po/my.po
+Input Methods,450,ရေးသွင်းချက် နည်းလမ်းများ,451,nautilus,po/my.po
+Open Folder,1258,ဖိုင်တွဲဖွင့်ရန်,1259,nautilus,po/my.po
+Open with other Application...,1268,အခြားအက်ပလီကေးရှင်းနှင့်ဖွင့်ပါ...,1269,nautilus,po/my.po
+You have just inserted an Audio CD.,1272,အသံစီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1273,nautilus,po/my.po
+You have just inserted an Audio DVD.,1276,အသံဒီဗီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1277,nautilus,po/my.po
+You have just inserted a Video DVD.,1280,ဒီဗီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1281,nautilus,po/my.po
+You have just inserted a Video CD.,1284,ဗီစီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1285,nautilus,po/my.po
+You have just inserted a Super Video CD.,1288,အက်ဗီစီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1289,nautilus,po/my.po
+You have just inserted a blank CD.,1292,စီဒီအလွတ်တစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1293,nautilus,po/my.po
+You have just inserted a blank DVD.,1296,ဒီဗီဒီအလွတ်တစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1297,nautilus,po/my.po
+You have just inserted a blank Blu-Ray disc.,1300,ဘလူးရေးဓာတ်ပြားတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1301,nautilus,po/my.po
+You have just inserted a blank HD DVD.,1304,HD ဒီဗီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1305,nautilus,po/my.po
+You have just inserted a Photo CD.,1308,ဖိုတိုစီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1309,nautilus,po/my.po
+You have just inserted a Picture CD.,1312,ရုပ်ပုံစီဒီတစ်ချပ် ထည့်လိုက်တာ တွေ့ရပါတယ်,1313,nautilus,po/my.po
+You have just inserted a medium with digital photos.,1316,ဒစ်ဂျစ်တယ်ရုပ်ပုံများပါသော ပစ္စည်းတစ်ခု ထည့်လိုက်တာ တွေ့ရပါတယ်,1317,nautilus,po/my.po
+You have just inserted a digital audio player.,1320,ဒစ်ဂျစ်တယ် သီချင်းဖွင့်စက်တစ်ခု တပ်လိုက်တာ တွေ့ရပါတယ်,1321,nautilus,po/my.po
+Choose what application to launch.,1335,ဖွင့်ဖို့သုံးရမည့် အပ္ပလီကေးရှင်း ရွေးပါ,1336,nautilus,po/my.po
+_Always perform this action,1346,_A အမြဲတမ်း ဤသို့ လုပ်ပါ,1347,nautilus,po/my.po
+_Eject,1358,_E အခွေထုတ်ရန်,1359,nautilus,po/my.po
+Select _All,1398,_A အားလုံး ရွေးချယ်,1399,nautilus,po/my.po
+Move _Up,1407,_U အထက်သို့ရွေ့ရန်,1408,nautilus,po/my.po
+Move Dow_n,1411,_N အောက်သို့ရွေ့ရန်,1412,nautilus,po/my.po
+Name,1421,အမည်,1422,nautilus,po/my.po
+Size,1429,အရွယ်အစား,1430,nautilus,po/my.po
+Type,1437,အမျိုးအစား,1438,nautilus,po/my.po
+Owner,1462,ပိုင်ရှင်,1463,nautilus,po/my.po
+Group,1470,အုပ်စု,1471,nautilus,po/my.po
+Location,1515,တည်နေရာ,1516,nautilus,po/my.po
+_Move Here,1564,_M ဒီကို ရွေ့ပါ,1565,nautilus,po/my.po
+_Copy Here,1568,_C ဒီကို ကူးပါ,1569,nautilus,po/my.po
+_Link Here,1572,_L ဒီကို လင့်လုပ်ပါ,1573,nautilus,po/my.po
+Set as _Background,1576,_B နောက်ခံအဖြစ် ထားပါ,1577,nautilus,po/my.po
+Cancel,1581,နေတော့,1582,nautilus,po/my.po
+"Merge folder \""%s\""?",1633,"\""%s\"" ဖိုင်တွဲကို ရောပေါင်းလိုက်မလား?",1634,nautilus,po/my.po
+"An older folder with the same name already exists in \""%s\"".",1644,"\""%s\"" ထဲမှာ အမည်တူသော ဖိုင်တွဲအဟောင်းတစ်ခု ရှိနှင့်နေပါတယ်",1645,nautilus,po/my.po
+"A newer folder with the same name already exists in \""%s\"".",1649,"\""%s\"" ထဲမှာ အမည်တူသော ဖိုင်တွဲအသစ်တစ်ခု ရှိနှင့်နေပါတယ်",1650,nautilus,po/my.po
+"Another folder with the same name already exists in \""%s\"".",1654,"\""%s\"" ထဲမှာ အမည်တူသော အခြားဖိုင်တွဲတစ်ခု ရှိနှင့်နေပါတယ်",1655,nautilus,po/my.po
+Replacing it will remove all files in the folder.,1658,အစားထိုးပစ်လိုက်ရင် ထိုဖိုင်တွဲရှိ ဖိုင်အားလုံးကို ဖျက်ပစ်လိုက်ပါလိမ့်မယ်,1659,nautilus,po/my.po
+"Replace folder \""%s\""?",1663,"\""%s\"" ဖိုင်တွဲကို အစားထိုးမလား?",1664,nautilus,po/my.po
+"A folder with the same name already exists in \""%s\"".",1668,"\""%s\"" ထဲမှာ အမည်တူဖိုင်တွဲတစ်ခု ရှိနှင့်နေပါတယ်",1669,nautilus,po/my.po
+"Replace file \""%s\""?",1673,"\""%s\"" ဖိုင်ကို အစားထိုးမလား?",1674,nautilus,po/my.po
+Replacing it will overwrite its content.,1677,အစားထိုးလိုက်ရင် မူလဒေတာတွေ ပျက်သွားပါလိ့မ်မယ်,1678,nautilus,po/my.po
+"An older file with the same name already exists in \""%s\"".",1682,"\""%s\"" ထဲမှာ အမည်တူသော ဖိုင်အဟောင်းတစ်ခု ရှိနှင့်နေပါတယ်",1683,nautilus,po/my.po
+"A newer file with the same name already exists in \""%s\"".",1687,"\""%s\"" ထဲမှာ အမည်တူသော ဖိုင်တွဲအသစ်တစ်ခု ရှိနှင့်နေပါတယ်",1688,nautilus,po/my.po
+"Another file with the same name already exists in \""%s\"".",1692,"\""%s\"" ထဲမှာ အမည်တူသော အခြားဖိုင်တစ်ခု ရှိနှင့်နေပါတယ်",1693,nautilus,po/my.po
+Original file,1696,မူလဖိုင်,1697,nautilus,po/my.po
+Size:,1702,အရွယ် -,1703,nautilus,po/my.po
+Type:,1708,အမျိုးအစား,1709,nautilus,po/my.po
+Last modified:,1713,နောက်ဆုံးပြင်ထားသည့်ရက်စွဲ -,1714,nautilus,po/my.po
+Replace with,1717,အစားထိုးမည့်,1718,nautilus,po/my.po
+Merge,1721,ရောပေါင်းပါ,1722,nautilus,po/my.po
+_Select a new name for the destination,1726,_S နာမည်အသစ်ပြောင်းပါ,1727,nautilus,po/my.po
+Apply this action to all files,1731,ဖိုင်အားလုံးကို ဒီအတိုင်းလုပ်ပါ,1732,nautilus,po/my.po
+_Skip,1736,_S ကျော်ပါ,1737,nautilus,po/my.po
+Re_name,1740,_N အမည်ပြောင်းပါ,1741,nautilus,po/my.po
+Replace,1744,အစားထိုးပါ,1745,nautilus,po/my.po
+S_kip All,1752,_K အားလုံးကျော်ပါ,1753,nautilus,po/my.po
+_Retry,1756,_R ထပ်လုပ်ကြည့်ပါ,1757,nautilus,po/my.po
+Delete _All,1760,_A အားလုံးဖျက်ပစ်ပါ,1761,nautilus,po/my.po
+_Replace,1764,_R အစားထိုးရန်,1765,nautilus,po/my.po
+Replace _All,1768,_A အားလုံး အစားထိုး,1769,nautilus,po/my.po
+_Merge,1772,_M ရောပေါင်းပါ,1773,nautilus,po/my.po
+Merge _All,1776,_A အားလုံးရောပေါင်းပါ,1777,nautilus,po/my.po
+Copy _Anyway,1780,_A ဘာဖြစ်ဖြစ် ကူးပါ,1781,nautilus,po/my.po
+%'d second,1785,%Id စက္ကန့်,1787,nautilus,po/my.po
+%'d minute,1792,%Id မိနစ်,1794,nautilus,po/my.po
+%'d hour,1798,%Id နာရီ,1800,nautilus,po/my.po
+approximately %'d hour,1804,%Id နာရီ နီးပါး,1806,nautilus,po/my.po
+ (copy),1859, (ကော်ပီ),1860,nautilus,po/my.po
+ (another copy),1864, (နောက်ကော်ပီ),1865,nautilus,po/my.po
+th copy),1875, ကော်ပီ),1876,nautilus,po/my.po
+st copy),1880, ကော်ပီ),1881,nautilus,po/my.po
+nd copy),1885, ကော်ပီ),1886,nautilus,po/my.po
+rd copy),1890, ကော်ပီ),1891,nautilus,po/my.po
+%s (copy)%s,1896,%s (ကော်ပီ)%s,1897,nautilus,po/my.po
+%s (another copy)%s,1902,%s (နောက်ကော်ပီ)%s,1903,nautilus,po/my.po
+%s (%'dst copy)%s,1924,%s (ကော်ပီ %Id)%s,1925,nautilus,po/my.po
+%s (%'dnd copy)%s,1930,%s (ကော်ပီ %Id)%s,1931,nautilus,po/my.po
+%s (%'drd copy)%s,1936,%s (ကော်ပီ %Id)%s,1937,nautilus,po/my.po
+ (%'d,1947, (%Id,1948,nautilus,po/my.po
+Empty all items from Trash?,1970,အမှိုက်ပုံးထဲက အားလုံးကို ရှင်းပစ်မှာလား,1971,nautilus,po/my.po
+Empty _Trash,1981,_T အမှိုက်ပုံးရှင်းပါ,1982,nautilus,po/my.po
+%'d file left to delete,1997,%Id ဖိုင် ဖျက်ဖို့ ကျန်နေပါသေးတယ်,1999,nautilus,po/my.po
+%T left,2009,%T ခန့်ကြာပါဦးမယ်,2011,nautilus,po/my.po
+unknown,2717,အမည်မသိ,2718,nautilus,po/my.po
+Manually,2888,ကိုယ်တိုင်,2889,nautilus,po/my.po
+By Name,2893,အမည်ဖြင့်,2894,nautilus,po/my.po
+By Size,2898,အရွယ်အစားဖြင့်,2899,nautilus,po/my.po
+By Type,2903,အမျိုးအစားဖြင့်,2904,nautilus,po/my.po
+By Modification Date,2908,ပြုပြင်သောရက်စွဲဖြင့်,2909,nautilus,po/my.po
+By Emblems,2913,သင်္ကေတဖြင့်,2914,nautilus,po/my.po
+8,2917,၈,2918,nautilus,po/my.po
+10,2921,၁၀,2922,nautilus,po/my.po
+12,2925,၁၂,2926,nautilus,po/my.po
+14,2929,၁၄,2930,nautilus,po/my.po
+16,2933,၁၆,2934,nautilus,po/my.po
+18,2937,၁၈,2938,nautilus,po/my.po
+20,2941,၂၀,2942,nautilus,po/my.po
+22,2945,၂၂,2946,nautilus,po/my.po
+24,2949,၂၄,2950,nautilus,po/my.po
+%s's Home,2962,%s's ပင်မဖိုင်တွဲ,2963,nautilus,po/my.po
+Computer,2967,ကွန်ပျူတာ,2968,nautilus,po/my.po
+Trash,2972,အမှိုက်ပုံး,2973,nautilus,po/my.po
+Mo_ve to Trash,3014,_V အမှိုက်ပုံးထဲထည့်ပါ,3015,nautilus,po/my.po
+Run in _Terminal,3028,_T တာမီနယ်တွင် ဆောင်ရွက်ပါ,3029,nautilus,po/my.po
+_Display,3032,_D ပြပါ,3033,nautilus,po/my.po
+_Run,3037,_R ဆောင်ရွက်ပါ,3038,nautilus,po/my.po
+Default,3150,မူရင်းအတိုင်း,3151,nautilus,po/my.po
+Unknown,3172,မသိရပါ။,3173,nautilus,po/my.po
+Open With,3213,အခြားအက်ပလီကေးရှင်းဖြင့်ဖွင့်ရန်,3214,nautilus,po/my.po
+_Open,3235,_O ဖွင့်ရန်,3236,nautilus,po/my.po
+_Add,3283,_A ပေါင်းထည့်ရန်,3284,nautilus,po/my.po
+Preparing,3371,ပြင်ဆင်နေတယ်,3372,nautilus,po/my.po
+Search,3378,ရှာဖွေရေး,3379,nautilus,po/my.po
+Edit,3388,တည်းဖြတ်,3389,nautilus,po/my.po
+Home Folder,3436,ပင်မဖိုင်တွဲ,3437,nautilus,po/my.po
+Background,3450,နောက်ခံ,3451,nautilus,po/my.po
+E_mpty Trash,3458,_M အမှိုက်ပုံးရှင်းပါ,3459,nautilus,po/my.po
+Create L_auncher...,3466,_A လောင်ချာအသစ်ဆောက်ရန်...,3467,nautilus,po/my.po
+Change Desktop _Background,3477,_B အလုပ်ခုံနောက်ခံပြောင်းရန်,3478,nautilus,po/my.po
+Empty Trash,3488,အမှိုက်ပုံးရှင်းပါ,3489,nautilus,po/my.po
+Select Items Matching,3526,တူရာရွေးချယ်ရန်,3527,nautilus,po/my.po
+Open With %s,3669,%sနှင့် ဖွင့်ပါ,3670,nautilus,po/my.po
+_Connect,3781,_C ချိတ်ဆက်ပါ,3782,nautilus,po/my.po
+Create _Document,3790,_D စာရွက်စာတမ်းအသစ်,3791,nautilus,po/my.po
+Open Wit_h,3795,_H အခြားအက်ပလီကေးရှင်းဖြင့်ဖွင့်ရန်,3796,nautilus,po/my.po
+_Properties,3806,_P ဂုဏ်သတ္တိများ,3807,nautilus,po/my.po
+Create _Folder,3820,_F ဖိုင်တွဲအသစ်,3821,nautilus,po/my.po
+Open in New _Tab,3874,_T မျက်နှာစာအသစ်တွင်ဖွင့်ပါ,3875,nautilus,po/my.po
+Open With Other _Application...,3909,_A အခြားအက်ပလီကေးရှင်းနှင့်ဖွင့်ပါ...,3910,nautilus,po/my.po
+Cop_y to,3963,_Y ...သို့ကူးယူပါ,3964,nautilus,po/my.po
+M_ove to,3968,_O ...သို့ရွှေ့ပြောင်းပါ,3969,nautilus,po/my.po
+Select I_tems Matching...,3979,_T တူရာရွေးချယ်ရန်...,3980,nautilus,po/my.po
+_Invert Selection,3990,_I ပြောင်းပြန်ရွေးချယ်ပါ,3991,nautilus,po/my.po
+D_uplicate,4001,_U ပုံတူပွားပါ,4002,nautilus,po/my.po
+Ma_ke Link,4013,_K အချိပ်အဆက်ပြုလုပ်ပါ,4015,nautilus,po/my.po
+_Rename...,4025,_R အမည်ပြောင်းရန်,4026,nautilus,po/my.po
+_Delete,4045,_D ဖျက်ပစ်ပါ,4046,nautilus,po/my.po
+Reset View to _Defaults,4069,_D မူလမြင်ကွင်းအတိုင်းပြန်ထားပါ,4070,nautilus,po/my.po
+_Format,4118,_F ပုံစံ,4119,nautilus,po/my.po
+_Stop,4157,_S ရပ်နားပါ,4158,nautilus,po/my.po
+_Other pane,4324,_O အခြားပြတင်း,4325,nautilus,po/my.po
+_Home Folder,4341,_H ပင်မဖိုင်တွဲ,4342,nautilus,po/my.po
+_Desktop,4355,_D အလုပ်ခုံ,4356,nautilus,po/my.po
+_Disconnect,4469,_D အချိတ်အဆက်ဖြတ်ပါ,4470,nautilus,po/my.po
+_Open With %s,4583,_O %s  နှင့်ဖွင့်ပါ,4584,nautilus,po/my.po
+Open in %'d New _Tab,4600,_T မျက်နှာစာအသစ်တွင် %'d ဖွင့်ပါ,4602,nautilus,po/my.po
+_Download,4631,_D ကူးဆွဲချက်,4632,nautilus,po/my.po
+Description,4673,ဖော်ပြချက်,4674,nautilus,po/my.po
+by _Name,4779,_N အမည်ဖြင့်,4780,nautilus,po/my.po
+Keep icons sorted by name in rows,4784,အိုင်ကွန်များအား အမည်အရ အတန်းလိုက်စီရန်,4785,nautilus,po/my.po
+by _Size,4788,_S အရွယ်အစားဖြင့်,4789,nautilus,po/my.po
+Keep icons sorted by size in rows,4793,အိုင်ကွန်များအား အရွယ်အစားအရ အတန်းလိုက်စီရန်,4794,nautilus,po/my.po
+by _Type,4797,_T အမျိုးအစားဖြင့်,4798,nautilus,po/my.po
+Keep icons sorted by type in rows,4802,အိုင်ကွန်များအား အမျိုးအစားအရ အတန်းလိုက်စီရန်,4803,nautilus,po/my.po
+by Modification _Date,4806,_D ပြုပြင်သောရက်စွဲဖြင့်,4807,nautilus,po/my.po
+Keep icons sorted by modification date in rows,4811,အိုင်ကွန်များအား ပြုပြင်ခဲ့သောရက်အရ အတန်းလိုက်စီရန်,4812,nautilus,po/my.po
+by _Emblems,4815,_E သင်္ကေတဖြင့်,4816,nautilus,po/my.po
+Keep icons sorted by emblems in rows,4820,အိုင်ကွန်များအား သင်္ကေတအရ အတန်းလိုက်စီရန်,4821,nautilus,po/my.po
+by T_rash Time,4824,_R ဖျက်ခဲ့သောအချိန်ဖြင့်,4825,nautilus,po/my.po
+Keep icons sorted by trash time in rows,4829,အိုင်ကွန်များအား ဖျက်ခဲ့သောအချိန်အရ အတန်းလိုက်စီရန်,4830,nautilus,po/my.po
+_Organize Desktop by Name,4833,_O အလုပ်ခုံကို နာမည်အလိုက်စီပါ,4834,nautilus,po/my.po
+Arran_ge Items,4838,_G နေရာချပါ,4839,nautilus,po/my.po
+_Organize by Name,4867,_O အမည်ဖြင့်စုစည်းပါ,4868,nautilus,po/my.po
+Compact _Layout,4878,_L ကျစ်လျစ်ပုံစံ,4879,nautilus,po/my.po
+Re_versed Order,4889,_V ပြောင်းပြန်စီ,4890,nautilus,po/my.po
+Display icons in the opposite order,4894,အိုင်ကွန်များအား ဆန့်ကျင်ဖက်အစီအစဉ်အတိုင်း ပြသရန်,4895,nautilus,po/my.po
+_Keep Aligned,4900,_K ညီညီစီပါ,4901,nautilus,po/my.po
+_Manually,4909,_M ကိုယ်တိုင်,4910,nautilus,po/my.po
+By _Name,4917,_N အမည်ဖြင့်,4918,nautilus,po/my.po
+By _Size,4921,_S အရွယ်အစားဖြင့်,4922,nautilus,po/my.po
+By _Type,4925,_T အမျိုးအစားဖြင့်,4926,nautilus,po/my.po
+By Modification _Date,4929,_D ပြုပြင်သောရက်စွဲဖြင့်,4930,nautilus,po/my.po
+By _Emblems,4933,_E သင်္ကေတဖြင့်,4934,nautilus,po/my.po
+By T_rash Time,4937,_R  ဖျက်ခဲ့သောအချိန်ဖြင့်,4938,nautilus,po/my.po
+_Icons,4951,_I အိုင်ကွန်ပုံစံ,4952,nautilus,po/my.po
+_Compact,4968,_C ကျစ်လျစ်ပုံစံ,4969,nautilus,po/my.po
+_List,5015,_L စာရင်းပုံစံ,5016,nautilus,po/my.po
+_Name:,5056,N အမည် :,5058,nautilus,po/my.po
+Properties,5062,ဂုဏ်သတ္တိများ,5063,nautilus,po/my.po
+Basic,5131,အခြေခံသုံး,5132,nautilus,po/my.po
+Location:,5140,ဖိုင်နေရာ,5141,nautilus,po/my.po
+E_xecute,5173,_X ဆောင်ရွတ်ပါ,5174,nautilus,po/my.po
+None,5224,ဘာမှမရှိပါ။,5225,nautilus,po/my.po
+File System,5348,ဖိုင်စနစ်,5349,nautilus,po/my.po
+C_onnect,5549,_O ချိတ်ဆက်ပါ,5550,nautilus,po/my.po
+Desktop,5554,အလုပ်ခုံ,5555,nautilus,po/my.po
+Rename,5582,အမည်ပြောင်းပါ,5583,nautilus,po/my.po
+Display,5772,မြင်ကွင်း,5773,nautilus,po/my.po
+Preview,5808,ကြိုတင်ကြည့်ရှု,5809,nautilus,po/my.po
+_Type:,5896,_T အမျိုးအစား,5897,nautilus,po/my.po
+Rating,5977,သဘောကျ ရမှတ်,5978,nautilus,po/my.po
+Image,6005,ပုံ,6006,nautilus,po/my.po
+Information,6009,အချက်အလက်,6010,nautilus,po/my.po
+_Location:,6044,_L ဖိုင်နေရာ,6045,nautilus,po/my.po
+_Go,6124,_G သွားရန်,6125,nautilus,po/my.po
+_Bookmarks,6129,_B မှတ်သားချက်,6130,nautilus,po/my.po
+New _Window,6139,_W ဝင်းဒိုးအသစ်,6140,nautilus,po/my.po
+New _Tab,6148,_T မျက်နှာစာအသစ်,6149,nautilus,po/my.po
+Close _All Windows,6166,_A ဝင်းဒိုးအားလုံးပတ်ပါ,6167,nautilus,po/my.po
+_Location...,6175,_L တည်နေရာ...,6176,nautilus,po/my.po
+Clea_r History,6185,_R မှတ်တမ်း ရှင်းလင်းပါ,6186,nautilus,po/my.po
+S_witch to Other Pane,6194,_W အခြားပြတင်းသို့ပြောင်းပါ,6195,nautilus,po/my.po
+Sa_me Location as Other Pane,6203,_M အခြားပြတင်းနှင့်တည်နေရာအတူ,6204,nautilus,po/my.po
+_Add Bookmark,6213,_A မှတ်သားပါ,6214,nautilus,po/my.po
+Add a bookmark for the current location to this menu,6218,လက်ရှိနေရာကိုမှတ်သားထားပါ,6219,nautilus,po/my.po
+_Edit Bookmarks...,6224,_E မှတ်သားချက်များပြင်ဆင်ရန်...,6225,nautilus,po/my.po
+_Main Toolbar,6277,_M ပင်မကိရိယာဘား,6278,nautilus,po/my.po
+Change the visibility of this window's main toolbar,6282,ဤဝင်းဒိုးရှိ ပင်မကရိယာဘား၏ မြင်နိုင်မှုကိုပြောင်းလဲပါ,6283,nautilus,po/my.po
+_Side Pane,6289,_S P ဘေးဘက်ခြမ်း ဘောင်ကွက်,6290,nautilus,po/my.po
+Change the visibility of this window's side pane,6294,ဤဝင်းဒိုးရှိ ဘေးပြတင်း၏ မြင်နိုင်မှုကိုပြောင်းလဲပါ,6295,nautilus,po/my.po
+Location _Bar,6301,_B တည်နေရာပြဘား,6302,nautilus,po/my.po
+Change the visibility of this window's location bar,6306,ဤဝင်းဒိုးရှိ တည်နေရာပြဘား၏ မြင်နိုင်မှုကိုပြောင်းလဲပါ,6307,nautilus,po/my.po
+St_atusbar,6313,_A S အခြေအနေ ဘားတန်း,6314,nautilus,po/my.po
+Change the visibility of this window's statusbar,6318,ဤဝင်းဒိုးရှိ အခြေအနေပြဘား၏ မြင်နိုင်မှုကိုပြောင်းလဲပါ,6319,nautilus,po/my.po
+_Search for Files...,6327,_S ဖိုင်များရှာရန်...,6328,nautilus,po/my.po
+Search documents and folders by name,6333,စာရွက်စာတမ်းနှင့် ဖိုင်တွဲများကို အမည်ဖြင့်ရှာရန်,6334,nautilus,po/my.po
+E_xtra Pane,6340,_X အပို ပြတင်း,6341,nautilus,po/my.po
+Open an extra folder view side-by-side,6345,အပိုဖိုင်တွဲတစ်ခုကိုဘေးချင်းကပ်မြင်ရရန်ဖွင့်ပါ,6346,nautilus,po/my.po
+_Back,6349,_B နောက်သို့,6350,nautilus,po/my.po
+Go to the previous visited location,6353,ဝင်ရောက်ပြီးခဲ့သောတည်နေရာသို့ပြန်သွားရန်,6354,nautilus,po/my.po
+_Forward,6361,_F ရှေ့သို့,6362,nautilus,po/my.po
+Go to the next visited location,6365,နောက်ထပ်ဝင်ရောက်ခဲ့ပြီးသောတည်နေရာသို့သွားရန်,6366,nautilus,po/my.po
+_Zoom,6373,_Z ချုံ့ချဲ့,6374,nautilus,po/my.po
+_Search,6381,_S ရှာဖွေရေး,6382,nautilus,po/my.po
+_Close Tab,6385,_C မျက်နှာစာပိတ်ပါ,6386,nautilus,po/my.po
+Network,6414,ကွန်ရက်,6415,nautilus,po/my.po
+Remove,6467,ဖယ်ထုတ်ရန်,6468,nautilus,po/my.po
+Rename...,6471,အမည်ပြောင်းရန်,6472,nautilus,po/my.po
+Places,6475,နေရာများ,6476,nautilus,po/my.po
+Backgrounds and Emblems,6484,နောက်ခံနှင့် သင်္ကေတများ,6485,nautilus,po/my.po
+Color _name:,6539,_N အရောင် အမည် -,6540,nautilus,po/my.po
+_Remove a Color...,6640,_R အရောင်ဖယ်ပစ်ပါ...,6641,nautilus,po/my.po
+Documents,6656,စာရွက်စာတမ်းဆိုင်ရာများ,6657,nautilus,po/my.po
+Music,6660,သီချင်း,6661,nautilus,po/my.po
+Video,6664,ဗီဒီယို,6665,nautilus,po/my.po
+Picture,6668,ရုပ်ပုံ,6669,nautilus,po/my.po
+Spreadsheet,6676,စာရင်းဇယား,6677,nautilus,po/my.po
+Text File,6688,စာသားဖိုင်,6689,nautilus,po/my.po
+Go,6720,သွားပါ,6721,nautilus,po/my.po
+Reload,6724,ပြန်ဆွဲတင်ပါ,6725,nautilus,po/my.po
+_Search for:,6732,_S ရှာဖွေရန်:,6733,nautilus,po/my.po
+Search results,6736,ရှာတွေ့ရလဒ်,6737,nautilus,po/my.po
+Search:,6740,ရှာဖွေ -,6741,nautilus,po/my.po
+Close the side pane,6744,ဘေးခြမ်းကိုပိတ်ပါ,6745,nautilus,po/my.po
+_Places,6755,_P နေရာများ,6756,nautilus,po/my.po
+Open _Location...,6760,_L တည်နေရာကိုဖွင့်ပါ,6761,nautilus,po/my.po
+Clos_e All Folders,6774,_E ဖိုင်တွဲအားလုံးပိတ်ပါ,6775,nautilus,po/my.po
+Close all folder windows,6778,ဖိုင်တွဲများအားလုံးပိတ်ပါ။,6779,nautilus,po/my.po
+The location is not a folder.,6824,ဤတည်နေရာသည် ဖိုင်တွဲမဟုတ်ပါ။,6825,nautilus,po/my.po
+"Could not find \""%s\"".",6829,"\""%s\"" ကိုရှာမတွေ့ပါ။",6830,nautilus,po/my.po
+"Nautilus cannot handle \""%s\"" locations.",6838,"\""%s\"" ဆိုသောတည်နေရာလမ်းကြောင်းကို Nautilus ကမထိမ်းကြောင်းနိုင်ပါ။",6839,nautilus,po/my.po
+Nautilus cannot handle this kind of location.,6842,ဤကဲ့သို့သော တည်နေရာလမ်းကြောင်းမျိုးကို Nautilus ကမထိမ်းကြောင်းနိုင်ပါ။,6843,nautilus,po/my.po
+Unable to mount the location.,6846,ဤတည်နေရာအားခင်းကျင်း၍မရပါ။,6847,nautilus,po/my.po
+Access was denied.,6850,ခွင့်ပြုချက်ပိတ်ပင်ထားပါသည်။,6851,nautilus,po/my.po
+_File,6926,_F ဖိုင်,6927,nautilus,po/my.po
+_Edit,6931,_E တည်းဖြတ်,6932,nautilus,po/my.po
+_View,6936,_V မြင်ကွင်း,6937,nautilus,po/my.po
+_Help,6941,_H အကူအညီ,6942,nautilus,po/my.po
+_Close,6947,_C ပိတ်ပါ,6948,nautilus,po/my.po
+_Backgrounds and Emblems...,6956,_B နောက်ခံနှင့် သင်္ကေတများ...,6957,nautilus,po/my.po
+Prefere_nces,6966,_N လိုလားချက်များ,6967,nautilus,po/my.po
+_Undo,6975,_U နောက်ပြန်,6976,nautilus,po/my.po
+_Reload,6999,_R ပြန်ဆွဲတင်ပါ,7000,nautilus,po/my.po
+_Contents,7010,_C မာတိကာ,7011,nautilus,po/my.po
+_About,7021,_A အကြောင်းအရာ,7022,nautilus,po/my.po
+Zoom _In,7032,_I ချဲ့ပါ,7033,nautilus,po/my.po
+Zoom _Out,7044,_O ချုံ့ပါ,7045,nautilus,po/my.po
+Normal Si_ze,7056,_Z ပုံမှန်အရွယ်အစား,7057,nautilus,po/my.po
+Connect to _Server...,7068,_S ဆာဗာနှင့်ဆက်သွယ်ရန်...,7069,nautilus,po/my.po
+_Computer,7079,_C ကွန်ပျူတာ,7080,nautilus,po/my.po
+_Network,7085,_N ကွန်ရက်,7086,nautilus,po/my.po
+T_emplates,7096,_E တမ်းပလိတ်များ,7097,nautilus,po/my.po
+_Trash,7107,_T အမှိုက်ပုံး,7108,nautilus,po/my.po
+Show _Hidden Files,7118,_H ဝှက်ထားသောဖိုင်များပြပါ,7119,nautilus,po/my.po
+_Up,7127,_U အပေါ်တစ်ဆင့်,7128,nautilus,po/my.po
+_Home,7131,_H ပင်မ,7132,nautilus,po/my.po
+Zoom In,7181,ချဲ့ပါ,7182,nautilus,po/my.po
+Zoom Out,7185,ချုံ့ပါ,7186,nautilus,po/my.po
+Zoom,7193,ချုံ့/ချဲ့,7194,nautilus,po/my.po
+_Authorize,23,_A ခွင့်ပြုခြင်း,24,simple-scan,po/my.po
+_Password:,33,_Pစကားဝှက်,34,simple-scan,po/my.po
+Front and Back,38,အရှေ့နှင့်အနောက်,39,simple-scan,po/my.po
+Front,43,အရှေ့,44,simple-scan,po/my.po
+Back,48,နောက်သို့,49,simple-scan,po/my.po
+Simple Scan,54,ရိုးရိုး Scan ဖတ်ခြင်း,55,simple-scan,po/my.po
+_Document,59,_Dစာရွက်စာတမ်း,60,simple-scan,po/my.po
+Single _Page,70,_P ရိုးရိုး Scan ဖတ်ခြင်း,71,simple-scan,po/my.po
+All Pages From _Feeder,76,_F Feeder မှ စာမျက်နှာအားလုံး,77,simple-scan,po/my.po
+_Stop Scan,87,_S Scan ရပ်မည်။,88,simple-scan,po/my.po
+Text,91,စာ,92,simple-scan,po/my.po
+Photo,95,ဓာတ်ပုံ,96,simple-scan,po/my.po
+_Email,106,_Eအီးမေး,107,simple-scan,po/my.po
+_Page,111,_Pစာမျက်နှာ,112,simple-scan,po/my.po
+Rotate _Left,116,_L ဘယ်ဖက်လှည့်ပါ။,117,simple-scan,po/my.po
+Rotate _Right,121,_R ညာဖက်သို့လှည့်မည်။,122,simple-scan,po/my.po
+_Crop,126,_C ဖြတ်ပါ။,127,simple-scan,po/my.po
+_None,131,_Nဘာမှမဟုတ်,132,simple-scan,po/my.po
+_Letter,151,_L စာ,152,simple-scan,po/my.po
+Move Left,176,ဘယ်ဖက်သို့ရွှေ့ပါ။,177,simple-scan,po/my.po
+Move Right,181,ညာဖက်သို့ရွှေ့ပါ။,182,simple-scan,po/my.po
+_Help,186,_H အကူအညီ,187,simple-scan,po/my.po
+_Contents,191,_  C ခေါင်းစဉ်,192,simple-scan,po/my.po
+Start a new document,196,အသစ်စတင်ရန်,197,simple-scan,po/my.po
+New,200,အသစ်,201,simple-scan,po/my.po
+Scan a single page from the scanner,205,Scanner ထဲမှ စာမျက်နှာ တစ်ရွက်တည်းကို Scan ဖတ်မည်။,206,simple-scan,po/my.po
+Save document to a file,215,ဖိုင် တစ်ခုထဲသို့ စာရွက်စာတမ်း ကိုသိမ်းပါ။,216,simple-scan,po/my.po
+Save,219,သိမ်းဆည်းပါ,220,simple-scan,po/my.po
+Stop the current scan,224,ယခု Scan ဖတ်နေခြင်းကိုရပ်မည်။,225,simple-scan,po/my.po
+Stop,228,ရပ်မည်,229,simple-scan,po/my.po
+Rotate the page to the left (counter-clockwise),233,စာမျက်နှာကို ဘယ်ဖက်သို့လှည့်ပါ။(နာရီလက်တံပြောင်းပြန်),234,simple-scan,po/my.po
+Rotate Left,238,ဘယ်ဖက် လှည့်ပါ။,239,simple-scan,po/my.po
+Rotate the page to the right (clockwise),243,စာမျက်နှာကို ညာဖက်သို့လှည့်ပါ။ (နာရီလက်တံ),244,simple-scan,po/my.po
+Rotate Right,248,ညာဖက်လှည့်ပါ။,249,simple-scan,po/my.po
+Crop the selected page,252,ရွေးချယ်ထားသောစာမျက်နှာကို ဖြတ်ပါ။,253,simple-scan,po/my.po
+Crop,256,ဖြတ်ပါ။,257,simple-scan,po/my.po
+_Photo Resolution:,276,_Pဓာတ်ပုံ resolution-,277,simple-scan,po/my.po
+Page Size:,286,စာရွက်အရွယ်အစား,287,simple-scan,po/my.po
+No scanners available.  Please connect a scanner.,340,Scanner နှင့်ချိတ်ဆက်ထားခြင်းမရှိပါ။ Scanner နှင့်ချိတ်ဆက်ပါ။,341,simple-scan,po/my.po
+Unable to connect to scanner,345,Scanner နှင့်မချိတ်ဆက်နိုင်ပါ။,346,simple-scan,po/my.po
+Unable to start scan,350,Scan မစတင်နိုင်ပါ။,351,simple-scan,po/my.po
+Error communicating with scanner,355,Scanner နှင့်ချိတ်ဆက်ရင်းအမှားအယွင်းဖြစ်ခဲ့သည်။,356,simple-scan,po/my.po
+Show release version,360,ထုတ်လုပ်သော ဗားရှင်းကို ပြပါ,361,simple-scan,po/my.po
+Print debugging messages,365,Debugging messages ကိုစာရွက်ထုတ်မည်။,366,simple-scan,po/my.po
+Failed to scan,374,Scan မဖတ်ဖြစ်ပါ။,375,simple-scan,po/my.po
+Run '%s --help' to see a full list of available command line options.,385,အမိန့်ပေး စာရင်း အပြည့်အစုံမြင်ရရန်  '%s--help' ဖြင့် ခိုင်းပါ,386,simple-scan,po/my.po
+Username and password required to access '%s',395,'%s' ကိုသုံးရန်အတွက်သုံးစွဲသူအမည်နှင့် စကားဝှက်လိုအပ်ပါသည်။,396,simple-scan,po/my.po
+No scanners detected,400,Scanner ရှာမတွေ့ပါ။,401,simple-scan,po/my.po
+Please check your scanner is connected and powered on,405,သင်၏ Scanner ကိုချိတ်ဆက်ပြီးကြောင်း၊ ပါဝါဖွင့်ထားကြောင်းသေချာအောင်ပြန်လည်စစ်ဆေးပါ။,406,simple-scan,po/my.po
+All Files,445,ဖိုင်အလုံးစုံ,446,simple-scan,po/my.po
+Failed to save file,481,ဖိုင်ကိုမသိမ်းဖြစ်ပါ။,482,simple-scan,po/my.po
+"If you don't save, changes will be permanently lost.",486,မသိမ်းပါက၊ ပြောင်းလဲမူများသည် လုံးဝပျက်သွားပါလိမ့်မည်။,487,simple-scan,po/my.po
+Save current document?,491,ယခုစာရွက်စာတမ်းကိုသိမ်းမလား။,492,simple-scan,po/my.po
+Unable to save image for preview,501,ကြည့်ရူရန်အတွက် ပုံများကိုမသိမ်းနိုင်ပါ။,502,simple-scan,po/my.po
+Unable to open help file,531,အကူအညီဖိုင်ကို မဖွင့်နိုင်ပါ။,532,simple-scan,po/my.po
+About Simple Scan,565,ရိုးရှင်းစွာ Scan ဖတ်ခြင်းအကြောင်း,566,simple-scan,po/my.po
+Save document before quitting?,582,မပိတ်ခင် စာရွက်စာတမ်းများကိုသိမ်းမလား။,583,simple-scan,po/my.po
+Quit without Saving,587,မသိမ်းပဲနှင့်ထွက်မည်။,588,simple-scan,po/my.po
+Automatic,732,အလိုအလျှောက်,733,simple-scan,po/my.po
+Leave Fullscreen,24,ဖန်သားပြင်အပြည့်မှ ထွက်ပါ,25,totem,po/my.po
+Time:,28,အချိန် -,29,totem,po/my.po
+Add...,32,ပေါင်းထည့်ရန် ...,33,totem,po/my.po
+Move Down,40,အောက်သို့ရွေ့ပါ,41,totem,po/my.po
+Move Up,44,အပေါ်သို့ရွေ့ပါ,45,totem,po/my.po
+Remove,48,ဖယ်ပစ်ပါ,49,totem,po/my.po
+Remove file from playlist,52,ဖွင့်ရန်စာရင်းမှ ဖယ်ပစ်ပါ,53,totem,po/my.po
+Save Playlist...,56,ဖွင့်ရန်စာရင်း သိမ်းရန်...,57,totem,po/my.po
+Select a file to use for text subtitles,60,စာတန်းထိုးတွင်အသုံးပြုရန် file ရွေးချယ်ပါ။,61,totem,po/my.po
+_Copy Location,64,_C ဖိုင်တည်နေရာကူးယူပါ,65,totem,po/my.po
+_Remove,68,_R ဖယ်ပစ်ပါ,69,totem,po/my.po
+_Select Text Subtitles...,72,_S စာတန်းထိုးရွေးချယ်ရန်,73,totem,po/my.po
+Album:,76,တေးစီးရီး :,77,totem,po/my.po
+Artist:,80,အနုပညာရှင် :,81,totem,po/my.po
+Audio,85,အသံပိုင်း,86,totem,po/my.po
+Channels:,93,ချန်နယ် -,94,totem,po/my.po
+Codec:,97,code ဝှက်စနစ်:,98,totem,po/my.po
+Comment:,101,ထင်မြင်ချက် :,102,totem,po/my.po
+Dimensions:,109,မြင်ကွင်းအတိုင်းအတာ :,110,totem,po/my.po
+Duration:,113,ကြာမြင့်ချိန် :,114,totem,po/my.po
+General,121,အကျည်းချုပ်,122,totem,po/my.po
+Title:,129,သီချင်းအမည် :,130,totem,po/my.po
+Video,134,ဗီဒီယို,135,totem,po/my.po
+Year:,138,ခုနှစ် -,139,totem,po/my.po
+Add the video to the playlist,142,ဖွင့်ရန်စာရင်းသို့ ရုပ်ရှင်ထည့်ရန်,143,totem,po/my.po
+_Add to Playlist,146,_A ဖွင့်cရန်စာရင်းသို့ ပေါင်းထည့်ရန်,147,totem,po/my.po
+Movie Player,152,ရုပ်ရှင်ဖွင့်စက်,153,totem,po/my.po
+Play movies and songs,156,ရုပ်ရှင်နှင့်သီချင်းများဖွင့်ရန်,157,totem,po/my.po
+16:9 (Widescreen),172,16:9 (မြင်ကွင်းကျယ်),173,totem,po/my.po
+A_udio Menu,236,_U အသံပိုင်း ရွေးချယ်ရာစာရင်း,237,totem,po/my.po
+Clear the playlist,254,ဖွင့်ရန်စာရင်းကိုရှင်းပစ်ပါ,255,totem,po/my.po
+Color Balance,262,အရောင်ချိန်ရန်,263,totem,po/my.po
+Decrease volume,278,အသံလျှော့ပါ,279,totem,po/my.po
+Display,291,မြင်ကွင်း,292,totem,po/my.po
+Eject the current disc,295,လက်ရှိအခွေကို ထုတ်ပါ,296,totem,po/my.po
+Go to the DVD menu,312,DVD ရွေးချယ်ရာစာရင်းသို့,313,totem,po/my.po
+Go to the angle menu,316,Angle ရွေးချယ်ရာစာရင်းသို့,317,totem,po/my.po
+Go to the audio menu,320,အသံပိုင်း ရွေးချယ်ရာစာရင်းသို့,321,totem,po/my.po
+Go to the chapter menu,324,အပိုင်း/အခန်း ရွေးချယ်ရာစာရင်းသို့,325,totem,po/my.po
+Go to the title menu,328,ပထမဆုံး ရွေးချယ်ရာစာရင်း,329,totem,po/my.po
+Help contents,332,အကူအညီများ ,333,totem,po/my.po
+Increase volume,336,အသံချဲ့ပါ,337,totem,po/my.po
+Next chapter or movie,357,နောက် အပိုင်း/ရုပ်ရှင် သို့,358,totem,po/my.po
+Normal,362,သာမန်,363,totem,po/my.po
+Open _Location...,366,_L လမ်းကြောင်းအတိုင်းဖွင့်ရန်..,367,totem,po/my.po
+Open a file,370,ဖိုင်တစ်ဖိုင်ဖွင့်ရန်,371,totem,po/my.po
+Play / P_ause,378,_A ဖွင့်/ဆိုင်း,379,totem,po/my.po
+Play or pause the movie,382,ရုပ်ရှင်ကို ဖွင့်(သို့)ခတ္တနားရန်,383,totem,po/my.po
+Playback,386,ပြန်လည်ဖွင့်ရန်,387,totem,po/my.po
+Plugins...,390,ပလပ်အင်များ...,391,totem,po/my.po
+Prefere_nces,394,_N လိုလားချက်များ,395,totem,po/my.po
+Previous chapter or movie,398,ပြီးခဲ့သော အပိုင်း/ရုပ်ရှင် သို့,399,totem,po/my.po
+Quit the program,402,ရုပ်ရှင်ဖွင့်စက်မှထွက်ရန်,403,totem,po/my.po
+Reset to _Defaults,406,_D မူလအရှိအတိုင်း ပြန်ထားရန်,407,totem,po/my.po
+Resize _1:1,410,_1:1 အရွယ်ပြောင်းပါ,411,totem,po/my.po
+Resize _2:1,414,_2:1 အရွယ်ပြောင်းပါ,415,totem,po/my.po
+S_idebar,430,_I ဘေးခြမ်း,431,totem,po/my.po
+S_ubtitles,434,_U စာတန်း,435,totem,po/my.po
+Set the repeat mode,442,ထပ်ကျော့ပုံစံ ထားရန်,443,totem,po/my.po
+Set the shuffle mode,446,ကျပန်းပုံစံ ထားရန်,447,totem,po/my.po
+Sets 16:9 (widescreen) aspect ratio,450,16:9 (မြင်ကွင်းကျယ်) ပုံစံအချိုးအစားထားရန်,451,totem,po/my.po
+Sets 4:3 (TV) aspect ratio,458,4:3 (ပုံမှန် TV) ပုံစံအချိုးအစားထားရန်,459,totem,po/my.po
+Sets automatic aspect ratio,462,လိုက်လျောညီထွေသော အချိုးအစားထားရန်,463,totem,po/my.po
+Show _Controls,470,_C ထိန်းချုပ် ကိရိယာများပြပါ,471,totem,po/my.po
+Show controls,478,ထိန်းချုပ် ကိရိယာများပြပါ,479,totem,po/my.po
+Show or hide the sidebar,482,အသေးစိတ်အချက်အလက်များ ပြ(သို့)ဝှက်ထားရန်,483,totem,po/my.po
+Shuff_le Mode,486,_L ကျပန်းပုံစံ,487,totem,po/my.po
+Skip _Backwards,490,_B နောက်သို့ ပြန်သွားရန်,491,totem,po/my.po
+Skip _Forward,494,_F ရှေ့သို့ကျော်ရန်,495,totem,po/my.po
+Skip backwards,498,နောက်သို့ ပြန်သွားရန်,499,totem,po/my.po
+Skip forward,502,ရှေ့သို့ကျော်ရန်,503,totem,po/my.po
+Start playing files from last position,510,နောက်ဆုံးရောက်ခဲ့သည့်နေရာမှ ပြန်ဖွင့်ရန်,511,totem,po/my.po
+Stereo,515,စတီရီယို,516,totem,po/my.po
+Switch to fullscreen,527,ဖန်သားပြင်အပြည့်သို့ ပြောင်းရန်,528,totem,po/my.po
+Text Subtitles,531,စာတန်းထိုး စာ,532,totem,po/my.po
+Video or Audio,543,ရုပ်ပိုင်း သို့ အသံပိုင်း,544,totem,po/my.po
+Volume _Down,559,_D အသံလျှော့ရန်,560,totem,po/my.po
+Volume _Up,563,_U အသံမြှင့်ရန်,564,totem,po/my.po
+Zoom In,567,မြင်ကွင်း ချဲ့ရန်,568,totem,po/my.po
+Zoom in,571,မြင်ကွင်း ချဲ့ရန်,572,totem,po/my.po
+_About,575,_A အကြောင်းအရာ,576,totem,po/my.po
+_Angle Menu,579,_A တည်နေရာထောင့် ရွေးချယ်ရာစာရင်း,580,totem,po/my.po
+_Aspect Ratio,583,_A အချိုးအစား,584,totem,po/my.po
+_Brightness:,591,_B အလင်း :,592,totem,po/my.po
+_Chapter Menu,595,_C အပိုင်း/အခန်း စာရင်း,596,totem,po/my.po
+_Clear Playlist,599,_C ဖွင့်ရန်စာရင်းကိုရှင်းရန်,600,totem,po/my.po
+_Contents,603,_C မာတိကာ,604,totem,po/my.po
+_DVD Menu,607,_D DVD မီးနူး,608,totem,po/my.po
+_Edit,611,_E ပြုပြင်ရန်,612,totem,po/my.po
+_Eject,615,_E အခွေထုတ်ရန်,616,totem,po/my.po
+_Encoding:,619,_E code ဝှက်ခြင်း :,620,totem,po/my.po
+_Font:,623,_F ဖောင့်-,624,totem,po/my.po
+_Fullscreen,627,_F ဖန်သားပြင်အပြည့်,628,totem,po/my.po
+_Go,631,_G သွားရန်,632,totem,po/my.po
+_Help,635,_H အကူအညီ,636,totem,po/my.po
+_Hue:,639,_H အရောင်အသွေး -,640,totem,po/my.po
+_Languages,643,_L ဘာသာစကားများ,644,totem,po/my.po
+_Movie,651,_M ရုပ်ရှင် ,652,totem,po/my.po
+_Next Chapter/Movie,655,_N နောက် အပိုင်း/ရုပ်ရှင် သို့,656,totem,po/my.po
+_Open...,659,_O ဖွင့်ရန်,660,totem,po/my.po
+_Previous Chapter/Movie,663,_P ပြီးခဲ့သော အပိုင်း/ရုပ်ရှင် သို့,664,totem,po/my.po
+_Properties,667,_P ဂုဏ်သတ္တိများ,668,totem,po/my.po
+_Quit,671,_Q ထွက်ရန်,672,totem,po/my.po
+_Repeat Mode,675,_R ထပ်ကျော့ပုံစံ,676,totem,po/my.po
+_Sound,687,_S အသံ,688,totem,po/my.po
+_Title Menu,691,_T ပထမဆုံး ရွေးချယ်ရာစာရင်း,692,totem,po/my.po
+_View,699,_V မြင်ကွင်းပိုင်း,700,totem,po/my.po
+Repeat mode,779,ထပ်ကျော့ပုံစံ,780,totem,po/my.po
+Shuffle mode,795,L ကျပန်းပုံစံ,796,totem,po/my.po
+Subtitle font,803,စာတန်းထိုး font,804,totem,po/my.po
+The brightness of the video,807,ရုပ်သံ၏အလင်း,808,totem,po/my.po
+Starting %s,876,အစပြုနေတယ် %s,877,totem,po/my.po
+All Files,905,File အားလုံး,906,totem,po/my.po
+All Supported Files,909,လက်ခံသော file အားလုံး,910,totem,po/my.po
+FILE,946,ဖိုင်,947,totem,po/my.po
+Unknown,975,မျိုးမည်မသိ,976,totem,po/my.po
+_Play Now,1074,_P ဖွင့်ရန်,1075,totem,po/my.po
+Cancel,1078,ငြင်းပယ်ရန်,1079,totem,po/my.po
+No File,1082,File မရှိပါ။,1083,totem,po/my.po
+The file does not exist.,1091,File မရှိတော့ပါ။,1092,totem,po/my.po
+Make sure that Totem is properly installed.,1096,Totem တကယ်သွင်းထားပြီးလားဟု သေချာစေရန်ပြန်စစ်ပါ။,1097,totem,po/my.po
+None,1130,ဘာမှမရှိပါ။,1131,totem,po/my.po
+Playing,1188,ဖွင့်ထားသည်,1189,totem,po/my.po
+Pause,1192,ခတ္တရပ်ထားသည်,1193,totem,po/my.po
+Paused,1196,ခတ္တရပ်ထားပြီးပြီ,1197,totem,po/my.po
+Play,1201,ဖွင့်သည်,1202,totem,po/my.po
+Stopped,1206,ရပ်နားပြီးပြီ,1207,totem,po/my.po
+No reason.,1266,အကြောင်းပြချက်မရှိပါ။,1267,totem,po/my.po
+No error message,1278,ပြဿနာတစုံတရာမရှိပါ,1279,totem,po/my.po
+An error occurred,1287,ပြဿနာရှိနေပြီ,1288,totem,po/my.po
+Previous Chapter/Movie,1291,ပြီးခဲ့သော အပိုင်း/ရုပ်ရှင် သို့,1292,totem,po/my.po
+Play / Pause,1295,ဖွင့်/ ခတ္တနား,1296,totem,po/my.po
+Next Chapter/Movie,1299,နောက် အပိုင်း/ရုပ်ရှင် သို့,1300,totem,po/my.po
+Fullscreen,1305,ဖန်သားပြင်အပြည့်,1306,totem,po/my.po
+Open Location...,1313,လမ်းကြောင်းအတိုင်းဖွင့်ရန်..,1314,totem,po/my.po
+Play/Pause,1321,ဖွင့်/ ခတ္တနား,1322,totem,po/my.po
+Next,1325,နောက်တစ်ခု,1326,totem,po/my.po
+Previous,1329,ပြီးခဲ့တဲ့တစ်ခု,1330,totem,po/my.po
+Volume Up,1341,အသံမြှင့်ရန်,1342,totem,po/my.po
+Volume Down,1345,အသံလျှော့ရန်,1346,totem,po/my.po
+Mute sound,1349,အသံပိတ်ထားရန်,1350,totem,po/my.po
+Quit,1361,ထွက်ရန်,1362,totem,po/my.po
+Replace,1369,အစားထိုးရန်,1370,totem,po/my.po
+Seek,1373,ရှာဖွေသည်,1374,totem,po/my.po
+Movies to play,1382,ဖွင့်ရန်ရုပ်ရှင်များ,1383,totem,po/my.po
+Save Playlist,1418,ဖွင့်ရန်စာရင်း သိမ်းရန်,1419,totem,po/my.po
+Playlist,1425,ဖွင့်ရန်စာရင်း,1426,totem,po/my.po
+Preferences,1438,N လိုလားချက်များ,1439,totem,po/my.po
+Select Subtitle Font,1442,စာတန်းထိုးရွေးချယ်ရန်,1443,totem,po/my.po
+Audio/Video,1446,ရုပ်ပိုင်း သို့ အသံပိုင်း,1447,totem,po/my.po
+Surround,1487,အသံပါတ်လည်ပြေးစနစ်,1488,totem,po/my.po
+Resolution,1704,အသေးစိတ် တိကျမှု,1705,totem,po/my.po
+Duration,1708,ကြာမြင့်ချိန်,1709,totem,po/my.po
+All files,1712,File အားလုံး,1713,totem,po/my.po
+Supported files,1716,လက်ခံသော file အားလုံး,1717,totem,po/my.po
+Audio files,1720,အသံ file များ,1721,totem,po/my.po
+Video files,1724,ရုပ်သံ file များ,1725,totem,po/my.po
+Subtitle files,1728,စာတန်းထိုး file များ,1729,totem,po/my.po
+Select Text Subtitles,1732,စာတန်းထိုးရွေးချယ်ရန်,1733,totem,po/my.po
+Select Movies or Playlists,1736,ရုပ်ရှင် (သို့) ဖွင်ရန်စာရင်း ရွေးချယ်ပါ,1737,totem,po/my.po
+Location not found.,1788,လမ်းကြောင်းရှာမတွေ့ပါ။,1789,totem,po/my.po
+Could not open location; you might not have permission to open the file.,1792,လမ်းအကြောင်းအတိုင်းဖွင့်မရပါ။ သင့်တွင်ထို file ကိုဖွင့်ရန် ခွင့်ပြုချက် မရှိပါ။,1794,totem,po/my.po
+_Create Video Disc...,1899,_C ရုပ်သံ အခွေ ဖန်တီးရန်,1900,totem,po/my.po
+Chapters,1947,အပိုင်းများ/အခန်းများ,1948,totem,po/my.po
+Save Changes,2009,ပြောင်းလဲမှုများ သိမ်းရန်,2010,totem,po/my.po
+Subtitle _language:,2211,_L စာတန်းထိုးဘာသာစကား,2212,totem,po/my.po
+_Play with Subtitle,2215,_P စာတန်းထိုး၍ ဖွင့်ရန်,2216,totem,po/my.po
+Look for subtitles for the currently playing movie.,2219,ယခုဖွင့်ထားသော ရုပ်ရှင်အတွက် စာတန်းထိုး ရှာဖွေရန်။,2220,totem,po/my.po
+Subtitles,2255,စာတန်းထိုး,2256,totem,po/my.po
+Rating,2267,သဘောကျ ရမှတ်,2268,totem,po/my.po
+Properties,2301,ဂုဏ်သတ္တိများ,2302,totem,po/my.po
+Playing a movie,2409,ရုပ်ရှင်တစ်ကားဖွင့်ထားသည်,2410,totem,po/my.po
+Calculate the number of screenshots,2413,ဖန်သားပြင်ပုံရိပ် အရေအတွက်များ ရေတွက်သည်,2414,totem,po/my.po
+Number of screenshots:,2417,ဖန်သားပြင်ပုံရိပ် အရေအတွက်များ :,2418,totem,po/my.po
+Save in _folder:,2425,_F ဖိုင်တွဲထဲ သိမ်းဆည်းပါ -,2426,totem,po/my.po
+_Name:,2433,_N အမည် :,2434,totem,po/my.po
+Save Screenshot,2471,ဖန်သားပြင်ပုံရိပ်ကို သိမ်းပါ,2472,totem,po/my.po
+Take _Screenshot...,2491,_S ဖန်သားပြင်ပုံရိပ်ဖမ်း...,2492,totem,po/my.po
+Take a screenshot,2495,ဖန်သားပြင်ပုံရိပ် ဖမ်းရန်,2496,totem,po/my.po
+second,2509,စက္ကန့်,2511,totem,po/my.po
+Skip to a specific time,2533,အချိန်အတိအကျလိုက် ကျော်ရန်,2534,totem,po/my.po
+_Skip to:,2537,_S ကျော်ရန်,2538,totem,po/my.po
+Related Videos,2549,နီးစပ်သော ရုပ်သံများ,2550,totem,po/my.po
+Search Results,2553,ရှာဖွမှု ရလဒ်များ,2554,totem,po/my.po
+Videos,2557,ဗီဒီယိုများ,2558,totem,po/my.po
+Open the video in your web browser,2566,Web browser အတွင်း၌ ရုပ်သံဖွင့်ရန်,2567,totem,po/my.po
+Error Searching for Videos,2583,ရုပ်သံများ ရှာဖွေရာတွင် ပြဿနာရှိနေသည်,2584,totem,po/my.po
+Error Opening Video in Web Browser,2603,Web Browser အတွင်း၌ ရုပ်သံဖွင့်ရာတွင် ပြဿနာရှိနေသည်,2604,totem,po/my.po
+"_Open with \""%s\""",2629,"_O \""%s\"" နှင့် ဖွင့်ပါ",2630,totem,po/my.po

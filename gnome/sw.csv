@@ -1,0 +1,65 @@
+Select System,33,Teua Mfumo,34,gdm,po/sw.po
+XDMCP: Could not create XDMCP buffer!,37,XDMCP: Haikuweza kuunda kipunguzi cha XDMCP!,38,gdm,po/sw.po
+XDMCP: Could not read XDMCP header!,41,XDMCP: Haikuweza kusoma kichwa cha XDMCP!,42,gdm,po/sw.po
+XDMCP: Incorrect XDMCP version!,45,XDMCP: Toleo kosefu la XDMCP!,46,gdm,po/sw.po
+XDMCP: Unable to parse address,49,XDMCP: Haijafaulu kuchanganua anwani,50,gdm,po/sw.po
+/dev/urandom is not a character device,53,/dev/urandom sio kifaa cha dhati,54,gdm,po/sw.po
+Could not identify the current seat.,63,Haikuwezekana kutambua kiti kinachotumika.,64,gdm,po/sw.po
+The system is unable to determine whether to switch to an existing login screen or start up a new login screen.,67,Mfumo haijafaulu kuamua kama itapindua kutumia pazia-ishi ya login au kuanzisha upya pazia ya login.,70,gdm,po/sw.po
+The system is unable to start up a new login screen.,75,Mfumo haijafaulu kuanzisha upya pazia ya login.,76,gdm,po/sw.po
+Could not start the X server (your graphical environment) due to an internal error. Please contact your system administrator or check your syslog to diagnose. In the meantime this display will be disabled.  Please restart GDM when the problem is corrected.,85,Haijawezekana kuanzisha X seva (mazingira yako ya grafiki) kwa sababu ya hitilafu ya ndani. Tafadhali mjulishe msimamizi wako wa mfumo au angalia syslog yako kutambua. Kwa sasa onyesho hili litazuiwa kutumika. Tafadhali anzisha upywa GDM shida hii itakapo rekebishwa.,90,gdm,po/sw.po
+No session available,103,Hakuna kikao inayopatikana,104,gdm,po/sw.po
+Can only be called before user is logged in,113,Inaweza itwa tu kabla mtumiaji haja-login,114,gdm,po/sw.po
+Caller not GDM,117,Mwitaji sio GDM,118,gdm,po/sw.po
+initgroups () failed for %s,139,initgroups () imefeli kwa %s,140,gdm,po/sw.po
+%s: Could not open log file for display %s!,150,%s: Haikuwezekana kufungua faili ya kumbukumbu kwa onyesho %s!,151,gdm,po/sw.po
+%s: Error setting %s to %s,155,%s: Hitilafu kutia %s kua %s,156,gdm,po/sw.po
+%s: Empty server command for display %s,166,%s: Amri tupu ya seva kwa onyesho %s,167,gdm,po/sw.po
+Username,170,Jina la utumiaji,171,gdm,po/sw.po
+The username,174,Lile jina la mtumiaji,175,gdm,po/sw.po
+Hostname,178,Jina la kijihudumu,179,gdm,po/sw.po
+The hostname,182,Lile jina la kijihudumu,183,gdm,po/sw.po
+Display Device,186,Kifaa cha Onyesho,187,gdm,po/sw.po
+The display device,190,Lile Kifaa cha Onyesho,191,gdm,po/sw.po
+Could not create authentication helper process,194,Haikuwezekana kuunda harakati ya msaidizi wa usahihishaji,195,gdm,po/sw.po
+Username:,210,Jina la utumiaji:,211,gdm,po/sw.po
+no user account available,214,hakuna akaunti ya mtumiaji inayopatikana,215,gdm,po/sw.po
+Unable to change to user,218,Haijafaulu kubadilisha kua mtumiaji,219,gdm,po/sw.po
+Could not create socket!,228,Haijawezekana kuunda tundu!,229,gdm,po/sw.po
+Cannot write PID file %s: possibly out of disk space: %s,247,Haiwezi kuandika faili ya PID %s: inawezekana nafasi ya disk kukwisha: %s,248,gdm,po/sw.po
+Failed to create ran once marker dir %s: %s,253,Ilifeli kuunda ran mara moja marker dir %s: %s,254,gdm,po/sw.po
+Failed to create LogDir %s: %s,258,Ilefeli kuunda LogDir %s: %s,259,gdm,po/sw.po
+The GDM user should not be root. Aborting!,268,Ule mtumiaji wa GDM hawezi kua root. Inasitisha!,269,gdm,po/sw.po
+The GDM group should not be root. Aborting!,278,Lile kundi ya GDM haliwezi kua root. Inasitisha!,279,gdm,po/sw.po
+Make all warnings fatal,282,Fanya maonyo yote kuwa mbaya,283,gdm,po/sw.po
+Exit after a time (for debugging),286,Toka baada ya muda (kwa debugging),287,gdm,po/sw.po
+Print GDM version,290,Chapa toleo la GDM,291,gdm,po/sw.po
+GNOME Display Manager,294,Onyesha Kuu la GNOME ,295,gdm,po/sw.po
+Only the root user can run GDM,299,Mtumiaji root pekee yake ndiye anayeweza kutimusha GDM,300,gdm,po/sw.po
+GNOME Display Manager Session Worker,305,Mfanyaji kazi wa kikao cha Onyesho Kuu la GNOME,306,gdm,po/sw.po
+Whether or not to allow fingerprint readers for login,309,Kama kukubalia au la kutumia kichapisha-kidole kwa login,310,gdm,po/sw.po
+The login screen can optionally allow users who have enrolled their fingerprints to log in using those prints.,313,Lile pazia la login linaweza kwa hiari kukubalia watumiaji waliojiandikisha vidole vyao kwenye kichapisha-kidole ku-login wakitumia hizo vichapisho.,316,gdm,po/sw.po
+Whether or not to allow smartcard readers for login,321,Kama kukubalia au la visomaji vya smart-kadi ku-login,322,gdm,po/sw.po
+The login screen can optionally allow users who have smartcards to log in using those smartcards.,325,Lile pazia la login linaweza kwa hiari kukubalia watumiaji walio na smart-kadi kuingia wakitumia hizo smart-kadi.,328,gdm,po/sw.po
+Whether or not to allow passwords for login,333,Kama kukubalia au la nywila kwa ku-login,334,gdm,po/sw.po
+"The login screen can be configured to disallow password authentication, forcing the user to use smartcard or fingerprint authentication.",337,"Lile pazia la login linaweza kusanidiwa kutokubali usahihisaji wa nywila, na kushurutisha mtumiaji kutumia usahihishaji wa smart-kadi au kwa kichapisha-kidole.",340,gdm,po/sw.po
+Path to small image at top of user list,347,Njia kwa picha ndogo iliyo juu la orodha ya mtumiaji,348,gdm,po/sw.po
+Avoid showing user list,379,Epuka kueonyesha orodha ya mtumiaji,380,gdm,po/sw.po
+The login screen normally shows a list of available users to log in as. This setting can be toggled to disable showing the user list.,383,Lile pazia la login kwa kawaida linaonyesha oridha ya watumiaji wanaopatikana ili kuingia ndani kama. Hii mazingira inaweza kugeuzwa ili kutooonyesha orodha ya mtumiaji.,386,gdm,po/sw.po
+Enable showing the banner message,392,Wezesha kuonyesha habari ya alamu,393,gdm,po/sw.po
+Set to true to show the banner message text.,396,Tia kua sadifu kuonyesha alamu iliyo na maandiko ya habari.,397,gdm,po/sw.po
+Banner message text,400,Alamu iliyo na maandiko ya habari,401,gdm,po/sw.po
+Text banner message to show in the login window.,404,Maandiko ya habari iliyo kwa alamu ionyeshwe kwenye mizuka ya login.,405,gdm,po/sw.po
+Disable showing the restart buttons,408,Zuia kuonyeshwa vitufe vya kuanzisha tena,409,gdm,po/sw.po
+Set to true to disable showing the restart buttons in the login window.,412,Tia kua sadifu kuonyesha vile vitufe vya kuanzisha tena kwenye mizuka wa login.,413,gdm,po/sw.po
+Number of allowed authentication failures,418,Idadi ya feli zinazokubaliwa katika usahihishaji,419,gdm,po/sw.po
+"The number of times a user is allowed to attempt authentication, before giving up and going back to user selection.",422,"Ile idadi ya kipindi mtumiaji atakubaliwa kujaribu kujisahihisha, kabla ya kutilifu na kurudi kwenye uteuzi wa mtumiaji.",425,gdm,po/sw.po
+Unable to create transient display: ,430,Haijafaulu kuunda onyesho la muda mfupi:,431,gdm,po/sw.po
+Unable to activate session: ,434,Haijafaulu kuamsha kikao:,435,gdm,po/sw.po
+Only the VERSION command is supported,438,Amri ya TOLEO pekee ndiyo inaungwa mkono,439,gdm,po/sw.po
+COMMAND,442,AMRI,443,gdm,po/sw.po
+Ignored — retained for compatibility,447,Imepuuzwa — imehifadhiwa kwa ajili ya utangamano,448,gdm,po/sw.po
+Debugging output,451,Matokeo ya debugging,452,gdm,po/sw.po
+Version of this application,455,Toleo la programu,456,gdm,po/sw.po
+Screenshot taken,466,Screenshot imepigwa,467,gdm,po/sw.po
+Take a picture of the screen,471,Piga picha ya pazia,472,gdm,po/sw.po

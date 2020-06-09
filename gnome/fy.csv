@@ -1,0 +1,834 @@
+Show “_%s”,32,"Lit \""_%s\"" sjen",33,eog,po/fy.po
+_Delete Toolbar,52,Wiskje Arbalke,53,eog,po/fy.po
+Separator,60,Ôfskieder,61,eog,po/fy.po
+Activate fullscreen mode with double-click,64,Skeakelje folledich-skerm-moadus yn mei dûbbelklik,65,eog,po/fy.po
+Fullscreen with double-click,68,Folledich-skerm mei dûbelklik,69,eog,po/fy.po
+Reload Image,73,Laad ôfbylding opnij,74,eog,po/fy.po
+Reload current image,78,Laad warbere ôfbylding opnij,79,eog,po/fy.po
+Date in statusbar,82,Datum yn steatbalke,83,eog,po/fy.po
+Shows the image date in the window statusbar,86,Lit de datum fan'e ôfbylding sjen yn de steatbalke,87,eog,po/fy.po
+Browse and rotate images,90,Bleaderje en draaie ôfbylingen,91,eog,po/fy.po
+Image Viewer,94,Ôfbyldingswerjefteprogramma,95,eog,po/fy.po
+Author:,102,Skriuwer:,103,eog,po/fy.po
+Bytes:,106,Parten:,107,eog,po/fy.po
+Copyright:,114,Auteursrjocht:,115,eog,po/fy.po
+Description:,122,Beskriuwing:,123,eog,po/fy.po
+Flash:,134,Flits:,135,eog,po/fy.po
+General,142,Algemien,143,eog,po/fy.po
+Height:,146,Hichte:,147,eog,po/fy.po
+Image Properties,154,Ôfbieldingseigenskippen,155,eog,po/fy.po
+Keywords:,158,Kaaiwurden:,159,eog,po/fy.po
+Location:,162,Lokaasje:,163,eog,po/fy.po
+Name:,174,Namme:,175,eog,po/fy.po
+Width:,182,Breedte:,183,eog,po/fy.po
+_Next,186,Folgje_nde,187,eog,po/fy.po
+_Previous,190,Foargeande,191,eog,po/fy.po
+Choose a folder,204,Kar in map út,205,eog,po/fy.po
+Options,224,Opsjes,225,eog,po/fy.po
+Save As,236,Bewarje as,237,eog,po/fy.po
+To:,244,Nei:,245,eog,po/fy.po
+As _background,248,As eftergrûn,249,eog,po/fy.po
+As custom c_olor:,256,As oanpaste kleur,257,eog,po/fy.po
+As custom color:,260,As oanpaste kleur:,261,eog,po/fy.po
+Background,264,Eftergrûn,265,eog,po/fy.po
+Background Color,269,Eftergrûnkleur,270,eog,po/fy.po
+Color for Transparent Areas,273,Kleur foar Trochsichtich Gebiet,274,eog,po/fy.po
+E_xpand images to fit screen,277,Set ôfbyldingen út om it skerm te passen,278,eog,po/fy.po
+Eye of GNOME Preferences,281,Eye of GNOME Foarkarren,282,eog,po/fy.po
+Image View,289,Ôfbieldingswerjefte,290,eog,po/fy.po
+Plugins,297,Ynstekkers,298,eog,po/fy.po
+Slideshow,305,Diafoarstelling,306,eog,po/fy.po
+_Switch image after:,329,Wik_selje ôfbylding nei:,330,eog,po/fy.po
+seconds,333,sekonden,334,eog,po/fy.po
+Active plugins,343,Ynstelde ynstekkers,344,eog,po/fy.po
+Use a custom background color,530,As oanpaste eftergrûnkleur bruke,531,eog,po/fy.po
+Running in fullscreen mode,534,Rint yn folledich-skerm-moadus,535,eog,po/fy.po
+Question,542,Fraach,543,eog,po/fy.po
+All Files,586,Alle Triemen,587,eog,po/fy.po
+All Images,590,Alle Ôfbyldingen,591,eog,po/fy.po
+pixel,602,byldpunt,604,eog,po/fy.po
+pixel,602,byldpunten,605,eog,po/fy.po
+Open Image,608,Ôfbylding Openje,609,eog,po/fy.po
+Save Image,612,Ôfbylding Bewarje,613,eog,po/fy.po
+Open Folder,616,Map Openje,617,eog,po/fy.po
+Camera,660,Kamera,661,eog,po/fy.po
+Other,676,Oare,677,eog,po/fy.po
+Value,700,Wearde,701,eog,po/fy.po
+Image,736,Ôfbylding,737,eog,po/fy.po
+_Left:,756,_Lofts:,757,eog,po/fy.po
+_Right:,760,_Rjochts:,761,eog,po/fy.po
+Both,788,Beide,789,eog,po/fy.po
+Size,792,Grutte,793,eog,po/fy.po
+_Width:,796,Breedte:,797,eog,po/fy.po
+_Height:,800,_Hichte:,801,eog,po/fy.po
+ (invalid Unicode),875, (mishypte Unicode),876,eog,po/fy.po
+Toolbar Editor,919,Arkbalkbewurker,920,eog,po/fy.po
+The GNOME image viewer.,960,De GNOME ôfbyldingswerjefter,961,eog,po/fy.po
+Move to _Trash,1008,Nei Jiskefet Ferpleatse,1009,eog,po/fy.po
+_Image,1031,Ôfbylding,1032,eog,po/fy.po
+_Edit,1035,B_ewurkje,1036,eog,po/fy.po
+_View,1039,Werjefte,1040,eog,po/fy.po
+_Go,1043,_Gean,1044,eog,po/fy.po
+_Tools,1047,Arken,1048,eog,po/fy.po
+_Open…,1055,_Openje...,1056,eog,po/fy.po
+Open a file,1059,Openje in triem,1060,eog,po/fy.po
+_Contents,1087,Ynhald,1088,eog,po/fy.po
+_About,1095,Oer,1096,eog,po/fy.po
+_Toolbar,1103,Arkbalke,1104,eog,po/fy.po
+_Save,1135,Bewarje,1136,eog,po/fy.po
+Open _with,1143,Openje mei,1144,eog,po/fy.po
+Save _As…,1151,Bewarje _As...,1152,eog,po/fy.po
+_Print…,1159,Ôfdrukke...,1160,eog,po/fy.po
+Prope_rties,1167,Eigenskippen,1168,eog,po/fy.po
+_Undo,1175,Ûngedien meitsje,1176,eog,po/fy.po
+_Zoom In,1227,Seamje Yn,1228,eog,po/fy.po
+Zoom _Out,1235,Seamje Út,1236,eog,po/fy.po
+_Normal Size,1243,_Normale Grutte,1244,eog,po/fy.po
+Pause Slideshow,1267,Diafoarstelling Skoftsje,1268,eog,po/fy.po
+_Previous Image,1275,Foariche Ôfbylding,1276,eog,po/fy.po
+_Next Image,1283,Folgje_nde Ôfbylding,1284,eog,po/fy.po
+_First Image,1291,Earste Ôfbylding,1292,eog,po/fy.po
+_Last Image,1299,_Letste Ôfbylding,1300,eog,po/fy.po
+_Random Image,1307,Sam_r in Ôfbylding,1308,eog,po/fy.po
+Previous,1323,Foariche,1324,eog,po/fy.po
+Next,1327,Folgjende,1328,eog,po/fy.po
+Right,1331,Rjochts,1332,eog,po/fy.po
+Left,1335,Lofts,1336,eog,po/fy.po
+In,1339,Yn,1340,eog,po/fy.po
+Out,1343,Út,1344,eog,po/fy.po
+Normal,1347,Normaal,1348,eog,po/fy.po
+Fit,1351,Pasje,1352,eog,po/fy.po
+Trash,1360,Jiskefet,1361,eog,po/fy.po
+Plugin,1364,Ynstekker,1365,eog,po/fy.po
+Enabled,1368,Oan set,1369,eog,po/fy.po
+C_onfigure,1372,Ynstelle,1373,eog,po/fy.po
+A_ctivate,1376,Aktivearje,1377,eog,po/fy.po
+Ac_tivate All,1380,Ak_tivearje Alles,1381,eog,po/fy.po
+Active _Plugins:,1388,Aktive Ynstekkers:,1389,eog,po/fy.po
+_About Plugin,1392,Oer Ynstekker,1393,eog,po/fy.po
+C_onfigure Plugin,1396,Ynstekker Ynstelle,1397,eog,po/fy.po
+[FILE…],1424,[TRIEM...],1425,eog,po/fy.po
+File is not a valid .desktop file,25,Triem is gjin deugdlike .desktop-triem,26,file-roller,po/fy.po
+Unrecognized desktop file Version '%s',30,Net weromkende fersje '%s' fan desktop-triem,31,file-roller,po/fy.po
+Starting %s,35,Uteinsette fan %s,36,file-roller,po/fy.po
+Unrecognized launch option: %d,45,Net weromkende opstartopsje: %d,46,file-roller,po/fy.po
+Can't pass documents to this desktop element,50,Kin gjin dokuminten nei dit buroblêdelement trochjaan,51,file-roller,po/fy.po
+Not a launchable item,55,Gjin útein te setten item,56,file-roller,po/fy.po
+Disable connection to session manager,59,Skeakelje ferbining mei sesjebehearder út,60,file-roller,po/fy.po
+Specify file containing saved configuration,63,Spesifisear triem mei bewarre konfiguraasje,64,file-roller,po/fy.po
+FILE,67,TRIEM,68,file-roller,po/fy.po
+Specify session management ID,71,Tsjut sesjebehear-ID oan,72,file-roller,po/fy.po
+Session management options:,79,Sesjebehearkarren:,80,file-roller,po/fy.po
+Show session management options,83,Lit sesjebehearkarren sjen,84,file-roller,po/fy.po
+Archive Manager,88,Triemûnthâldbehear,89,file-roller,po/fy.po
+Create and modify an archive,92,Foarmje in triemûnthâld,93,file-roller,po/fy.po
+Load Options,96,Ynlaadmooglikheden,97,file-roller,po/fy.po
+C_reate,100,Oanm_eitsje,101,file-roller,po/fy.po
+Compress,104,Komprimearje,105,file-roller,po/fy.po
+Location,108,Lokaasje,109,file-roller,po/fy.po
+_Filename:,127,Triemnamme:,128,file-roller,po/fy.po
+_Location:,132,_Lokaasje:,133,file-roller,po/fy.po
+_Other Options,136,_Oare Opsjes,137,file-roller,po/fy.po
+_Password:,141,_Wachtwurd,142,file-roller,po/fy.po
+Delete,149,Wiskje,150,file-roller,po/fy.po
+_All files,153,_Alle triemmen,154,file-roller,po/fy.po
+_Files:,157,_Triemmen,158,file-roller,po/fy.po
+_Selected files,161,_Keazen triemmen,162,file-roller,po/fy.po
+example: *.txt; *.doc,165,foarbyld: *.txt; *.doc,166,file-roller,po/fy.po
+A_vailable application:,169,B_eskikbere tapassing,170,file-roller,po/fy.po
+Open Files,173,Triemmen iepenje,174,file-roller,po/fy.po
+R_ecent applications:,177,N_ijere tapassingen:,178,file-roller,po/fy.po
+_Application:,181,_Tapassing:,182,file-roller,po/fy.po
+"<i><b>Note:</b> the password will be used to encrypt files you add to the current archive, and to decrypt files you extract from the current archive. When the archive is closed the password will be deleted.</i>",185,"<i><b>Opmerking:</b> it wachtwurd sil brûkt wurde om triemmen te fersiferjen dy't jo bewarje yn it archyf en om dyselde fersifering fan triemmen te iepenjen út it archyf wei. As jo it archyf slute, sil it wachtwurd ferneatige wurde.</i>",189,file-roller,po/fy.po
+Password,196,Wachtwurd,197,file-roller,po/fy.po
+Extract Here,220,Hjirhinne ûtpakke,221,file-roller,po/fy.po
+Extract the selected archive to the current position,225,It selekteare argyf nei de warbere posysje útpakke,226,file-roller,po/fy.po
+Extract To...,229,Ûtpakke Nei ...,230,file-roller,po/fy.po
+Extract the selected archive,233,It selekteare argyf útpakke,234,file-roller,po/fy.po
+Could not create the archive,248,Der koe gjin archyf oanmakke wurde,249,file-roller,po/fy.po
+You have to specify an archive name.,252,Jo moatte de namme fan it archyf jaan.,253,file-roller,po/fy.po
+You don't have permission to create an archive in this folder,256,Jo hawwe gjin tastimming om in archyf yn dizze triemtafel te meitsjen,257,file-roller,po/fy.po
+Archive type not supported.,262,Archyftype wurdt net stipe.,263,file-roller,po/fy.po
+Could not delete the old archive.,266,It âlde archyf koe net wiske wurde.,267,file-roller,po/fy.po
+Open,270,Iepenje,271,file-roller,po/fy.po
+All archives,274,Alle archyfen,275,file-roller,po/fy.po
+All files,278,Alle triemmen,279,file-roller,po/fy.po
+Last Output,282,Lêste útfier,283,file-roller,po/fy.po
+"Copyright © 2001–2010 Free Software Foundation, Inc.",309,"Auteursrjocht © 2001–2010 Free Software Foundation, Inc.",310,file-roller,po/fy.po
+An archive manager for GNOME.,313,In archyfbehearder foar GNOME,314,file-roller,po/fy.po
+Could not add the files to the archive,324,De triemmen koenen net oan it archyf taheakke wurde.,325,file-roller,po/fy.po
+"You don't have the right permissions to read files from folder \""%s\""",329,"Jo hawwe gjin tastimming triemmen út triemtafel \""%s\"" te lêzen.",330,file-roller,po/fy.po
+Add Files,333,Triemmen taheakje,334,file-roller,po/fy.po
+Add a Folder,343,In triemtafel taheakje,344,file-roller,po/fy.po
+_Include subfolders,347,_ ûndertriemtafels ynslûte,348,file-roller,po/fy.po
+Exclude folders that are symbolic lin_ks,351,"Triemtafels, dy't symbolyske skea_kels binne, útsûnderje",352,file-roller,po/fy.po
+example: *.o; *.bak,356,foarbyld: *.o; *.bak,357,file-roller,po/fy.po
+E_xclude files:,364,Utsûndere triemmen:,365,file-roller,po/fy.po
+_Load Options,372,_Opsjes lade,373,file-roller,po/fy.po
+Sa_ve Options,376,Opsjes be_warje,377,file-roller,po/fy.po
+Save Options,384,Opsjes bewarje,385,file-roller,po/fy.po
+Options Name:,388,Opsjenammen:,389,file-roller,po/fy.po
+"The name \""%s\"" is not valid because it cannot contain the characters: %s\n\n%s",399,"De namme \""%s\"" is net tastien om't er net de folgjende tekens hawwe mei: %s\n\n\n\n%s",403,file-roller,po/fy.po
+Please use a different name.,413,Graach in oare namme brûke.,414,file-roller,po/fy.po
+You don't have the right permissions to create an archive in the destination folder.,417,Jo hawwe net de krekte tastimming om in triemûnthâld yn de doeltriemtafel te meitsjen.,420,file-roller,po/fy.po
+"Destination folder \""%s\"" does not exist.\n\nDo you want to create it?",426,"Doeltriemtafel \""%s\"" bestiet net.\n\nWolle jo it oanmeitjse?",430,file-roller,po/fy.po
+Create _Folder,436,Meitsje _Triemtafel,437,file-roller,po/fy.po
+Could not create the destination folder: %s.,441,"Doeltriemtafel, %s, koe net makke wurde.",442,file-roller,po/fy.po
+Archive not created,445,Archyf net makke,446,file-roller,po/fy.po
+The archive is already present.  Do you want to overwrite it?,449,It archyf bestiet al. Wolle jo der oerhinne skriuwe?,450,file-roller,po/fy.po
+_Overwrite,453,_Der oerhinne skriuwe,454,file-roller,po/fy.po
+Extraction not performed,458,Ûtpakken hat gjin stal krigen,459,file-roller,po/fy.po
+"You don't have the right permissions to extract archives in the folder \""%s\""",463,"Jo hawwe net de krekte tastimming triemûnthâlden nei triemtafel \""%s\"" ta te ûntsiferjen",465,file-roller,po/fy.po
+Extract,470,Ûtpakke,471,file-roller,po/fy.po
+Actions,474,Aksjes,475,file-roller,po/fy.po
+Over_write existing files,482,Oer_ besteande triemmen hinne skriuwe,483,file-roller,po/fy.po
+Do not e_xtract older files,486,Gjin âldere triemmen ûtpakke,487,file-roller,po/fy.po
+New,491,Nij,492,file-roller,po/fy.po
+Save,496,Bewarje,497,file-roller,po/fy.po
+Location:,520,Lokaasje:,521,file-roller,po/fy.po
+Name:,525,Namme:,526,file-roller,po/fy.po
+%s Properties,530,%s eigenskippen,531,file-roller,po/fy.po
+Modified on:,534,Oanpast op:,535,file-roller,po/fy.po
+Archive size:,538,Archyfgrutte:,539,file-roller,po/fy.po
+Content size:,542,Ynhâldsgrutte,543,file-roller,po/fy.po
+Number of files:,550,Oantal triemmen:,551,file-roller,po/fy.po
+All Files,569,Alle Triemen,570,file-roller,po/fy.po
+By Extension,577,Op Taheaksel,578,file-roller,po/fy.po
+Extension(s),585,Taheaksel(s),586,file-roller,po/fy.po
+Adding file: ,624,It taheakjen fan triem: ,625,file-roller,po/fy.po
+Extracting file: ,630,It ûntsiferjen fan triem: ,631,file-roller,po/fy.po
+Removing file: ,635,It wiskjen fan triem: ,636,file-roller,po/fy.po
+Deleting files from archive,644,It wiskjen fan triemmen út it triemûnthâld,645,file-roller,po/fy.po
+_Add,656,_Taheakje,657,file-roller,po/fy.po
+_Extract,660,Ûtpakk_e,661,file-roller,po/fy.po
+%d object (%s),665,%d objekt (%s),667,file-roller,po/fy.po
+%d object (%s),665,%d objekten (%s),668,file-roller,po/fy.po
+%d object selected (%s),672,%d objekt selekteare (%s),674,file-roller,po/fy.po
+%d object selected (%s),672,%d objekt selekteare (%s),675,file-roller,po/fy.po
+Folder,678,Map,679,file-roller,po/fy.po
+Archive:,735,Argyf:,736,file-roller,po/fy.po
+"Could not open \""%s\""",756,"Koe \""%s\"" net openje",757,file-roller,po/fy.po
+Create _Archive,811,_Archyf Meitsje,812,file-roller,po/fy.po
+Folders,815,Mappen,816,file-roller,po/fy.po
+Size,820,Grutte,821,file-roller,po/fy.po
+Date Modified,830,Datum Oanpast:,831,file-roller,po/fy.po
+Location,835,Lokaasje,836,file-roller,po/fy.po
+Name,840,Namme,841,file-roller,po/fy.po
+Find:,844,Fine:,845,file-roller,po/fy.po
+Open archive,853,Argyf openje,854,file-roller,po/fy.po
+Destination folder,920,Doeltriemtafel,921,file-roller,po/fy.po
+Command _Line Output,940,Kommando _Rigelútfier,941,file-roller,po/fy.po
+Lha (.lzh),1004,Jar (.jar),1005,file-roller,po/fy.po
+ARCHIVE,1064,ARGYF,1065,file-roller,po/fy.po
+FOLDER,1076,MAP,1077,file-roller,po/fy.po
+_Archive,1106,_Argivearje,1107,file-roller,po/fy.po
+_Edit,1110,B_ewurkje,1111,file-roller,po/fy.po
+_View,1114,_Sjen litte,1115,file-roller,po/fy.po
+Open _Recent,1127,Openje _Resint,1128,file-roller,po/fy.po
+Contents,1159,Ynhâld,1160,file-roller,po/fy.po
+_Extract...,1199,Útpakke...,1200,file-roller,po/fy.po
+Find...,1207,Fine...,1208,file-roller,po/fy.po
+New...,1220,Nij...,1221,file-roller,po/fy.po
+Open...,1229,Iepenje,1230,file-roller,po/fy.po
+_Open With...,1233,_Openje Mei...,1234,file-roller,po/fy.po
+Pass_word...,1241,_Wachtwurd...,1242,file-roller,po/fy.po
+Save As...,1258,Bewarje As...,1259,file-roller,po/fy.po
+Select all files,1266,Selektearje alle triemen,1267,file-roller,po/fy.po
+_Toolbar,1307,Arkbalke,1308,file-roller,po/fy.po
+Stat_usbar,1315,Tastânsbalke,1316,file-roller,po/fy.po
+_Folders,1331,Mappen,1332,file-roller,po/fy.po
+View All _Files,1339,Lit Alle Triemen Sjen,1340,file-roller,po/fy.po
+View as a F_older,1343,Lit Sjen As Map,1344,file-roller,po/fy.po
+by _Name,1347,op _Namme,1348,file-roller,po/fy.po
+by _Size,1355,op Grutte,1356,file-roller,po/fy.po
+by T_ype,1363,op T_ype,1364,file-roller,po/fy.po
+by _Location,1380,op _Lokaasje,1381,file-roller,po/fy.po
+"could not find user \""%s\"" on system",52,"Koe brûker \""%s\"" net fine op systeem",53,gdm,po/fy.po
+Username,127,Brûkersnamme,128,gdm,po/fy.po
+The username,131,De brûkersnamme,132,gdm,po/fy.po
+Hostname,135,Kompjûternamme,136,gdm,po/fy.po
+The hostname,139,De kompjûternamme,140,gdm,po/fy.po
+Display Device,143,Skermapparaat,144,gdm,po/fy.po
+The display device,147,It skermapparaat,148,gdm,po/fy.po
+Username:,164,Brûkersnamme:,165,gdm,po/fy.po
+no user account available,173,gjin brûkersakkount beskikber,174,gdm,po/fy.po
+Unable to change to user,177,Koe brûker net oanpasse,178,gdm,po/fy.po
+Could not create socket!,186,Koe hâlder net meitsje,187,gdm,po/fy.po
+Cannot write PID file %s: possibly out of disk space: %s,204,Kin PID-triem %s net skriuwe: mooglik gjin skiifromte meer: %s,205,gdm,po/fy.po
+Can't find the GDM user '%s'. Aborting!,219,Kin GDM-brûker '%s' net fine. Ôfbrekke!,220,gdm,po/fy.po
+Can't find the GDM group '%s'. Aborting!,228,Kin GDM-groep '%s' net fine. Ôfbrekke!,229,gdm,po/fy.po
+Make all warnings fatal,236,Meitsje alle warskôgingen fataal,237,gdm,po/fy.po
+Print GDM version,244,Jouw GDM-ferzje,245,gdm,po/fy.po
+GNOME Display Manager,248,GNOME Skermbehearder,249,gdm,po/fy.po
+Only the root user can run GDM,253,Allinich de systeemberêder kin GDM útfiere,254,gdm,po/fy.po
+GNOME Display Manager Session Worker,259,GNOME Skermbehearder Sesjearbeider,260,gdm,po/fy.po
+Select System,367,Selektearje Systeem,368,gdm,po/fy.po
+XDMCP: Could not create XDMCP buffer!,371,XDMCP: Koe lyts XDMCP-ûnthâld net meitsje,372,gdm,po/fy.po
+XDMCP: Could not read XDMCP header!,375,XDMCP: Koe XDMCP-koptekst net lêze!,376,gdm,po/fy.po
+Multimedia menu,27,Multimediamenu,28,gnome-menus,po/fy.po
+Sound & Video,31,Lûd & fideo,32,gnome-menus,po/fy.po
+Programming,35,Programmeare,36,gnome-menus,po/fy.po
+Tools for software development,39,Arken foar software-ûntwikkeling,40,gnome-menus,po/fy.po
+Education,43,Ûnderwiis,44,gnome-menus,po/fy.po
+Games,47,Spultsjes,48,gnome-menus,po/fy.po
+Games and amusements,51,Spultsjes en ferdiverdaasje,52,gnome-menus,po/fy.po
+Graphics,55,Grafysk,56,gnome-menus,po/fy.po
+Graphics applications,59,Grafyske applikaasjes,60,gnome-menus,po/fy.po
+Settings for several hardware devices,67,Ynstellings foar ferskillende hardware-apparaten,68,gnome-menus,po/fy.po
+Internet,71,Ynternet,72,gnome-menus,po/fy.po
+Programs for Internet access such as web and email,75,"Programma's foar ynternet-tagong, sa as it web en e-mail",76,gnome-menus,po/fy.po
+Office,79,Kantoar,80,gnome-menus,po/fy.po
+Office Applications,83,Kantoarapplikaasjes,84,gnome-menus,po/fy.po
+Personal,88,Persoanlik,89,gnome-menus,po/fy.po
+Personal settings,92,Pearoanlike ynstellingen,93,gnome-menus,po/fy.po
+System,96,Systeem,97,gnome-menus,po/fy.po
+System settings,100,Systeemynstellingen,101,gnome-menus,po/fy.po
+System Tools,104,Systeemarken,105,gnome-menus,po/fy.po
+System configuration and monitoring,108,Systeemkonfiguraasje en -kontrôle,109,gnome-menus,po/fy.po
+Universal Access,112,Algemiene tagong,113,gnome-menus,po/fy.po
+Universal Access Settings,116,Algemiene-tagongsynstellingen,117,gnome-menus,po/fy.po
+Accessories,120,Assesoires,121,gnome-menus,po/fy.po
+Desktop accessories,124,Bureaublêdassesoires,125,gnome-menus,po/fy.po
+Applications,128,Applikaasjes,129,gnome-menus,po/fy.po
+Applications that did not fit in other categories,132,Applikaasjes hokker net yn oare kategoryen passe,133,gnome-menus,po/fy.po
+Other,136,Oare,137,gnome-menus,po/fy.po
+Menu Editor,140,Menubewurker,141,gnome-menus,po/fy.po
+Edit Menus,144,Menus bewurkje,145,gnome-menus,po/fy.po
+_Applications:,148,_Applikaasjes:,149,gnome-menus,po/fy.po
+_Defaults,152,_Standertynstellingen,153,gnome-menus,po/fy.po
+_Menus:,156,_Menu's:,157,gnome-menus,po/fy.po
+Simple Menu Editor %s,162,Simpele menubewurker %s,163,gnome-menus,po/fy.po
+Name,167,Namme,168,gnome-menus,po/fy.po
+Show,171,Sjen litte,172,gnome-menus,po/fy.po
+Cannot find home directory: not set in /etc/passwd and no value for $HOME in environment,175,Kin thúsmap net fine: net ynsteld yn /etc/passwd en gjin wearde foar $HOME yn de omkriten,178,gnome-menus,po/fy.po
+Select Command,24,Kommando selektearje,25,gnome-session,po/fy.po
+Add Startup Program,28,Opstartprogramma tafoegje,29,gnome-session,po/fy.po
+Edit Startup Program,32,Opstartprogramma bewurkje,33,gnome-session,po/fy.po
+The startup command cannot be empty,36,It opstartkommando kin net leech wêze,37,gnome-session,po/fy.po
+The startup command is not valid,40,It opstartkommando is net jildich,41,gnome-session,po/fy.po
+Enabled,44,Ynskeakele,45,gnome-session,po/fy.po
+Icon,48,Ikoan,49,gnome-session,po/fy.po
+Program,52,Programma,53,gnome-session,po/fy.po
+Startup Applications Preferences,56,Ynstellingen foar opstarttapassingen,57,gnome-session,po/fy.po
+No name,60,Gjin namme,61,gnome-session,po/fy.po
+No description,64,Gjin beskriuwing,65,gnome-session,po/fy.po
+Version of this application,68,Ferzje fan dizze tapassing,69,gnome-session,po/fy.po
+Could not display help document,72,Koe it help dokumint net werjaan,73,gnome-session,po/fy.po
+GNOME fallback,76,Gnome weromfal,77,gnome-session,po/fy.po
+GNOME,80,Gnome,81,gnome-session,po/fy.po
+This session logs you into GNOME,84,Dizze sesje meld jo oan by Gnome,85,gnome-session,po/fy.po
+<b>Some programs are still running:</b>,88,<b>Sommiche tapassingen rinne noch:</b>,89,gnome-session,po/fy.po
+Waiting for the program to finish.  Interrupting the program may cause you to lose work.,92,Oan it wachtsjen oant it programma ôfrin is. It programma ûnderbrekke kin jo wurk fuort meitsje.,95,gnome-session,po/fy.po
+Choose what applications to start when you log in,100,Kies hokker tapassingen start wurden by it oanmelde,101,gnome-session,po/fy.po
+Startup Applications,104,Opstarttapassingen,105,gnome-session,po/fy.po
+Additional startup _programs:,108,Ekstra opstart_programma's:,109,gnome-session,po/fy.po
+Browse…,112,Blêdzje…,113,gnome-session,po/fy.po
+Co_mmand:,116,Ko_mmando:,117,gnome-session,po/fy.po
+Comm_ent:,120,Taljochting:,121,gnome-session,po/fy.po
+Options,124,Opsjes,125,gnome-session,po/fy.po
+Startup Programs,128,Opstartprogramma's,129,gnome-session,po/fy.po
+_Automatically remember running applications when logging out,132,Ûnthâld rinnende tapassingen _automatysk by ôfmelde,133,gnome-session,po/fy.po
+_Name:,136,_Namme:,137,gnome-session,po/fy.po
+_Remember Currently Running Application,140,Ûnthâld _rinnende tapassingen,141,gnome-session,po/fy.po
+File is not a valid .desktop file,145,Triem is gjin jildich .desktop-triem,146,gnome-session,po/fy.po
+Unrecognized desktop file Version '%s',150,Ûnbekend fersje '%s' yn desktop-triem,151,gnome-session,po/fy.po
+Starting %s,155,Dwaande mei it starte fan %s,156,gnome-session,po/fy.po
+Application does not accept documents on command line,160,Tapassing akseptearret gjin dokuminten op de kommandorigel,161,gnome-session,po/fy.po
+Unrecognized launch option: %d,165,Ûnbekende startopsje: %d,166,gnome-session,po/fy.po
+Can't pass document URIs to a 'Type=Link' desktop entry,170,Kin gjin dokumint URIs oan in .desktop-triem mei 'Type=Link' trochjaan,171,gnome-session,po/fy.po
+Not a launchable item,175,Gjin útfierber item,176,gnome-session,po/fy.po
+Disable connection to session manager,179,Ferbining mei sesjebehearder útskeakelje,180,gnome-session,po/fy.po
+Specify file containing saved configuration,183,Triem mei bewarre konfiguraasje jaan,184,gnome-session,po/fy.po
+FILE,187,TRIEM,188,gnome-session,po/fy.po
+Specify session management ID,191,Sesjebehear-ID oantsjutte,192,gnome-session,po/fy.po
+Session management options:,199,Sesjebehearopsjes:,200,gnome-session,po/fy.po
+Show session management options,203,Sesjebehearopsjes sjen litte,204,gnome-session,po/fy.po
+There is a problem with the configuration server.\n(%s exited with status %d),208,Der is in probleem mei de konfiguraasjetsjinner.\n(%s útgongen mei status %d),211,gnome-session,po/fy.po
+Icon '%s' not found,217,Ikoan '%s' net fûn,218,gnome-session,po/fy.po
+Unknown,221,Ûnbekend,222,gnome-session,po/fy.po
+A program is still running:,225,In programma rint noch:,226,gnome-session,po/fy.po
+Some programs are still running:,229,Guon programma's rinne noch:,230,gnome-session,po/fy.po
+Waiting for programs to finish.  Interrupting these programs may cause you to lose work.,233,Wachtsjen op it einigjen fan programma's. Ûnderbrekken fan dizze programma's kin jo wurk kwyt meitsje.,236,gnome-session,po/fy.po
+Switch User Anyway,241,Brûker dochs wikselje,242,gnome-session,po/fy.po
+Log Out Anyway,245,Dochs ôfmelde,246,gnome-session,po/fy.po
+Suspend Anyway,249,Dochs ûnderbrekke,250,gnome-session,po/fy.po
+Hibernate Anyway,253,Dochs sliepe,254,gnome-session,po/fy.po
+Shut Down Anyway,257,Dochs ôfslute,258,gnome-session,po/fy.po
+Reboot Anyway,261,Dochs opnij starte,262,gnome-session,po/fy.po
+Lock Screen,265,Skerm skoattelje,266,gnome-session,po/fy.po
+Cancel,269,Ôfbrekke,270,gnome-session,po/fy.po
+You will be automatically logged out in %d second.,277,Jo wurde automatysk ôfmelde yn %d sekonde.,279,gnome-session,po/fy.po
+You will be automatically logged out in %d second.,277,Jo wurde automatysk ôfmelde yn %d sekonde.,280,gnome-session,po/fy.po
+This system will be automatically shut down in %d second.,284,Dit systeem sil automatysk ôfsluten wurde yn %d sekonde.,286,gnome-session,po/fy.po
+This system will be automatically shut down in %d second.,284,Dit systeem sil automatysk ôfsluten wurde yn %d sekonde.,287,gnome-session,po/fy.po
+"You are currently logged in as \""%s\"".",291,"Jo binne no oanmeld as \""%s\""",292,gnome-session,po/fy.po
+Log out of this system now?,295,No ôfmelde fan dit systeem?,296,gnome-session,po/fy.po
+_Switch User,299,Brûker _skeakelje?,300,gnome-session,po/fy.po
+_Log Out,304,Ôfme_lde,305,gnome-session,po/fy.po
+Shut down this system now?,308,Dit systeem no ôfslúte?,309,gnome-session,po/fy.po
+S_uspend,312,Ûnderbrekke,313,gnome-session,po/fy.po
+_Hibernate,316,Sliepe,317,gnome-session,po/fy.po
+_Restart,320,Opnij sta_rte,321,gnome-session,po/fy.po
+_Shut Down,324,Ôf_slúte,325,gnome-session,po/fy.po
+Try _Recovery,328,Fe_rhelp besykje,329,gnome-session,po/fy.po
+A system error has occurred: %s,333,In systeemflater is bard: %s,334,gnome-session,po/fy.po
+A fatal system error has occurred: %s,338,In fatale systeemflater is bart: %s,339,gnome-session,po/fy.po
+Exited with code %d,343,Útgean mei koade %d,344,gnome-session,po/fy.po
+Killed by signal %d,348,Ôfbrutsen troch sinjaal %d,349,gnome-session,po/fy.po
+Stopped by signal %d,353,Stoppet troch signaal %d,354,gnome-session,po/fy.po
+Component '%s': %s,360,Komponint '%s': %s,361,gnome-session,po/fy.po
+Killed by signal,364,Ôfbrutsen troch sinjaal,365,gnome-session,po/fy.po
+Timed out,370,Wachttiid ferstriken,371,gnome-session,po/fy.po
+GNOME 3 Failed to Load,374,Gnome 3 koe net laden wurde,375,gnome-session,po/fy.po
+Unfortunately GNOME 3 failed to start properly and started in the <i>fallback mode</i>.\n\nThis most likely means your system (graphics hardware or driver) is not capable of delivering the full GNOME 3 experience.,378,Spitigernôch is Gnome 3 net goed starte en begjint no in de <i>weromfal modus</i>.\n\nDit betsjut wierskynlik dat jo systeem (grafyske hardware of stjoerprogramma) net de hiele Gnome 3 ûnderfining kin bringe.,384,gnome-session,po/fy.po
+Learn more about GNOME 3,392,Mear ynformaasje oer Gnome 3,393,gnome-session,po/fy.po
+Not responding,396,Reagearret net,397,gnome-session,po/fy.po
+This program is blocking logout.,400,Dit programma hâldt it ôfmelde tsjin,401,gnome-session,po/fy.po
+Refusing new client connection because the session is currently being shut down\n,404,Weigert nije ferbining mei klant omdat de sesje no ôfsluten wurd\n,407,gnome-session,po/fy.po
+Could not create ICE listening socket: %s,411,Koe net ICE-lústerjende hâlder oanmeitsje: %s,412,gnome-session,po/fy.po
+Unable to start login session (and unable to connect to the X server),417,Kin oanmeldsesje net starte (en kin gjin kontakt mei de X-tsjinner meitsje),418,gnome-session,po/fy.po
+Override standard autostart directories,422,Standert autostarttriemtafels oerwâldzje,423,gnome-session,po/fy.po
+Session to use,426,Te brûken sesje,427,gnome-session,po/fy.po
+Enable debugging code,430,Útbrekkoade ynskeakelje,431,gnome-session,po/fy.po
+Do not load user-specified applications,434,Net troch de brûker oantsjutte programma's lade,435,gnome-session,po/fy.po
+ - the GNOME session manager,438, - de Gnome sesjebehearder,439,gnome-session,po/fy.po
+Log out,442,Ôfmelde,443,gnome-session,po/fy.po
+Power off,446,Ôfslute,447,gnome-session,po/fy.po
+Ignoring any existing inhibitors,450,Alle besteande ferbieders negearjend,451,gnome-session,po/fy.po
+Don't prompt for user confirmation,454,De brûker gjin befêstiging freegje,455,gnome-session,po/fy.po
+Could not connect to the session manager,458,Koe net ferbine mei de sesjebehearder,459,gnome-session,po/fy.po
+Program called with conflicting options,462,Programma oanroppen mei stridige opsjes,463,gnome-session,po/fy.po
+Default Background,20,Standert eftergrûn,21,gnome-themes-extra,po/fy.po
+There is only one,28,Der is inkeld ien,29,gnome-themes-extra,po/fy.po
+High Contrast,32,Sterk kontrast,33,gnome-themes-extra,po/fy.po
+High contrast theme,36,Sterk-kontrasttema,37,gnome-themes-extra,po/fy.po
+High Contrast Inverse,40,Sterk omkeard kontrast,41,gnome-themes-extra,po/fy.po
+High contrast inverse theme,44,Sterk omkeard-kontrasttema,45,gnome-themes-extra,po/fy.po
+Low Contrast,48,Swak kontrast,49,gnome-themes-extra,po/fy.po
+Low contrast theme,52,Swak-kontrasttema,53,gnome-themes-extra,po/fy.po
+File is not a valid .desktop file,29,Triem is gjin deugdlike .desktop-triem,30,nautilus,po/fy.po
+Unrecognized desktop file Version '%s',34,Net weromkende fersje '%s' fan desktop-triem,35,nautilus,po/fy.po
+Starting %s,39,Uteinsette fan %s,40,nautilus,po/fy.po
+Application does not accept documents on command line,44,Applikaasje akseptearret gjin dokuminten op de kommandorigel,45,nautilus,po/fy.po
+Unrecognized launch option: %d,49,Net weromkende opstartopsje: %d,50,nautilus,po/fy.po
+Can't pass document URIs to a 'Type=Link' desktop entry,54,Kin gjin dokumint URIs oan in 'Type=Link' buroblêd ynfier trochjaan,55,nautilus,po/fy.po
+Not a launchable item,59,Gjin útein te setten item,60,nautilus,po/fy.po
+Disable connection to session manager,63,Ferbining mei sesjebehearder útskeakelje,64,nautilus,po/fy.po
+Specify file containing saved configuration,67,Triem mei bewarre konfiguraasje,68,nautilus,po/fy.po
+FILE,71,TRIEM,72,nautilus,po/fy.po
+Specify session management ID,75,Sesjebehearder-ID,76,nautilus,po/fy.po
+Session management options:,83,Opsjes foar sesjebehear:,84,nautilus,po/fy.po
+Show session management options,87,Opsjes foar sesjebehear sjen litte,88,nautilus,po/fy.po
+Apparition,91,Ferskining,92,nautilus,po/fy.po
+Azul,95,Azuerblau,96,nautilus,po/fy.po
+Black,99,Swart,100,nautilus,po/fy.po
+Blue Ridge,103,Blaue Richel,104,nautilus,po/fy.po
+Blue Rough,107,Blau Rûch,108,nautilus,po/fy.po
+Blue Type,111,Blaue Type,112,nautilus,po/fy.po
+Brushed Metal,115,boarstelje Metaal,116,nautilus,po/fy.po
+Bubble Gum,119,Kaugom,120,nautilus,po/fy.po
+Burlap,123,Jute,124,nautilus,po/fy.po
+C_olors,127,Kleuren,128,nautilus,po/fy.po
+Camouflage,131,Kamûflaazje,132,nautilus,po/fy.po
+Chalk,135,Kalk,136,nautilus,po/fy.po
+Charcoal,139,Houtskoal,140,nautilus,po/fy.po
+Concrete,143,Beton,144,nautilus,po/fy.po
+Cork,147,Koark,148,nautilus,po/fy.po
+Countertop,151,Oanrjocht,152,nautilus,po/fy.po
+Danube,155,Donau,156,nautilus,po/fy.po
+Dark Cork,159,Dûnker Koark,160,nautilus,po/fy.po
+Dark GNOME,163,Donker GNOME,164,nautilus,po/fy.po
+Deep Teal,167,Djip Grienblau,168,nautilus,po/fy.po
+Dots,171,Stippen,172,nautilus,po/fy.po
+Drag a color to an object to change it to that color,175,Sleep in kleur nei in objekt om hja dizze kleur te jaan,176,nautilus,po/fy.po
+Drag a pattern tile to an object to change it,179,Sleepje in patroan nei in objekt om it te feroarjen,180,nautilus,po/fy.po
+Drag an emblem to an object to add it to the object,183,Sleepje in embleem nei in objekt om it dêroan ta te foegjen,184,nautilus,po/fy.po
+Eclipse,187,Eklips,188,nautilus,po/fy.po
+Envy,191,Jaloerskens,192,nautilus,po/fy.po
+Erase,198,Útwisse,199,nautilus,po/fy.po
+Fibers,202,Rizels,203,nautilus,po/fy.po
+Fire Engine,206,Brânspuit,207,nautilus,po/fy.po
+Fleur De Lis,210,Fleur de Lis,211,nautilus,po/fy.po
+Floral,214,Blomje,215,nautilus,po/fy.po
+Fossil,218,Fossyl,219,nautilus,po/fy.po
+Granite,226,Granyt,227,nautilus,po/fy.po
+Green Weave,234,Grien Weefsel,235,nautilus,po/fy.po
+Ice,238,Iis,239,nautilus,po/fy.po
+Leaf,246,Blêd,247,nautilus,po/fy.po
+Lemon,250,Sitroen,251,nautilus,po/fy.po
+Manila Paper,258,Manilleensk Papier,259,nautilus,po/fy.po
+Moss Ridge,262,Mosk Richel,263,nautilus,po/fy.po
+Mud,266,Modder,267,nautilus,po/fy.po
+Numbers,270,Nûmers,271,nautilus,po/fy.po
+Ocean Strips,274,Seestripen,275,nautilus,po/fy.po
+Orange,282,Oranje,283,nautilus,po/fy.po
+Pale Blue,286,Bleek Blau,287,nautilus,po/fy.po
+Purple Marble,290,Pears Moarmer,291,nautilus,po/fy.po
+Ridged Paper,294,Richelt Papier,295,nautilus,po/fy.po
+Rough Paper,298,Rûch Papier,299,nautilus,po/fy.po
+Ruby,302,Robyn,303,nautilus,po/fy.po
+Sea Foam,306,Seeskom,307,nautilus,po/fy.po
+Shale,310,Laai,311,nautilus,po/fy.po
+Sky,318,Loft,319,nautilus,po/fy.po
+Sky Ridge,322,Loft Richel,323,nautilus,po/fy.po
+Snow Ridge,326,Snie Richel,327,nautilus,po/fy.po
+Stucco,330,Pleisterwurk,331,nautilus,po/fy.po
+Tangerine,334,Mandaryn,335,nautilus,po/fy.po
+Terracotta,338,Terrakotta,339,nautilus,po/fy.po
+Violet,342,Fiolet,343,nautilus,po/fy.po
+Wavy White,346,Baarjend Wyt,347,nautilus,po/fy.po
+White,350,Wyt,351,nautilus,po/fy.po
+White Ribs,354,Wyte Ribben,355,nautilus,po/fy.po
+_Emblems,358,_Emblemen,359,nautilus,po/fy.po
+_Patterns,362,_Patroanen,363,nautilus,po/fy.po
+Saved search,366,Bewarre sykterm,367,nautilus,po/fy.po
+Image/label border,370,Ôfbylding/label râne,371,nautilus,po/fy.po
+Alert Type,378,Warskôgingstype,379,nautilus,po/fy.po
+The type of alert,382,It type warskôging,383,nautilus,po/fy.po
+Alert Buttons,386,Warskôgingsknoppen,387,nautilus,po/fy.po
+Show more _details,394,Lit mear _details sjen,395,nautilus,po/fy.po
+Text,408,Tekst,409,nautilus,po/fy.po
+The text of the label.,412,De tekst fan it label.,413,nautilus,po/fy.po
+Justification,416,Útfole,417,nautilus,po/fy.po
+Line wrap,424,Rigeltrochrin,425,nautilus,po/fy.po
+Cursor Position,432,Rinnerposysje,433,nautilus,po/fy.po
+Selection Bound,440,Seleksjegrins,441,nautilus,po/fy.po
+Select All,448,Alles Selektearje,449,nautilus,po/fy.po
+Input Methods,452,Ynfiermetoade,453,nautilus,po/fy.po
+GConf error:\n  %s,457,GConf flater:\n  %s,460,nautilus,po/fy.po
+GConf error: %s,466,GConf flater: %s,467,nautilus,po/fy.po
+ (invalid Unicode),478, (mishypte Unicode),479,nautilus,po/fy.po
+Custom Background,530,Oanpaste Eftergrûn,531,nautilus,po/fy.po
+Date Format,538,Datumopmaak,539,nautilus,po/fy.po
+Default Background Color,542,Standert Eftergrûnkleur,543,nautilus,po/fy.po
+Default folder viewer,574,Standert mapwerjefter,575,nautilus,po/fy.po
+Default icon zoom level,578,Standert ikoan seamnivo,579,nautilus,po/fy.po
+Default list zoom level,590,Standert lystseamnivo,591,nautilus,po/fy.po
+Default sort order,594,Standert sortearfolchoarder,595,nautilus,po/fy.po
+Desktop computer icon name,610,Buroblêd kompûterikoannamme,611,nautilus,po/fy.po
+Desktop font,614,Buroblêdlettertype,615,nautilus,po/fy.po
+Desktop home icon name,618,Buroblêd thúsikoannamme,619,nautilus,po/fy.po
+Desktop trash icon name,622,Buroblêd jiskefetikoannamme,623,nautilus,po/fy.po
+Home icon visible on desktop,654,Thúsikoan sichtber on buroblêd,655,nautilus,po/fy.po
+"List of x-content/* types set to \""Do Nothing\""",802,"Lyst fan 'x-content/*'-types set nei \""Doch Niks\""",803,nautilus,po/fy.po
+"List of x-content/* types set to \""Open Folder\""",806,"Lyst fan 'x-content/*'-types set nei \""Map Iepenje\""",807,nautilus,po/fy.po
+Put labels beside icons,866,Pleats labels neist ikoanen,867,nautilus,po/fy.po
+No applications found,1085,Gjin applikaasjes fûn,1086,nautilus,po/fy.po
+Ask what to do,1089,Freegje wat te dwaan,1090,nautilus,po/fy.po
+Do Nothing,1093,Doch Niks,1094,nautilus,po/fy.po
+Open Folder,1098,Iepen Map,1099,nautilus,po/fy.po
+Open %s,1104,Iepen %s,1105,nautilus,po/fy.po
+Open with other Application...,1108,Mei oare Applikaasje Iepenje,1109,nautilus,po/fy.po
+_Eject,1194,Smyt út,1195,nautilus,po/fy.po
+_Unmount,1206,Meitsje Los,1207,nautilus,po/fy.po
+Select _All,1234,Selektearje _Alles,1235,nautilus,po/fy.po
+Move _Up,1243,Ferpleats Omheech,1244,nautilus,po/fy.po
+Move Dow_n,1247,Ferpleats Omleech,1248,nautilus,po/fy.po
+Use De_fault,1251,Brûk Standert,1252,nautilus,po/fy.po
+Name,1257,Namme,1258,nautilus,po/fy.po
+Size,1265,Grutte,1266,nautilus,po/fy.po
+The size of the file.,1269,De grutte fan it triem.,1270,nautilus,po/fy.po
+The type of the file.,1277,It type van it triem.,1278,nautilus,po/fy.po
+Date Modified,1282,Datum Oanpast,1283,nautilus,po/fy.po
+Owner,1298,Eigener,1299,nautilus,po/fy.po
+The owner of the file.,1302,De eigener fan it triem.,1303,nautilus,po/fy.po
+Group,1306,Groep,1307,nautilus,po/fy.po
+The group of the file.,1310,De groep fan it triem.,1311,nautilus,po/fy.po
+Permissions,1315,Tastimmingen,1316,nautilus,po/fy.po
+The permissions of the file.,1319,De tastimmingen fan it triem.,1320,nautilus,po/fy.po
+SELinux Context,1339,SELinux Kontekst,1340,nautilus,po/fy.po
+Location,1351,Lokaasje,1352,nautilus,po/fy.po
+Trashed On,1355,Fuortsmite Op,1356,nautilus,po/fy.po
+on the desktop,1379,op it buroblêd,1380,nautilus,po/fy.po
+_Move Here,1396,Hjir Ferpleatse,1397,nautilus,po/fy.po
+_Copy Here,1400,Hjir Kopiearje,1401,nautilus,po/fy.po
+_Link Here,1404,Hjir Linke,1405,nautilus,po/fy.po
+Set as _Background,1408,As Eftergrûn Sette,1409,nautilus,po/fy.po
+Cancel,1413,Ôfbrekke,1414,nautilus,po/fy.po
+An older,1463,In âlder,1464,nautilus,po/fy.po
+A newer,1467,In nijer,1468,nautilus,po/fy.po
+Another,1471,In oare,1472,nautilus,po/fy.po
+Size:,1517,Grutte:,1518,nautilus,po/fy.po
+Replace with,1532,Ferfange mei,1533,nautilus,po/fy.po
+Merge,1536,Foegje gear,1537,nautilus,po/fy.po
+_Skip,1551,Oer_slaan,1552,nautilus,po/fy.po
+Replace,1559,Ferfange,1560,nautilus,po/fy.po
+S_kip All,1567,Alles Oer_slaan,1568,nautilus,po/fy.po
+Delete _All,1575,_Alles Fuortsmite,1576,nautilus,po/fy.po
+_Replace,1579,Fe_rfange,1580,nautilus,po/fy.po
+%'d second,1600,%'d sekonde,1602,nautilus,po/fy.po
+%'d second,1600,%'d sekonden,1603,nautilus,po/fy.po
+%'d minute,1608,%'d minút,1610,nautilus,po/fy.po
+%'d minute,1608,%'d minúten,1611,nautilus,po/fy.po
+%'d hour,1615,%'d oere,1617,nautilus,po/fy.po
+%'d hour,1615,%'d oeren,1618,nautilus,po/fy.po
+Link to %s,1636,Nei %s Linke,1637,nautilus,po/fy.po
+ (copy),1678, (útskrift),1679,nautilus,po/fy.po
+ (another copy),1683, (oar útskrift),1684,nautilus,po/fy.po
+_Skip files,1852,Triemen oer_slaan,1853,nautilus,po/fy.po
+%S of %S,2070,%S fan %S,2071,nautilus,po/fy.po
+new file,2229,nij triem,2230,nautilus,po/fy.po
+Emptying Trash,2246,Jiskefet oan it Leegje,2247,nautilus,po/fy.po
+File not found,2295,Triem net fûn,2296,nautilus,po/fy.po
+today at 00:00 PM,2338,hjoed om 00:00,2339,nautilus,po/fy.po
+"today, 00:00 PM",2346,"hjoed, 00:00",2347,nautilus,po/fy.po
+today,2355,hjoed,2356,nautilus,po/fy.po
+"yesterday, 00:00 PM",2378,"juster, 00:00",2379,nautilus,po/fy.po
+yesterday,2387,juster,2388,nautilus,po/fy.po
+Oct 00 0000 at 00:00 PM,2420,Okt 00 0000 om 00:00,2421,nautilus,po/fy.po
+"Oct 00 0000, 00:00 PM",2428,"Okt 00 0000, 00:00",2429,nautilus,po/fy.po
+"00/00/00, 00:00 PM",2436,"00/00/00, 00:00",2437,nautilus,po/fy.po
+%m/%d/%y,2448,%d/%m/%y,2449,nautilus,po/fy.po
+%'u item,2479,%'u items,2482,nautilus,po/fy.po
+%'u folder,2486,%'u map,2488,nautilus,po/fy.po
+%'u folder,2486,%'u mappen,2489,nautilus,po/fy.po
+%'u file,2493,%'u triem,2495,nautilus,po/fy.po
+%'u file,2493,%'u triemen,2496,nautilus,po/fy.po
+%s (%s bytes),2505,%s (%s parten),2506,nautilus,po/fy.po
+? bytes,2516,? parten,2517,nautilus,po/fy.po
+unknown type,2520,unbekend type,2521,nautilus,po/fy.po
+unknown,2532,unbekend,2533,nautilus,po/fy.po
+program,2536,programma,2537,nautilus,po/fy.po
+link (broken),2544,link (ferbrutsen),2545,nautilus,po/fy.po
+_Always,2548,_Altyd,2549,nautilus,po/fy.po
+_Never,2556,_Nea,2557,nautilus,po/fy.po
+_Ask each time,2665,Eltse ke_ar freegje,2666,nautilus,po/fy.po
+By Name,2708,Op Namme,2709,nautilus,po/fy.po
+By Size,2713,Op Grutte,2714,nautilus,po/fy.po
+By Type,2718,Op Type,2719,nautilus,po/fy.po
+By Modification Date,2723,Op Oanpassingsdatum,2724,nautilus,po/fy.po
+By Emblems,2728,Op Emblemen,2729,nautilus,po/fy.po
+%s's Home,2777,%ss Thús,2778,nautilus,po/fy.po
+Computer,2782,Kompûter,2783,nautilus,po/fy.po
+Trash,2788,Jiskefet,2789,nautilus,po/fy.po
+"The Link \""%s\"" is Broken.",2805,"DeLink \""%s\"" is Brutsen.",2806,nautilus,po/fy.po
+Mo_ve to Trash,2830,Nei Jiskefet Ferpleatse,2831,nautilus,po/fy.po
+Run in _Terminal,2844,Útfiere in _Terminal,2845,nautilus,po/fy.po
+_Display,2848,Skerm,2849,nautilus,po/fy.po
+_Run,2853,Útfie_re,2854,nautilus,po/fy.po
+Default,2975,Standert,2976,nautilus,po/fy.po
+Icon,2979,Ikoan,2980,nautilus,po/fy.po
+%s document,2992,%s dokumint,2993,nautilus,po/fy.po
+Unknown,2997,Ûnbekend,2998,nautilus,po/fy.po
+Could not find '%s',3016,Koe '%s' net fine,3017,nautilus,po/fy.po
+Select an Application,3033,Selektearje an Applikaasje,3034,nautilus,po/fy.po
+Open With,3038,Iepenje Mei,3039,nautilus,po/fy.po
+_Browse...,3050,_Blêdzje,3051,nautilus,po/fy.po
+_Open,3060,Iepenje,3061,nautilus,po/fy.po
+Open %s with:,3074,Iepenje %s mei:,3075,nautilus,po/fy.po
+_Add,3108,T_afoegje,3109,nautilus,po/fy.po
+Add Application,3112,Applikaasje Taheakje,3113,nautilus,po/fy.po
+Preparing,3186,Tariede,3187,nautilus,po/fy.po
+Search,3193,Sykje,3194,nautilus,po/fy.po
+Edit,3203,Bewurkje,3204,nautilus,po/fy.po
+_Pattern:,3346,_Patroan:,3347,nautilus,po/fy.po
+Examples: ,3350,Foarbylden:,3351,nautilus,po/fy.po
+Search _name:,3358,Sykje _namme:,3359,nautilus,po/fy.po
+_Folder:,3363,Map:,3364,nautilus,po/fy.po
+"\""%s\"" selected",3373,"\""%s\"" selekteare",3374,nautilus,po/fy.po
+"%s, Free space: %s",3425,"%s, Frije romte: %s",3426,nautilus,po/fy.po
+Open With %s,3456,Iepenje Mei %s,3457,nautilus,po/fy.po
+Cop_y to,3744,Kopiear nei,3745,nautilus,po/fy.po
+D_uplicate,3782,D_uplisear,3783,nautilus,po/fy.po
+_Delete,3827,Wiske,3828,nautilus,po/fy.po
+_Restore,3839,Fe_rhelje,3840,nautilus,po/fy.po
+_Mount,3876,Keppel,3877,nautilus,po/fy.po
+_Start,3922,Begjin,3923,nautilus,po/fy.po
+_Stop,3941,Hâld op,3942,nautilus,po/fy.po
+Make a _Link,4416,Meitsje in _Link,4417,nautilus,po/fy.po
+_Download,4420,Ynhealje,4421,nautilus,po/fy.po
+Comment,4452,Taljochting,4453,nautilus,po/fy.po
+Description,4462,Beskriuwing,4463,nautilus,po/fy.po
+Command,4466,Kommando,4467,nautilus,po/fy.po
+by _Name,4562,op _Namme,4563,nautilus,po/fy.po
+by _Size,4571,op Grutte,4572,nautilus,po/fy.po
+by _Type,4580,op Soar_t,4581,nautilus,po/fy.po
+by Modification _Date,4589,op Oanpassings_datum,4590,nautilus,po/fy.po
+by _Emblems,4598,op _Emblemen,4599,nautilus,po/fy.po
+by T_rash Time,4607,op Jiskefettiid,4608,nautilus,po/fy.po
+By _Name,4696,Op _Namme,4697,nautilus,po/fy.po
+By _Size,4700,Op Grutte,4701,nautilus,po/fy.po
+By _Type,4704,Op Soar_t,4705,nautilus,po/fy.po
+By Modification _Date,4708,Op Oanpassings_datum,4709,nautilus,po/fy.po
+By _Emblems,4712,Op _Emblemen,4713,nautilus,po/fy.po
+By T_rash Time,4716,Op Jiskefettiid,4717,nautilus,po/fy.po
+_Icons,4730,Ikoan,4731,nautilus,po/fy.po
+_Compact,4747,Kompakt,4748,nautilus,po/fy.po
+(Empty),4764,(Leeg),4765,nautilus,po/fy.po
+Loading...,4770,Oan it Laden...,4771,nautilus,po/fy.po
+_List,4795,_Lyst,4796,nautilus,po/fy.po
+_Name:,4836,_Namme:,4838,nautilus,po/fy.po
+_Name:,4836,_Nammen:,4839,nautilus,po/fy.po
+Properties,4843,Eigenskippen,4844,nautilus,po/fy.po
+%s Properties,4848,%s Eigenskippen,4849,nautilus,po/fy.po
+nothing,4866,neat,4867,nautilus,po/fy.po
+unreadable,4870,unlêsber,4871,nautilus,po/fy.po
+Contents:,4891,Ynhâld:,4892,nautilus,po/fy.po
+used,4896,brûkt,4897,nautilus,po/fy.po
+free,4901,frij,4902,nautilus,po/fy.po
+Location:,4922,Lokaasje:,4923,nautilus,po/fy.po
+Emblems,4943,Emblemen,4944,nautilus,po/fy.po
+_Read,4947,Lêze,4948,nautilus,po/fy.po
+_Write,4951,Skriuwe,4952,nautilus,po/fy.po
+no ,4964,net,4965,nautilus,po/fy.po
+read,4972,lêze,4973,nautilus,po/fy.po
+create/delete,4976,meitsje/fuortsmite,4977,nautilus,po/fy.po
+write,4980,skriuwe,4981,nautilus,po/fy.po
+access,4984,tagong,4985,nautilus,po/fy.po
+Access:,4988,Tagong:,4989,nautilus,po/fy.po
+Folder access:,4992,Maptagong:,4993,nautilus,po/fy.po
+None,5006,Gjin,5007,nautilus,po/fy.po
+Read-only,5022,Allinich-lêze,5023,nautilus,po/fy.po
+_Owner:,5047,Eigener:,5048,nautilus,po/fy.po
+Owner:,5053,Eigener:,5054,nautilus,po/fy.po
+_Group:,5058,_Groep:,5059,nautilus,po/fy.po
+Group:,5064,Groep:,5065,nautilus,po/fy.po
+Others,5068,Oaren,5069,nautilus,po/fy.po
+Others:,5080,Oaren:,5081,nautilus,po/fy.po
+Last changed:,5104,Lest oanpast:,5105,nautilus,po/fy.po
+<b>_Bookmarks</b>,5217,<b>_Blêdwizers</b>,5218,nautilus,po/fy.po
+<b>_Location</b>,5221,<b>_Lokaasje</b>,5222,nautilus,po/fy.po
+<b>_Name</b>,5225,<b>_Namme</b>,5226,nautilus,po/fy.po
+Edit Bookmarks,5229,Bookmarks Bewurkje,5230,nautilus,po/fy.po
+Public FTP,5259,Iepenbiere FTP,5260,nautilus,po/fy.po
+FTP (with login),5263,FTP (mei oanmelde),5264,nautilus,po/fy.po
+_Location (URI):,5287,_Lokaasje (UR):,5288,nautilus,po/fy.po
+_Server:,5291,T_sjinner:,5292,nautilus,po/fy.po
+_Share:,5299,Diele:,5300,nautilus,po/fy.po
+_Port:,5303,_Poarte:,5304,nautilus,po/fy.po
+_User Name:,5307,Brûkersnamme:,5308,nautilus,po/fy.po
+Bookmark _name:,5315,Blêdwizernamme:,5316,nautilus,po/fy.po
+Add _bookmark,5327,_Blêdwizer taheakje,5328,nautilus,po/fy.po
+C_onnect,5331,Ferbine,5332,nautilus,po/fy.po
+Desktop,5338,Buroblêd,5339,nautilus,po/fy.po
+Add Emblems...,5369,Emblemen Taheakje...,5370,nautilus,po/fy.po
+Show Emblems,5409,Emblemen Sjen Litte,5410,nautilus,po/fy.po
+<b>Behavior</b>,5431,<b>Gedrach</b>,5432,nautilus,po/fy.po
+<b>Date</b>,5439,<b>Datum</b>,5440,nautilus,po/fy.po
+<b>Folders</b>,5451,<b>Mappen</b>,5452,nautilus,po/fy.po
+<b>Sound Files</b>,5483,<b>Lûdtriemen</b>,5484,nautilus,po/fy.po
+<b>Text Files</b>,5487,<b>Teksttriemen</b>,5488,nautilus,po/fy.po
+<b>Trash</b>,5491,<b>Jiskefet</b>,5492,nautilus,po/fy.po
+Acti_on:,5503,Aksje:,5504,nautilus,po/fy.po
+Always,5507,Altyd,5508,nautilus,po/fy.po
+Behavior,5519,Gedrach,5520,nautilus,po/fy.po
+CD _Audio:,5523,CD-_Audio:,5524,nautilus,po/fy.po
+Display,5551,Skerm,5552,nautilus,po/fy.po
+Never,5579,Nea,5580,nautilus,po/fy.po
+_Photos:,5655,Fotos:,5656,nautilus,po/fy.po
+History,5687,Skiednis,5688,nautilus,po/fy.po
+Show History,5691,Skiednis Sjen Litte,5692,nautilus,po/fy.po
+Software,5740,Programmatuer,5741,nautilus,po/fy.po
+Keywords,5744,Kaaiwurden,5745,nautilus,po/fy.po
+Creator,5748,Makker,5749,nautilus,po/fy.po
+Copyright,5752,Auteursrjocht,5753,nautilus,po/fy.po
+Rating,5756,Beoardieling,5757,nautilus,po/fy.po
+Image Type:,5760,Ôfbyldingstype,5761,nautilus,po/fy.po
+loading...,5782,oan it lade...,5783,nautilus,po/fy.po
+Image,5786,Ôfbylding,5787,nautilus,po/fy.po
+Information,5790,Ynformaasje,5791,nautilus,po/fy.po
+Show Information,5794,Ynformaasje Sjen Litte,5795,nautilus,po/fy.po
+Go To:,5811,Gean Nei:,5812,nautilus,po/fy.po
+Open Location,5822,Lokaasje Iepenje,5823,nautilus,po/fy.po
+_Location:,5826,_Lokaasje:,5827,nautilus,po/fy.po
+Quit Nautilus.,5858,Nautilus Slute.,5859,nautilus,po/fy.po
+_Go,5905,_Gean,5906,nautilus,po/fy.po
+_Bookmarks,5910,_Blêdwizers,5911,nautilus,po/fy.po
+_Tabs,5915,_Ljepper,5916,nautilus,po/fy.po
+New _Window,5920,Nij Finster,5921,nautilus,po/fy.po
+New _Tab,5929,Nije Ljepper,5930,nautilus,po/fy.po
+Open Folder W_indow,5938,Map in Finster Iepenje,5939,nautilus,po/fy.po
+Close _All Windows,5947,_Alle Finsters Slute,5948,nautilus,po/fy.po
+_Location...,5956,_Lokaasje...,5957,nautilus,po/fy.po
+Clea_r History,5966,Skiednis Leegje,5967,nautilus,po/fy.po
+_Add Bookmark,5994,Blêdwizer T_aheakje,5995,nautilus,po/fy.po
+_Edit Bookmarks...,6005,Blêdwizers B_ewurkje,6006,nautilus,po/fy.po
+_Previous Tab,6014,Foariche Ljepper,6015,nautilus,po/fy.po
+_Next Tab,6022,Folgje_nde Ljepper,6023,nautilus,po/fy.po
+_Main Toolbar,6058,Haadarkbalke,6059,nautilus,po/fy.po
+Location _Bar,6082,Lokaasje_balke,6083,nautilus,po/fy.po
+_Search for Files...,6108,Nei Triemen _Sykje...,6109,nautilus,po/fy.po
+_Back,6130,Werom,6131,nautilus,po/fy.po
+_Forward,6142,_Foarút,6143,nautilus,po/fy.po
+_Zoom,6154,Seamje,6155,nautilus,po/fy.po
+_View As,6158,Sjen Litte As,6159,nautilus,po/fy.po
+_Search,6162,_Sykje,6163,nautilus,po/fy.po
+_Close Tab,6166,Ljepper Slute,6167,nautilus,po/fy.po
+Close tab,6175,Ljepper slute,6176,nautilus,po/fy.po
+Notes,6180,Noaten,6181,nautilus,po/fy.po
+Show Notes,6184,Noaten Sjen Litte,6185,nautilus,po/fy.po
+Network,6197,Netwurk,6198,nautilus,po/fy.po
+Open the trash,6211,Jiskefet iepenje,6212,nautilus,po/fy.po
+Remove,6252,Fuortsmite,6253,nautilus,po/fy.po
+Places,6260,Plakken,6261,nautilus,po/fy.po
+Show Places,6264,Plakken Sjen Litte,6265,nautilus,po/fy.po
+Backgrounds and Emblems,6269,Eftergrûnen en Emblemen,6270,nautilus,po/fy.po
+_Remove...,6274,Fuo_rtsmite...,6275,nautilus,po/fy.po
+Add new...,6279,Nije taheakje...,6280,nautilus,po/fy.po
+Create a New Emblem,6305,In Nij Embleem Meitsje,6306,nautilus,po/fy.po
+_Keyword:,6310,_Kaaiwurden:,6311,nautilus,po/fy.po
+_Image:,6315,Ôfbyld_ing:,6316,nautilus,po/fy.po
+Create a New Color:,6319,In Nije Kleur Meitsje:,6320,nautilus,po/fy.po
+Color _name:,6324,Kleur_namme:,6325,nautilus,po/fy.po
+Color _value:,6328,Kleurwearde:,6329,nautilus,po/fy.po
+Select a Category:,6377,In Kategory Selektearje:,6378,nautilus,po/fy.po
+C_ancel Remove,6381,Fuortsmitte Ôfbrekke,6382,nautilus,po/fy.po
+_Add a New Pattern...,6385,In Nij Patroan T_aheakje,6386,nautilus,po/fy.po
+_Add a New Color...,6389,In Nije Kleur T_aheakje,6390,nautilus,po/fy.po
+_Add a New Emblem...,6393,In Nij Embleem T_aheakje,6394,nautilus,po/fy.po
+Patterns:,6409,Patroanen:,6410,nautilus,po/fy.po
+Colors:,6413,Kleuren:,6414,nautilus,po/fy.po
+Emblems:,6417,Emblemen:,6418,nautilus,po/fy.po
+_Remove a Pattern...,6421,In Patroan Fuo_rtsmite...,6422,nautilus,po/fy.po
+_Remove a Color...,6425,In Kleur Fuo_rtsmite...,6426,nautilus,po/fy.po
+_Remove an Emblem...,6429,In Embleem Fuo_rtsmite...,6430,nautilus,po/fy.po
+File Type,6433,Triemtype,6434,nautilus,po/fy.po
+Documents,6441,Dokuminten,6442,nautilus,po/fy.po
+Music,6445,Musyk,6446,nautilus,po/fy.po
+Video,6449,Fideo,6450,nautilus,po/fy.po
+Picture,6453,Ôfbylding,6454,nautilus,po/fy.po
+Spreadsheet,6461,Rekkenboerd,6462,nautilus,po/fy.po
+Presentation,6465,Presintaasje,6466,nautilus,po/fy.po
+Text File,6473,Teksttriem,6474,nautilus,po/fy.po
+Select type,6477,Type selektearje,6478,nautilus,po/fy.po
+Other Type...,6485,Oar Type...,6486,nautilus,po/fy.po
+Search Folder,6493,Map Sykje,6494,nautilus,po/fy.po
+Go,6505,Gean,6506,nautilus,po/fy.po
+_Search for:,6517,_Sykje nei:,6518,nautilus,po/fy.po
+Search:,6525,Sykje:,6526,nautilus,po/fy.po
+_Places,6541,_Plakken,6542,nautilus,po/fy.po
+Open _Location...,6546,_Lokaasje Iepenje...,6547,nautilus,po/fy.po
+Close P_arent Folders,6551,Haadtafels Slute,6552,nautilus,po/fy.po
+Close this folder's parents,6555,Dizze map syn haadtafels slute,6556,nautilus,po/fy.po
+Clos_e All Folders,6560,Alle Mappen Slute,6561,nautilus,po/fy.po
+The location is not a folder.,6608,De lokaasje is net in map.,6609,nautilus,po/fy.po
+"Could not find \""%s\"".",6613,"Koe \""%s\"" net fine.",6614,nautilus,po/fy.po
+Copyright © 1999-2009 The Nautilus authors,6679,Copyright © 1999-2009 De Nautilusskriuwers,6680,nautilus,po/fy.po
+Nautilus Web Site,6698,Nautilus Webside,6699,nautilus,po/fy.po
+_File,6703,Bestân,6704,nautilus,po/fy.po
+_Edit,6708,B_ewurkje,6709,nautilus,po/fy.po
+_View,6713,Werjefte,6714,nautilus,po/fy.po
+_Close,6724,Slute,6725,nautilus,po/fy.po
+Close this folder,6729,Dizze Map Slute,6730,nautilus,po/fy.po
+Prefere_nces,6741,Foarkarre_n,6742,nautilus,po/fy.po
+_Undo,6750,Ûngedien meitsje,6751,nautilus,po/fy.po
+Open _Parent,6759,Open Haad,6760,nautilus,po/fy.po
+Open the parent folder,6763,De haadtafel iepenje,6764,nautilus,po/fy.po
+_Contents,6785,Ynhâld,6786,nautilus,po/fy.po
+Display Nautilus help,6790,Nautilus help sjen litte,6791,nautilus,po/fy.po
+_About,6796,Oer,6797,nautilus,po/fy.po
+Zoom _In,6807,Seamje Yn,6808,nautilus,po/fy.po
+Zoom _Out,6820,Seamje Út,6821,nautilus,po/fy.po
+Normal Si_ze,6833,Normale Grutte,6834,nautilus,po/fy.po
+Connect to _Server...,6846,Ferbine mei T_sjinner...,6847,nautilus,po/fy.po
+_Computer,6857,Kompûter,6858,nautilus,po/fy.po
+_Network,6863,_Netwurk,6864,nautilus,po/fy.po
+T_emplates,6875,Sjabloan,6876,nautilus,po/fy.po
+_Trash,6886,Jiskefe_t,6887,nautilus,po/fy.po
+Show _Hidden Files,6897,Lit Fer_hoalen Triemen Sjen,6898,nautilus,po/fy.po
+_Up,6906,Omheech,6907,nautilus,po/fy.po
+_Home,6910,T_hús,6911,nautilus,po/fy.po
+Zoom In,6960,Zoome Yn,6961,nautilus,po/fy.po
+Zoom Out,6964,Zoome Út,6965,nautilus,po/fy.po
+Zoom to Default,6968,Zoome nei Standert,6969,nautilus,po/fy.po
+Zoom,6972,Zoome,6973,nautilus,po/fy.po

@@ -1,0 +1,46 @@
+Bookmarks,524,Signacula: Bookmark This Page...=Hanc Paginam Signare,525,gedit,po/la.po
+Found and replaced %d occurrence,1515,%d occurrences trouvées et remplacées,1518,gedit,po/la.po
+"If you don't save, changes from the last %d hour will be permanently lost.",1872,"Si vous n'enregistrez pas, les modifications effectuées depuis %d heures seront définitivement perdues.",1877,gedit,po/la.po
+"If you don't save, changes from the last %ld minute will be permanently lost.",1883,"Si vous n'enregistrez pas, les modifications effectuées depuis %ld minutes seront définitivement perdues.",1889,gedit,po/la.po
+"If you don't save, changes from the last %ld second will be permanently lost.",1895,"Si vous n'enregistrez pas, les modifications effectuées depuis %ld secondes seront définitivement perdues.",1901,gedit,po/la.po
+"If you don't save, changes from the last hour and %d minute will be permanently lost.",1907,"Si vous n'enregistrez pas, les modifications effectuées depuis une heure et %d minutes seront définitivement perdues.",1914,gedit,po/la.po
+"If you don't save, changes from the last minute and %ld second will be permanently lost.",1924,"Si vous n'enregistrez pas, les modifications effectuées depuis une minute et %ld secondes seront définitivement perdues.",1931,gedit,po/la.po
+Loading %d file…,2203,Chargement de %d fichiers…,2206,gedit,po/la.po
+Preferences,2752,Praeferentiae,2753,gedit,po/la.po
+Sound,3350,Sonus,3351,gedit,po/la.po
+Text Editor,3701,Scripta Edere,3702,gedit,po/la.po
+There is %d document with unsaved changes. Save changes before closing?,3885,Il y a %d documents avec des modifications non enregistrées. Voulez-vous enregistrer les modifications avant de fermer ?,3889,gedit,po/la.po
+There is a tab with errors,3895,Il y a %d onglets avec des erreurs,3898,gedit,po/la.po
+Up,4059,Sursum,4060,gedit,po/la.po
+View,4122,Spectare: Toolbars=Tabulae,4123,gedit,po/la.po
+Western,4136,Occidentalis,4137,gedit,po/la.po
+Desktop,20,Mensa,21,mutter,po/la.po
+Window Management,24,Regimine Fenestrarum,25,mutter,po/la.po
+Unknown window information request: %d,29,Petitio rerum fenestrae ignoratus: %d,30,mutter,po/la.po
+GConf key '%s' is set to an invalid value\n,183,"clavis GConf \""%s\"" valorem mendosum habet.\n",184,mutter,po/la.po
+"GConf key \""%s\"" is set to an invalid type\n",196,"clavis GConf \""%s\"" genus mendosum habet.\n",197,mutter,po/la.po
+Workspace %d,224,area labori %d,225,mutter,po/la.po
+Screen %d on display '%s' is invalid\n,246,album %d in apparatu visifico %s mendosus est\n,247,mutter,po/la.po
+Window manager: ,381,regimen fenestrarum: ,382,mutter,po/la.po
+Bug in window manager: ,385,mendum in regimine fenestrae: ,386,mutter,po/la.po
+Window manager warning: ,389,monitus regiminis fenestrae: ,390,mutter,po/la.po
+Window manager error: ,393,error regiminis fenestrae: ,394,mutter,po/la.po
+The keybinding used to activate the window menu.,401,CAESAR ADSUM IAM FORTE,402,mutter,po/la.po
+%s (on %s),779,%s (in %s),780,mutter,po/la.po
+Window title font,1104,typus tituli fenestrae,1105,mutter,po/la.po
+"Failed to load theme \""%s\"": %s\n",1606,"Thema \""%s\"" imponi non potuit: %s\n",1607,mutter,po/la.po
+"No <%s> set for theme \""%s\""",1612,"<%s> non est in thema \""%s\""",1613,mutter,po/la.po
+"No \""%s\"" attribute on element <%s>",1638,"Adiunctum \""%s\"" non est in elementis <%s>",1639,mutter,po/la.po
+Applications,97,Opportuna,98,yelp,po/la.po
+Bookmarks,137,Signacula: Bookmark This Page...=Hanc Paginam Signare,138,yelp,po/la.po
+Calculator,153,Calculare,154,yelp,po/la.po
+Desktop,251,Mensa,252,yelp,po/la.po
+Games,405,Ludi,406,yelp,po/la.po
+Graphics,437,Graphica,438,yelp,po/la.po
+Help,477,Auxilium: Help Contents=Adiuvantes Res,478,yelp,po/la.po
+History,481,Paginae Anteriores: Back=Rursus,482,yelp,po/la.po
+Internet,501,Interrete,502,yelp,po/la.po
+Preferences,725,Praeferentiae,726,yelp,po/la.po
+Printing,758,Impressorium,759,yelp,po/la.po
+Sound,1015,Sonus,1016,yelp,po/la.po
+System,1047,Systema,1048,yelp,po/la.po
